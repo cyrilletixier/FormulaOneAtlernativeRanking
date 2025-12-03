@@ -1,58 +1,124 @@
-import json
+import yaml
 import csv
 import os
+import glob
 from collections import defaultdict
 
-def load_config(config_path):
+def load_yaml(file_path):
+    if not os.path.exists(file_path):
+        return None
+    with open(file_path, 'r', encoding='utf-8') as f:
+        return yaml.safe_load(f)
+
+def generate_qualifications_csv(yaml_dir, year, config_path, output_path):
+    # Charger la configuration
     with open(config_path, 'r') as f:
-        return json.load(f)
+        config = yaml.safe_load(f)
 
-def load_f1db_data(json_path):
-    with open(json_path, 'r', encoding='utf-8') as f:
-        return json.load(f)
+    # Charger les noms des pilotes depuis les fichiers individuels
+    driver_id_to_name = {}
+    drivers_dir = f"{yaml_dir}/drivers"
+    if not os.path.exists(drivers_dir):
+        print(f"Erreur : Le dossier {drivers_dir} n'existe pas.")
+        return
 
-def generate_qualifications_csv(f1db_path, config_path, output_dir):
-    config = load_config(config_path)
-    data = load_f1db_data(f1db_path)
-    drivers = {d['id']: d for d in data['drivers']}
+    for driver_file in glob.glob(f"{drivers_dir}/*.yml"):
+        driver_id = os.path.basename(driver_file).replace('.yml', '')
+        driver_data = load_yaml(driver_file)
+        if driver_data:
+            driver_id_to_name[driver_id] = driver_data.get('name', driver_id)
 
-    for season in data['seasons']:
-        year = str(season['year'])
-        races = [r for r in data['races'] if r['year'] == season['year']]
+    # Dictionnaire pour stocker les points des pilotes
+    driver_points = defaultdict(lambda: {'total': 0, 'events': defaultdict(int)})
+    event_columns = set()
 
-        # Calculer les points de qualification
-        driver_points = defaultdict(float)
-        for race in races:
-            if not race.get('qualifyingResults'):
-                continue
+    # Parcourir les circuits de l'année
+    races_dir = f"{yaml_dir}/seasons/{year}/races"
+    if not os.path.exists(races_dir):
+        print(f"Erreur : Le dossier {races_dir} n'existe pas.")
+        return
 
-            for result in race['qualifyingResults']:
-                driver_id = result['driverId']
-                position = str(result['positionNumber'])
-                points = config['points_per_position'].get(position, 0)
-                driver_points[driver_id] += points
+    # Lister les circuits dans l'ordre
+    circuits = sorted(os.listdir(races_dir))
 
-        # Trier et écrire le CSV
-        sorted_drivers = sorted(
-            driver_points.items(),
-            key=lambda x: x[1],
-            reverse=True
-        )
+    for circuit in circuits:
+        circuit_dir = f"{races_dir}/{circuit}"
+        circuit_name = circuit.split('-', 1)[1]  # Extraire le nom du circuit
+        circuit_prefix = circuit_name[:3].upper()
 
-        os.makedirs(f"{output_dir}/{year}", exist_ok=True)
-        with open(f"{output_dir}/{year}/qualifications.csv", 'w', newline='', encoding='utf-8') as f:
-            writer = csv.writer(f)
-            writer.writerow(['Pilote', 'Rang', 'Points'])
-            for rank, (driver_id, points) in enumerate(sorted_drivers, 1):
-                writer.writerow([
-                    drivers[driver_id]['fullName'],
-                    rank,
-                    round(points, 2)
-                ])
+        # Charger les résultats de qualification
+        qualifying_file = f"{circuit_dir}/qualifying-results.yml"
+        sprint_qualifying_file = f"{circuit_dir}/sprint-qualifying-results.yml"
+
+        # Traiter les qualifications normales
+        if os.path.exists(qualifying_file):
+            qualifying_data = load_yaml(qualifying_file)
+            event_id = f"{circuit_prefix}R"
+            event_columns.add(event_id)
+
+            if qualifying_data:
+                for result in qualifying_data:
+                    driver_id = result['driverId']
+                    position = str(result['position'])
+                    points = config['points_per_position'].get(position, 0)
+                    driver_points[driver_id]['total'] += points
+                    driver_points[driver_id]['events'][event_id] += points
+
+        # Traiter les sprint qualifications
+        if os.path.exists(sprint_qualifying_file):
+            sprint_qualifying_data = load_yaml(sprint_qualifying_file)
+            event_id = f"{circuit_prefix}S"
+            event_columns.add(event_id)
+
+            if sprint_qualifying_data:
+                for result in sprint_qualifying_data:
+                    driver_id = result['driverId']
+                    position = str(result['position'])
+                    points = config['points_per_position'].get(position, 0)
+                    driver_points[driver_id]['total'] += points
+                    driver_points[driver_id]['events'][event_id] += points
+
+    # Trier les pilotes par points
+    sorted_drivers = sorted(
+        driver_points.items(),
+        key=lambda x: x[1]['total'],
+        reverse=True
+    )
+
+    # Trier les colonnes des événements
+    sorted_event_columns = sorted(event_columns)
+
+    # Écrire le CSV
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+    with open(output_path, 'w', newline='', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        header = ['Pilote', 'Rang', 'Points'] + sorted_event_columns
+        writer.writerow(header)
+
+        for rank, (driver_id, stats) in enumerate(sorted_drivers, 1):
+            driver_name = driver_id_to_name.get(driver_id, driver_id)
+            row = [driver_name, rank, stats['total']]
+            for event in sorted_event_columns:
+                row.append(stats['events'].get(event, ''))
+            writer.writerow(row)
+
+def get_available_years(yaml_dir):
+    seasons_dir = f"{yaml_dir}/seasons"
+    if not os.path.exists(seasons_dir):
+        print(f"Erreur : Le dossier {seasons_dir} n'existe pas.")
+        return []
+
+    return [d for d in os.listdir(seasons_dir) if os.path.isdir(os.path.join(seasons_dir, d)) and d.isdigit()]
 
 if __name__ == "__main__":
-    f1db_path = "../../f1db/data/f1db.json"
+    yaml_dir = "../../data/f1db/src/data"  # Chemin mis à jour
     config_path = "./config/qualifications_points.json"
-    output_dir = "../../docs/data"
-    generate_qualifications_csv(f1db_path, config_path, output_dir)
-    print(f"Classements qualifications générés dans {output_dir}")
+
+    # Obtenir toutes les années disponibles
+    available_years = get_available_years(yaml_dir)
+    print(f"Années disponibles : {available_years}")
+
+    for year in available_years:
+        output_path = f"../../docs/data/{year}/qualifications.csv"
+        generate_qualifications_csv(yaml_dir, year, config_path, output_path)
+        print(f"Classement des qualifications généré pour {year} : {output_path}")
