@@ -29,13 +29,12 @@ def generate_historique_csv(yaml_dir, config_path, output_path):
         try:
             driver_data = load_yaml(driver_file)
             if driver_data:
-                # Utiliser 'name' au lieu de 'fullName'
                 driver_id_to_name[driver_id] = driver_data.get('name', driver_id)
         except Exception as e:
             print(f"Erreur lors du chargement de {driver_file}: {e}")
 
     # Dictionnaire pour stocker les points des pilotes
-    driver_stats = defaultdict(lambda: {'total': 0, 'periods': defaultdict(float)})
+    driver_stats = defaultdict(lambda: {'total': 0, 'periods': {}})
 
     # Parcourir les fichiers YAML de driver-standings pour chaque année
     for year in config['periods']:
@@ -52,11 +51,12 @@ def generate_historique_csv(yaml_dir, config_path, output_path):
 
             for standing in data:
                 driver_id = standing['driverId']
-                # Utiliser 'name' au lieu de 'fullName'
                 driver_name = driver_id_to_name.get(driver_id, driver_id)
                 position = str(standing['position'])
                 points = config['points_per_position'].get(position, 0)
                 driver_stats[driver_name]['total'] += points
+                if year not in driver_stats[driver_name]['periods']:
+                    driver_stats[driver_name]['periods'][year] = 0
                 driver_stats[driver_name]['periods'][year] += points
         except Exception as e:
             print(f"Erreur lors du traitement de {yaml_file}: {e}")
@@ -76,11 +76,12 @@ def generate_historique_csv(yaml_dir, config_path, output_path):
         writer.writerow(header)
 
         for rank, (driver_name, stats) in enumerate(sorted_drivers, 1):
-            row = [
-                driver_name,
-                rank,
-                stats['total']
-            ] + [stats['periods'].get(year, 0) for year in config['periods']]
+            row = [driver_name, rank, stats['total']]
+            for year in config['periods']:
+                if year in stats['periods'] and stats['periods'][year] > 0:
+                    row.append(stats['periods'][year])
+                else:
+                    row.append('')
             writer.writerow(row)
 
 if __name__ == "__main__":

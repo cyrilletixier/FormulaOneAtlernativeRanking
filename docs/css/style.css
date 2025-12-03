@@ -1,61 +1,19 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 20px;
-}
-
-h1 {
-    text-align: center;
-}
-
-.tabs {
-    display: flex;
-    gap: 10px;
-    margin-bottom: 20px;
-}
-
-.tab-button {
-    padding: 10px 20px;
-    background: #f0f0f0;
-    border: none;
-    cursor: pointer;
-    border-radius: 5px;
-}
-
-.tab-button.active {
-    background: #007BFF;
-    color: white;
-}
-
-.tab-content {
-    display: none;
-}
-
-.tab-content.active {
-    display: block;
-}
-
-.navigation, .year-selector {
-    margin-bottom: 20px;
-}
-
-button {
-    padding: 10px 20px;
-    margin: 0 10px;
-    cursor: pointer;
-}
-
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 20px 0;
-}
-
 th, td {
     border: 1px solid #ddd;
     padding: 8px;
     text-align: center;
+    min-width: 30px; /* Largeur minimale réduite */
+    max-width: 50px; /* Largeur maximale réduite */
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
-th {
-    background-color: #f2f2f2;
+th:not(:nth-child(1)), th:not(:nth-child(2)), th:not(:nth-child(3)) {
+    min-width: 40px; /* Largeur minimale pour les colonnes des années */
+    max-width: 50px; /* Largeur maximale pour les colonnes des années */
+}
+
+td:not(:nth-child(1)), td:not(:nth-child(2)), td:not(:nth-child(3)) {
+    min-width: 40px; /* Largeur minimale pour les colonnes des années */
+    max-width: 50px; /* Largeur maximale pour les colonnes des années */
 }

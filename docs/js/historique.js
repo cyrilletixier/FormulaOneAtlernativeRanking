@@ -55,8 +55,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 <tr>
                     <td>${row[0]}</td>
                     <td>${row[1]}</td>
-                    <td>${row[2]}</td>
-                    ${row.slice(3, 3 + count).map(cell => `<td>${cell}</td>`).join('')}
+                    <td>${parseInt(row[2])}</td>
+                    ${row.slice(3, 3 + count).map(cell => `<td>${parseInt(cell) || cell}</td>`).join('')}
                 </tr>
             `;
             tableBody.innerHTML += rowHtml;
