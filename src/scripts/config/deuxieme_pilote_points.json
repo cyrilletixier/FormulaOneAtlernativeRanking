@@ -1,0 +1,12 @@
+{
+  "description": "Barème de points pour 6 premières positions.",
+  "points_per_position": {
+    "1": 9,
+    "2": 6,
+    "3": 4,
+    "4": 3,
+    "5": 2,
+    "6": 1
+  },
+  "periods": ["2022", "2023"] 
+}
