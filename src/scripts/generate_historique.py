@@ -62,7 +62,7 @@ def generate_historique_csv(yaml_dir, config_path, output_path):
                 position = str(standing['position'])
                 points = config['points_per_position'].get(position, 0)
                 driver_stats[driver_name]['total'] += points
-                driver_stats[driver_name]['periods'][year] = standing.get('points', points)
+                driver_stats[driver_name]['periods'][year] = points  # Utiliser les points liés au classement
         except Exception as e:
             print(f"Erreur lors du traitement de {yaml_file}: {e}")
 
