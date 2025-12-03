@@ -39,6 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const end = Math.min(start + count, years.length);
         rangeSpan.textContent = `${years[start]}-${years[end - 1]}`;
 
+        // Mettre à jour les en-têtes de colonne
         tableHead.innerHTML = `
             <th>Pilote</th>
             <th>Rang</th>
@@ -46,17 +47,22 @@ document.addEventListener('DOMContentLoaded', () => {
             ${years.slice(start, end).map(year => `<th>${year}</th>`).join('')}
         `;
 
+        // Mettre à jour les lignes du tableau
         tableBody.innerHTML = '';
         for (let i = 0; i < data.length; i++) {
             const row = data[i];
             if (row.length < 3) continue;
 
+            // Commence à partir de la colonne 3 (index 3) pour les années
             const rowHtml = `
                 <tr>
                     <td>${row[0]}</td>
                     <td>${row[1]}</td>
                     <td>${parseInt(row[2])}</td>
-                    ${row.slice(3, 3 + count).map(cell => `<td>${parseInt(cell) || cell}</td>`).join('')}
+                    ${row.slice(3 + start, 3 + end).map(cell => {
+                        const value = parseInt(cell);
+                        return `<td>${value ? value : ''}</td>`;
+                    }).join('')}
                 </tr>
             `;
             tableBody.innerHTML += rowHtml;
