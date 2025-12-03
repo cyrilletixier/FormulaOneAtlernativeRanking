@@ -105,10 +105,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 const year = yearDropdown.value;
                 if (tabId === 'qualifications') {
                     updateYearTitle(year, tabId);
-                    loadCSV(`data/${year}/qualifications.csv`, 'table-qualifications');
+                    loadCSV(`../data/${year}/qualifications.csv`, 'table-qualifications');
                 } else if (tabId === 'deuxieme-pilote') {
                     updateYearTitle(year, tabId);
-                    loadCSV(`data/${year}/deuxieme_pilote.csv`, 'table-deuxieme-pilote');
+                    loadCSV(`../data/${year}/deuxieme_pilote.csv`, 'table-deuxieme-pilote');
                 }
             }
         });
@@ -121,10 +121,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (activeTab === 'qualifications') {
             updateYearTitle(year, activeTab);
-            loadCSV(`data/${year}/qualifications.csv`, 'table-qualifications');
+            loadCSV(`../data/${year}/qualifications.csv`, 'table-qualifications');
         } else if (activeTab === 'deuxieme-pilote') {
             updateYearTitle(year, activeTab);
-            loadCSV(`data/${year}/deuxieme_pilote.csv`, 'table-deuxieme-pilote');
+            loadCSV(`../data/${year}/deuxieme_pilote.csv`, 'table-deuxieme-pilote');
         }
     });
 });
