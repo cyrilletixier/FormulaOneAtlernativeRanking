@@ -3,39 +3,69 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Classements Alternatifs F1</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Classements F1</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <h1>Classements Alternatifs F1</h1>
+    <h1>Classements F1</h1>
     <div class="tabs">
-        <button class="tab-button active" data-tab="historique">Historique</button>
+        <button class="tab-button active" data-tab="historique">Classement Historique</button>
         <button class="tab-button" data-tab="qualifications">Qualifications</button>
         <button class="tab-button" data-tab="deuxieme-pilote">2ème Pilote</button>
     </div>
 
-    <!-- Sélecteur d'année (caché par défaut, visible uniquement pour les onglets "Qualifications" et "2ème Pilote") -->
-    <div class="year-selector" id="year-selector" style="display: none;">
-        <label for="year">Année :</label>
-        <select id="year">
-            <option value="2023">2023</option>
-            <option value="2022">2022</option>
-        </select>
-    </div>
-
+    <!-- Classement Historique -->
     <div class="tab-content active" id="historique">
-        <h2>Classement Historique</h2>
-        <table id="table-historique"></table>
-    </div>
-    <div class="tab-content" id="qualifications">
-        <h2>Classement Qualifications <span id="year-title"></span></h2>
-        <table id="table-qualifications"></table>
-    </div>
-    <div class="tab-content" id="deuxieme-pilote">
-        <h2>Classement 2ème Pilote <span id="year-title-deuxieme-pilote"></span></h2>
-        <table id="table-deuxieme-pilote"></table>
+        <div class="navigation">
+            <button id="historique-prev">← Précédent</button>
+            <span id="historique-range">1980-1989</span>
+            <button id="historique-next">Suivant →</button>
+        </div>
+        <table id="historique-table">
+            <thead>
+                <tr><th>Pilote</th><th>Rang</th><th>Points</th></tr>
+            </thead>
+            <tbody id="historique-body"></tbody>
+        </table>
     </div>
 
-    <script src="script.js"></script>
+    <!-- Classement Qualifications -->
+    <div class="tab-content" id="qualifications">
+        <div class="year-selector">
+            <label for="qualif-year">Année :</label>
+            <select id="qualif-year">
+                <option value="2022">2022</option>
+                <option value="2023">2023</option>
+            </select>
+        </div>
+        <table id="qualifications-table">
+            <thead>
+                <tr><th>Pilote</th><th>Rang</th><th>Points</th></tr>
+            </thead>
+            <tbody id="qualifications-body"></tbody>
+        </table>
+    </div>
+
+    <!-- Classement 2ème Pilote -->
+    <div class="tab-content" id="deuxieme-pilote">
+        <div class="year-selector">
+            <label for="deuxieme-year">Année :</label>
+            <select id="deuxieme-year">
+                <option value="2022">2022</option>
+                <option value="2023">2023</option>
+            </select>
+        </div>
+        <table id="deuxieme-pilote-table">
+            <thead>
+                <tr><th>Équipe</th><th>Rang</th><th>Points</th><th>2ème Pilote Principal</th></tr>
+            </thead>
+            <tbody id="deuxieme-pilote-body"></tbody>
+        </table>
+    </div>
+
+    <script src="js/historique.js"></script>
+    <script src="js/qualifications.js"></script>
+    <script src="js/deuxieme_pilote.js"></script>
+    <script src="js/tabs.js"></script>
 </body>
 </html>

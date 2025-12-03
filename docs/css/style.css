@@ -1,11 +1,10 @@
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
-    line-height: 1.6;
 }
 
-h1, h2 {
-    color: #333;
+h1 {
+    text-align: center;
 }
 
 .tabs {
@@ -35,37 +34,28 @@ h1, h2 {
     display: block;
 }
 
-.year-selector {
+.navigation, .year-selector {
     margin-bottom: 20px;
 }
 
-.year-selector select {
-    padding: 8px;
-    border-radius: 5px;
-    margin-left: 10px;
+button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
 }
 
 table {
     width: 100%;
     border-collapse: collapse;
-    margin-top: 20px;
+    margin: 20px 0;
 }
 
 th, td {
     border: 1px solid #ddd;
     padding: 8px;
-    text-align: left;
+    text-align: center;
 }
 
 th {
-    background: #f0f0f0;
-    font-weight: bold;
-}
-
-tr:nth-child(even) {
-    background: #f9f9f9;
-}
-
-tr:hover {
-    background: #f0f0f0;
+    background-color: #f2f2f2;
 }
