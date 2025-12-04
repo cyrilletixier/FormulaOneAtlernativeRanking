@@ -33,7 +33,7 @@ def is_numeric_position(position):
     except ValueError:
         return False
 
-def generate_deuxieme_pilote_annuel(yaml_dir, year, config_path, output_dir):
+def generate_deuxieme_pilote_annuel(yaml_dir, year, config_path, output_dir, script_hash):
     # Charger la configuration
     with open(config_path, 'r') as f:
         config = yaml.safe_load(f)
@@ -68,7 +68,7 @@ def generate_deuxieme_pilote_annuel(yaml_dir, year, config_path, output_dir):
 
     # Vérifier si les données ou le script ont changé
     if os.path.exists(output_file) and os.path.exists(output_hash_file):
-        if previous_hashes.get('source_hash') == source_hash:
+        if previous_hashes.get('source_hash') == source_hash and previous_hashes.get('script_hash') == script_hash:
             print(f"Aucun changement détecté pour {year}, les données ne seront pas régénérées.")
             return
 
@@ -177,7 +177,7 @@ def generate_deuxieme_pilote_annuel(yaml_dir, year, config_path, output_dir):
 
     # Sauvegarder les hashes
     with open(output_hash_file, 'w') as f:
-        yaml.safe_dump({'source_hash': source_hash}, f)
+        yaml.safe_dump({'source_hash': source_hash, 'script_hash': script_hash}, f)
 
 if __name__ == "__main__":
     yaml_dir = "../../data/f1db/src/data"  # Chemin mis à jour
@@ -195,5 +195,7 @@ if __name__ == "__main__":
         exit(1)
 
     for year in available_years:
-        generate_deuxieme_pilote_annuel(yaml_dir, year, config_path, output_dir)
+        generate_deuxieme_pilote_annuel(yaml_dir, year, config_path, output_dir, script_hash)
         print(f"Classement annuel des deuxièmes pilotes généré pour {year}")
+
+
