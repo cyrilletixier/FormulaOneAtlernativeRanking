@@ -2,6 +2,7 @@ import yaml
 import csv
 import os
 import glob
+import hashlib
 from collections import defaultdict
 
 def load_yaml(file_path):
@@ -9,6 +10,13 @@ def load_yaml(file_path):
         return None
     with open(file_path, 'r', encoding='utf-8') as f:
         return yaml.safe_load(f)
+
+def get_file_hash(file_path):
+    if not os.path.exists(file_path):
+        return None
+    with open(file_path, 'rb') as f:
+        file_content = f.read()
+        return hashlib.sha256(file_content).hexdigest()
 
 def get_available_years(yaml_dir):
     seasons_dir = f"{yaml_dir}/seasons"
@@ -18,7 +26,10 @@ def get_available_years(yaml_dir):
 
     return sorted([d for d in os.listdir(seasons_dir) if os.path.isdir(os.path.join(seasons_dir, d)) and d.isdigit()])
 
-def generate_historique_csv(yaml_dir, config_path, output_path):
+def generate_historique_csv(yaml_dir, config_path, output_path, script_hash):
+    # Vérifier si le fichier de sortie existe déjà
+    output_hash_file = f"{output_path}.hash"
+
     # Charger la configuration
     with open(config_path, 'r') as f:
         config = yaml.safe_load(f)
@@ -26,6 +37,29 @@ def generate_historique_csv(yaml_dir, config_path, output_path):
     # Obtenir les années disponibles
     available_years = get_available_years(yaml_dir)
     config['periods'] = available_years
+
+    # Calculer le hash des fichiers sources
+    source_hashes = []
+    for year in available_years:
+        yaml_file = f"{yaml_dir}/seasons/{year}/driver-standings.yml"
+        if os.path.exists(yaml_file):
+            file_hash = get_file_hash(yaml_file)
+            if file_hash:
+                source_hashes.append(file_hash)
+
+    source_hash = hashlib.sha256(''.join(source_hashes).encode()).hexdigest() if source_hashes else None
+
+    # Lire le hash précédent s'il existe
+    previous_hashes = {}
+    if os.path.exists(output_hash_file):
+        with open(output_hash_file, 'r') as f:
+            previous_hashes = yaml.safe_load(f) or {}
+
+    # Vérifier si les données ou le script ont changé
+    if os.path.exists(output_path) and os.path.exists(output_hash_file):
+        if previous_hashes.get('source_hash') == source_hash and previous_hashes.get('script_hash') == script_hash:
+            print(f"Aucun changement détecté, les données ne seront pas régénérées.")
+            return
 
     # Charger les noms des pilotes depuis les fichiers individuels
     driver_id_to_name = {}
@@ -49,13 +83,11 @@ def generate_historique_csv(yaml_dir, config_path, output_path):
         if not os.path.exists(yaml_file):
             print(f"Fichier non trouvé : {yaml_file}")
             continue
-
         try:
             data = load_yaml(yaml_file)
             if not data:
                 print(f"Aucune donnée valide dans {yaml_file}")
                 continue
-
             for standing in data:
                 driver_id = standing['driverId']
                 driver_name = driver_id_to_name.get(driver_id, driver_id)
@@ -71,12 +103,10 @@ def generate_historique_csv(yaml_dir, config_path, output_path):
         yaml_file = f"{yaml_dir}/seasons/{year}/driver-standings.yml"
         if not os.path.exists(yaml_file):
             continue
-
         try:
             data = load_yaml(yaml_file)
             if not data:
                 continue
-
             # Marquer les pilotes présents dans cette année
             for standing in data:
                 driver_id = standing['driverId']
@@ -99,7 +129,6 @@ def generate_historique_csv(yaml_dir, config_path, output_path):
         writer = csv.writer(f)
         header = ['Pilote', 'Rang', 'Points'] + available_years
         writer.writerow(header)
-
         for rank, (driver_name, stats) in enumerate(sorted_drivers, 1):
             row = [driver_name, rank, stats['total']]
             for year in available_years:
@@ -107,10 +136,20 @@ def generate_historique_csv(yaml_dir, config_path, output_path):
                 row.append(stats['periods'].get(year, ''))
             writer.writerow(row)
 
+    # Sauvegarder les hashes
+    with open(output_hash_file, 'w') as f:
+        yaml.safe_dump({'source_hash': source_hash, 'script_hash': script_hash}, f)
+
 if __name__ == "__main__":
-    yaml_dir = "../../data/f1db/src/data"  # Chemin mis à jour
+    yaml_dir = "../../data/f1db/src/data"
     config_path = "./config/historique_points.json"
     output_path = "../../docs/data/historique.csv"
+ 
+    # Vérifier si le script a changé
+    script_hash = get_file_hash(__file__)
+    if not script_hash:
+        print(f"Erreur : Impossible de calculer le hash du script.")
+        exit(1)
 
-    generate_historique_csv(yaml_dir, config_path, output_path)
+    generate_historique_csv(yaml_dir, config_path, output_path, script_hash)
     print(f"Classement historique généré : {output_path}")
