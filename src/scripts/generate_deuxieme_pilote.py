@@ -1,86 +1,199 @@
-import json
+import yaml
 import csv
 import os
+import glob
+import hashlib
 from collections import defaultdict
 
-def load_config(config_path):
+def load_yaml(file_path):
+    if not os.path.exists(file_path):
+        return None
+    with open(file_path, 'r', encoding='utf-8') as f:
+        return yaml.safe_load(f)
+
+def get_file_hash(file_path):
+    if not os.path.exists(file_path):
+        return None
+    with open(file_path, 'rb') as f:
+        file_content = f.read()
+        return hashlib.sha256(file_content).hexdigest()
+
+def get_available_years(yaml_dir):
+    seasons_dir = f"{yaml_dir}/seasons"
+    if not os.path.exists(seasons_dir):
+        print(f"Erreur : Le dossier {seasons_dir} n'existe pas.")
+        return []
+
+    return sorted([d for d in os.listdir(seasons_dir) if os.path.isdir(os.path.join(seasons_dir, d)) and d.isdigit()])
+
+def is_numeric_position(position):
+    try:
+        int(position)
+        return True
+    except ValueError:
+        return False
+
+def generate_deuxieme_pilote_annuel(yaml_dir, year, config_path, output_dir):
+    # Charger la configuration
     with open(config_path, 'r') as f:
-        return json.load(f)
+        config = yaml.safe_load(f)
 
-def load_f1db_data(json_path):
-    with open(json_path, 'r', encoding='utf-8') as f:
-        return json.load(f)
+    # Vérifier si le fichier de sortie existe déjà
+    output_file = f"{output_dir}/{year}/deuxieme_pilote.csv"
+    output_hash_file = f"{output_dir}/{year}/deuxieme_pilote.hash"
 
-def generate_deuxieme_pilote_csv(f1db_path, config_path, output_dir):
-    config = load_config(config_path)
-    data = load_f1db_data(f1db_path)
-    drivers = {d['id']: d for d in data['drivers']}
-    constructors = {c['id']: c for c in data['constructors']}
+    # Vérifier si les données sources ont changé
+    races_dir = f"{yaml_dir}/seasons/{year}/races"
+    if not os.path.exists(races_dir):
+        print(f"Erreur : Le dossier {races_dir} n'existe pas.")
+        return
 
-    for season in data['seasons']:
-        year = str(season['year'])
-        races = [r for r in data['races'] if r['year'] == season['year']]
+    circuits = sorted(os.listdir(races_dir))
+    source_hashes = []
+    for circuit in circuits:
+        circuit_dir = f"{races_dir}/{circuit}"
+        race_file = f"{circuit_dir}/race-results.yml"
+        if os.path.exists(race_file):
+            file_hash = get_file_hash(race_file)
+            if file_hash:
+                source_hashes.append(file_hash)
 
-        # Dictionnaire pour stocker les points des équipes
-        team_points = defaultdict(float)
-        team_second_drivers = defaultdict(list)  # Liste des 2èmes pilotes par équipe
+    source_hash = hashlib.sha256(''.join(source_hashes).encode()).hexdigest() if source_hashes else None
 
-        for race in races:
-            if not race.get('raceResults'):
+    # Lire le hash précédent s'il existe
+    previous_hashes = {}
+    if os.path.exists(output_hash_file):
+        with open(output_hash_file, 'r') as f:
+            previous_hashes = yaml.safe_load(f) or {}
+
+    # Vérifier si les données ou le script ont changé
+    if os.path.exists(output_file) and os.path.exists(output_hash_file):
+        if previous_hashes.get('source_hash') == source_hash:
+            print(f"Aucun changement détecté pour {year}, les données ne seront pas régénérées.")
+            return
+
+    # Dictionnaire pour stocker les points des deuxièmes pilotes par équipe
+    team_points = defaultdict(lambda: {'total': 0, 'events': defaultdict(int)})
+    event_columns = set()
+
+    # Parcourir les circuits de l'année
+    for circuit in circuits:
+        circuit_dir = f"{races_dir}/{circuit}"
+        circuit_name = circuit.split('-', 1)[1]  # Extraire le nom du circuit
+        circuit_prefix = circuit_name[:3].upper()
+
+        # Charger les résultats de course
+        race_file = f"{circuit_dir}/race-results.yml"
+        if not os.path.exists(race_file):
+            print(f"Fichier non trouvé : {race_file}")
+            continue
+
+        try:
+            race_data = load_yaml(race_file)
+            if not race_data:
+                print(f"Aucune donnée valide dans {race_file}")
                 continue
 
-            # Regrouper les résultats par équipe
-            race_results_by_team = defaultdict(list)
-            for result in race['raceResults']:
+            # Dictionnaire pour stocker les pilotes par équipe
+            team_drivers = defaultdict(list)
+
+            # Parcourir les résultats de course
+            for result in race_data:
                 driver_id = result['driverId']
                 constructor_id = result['constructorId']
-                position = result['positionNumber']
-                race_results_by_team[constructor_id].append((driver_id, position))
+                position = str(result['position'])
+                points = result.get('points', 0)
 
-            # Pour chaque équipe, identifier le 2ème pilote (ou le 1er si seul pilote)
-            for constructor_id, results in race_results_by_team.items():
-                # Trier les pilotes de l'équipe par position
-                results.sort(key=lambda x: x[1])  # (driver_id, position)
+                if is_numeric_position(position):
+                    team_drivers[constructor_id].append((driver_id, int(position), points))
 
-                # Prendre le 2ème pilote (index 1) s'il existe, sinon le 1er (index 0)
-                if len(results) >= 2:
-                    second_driver_id, second_position = results[1]
-                    team_second_drivers[constructor_id].append(second_driver_id)
-                    points = config['points_per_position'].get(str(second_position), 0)
-                    team_points[constructor_id] += points
-                elif len(results) == 1:
-                    first_driver_id, first_position = results[0]
-                    points = config['points_per_position'].get(str(first_position), 0)
-                    team_points[constructor_id] += points
+            # Classer les équipes en fonction du classement du deuxième pilote
+            teams_with_second_driver = {}
+            teams_with_single_driver = {}
 
-        # Trier les équipes par points
-        sorted_teams = sorted(
-            team_points.items(),
-            key=lambda x: x[1],
-            reverse=True
-        )
+            for constructor_id, drivers in team_drivers.items():
+                if len(drivers) >= 2:
+                    # Trier les pilotes par position
+                    drivers_sorted = sorted(drivers, key=lambda x: x[1])
+                    second_driver_position = drivers_sorted[1][1]  # Position du deuxième pilote
+                    teams_with_second_driver[constructor_id] = (second_driver_position, drivers_sorted[0][1])  # (position du 2ème pilote, position du 1er pilote)
+                elif len(drivers) == 1:
+                    first_driver_position = drivers[0][1]
+                    teams_with_single_driver[constructor_id] = first_driver_position
 
-        # Écrire le CSV
-        os.makedirs(f"{output_dir}/{year}", exist_ok=True)
-        with open(f"{output_dir}/{year}/deuxieme_pilote.csv", 'w', newline='', encoding='utf-8') as f:
-            writer = csv.writer(f)
-            writer.writerow(['Équipe', 'Rang', 'Points', '2ème Pilote Principal'])
+            # Trier les équipes avec deux pilotes en fonction de la position du deuxième pilote
+            sorted_teams_with_second_driver = sorted(teams_with_second_driver.items(), key=lambda x: x[1][0])
 
-            for rank, (constructor_id, points) in enumerate(sorted_teams, 1):
-                # Trouver le 2ème pilote principal (le plus fréquent)
-                second_driver_id = max(set(team_second_drivers[constructor_id]), key=team_second_drivers[constructor_id].count) if team_second_drivers[constructor_id] else "N/A"
-                second_driver_name = drivers.get(second_driver_id, {}).get('fullName', 'N/A')
+            # Trier les équipes avec un seul pilote en fonction de la position du premier pilote
+            sorted_teams_with_single_driver = sorted(teams_with_single_driver.items(), key=lambda x: x[1])
 
-                writer.writerow([
-                    constructors[constructor_id]['name'],
-                    rank,
-                    round(points, 2),
-                    second_driver_name
-                ])
+            # Fusionner les deux listes
+            sorted_teams = sorted_teams_with_second_driver + sorted_teams_with_single_driver
+
+            # Attribuer les points selon le rang
+            for rank, (constructor_id, _) in enumerate(sorted_teams, start=1):
+                points = config['points_per_position'].get(str(rank), 0)
+                team_points[constructor_id]['total'] += points
+                team_points[constructor_id]['events'][circuit_prefix] = points
+
+            event_columns.add(circuit_prefix)
+
+        except Exception as e:
+            print(f"Erreur lors du traitement de {race_file}: {e}")
+
+    # Charger les noms des constructeurs
+    constructors_dir = f"{yaml_dir}/constructors"
+    constructor_id_to_name = {}
+    for constructor_file in glob.glob(f"{constructors_dir}/*.yml"):
+        constructor_id = os.path.basename(constructor_file).replace('.yml', '')
+        constructor_data = load_yaml(constructor_file)
+        if constructor_data:
+            constructor_id_to_name[constructor_id] = constructor_data.get('name', constructor_id)
+
+    # Trier les équipes par points totaux
+    sorted_teams = sorted(
+        team_points.items(),
+        key=lambda x: x[1]['total'],
+        reverse=True
+    )
+
+    # Trier les colonnes des événements
+    sorted_event_columns = sorted(event_columns)
+
+    # Écrire le CSV pour cette année
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
+
+    with open(output_file, 'w', newline='', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        header = ['Équipe', 'Rang', 'Points'] + sorted_event_columns
+        writer.writerow(header)
+
+        for rank, (constructor_id, stats) in enumerate(sorted_teams, 1):
+            constructor_name = constructor_id_to_name.get(constructor_id, constructor_id)
+            row = [constructor_name, rank, stats['total']]
+            for event in sorted_event_columns:
+                row.append(stats['events'].get(event, ''))
+            writer.writerow(row)
+
+    # Sauvegarder les hashes
+    with open(output_hash_file, 'w') as f:
+        yaml.safe_dump({'source_hash': source_hash}, f)
 
 if __name__ == "__main__":
-    f1db_path = "../../f1db/data/f1db.json"
+    yaml_dir = "../../data/f1db/src/data"  # Chemin mis à jour
     config_path = "./config/deuxieme_pilote_points.json"
     output_dir = "../../docs/data"
-    generate_deuxieme_pilote_csv(f1db_path, config_path, output_dir)
-    print(f"Classements 2ème pilote (par équipe) générés dans {output_dir}")
+
+    # Obtenir toutes les années disponibles
+    available_years = get_available_years(yaml_dir)
+    print(f"Années disponibles : {available_years}")
+
+    # Vérifier si le script a changé
+    script_hash = get_file_hash(__file__)
+    if not script_hash:
+        print(f"Erreur : Impossible de calculer le hash du script.")
+        exit(1)
+
+    for year in available_years:
+        generate_deuxieme_pilote_annuel(yaml_dir, year, config_path, output_dir)
+        print(f"Classement annuel des deuxièmes pilotes généré pour {year}")

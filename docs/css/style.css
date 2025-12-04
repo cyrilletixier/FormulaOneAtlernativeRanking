@@ -207,3 +207,47 @@ td:empty {
         font-size: 0.8rem;
     }
 }
+/* Style pour le tableau avec header fixe */
+.table-container {
+    max-height: 60vh; /* Ajuste la hauteur maximale selon tes besoins */
+    overflow-y: auto;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    box-shadow: 0 4px 15px var(--shadow-color);
+    margin-bottom: 20px;
+}
+
+#historique-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#historique-table thead {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+#historique-table th {
+    background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 500;
+    padding: 12px;
+    text-align: center;
+}
+
+#historique-table th, #historique-table td {
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 12px;
+    text-align: center;
+    color: var(--light-color);
+}
+
+#historique-table tr:nth-child(even) {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+#historique-table tr:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}

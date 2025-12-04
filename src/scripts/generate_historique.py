@@ -66,6 +66,26 @@ def generate_historique_csv(yaml_dir, config_path, output_path):
         except Exception as e:
             print(f"Erreur lors du traitement de {yaml_file}: {e}")
 
+    # Vérifier les pilotes présents dans chaque année
+    for year in available_years:
+        yaml_file = f"{yaml_dir}/seasons/{year}/driver-standings.yml"
+        if not os.path.exists(yaml_file):
+            continue
+
+        try:
+            data = load_yaml(yaml_file)
+            if not data:
+                continue
+
+            # Marquer les pilotes présents dans cette année
+            for standing in data:
+                driver_id = standing['driverId']
+                driver_name = driver_id_to_name.get(driver_id, driver_id)
+                if year not in driver_stats[driver_name]['periods']:
+                    driver_stats[driver_name]['periods'][year] = 0  # 0 si présent mais sans points
+        except Exception as e:
+            print(f"Erreur lors du traitement de {yaml_file}: {e}")
+
     # Trier les pilotes par points totaux
     sorted_drivers = sorted(
         driver_stats.items(),
@@ -83,6 +103,7 @@ def generate_historique_csv(yaml_dir, config_path, output_path):
         for rank, (driver_name, stats) in enumerate(sorted_drivers, 1):
             row = [driver_name, rank, stats['total']]
             for year in available_years:
+                # Afficher 0 si le pilote est présent dans le classement de l'année mais n'a pas de points
                 row.append(stats['periods'].get(year, ''))
             writer.writerow(row)
 
