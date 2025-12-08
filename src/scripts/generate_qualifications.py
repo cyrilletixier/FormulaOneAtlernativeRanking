@@ -23,22 +23,37 @@ def get_available_years(yaml_dir):
     if not os.path.exists(seasons_dir):
         print(f"Erreur : Le dossier {seasons_dir} n'existe pas.")
         return []
-
     return sorted([d for d in os.listdir(seasons_dir) if os.path.isdir(os.path.join(seasons_dir, d)) and d.isdigit()])
 
-def generate_qualifications_csv(yaml_dir, year, config_path, output_path, script_hash):
-    # Vérifier si le fichier de sortie existe déjà
-    output_hash_file = f"{output_path}.hash"
+def should_regenerate(output_path, output_hash_file, source_hash, script_hash):
+    if not os.path.exists(output_path) or not os.path.exists(output_hash_file):
+        return True
 
-    # Charger la configuration
-    with open(config_path, 'r') as f:
-        config = yaml.safe_load(f)
+    previous_hashes = {}
+    with open(output_hash_file, 'r') as f:
+        previous_hashes = yaml.safe_load(f) or {}
 
-    # Vérifier si les données sources ont changé
+    return previous_hashes.get('source_hash') != source_hash or previous_hashes.get('script_hash') != script_hash
+
+def load_driver_names(yaml_dir):
+    driver_id_to_name = {}
+    drivers_dir = f"{yaml_dir}/drivers"
+    if not os.path.exists(drivers_dir):
+        print(f"Erreur : Le dossier {drivers_dir} n'existe pas.")
+        return {}
+
+    for driver_file in glob.glob(f"{drivers_dir}/*.yml"):
+        driver_id = os.path.basename(driver_file).replace('.yml', '')
+        driver_data = load_yaml(driver_file)
+        if driver_data:
+            driver_id_to_name[driver_id] = driver_data.get('name', driver_id)
+    return driver_id_to_name
+
+def calculate_source_hash(yaml_dir, year):
     races_dir = f"{yaml_dir}/seasons/{year}/races"
     if not os.path.exists(races_dir):
         print(f"Erreur : Le dossier {races_dir} n'existe pas.")
-        return
+        return None
 
     circuits = sorted(os.listdir(races_dir))
     source_hashes = []
@@ -47,97 +62,82 @@ def generate_qualifications_csv(yaml_dir, year, config_path, output_path, script
         qualifying_file = f"{circuit_dir}/qualifying-results.yml"
         sprint_qualifying_file = f"{circuit_dir}/sprint-qualifying-results.yml"
 
-        if os.path.exists(qualifying_file):
-            file_hash = get_file_hash(qualifying_file)
-            if file_hash:
-                source_hashes.append(file_hash)
+        for file_path in [qualifying_file, sprint_qualifying_file]:
+            if os.path.exists(file_path):
+                file_hash = get_file_hash(file_path)
+                if file_hash:
+                    source_hashes.append(file_hash)
 
-        if os.path.exists(sprint_qualifying_file):
-            file_hash = get_file_hash(sprint_qualifying_file)
-            if file_hash:
-                source_hashes.append(file_hash)
+    return hashlib.sha256(''.join(source_hashes).encode()).hexdigest() if source_hashes else None
 
-    source_hash = hashlib.sha256(''.join(source_hashes).encode()).hexdigest() if source_hashes else None
-
-    # Lire le hash précédent s'il existe
-    previous_hashes = {}
-    if os.path.exists(output_hash_file):
-        with open(output_hash_file, 'r') as f:
-            previous_hashes = yaml.safe_load(f) or {}
-
-    # Vérifier si les données ou le script ont changé
-    if os.path.exists(output_path) and os.path.exists(output_hash_file):
-        if previous_hashes.get('source_hash') == source_hash and previous_hashes.get('script_hash') == script_hash:
-            print(f"Aucun changement détecté pour {year}, les données ne seront pas régénérées.")
-            return
-
-    # Charger les noms des pilotes depuis les fichiers individuels
-    driver_id_to_name = {}
-    drivers_dir = f"{yaml_dir}/drivers"
-    if not os.path.exists(drivers_dir):
-        print(f"Erreur : Le dossier {drivers_dir} n'existe pas.")
+def process_qualifying_results(qualifying_data, config, event_id, driver_points, driver_id_to_name):
+    if not qualifying_data:
         return
 
-    for driver_file in glob.glob(f"{drivers_dir}/*.yml"):
-        driver_id = os.path.basename(driver_file).replace('.yml', '')
-        driver_data = load_yaml(driver_file)
-        if driver_data:
-            driver_id_to_name[driver_id] = driver_data.get('name', driver_id)
+    # Filtrer uniquement les résultats de Q3
+    q3_results = [result for result in qualifying_data if result.get('q3') is not None]
+    if not q3_results:
+        q3_results = qualifying_data  # Si pas de Q3, prendre tous les résultats
+
+    # Trier les résultats par position
+    q3_results_sorted = sorted(q3_results, key=lambda x: int(x['position']))
+
+    # Attribuer les points selon le barème
+    for result in q3_results_sorted:
+        driver_id = result['driverId']
+        position = str(result['position'])
+        points = config['points_per_position'].get(position, 0)
+        driver_points[driver_id]['total'] += points
+        driver_points[driver_id]['events'][event_id] = points
+
+def generate_qualifications_csv(yaml_dir, year, config_path, output_path, script_hash):
+    output_hash_file = f"{output_path}.hash"
+
+    # Charger la configuration
+    with open(config_path, 'r') as f:
+        config = yaml.safe_load(f)
+
+    # Calculer le hash des fichiers sources
+    source_hash = calculate_source_hash(yaml_dir, year)
+    if source_hash is None:
+        return
+
+    # Vérifier si les données ou le script ont changé
+    if not should_regenerate(output_path, output_hash_file, source_hash, script_hash):
+        print(f"Aucun changement détecté pour {year}, les données ne seront pas régénérées.")
+        return
+
+    # Charger les noms des pilotes
+    driver_id_to_name = load_driver_names(yaml_dir)
 
     # Dictionnaire pour stocker les points des pilotes
     driver_points = defaultdict(lambda: {'total': 0, 'events': defaultdict(int)})
     event_columns = set()
 
     # Parcourir les circuits de l'année
+    races_dir = f"{yaml_dir}/seasons/{year}/races"
+    circuits = sorted(os.listdir(races_dir))
+
     for circuit in circuits:
         circuit_dir = f"{races_dir}/{circuit}"
-        circuit_name = circuit.split('-', 1)[1]  # Extraire le nom du circuit
+        circuit_name = circuit.split('-', 1)[1]
         circuit_prefix = circuit_name[:3].upper()
 
-        # Charger les résultats de qualification
-        qualifying_file = f"{circuit_dir}/qualifying-results.yml"
-        sprint_qualifying_file = f"{circuit_dir}/sprint-qualifying-results.yml"
-
         # Traiter les qualifications normales
+        qualifying_file = f"{circuit_dir}/qualifying-results.yml"
         if os.path.exists(qualifying_file):
             qualifying_data = load_yaml(qualifying_file)
             event_id = f"{circuit_prefix}R"
             event_columns.add(event_id)
-            if qualifying_data:
-                # Filtrer uniquement les résultats de Q3
-                q3_results = [result for result in qualifying_data if result.get('q3', '')]
-                if not q3_results:
-                    q3_results = qualifying_data  # Si pas de Q3, prendre tous les résultats
-
-                # Réinitialiser les points pour cette session
-                session_points = defaultdict(int)
-                for result in q3_results:
-                    driver_id = result['driverId']
-                    position = str(result['position'])
-                    points = config['points_per_position'].get(position, 0)
-                    session_points[driver_id] = points  # Remplacer les points, ne pas additionner
-
-                for driver_id, points in session_points.items():
-                    driver_points[driver_id]['total'] += points
-                    driver_points[driver_id]['events'][event_id] = points  # Remplacer les points pour cet événement
+            process_qualifying_results(qualifying_data, config, event_id, driver_points, driver_id_to_name)
 
         # Traiter les sprint qualifications
+        sprint_qualifying_file = f"{circuit_dir}/sprint-qualifying-results.yml"
         if os.path.exists(sprint_qualifying_file):
             sprint_qualifying_data = load_yaml(sprint_qualifying_file)
             event_id = f"{circuit_prefix}S"
             event_columns.add(event_id)
-            if sprint_qualifying_data:
-                # Réinitialiser les points pour cette session
-                session_points = defaultdict(int)
-                for result in sprint_qualifying_data:
-                    driver_id = result['driverId']
-                    position = str(result['position'])
-                    points = config['points_per_position'].get(position, 0)
-                    session_points[driver_id] = points  # Remplacer les points, ne pas additionner
-
-                for driver_id, points in session_points.items():
-                    driver_points[driver_id]['total'] += points
-                    driver_points[driver_id]['events'][event_id] = points  # Remplacer les points pour cet événement
+            process_qualifying_results(sprint_qualifying_data, config, event_id, driver_points, driver_id_to_name)
 
     # Trier les pilotes par points
     sorted_drivers = sorted(
@@ -167,7 +167,7 @@ def generate_qualifications_csv(yaml_dir, year, config_path, output_path, script
         yaml.safe_dump({'source_hash': source_hash, 'script_hash': script_hash}, f)
 
 if __name__ == "__main__":
-    yaml_dir = "../../data/f1db/src/data"  # Chemin mis à jour
+    yaml_dir = "../../data/f1db/src/data"
     config_path = "./config/qualifications_points.json"
 
     # Obtenir toutes les années disponibles
