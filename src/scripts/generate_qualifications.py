@@ -23,6 +23,7 @@ def get_available_years(yaml_dir):
     if not os.path.exists(seasons_dir):
         print(f"Erreur : Le dossier {seasons_dir} n'existe pas.")
         return []
+
     return sorted([d for d in os.listdir(seasons_dir) if os.path.isdir(os.path.join(seasons_dir, d)) and d.isdigit()])
 
 def should_regenerate(output_path, output_hash_file, source_hash, script_hash):
@@ -70,14 +71,21 @@ def calculate_source_hash(yaml_dir, year):
 
     return hashlib.sha256(''.join(source_hashes).encode()).hexdigest() if source_hashes else None
 
-def process_qualifying_results(qualifying_data, config, event_id, driver_points, driver_id_to_name):
+def is_numeric_position(position):
+    try:
+        int(position)
+        return True
+    except ValueError:
+        return False
+
+def process_qualifying_results(qualifying_data, config, event_id, driver_points):
     if not qualifying_data:
         return
 
-    # Filtrer uniquement les résultats de Q3
-    q3_results = [result for result in qualifying_data if result.get('q3') is not None]
+    # Filtrer uniquement les résultats de Q3 et les positions numériques
+    q3_results = [result for result in qualifying_data if result.get('q3') is not None and is_numeric_position(str(result['position']))]
     if not q3_results:
-        q3_results = qualifying_data  # Si pas de Q3, prendre tous les résultats
+        q3_results = [result for result in qualifying_data if is_numeric_position(str(result['position']))]  # Si pas de Q3, prendre tous les résultats numériques
 
     # Trier les résultats par position
     q3_results_sorted = sorted(q3_results, key=lambda x: int(x['position']))
@@ -129,7 +137,7 @@ def generate_qualifications_csv(yaml_dir, year, config_path, output_path, script
             qualifying_data = load_yaml(qualifying_file)
             event_id = f"{circuit_prefix}R"
             event_columns.add(event_id)
-            process_qualifying_results(qualifying_data, config, event_id, driver_points, driver_id_to_name)
+            process_qualifying_results(qualifying_data, config, event_id, driver_points)
 
         # Traiter les sprint qualifications
         sprint_qualifying_file = f"{circuit_dir}/sprint-qualifying-results.yml"
@@ -137,7 +145,7 @@ def generate_qualifications_csv(yaml_dir, year, config_path, output_path, script
             sprint_qualifying_data = load_yaml(sprint_qualifying_file)
             event_id = f"{circuit_prefix}S"
             event_columns.add(event_id)
-            process_qualifying_results(sprint_qualifying_data, config, event_id, driver_points, driver_id_to_name)
+            process_qualifying_results(sprint_qualifying_data, config, event_id, driver_points)
 
     # Trier les pilotes par points
     sorted_drivers = sorted(
