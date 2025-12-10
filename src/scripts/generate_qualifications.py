@@ -112,8 +112,7 @@ def generate_qualifications_csv(yaml_dir, year, config_path, output_path, script
 
     # Vérifier si les données ou le script ont changé
     if not should_regenerate(output_path, output_hash_file, source_hash, script_hash):
-        print(f"Aucun changement détecté pour {year}, les données ne seront pas régénérées.")
-        return
+        return 'cache'
 
     # Charger les noms des pilotes
     driver_id_to_name = load_driver_names(yaml_dir)
@@ -188,7 +187,14 @@ if __name__ == "__main__":
         print(f"Erreur : Impossible de calculer le hash du script.")
         exit(1)
 
+    cache_count = 0
+    generated_count = 0
     for year in available_years:
         output_path = f"../../docs/data/{year}/qualifications.csv"
-        generate_qualifications_csv(yaml_dir, year, config_path, output_path, script_hash)
-        print(f"Classement des qualifications généré pour {year} : {output_path}")
+        result = generate_qualifications_csv(yaml_dir, year, config_path, output_path, script_hash)
+        if result == 'cache':
+            cache_count += 1
+        else:
+            generated_count += 1
+            print(f"Classement des qualifications généré pour {year} : {output_path}")
+    print(f"Résumé : {cache_count} années ont utilisé le cache, {generated_count} années régénérées.")

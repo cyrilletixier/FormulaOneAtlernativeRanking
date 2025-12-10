@@ -1,3 +1,12 @@
+/* Colonnes verticales et étroites à partir de la 3ème colonne */
+th:nth-child(n+4) {
+  writing-mode: vertical-lr;
+  text-orientation: mixed;
+  min-width: 24px;
+  max-width: 32px;
+  padding: 4px 2px;
+  font-size: 0.8rem;
+}
 :root {
   --primary-color: #2c3e50;
   --secondary-color: #3498db;

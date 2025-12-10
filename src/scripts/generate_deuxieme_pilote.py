@@ -69,18 +69,19 @@ def generate_deuxieme_pilote_annuel(yaml_dir, year, config_path, output_dir, scr
     # Vérifier si les données ou le script ont changé
     if os.path.exists(output_file) and os.path.exists(output_hash_file):
         if previous_hashes.get('source_hash') == source_hash and previous_hashes.get('script_hash') == script_hash:
-            print(f"Aucun changement détecté pour {year}, les données ne seront pas régénérées.")
-            return
+            return 'cache'
 
     # Dictionnaire pour stocker les points des deuxièmes pilotes par équipe
     team_points = defaultdict(lambda: {'total': 0, 'events': defaultdict(int)})
-    event_columns = set()
+    event_columns = []
 
     # Parcourir les circuits de l'année
     for circuit in circuits:
         circuit_dir = f"{races_dir}/{circuit}"
-        circuit_name = circuit.split('-', 1)[1]  # Extraire le nom du circuit
-        circuit_prefix = circuit_name[:3].upper()
+        # circuit = '01-great-britain', '02-monaco', ...
+        circuit_prefix = circuit.split('-', 1)[1][:3].upper()
+        if circuit_prefix not in event_columns:
+            event_columns.append(circuit_prefix)
 
         # Charger les résultats de course
         race_file = f"{circuit_dir}/race-results.yml"
@@ -136,7 +137,8 @@ def generate_deuxieme_pilote_annuel(yaml_dir, year, config_path, output_dir, scr
                 team_points[constructor_id]['total'] += points
                 team_points[constructor_id]['events'][circuit_prefix] = points
 
-            event_columns.add(circuit_prefix)
+            if circuit_prefix not in event_columns:
+                event_columns.append(circuit_prefix)
 
         except Exception as e:
             print(f"Erreur lors du traitement de {race_file}: {e}")
@@ -157,8 +159,8 @@ def generate_deuxieme_pilote_annuel(yaml_dir, year, config_path, output_dir, scr
         reverse=True
     )
 
-    # Trier les colonnes des événements
-    sorted_event_columns = sorted(event_columns)
+    # Utiliser l'ordre des colonnes événements selon l'ordre des fichiers (déjà dans event_columns)
+    sorted_event_columns = event_columns
 
     # Écrire le CSV pour cette année
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
@@ -194,8 +196,15 @@ if __name__ == "__main__":
         print(f"Erreur : Impossible de calculer le hash du script.")
         exit(1)
 
+    cache_count = 0
+    generated_count = 0
     for year in available_years:
-        generate_deuxieme_pilote_annuel(yaml_dir, year, config_path, output_dir, script_hash)
-        print(f"Classement annuel des deuxièmes pilotes généré pour {year}")
+        result = generate_deuxieme_pilote_annuel(yaml_dir, year, config_path, output_dir, script_hash)
+        if result == 'cache':
+            cache_count += 1
+        else:
+            generated_count += 1
+            print(f"Classement annuel des deuxièmes pilotes généré pour {year}")
+    print(f"Résumé : {cache_count} années ont utilisé le cache, {generated_count} années régénérées.")
 
 

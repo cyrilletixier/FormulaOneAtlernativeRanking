@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Charger les années disponibles
     async function loadYears() {
         try {
-            const response = await fetch('../../docs/data/historique.csv');
+            const response = await fetch('data/historique.csv');
             const data = await response.text();
             const rows = data.split('\n');
             if (rows.length > 0) {
@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Charger les données pour une année spécifique
     async function loadDeuxiemePiloteData(year) {
         try {
-            const response = await fetch(`../../docs/data/${year}/deuxieme_pilote.csv`);
+            const response = await fetch(`data/${year}/deuxieme_pilote.csv`);
             const data = await response.text();
             const rows = data.split('\n').map(row => row.split(','));
             const header = rows[0];

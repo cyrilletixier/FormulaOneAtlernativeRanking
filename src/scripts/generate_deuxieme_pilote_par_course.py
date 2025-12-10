@@ -65,7 +65,7 @@ def generate_deuxieme_pilote_par_course(yaml_dir, year, config, output_dir):
     # Vérifier si les données ou le script ont changé
     if os.path.exists(output_file) and os.path.exists(output_hash_file):
         if previous_hashes.get('source_hash') == source_hash:
-            print(f"Aucun changement détecté pour {year}, les données ne seront pas régénérées.")
+            # Suppression du log verbeux
             return
 
     # Dictionnaire pour stocker les points des deuxièmes pilotes par équipe
@@ -209,5 +209,9 @@ if __name__ == "__main__":
         exit(1)
 
     for year in available_years:
+        before = os.path.exists(f"{output_dir}/{year}.csv")
         generate_deuxieme_pilote_par_course(yaml_dir, year, config, output_dir)
-        print(f"Classements des deuxièmes pilotes par course générés pour {year}")
+        after = os.path.exists(f"{output_dir}/{year}.csv")
+        # Afficher le log uniquement si le fichier a été généré ou modifié
+        if not before or (before and not os.path.exists(f"{output_dir}/{year}.hash")):
+            print(f"Classements des deuxièmes pilotes par course générés pour {year}")
