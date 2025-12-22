@@ -78,7 +78,6 @@ def generate_deuxieme_pilote_annuel(yaml_dir, year, config_path, output_dir, scr
     # Parcourir les circuits de l'année
     for circuit in circuits:
         circuit_dir = f"{races_dir}/{circuit}"
-        # circuit = '01-great-britain', '02-monaco', ...
         circuit_prefix = circuit.split('-', 1)[1][:3].upper()
         if circuit_prefix not in event_columns:
             event_columns.append(circuit_prefix)
@@ -193,7 +192,7 @@ if __name__ == "__main__":
     # Vérifier si le script a changé
     script_hash = get_file_hash(__file__)
     if not script_hash:
-        print(f"Erreur : Impossible de calculer le hash du script.")
+        print("Erreur : Impossible de calculer le hash du script.")
         exit(1)
 
     cache_count = 0

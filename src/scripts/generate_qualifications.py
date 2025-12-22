@@ -184,7 +184,7 @@ if __name__ == "__main__":
     # Vérifier si le script a changé
     script_hash = get_file_hash(__file__)
     if not script_hash:
-        print(f"Erreur : Impossible de calculer le hash du script.")
+        print("Erreur : Impossible de calculer le hash du script.")
         exit(1)
 
     cache_count = 0

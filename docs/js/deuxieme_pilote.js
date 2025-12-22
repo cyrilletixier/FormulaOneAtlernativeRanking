@@ -16,12 +16,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 // Mettre à jour le sélecteur d'année
                 yearSelector.innerHTML = '';
-                years.forEach(year => {
+                for (const year of years) {
                     const option = document.createElement('option');
                     option.value = year;
                     option.textContent = year;
                     yearSelector.appendChild(option);
-                });
+                }
 
                 // Charger les données pour la première année
                 if (years.length > 0) {
@@ -43,11 +43,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // Mettre à jour les en-têtes de colonne
             tableHead.innerHTML = '';
-            header.forEach(column => {
+            for (const column of header) {
                 const th = document.createElement('th');
                 th.textContent = column;
                 tableHead.appendChild(th);
-            });
+            }
 
             // Mettre à jour les lignes du tableau
             tableBody.innerHTML = '';
@@ -56,11 +56,11 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (row.length < 3) continue;
 
                 const tr = document.createElement('tr');
-                row.forEach(cell => {
+                for (const cell of row) {
                     const td = document.createElement('td');
                     td.textContent = cell || '';
                     tr.appendChild(td);
-                });
+                }
                 tableBody.appendChild(tr);
             }
         } catch (error) {
