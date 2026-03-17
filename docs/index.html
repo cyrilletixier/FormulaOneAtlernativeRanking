@@ -105,6 +105,7 @@
                     <select id="elo-view">
                         <option value="driver">Par pilote</option>
                         <option value="race">Par course</option>
+                        <option value="age">ELO moyen / âge</option>
                     </select>
                 </div>
 
@@ -124,7 +125,11 @@
                 </div>
             </div>
 
-            <div class="table-container">
+            <div class="chart-container" id="elo-age-container" style="display:none">
+                <div id="elo-age-chart" class="elo-chart" aria-label="Graphique ELO moyen par âge"></div>
+            </div>
+
+            <div class="table-container" id="elo-table-container">
                 <table id="elo-table">
                     <thead>
                         <tr id="elo-head-row">
