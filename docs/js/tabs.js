@@ -4,6 +4,9 @@ document.addEventListener('DOMContentLoaded', () => {
         button.addEventListener('click', () => {
             const tabId = button.getAttribute('data-tab');
 
+            // Certains boutons sont des liens (pas des onglets).
+            if (!tabId) return;
+
             document.querySelectorAll('.tab-content').forEach(content => {
                 content.classList.remove('active');
             });
