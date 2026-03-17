@@ -1,0 +1,9 @@
+{
+  "k": 24,
+  "initial_elo": 1500,
+  "scale": 400,
+  "include_statuses": ["ALL"],
+  "bottom_tier_statuses": ["DSQ", "DNS", "DNQ"],
+  "sort_rule": "numeric_position_then_laps_then_bottom_tier",
+  "tie_rule": "exact_rank_key"
+}

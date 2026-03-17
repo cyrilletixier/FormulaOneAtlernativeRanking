@@ -17,6 +17,7 @@
                 <button class="tab-button active" data-tab="historique">Classement Historique</button>
                 <button class="tab-button" data-tab="qualifications">Qualifications</button>
                 <button class="tab-button" data-tab="deuxieme-pilote">2ème Pilote</button>
+                <button class="tab-button" data-tab="elo">ELO</button>
             </nav>
         </header>
 
@@ -96,6 +97,44 @@
                 </table>
             </div>
         </div>
+
+        <div class="tab-content" id="elo">
+            <div class="controls">
+                <div class="year-selector">
+                    <label for="elo-view">Vue :</label>
+                    <select id="elo-view">
+                        <option value="driver">Par pilote</option>
+                        <option value="race">Par course</option>
+                    </select>
+                </div>
+
+                <div class="year-selector" id="elo-driver-selector">
+                    <label for="elo-driver">Pilote :</label>
+                    <select id="elo-driver"></select>
+                </div>
+
+                <div class="year-selector" id="elo-year-selector" style="display:none">
+                    <label for="elo-year">Année :</label>
+                    <select id="elo-year"></select>
+                </div>
+
+                <div class="year-selector" id="elo-race-selector" style="display:none">
+                    <label for="elo-race">Course :</label>
+                    <select id="elo-race"></select>
+                </div>
+            </div>
+
+            <div class="table-container">
+                <table id="elo-table">
+                    <thead>
+                        <tr id="elo-head-row">
+                            <th>Chargement…</th>
+                        </tr>
+                    </thead>
+                    <tbody id="elo-body"></tbody>
+                </table>
+            </div>
+        </div>
     </div>
 
     <script src="script.js"></script>
@@ -103,5 +142,6 @@
     <script src="js/historique.js"></script>
     <script src="js/qualifications.js"></script>
     <script src="js/deuxieme_pilote.js"></script>
+    <script src="js/elo.js"></script>
 </body>
 </html>

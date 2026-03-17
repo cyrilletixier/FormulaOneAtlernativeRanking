@@ -1,5 +1,7 @@
 /* Colonnes verticales et étroites à partir de la 3ème colonne */
-th:nth-child(n+4) {
+#historique-table th:nth-child(n+4),
+#qualifications-table th:nth-child(n+4),
+#deuxieme-pilote-table th:nth-child(n+4) {
   writing-mode: vertical-lr;
   text-orientation: mixed;
   min-width: 24px;

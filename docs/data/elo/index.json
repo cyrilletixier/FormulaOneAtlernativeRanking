@@ -1,0 +1,390 @@
+{
+  "k": 24.0,
+  "initialElo": 1500.0,
+  "drivers": [
+    {
+      "id": "alberto-ascari",
+      "name": "Alberto Ascari"
+    },
+    {
+      "id": "alfredo-pian",
+      "name": "Alfredo Pián"
+    },
+    {
+      "id": "bayliss-levrett",
+      "name": "Bayliss Levrett"
+    },
+    {
+      "id": "bill-cantrell",
+      "name": "Bill Cantrell"
+    },
+    {
+      "id": "bill-holland",
+      "name": "Bill Holland"
+    },
+    {
+      "id": "bill-schindler",
+      "name": "Bill Schindler"
+    },
+    {
+      "id": "birabongse-bhanudej",
+      "name": "Birabongse Bhanudej"
+    },
+    {
+      "id": "bob-gerard",
+      "name": "Bob Gerard"
+    },
+    {
+      "id": "brian-shawe-taylor",
+      "name": "Brian Shawe-Taylor"
+    },
+    {
+      "id": "cecil-green",
+      "name": "Cecil Green"
+    },
+    {
+      "id": "charles-pozzi",
+      "name": "Charles Pozzi"
+    },
+    {
+      "id": "clemente-biondetti",
+      "name": "Clemente Biondetti"
+    },
+    {
+      "id": "consalvo-sanesi",
+      "name": "Consalvo Sanesi"
+    },
+    {
+      "id": "cuth-harrison",
+      "name": "Cuth Harrison"
+    },
+    {
+      "id": "david-hampshire",
+      "name": "David Hampshire"
+    },
+    {
+      "id": "david-murray",
+      "name": "David Murray"
+    },
+    {
+      "id": "dick-rathmann",
+      "name": "Dick Rathmann"
+    },
+    {
+      "id": "dorino-serafini",
+      "name": "Dorino Serafini"
+    },
+    {
+      "id": "duane-carter",
+      "name": "Duane Carter"
+    },
+    {
+      "id": "duke-dinsmore",
+      "name": "Duke Dinsmore"
+    },
+    {
+      "id": "emmanuel-de-graffenried",
+      "name": "Emmanuel de Graffenried"
+    },
+    {
+      "id": "eugene-chaboud",
+      "name": "Eugène Chaboud"
+    },
+    {
+      "id": "eugene-martin",
+      "name": "Eugène Martin"
+    },
+    {
+      "id": "felice-bonetto",
+      "name": "Felice Bonetto"
+    },
+    {
+      "id": "franco-comotti",
+      "name": "Franco Comotti"
+    },
+    {
+      "id": "franco-rol",
+      "name": "Franco Rol"
+    },
+    {
+      "id": "fred-agabashian",
+      "name": "Fred Agabashian"
+    },
+    {
+      "id": "gene-hartley",
+      "name": "Gene Hartley"
+    },
+    {
+      "id": "geoffrey-crossley",
+      "name": "Geoffrey Crossley"
+    },
+    {
+      "id": "george-connor",
+      "name": "George Connor"
+    },
+    {
+      "id": "guy-mairesse",
+      "name": "Guy Mairesse"
+    },
+    {
+      "id": "harry-schell",
+      "name": "Harry Schell"
+    },
+    {
+      "id": "henri-louveau",
+      "name": "Henri Louveau"
+    },
+    {
+      "id": "henry-banks",
+      "name": "Henry Banks"
+    },
+    {
+      "id": "jack-mcgrath",
+      "name": "Jack McGrath"
+    },
+    {
+      "id": "jackie-holmes",
+      "name": "Jackie Holmes"
+    },
+    {
+      "id": "jerry-hoyt",
+      "name": "Jerry Hoyt"
+    },
+    {
+      "id": "jim-rathmann",
+      "name": "Jim Rathmann"
+    },
+    {
+      "id": "jimmy-davies",
+      "name": "Jimmy Davies"
+    },
+    {
+      "id": "jimmy-jackson",
+      "name": "Jimmy Jackson"
+    },
+    {
+      "id": "joe-fry",
+      "name": "Joe Fry"
+    },
+    {
+      "id": "joe-kelly",
+      "name": "Joe Kelly"
+    },
+    {
+      "id": "johnnie-parsons",
+      "name": "Johnnie Parsons"
+    },
+    {
+      "id": "johnny-claes",
+      "name": "Johnny Claes"
+    },
+    {
+      "id": "johnny-mcdowell",
+      "name": "Johnny McDowell"
+    },
+    {
+      "id": "joie-chitwood",
+      "name": "Joie Chitwood"
+    },
+    {
+      "id": "jose-froilan-gonzalez",
+      "name": "José Froilán González"
+    },
+    {
+      "id": "juan-manuel-fangio",
+      "name": "Juan Manuel Fangio"
+    },
+    {
+      "id": "lee-wallard",
+      "name": "Lee Wallard"
+    },
+    {
+      "id": "leslie-johnson",
+      "name": "Leslie Johnson"
+    },
+    {
+      "id": "louis-chiron",
+      "name": "Louis Chiron"
+    },
+    {
+      "id": "louis-rosier",
+      "name": "Louis Rosier"
+    },
+    {
+      "id": "luigi-fagioli",
+      "name": "Luigi Fagioli"
+    },
+    {
+      "id": "luigi-villoresi",
+      "name": "Luigi Villoresi"
+    },
+    {
+      "id": "mack-hellings",
+      "name": "Mack Hellings"
+    },
+    {
+      "id": "mauri-rose",
+      "name": "Mauri Rose"
+    },
+    {
+      "id": "maurice-trintignant",
+      "name": "Maurice Trintignant"
+    },
+    {
+      "id": "myron-fohr",
+      "name": "Myron Fohr"
+    },
+    {
+      "id": "nello-pagani",
+      "name": "Nello Pagani"
+    },
+    {
+      "id": "nino-farina",
+      "name": "Nino Farina"
+    },
+    {
+      "id": "pat-flaherty",
+      "name": "Pat Flaherty"
+    },
+    {
+      "id": "paul-pietsch",
+      "name": "Paul Pietsch"
+    },
+    {
+      "id": "paul-russo",
+      "name": "Paul Russo"
+    },
+    {
+      "id": "peter-walker",
+      "name": "Peter Walker"
+    },
+    {
+      "id": "peter-whitehead",
+      "name": "Peter Whitehead"
+    },
+    {
+      "id": "philippe-etancelin",
+      "name": "Philippe Étancelin"
+    },
+    {
+      "id": "piero-taruffi",
+      "name": "Piero Taruffi"
+    },
+    {
+      "id": "pierre-levegh",
+      "name": "Pierre Levegh"
+    },
+    {
+      "id": "raymond-sommer",
+      "name": "Raymond Sommer"
+    },
+    {
+      "id": "reg-parnell",
+      "name": "Reg Parnell"
+    },
+    {
+      "id": "robert-manzon",
+      "name": "Robert Manzon"
+    },
+    {
+      "id": "sam-hanks",
+      "name": "Sam Hanks"
+    },
+    {
+      "id": "spider-webb",
+      "name": "Spider Webb"
+    },
+    {
+      "id": "toni-branca",
+      "name": "Toni Branca"
+    },
+    {
+      "id": "tony-bettenhausen",
+      "name": "Tony Bettenhausen"
+    },
+    {
+      "id": "tony-rolt",
+      "name": "Tony Rolt"
+    },
+    {
+      "id": "troy-ruttman",
+      "name": "Troy Ruttman"
+    },
+    {
+      "id": "walt-ader",
+      "name": "Walt Ader"
+    },
+    {
+      "id": "walt-brown",
+      "name": "Walt Brown"
+    },
+    {
+      "id": "walt-faulkner",
+      "name": "Walt Faulkner"
+    },
+    {
+      "id": "yves-giraud-cabantous",
+      "name": "Yves Giraud-Cabantous"
+    }
+  ],
+  "racesByYear": {
+    "1950": [
+      {
+        "year": 1950,
+        "round": 1,
+        "date": "1950-05-13",
+        "grandPrixId": "great-britain",
+        "officialName": "1950 RAC British Grand Prix",
+        "file": "01-great-britain.csv"
+      },
+      {
+        "year": 1950,
+        "round": 2,
+        "date": "1950-05-21",
+        "grandPrixId": "monaco",
+        "officialName": "Grand Prix de Monaco 1950",
+        "file": "02-monaco.csv"
+      },
+      {
+        "year": 1950,
+        "round": 3,
+        "date": "1950-05-30",
+        "grandPrixId": "indianapolis",
+        "officialName": "1950 Indianapolis 500",
+        "file": "03-indianapolis.csv"
+      },
+      {
+        "year": 1950,
+        "round": 4,
+        "date": "1950-06-04",
+        "grandPrixId": "switzerland",
+        "officialName": "Grosser Preis der Schweiz 1950",
+        "file": "04-switzerland.csv"
+      },
+      {
+        "year": 1950,
+        "round": 5,
+        "date": "1950-06-18",
+        "grandPrixId": "belgium",
+        "officialName": "1950 Belgian Grand Prix",
+        "file": "05-belgium.csv"
+      },
+      {
+        "year": 1950,
+        "round": 6,
+        "date": "1950-07-02",
+        "grandPrixId": "france",
+        "officialName": "Grand Prix de France 1950",
+        "file": "06-france.csv"
+      },
+      {
+        "year": 1950,
+        "round": 7,
+        "date": "1950-09-03",
+        "grandPrixId": "italy",
+        "officialName": "Gran Premio d'Italia 1950",
+        "file": "07-italy.csv"
+      }
+    ]
+  }
+}
