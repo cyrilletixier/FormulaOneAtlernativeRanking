@@ -207,6 +207,11 @@ function renderEloChart(container, points) {
     const yScale = (y) => (height - pad) - (y - minY) * ((height - 2 * pad) / spanY);
 
     const svg = createSvgEl('svg');
+    svg.setAttribute('class', 'elo-svg');
+    svg.setAttribute('viewBox', `0 0 ${width} ${height}`);
+    svg.setAttribute('width', '100%');
+    svg.setAttribute('height', String(height));
+    svg.setAttribute('preserveAspectRatio', 'xMidYMid meet');
     addGapRects(svg, points, xScale, pad, width, height, GAP_SHADE_RACES);
     addTeamBands(svg, points, xScale, pad, width, height);
     addAxes(svg, pad, width, height);
