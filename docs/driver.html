@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pilote - ELO</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1 id="driver-title">Pilote</h1>
+            <nav class="tabs">
+                <a class="tab-button" href="index.html">← Retour</a>
+            </nav>
+        </header>
+
+        <div class="tab-content active">
+            <div class="controls">
+                <div class="year-selector">
+                    <span id="driver-subtitle"></span>
+                </div>
+            </div>
+
+            <div class="chart-container">
+                <div id="elo-chart" class="elo-chart" aria-label="Graphique évolution ELO"></div>
+            </div>
+
+            <div class="table-container" style="margin-top: 20px;">
+                <table id="driver-table">
+                    <thead>
+                        <tr id="driver-head-row">
+                            <th>Chargement…</th>
+                        </tr>
+                    </thead>
+                    <tbody id="driver-body"></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/driver.js"></script>
+</body>
+</html>

@@ -213,6 +213,56 @@ td {
   font-size: 0.9rem;
 }
 
+td a.driver-link {
+  color: var(--secondary-color);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+td a.driver-link:hover {
+  text-decoration: underline;
+}
+
+.chart-container {
+  border-radius: var(--border-radius);
+  box-shadow: 0 4px 6px var(--shadow-color);
+  border: 1px solid #eee;
+  padding: 12px;
+}
+
+.elo-chart {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.elo-svg {
+  width: 100%;
+  height: auto;
+}
+
+.elo-axis {
+  fill: none;
+  stroke: #cfd6dc;
+  stroke-width: 2;
+}
+
+.elo-line {
+  fill: none;
+  stroke: var(--secondary-color);
+  stroke-width: 2.5;
+}
+
+.elo-dot {
+  fill: var(--accent-color);
+  opacity: 0.9;
+}
+
+.elo-label {
+  font-family: var(--font-main);
+  font-size: 12px;
+  fill: var(--primary-color);
+}
+
 tr:nth-child(even) {
   background-color: var(--table-even-row);
 }

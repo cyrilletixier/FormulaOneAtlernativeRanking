@@ -42,6 +42,8 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         const header = rows[0];
+        const idxDriverId = header.indexOf('driverId');
+        const idxDriverName = header.indexOf('driverName');
         headRow.innerHTML = '';
         header.forEach(col => {
             const th = document.createElement('th');
@@ -54,9 +56,19 @@ document.addEventListener('DOMContentLoaded', () => {
             const row = rows[i];
             if (!row.length) continue;
             const tr = document.createElement('tr');
-            for (const cell of row) {
+            for (let j = 0; j < row.length; j++) {
+                const cell = row[j];
                 const td = document.createElement('td');
-                td.textContent = cell || '';
+                if (j === idxDriverName && idxDriverId >= 0) {
+                    const driverId = row[idxDriverId];
+                    const a = document.createElement('a');
+                    a.className = 'driver-link';
+                    a.href = `driver.html?id=${encodeURIComponent(driverId)}`;
+                    a.textContent = cell || '';
+                    td.appendChild(a);
+                } else {
+                    td.textContent = cell || '';
+                }
                 tr.appendChild(td);
             }
             body.appendChild(tr);
