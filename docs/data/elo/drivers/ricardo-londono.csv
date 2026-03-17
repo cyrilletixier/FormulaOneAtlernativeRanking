@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1981-03-29,1981,2,brazil,DNP,,31,1500.0,1494.164101,-5.835899,0.2,0.443162,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1981-03-29,1981,2,brazil,ensign,Ensign,DNP,,31,1000.0,989.678858,-10.321142,0.2,0.406423,50.0

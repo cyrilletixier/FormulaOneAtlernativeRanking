@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1960-02-07,1960,1,argentina,11,76,22,1500.0,1500.044687,0.044687,0.47619,0.474329,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1960-02-07,1960,1,argentina,cooper,Cooper,11,76,22,1000.0,1001.155263,1.155263,0.47619,0.453085,50.0

@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,1,56,2,0,1,1847.945245,1852.973194,5.02795,1.0,0.790502,24.0,20
-2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,nico-rosberg,Nico Rosberg,mercedes,2,56,1,0,2,1787.767848,1793.02863,5.260781,0.947368,0.728169,24.0,20
-2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,3,56,13,0,3,1855.167846,1857.504797,2.336952,0.894737,0.797364,24.0,20
-2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,max-verstappen,Max Verstappen,toro-rosso,4,56,8,0,4,1528.130976,1538.93447,10.803494,0.842105,0.39196,24.0,20
-2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,sergio-perez,Sergio Pérez,force-india,5,56,5,0,5,1610.376884,1617.250323,6.87344,0.789474,0.50308,24.0,20
-2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,jenson-button,Jenson Button,mclaren,6,56,11,0,6,1611.905349,1617.465647,5.560298,0.736842,0.505163,24.0,20
-2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,7,56,20,0,7,1507.148829,1514.821096,7.672266,0.684211,0.364533,24.0,20
-2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,pastor-maldonado,Pastor Maldonado,lotus-f1,8,56,12,0,8,1463.108324,1470.843926,7.735602,0.631579,0.309262,24.0,20
-2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,felipe-nasr,Felipe Nasr,sauber,9,56,15,0,9,1520.235764,1524.972806,4.737042,0.578947,0.381571,24.0,20
-2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,10,56,3,0,10,1639.831283,1639.429146,-0.402137,0.526316,0.543071,24.0,20
-2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,fernando-alonso,Fernando Alonso,mclaren,11,56,9,0,11,1668.946458,1666.345759,-2.6007,0.473684,0.582047,24.0,20
-2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,alexander-rossi,Alexander Rossi,marussia,12,56,17,0,12,1493.074686,1494.864018,1.789332,0.421053,0.346497,24.0,20
-2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,daniil-kvyat,Daniil Kvyat,red-bull,DNF,41,4,1,13,1565.055965,1563.304474,-1.751491,0.368421,0.4414,24.0,20
-2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,DNF,35,6,1,14,1578.152626,1574.7115,-3.441126,0.315789,0.45917,24.0,20
-2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,25,18,1,15,1716.468561,1706.708395,-9.760166,0.236842,0.643516,24.0,20
-2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,DNF,25,14,1,16,1470.56194,1468.605457,-1.956483,0.236842,0.318362,24.0,20
-2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,felipe-massa,Felipe Massa,williams,DNF,23,7,1,17,1694.222138,1683.248194,-10.973943,0.157895,0.615142,24.0,20
-2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,DNF,10,10,1,18,1541.498519,1534.191706,-7.306813,0.105263,0.409714,24.0,20
-2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,valtteri-bottas,Valtteri Bottas,williams,DNF,5,16,1,19,1664.294976,1651.737184,-12.557792,0.052632,0.575873,24.0,20
-2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,will-stevens,Will Stevens,marussia,DNF,1,19,1,20,1450.053541,1443.007036,-7.046505,0.0,0.293604,24.0,20
+2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,1,56,2,0,1,1452.049461,1459.946596,7.897135,1.0,0.842057,50.0,20
+2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,nico-rosberg,Nico Rosberg,mercedes,2,56,1,0,2,1365.499383,1374.555467,9.056084,0.947368,0.766247,50.0,20
+2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,3,56,13,0,3,1427.234631,1430.865232,3.630602,0.894737,0.822125,50.0,20
+2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,max-verstappen,Max Verstappen,toro-rosso,4,56,8,0,4,1071.682873,1093.301774,21.618901,0.842105,0.409727,50.0,20
+2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,sergio-perez,Sergio Pérez,force-india,5,56,5,0,5,1170.597329,1183.112176,12.514847,0.789474,0.539177,50.0,20
+2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,jenson-button,Jenson Button,mclaren,6,56,11,0,6,1082.278509,1097.946979,15.66847,0.736842,0.423473,50.0,20
+2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,7,56,20,0,7,1027.425792,1043.961757,16.535965,0.684211,0.353491,50.0,20
+2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,pastor-maldonado,Pastor Maldonado,lotus-f1,8,56,12,0,8,992.133912,1008.183071,16.049159,0.631579,0.310596,50.0,20
+2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,felipe-nasr,Felipe Nasr,sauber,9,56,15,0,9,1048.907192,1058.829047,9.921855,0.578947,0.38051,50.0,20
+2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,10,56,3,0,10,1197.02725,1194.679936,-2.347314,0.526316,0.573262,50.0,20
+2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,fernando-alonso,Fernando Alonso,mclaren,11,56,9,0,11,1116.678573,1116.937363,0.25879,0.473684,0.468508,50.0,20
+2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,alexander-rossi,Alexander Rossi,marussia,12,56,17,0,12,988.991377,994.699938,5.708561,0.421053,0.306881,50.0,20
+2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,daniil-kvyat,Daniil Kvyat,red-bull,DNF,41,4,1,13,1142.977224,1136.244591,-6.732634,0.368421,0.503074,50.0,20
+2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,DNF,35,6,1,14,1086.319505,1080.672221,-5.647284,0.315789,0.428735,50.0,20
+2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,25,18,1,15,1250.938531,1230.761093,-20.177437,0.236842,0.640391,50.0,20
+2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,DNF,25,14,1,16,995.221068,991.350041,-3.871027,0.236842,0.314263,50.0,20
+2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,felipe-massa,Felipe Massa,williams,DNF,23,7,1,17,1231.739316,1208.787407,-22.951909,0.157895,0.616933,50.0,20
+2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,DNF,10,10,1,18,1071.125865,1055.938672,-15.187192,0.105263,0.409007,50.0,20
+2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,valtteri-bottas,Valtteri Bottas,williams,DNF,5,16,1,19,1256.082642,1226.38528,-29.697362,0.052632,0.646579,50.0,20
+2015,16,2015-10-25,united-states,2015 Formula 1 United States Grand Prix,will-stevens,Will Stevens,marussia,DNF,1,19,1,20,933.77485,921.526642,-12.248208,0.0,0.244964,50.0,20

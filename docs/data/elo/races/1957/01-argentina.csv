@@ -1,17 +1,17 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,juan-manuel-fangio,Juan Manuel Fangio,maserati,1,100,2,0,1,1705.521778,1711.603968,6.082191,1.0,0.746575,24.0,16
-1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,jean-behra,Jean Behra,maserati,2,100,3,0,2,1541.503089,1551.395113,9.892024,0.933333,0.521166,24.0,16
-1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,carlos-menditeguy,Carlos Menditéguy,maserati,3,99,8,0,3,1473.936284,1484.648426,10.712142,0.866667,0.420327,24.0,16
-1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,harry-schell,Harry Schell,maserati,4,98,9,0,4,1485.403417,1494.109255,8.705838,0.8,0.437257,24.0,16
-1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,alfonso-de-portago,Alfonso de Portago,ferrari,5,98,10,0,5,1498.771826,1504.600406,5.82858,0.7,0.457143,24.0,16
-1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,jose-froilan-gonzalez,José Froilán González,ferrari,5,,,0,6,1581.535323,1584.402126,2.866803,0.7,0.58055,24.0,16
-1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,cesare-perdisa,Cesare Perdisa,ferrari,6,98,11,0,7,1520.097582,1521.159945,1.062363,0.533333,0.489068,24.0,16
-1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,peter-collins,Peter Collins,ferrari,6,,,0,8,1514.017,1515.298198,1.281199,0.533333,0.47995,24.0,16
-1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,wolfgang-von-trips,Wolfgang von Trips,ferrari,6,,,0,9,1488.481086,1490.677351,2.196265,0.533333,0.441822,24.0,16
-1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,jo-bonnier,Jo Bonnier,maserati,7,95,13,0,10,1489.441086,1488.403132,-1.037954,0.4,0.443248,24.0,16
-1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,stirling-moss,Stirling Moss,maserati,8,93,1,0,11,1570.726342,1565.174533,-5.551809,0.333333,0.564659,24.0,16
-1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,alejandro-de-tomaso,Alejandro de Tomaso,ferrari,9,91,12,0,12,1500.0,1495.384582,-4.615418,0.266667,0.458976,24.0,16
-1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,luigi-piotti,Luigi Piotti,maserati,10,90,14,0,13,1482.104147,1476.527217,-5.576931,0.2,0.432372,24.0,16
-1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,eugenio-castellotti,Eugenio Castellotti,ferrari,DNF,75,4,1,14,1530.679767,1521.761116,-8.918651,0.133333,0.504944,24.0,16
-1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,mike-hawthorn,Mike Hawthorn,ferrari,DNF,35,7,1,15,1550.608848,1539.374136,-11.234712,0.066667,0.53478,24.0,16
-1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,luigi-musso,Luigi Musso,ferrari,DNF,31,6,1,16,1518.827921,1507.135991,-11.69193,0.0,0.487164,24.0,16
+1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,juan-manuel-fangio,Juan Manuel Fangio,maserati,1,100,2,0,1,1302.074268,1311.046962,8.972693,1.0,0.820546,50.0,16
+1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,jean-behra,Jean Behra,maserati,2,100,3,0,2,1092.951425,1111.301014,18.34959,0.933333,0.566342,50.0,16
+1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,carlos-menditeguy,Carlos Menditéguy,maserati,3,99,8,0,3,955.726373,980.634478,24.908104,0.866667,0.368505,50.0,16
+1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,harry-schell,Harry Schell,maserati,4,98,9,0,4,997.135894,1015.780372,18.644478,0.8,0.42711,50.0,16
+1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,alfonso-de-portago,Alfonso de Portago,ferrari,5,98,10,0,5,1000.613681,1014.007407,13.393726,0.7,0.432125,50.0,16
+1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,jose-froilan-gonzalez,José Froilán González,ferrari,5,,,0,6,1122.276775,1126.884617,4.607842,0.7,0.607843,50.0,16
+1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,cesare-perdisa,Cesare Perdisa,ferrari,6,98,11,0,7,1040.361934,1042.530118,2.168184,0.533333,0.48997,50.0,16
+1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,peter-collins,Peter Collins,ferrari,6,,,0,8,1058.518461,1059.360854,0.842393,0.533333,0.516485,50.0,16
+1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,wolfgang-von-trips,Wolfgang von Trips,ferrari,6,,,0,9,976.896933,983.654698,6.757765,0.533333,0.398178,50.0,16
+1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,jo-bonnier,Jo Bonnier,maserati,7,95,13,0,10,978.896933,978.846169,-0.050764,0.4,0.401015,50.0,16
+1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,stirling-moss,Stirling Moss,maserati,8,93,1,0,11,1139.268265,1124.370495,-14.89777,0.333333,0.631289,50.0,16
+1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,alejandro-de-tomaso,Alejandro de Tomaso,ferrari,9,91,12,0,12,1000.0,991.771346,-8.228654,0.266667,0.43124,50.0,16
+1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,luigi-piotti,Luigi Piotti,maserati,10,90,14,0,13,970.188993,960.753883,-9.435109,0.2,0.388702,50.0,16
+1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,eugenio-castellotti,Eugenio Castellotti,ferrari,DNF,75,4,1,14,1061.201969,1041.848767,-19.353202,0.133333,0.520397,50.0,16
+1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,mike-hawthorn,Mike Hawthorn,ferrari,DNF,35,7,1,15,1052.018787,1030.002096,-22.016691,0.066667,0.507,50.0,16
+1957,1,1957-01-13,argentina,Gran Premio de Argentina 1957,luigi-musso,Luigi Musso,ferrari,DNF,31,6,1,16,1042.607787,1017.945203,-24.662584,0.0,0.493252,50.0,16

@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1958-10-19,1958,11,morocco,14,48,25,1500.0,1499.39658,-0.60342,0.458333,0.483476,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1958-10-19,1958,11,morocco,cooper,Cooper,14,48,25,1000.0,999.537327,-0.462673,0.458333,0.467587,50.0

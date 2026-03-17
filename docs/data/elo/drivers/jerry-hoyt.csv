@@ -1,5 +1,5 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1950-05-30,1950,3,indianapolis,21,125,34,1500.0,1496.727273,-3.272727,0.363636,0.5,24.0
-1953-05-30,1953,2,indianapolis,23,107,37,1496.727273,1486.876941,-9.850332,0.083333,0.493764,24.0
-1954-05-31,1954,2,indianapolis,8,,42,1486.876941,1494.421337,7.544397,0.792683,0.478333,24.0
-1955-05-30,1955,3,indianapolis,31,40,35,1494.421337,1484.142029,-10.279309,0.058824,0.487128,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1950-05-30,1950,3,indianapolis,kurtis-kraft,Kurtis Kraft,21,125,34,1000.0,993.181818,-6.818182,0.363636,0.5,50.0
+1953-05-30,1953,2,indianapolis,kurtis-kraft,Kurtis Kraft,23,107,37,993.181818,972.996926,-20.184892,0.083333,0.487031,50.0
+1954-05-31,1954,2,indianapolis,kurtis-kraft,Kurtis Kraft,8,,42,972.996926,989.849856,16.85293,0.792683,0.455624,50.0
+1955-05-30,1955,3,indianapolis,stevens,Stevens,31,40,35,989.849856,969.002811,-20.847045,0.058824,0.475764,50.0

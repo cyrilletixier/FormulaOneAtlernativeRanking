@@ -1,3 +1,3 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1971-09-19,1971,10,canada,DNS,,27,1500.0,1489.934356,-10.065644,0.038462,0.457863,24.0
-1971-10-03,1971,11,united-states,DNF,30,32,1489.934356,1485.25917,-4.675186,0.258065,0.452864,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1971-09-19,1971,10,canada,brabham,Brabham,DNS,,27,1000.0,980.081171,-19.918829,0.038462,0.436838,50.0
+1971-10-03,1971,11,united-states,brabham,Brabham,DNF,30,32,980.081171,971.872947,-8.208224,0.258065,0.422229,50.0

@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1952-07-19,1952,5,great-britain,12,80,32,1500.0,1503.54724,3.54724,0.645161,0.49736,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1952-07-19,1952,5,great-britain,alta,Alta,12,80,32,1000.0,1007.491253,7.491253,0.645161,0.495336,50.0

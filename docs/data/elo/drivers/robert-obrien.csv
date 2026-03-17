@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1952-06-22,1952,3,belgium,14,30,22,1500.0,1497.393421,-2.606579,0.380952,0.48956,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1952-06-22,1952,3,belgium,simca-gordini,Simca-Gordini,14,30,22,1000.0,994.95424,-5.04576,0.380952,0.481868,50.0

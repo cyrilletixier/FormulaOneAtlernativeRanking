@@ -1,10 +1,26 @@
+function buildDriverNameToId(indexData) {
+    const map = {};
+    const drivers = indexData?.drivers || [];
+    for (const d of drivers) {
+        if (d?.name && d?.id) {
+            map[d.name] = d.id;
+        }
+    }
+    return map;
+}
+
 document.addEventListener('DOMContentLoaded', () => {
     const yearSelector = document.getElementById('qualif-year');
+    let driverNameToId = {};
 
-    // Charger les années disponibles dynamiquement
-    fetch('data/historique.csv')
-        .then(response => response.text())
-        .then(data => {
+    // Charger le mapping pilotes (ELO) + les années disponibles dynamiquement
+    Promise.all([
+        fetch('data/elo/index.json').then(r => r.json()).catch(() => null),
+        fetch('data/historique.csv').then(response => response.text())
+    ])
+        .then(([indexData, data]) => {
+            driverNameToId = buildDriverNameToId(indexData);
+
             const rows = data.split('\n');
             if (rows.length > 0) {
                 const header = rows[0].split(',');
@@ -41,6 +57,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 const tableBody = document.getElementById('qualifications-body');
                 const tableHead = document.querySelector('#qualifications-table thead tr');
 
+                const idxDriverName = header.indexOf('Pilote');
+
                 // Mettre à jour les en-têtes de colonne
                 tableHead.innerHTML = '';
                 header.forEach(column => {
@@ -56,11 +74,25 @@ document.addEventListener('DOMContentLoaded', () => {
                     if (row.length < 3) continue;
 
                     const tr = document.createElement('tr');
-                    row.forEach(cell => {
+                    for (let j = 0; j < row.length; j++) {
+                        const cell = row[j];
                         const td = document.createElement('td');
-                        td.textContent = cell || '';
+                        if (j === idxDriverName) {
+                            const driverId = driverNameToId[cell];
+                            if (driverId) {
+                                const a = document.createElement('a');
+                                a.className = 'driver-link';
+                                a.href = `driver.html?id=${encodeURIComponent(driverId)}`;
+                                a.textContent = cell || '';
+                                td.appendChild(a);
+                            } else {
+                                td.textContent = cell || '';
+                            }
+                        } else {
+                            td.textContent = cell || '';
+                        }
                         tr.appendChild(td);
-                    });
+                    }
                     tableBody.appendChild(tr);
                 }
             })

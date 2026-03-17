@@ -15,6 +15,7 @@ from elo.f1db_io import (
     get_available_years,
     get_file_hash,
     iter_races,
+    load_constructor_names,
     load_driver_names,
     load_race_data,
 )
@@ -100,6 +101,7 @@ def generate_all(
     yaml_dir: str,
     races,
     driver_id_to_name: Dict[str, str],
+    constructor_id_to_name: Dict[str, str],
     output_root: str,
     k: float,
     initial_elo: float,
@@ -155,12 +157,15 @@ def generate_all(
             er = elo_rows.get(d)
             if er is None:
                 continue
+            constructor_id = re.entry.constructor_id or ""
             driver_rows[d].append(
                 {
                     "date": meta.date,
                     "year": meta.year,
                     "round": meta.round,
                     "grandPrixId": meta.grand_prix_id,
+                    "constructorId": constructor_id,
+                    "constructorName": constructor_id_to_name.get(constructor_id, constructor_id) if constructor_id else "",
                     "positionRaw": re.entry.position_raw,
                     "laps": "" if re.entry.laps is None else re.entry.laps,
                     "nParticipants": n,
@@ -262,10 +267,12 @@ def main(argv: List[str]) -> int:
             return 0
 
         driver_id_to_name = load_driver_names(yaml_dir)
+        constructor_id_to_name = load_constructor_names(yaml_dir)
         generate_all(
             yaml_dir=yaml_dir,
             races=races,
             driver_id_to_name=driver_id_to_name,
+            constructor_id_to_name=constructor_id_to_name,
             output_root=output_root,
             k=k,
             initial_elo=initial_elo,

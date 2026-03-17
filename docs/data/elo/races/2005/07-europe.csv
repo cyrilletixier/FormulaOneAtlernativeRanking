@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,fernando-alonso,Fernando Alonso,renault,1,59,6,0,1,1652.220098,1661.691905,9.471807,1.0,0.605341,24.0,20
-2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,nick-heidfeld,Nick Heidfeld,williams,2,59,1,0,2,1517.916979,1530.672489,12.755509,0.947368,0.415889,24.0,20
-2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,rubens-barrichello,Rubens Barrichello,ferrari,3,59,7,0,3,1711.615336,1716.689355,5.074019,0.894737,0.683319,24.0,20
-2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,david-coulthard,David Coulthard,red-bull,4,59,12,0,4,1629.571142,1636.004345,6.433203,0.842105,0.574055,24.0,20
-2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,michael-schumacher,Michael Schumacher,ferrari,5,59,10,0,5,1821.389994,1821.017829,-0.372165,0.789474,0.804981,24.0,20
-2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,giancarlo-fisichella,Giancarlo Fisichella,renault,6,59,PL,0,6,1553.013296,1559.526848,6.513552,0.736842,0.465444,24.0,20
-2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,juan-pablo-montoya,Juan Pablo Montoya,mclaren,7,59,5,0,7,1673.371613,1674.579648,1.208035,0.684211,0.633876,24.0,20
-2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,jarno-trulli,Jarno Trulli,toyota,8,59,4,0,8,1617.046751,1618.848638,1.801887,0.631579,0.5565,24.0,20
-2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,vitantonio-liuzzi,Vitantonio Liuzzi,red-bull,9,59,14,0,9,1491.071416,1495.874131,4.802715,0.578947,0.378834,24.0,20
-2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,jenson-button,Jenson Button,bar,10,59,13,0,10,1597.888617,1597.814646,-0.073971,0.526316,0.529398,24.0,20
-2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,kimi-raikkonen,Kimi Räikkönen,mclaren,11,58,2,0,11,1618.018036,1615.997647,-2.020388,0.473684,0.557867,24.0,20
-2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,takuma-sato,Takuma Sato,bar,12,58,16,0,12,1527.512851,1527.31393,-0.198921,0.421053,0.429341,24.0,20
-2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,jacques-villeneuve,Jacques Villeneuve,sauber,13,58,15,0,13,1524.715979,1523.348223,-1.367756,0.368421,0.425411,24.0,20
-2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,felipe-massa,Felipe Massa,sauber,14,58,11,0,14,1544.90632,1541.591119,-3.315201,0.315789,0.453923,24.0,20
-2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,tiago-monteiro,Tiago Monteiro,jordan,15,58,17,0,15,1495.557978,1492.63478,-2.923199,0.263158,0.384958,24.0,20
-2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,narain-karthikeyan,Narain Karthikeyan,jordan,16,58,19,0,16,1480.206335,1476.519656,-3.686679,0.210526,0.364138,24.0,20
-2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,christijan-albers,Christijan Albers,minardi,17,57,20,0,17,1478.695103,1473.793945,-4.901158,0.157895,0.36211,24.0,20
-2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,patrick-friesacher,Patrick Friesacher,minardi,18,56,18,0,18,1468.673664,1462.829639,-5.844025,0.105263,0.348764,24.0,20
-2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,ralf-schumacher,Ralf Schumacher,toyota,DNF,33,8,1,19,1641.894749,1628.97004,-12.924709,0.052632,0.591161,24.0,20
-2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,mark-webber,Mark Webber,williams,DNF,0,3,1,20,1531.311391,1520.878835,-10.432555,0.0,0.43469,24.0,20
+2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,fernando-alonso,Fernando Alonso,renault,1,59,6,0,1,1256.217305,1271.215251,14.997946,1.0,0.700041,50.0,20
+2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,nick-heidfeld,Nick Heidfeld,williams,2,59,1,0,2,1046.831725,1073.221426,26.389701,0.947368,0.419574,50.0,20
+2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,rubens-barrichello,Rubens Barrichello,ferrari,3,59,7,0,3,1242.115024,1252.705836,10.590812,0.894737,0.682921,50.0,20
+2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,david-coulthard,David Coulthard,red-bull,4,59,12,0,4,1128.543434,1144.015361,15.471927,0.842105,0.532667,50.0,20
+2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,michael-schumacher,Michael Schumacher,ferrari,5,59,10,0,5,1327.54392,1328.056111,0.512191,0.789474,0.77923,50.0,20
+2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,giancarlo-fisichella,Giancarlo Fisichella,renault,6,59,PL,0,6,1091.044721,1103.858375,12.813653,0.736842,0.480569,50.0,20
+2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,juan-pablo-montoya,Juan Pablo Montoya,mclaren,7,59,5,0,7,1233.991021,1234.558389,0.567369,0.684211,0.672863,50.0,20
+2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,jarno-trulli,Jarno Trulli,toyota,8,59,4,0,8,1180.837726,1182.215056,1.377329,0.631579,0.604032,50.0,20
+2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,vitantonio-liuzzi,Vitantonio Liuzzi,red-bull,9,59,14,0,9,985.978691,997.975992,11.997302,0.578947,0.339001,50.0,20
+2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,jenson-button,Jenson Button,bar,10,59,13,0,10,1123.422432,1123.459725,0.037293,0.526316,0.52557,50.0,20
+2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,kimi-raikkonen,Kimi Räikkönen,mclaren,11,58,2,0,11,1181.90498,1175.316257,-6.588722,0.473684,0.605459,50.0,20
+2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,takuma-sato,Takuma Sato,bar,12,58,16,0,12,1059.121914,1058.354435,-0.76748,0.421053,0.436402,50.0,20
+2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,jacques-villeneuve,Jacques Villeneuve,sauber,13,58,15,0,13,1032.290281,1030.71851,-1.571771,0.368421,0.399856,50.0,20
+2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,felipe-massa,Felipe Massa,sauber,14,58,11,0,14,1088.054757,1080.023497,-8.03126,0.315789,0.476415,50.0,20
+2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,tiago-monteiro,Tiago Monteiro,jordan,15,58,17,0,15,999.791597,995.11005,-4.681547,0.263158,0.356789,50.0,20
+2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,narain-karthikeyan,Narain Karthikeyan,jordan,16,58,19,0,16,969.169631,963.803564,-5.366067,0.210526,0.317848,50.0,20
+2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,christijan-albers,Christijan Albers,minardi,17,57,20,0,17,967.536933,959.64048,-7.896453,0.157895,0.315824,50.0,20
+2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,patrick-friesacher,Patrick Friesacher,minardi,18,56,18,0,18,947.656007,938.336667,-9.31934,0.105263,0.29165,50.0,20
+2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,ralf-schumacher,Ralf Schumacher,toyota,DNF,33,8,1,19,1169.124526,1142.341954,-26.782571,0.052632,0.588283,50.0,20
+2005,7,2005-05-29,europe,2005 Formula 1 Grand Prix of Europe,mark-webber,Mark Webber,williams,DNF,0,3,1,20,1087.040742,1063.29043,-23.750312,0.0,0.475006,50.0,20

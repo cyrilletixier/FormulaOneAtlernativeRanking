@@ -1,27 +1,27 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,stirling-moss,Stirling Moss,maserati,1,50,6,0,1,1560.371359,1570.726342,10.354983,1.0,0.568542,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,juan-manuel-fangio,Juan Manuel Fangio,ferrari,2,,,0,2,1701.02744,1705.521778,4.494337,0.94,0.752736,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,peter-collins,Peter Collins,ferrari,2,50,7,0,3,1503.085012,1514.017,10.931988,0.94,0.484501,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,ron-flockhart,Ron Flockhart,connaught,3,49,23,0,4,1479.767574,1490.081809,10.314236,0.88,0.45024,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,paco-godia,Paco Godia,maserati,4,49,17,0,5,1516.352283,1524.414752,8.062468,0.84,0.504064,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,jack-fairman,Jack Fairman,connaught,5,47,15,0,6,1492.305535,1500.258412,7.952877,0.8,0.46863,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,luigi-piotti,Luigi Piotti,maserati,6,47,14,0,7,1474.484732,1482.104147,7.619416,0.76,0.442524,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,emmanuel-de-graffenried,Emmanuel de Graffenried,maserati,7,46,18,0,8,1508.737407,1514.189392,5.451985,0.72,0.492834,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,eugenio-castellotti,Eugenio Castellotti,ferrari,8,,,0,9,1526.827777,1530.679767,3.85199,0.68,0.5195,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,andre-simon,André Simon,gordini,9,45,24,0,10,1487.511256,1491.793166,4.281909,0.64,0.461587,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,gerino-gerini,Gerino Gerini,maserati,10,42,16,0,11,1505.12297,1507.822861,2.69989,0.6,0.487505,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,roy-salvadori,Roy Salvadori,maserati,11,41,13,0,12,1459.534791,1462.874826,3.340035,0.56,0.420832,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,luigi-musso,Luigi Musso,ferrari,DNF,47,3,1,13,1518.52224,1518.827921,0.305682,0.52,0.507263,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,umberto-maglioli,Umberto Maglioli,maserati,DNF,42,12,1,14,1521.822169,1521.051114,-0.771056,0.48,0.512127,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,harry-schell,Harry Schell,vanwall,DNF,32,10,1,15,1485.863482,1485.403417,-0.460065,0.44,0.459169,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,jean-behra,Jean Behra,maserati,DNF,23,5,1,16,1545.011645,1541.503089,-3.508556,0.4,0.54619,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,bruce-halford,Bruce Halford,maserati,DNF,16,21,1,17,1486.024917,1483.639169,-2.385748,0.36,0.459406,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,maurice-trintignant,Maurice Trintignant,vanwall,DNF,13,11,1,18,1521.355893,1516.761329,-4.594564,0.32,0.51144,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,piero-taruffi,Piero Taruffi,vanwall,DNF,12,4,1,19,1555.123772,1548.381426,-6.742346,0.28,0.560931,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,luigi-villoresi,Luigi Villoresi,maserati,DNF,7,8,1,20,1539.14488,1531.522481,-7.622399,0.22,0.5376,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,robert-manzon,Robert Manzon,gordini,DNF,7,22,1,21,1471.678844,1466.436383,-5.242461,0.22,0.438436,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,alfonso-de-portago,Alfonso de Portago,ferrari,DNF,6,9,1,22,1507.184897,1498.771826,-8.413071,0.14,0.490545,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,les-leston,Les Leston,connaught,DNF,6,19,1,23,1500.0,1491.841086,-8.158914,0.14,0.479955,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,hermano-da-silva-ramos,Hermano da Silva Ramos,gordini,DNF,3,20,1,24,1502.42843,1492.743642,-9.684788,0.08,0.483533,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,jo-bonnier,Jo Bonnier,maserati,DNF,,,1,25,1500.0,1489.441086,-10.558914,0.04,0.479955,24.0,26
-1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,wolfgang-von-trips,Wolfgang von Trips,ferrari,DNS,,,2,26,1500.0,1488.481086,-11.518914,0.0,0.479955,24.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,stirling-moss,Stirling Moss,maserati,1,50,6,0,1,1120.950323,1139.268265,18.317942,1.0,0.633641,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,juan-manuel-fangio,Juan Manuel Fangio,ferrari,2,,,0,2,1296.574952,1302.074268,5.499317,0.94,0.830014,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,peter-collins,Peter Collins,ferrari,2,50,7,0,3,1037.319293,1058.518461,21.199168,0.94,0.516017,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,ron-flockhart,Ron Flockhart,connaught,3,49,23,0,4,960.128789,983.868966,23.740177,0.88,0.405196,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,paco-godia,Paco Godia,maserati,4,49,17,0,5,1037.689152,1053.861605,16.172452,0.84,0.516551,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,jack-fairman,Jack Fairman,connaught,5,47,15,0,6,987.893143,1005.660687,17.767545,0.8,0.444649,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,luigi-piotti,Luigi Piotti,maserati,6,47,14,0,7,951.871022,970.188993,18.317971,0.76,0.393641,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,emmanuel-de-graffenried,Emmanuel de Graffenried,maserati,7,46,18,0,8,1026.906725,1037.85874,10.952015,0.72,0.50096,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,eugenio-castellotti,Eugenio Castellotti,ferrari,8,,,0,9,1054.220419,1061.201969,6.98155,0.68,0.540369,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,andre-simon,André Simon,gordini,9,45,24,0,10,979.927133,990.264623,10.33749,0.64,0.43325,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,gerino-gerini,Gerino Gerini,maserati,10,42,16,0,11,1011.835362,1017.877714,6.042352,0.6,0.479153,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,roy-salvadori,Roy Salvadori,maserati,11,41,13,0,12,934.463906,943.982533,9.518627,0.56,0.369627,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,luigi-musso,Luigi Musso,ferrari,DNF,47,3,1,13,1042.804571,1042.607787,-0.196784,0.52,0.523936,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,umberto-maglioli,Umberto Maglioli,maserati,DNF,42,12,1,14,1042.997887,1040.78716,-2.210727,0.48,0.524215,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,harry-schell,Harry Schell,vanwall,DNF,32,10,1,15,998.102201,997.135894,-0.966308,0.44,0.459326,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,jean-behra,Jean Behra,maserati,DNF,23,5,1,16,1103.441362,1092.951425,-10.489937,0.4,0.609799,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,bruce-halford,Bruce Halford,maserati,DNF,16,21,1,17,973.046895,969.874306,-3.172589,0.36,0.423452,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,maurice-trintignant,Maurice Trintignant,vanwall,DNF,13,11,1,18,1038.895791,1028.981102,-9.914689,0.32,0.518294,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,piero-taruffi,Piero Taruffi,vanwall,DNF,12,4,1,19,1093.824132,1078.000143,-15.823989,0.28,0.59648,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,luigi-villoresi,Luigi Villoresi,maserati,DNF,7,8,1,20,1046.070404,1030.638188,-15.432215,0.22,0.528644,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,robert-manzon,Robert Manzon,gordini,DNF,7,22,1,21,958.149436,949.028542,-9.120894,0.22,0.402418,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,alfonso-de-portago,Alfonso de Portago,ferrari,DNF,6,9,1,22,1018.018549,1000.613681,-17.404868,0.14,0.488097,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,les-leston,Les Leston,connaught,DNF,6,19,1,23,1000.0,983.896933,-16.103067,0.14,0.462061,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,hermano-da-silva-ramos,Hermano da Silva Ramos,gordini,DNF,3,20,1,24,1009.715412,989.911008,-19.804404,0.08,0.476088,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,jo-bonnier,Jo Bonnier,maserati,DNF,,,1,25,1000.0,978.896933,-21.103067,0.04,0.462061,50.0,26
+1956,8,1956-09-02,italy,Gran Premio d'Italia 1956,wolfgang-von-trips,Wolfgang von Trips,ferrari,DNS,,,2,26,1000.0,976.896933,-23.103067,0.0,0.462061,50.0,26

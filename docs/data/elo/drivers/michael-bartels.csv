@@ -1,5 +1,5 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1991-07-28,1991,9,germany,DNQ,,34,1500.0,1490.629822,-9.370178,0.045455,0.435879,24.0
-1991-08-11,1991,10,hungary,DNQ,,34,1490.629822,1481.928617,-8.701204,0.060606,0.423156,24.0
-1991-09-08,1991,12,italy,DNQ,,34,1481.928617,1473.170477,-8.758141,0.045455,0.410377,24.0
-1991-09-29,1991,14,spain,DNQ,,33,1473.170477,1464.852241,-8.318236,0.046875,0.393468,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1991-07-28,1991,9,germany,lotus,Lotus,DNQ,,34,1000.0,981.950341,-18.049659,0.045455,0.406448,50.0
+1991-08-11,1991,10,hungary,lotus,Lotus,DNQ,,34,981.950341,965.815851,-16.13449,0.060606,0.383296,50.0
+1991-09-08,1991,12,italy,lotus,Lotus,DNQ,,34,965.815851,949.857517,-15.958333,0.045455,0.364621,50.0
+1991-09-29,1991,14,spain,lotus,Lotus,DNQ,,33,949.857517,935.189554,-14.667964,0.046875,0.340234,50.0

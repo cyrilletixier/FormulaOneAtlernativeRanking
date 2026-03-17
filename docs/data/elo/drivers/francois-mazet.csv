@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1971-07-04,1971,5,france,13,50,24,1500.0,1500.700211,0.700211,0.478261,0.449085,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1971-07-04,1971,5,france,march,March,13,50,24,1000.0,1002.659459,2.659459,0.478261,0.425072,50.0

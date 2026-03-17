@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1954-07-17,1954,5,great-britain,14,78,33,1500.0,1502.742542,2.742542,0.59375,0.479477,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1954-07-17,1954,5,great-britain,connaught,Connaught,14,78,33,1000.0,1006.512688,6.512688,0.59375,0.463496,50.0

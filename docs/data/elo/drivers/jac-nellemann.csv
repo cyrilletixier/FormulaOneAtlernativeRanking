@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1976-06-13,1976,7,sweden,DNQ,,27,1500.0,1489.349775,-10.650225,0.0,0.443759,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1976-06-13,1976,7,sweden,brabham,Brabham,DNQ,,27,1000.0,979.466304,-20.533696,0.0,0.410674,50.0

@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1959-07-18,1959,5,great-britain,12,69,30,1500.0,1503.073775,3.073775,0.62069,0.492616,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1959-07-18,1959,5,great-britain,cooper,Cooper,12,69,30,1000.0,1006.891418,6.891418,0.62069,0.482861,50.0

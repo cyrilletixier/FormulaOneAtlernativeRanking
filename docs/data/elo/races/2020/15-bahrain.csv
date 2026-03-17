@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,lewis-hamilton,Lewis Hamilton,mercedes,1,57,1,0,1,1994.48614,1996.95998,2.473839,1.0,0.896923,24.0,20
-2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,max-verstappen,Max Verstappen,red-bull,2,57,3,0,2,1763.718451,1769.676148,5.957696,0.947368,0.699131,24.0,20
-2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,alexander-albon,Alexander Albon,red-bull,3,57,4,0,3,1606.991327,1616.428622,9.437296,0.894737,0.501516,24.0,20
-2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,lando-norris,Lando Norris,mclaren,4,57,9,0,4,1586.25394,1595.094991,8.841051,0.842105,0.473728,24.0,20
-2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,5,57,15,0,5,1612.73956,1619.465946,6.726386,0.789474,0.509208,24.0,20
-2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,pierre-gasly,Pierre Gasly,alphatauri,6,57,8,0,6,1578.753668,1585.309516,6.555848,0.736842,0.463682,24.0,20
-2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,daniel-ricciardo,Daniel Ricciardo,renault,7,57,6,0,7,1657.09167,1659.881441,2.789771,0.684211,0.56797,24.0,20
-2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,valtteri-bottas,Valtteri Bottas,mercedes,8,57,2,0,8,1833.663384,1830.27622,-3.387164,0.631579,0.772711,24.0,20
-2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,esteban-ocon,Esteban Ocon,renault,9,57,7,0,9,1561.040187,1564.374448,3.334261,0.578947,0.44002,24.0,20
-2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,charles-leclerc,Charles Leclerc,ferrari,10,56,12,0,10,1661.934659,1660.783262,-1.151397,0.526316,0.574291,24.0,20
-2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,daniil-kvyat,Daniil Kvyat,alphatauri,11,56,10,0,11,1549.766722,1550.934171,1.167449,0.473684,0.425041,24.0,20
-2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,george-russell,George Russell,williams,12,56,14,0,12,1422.629301,1426.317709,3.688407,0.421053,0.267369,24.0,20
-2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,sebastian-vettel,Sebastian Vettel,ferrari,13,56,11,0,13,1736.345869,1729.171258,-7.17461,0.368421,0.667363,24.0,20
-2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,nicholas-latifi,Nicholas Latifi,williams,14,56,20,0,14,1463.613532,1463.62904,0.015508,0.315789,0.315143,24.0,20
-2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,15,56,17,0,15,1605.801614,1600.119245,-5.682369,0.263158,0.499923,24.0,20
-2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,16,56,16,0,16,1468.379497,1465.729947,-2.64955,0.210526,0.320924,24.0,20
-2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,kevin-magnussen,Kevin Magnussen,haas,17,56,18,0,17,1459.22975,1455.58247,-3.64728,0.157895,0.309865,24.0,20
-2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,sergio-perez,Sergio Pérez,racing-point,18,53,5,0,18,1673.077954,1661.474608,-11.603345,0.105263,0.588736,24.0,20
-2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,lance-stroll,Lance Stroll,racing-point,DNF,2,13,1,19,1529.962072,1521.650255,-8.311817,0.052632,0.398957,24.0,20
-2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,romain-grosjean,Romain Grosjean,haas,DNF,0,19,1,20,1457.254812,1449.874832,-7.379979,0.0,0.307499,24.0,20
+2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,lewis-hamilton,Lewis Hamilton,mercedes,1,57,1,0,1,1592.095747,1595.944011,3.848264,1.0,0.923035,50.0,20
+2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,max-verstappen,Max Verstappen,red-bull,2,57,3,0,2,1314.994188,1326.698902,11.704715,0.947368,0.713274,50.0,20
+2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,alexander-albon,Alexander Albon,red-bull,3,57,4,0,3,1168.42946,1186.238645,17.809185,0.894737,0.538553,50.0,20
+2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,lando-norris,Lando Norris,mclaren,4,57,9,0,4,1150.943473,1167.244601,16.301128,0.842105,0.516083,50.0,20
+2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,5,57,15,0,5,1167.724097,1180.315291,12.591194,0.789474,0.53765,50.0,20
+2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,pierre-gasly,Pierre Gasly,alphatauri,6,57,8,0,6,1125.206421,1137.906931,12.70051,0.736842,0.482832,50.0,20
+2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,daniel-ricciardo,Daniel Ricciardo,renault,7,57,6,0,7,1207.992043,1212.772606,4.780563,0.684211,0.588599,50.0,20
+2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,valtteri-bottas,Valtteri Bottas,mercedes,8,57,2,0,8,1391.010005,1383.190027,-7.819978,0.631579,0.787979,50.0,20
+2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,esteban-ocon,Esteban Ocon,renault,9,57,7,0,9,1089.673948,1096.771736,7.097787,0.578947,0.436992,50.0,20
+2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,charles-leclerc,Charles Leclerc,ferrari,10,56,12,0,10,1238.841957,1233.835448,-5.006509,0.526316,0.626446,50.0,20
+2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,daniil-kvyat,Daniil Kvyat,alphatauri,11,56,10,0,11,1092.824741,1094.456999,1.632258,0.473684,0.441039,50.0,20
+2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,george-russell,George Russell,williams,12,56,14,0,12,911.147628,920.787554,9.639926,0.421053,0.228254,50.0,20
+2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,sebastian-vettel,Sebastian Vettel,ferrari,13,56,11,0,13,1204.319261,1193.539549,-10.779712,0.368421,0.584015,50.0,20
+2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,nicholas-latifi,Nicholas Latifi,williams,14,56,20,0,14,952.997888,955.183948,2.186059,0.315789,0.272068,50.0,20
+2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,15,56,17,0,15,1081.941583,1073.745382,-8.196201,0.263158,0.427082,50.0,20
+2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,16,56,16,0,16,978.35036,973.854771,-4.495588,0.210526,0.300438,50.0,20
+2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,kevin-magnussen,Kevin Magnussen,haas,17,56,18,0,17,945.632736,940.323727,-5.30901,0.157895,0.264075,50.0,20
+2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,sergio-perez,Sergio Pérez,racing-point,18,53,5,0,18,1245.099933,1218.664996,-26.434937,0.105263,0.633962,50.0,20
+2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,lance-stroll,Lance Stroll,racing-point,DNF,2,13,1,19,1076.152402,1057.799624,-18.352778,0.052632,0.419687,50.0,20
+2020,15,2020-11-29,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2020,romain-grosjean,Romain Grosjean,haas,DNF,0,19,1,20,958.339713,944.442836,-13.896877,0.0,0.277938,50.0,20

@@ -1,23 +1,23 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,michael-schumacher,Michael Schumacher,ferrari,1,67,1,0,1,1776.806952,1781.965748,5.158796,1.0,0.78505,24.0,22
-2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,juan-pablo-montoya,Juan Pablo Montoya,williams,2,67,3,0,2,1487.733201,1500.789606,13.056405,0.952381,0.408364,24.0,22
-2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,david-coulthard,David Coulthard,mclaren,3,67,5,0,3,1720.874888,1725.206632,4.331743,0.904762,0.724273,24.0,22
-2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,ralf-schumacher,Ralf Schumacher,williams,4,67,2,0,4,1594.112695,1601.265256,7.152561,0.857143,0.559119,24.0,22
-2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,rubens-barrichello,Rubens Barrichello,ferrari,5,67,4,0,5,1630.804915,1635.595535,4.79062,0.809524,0.609915,24.0,22
-2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,mika-hakkinen,Mika Häkkinen,mclaren,6,67,6,0,6,1688.306281,1690.151572,1.84529,0.761905,0.685018,24.0,22
-2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,eddie-irvine,Eddie Irvine,jaguar,7,67,12,0,7,1610.595221,1613.766617,3.171396,0.714286,0.582144,24.0,22
-2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,pedro-de-la-rosa,Pedro de la Rosa,jaguar,8,66,16,0,8,1448.373271,1455.86011,7.486839,0.666667,0.354715,24.0,22
-2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,jacques-villeneuve,Jacques Villeneuve,bar,9,66,11,0,9,1590.775111,1592.326078,1.550967,0.619048,0.554424,24.0,22
-2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,kimi-raikkonen,Kimi Räikkönen,sauber,10,66,9,0,10,1520.896439,1523.689866,2.793428,0.571429,0.455036,24.0,22
-2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,giancarlo-fisichella,Giancarlo Fisichella,benetton,11,66,15,0,11,1529.500218,1530.857159,1.356941,0.52381,0.46727,24.0,22
-2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,luciano-burti,Luciano Burti,prost,12,65,17,0,12,1512.273423,1513.074461,0.801038,0.47619,0.442814,24.0,22
-2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,jenson-button,Jenson Button,benetton,13,65,20,0,13,1526.70694,1525.873581,-0.833358,0.428571,0.463295,24.0,22
-2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,fernando-alonso,Fernando Alonso,minardi,14,65,21,0,14,1477.782403,1477.455267,-0.327136,0.380952,0.394583,24.0,22
-2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,jean-alesi,Jean Alesi,prost,15,64,14,0,15,1545.186869,1541.435576,-3.751293,0.333333,0.489637,24.0,22
-2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,jos-verstappen,Jos Verstappen,arrows,DNF,58,19,1,16,1483.868812,1481.054021,-2.81479,0.285714,0.402997,24.0,22
-2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,nick-heidfeld,Nick Heidfeld,sauber,DNF,54,10,1,17,1479.987762,1476.159019,-3.828743,0.238095,0.397626,24.0,22
-2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,DNF,48,8,1,18,1576.444778,1568.19628,-8.248498,0.190476,0.534164,24.0,22
-2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,jarno-trulli,Jarno Trulli,jordan,DNF,44,7,1,19,1510.270241,1503.139249,-7.130992,0.142857,0.439982,24.0,22
-2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,enrique-bernoldi,Enrique Bernoldi,arrows,DNF,29,18,1,20,1475.639881,1468.526403,-7.113478,0.095238,0.391633,24.0,22
-2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,olivier-panis,Olivier Panis,bar,DNF,23,13,1,21,1544.589136,1534.001172,-10.587964,0.047619,0.488784,24.0,22
-2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,tarso-marques,Tarso Marques,minardi,DNF,7,22,1,22,1459.149246,1450.289474,-8.859772,0.0,0.369157,24.0,22
+2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,michael-schumacher,Michael Schumacher,ferrari,1,67,1,0,1,1336.26626,1345.268689,9.002429,1.0,0.819951,50.0,22
+2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,juan-pablo-montoya,Juan Pablo Montoya,williams,2,67,3,0,2,983.212802,1011.729267,28.516465,0.952381,0.382052,50.0,22
+2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,david-coulthard,David Coulthard,mclaren,3,67,5,0,3,1297.626463,1303.665247,6.038784,0.904762,0.783986,50.0,22
+2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,ralf-schumacher,Ralf Schumacher,williams,4,67,2,0,4,1122.358243,1136.499033,14.14079,0.857143,0.574327,50.0,22
+2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,rubens-barrichello,Rubens Barrichello,ferrari,5,67,4,0,5,1195.903628,1202.859268,6.95564,0.809524,0.670411,50.0,22
+2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,mika-hakkinen,Mika Häkkinen,mclaren,6,67,6,0,6,1204.053693,1208.127063,4.073369,0.761905,0.680437,50.0,22
+2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,eddie-irvine,Eddie Irvine,jaguar,7,67,12,0,7,1101.766245,1110.176735,8.410489,0.714286,0.546076,50.0,22
+2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,pedro-de-la-rosa,Pedro de la Rosa,jaguar,8,66,16,0,8,948.641847,965.14454,16.502693,0.666667,0.336613,50.0,22
+2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,jacques-villeneuve,Jacques Villeneuve,bar,9,66,11,0,9,1118.728422,1121.211922,2.4835,0.619048,0.569378,50.0,22
+2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,kimi-raikkonen,Kimi Räikkönen,sauber,10,66,9,0,10,1049.276167,1054.1999,4.923733,0.571429,0.472954,50.0,22
+2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,giancarlo-fisichella,Giancarlo Fisichella,benetton,11,66,15,0,11,1006.381818,1011.8977,5.515882,0.52381,0.413492,50.0,22
+2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,luciano-burti,Luciano Burti,prost,12,65,17,0,12,1029.412374,1030.957869,1.545495,0.47619,0.445281,50.0,22
+2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,jenson-button,Jenson Button,benetton,13,65,20,0,13,1049.78923,1047.534282,-2.254948,0.428571,0.47367,50.0,22
+2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,fernando-alonso,Fernando Alonso,minardi,14,65,21,0,14,964.464626,965.654412,1.189786,0.380952,0.357157,50.0,22
+2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,jean-alesi,Jean Alesi,prost,15,64,14,0,15,1066.698572,1058.500387,-8.198184,0.333333,0.497297,50.0,22
+2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,jos-verstappen,Jos Verstappen,arrows,DNF,58,19,1,16,1023.454577,1015.889373,-7.565204,0.285714,0.437018,50.0,22
+2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,nick-heidfeld,Nick Heidfeld,sauber,DNF,54,10,1,17,992.763355,984.921526,-7.841829,0.238095,0.394932,50.0,22
+2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,DNF,48,8,1,18,1062.481385,1047.434975,-15.04641,0.190476,0.491404,50.0,22
+2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,jarno-trulli,Jarno Trulli,jordan,DNF,44,7,1,19,1037.194796,1021.532473,-15.662323,0.142857,0.456104,50.0,22
+2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,enrique-bernoldi,Enrique Bernoldi,arrows,DNF,29,18,1,20,964.006236,950.940384,-13.065852,0.095238,0.356555,50.0,22
+2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,olivier-panis,Olivier Panis,bar,DNF,23,13,1,21,1060.39565,1038.352121,-22.043529,0.047619,0.48849,50.0,22
+2001,9,2001-06-24,europe,2001 Warsteiner Grand Prix of Europe,tarso-marques,Tarso Marques,minardi,DNF,7,22,1,22,960.844082,943.223303,-17.620779,0.0,0.352416,50.0,22

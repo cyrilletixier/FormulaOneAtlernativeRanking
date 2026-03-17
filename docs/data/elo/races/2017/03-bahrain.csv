@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,1,57,3,0,1,1821.703993,1827.148232,5.444238,1.0,0.773157,24.0,20
-2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,2,57,2,0,2,1897.285031,1899.835999,2.550968,0.947368,0.841078,24.0,20
-2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,valtteri-bottas,Valtteri Bottas,mercedes,3,57,1,0,3,1668.240521,1675.453792,7.21327,0.894737,0.594184,24.0,20
-2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,4,57,5,0,4,1730.453013,1734.525081,4.072068,0.842105,0.672436,24.0,20
-2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,5,57,4,0,5,1745.008979,1747.402434,2.393454,0.789474,0.689746,24.0,20
-2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,felipe-massa,Felipe Massa,williams,6,57,8,0,6,1636.34274,1640.778307,4.435567,0.736842,0.552027,24.0,20
-2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,sergio-perez,Sergio Pérez,force-india,7,57,18,0,7,1672.189567,1674.226819,2.037252,0.684211,0.599325,24.0,20
-2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,romain-grosjean,Romain Grosjean,haas,8,57,9,0,8,1519.564167,1525.244169,5.680002,0.631579,0.394912,24.0,20
-2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,nico-hulkenberg,Nico Hülkenberg,renault,9,57,7,0,9,1602.685322,1604.419162,1.73384,0.578947,0.506704,24.0,20
-2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,esteban-ocon,Esteban Ocon,force-india,10,57,14,0,10,1486.219099,1490.409872,4.190773,0.526316,0.3517,24.0,20
-2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,pascal-wehrlein,Pascal Wehrlein,sauber,11,56,13,0,11,1446.444617,1450.552496,4.107879,0.473684,0.302523,24.0,20
-2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,daniil-kvyat,Daniil Kvyat,toro-rosso,12,56,11,0,12,1535.440618,1535.562956,0.122339,0.421053,0.415955,24.0,20
-2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,jolyon-palmer,Jolyon Palmer,renault,13,56,10,0,13,1468.653587,1469.584811,0.931224,0.368421,0.32962,24.0,20
-2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,fernando-alonso,Fernando Alonso,mclaren,14,54,15,0,14,1611.280494,1606.419552,-4.860943,0.315789,0.518329,24.0,20
-2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,DNF,50,19,1,15,1450.948404,1449.873682,-1.074722,0.263158,0.307938,24.0,20
-2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,12,16,1,16,1554.791413,1548.607107,-6.184305,0.184211,0.44189,24.0,20
-2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,lance-stroll,Lance Stroll,williams,DNF,12,12,1,17,1487.643436,1483.580168,-4.063267,0.184211,0.353513,24.0,20
-2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,max-verstappen,Max Verstappen,red-bull,DNF,11,6,1,18,1670.914502,1659.096804,-11.817698,0.105263,0.597667,24.0,20
-2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,kevin-magnussen,Kevin Magnussen,haas,DNF,8,20,1,19,1515.819096,1507.722568,-8.096528,0.052632,0.389987,24.0,20
-2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,stoffel-vandoorne,Stoffel Vandoorne,mclaren,DNS,,17,2,20,1498.401541,1489.586129,-8.815411,0.0,0.367309,24.0,20
+2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,1,57,3,0,1,1366.490029,1377.755309,11.26528,1.0,0.774694,50.0,20
+2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,2,57,2,0,2,1498.18243,1501.59563,3.413199,0.947368,0.879104,50.0,20
+2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,valtteri-bottas,Valtteri Bottas,mercedes,3,57,1,0,3,1211.584269,1226.055263,14.470995,0.894737,0.605317,50.0,20
+2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,4,57,5,0,4,1277.381755,1285.359063,7.977308,0.842105,0.682559,50.0,20
+2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,5,57,4,0,5,1339.020748,1341.092767,2.072019,0.789474,0.748033,50.0,20
+2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,felipe-massa,Felipe Massa,williams,6,57,8,0,6,1145.166939,1155.904769,10.737829,0.736842,0.522086,50.0,20
+2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,sergio-perez,Sergio Pérez,force-india,7,57,18,0,7,1244.829136,1246.781295,1.95216,0.684211,0.645167,50.0,20
+2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,romain-grosjean,Romain Grosjean,haas,8,57,9,0,8,1024.227588,1037.396992,13.169404,0.631579,0.368191,50.0,20
+2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,nico-hulkenberg,Nico Hülkenberg,renault,9,57,7,0,9,1143.624076,1146.565721,2.941645,0.578947,0.520114,50.0,20
+2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,esteban-ocon,Esteban Ocon,force-india,10,57,14,0,10,992.673368,1002.495701,9.822333,0.526316,0.329869,50.0,20
+2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,pascal-wehrlein,Pascal Wehrlein,sauber,11,56,13,0,11,930.939719,941.640492,10.700773,0.473684,0.259669,50.0,20
+2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,daniil-kvyat,Daniil Kvyat,toro-rosso,12,56,11,0,12,1050.304014,1051.319183,1.015169,0.421053,0.400749,50.0,20
+2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,jolyon-palmer,Jolyon Palmer,renault,13,56,10,0,13,972.715567,975.816415,3.100848,0.368421,0.306404,50.0,20
+2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,fernando-alonso,Fernando Alonso,mclaren,14,54,15,0,14,1108.633274,1100.661444,-7.97183,0.315789,0.475226,50.0,20
+2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,DNF,50,19,1,15,963.8179,962.167516,-1.650384,0.263158,0.296166,50.0,20
+2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,12,16,1,16,1107.155461,1092.699646,-14.455815,0.184211,0.473327,50.0,20
+2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,lance-stroll,Lance Stroll,williams,DNF,12,12,1,17,977.622649,971.227611,-6.395038,0.184211,0.312111,50.0,20
+2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,max-verstappen,Max Verstappen,red-bull,DNF,11,6,1,18,1285.309113,1256.002818,-29.306295,0.105263,0.691389,50.0,20
+2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,kevin-magnussen,Kevin Magnussen,haas,DNF,8,20,1,19,1025.727862,1009.857198,-15.870665,0.052632,0.370045,50.0,20
+2017,3,2017-04-16,bahrain,2017 Formula 1 Gulf Air Bahrain Grand Prix,stoffel-vandoorne,Stoffel Vandoorne,mclaren,DNS,,17,2,20,1000.943292,983.954357,-16.988936,0.0,0.339779,50.0,20

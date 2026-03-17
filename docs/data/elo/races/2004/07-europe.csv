@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,michael-schumacher,Michael Schumacher,ferrari,1,60,1,0,1,1860.490165,1864.132407,3.642243,1.0,0.84824,24.0,20
-2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,rubens-barrichello,Rubens Barrichello,ferrari,2,60,7,0,2,1706.729781,1712.847291,6.11751,0.947368,0.692472,24.0,20
-2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,jenson-button,Jenson Button,bar,3,60,5,0,3,1592.527653,1601.023808,8.496155,0.894737,0.54073,24.0,20
-2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,jarno-trulli,Jarno Trulli,renault,4,60,3,0,4,1597.537279,1604.601407,7.064128,0.842105,0.547767,24.0,20
-2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,fernando-alonso,Fernando Alonso,renault,5,60,6,0,5,1567.914222,1574.718885,6.804663,0.789474,0.505946,24.0,20
-2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,giancarlo-fisichella,Giancarlo Fisichella,sauber,6,60,18,0,6,1505.924686,1513.567877,7.643191,0.736842,0.418376,24.0,20
-2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,mark-webber,Mark Webber,jaguar,7,60,14,0,7,1486.684167,1493.703228,7.019061,0.684211,0.39175,24.0,20
-2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,juan-pablo-montoya,Juan Pablo Montoya,williams,8,59,8,0,8,1659.721685,1659.694321,-0.027364,0.631579,0.632719,24.0,20
-2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,felipe-massa,Felipe Massa,sauber,9,59,16,0,9,1525.970434,1529.149098,3.178663,0.578947,0.446503,24.0,20
-2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,nick-heidfeld,Nick Heidfeld,jordan,10,59,13,0,10,1518.231987,1520.408982,2.176995,0.526316,0.435608,24.0,20
-2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,olivier-panis,Olivier Panis,toyota,11,59,10,0,11,1494.430825,1496.14123,1.710405,0.473684,0.402417,24.0,20
-2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,christian-klien,Christian Klien,jaguar,12,59,12,0,12,1485.102674,1485.857981,0.755308,0.421053,0.389581,24.0,20
-2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,giorgio-pantano,Giorgio Pantano,jordan,13,58,15,0,13,1477.982308,1477.707694,-0.274613,0.368421,0.379863,24.0,20
-2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,gianmaria-bruni,Gianmaria Bruni,minardi,14,57,19,0,14,1468.866008,1467.624168,-1.24184,0.315789,0.367533,24.0,20
-2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,zsolt-baumgartner,Zsolt Baumgartner,minardi,15,57,17,0,15,1469.05347,1466.542418,-2.511051,0.263158,0.367785,24.0,20
-2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,takuma-sato,Takuma Sato,bar,DNF,47,2,1,16,1514.320361,1509.050189,-5.270172,0.210526,0.430117,24.0,20
-2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,david-coulthard,David Coulthard,mclaren,DNF,25,20,1,17,1645.607232,1634.662476,-10.944755,0.157895,0.613926,24.0,20
-2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,9,4,1,18,1576.341644,1566.43868,-9.902964,0.105263,0.517887,24.0,20
-2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,cristiano-da-matta,Cristiano da Matta,toyota,DNF,0,11,1,19,1524.51484,1514.479604,-10.035236,0.026316,0.444451,24.0,20
-2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,ralf-schumacher,Ralf Schumacher,williams,DNF,0,9,1,20,1654.893273,1640.492947,-14.400326,0.026316,0.626329,24.0,20
+2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,michael-schumacher,Michael Schumacher,ferrari,1,60,1,0,1,1424.397155,1430.870352,6.473197,1.0,0.870536,50.0,20
+2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,rubens-barrichello,Rubens Barrichello,ferrari,2,60,7,0,2,1263.04868,1274.243308,11.194628,0.947368,0.723476,50.0,20
+2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,jenson-button,Jenson Button,bar,3,60,5,0,3,1159.668863,1174.588888,14.920025,0.894737,0.596336,50.0,20
+2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,jarno-trulli,Jarno Trulli,renault,4,60,3,0,4,1177.363567,1188.494248,11.13068,0.842105,0.619492,50.0,20
+2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,fernando-alonso,Fernando Alonso,renault,5,60,6,0,5,1134.875065,1146.188305,11.31324,0.789474,0.563209,50.0,20
+2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,giancarlo-fisichella,Giancarlo Fisichella,sauber,6,60,18,0,6,1013.97032,1030.908128,16.937808,0.736842,0.398086,50.0,20
+2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,mark-webber,Mark Webber,jaguar,7,60,14,0,7,1000.574512,1015.772376,15.197864,0.684211,0.380253,50.0,20
+2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,juan-pablo-montoya,Juan Pablo Montoya,williams,8,59,8,0,8,1225.25567,1222.859987,-2.395682,0.631579,0.679493,50.0,20
+2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,felipe-massa,Felipe Massa,sauber,9,59,16,0,9,1057.707151,1063.778884,6.071733,0.578947,0.457513,50.0,20
+2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,nick-heidfeld,Nick Heidfeld,jordan,10,59,13,0,10,1025.635641,1031.262313,5.626672,0.526316,0.413782,50.0,20
+2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,olivier-panis,Olivier Panis,toyota,11,59,10,0,11,1009.520195,1013.597539,4.077345,0.473684,0.392137,50.0,20
+2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,christian-klien,Christian Klien,jaguar,12,59,12,0,12,976.831772,980.421067,3.589296,0.421053,0.349267,50.0,20
+2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,giorgio-pantano,Giorgio Pantano,jordan,13,58,15,0,13,965.208118,966.907338,1.699219,0.368421,0.334437,50.0,20
+2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,gianmaria-bruni,Gianmaria Bruni,minardi,14,57,19,0,14,947.997173,948.139169,0.141996,0.315789,0.31295,50.0,20
+2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,zsolt-baumgartner,Zsolt Baumgartner,minardi,15,57,17,0,15,952.569769,949.797651,-2.772119,0.263158,0.3186,50.0,20
+2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,takuma-sato,Takuma Sato,bar,DNF,47,2,1,16,1043.418878,1032.047817,-11.37106,0.210526,0.437948,50.0,20
+2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,david-coulthard,David Coulthard,mclaren,DNF,25,20,1,17,1128.71185,1108.862893,-19.848957,0.157895,0.554874,50.0,20
+2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,9,4,1,18,1105.244631,1084.364111,-20.88052,0.105263,0.522874,50.0,20
+2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,cristiano-da-matta,Cristiano da Matta,toyota,DNF,0,11,1,19,1054.96184,1033.590334,-21.371506,0.026316,0.453746,50.0,20
+2004,7,2004-05-30,europe,2004 Formula 1 Allianz Grand Prix of Europe,ralf-schumacher,Ralf Schumacher,williams,DNF,0,9,1,20,1178.523403,1148.789543,-29.73386,0.026316,0.620993,50.0,20

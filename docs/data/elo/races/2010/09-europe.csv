@@ -1,25 +1,25 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,sebastian-vettel,Sebastian Vettel,red-bull,1,57,1,0,1,1638.420466,1647.954826,9.53436,1.0,0.602735,24.0,24
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,lewis-hamilton,Lewis Hamilton,mclaren,2,57,3,0,2,1696.047373,1702.756553,6.70918,0.956522,0.676973,24.0,24
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,jenson-button,Jenson Button,mclaren,3,57,7,0,3,1671.136933,1677.555379,6.418446,0.913043,0.645608,24.0,24
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,rubens-barrichello,Rubens Barrichello,williams,4,57,9,0,4,1618.278229,1625.333751,7.055523,0.869565,0.575585,24.0,24
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,robert-kubica,Robert Kubica,renault,5,57,6,0,5,1646.6595,1651.757051,5.097551,0.826087,0.613689,24.0,24
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,adrian-sutil,Adrian Sutil,force-india,6,57,13,0,6,1448.299748,1458.828975,10.529227,0.782609,0.343891,24.0,24
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,kamui-kobayashi,Kamui Kobayashi,sauber,7,57,18,0,7,1475.788058,1484.412047,8.623989,0.73913,0.379798,24.0,24
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,fernando-alonso,Fernando Alonso,ferrari,8,57,4,0,8,1715.654662,1715.532455,-0.122207,0.695652,0.700744,24.0,24
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,sebastien-buemi,Sébastien Buemi,toro-rosso,9,57,11,0,9,1469.288251,1476.031735,6.743484,0.652174,0.371195,24.0,24
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,nico-rosberg,Nico Rosberg,mercedes,10,57,12,0,10,1632.157155,1632.501555,0.3444,0.608696,0.594346,24.0,24
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,felipe-massa,Felipe Massa,ferrari,11,57,5,0,11,1701.548327,1698.704083,-2.844244,0.565217,0.683728,24.0,24
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,pedro-de-la-rosa,Pedro de la Rosa,sauber,12,57,16,0,12,1468.235027,1471.881383,3.646356,0.521739,0.369808,24.0,24
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,jaime-alguersuari,Jaime Alguersuari,toro-rosso,13,57,17,0,13,1491.732808,1493.583416,1.850608,0.478261,0.401152,24.0,24
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,vitaly-petrov,Vitaly Petrov,renault,14,57,10,0,14,1496.004643,1496.67315,0.668507,0.434783,0.406928,24.0,24
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,michael-schumacher,Michael Schumacher,mercedes,15,57,15,0,15,1770.946502,1762.031034,-8.915468,0.391304,0.762782,24.0,24
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,16,57,14,0,16,1481.802897,1480.843211,-0.959686,0.347826,0.387813,24.0,24
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,lucas-di-grassi,Lucas di Grassi,virgin,17,56,21,0,17,1469.40676,1467.798668,-1.608092,0.304348,0.371352,24.0,24
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,karun-chandhok,Karun Chandhok,hrt,18,55,23,0,18,1475.244268,1472.407327,-2.836941,0.26087,0.379075,24.0,24
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,timo-glock,Timo Glock,virgin,19,55,22,0,19,1518.25179,1512.973712,-5.278078,0.217391,0.437311,24.0,24
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,bruno-senna,Bruno Senna,hrt,20,55,24,0,20,1463.71239,1459.153456,-4.558934,0.173913,0.363869,24.0,24
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,jarno-trulli,Jarno Trulli,lotus-racing,21,53,19,0,21,1519.98448,1512.562224,-7.422257,0.130435,0.439695,24.0,24
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,nico-hulkenberg,Nico Hülkenberg,williams,DNF,49,8,1,22,1486.133623,1478.773819,-7.359804,0.086957,0.393615,24.0,24
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,heikki-kovalainen,Heikki Kovalainen,lotus-racing,DNF,8,20,1,23,1546.018359,1535.122732,-10.895626,0.021739,0.475724,24.0,24
-2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,mark-webber,Mark Webber,red-bull,DNF,8,2,1,24,1653.406523,1638.986226,-14.420296,0.021739,0.622585,24.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,sebastian-vettel,Sebastian Vettel,red-bull,1,57,1,0,1,1230.686548,1246.646076,15.959528,1.0,0.680809,50.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,lewis-hamilton,Lewis Hamilton,mclaren,2,57,3,0,2,1258.317621,1270.508673,12.191052,0.956522,0.712701,50.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,jenson-button,Jenson Button,mclaren,3,57,7,0,3,1253.917805,1264.183626,10.265821,0.913043,0.707727,50.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,rubens-barrichello,Rubens Barrichello,williams,4,57,9,0,4,1156.059556,1170.133613,14.074058,0.869565,0.588084,50.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,robert-kubica,Robert Kubica,renault,5,57,6,0,5,1210.138182,1218.635261,8.497079,0.826087,0.656145,50.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,adrian-sutil,Adrian Sutil,force-india,6,57,13,0,6,1012.129574,1031.353626,19.224051,0.782609,0.398128,50.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,kamui-kobayashi,Kamui Kobayashi,sauber,7,57,18,0,7,965.53525,985.535735,20.000486,0.73913,0.339121,50.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,fernando-alonso,Fernando Alonso,ferrari,8,57,4,0,8,1238.379314,1238.669835,0.290521,0.695652,0.689842,50.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,sebastien-buemi,Sébastien Buemi,toro-rosso,9,57,11,0,9,982.712768,997.295436,14.582669,0.652174,0.360521,50.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,nico-rosberg,Nico Rosberg,mercedes,10,57,12,0,10,1212.278882,1209.776182,-2.5027,0.608696,0.65875,50.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,felipe-massa,Felipe Massa,ferrari,11,57,5,0,11,1240.732287,1234.364086,-6.3682,0.565217,0.692581,50.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,pedro-de-la-rosa,Pedro de la Rosa,sauber,12,57,16,0,12,980.557214,988.753662,8.196448,0.521739,0.35781,50.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,jaime-alguersuari,Jaime Alguersuari,toro-rosso,13,57,17,0,13,1014.175611,1018.049594,3.873983,0.478261,0.400781,50.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,vitaly-petrov,Vitaly Petrov,renault,14,57,10,0,14,1003.93611,1006.297914,2.361804,0.434783,0.387547,50.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,michael-schumacher,Michael Schumacher,mercedes,15,57,15,0,15,1273.277768,1256.378028,-16.89974,0.391304,0.729299,50.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,16,57,14,0,16,1014.458301,1011.792197,-2.666104,0.347826,0.401148,50.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,lucas-di-grassi,Lucas di Grassi,virgin,17,56,21,0,17,952.491161,951.548654,-0.942508,0.304348,0.323198,50.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,karun-chandhok,Karun Chandhok,hrt,18,55,23,0,18,963.868924,960.058894,-3.81003,0.26087,0.33707,50.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,timo-glock,Timo Glock,virgin,19,55,22,0,19,1009.412068,1000.551129,-8.860939,0.217391,0.39461,50.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,bruno-senna,Bruno Senna,hrt,20,55,24,0,20,940.750914,933.989888,-6.761026,0.173913,0.309134,50.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,jarno-trulli,Jarno Trulli,lotus-racing,21,53,19,0,21,997.959628,985.487506,-12.472122,0.130435,0.379877,50.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,nico-hulkenberg,Nico Hülkenberg,williams,DNF,49,8,1,22,983.863743,970.113042,-13.750701,0.086957,0.361971,50.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,heikki-kovalainen,Heikki Kovalainen,lotus-racing,DNF,8,20,1,23,1036.099438,1015.713598,-20.38584,0.021739,0.429456,50.0,24
+2010,9,2010-06-27,europe,2010 Formula 1 Telefónica Grand Prix of Europe,mark-webber,Mark Webber,red-bull,DNF,8,2,1,24,1250.373486,1216.275898,-34.097589,0.021739,0.703691,50.0,24

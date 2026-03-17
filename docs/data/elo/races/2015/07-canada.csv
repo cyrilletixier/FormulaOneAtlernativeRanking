@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,lewis-hamilton,Lewis Hamilton,mercedes,1,70,1,0,1,1830.423131,1835.883677,5.460547,1.0,0.772477,24.0,20
-2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,nico-rosberg,Nico Rosberg,mercedes,2,70,2,0,2,1791.514279,1796.694225,5.179945,0.947368,0.731537,24.0,20
-2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,valtteri-bottas,Valtteri Bottas,williams,3,70,4,0,3,1635.1506,1643.724715,8.574115,0.894737,0.537482,24.0,20
-2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,kimi-raikkonen,Kimi Räikkönen,ferrari,4,70,3,0,4,1723.710935,1728.269025,4.55809,0.842105,0.652185,24.0,20
-2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,sebastian-vettel,Sebastian Vettel,ferrari,5,70,18,0,5,1839.327879,1839.523437,0.195558,0.789474,0.781325,24.0,20
-2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,felipe-massa,Felipe Massa,williams,6,70,15,0,6,1695.589485,1698.470375,2.88089,0.736842,0.616805,24.0,20
-2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,pastor-maldonado,Pastor Maldonado,lotus-f1,7,70,6,0,7,1440.544369,1450.104056,9.559687,0.684211,0.28589,24.0,20
-2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,nico-hulkenberg,Nico Hülkenberg,force-india,8,69,7,0,8,1599.334805,1602.748145,3.41334,0.631579,0.489356,24.0,20
-2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,daniil-kvyat,Daniil Kvyat,red-bull,9,69,8,0,9,1509.375758,1514.386325,5.010566,0.578947,0.370174,24.0,20
-2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,romain-grosjean,Romain Grosjean,lotus-f1,10,69,5,0,10,1542.345034,1545.061705,2.716671,0.526316,0.413121,24.0,20
-2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,sergio-perez,Sergio Pérez,force-india,11,69,10,0,11,1589.276567,1589.225438,-0.051129,0.473684,0.475815,24.0,20
-2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,12,69,11,0,12,1512.601381,1513.723026,1.121645,0.421053,0.374317,24.0,20
-2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,daniel-ricciardo,Daniel Ricciardo,red-bull,13,69,9,0,13,1657.917634,1653.133421,-4.784213,0.368421,0.567763,24.0,20
-2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,marcus-ericsson,Marcus Ericsson,sauber,14,69,12,0,14,1451.663369,1452.068933,0.405564,0.315789,0.298891,24.0,20
-2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,max-verstappen,Max Verstappen,toro-rosso,15,69,19,0,15,1493.422408,1491.340578,-2.08183,0.263158,0.349901,24.0,20
-2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,felipe-nasr,Felipe Nasr,sauber,16,68,14,0,16,1524.107354,1519.818986,-4.288368,0.210526,0.389208,24.0,20
-2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,will-stevens,Will Stevens,marussia,17,66,17,0,17,1469.7661,1465.861083,-3.905017,0.157895,0.320604,24.0,20
-2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,roberto-merhi,Roberto Merhi,marussia,DNF,57,16,1,18,1476.98606,1471.605808,-5.380252,0.105263,0.32944,24.0,20
-2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,jenson-button,Jenson Button,mclaren,DNF,54,20,1,19,1667.469376,1654.804288,-12.665088,0.052632,0.580344,24.0,20
-2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,fernando-alonso,Fernando Alonso,mclaren,DNF,44,13,1,20,1732.815865,1716.895144,-15.920721,0.0,0.663363,24.0,20
+2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,lewis-hamilton,Lewis Hamilton,mercedes,1,70,1,0,1,1440.965044,1449.441737,8.476693,1.0,0.830466,50.0,20
+2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,nico-rosberg,Nico Rosberg,mercedes,2,70,2,0,2,1400.658059,1408.223366,7.565307,0.947368,0.796062,50.0,20
+2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,valtteri-bottas,Valtteri Bottas,williams,3,70,4,0,3,1231.002023,1245.031204,14.02918,0.894737,0.614153,50.0,20
+2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,kimi-raikkonen,Kimi Räikkönen,ferrari,4,70,3,0,4,1260.119854,1269.775906,9.656053,0.842105,0.648984,50.0,20
+2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,sebastian-vettel,Sebastian Vettel,ferrari,5,70,18,0,5,1402.224181,1401.82445,-0.399732,0.789474,0.797468,50.0,20
+2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,felipe-massa,Felipe Massa,williams,6,70,15,0,6,1241.592262,1247.086661,5.494399,0.736842,0.626954,50.0,20
+2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,pastor-maldonado,Pastor Maldonado,lotus-f1,7,70,6,0,7,937.528996,958.979985,21.450989,0.684211,0.255191,50.0,20
+2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,nico-hulkenberg,Nico Hülkenberg,force-india,8,69,7,0,8,1127.333646,1134.730172,7.396526,0.631579,0.483648,50.0,20
+2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,daniil-kvyat,Daniil Kvyat,red-bull,9,69,8,0,9,1042.929867,1053.033357,10.103491,0.578947,0.376878,50.0,20
+2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,romain-grosjean,Romain Grosjean,lotus-f1,10,69,5,0,10,1074.471144,1079.973419,5.502276,0.526316,0.41627,50.0,20
+2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,sergio-perez,Sergio Pérez,force-india,11,69,10,0,11,1135.775884,1134.737022,-1.038862,0.473684,0.494461,50.0,20
+2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,12,69,11,0,12,1032.991786,1035.810707,2.818921,0.421053,0.364674,50.0,20
+2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,daniel-ricciardo,Daniel Ricciardo,red-bull,13,69,9,0,13,1260.933903,1246.857918,-14.075985,0.368421,0.649941,50.0,20
+2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,marcus-ericsson,Marcus Ericsson,sauber,14,69,12,0,14,951.037408,953.343942,2.306535,0.315789,0.269659,50.0,20
+2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,max-verstappen,Max Verstappen,toro-rosso,15,69,19,0,15,994.887102,992.089794,-2.797308,0.263158,0.319104,50.0,20
+2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,felipe-nasr,Felipe Nasr,sauber,16,68,14,0,16,1054.862316,1045.805002,-9.057314,0.210526,0.391673,50.0,20
+2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,will-stevens,Will Stevens,marussia,17,66,17,0,17,952.460426,946.794907,-5.665519,0.157895,0.271205,50.0,20
+2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,roberto-merhi,Roberto Merhi,marussia,DNF,57,16,1,18,963.942796,955.014338,-8.928459,0.105263,0.283832,50.0,20
+2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,jenson-button,Jenson Button,mclaren,DNF,54,20,1,19,1164.690082,1140.751972,-23.93811,0.052632,0.531394,50.0,20
+2015,7,2015-06-07,canada,Formula 1 Grand Prix du Canada 2015,fernando-alonso,Fernando Alonso,mclaren,DNF,44,13,1,20,1201.638615,1172.739536,-28.899079,0.0,0.577982,50.0,20

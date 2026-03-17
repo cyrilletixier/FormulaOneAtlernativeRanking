@@ -1,5 +1,5 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1958-05-18,1958,2,monaco,DNQ,,30,1500.0,1493.464237,-6.535763,0.224138,0.496461,24.0
-1958-09-07,1958,10,italy,DNF,51,21,1493.464237,1495.454762,1.990525,0.55,0.467061,24.0
-1959-09-13,1959,8,italy,15,64,21,1495.454762,1491.263918,-4.190844,0.3,0.474618,24.0
-1960-09-04,1960,9,italy,4,48,17,1491.263918,1499.003271,7.739353,0.8125,0.490027,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1958-05-18,1958,2,monaco,osca,O.S.C.A.,DNQ,,30,1000.0,986.755125,-13.244875,0.224138,0.489035,50.0
+1958-09-07,1958,10,italy,maserati,Maserati,DNF,51,21,986.755125,992.491092,5.735967,0.55,0.435281,50.0
+1959-09-13,1959,8,italy,maserati,Maserati,15,64,21,992.491092,985.091278,-7.399814,0.3,0.447996,50.0
+1960-09-04,1960,9,italy,cooper,Cooper,4,48,17,985.091278,1001.66081,16.569532,0.8125,0.481109,50.0

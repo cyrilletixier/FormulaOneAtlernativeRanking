@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1972-03-04,1972,2,south-africa,DNS,,27,1500.0,1488.8955,-11.1045,0.0,0.462687,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1972-03-04,1972,2,south-africa,brabham,Brabham,DNS,,27,1000.0,977.795486,-22.204514,0.0,0.44409,50.0

@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1975-03-01,1975,3,south-africa,11,76,28,1500.0,1504.170381,4.170381,0.62963,0.455864,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1975-03-01,1975,3,south-africa,lotus,Lotus,11,76,28,1000.0,1010.1422,10.1422,0.62963,0.426786,50.0

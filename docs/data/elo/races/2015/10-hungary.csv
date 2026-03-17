@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,sebastian-vettel,Sebastian Vettel,ferrari,1,69,3,0,1,1843.648609,1848.795424,5.146816,1.0,0.785549,24.0,20
-2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,daniil-kvyat,Daniil Kvyat,red-bull,2,69,7,0,2,1524.061473,1537.445617,13.384144,0.947368,0.389696,24.0,20
-2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,daniel-ricciardo,Daniel Ricciardo,red-bull,3,69,4,0,3,1645.142035,1653.380144,8.238109,0.894737,0.551482,24.0,20
-2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,max-verstappen,Max Verstappen,toro-rosso,4,69,9,0,4,1494.673381,1506.43718,11.763799,0.842105,0.351947,24.0,20
-2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,fernando-alonso,Fernando Alonso,mclaren,5,69,15,0,5,1699.688916,1703.693764,4.004848,0.789474,0.622605,24.0,20
-2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,lewis-hamilton,Lewis Hamilton,mercedes,6,69,1,0,6,1845.171659,1843.967394,-1.204265,0.736842,0.78702,24.0,20
-2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,romain-grosjean,Romain Grosjean,lotus-f1,7,69,10,0,7,1533.400204,1540.175206,6.775002,0.684211,0.401919,24.0,20
-2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,nico-rosberg,Nico Rosberg,mercedes,8,69,2,0,8,1807.867354,1805.041035,-2.82632,0.631579,0.749342,24.0,20
-2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,jenson-button,Jenson Button,mclaren,9,69,16,0,9,1634.358977,1635.363376,1.0044,0.578947,0.537097,24.0,20
-2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,marcus-ericsson,Marcus Ericsson,sauber,10,69,17,0,10,1457.865431,1463.138084,5.272654,0.526316,0.306622,24.0,20
-2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,felipe-nasr,Felipe Nasr,sauber,11,69,18,0,11,1512.701003,1515.070281,2.369278,0.473684,0.374964,24.0,20
-2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,felipe-massa,Felipe Massa,williams,12,69,8,0,12,1710.152204,1704.997842,-5.154363,0.421053,0.635818,24.0,20
-2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,valtteri-bottas,Valtteri Bottas,williams,13,69,6,0,13,1655.069926,1650.360355,-4.709571,0.368421,0.564653,24.0,20
-2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,pastor-maldonado,Pastor Maldonado,lotus-f1,14,69,14,0,14,1454.53058,1454.846111,0.315531,0.315789,0.302642,24.0,20
-2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,roberto-merhi,Roberto Merhi,marussia,15,67,19,0,15,1473.799392,1472.292621,-1.506771,0.263158,0.32594,24.0,20
-2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,will-stevens,Will Stevens,marussia,16,65,20,0,16,1462.216094,1459.784388,-2.431707,0.210526,0.311847,24.0,20
-2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,60,12,1,17,1509.049276,1503.952406,-5.09687,0.157895,0.370264,24.0,20
-2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,55,5,1,18,1712.917174,1700.100747,-12.816427,0.105263,0.639281,24.0,20
-2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,sergio-perez,Sergio Pérez,force-india,DNF,53,13,1,19,1594.087034,1583.759221,-10.327813,0.052632,0.482957,24.0,20
-2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,nico-hulkenberg,Nico Hülkenberg,force-india,DNF,41,11,1,20,1612.941666,1600.741193,-12.200473,0.0,0.508353,24.0,20
+2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,sebastian-vettel,Sebastian Vettel,ferrari,1,69,3,0,1,1408.84555,1418.707258,9.861709,1.0,0.802766,50.0,20
+2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,daniil-kvyat,Daniil Kvyat,red-bull,2,69,7,0,2,1071.802661,1098.409415,26.606754,0.947368,0.415233,50.0,20
+2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,daniel-ricciardo,Daniel Ricciardo,red-bull,3,69,4,0,3,1223.216484,1237.620562,14.404079,0.894737,0.606655,50.0,20
+2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,max-verstappen,Max Verstappen,toro-rosso,4,69,9,0,4,1001.625311,1027.291845,25.666534,0.842105,0.328775,50.0,20
+2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,fernando-alonso,Fernando Alonso,mclaren,5,69,15,0,5,1147.729061,1161.590934,13.861872,0.789474,0.512236,50.0,20
+2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,lewis-hamilton,Lewis Hamilton,mercedes,6,69,1,0,6,1462.891768,1457.411258,-5.48051,0.736842,0.846452,50.0,20
+2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,romain-grosjean,Romain Grosjean,lotus-f1,7,69,10,0,7,1055.247581,1069.739288,14.491708,0.684211,0.394376,50.0,20
+2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,nico-rosberg,Nico Rosberg,mercedes,8,69,2,0,8,1424.879962,1415.638643,-9.241319,0.631579,0.816405,50.0,20
+2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,jenson-button,Jenson Button,mclaren,9,69,16,0,9,1104.807041,1110.890049,6.083007,0.578947,0.457287,50.0,20
+2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,marcus-ericsson,Marcus Ericsson,sauber,10,69,17,0,10,967.939765,979.769312,11.829548,0.526316,0.289725,50.0,20
+2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,felipe-nasr,Felipe Nasr,sauber,11,69,18,0,11,1031.072768,1036.53857,5.465801,0.473684,0.364368,50.0,20
+2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,felipe-massa,Felipe Massa,williams,12,69,8,0,12,1269.696956,1257.669085,-12.02787,0.421053,0.66161,50.0,20
+2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,valtteri-bottas,Valtteri Bottas,williams,13,69,6,0,13,1260.292139,1246.175697,-14.116442,0.368421,0.65075,50.0,20
+2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,pastor-maldonado,Pastor Maldonado,lotus-f1,14,69,14,0,14,969.442738,970.661025,1.218287,0.315789,0.291424,50.0,20
+2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,roberto-merhi,Roberto Merhi,marussia,15,67,19,0,15,964.313822,963.189511,-1.124311,0.263158,0.285644,50.0,20
+2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,will-stevens,Will Stevens,marussia,16,65,20,0,16,944.377984,941.720423,-2.657561,0.210526,0.263678,50.0,20
+2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,60,12,1,17,1026.957023,1016.885568,-10.071455,0.157895,0.359324,50.0,20
+2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,55,5,1,18,1238.415746,1212.430687,-25.985058,0.105263,0.624964,50.0,20
+2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,sergio-perez,Sergio Pérez,force-india,DNF,53,13,1,19,1142.922821,1120.249502,-22.673319,0.052632,0.506098,50.0,20
+2015,10,2015-07-26,hungary,Formula 1 Pirelli Magyar Nagydíj 2015,nico-hulkenberg,Nico Hülkenberg,force-india,DNF,41,11,1,20,1155.568215,1129.456761,-26.111453,0.0,0.522229,50.0,20

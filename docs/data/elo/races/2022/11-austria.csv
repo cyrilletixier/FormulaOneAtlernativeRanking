@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,charles-leclerc,Charles Leclerc,ferrari,1,71,2,0,1,1704.825272,1713.949593,9.124321,1.0,0.61982,24.0,20
-2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,max-verstappen,Max Verstappen,red-bull,2,71,1,0,2,1826.084818,1830.585082,4.500264,0.947368,0.759857,24.0,20
-2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,lewis-hamilton,Lewis Hamilton,mercedes,3,71,8,0,3,1952.730642,1953.351912,0.62127,0.894737,0.868851,24.0,20
-2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,george-russell,George Russell,mercedes,4,71,4,0,4,1546.119952,1556.501793,10.381842,0.842105,0.409529,24.0,20
-2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,esteban-ocon,Esteban Ocon,alpine,5,71,6,0,5,1612.266565,1619.264756,6.998191,0.789474,0.497882,24.0,20
-2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,mick-schumacher,Mick Schumacher,haas,6,70,9,0,6,1421.718569,1433.217616,11.499046,0.736842,0.257715,24.0,20
-2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,lando-norris,Lando Norris,mclaren,7,70,10,0,7,1665.806274,1668.563951,2.757678,0.684211,0.569307,24.0,20
-2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,kevin-magnussen,Kevin Magnussen,haas,8,70,7,0,8,1459.247994,1467.195455,7.947461,0.631579,0.300435,24.0,20
-2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,daniel-ricciardo,Daniel Ricciardo,mclaren,9,70,11,0,9,1633.535498,1634.796008,1.26051,0.578947,0.526426,24.0,20
-2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,fernando-alonso,Fernando Alonso,alpine,10,70,19,0,10,1587.529645,1589.009872,1.480227,0.526316,0.46464,24.0,20
-2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,valtteri-bottas,Valtteri Bottas,alfa-romeo,11,70,PL,0,11,1753.165118,1748.231685,-4.933433,0.473684,0.679244,24.0,20
-2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,alexander-albon,Alexander Albon,williams,12,70,15,0,12,1587.850151,1586.793741,-1.05641,0.421053,0.46507,24.0,20
-2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,lance-stroll,Lance Stroll,aston-martin,13,70,12,0,13,1541.402622,1540.564711,-0.837911,0.368421,0.403334,24.0,20
-2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,guanyu-zhou,Guanyu Zhou,alfa-romeo,14,70,13,0,14,1483.163451,1482.841085,-0.322366,0.315789,0.329221,24.0,20
-2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,pierre-gasly,Pierre Gasly,alphatauri,15,70,14,0,15,1596.891189,1591.7539,-5.13729,0.263158,0.477212,24.0,20
-2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,yuki-tsunoda,Yuki Tsunoda,alphatauri,16,70,16,0,16,1497.682999,1494.402407,-3.280592,0.210526,0.347218,24.0,20
-2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,sebastian-vettel,Sebastian Vettel,aston-martin,17,70,18,0,17,1616.934625,1608.624347,-8.310278,0.157895,0.504156,24.0,20
-2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,DNF,56,3,1,18,1708.616425,1696.151827,-12.464598,0.105263,0.624621,24.0,20
-2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,nicholas-latifi,Nicholas Latifi,williams,DNF,48,17,1,19,1423.396901,1418.430712,-4.966189,0.052632,0.259556,24.0,20
-2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,sergio-perez,Sergio Pérez,red-bull,DNF,24,5,1,20,1717.595908,1702.334166,-15.261742,0.0,0.635906,24.0,20
+2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,charles-leclerc,Charles Leclerc,ferrari,1,71,2,0,1,1269.230107,1286.528667,17.29856,1.0,0.654029,50.0,20
+2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,max-verstappen,Max Verstappen,red-bull,2,71,1,0,2,1402.265278,1409.8576,7.592322,0.947368,0.795522,50.0,20
+2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,lewis-hamilton,Lewis Hamilton,mercedes,3,71,8,0,3,1483.04661,1484.709945,1.663335,0.894737,0.86147,50.0,20
+2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,george-russell,George Russell,mercedes,4,71,4,0,4,1145.44889,1162.701901,17.253011,0.842105,0.497045,50.0,20
+2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,esteban-ocon,Esteban Ocon,alpine,5,71,6,0,5,1165.339878,1178.662708,13.322831,0.789474,0.523017,50.0,20
+2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,mick-schumacher,Mick Schumacher,haas,6,70,9,0,6,914.247255,940.040956,25.793701,0.736842,0.220968,50.0,20
+2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,lando-norris,Lando Norris,mclaren,7,70,10,0,7,1217.375384,1222.083865,4.708482,0.684211,0.590041,50.0,20
+2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,kevin-magnussen,Kevin Magnussen,haas,8,70,7,0,8,966.6516,984.447046,17.795447,0.631579,0.27567,50.0,20
+2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,daniel-ricciardo,Daniel Ricciardo,mclaren,9,70,11,0,9,1140.250075,1144.685012,4.434937,0.578947,0.490249,50.0,20
+2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,fernando-alonso,Fernando Alonso,alpine,10,70,19,0,10,1142.069669,1143.754087,1.684418,0.526316,0.492627,50.0,20
+2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,valtteri-bottas,Valtteri Bottas,alfa-romeo,11,70,PL,0,11,1249.444252,1241.625818,-7.818435,0.473684,0.630053,50.0,20
+2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,alexander-albon,Alexander Albon,williams,12,70,15,0,12,1108.768126,1107.361873,-1.406253,0.421053,0.449178,50.0,20
+2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,lance-stroll,Lance Stroll,aston-martin,13,70,12,0,13,1073.409017,1071.648462,-1.760555,0.368421,0.403632,50.0,20
+2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,guanyu-zhou,Guanyu Zhou,alfa-romeo,14,70,13,0,14,980.58173,981.809499,1.227769,0.315789,0.291234,50.0,20
+2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,pierre-gasly,Pierre Gasly,alphatauri,15,70,14,0,15,1123.157007,1112.919013,-10.237994,0.263158,0.467918,50.0,20
+2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,yuki-tsunoda,Yuki Tsunoda,alphatauri,16,70,16,0,16,1018.417601,1012.173414,-6.244187,0.210526,0.33541,50.0,20
+2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,sebastian-vettel,Sebastian Vettel,aston-martin,17,70,18,0,17,1104.868048,1090.557114,-14.310935,0.157895,0.444113,50.0,20
+2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,DNF,56,3,1,18,1279.807036,1251.740853,-28.066182,0.105263,0.666587,50.0,20
+2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,nicholas-latifi,Nicholas Latifi,williams,DNF,48,17,1,19,930.376043,921.151364,-9.224679,0.052632,0.237125,50.0,20
+2022,11,2022-07-10,austria,Formula 1 Grosser Preis von Österreich 2022,sergio-perez,Sergio Pérez,red-bull,DNF,24,5,1,20,1286.224575,1252.518982,-33.705593,0.0,0.674112,50.0,20

@@ -1,5 +1,5 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1952-06-22,1952,3,belgium,15,30,22,1500.0,1496.250564,-3.749436,0.333333,0.48956,24.0
-1952-07-19,1952,5,great-britain,DNF,20,32,1496.250564,1488.318116,-7.932448,0.16129,0.491809,24.0
-1952-08-03,1952,6,germany,DNF,6,34,1488.318116,1490.648887,2.330771,0.575758,0.478642,24.0
-1952-09-07,1952,8,italy,DNQ,,35,1490.648887,1482.706152,-7.942735,0.147059,0.478006,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1952-06-22,1952,3,belgium,hwm,HWM,15,30,22,1000.0,992.573288,-7.426712,0.333333,0.481868,50.0
+1952-07-19,1952,5,great-britain,hwm,HWM,DNF,20,32,992.573288,976.416889,-16.156399,0.16129,0.484418,50.0
+1952-08-03,1952,6,germany,hwm,HWM,DNF,6,34,976.416889,982.268152,5.851263,0.575758,0.458732,50.0
+1952-09-07,1952,8,italy,hwm,HWM,DNQ,,35,982.268152,966.647357,-15.620794,0.147059,0.459475,50.0

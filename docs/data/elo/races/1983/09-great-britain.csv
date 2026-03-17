@@ -1,30 +1,30 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,alain-prost,Alain Prost,renault,1,67,3,0,1,1655.100227,1663.215809,8.115582,1.0,0.661851,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,nelson-piquet,Nelson Piquet,brabham,2,67,6,0,2,1639.779948,1647.523444,7.743496,0.964286,0.64164,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,patrick-tambay,Patrick Tambay,ferrari,3,67,2,0,3,1586.778296,1595.419286,8.64099,0.928571,0.56853,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,nigel-mansell,Nigel Mansell,lotus,4,67,18,0,4,1537.353728,1546.83621,9.482482,0.892857,0.497754,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,rene-arnoux,René Arnoux,ferrari,5,67,1,0,5,1598.997884,1605.511488,6.513603,0.857143,0.585743,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,niki-lauda,Niki Lauda,mclaren,6,66,15,0,6,1590.922169,1596.851189,5.92902,0.821429,0.574386,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,mauro-baldi,Mauro Baldi,alfa-romeo,7,66,11,0,7,1508.157769,1516.075539,7.91777,0.785714,0.455807,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,8,66,9,0,8,1516.501801,1523.275511,6.77371,0.75,0.467762,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,john-watson,John Watson,mclaren,9,66,24,0,9,1652.600005,1653.936788,1.336783,0.714286,0.658586,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,jean-pierre-jarier,Jean-Pierre Jarier,ligier,10,65,25,0,10,1488.589174,1494.603648,6.014475,0.678571,0.427968,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,keke-rosberg,Keke Rosberg,williams,11,65,13,0,11,1613.300405,1614.193412,0.893007,0.642857,0.605649,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,jacques-laffite,Jacques Laffite,williams,12,65,20,0,12,1641.057002,1640.188193,-0.86881,0.607143,0.643343,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,michele-alboreto,Michele Alboreto,tyrrell,13,65,16,0,13,1581.570539,1581.817314,0.246775,0.571429,0.561146,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,danny-sullivan,Danny Sullivan,tyrrell,14,65,23,0,14,1506.258677,1508.241608,1.982931,0.535714,0.453092,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,thierry-boutsen,Thierry Boutsen,arrows,15,65,17,0,15,1509.04579,1510.075928,1.030138,0.5,0.457078,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,roberto-guerrero,Roberto Guerrero,theodore,16,64,21,0,16,1444.568017,1446.902162,2.334144,0.464286,0.36703,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,marc-surer,Marc Surer,arrows,17,64,19,0,17,1591.487473,1587.968784,-3.518689,0.428571,0.575183,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,49,8,1,18,1468.388376,1468.225284,-0.163092,0.392857,0.399653,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,raul-boesel,Raul Boesel,ligier,DNF,48,22,1,19,1490.300461,1488.542554,-1.757908,0.357143,0.430389,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNF,46,26,1,20,1426.837529,1426.309735,-0.527793,0.321429,0.34342,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,derek-warwick,Derek Warwick,toleman,DNF,27,10,1,21,1437.627167,1435.899209,-1.727959,0.285714,0.357713,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,riccardo-patrese,Riccardo Patrese,brabham,DNF,9,5,1,22,1537.696283,1531.738354,-5.95793,0.25,0.498247,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,stefan-johansson,Stefan Johansson,spirit,DNF,5,14,1,23,1482.795785,1477.863522,-4.932264,0.214286,0.419797,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,bruno-giacomelli,Bruno Giacomelli,toleman,DNF,3,12,1,24,1537.255226,1529.169683,-8.085542,0.160714,0.497612,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,eddie-cheever,Eddie Cheever,renault,DNF,3,7,1,25,1547.252105,1538.821096,-8.431009,0.160714,0.512006,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,elio-de-angelis,Elio de Angelis,lotus,DNF,1,4,1,26,1574.885578,1564.217835,-10.667742,0.107143,0.551632,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,corrado-fabi,Corrado Fabi,osella,DNQ,,,2,27,1460.976998,1452.488463,-8.488535,0.035714,0.389403,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,johnny-cecotto,Johnny Cecotto,theodore,DNQ,,,2,28,1506.486246,1496.461372,-10.024874,0.035714,0.453417,24.0,29
-1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,kenny-acheson,Kenny Acheson,ram,DNQ,,,2,29,1500.0,1490.197239,-9.802761,0.035714,0.444163,24.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,alain-prost,Alain Prost,renault,1,67,3,0,1,1245.210483,1258.279472,13.068989,1.0,0.73862,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,nelson-piquet,Nelson Piquet,brabham,2,67,6,0,2,1180.433239,1195.586889,15.15365,0.964286,0.661213,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,patrick-tambay,Patrick Tambay,ferrari,3,67,2,0,3,1147.064983,1162.60231,15.537327,0.928571,0.617825,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,nigel-mansell,Nigel Mansell,lotus,4,67,18,0,4,1075.21749,1093.891816,18.674326,0.892857,0.519371,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,rene-arnoux,René Arnoux,ferrari,5,67,1,0,5,1143.573617,1155.771985,12.198368,0.857143,0.613175,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,niki-lauda,Niki Lauda,mclaren,6,66,15,0,6,1086.376823,1100.701712,14.324889,0.821429,0.534931,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,mauro-baldi,Mauro Baldi,alfa-romeo,7,66,11,0,7,1038.36101,1054.252868,15.891858,0.785714,0.467877,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,8,66,9,0,8,1044.610395,1058.280699,13.670304,0.75,0.476594,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,john-watson,John Watson,mclaren,9,66,24,0,9,1180.045222,1182.723497,2.678274,0.714286,0.66072,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,jean-pierre-jarier,Jean-Pierre Jarier,ligier,10,65,25,0,10,966.891019,982.295568,15.404548,0.678571,0.37048,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,keke-rosberg,Keke Rosberg,williams,11,65,13,0,11,1210.398711,1207.62824,-2.770472,0.642857,0.698267,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,jacques-laffite,Jacques Laffite,williams,12,65,20,0,12,1169.398033,1167.400698,-1.997335,0.607143,0.64709,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,michele-alboreto,Michele Alboreto,tyrrell,13,65,16,0,13,1136.865088,1135.226958,-1.63813,0.571429,0.604191,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,danny-sullivan,Danny Sullivan,tyrrell,14,65,23,0,14,1017.850936,1022.666126,4.81519,0.535714,0.43941,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,thierry-boutsen,Thierry Boutsen,arrows,15,65,17,0,15,1023.521709,1026.159012,2.637304,0.5,0.447254,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,roberto-guerrero,Roberto Guerrero,theodore,16,64,21,0,16,937.826576,944.392222,6.565646,0.464286,0.332973,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,marc-surer,Marc Surer,arrows,17,64,19,0,17,1144.83074,1135.516725,-9.314015,0.428571,0.614852,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,49,8,1,18,977.952141,978.337678,0.385537,0.392857,0.385146,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,raul-boesel,Raul Boesel,ligier,DNF,48,22,1,19,1012.826773,1009.059764,-3.767009,0.357143,0.432483,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNF,46,26,1,20,875.99391,879.096661,3.102751,0.321429,0.259374,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,derek-warwick,Derek Warwick,toleman,DNF,27,10,1,21,959.728134,955.959284,-3.76885,0.285714,0.361091,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,riccardo-patrese,Riccardo Patrese,brabham,DNF,9,5,1,22,1040.668227,1029.613547,-11.05468,0.25,0.471094,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,stefan-johansson,Stefan Johansson,spirit,DNF,5,14,1,23,968.504849,960.588737,-7.916112,0.214286,0.372608,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,bruno-giacomelli,Bruno Giacomelli,toleman,DNF,3,12,1,24,1061.441223,1044.471119,-16.970104,0.160714,0.500116,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,eddie-cheever,Eddie Cheever,renault,DNF,3,7,1,25,1102.018733,1082.222817,-19.795916,0.160714,0.556633,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,elio-de-angelis,Elio de Angelis,lotus,DNF,1,4,1,26,1081.543647,1060.490913,-21.052734,0.107143,0.528198,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,corrado-fabi,Corrado Fabi,osella,DNQ,,,2,27,937.139011,922.319448,-14.819563,0.035714,0.332106,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,johnny-cecotto,Johnny Cecotto,theodore,DNQ,,,2,28,1019.293754,999.00928,-20.284474,0.035714,0.441404,50.0,29
+1983,9,1983-07-16,great-britain,1983 Marlboro British Grand Prix,kenny-acheson,Kenny Acheson,ram,DNQ,,,2,29,1000.0,981.040434,-18.959566,0.035714,0.414906,50.0,29

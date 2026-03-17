@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1980-03-30,1980,4,united-states-west,DNQ,,27,1500.0,1490.952381,-9.047619,0.038462,0.415446,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1980-03-30,1980,4,united-states-west,mclaren,McLaren,DNQ,,27,1000.0,983.253406,-16.746594,0.038462,0.373393,50.0

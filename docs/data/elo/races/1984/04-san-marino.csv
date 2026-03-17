@@ -1,29 +1,29 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,alain-prost,Alain Prost,mclaren,1,60,2,0,1,1663.993944,1671.789715,7.795771,1.0,0.675176,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,rene-arnoux,René Arnoux,ferrari,2,60,6,0,2,1627.834315,1635.889232,8.054917,0.962963,0.627341,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,elio-de-angelis,Elio de Angelis,lotus,3,59,11,0,3,1558.964322,1568.455903,9.491581,0.925926,0.530443,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,derek-warwick,Derek Warwick,renault,4,59,4,0,4,1511.378096,1521.627785,10.24969,0.888889,0.461818,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,thierry-boutsen,Thierry Boutsen,arrows,5,59,20,0,5,1537.851191,1546.295949,8.444759,0.851852,0.499987,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,andrea-de-cesaris,Andrea de Cesaris,ligier,6,58,12,0,6,1553.349979,1560.368984,7.019005,0.814815,0.522356,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,eddie-cheever,Eddie Cheever,alfa-romeo,7,58,8,0,7,1561.704652,1567.546064,5.841412,0.777778,0.534386,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,mauro-baldi,Mauro Baldi,spirit,8,58,22,0,8,1507.260031,1514.09605,6.836019,0.740741,0.455907,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,jonathan-palmer,Jonathan Palmer,ram,9,57,23,0,9,1508.415868,1514.3232,5.907332,0.703704,0.457565,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,philippe-alliot,Philippe Alliot,ram,DNF,53,21,1,10,1483.233765,1489.113403,5.879638,0.666667,0.421682,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,johnny-cecotto,Johnny Cecotto,toleman,NC,52,19,1,11,1472.003606,1477.373251,5.369645,0.62963,0.405894,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,nelson-piquet,Nelson Piquet,brabham,DNF,48,1,1,12,1656.927193,1654.71979,-2.207403,0.574074,0.666049,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,teo-fabi,Teo Fabi,brabham,DNF,48,9,1,13,1436.560047,1441.762122,5.202075,0.574074,0.357321,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,jo-gartner,Jo Gartner,osella,DNF,46,24,1,14,1500.0,1501.752158,1.752158,0.518519,0.445512,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,marc-surer,Marc Surer,arrows,DNF,40,16,1,15,1598.816114,1596.278618,-2.537496,0.481481,0.58721,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,31,7,1,16,1456.295089,1457.743203,1.448113,0.444444,0.384106,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,michele-alboreto,Michele Alboreto,ferrari,DNF,23,13,1,17,1569.457173,1566.142575,-3.314598,0.407407,0.545516,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,niki-lauda,Niki Lauda,mclaren,DNF,15,5,1,18,1580.43694,1575.856882,-4.580057,0.37037,0.561206,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,jacques-laffite,Jacques Laffite,williams,DNF,11,15,1,19,1575.867457,1570.554945,-5.312511,0.333333,0.554688,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,riccardo-patrese,Riccardo Patrese,alfa-romeo,DNF,6,10,1,20,1556.909996,1551.361448,-5.548547,0.296296,0.527486,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,keke-rosberg,Keke Rosberg,williams,DNF,2,3,1,21,1626.077426,1616.856385,-9.221041,0.240741,0.624951,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,nigel-mansell,Nigel Mansell,lotus,DNF,2,18,1,22,1549.373398,1542.752259,-6.621139,0.240741,0.516622,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,francois-hesnault,François Hesnault,ligier,DNF,0,17,1,23,1499.470978,1492.796832,-6.674146,0.166667,0.444756,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,patrick-tambay,Patrick Tambay,renault,DNF,0,14,1,24,1604.922399,1594.624151,-10.298248,0.166667,0.59576,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,ayrton-senna,Ayrton Senna,toleman,DNQ,,,2,25,1509.839493,1501.031112,-8.808381,0.092593,0.459608,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNQ,,,2,26,1415.122901,1409.446551,-5.676349,0.092593,0.329107,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,martin-brundle,Martin Brundle,tyrrell,DSQ,,,2,27,1470.485341,1461.239242,-9.2461,0.018519,0.403773,24.0,28
-1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,stefan-bellof,Stefan Bellof,tyrrell,DSQ,,,2,28,1470.485341,1461.239242,-9.2461,0.018519,0.403773,24.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,alain-prost,Alain Prost,mclaren,1,60,2,0,1,1228.643675,1242.487776,13.844101,1.0,0.723118,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,rene-arnoux,René Arnoux,ferrari,2,60,6,0,2,1180.249045,1195.176202,14.927157,0.962963,0.66442,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,elio-de-angelis,Elio de Angelis,lotus,3,59,11,0,3,1070.95245,1091.407355,20.454905,0.925926,0.516828,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,derek-warwick,Derek Warwick,renault,4,59,4,0,4,1098.391101,1115.081781,16.69068,0.888889,0.555075,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,thierry-boutsen,Thierry Boutsen,arrows,5,59,20,0,5,1078.547677,1094.767808,16.220131,0.851852,0.527449,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,andrea-de-cesaris,Andrea de Cesaris,ligier,6,58,12,0,6,1108.497895,1120.786553,12.288658,0.814815,0.569042,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,eddie-cheever,Eddie Cheever,alfa-romeo,7,58,8,0,7,1110.678739,1120.965456,10.286717,0.777778,0.572043,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,mauro-baldi,Mauro Baldi,spirit,8,58,22,0,8,1031.438289,1045.398098,13.959809,0.740741,0.461545,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,jonathan-palmer,Jonathan Palmer,ram,9,57,23,0,9,1021.544095,1034.340075,12.795979,0.703704,0.447784,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,philippe-alliot,Philippe Alliot,ram,DNF,53,21,1,10,969.807546,984.272711,14.465165,0.666667,0.377363,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,johnny-cecotto,Johnny Cecotto,toleman,NC,52,19,1,11,958.685787,972.03189,13.346102,0.62963,0.362708,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,nelson-piquet,Nelson Piquet,brabham,DNF,48,1,1,12,1201.050229,1195.237934,-5.812295,0.574074,0.69032,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,teo-fabi,Teo Fabi,brabham,DNF,48,9,1,13,915.745752,929.031849,13.286097,0.574074,0.308352,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,jo-gartner,Jo Gartner,osella,DNF,46,24,1,14,1000.0,1005.021623,5.021623,0.518519,0.418086,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,marc-surer,Marc Surer,arrows,DNF,40,16,1,15,1146.153206,1139.222722,-6.930484,0.481481,0.620091,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,31,7,1,16,962.670907,966.496386,3.82548,0.444444,0.367935,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,michele-alboreto,Michele Alboreto,ferrari,DNF,23,13,1,17,1102.715372,1095.032672,-7.682699,0.407407,0.561061,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,niki-lauda,Niki Lauda,mclaren,DNF,15,5,1,18,1084.408472,1076.145454,-8.263018,0.37037,0.535631,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,jacques-laffite,Jacques Laffite,williams,DNF,11,15,1,19,1047.797792,1040.244427,-7.553364,0.333333,0.484401,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,riccardo-patrese,Riccardo Patrese,alfa-romeo,DNF,6,10,1,20,1085.260554,1073.234423,-12.026131,0.296296,0.536819,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,keke-rosberg,Keke Rosberg,williams,DNF,2,3,1,21,1199.816649,1177.413139,-22.40351,0.240741,0.688811,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,nigel-mansell,Nigel Mansell,lotus,DNF,2,18,1,22,1084.902983,1070.124003,-14.77898,0.240741,0.53632,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,francois-hesnault,François Hesnault,ligier,DNF,0,17,1,23,1002.859513,990.092731,-12.766783,0.166667,0.422002,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,patrick-tambay,Patrick Tambay,renault,DNF,0,14,1,24,1161.544461,1137.859585,-23.684875,0.166667,0.640364,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,ayrton-senna,Ayrton Senna,toleman,DNQ,,,2,25,1024.874779,1006.883937,-17.990842,0.092593,0.452409,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNQ,,,2,26,884.433022,875.494765,-8.938257,0.092593,0.271358,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,martin-brundle,Martin Brundle,tyrrell,DSQ,,,2,27,944.497656,928.206973,-16.290682,0.018519,0.344332,50.0,28
+1984,4,1984-05-06,san-marino,Gran Premio di San Marino 1984,stefan-bellof,Stefan Bellof,tyrrell,DSQ,,,2,28,944.497656,928.206973,-16.290682,0.018519,0.344332,50.0,28

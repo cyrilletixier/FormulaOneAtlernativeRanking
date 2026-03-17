@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,lewis-hamilton,Lewis Hamilton,mclaren,1,76,3,0,1,1660.041384,1669.213954,9.17257,1.0,0.61781,24.0,20
-2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,robert-kubica,Robert Kubica,bmw-sauber,2,76,5,0,2,1611.302234,1620.820271,9.518037,0.947368,0.550784,24.0,20
-2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,felipe-massa,Felipe Massa,ferrari,3,76,1,0,3,1700.370676,1705.751624,5.380948,0.894737,0.670531,24.0,20
-2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,mark-webber,Mark Webber,red-bull,4,76,9,0,4,1517.203866,1527.375271,10.171405,0.842105,0.418297,24.0,20
-2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,sebastian-vettel,Sebastian Vettel,toro-rosso,5,76,19,0,5,1451.568579,1462.588952,11.020373,0.789474,0.330291,24.0,20
-2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,rubens-barrichello,Rubens Barrichello,honda,6,76,14,0,6,1576.464062,1582.108282,5.64422,0.736842,0.501666,24.0,20
-2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,kazuki-nakajima,Kazuki Nakajima,williams,7,76,13,0,7,1504.983719,1511.770493,6.786774,0.684211,0.401428,24.0,20
-2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,heikki-kovalainen,Heikki Kovalainen,mclaren,8,76,4,0,8,1586.222691,1589.009286,2.786594,0.631579,0.515471,24.0,20
-2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,kimi-raikkonen,Kimi Räikkönen,ferrari,9,76,2,0,9,1757.678086,1753.828572,-3.849514,0.578947,0.739344,24.0,20
-2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,fernando-alonso,Fernando Alonso,renault,10,75,7,0,10,1780.209029,1774.502437,-5.706592,0.526316,0.76409,24.0,20
-2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,jenson-button,Jenson Button,honda,11,75,11,0,11,1573.389475,1572.822353,-0.567121,0.473684,0.497314,24.0,20
-2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,timo-glock,Timo Glock,toyota,12,75,10,0,12,1498.699832,1499.377297,0.677465,0.421053,0.392825,24.0,20
-2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,jarno-trulli,Jarno Trulli,toyota,13,75,8,0,13,1572.965858,1569.886813,-3.079046,0.368421,0.496715,24.0,20
-2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,nick-heidfeld,Nick Heidfeld,bmw-sauber,14,72,12,0,14,1657.893157,1650.714008,-7.179149,0.315789,0.614921,24.0,20
-2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,adrian-sutil,Adrian Sutil,force-india,DNF,67,18,1,15,1422.654352,1421.911226,-0.743126,0.263158,0.294121,24.0,20
-2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,nico-rosberg,Nico Rosberg,williams,DNF,59,6,1,16,1540.235985,1534.477037,-5.758948,0.210526,0.450482,24.0,20
-2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,nelson-piquet-jr,Nelson Piquet Jr.,renault,DNF,47,17,1,17,1486.254731,1481.02143,-5.233302,0.157895,0.375949,24.0,20
-2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,giancarlo-fisichella,Giancarlo Fisichella,force-india,DNF,36,20,1,18,1603.803364,1593.363412,-10.439953,0.105263,0.540261,24.0,20
-2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,david-coulthard,David Coulthard,red-bull,DNF,7,15,1,19,1544.681899,1534.351732,-10.330167,0.026316,0.456739,24.0,20
-2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,sebastien-bourdais,Sébastien Bourdais,toro-rosso,DNF,7,16,1,20,1482.542169,1474.270702,-8.271468,0.026316,0.37096,24.0,20
+2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,lewis-hamilton,Lewis Hamilton,mclaren,1,76,3,0,1,1260.092021,1275.138736,15.046715,1.0,0.699066,50.0,20
+2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,robert-kubica,Robert Kubica,bmw-sauber,2,76,5,0,2,1200.093346,1216.130284,16.036938,0.947368,0.62663,50.0,20
+2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,felipe-massa,Felipe Massa,ferrari,3,76,1,0,3,1279.783315,1288.454036,8.670721,0.894737,0.721322,50.0,20
+2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,mark-webber,Mark Webber,red-bull,4,76,9,0,4,1058.347574,1078.454172,20.106598,0.842105,0.439973,50.0,20
+2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,sebastian-vettel,Sebastian Vettel,toro-rosso,5,76,19,0,5,922.261308,948.198109,25.936801,0.789474,0.270738,50.0,20
+2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,rubens-barrichello,Rubens Barrichello,honda,6,76,14,0,6,1041.817644,1057.75353,15.935887,0.736842,0.418124,50.0,20
+2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,kazuki-nakajima,Kazuki Nakajima,williams,7,76,13,0,7,1015.010514,1030.060922,15.050407,0.684211,0.383202,50.0,20
+2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,heikki-kovalainen,Heikki Kovalainen,mclaren,8,76,4,0,8,1146.296597,1150.016876,3.720278,0.631579,0.557173,50.0,20
+2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,kimi-raikkonen,Kimi Räikkönen,ferrari,9,76,2,0,9,1352.630694,1341.781459,-10.849235,0.578947,0.795932,50.0,20
+2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,fernando-alonso,Fernando Alonso,renault,10,75,7,0,10,1335.279256,1322.628862,-12.650394,0.526316,0.779324,50.0,20
+2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,jenson-button,Jenson Button,honda,11,75,11,0,11,1062.06302,1063.501808,1.438788,0.473684,0.444908,50.0,20
+2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,timo-glock,Timo Glock,toyota,12,75,10,0,12,1008.111113,1010.446465,2.335352,0.421053,0.374346,50.0,20
+2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,jarno-trulli,Jarno Trulli,toyota,13,75,8,0,13,1102.557674,1096.029226,-6.528448,0.368421,0.49899,50.0,20
+2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,nick-heidfeld,Nick Heidfeld,bmw-sauber,14,72,12,0,14,1242.713368,1224.564855,-18.148513,0.315789,0.67876,50.0,20
+2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,adrian-sutil,Adrian Sutil,force-india,DNF,67,18,1,15,891.607794,892.890394,1.2826,0.263158,0.237506,50.0,20
+2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,nico-rosberg,Nico Rosberg,williams,DNF,59,6,1,16,1094.209086,1080.344339,-13.864747,0.210526,0.487821,50.0,20
+2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,nelson-piquet-jr,Nelson Piquet Jr.,renault,DNF,47,17,1,17,978.285018,969.337837,-8.947181,0.157895,0.336838,50.0,20
+2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,giancarlo-fisichella,Giancarlo Fisichella,force-india,DNF,36,20,1,18,1092.422167,1073.413796,-19.008371,0.105263,0.485431,50.0,20
+2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,david-coulthard,David Coulthard,red-bull,DNF,7,15,1,19,1055.635291,1035.1323,-20.502991,0.026316,0.436376,50.0,20
+2008,6,2008-05-25,monaco,Formula 1 Grand Prix de Monaco 2008,sebastien-bourdais,Sébastien Bourdais,toro-rosso,DNF,7,16,1,20,970.708284,955.647079,-15.061205,0.026316,0.32754,50.0,20

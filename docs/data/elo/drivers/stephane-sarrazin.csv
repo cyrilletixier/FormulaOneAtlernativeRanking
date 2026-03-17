@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1999-04-11,1999,2,brazil,DNF,31,22,1500.0,1496.902304,-3.097696,0.285714,0.414785,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1999-04-11,1999,2,brazil,minardi,Minardi,DNF,31,22,1000.0,995.148666,-4.851334,0.285714,0.382741,50.0

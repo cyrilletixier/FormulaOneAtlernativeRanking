@@ -1,32 +1,32 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,gerhard-berger,Gerhard Berger,mclaren,1,69,4,0,1,1678.438821,1686.081796,7.642975,1.0,0.681543,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,michael-schumacher,Michael Schumacher,benetton,2,69,5,0,2,1568.722126,1579.055334,10.333208,0.966667,0.536116,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,jean-alesi,Jean Alesi,ferrari,3,69,8,0,3,1607.570327,1615.819516,8.249189,0.933333,0.589617,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,karl-wendlinger,Karl Wendlinger,march,4,68,12,0,4,1498.363592,1509.457824,11.094232,0.9,0.43774,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,andrea-de-cesaris,Andrea de Cesaris,tyrrell,5,68,14,0,5,1553.014681,1561.474651,8.45997,0.866667,0.514168,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,erik-comas,Érik Comas,ligier,6,68,22,0,6,1551.137921,1558.860981,7.72306,0.833333,0.511539,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,michele-alboreto,Michele Alboreto,footwork,7,68,16,0,7,1530.830295,1538.436725,7.606431,0.8,0.483065,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,pierluigi-martini,Pierluigi Martini,dallara,8,68,15,0,8,1569.449781,1574.958658,5.508877,0.766667,0.53713,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,jj-lehto,JJ Lehto,dallara,9,68,23,0,9,1543.121448,1548.714192,5.592744,0.733333,0.500302,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,thierry-boutsen,Thierry Boutsen,ligier,10,67,21,0,10,1632.233386,1634.090251,1.856865,0.7,0.622631,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,gianni-morbidelli,Gianni Morbidelli,minardi,11,67,13,0,11,1531.52146,1535.904634,4.383174,0.666667,0.484034,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,olivier-grouillard,Olivier Grouillard,tyrrell,12,67,26,0,12,1453.514631,1459.675622,6.160991,0.633333,0.376625,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,christian-fittipaldi,Christian Fittipaldi,minardi,13,65,25,0,13,1506.510469,1510.132986,3.622517,0.6,0.449062,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,paul-belmondo,Paul Belmondo,march,14,64,20,0,14,1474.295944,1478.184602,3.888658,0.566667,0.404639,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,ukyo-katayama,Ukyo Katayama,venturi,DNF,61,11,1,15,1500.573811,1502.794441,2.22063,0.533333,0.440807,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,martin-brundle,Martin Brundle,benetton,DNF,45,7,1,16,1567.699578,1566.86699,-0.832588,0.5,0.534691,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,riccardo-patrese,Riccardo Patrese,williams,DNF,43,2,1,17,1727.381415,1720.854389,-6.527026,0.466667,0.738626,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,ayrton-senna,Ayrton Senna,mclaren,DNF,37,1,1,18,1783.848281,1775.132263,-8.716018,0.433333,0.796501,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,stefano-modena,Stefano Modena,jordan,DNF,36,17,1,19,1537.979334,1535.745156,-2.234177,0.4,0.493091,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,mika-hakkinen,Mika Häkkinen,lotus,DNF,35,10,1,20,1537.270118,1534.259814,-3.010305,0.366667,0.492096,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,johnny-herbert,Johnny Herbert,lotus,DNF,34,6,1,21,1533.11142,1529.441088,-3.670331,0.333333,0.486264,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,ivan-capelli,Ivan Capelli,ferrari,DNF,18,9,1,22,1539.307698,1534.628807,-4.678891,0.3,0.494954,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,mauricio-gugelmin,Maurício Gugelmin,jordan,DNF,14,24,1,23,1559.918658,1553.346779,-6.571879,0.25,0.523828,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,nigel-mansell,Nigel Mansell,williams,DNF,14,3,1,24,1732.310322,1720.45358,-11.856742,0.25,0.744031,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,gabriele-tarquini,Gabriele Tarquini,fondmetal,DNF,0,18,1,25,1401.252864,1398.623967,-2.628898,0.2,0.309537,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,roberto-moreno,Roberto Moreno,andrea-moda,DNPQ,,,1,26,1481.462465,1475.516093,-5.946372,0.166667,0.414432,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,bertrand-gachot,Bertrand Gachot,venturi,DSQ,14,19,2,27,1476.992479,1470.392874,-6.599605,0.133333,0.408317,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,aguri-suzuki,Aguri Suzuki,footwork,DNQ,,,2,28,1481.688754,1472.934938,-8.753816,0.05,0.414742,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,andrea-chiesa,Andrea Chiesa,fondmetal,DNQ,,,2,29,1463.723966,1455.556503,-8.167463,0.05,0.390311,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,damon-hill,Damon Hill,brabham,DNQ,,,2,30,1472.549666,1464.09537,-8.454297,0.05,0.402262,24.0,31
-1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,eric-van-de-poele,Eric van de Poele,brabham,DNQ,,,2,31,1382.810153,1377.11504,-5.695113,0.05,0.287296,24.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,gerhard-berger,Gerhard Berger,mclaren,1,69,4,0,1,1221.108943,1236.398527,15.289584,1.0,0.694208,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,michael-schumacher,Michael Schumacher,benetton,2,69,5,0,2,1135.852377,1154.802023,18.949647,0.966667,0.587674,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,jean-alesi,Jean Alesi,ferrari,3,69,8,0,3,1149.129552,1165.54316,16.413609,0.933333,0.605061,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,karl-wendlinger,Karl Wendlinger,march,4,68,12,0,4,1009.101858,1033.271458,24.1696,0.9,0.416608,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,andrea-de-cesaris,Andrea de Cesaris,tyrrell,5,68,14,0,5,1089.531626,1106.585578,17.053952,0.866667,0.525588,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,erik-comas,Érik Comas,ligier,6,68,22,0,6,1105.440611,1119.7521,14.311489,0.833333,0.547104,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,michele-alboreto,Michele Alboreto,footwork,7,68,16,0,7,1069.027847,1084.142635,15.114788,0.8,0.497704,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,pierluigi-martini,Pierluigi Martini,dallara,8,68,15,0,8,1109.793189,1120.478444,10.685256,0.766667,0.552962,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,jj-lehto,JJ Lehto,dallara,9,68,23,0,9,1101.348558,1110.936035,9.587476,0.733333,0.541584,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,thierry-boutsen,Thierry Boutsen,ligier,10,67,21,0,10,1125.927397,1132.200653,6.273256,0.7,0.574535,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,gianni-morbidelli,Gianni Morbidelli,minardi,11,67,13,0,11,1065.002062,1073.72434,8.722279,0.666667,0.492221,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,olivier-grouillard,Olivier Grouillard,tyrrell,12,67,26,0,12,970.254153,983.635904,13.381752,0.633333,0.365698,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,christian-fittipaldi,Christian Fittipaldi,minardi,13,65,25,0,13,1022.049746,1030.351894,8.302149,0.6,0.433957,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,paul-belmondo,Paul Belmondo,march,14,64,20,0,14,960.292811,970.976143,10.683332,0.566667,0.353,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,ukyo-katayama,Ukyo Katayama,venturi,DNF,61,11,1,15,1006.790289,1012.780598,5.990309,0.533333,0.413527,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,martin-brundle,Martin Brundle,benetton,DNF,45,7,1,16,1105.748311,1103.372404,-2.375907,0.5,0.547518,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,riccardo-patrese,Riccardo Patrese,williams,DNF,43,2,1,17,1313.519869,1297.276845,-16.243023,0.466667,0.791527,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,ayrton-senna,Ayrton Senna,mclaren,DNF,37,1,1,18,1342.753916,1323.536974,-19.216942,0.433333,0.817672,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,stefano-modena,Stefano Modena,jordan,DNF,36,17,1,19,1046.4383,1043.090516,-3.347784,0.4,0.466956,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,mika-hakkinen,Mika Häkkinen,lotus,DNF,35,10,1,20,1070.204471,1063.572472,-6.631999,0.366667,0.499307,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,johnny-herbert,Johnny Herbert,lotus,DNF,34,6,1,21,1063.112395,1055.296698,-7.815697,0.333333,0.489647,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,ivan-capelli,Ivan Capelli,ferrari,DNF,18,9,1,22,1065.020058,1055.407778,-9.61228,0.3,0.492246,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,mauricio-gugelmin,Maurício Gugelmin,jordan,DNF,14,24,1,23,1096.954921,1082.672657,-14.282264,0.25,0.535645,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,nigel-mansell,Nigel Mansell,williams,DNF,14,3,1,24,1321.111522,1293.684694,-27.426828,0.25,0.798537,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,gabriele-tarquini,Gabriele Tarquini,fondmetal,DNF,0,18,1,25,920.030183,914.851083,-5.1791,0.2,0.303582,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,roberto-moreno,Roberto Moreno,andrea-moda,DNPQ,,,1,26,1021.313679,1007.998666,-13.315014,0.166667,0.432967,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,bertrand-gachot,Bertrand Gachot,venturi,DSQ,14,19,2,27,1026.58305,1011.24653,-15.33652,0.133333,0.440064,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,aguri-suzuki,Aguri Suzuki,footwork,DNQ,,,2,28,1009.834784,991.455487,-18.379297,0.05,0.417586,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,andrea-chiesa,Andrea Chiesa,fondmetal,DNQ,,,2,29,937.697283,923.954169,-13.743114,0.05,0.324862,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,damon-hill,Damon Hill,brabham,DNQ,,,2,30,949.426535,934.959178,-14.467357,0.05,0.339347,50.0,31
+1992,7,1992-06-14,canada,Grand Prix Molson du Canada 1992,eric-van-de-poele,Eric van de Poele,brabham,DNQ,,,2,31,823.790639,816.235287,-7.555352,0.05,0.201107,50.0,31

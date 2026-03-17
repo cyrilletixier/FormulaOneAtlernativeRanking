@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1955-09-11,1955,7,italy,DNF,7,23,1500.0,1493.748648,-6.251352,0.204545,0.465018,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1955-09-11,1955,7,italy,gordini,Gordini,DNF,7,23,1000.0,988.23351,-11.76649,0.204545,0.439875,50.0

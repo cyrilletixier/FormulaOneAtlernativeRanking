@@ -1,6 +1,6 @@
 {
-  "k": 24,
-  "initial_elo": 1500,
+  "k": 50,
+  "initial_elo": 1000,
   "scale": 400,
   "include_statuses": ["ALL"],
   "bottom_tier_statuses": ["DSQ", "DNS", "DNQ"],

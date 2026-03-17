@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1962-09-16,1962,7,italy,DNQ,,30,1500.0,1491.842822,-8.157178,0.137931,0.477813,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1962-09-16,1962,7,italy,lotus,Lotus,DNQ,,30,1000.0,984.063332,-15.936668,0.137931,0.456664,50.0

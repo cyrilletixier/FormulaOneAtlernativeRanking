@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1950-05-30,1950,3,indianapolis,22,123,34,1500.0,1496.0,-4.0,0.333333,0.5,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1950-05-30,1950,3,indianapolis,rae,Rae,22,123,34,1000.0,991.666667,-8.333333,0.333333,0.5,50.0

@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1973-02-11,1973,2,brazil,12,36,20,1500.0,1499.456871,-0.543129,0.421053,0.443683,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1973-02-11,1973,2,brazil,surtees,Surtees,12,36,20,1000.0,1000.200016,0.200016,0.421053,0.417052,50.0

@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1953-08-02,1953,7,germany,DNF,10,35,1500.0,1497.533798,-2.466202,0.382353,0.485111,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1953-08-02,1953,7,germany,veritas,Veritas,DNF,10,35,1000.0,995.366468,-4.633532,0.382353,0.475024,50.0

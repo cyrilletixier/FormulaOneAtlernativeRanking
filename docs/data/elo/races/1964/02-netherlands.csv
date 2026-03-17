@@ -1,19 +1,19 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,jim-clark,Jim Clark,lotus,1,80,2,0,1,1650.821639,1659.222509,8.40087,1.0,0.649964,24.0,18
-1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,john-surtees,John Surtees,ferrari,2,80,4,0,2,1518.374538,1530.012697,11.638159,0.941176,0.456253,24.0,18
-1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,peter-arundell,Peter Arundell,lotus,3,79,6,0,3,1500.952221,1511.796581,10.84436,0.882353,0.430505,24.0,18
-1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,graham-hill,Graham Hill,brm,4,79,3,0,4,1606.919498,1612.579431,5.659934,0.823529,0.587699,24.0,18
-1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,chris-amon,Chris Amon,lotus,5,79,13,0,5,1465.178747,1474.441228,9.262482,0.764706,0.378769,24.0,18
-1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,bob-anderson,Bob Anderson,brabham,6,78,11,0,6,1509.606883,1515.909763,6.30288,0.705882,0.443262,24.0,18
-1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,bruce-mclaren,Bruce McLaren,cooper,7,78,5,0,7,1602.896331,1604.46163,1.565299,0.647059,0.581838,24.0,18
-1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,phil-hill,Phil Hill,cooper,8,76,9,0,8,1578.277708,1579.301339,1.023631,0.588235,0.545584,24.0,18
-1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,jo-bonnier,Jo Bonnier,brabham,9,76,12,0,9,1563.403878,1563.54697,0.143093,0.529412,0.52345,24.0,18
-1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,giancarlo-baghetti,Giancarlo Baghetti,brm,10,74,16,0,10,1487.214885,1488.658833,1.443948,0.470588,0.410424,24.0,18
-1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,richie-ginther,Richie Ginther,brm,11,64,8,0,11,1607.347136,1603.109796,-4.237341,0.411765,0.588321,24.0,18
-1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,mike-hailwood,Mike Hailwood,lotus,12,57,14,0,12,1516.645963,1514.228054,-2.41791,0.352941,0.453687,24.0,18
-1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,jo-siffert,Jo Siffert,brabham,13,55,18,0,13,1500.189402,1496.943016,-3.246386,0.294118,0.429384,24.0,18
-1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,jack-brabham,Jack Brabham,brabham,DNF,44,7,1,14,1567.045218,1559.999182,-7.046036,0.235294,0.528879,24.0,18
-1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,lorenzo-bandini,Lorenzo Bandini,ferrari,DNF,25,10,1,15,1529.388264,1522.280115,-7.108149,0.176471,0.472643,24.0,18
-1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,dan-gurney,Dan Gurney,brabham,DNF,23,1,1,16,1578.633246,1568.3501,-10.283146,0.117647,0.546111,24.0,18
-1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,carel-godin-de-beaufort,Carel Godin de Beaufort,porsche,DNF,8,17,1,17,1520.954714,1511.324397,-9.630316,0.058824,0.460087,24.0,18
-1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,tony-maggs,Tony Maggs,brm,DNS,,15,2,18,1556.498317,1544.182946,-12.315371,0.0,0.51314,24.0,18
+1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,jim-clark,Jim Clark,lotus,1,80,2,0,1,1255.769602,1268.967244,13.197642,1.0,0.736047,50.0,18
+1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,john-surtees,John Surtees,ferrari,2,80,4,0,2,1037.613297,1062.855187,25.24189,0.941176,0.436339,50.0,18
+1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,peter-arundell,Peter Arundell,lotus,3,79,6,0,3,1006.194255,1030.724837,24.530582,0.882353,0.391741,50.0,18
+1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,graham-hill,Graham Hill,brm,4,79,3,0,4,1201.821436,1209.549411,7.727975,0.823529,0.66897,50.0,18
+1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,chris-amon,Chris Amon,lotus,5,79,13,0,5,946.448627,969.113321,22.664694,0.764706,0.311412,50.0,18
+1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,bob-anderson,Bob Anderson,brabham,6,78,11,0,6,1024.202,1038.638119,14.436119,0.705882,0.41716,50.0,18
+1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,bruce-mclaren,Bruce McLaren,cooper,7,78,5,0,7,1128.134578,1132.116153,3.981575,0.647059,0.567427,50.0,18
+1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,phil-hill,Phil Hill,cooper,8,76,9,0,8,1084.81839,1088.991466,4.173075,0.588235,0.504774,50.0,18
+1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,jo-bonnier,Jo Bonnier,brabham,9,76,12,0,9,1126.282586,1124.514426,-1.768161,0.529412,0.564775,50.0,18
+1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,giancarlo-baghetti,Giancarlo Baghetti,brm,10,74,16,0,10,981.291898,986.950948,5.659051,0.470588,0.357407,50.0,18
+1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,richie-ginther,Richie Ginther,brm,11,64,8,0,11,1177.268843,1166.048093,-11.22075,0.411765,0.63618,50.0,18
+1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,mike-hailwood,Mike Hailwood,lotus,12,57,14,0,12,1038.113897,1033.90806,-4.205837,0.352941,0.437058,50.0,18
+1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,jo-siffert,Jo Siffert,brabham,13,55,18,0,13,1024.579748,1018.400752,-6.178995,0.294118,0.417698,50.0,18
+1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,jack-brabham,Jack Brabham,brabham,DNF,44,7,1,14,1102.121384,1087.390139,-14.731244,0.235294,0.529919,50.0,18
+1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,lorenzo-bandini,Lorenzo Bandini,ferrari,DNF,25,10,1,15,1064.759867,1049.803728,-14.956139,0.176471,0.475593,50.0,18
+1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,dan-gurney,Dan Gurney,brabham,DNF,23,1,1,16,1125.728213,1103.411546,-22.316666,0.117647,0.56398,50.0,18
+1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,carel-godin-de-beaufort,Carel Godin de Beaufort,porsche,DNF,8,17,1,17,1054.566181,1034.467216,-20.098964,0.058824,0.460803,50.0,18
+1964,2,1964-05-24,netherlands,Grote Prijs van Nederland 1964,tony-maggs,Tony Maggs,brm,DNS,,15,2,18,1097.158939,1071.023094,-26.135845,0.0,0.522717,50.0,18

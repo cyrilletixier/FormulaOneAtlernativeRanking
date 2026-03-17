@@ -1,25 +1,25 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,fernando-alonso,Fernando Alonso,ferrari,1,57,11,0,1,1803.183501,1808.55794,5.374439,1.0,0.776065,24.0,24
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,kimi-raikkonen,Kimi Räikkönen,lotus-f1,2,57,5,0,2,1712.534851,1719.211084,6.676233,0.956522,0.678345,24.0,24
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,michael-schumacher,Michael Schumacher,mercedes,3,57,12,0,3,1607.823957,1616.607321,8.783365,0.913043,0.54707,24.0,24
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,mark-webber,Mark Webber,red-bull,4,57,19,0,4,1770.192856,1773.239302,3.046445,0.869565,0.74263,24.0,24
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,nico-hulkenberg,Nico Hülkenberg,force-india,5,57,8,0,5,1524.385869,1533.732034,9.346166,0.826087,0.436663,24.0,24
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,nico-rosberg,Nico Rosberg,mercedes,6,57,6,0,6,1682.163006,1685.540739,3.377733,0.782609,0.64187,24.0,24
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,paul-di-resta,Paul di Resta,force-india,7,57,10,0,7,1572.051701,1577.795449,5.743748,0.73913,0.499808,24.0,24
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,jenson-button,Jenson Button,mclaren,8,57,9,0,8,1730.517996,1730.434301,-0.083695,0.695652,0.699139,24.0,24
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,sergio-perez,Sergio Pérez,sauber,9,57,15,0,9,1542.6421,1547.235499,4.593399,0.652174,0.460782,24.0,24
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,bruno-senna,Bruno Senna,williams,10,57,14,0,10,1461.457937,1467.532669,6.074732,0.608696,0.355582,24.0,24
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,daniel-ricciardo,Daniel Ricciardo,toro-rosso,11,57,17,0,11,1467.42735,1472.2788,4.85145,0.565217,0.363074,24.0,24
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,pastor-maldonado,Pastor Maldonado,williams,12,57,3,0,12,1475.867199,1479.418904,3.551705,0.521739,0.373751,24.0,24
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,vitaly-petrov,Vitaly Petrov,caterham,13,57,20,0,13,1509.57082,1511.03559,1.46477,0.478261,0.417229,24.0,24
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,heikki-kovalainen,Heikki Kovalainen,caterham,14,57,16,0,14,1453.895921,1456.022668,2.126747,0.434783,0.346168,24.0,24
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,charles-pic,Charles Pic,marussia,15,57,23,0,15,1466.251477,1466.96453,0.713053,0.391304,0.361594,24.0,24
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,felipe-massa,Felipe Massa,ferrari,16,56,13,0,16,1675.407542,1668.550237,-6.857305,0.347826,0.633547,24.0,24
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,pedro-de-la-rosa,Pedro de la Rosa,hrt,17,56,21,0,17,1442.047835,1441.39367,-0.654165,0.304348,0.331605,24.0,24
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,narain-karthikeyan,Narain Karthikeyan,hrt,18,56,22,0,18,1392.234271,1391.936417,-0.297854,0.26087,0.27328,24.0,24
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,lewis-hamilton,Lewis Hamilton,mclaren,19,55,2,0,19,1751.037265,1738.925216,-12.112049,0.217391,0.72206,24.0,24
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,romain-grosjean,Romain Grosjean,lotus-f1,DNF,40,4,1,20,1493.663219,1488.319711,-5.343509,0.173913,0.396559,24.0,24
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,kamui-kobayashi,Kamui Kobayashi,sauber,DNF,33,7,1,21,1539.627022,1531.272769,-8.354254,0.108696,0.45679,24.0,24
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,sebastian-vettel,Sebastian Vettel,red-bull,DNF,33,1,1,22,1793.613201,1777.82271,-15.790491,0.108696,0.766633,24.0,24
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,DNF,26,18,1,23,1513.668879,1504.570219,-9.098659,0.043478,0.422589,24.0,24
-2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,timo-glock,Timo Glock,marussia,DNS,,,2,24,1413.162818,1406.030814,-7.132004,0.0,0.297167,24.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,fernando-alonso,Fernando Alonso,ferrari,1,57,11,0,1,1384.409991,1393.771885,9.361894,1.0,0.812762,50.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,kimi-raikkonen,Kimi Räikkönen,lotus-f1,2,57,5,0,2,1253.219587,1266.697205,13.477618,0.956522,0.686969,50.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,michael-schumacher,Michael Schumacher,mercedes,3,57,12,0,3,1048.030812,1071.61256,23.581748,0.913043,0.441409,50.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,mark-webber,Mark Webber,red-bull,4,57,19,0,4,1368.050234,1371.580074,3.52984,0.869565,0.798968,50.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,nico-hulkenberg,Nico Hülkenberg,force-india,5,57,8,0,5,1064.845072,1083.032078,18.187005,0.826087,0.462347,50.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,nico-rosberg,Nico Rosberg,mercedes,6,57,6,0,6,1251.102489,1255.999141,4.896651,0.782609,0.684676,50.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,paul-di-resta,Paul di Resta,force-india,7,57,10,0,7,1133.756616,1143.318141,9.561525,0.73913,0.5479,50.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,jenson-button,Jenson Button,mclaren,8,57,9,0,8,1280.624156,1279.608372,-1.015784,0.695652,0.715968,50.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,sergio-perez,Sergio Pérez,sauber,9,57,15,0,9,1096.112899,1103.655085,7.542186,0.652174,0.50133,50.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,bruno-senna,Bruno Senna,williams,10,57,14,0,10,977.121703,989.814246,12.692543,0.608696,0.354845,50.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,daniel-ricciardo,Daniel Ricciardo,toro-rosso,11,57,17,0,11,965.651295,976.847102,11.195806,0.565217,0.341301,50.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,pastor-maldonado,Pastor Maldonado,williams,12,57,3,0,12,985.306395,993.162975,7.85658,0.521739,0.364608,50.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,vitaly-petrov,Vitaly Petrov,caterham,13,57,20,0,13,1010.190476,1014.367473,4.176996,0.478261,0.394721,50.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,heikki-kovalainen,Heikki Kovalainen,caterham,14,57,16,0,14,939.532958,945.714504,6.181546,0.434783,0.311152,50.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,charles-pic,Charles Pic,marussia,15,57,23,0,15,941.389994,945.292175,3.902181,0.391304,0.313261,50.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,felipe-massa,Felipe Massa,ferrari,16,56,13,0,16,1190.941999,1177.501109,-13.440889,0.347826,0.616644,50.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,pedro-de-la-rosa,Pedro de la Rosa,hrt,17,56,21,0,17,929.646982,929.863338,0.216356,0.304348,0.300021,50.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,narain-karthikeyan,Narain Karthikeyan,hrt,18,56,22,0,18,851.467097,853.577757,2.11066,0.26087,0.218656,50.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,lewis-hamilton,Lewis Hamilton,mclaren,19,55,2,0,19,1319.060242,1292.213489,-26.846753,0.217391,0.754326,50.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,romain-grosjean,Romain Grosjean,lotus-f1,DNF,40,4,1,20,1014.107331,1002.827409,-11.279922,0.173913,0.399511,50.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,kamui-kobayashi,Kamui Kobayashi,sauber,DNF,33,7,1,21,1074.762413,1056.461376,-18.301038,0.108696,0.474716,50.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,sebastian-vettel,Sebastian Vettel,red-bull,DNF,33,1,1,22,1404.009261,1368.017288,-35.991973,0.108696,0.828535,50.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,DNF,26,18,1,23,1031.675201,1012.792583,-18.882617,0.043478,0.421131,50.0,24
+2012,8,2012-06-24,europe,2012 Formula 1 Grand Prix of Europe,timo-glock,Timo Glock,marussia,DNS,,,2,24,887.175474,874.463315,-12.712159,0.0,0.254243,50.0,24

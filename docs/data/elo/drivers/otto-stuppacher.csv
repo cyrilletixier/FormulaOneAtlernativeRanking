@@ -1,4 +1,4 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1976-09-12,1976,13,italy,DNS,,29,1500.0,1490.213812,-9.786188,0.035714,0.443472,24.0
-1976-10-03,1976,14,canada,DNQ,,27,1490.213812,1481.797361,-8.416451,0.076923,0.427609,24.0
-1976-10-10,1976,15,united-states,DNQ,,27,1481.797361,1471.846675,-9.950686,0.0,0.414612,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1976-09-12,1976,13,italy,tyrrell,Tyrrell,DNS,,29,1000.0,981.230186,-18.769814,0.035714,0.411111,50.0
+1976-10-03,1976,14,canada,tyrrell,Tyrrell,DNQ,,27,981.230186,965.964995,-15.265192,0.076923,0.382227,50.0
+1976-10-10,1976,15,united-states,tyrrell,Tyrrell,DNQ,,27,965.964995,947.962297,-18.002698,0.0,0.360054,50.0

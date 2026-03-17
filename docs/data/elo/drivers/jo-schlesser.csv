@@ -1,4 +1,4 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1966-08-07,1966,6,germany,10,14,30,1500.0,1505.578421,5.578421,0.689655,0.457221,24.0
-1967-08-06,1967,7,germany,DNF,2,26,1505.578421,1496.405455,-9.172966,0.08,0.462207,24.0
-1968-07-07,1968,6,france,DNF,2,18,1496.405455,1487.208862,-9.196592,0.058824,0.442015,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1966-08-07,1966,6,germany,matra,Matra,10,14,30,1000.0,1013.031989,13.031989,0.689655,0.429015,50.0
+1967-08-06,1967,7,germany,matra,Matra,DNF,2,26,1013.031989,994.635785,-18.396204,0.08,0.447924,50.0
+1968-07-07,1968,6,france,honda,Honda,DNF,2,18,994.635785,977.228063,-17.407722,0.058824,0.406978,50.0

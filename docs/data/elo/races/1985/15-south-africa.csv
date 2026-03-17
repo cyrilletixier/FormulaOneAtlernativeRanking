@@ -1,22 +1,22 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,nigel-mansell,Nigel Mansell,williams,1,75,1,0,1,1588.945404,1599.867857,10.922453,1.0,0.544898,24.0,21
-1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,keke-rosberg,Keke Rosberg,williams,2,75,3,0,2,1587.427914,1597.202442,9.774528,0.95,0.542728,24.0,21
-1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,alain-prost,Alain Prost,mclaren,3,74,9,0,3,1727.065586,1731.188938,4.123351,0.9,0.728194,24.0,21
-1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,stefan-johansson,Stefan Johansson,ferrari,4,74,16,0,4,1520.975156,1530.639677,9.664521,0.85,0.447312,24.0,21
-1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,gerhard-berger,Gerhard Berger,arrows,5,74,11,0,5,1517.65074,1526.228954,8.578214,0.8,0.442574,24.0,21
-1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,thierry-boutsen,Thierry Boutsen,arrows,6,74,10,0,6,1591.118731,1595.966667,4.847936,0.75,0.548003,24.0,21
-1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,martin-brundle,Martin Brundle,tyrrell,7,73,17,0,7,1475.392292,1482.991248,7.598955,0.7,0.383377,24.0,21
-1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,elio-de-angelis,Elio de Angelis,lotus,DNF,52,6,1,8,1646.65261,1647.236428,0.583818,0.65,0.625674,24.0,21
-1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,pierluigi-martini,Pierluigi Martini,minardi,DNF,45,19,1,9,1450.069262,1456.088947,6.019685,0.6,0.34918,24.0,21
-1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,niki-lauda,Niki Lauda,mclaren,DNF,37,8,1,10,1613.894472,1613.167162,-0.727309,0.55,0.580305,24.0,21
-1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,philippe-streiff,Philippe Streiff,tyrrell,DNF,16,18,1,11,1512.850337,1514.392339,1.542002,0.5,0.43575,24.0,21
-1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,ayrton-senna,Ayrton Senna,lotus,DNF,8,4,1,12,1581.206572,1578.594932,-2.61164,0.425,0.533818,24.0,21
-1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,michele-alboreto,Michele Alboreto,ferrari,DNF,8,15,1,13,1624.127735,1620.056395,-4.07134,0.425,0.594639,24.0,21
-1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,nelson-piquet,Nelson Piquet,brabham,DNF,6,2,1,14,1623.915231,1618.051003,-5.864228,0.35,0.594343,24.0,21
-1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,piercarlo-ghinzani,Piercarlo Ghinzani,toleman,DNF,4,13,1,15,1401.329704,1401.637721,0.308016,0.3,0.287166,24.0,21
-1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,marc-surer,Marc Surer,brabham,DNF,3,5,1,16,1571.914706,1564.823253,-7.091453,0.225,0.520477,24.0,21
-1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,teo-fabi,Teo Fabi,toleman,DNF,3,7,1,17,1471.037775,1467.379793,-3.657981,0.225,0.377416,24.0,21
-1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,huub-rothengatter,Huub Rothengatter,osella,DNF,1,20,1,18,1500.408482,1493.972545,-6.435937,0.15,0.418164,24.0,21
-1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,eddie-cheever,Eddie Cheever,alfa-romeo,DNF,0,14,1,19,1509.39933,1500.858774,-8.540556,0.075,0.430856,24.0,21
-1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,riccardo-patrese,Riccardo Patrese,alfa-romeo,DNF,0,12,1,20,1518.85812,1509.995066,-8.863054,0.075,0.444294,24.0,21
-1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,alan-jones,Alan Jones,lola,DNS,,,2,21,1680.669323,1664.569341,-16.099982,0.0,0.670833,24.0,21
+1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,nigel-mansell,Nigel Mansell,williams,1,75,1,0,1,1137.516212,1158.842624,21.326412,1.0,0.573472,50.0,21
+1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,keke-rosberg,Keke Rosberg,williams,2,75,3,0,2,1111.542607,1132.172777,20.630169,0.95,0.537397,50.0,21
+1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,alain-prost,Alain Prost,mclaren,3,74,9,0,3,1301.871008,1308.074136,6.203128,0.9,0.775937,50.0,21
+1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,stefan-johansson,Stefan Johansson,ferrari,4,74,16,0,4,1061.806794,1080.923936,19.117142,0.85,0.467657,50.0,21
+1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,gerhard-berger,Gerhard Berger,arrows,5,74,11,0,5,1049.901292,1067.349535,17.448243,0.8,0.451035,50.0,21
+1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,thierry-boutsen,Thierry Boutsen,arrows,6,74,10,0,6,1151.17337,1159.063482,7.890112,0.75,0.592198,50.0,21
+1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,martin-brundle,Martin Brundle,tyrrell,7,73,17,0,7,999.941162,1015.809254,15.868093,0.7,0.382638,50.0,21
+1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,elio-de-angelis,Elio de Angelis,lotus,DNF,52,6,1,8,1202.577909,1202.061557,-0.516352,0.65,0.660327,50.0,21
+1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,pierluigi-martini,Pierluigi Martini,minardi,DNF,45,19,1,9,929.407059,944.765072,15.358012,0.6,0.29284,50.0,21
+1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,niki-lauda,Niki Lauda,mclaren,DNF,37,8,1,10,1125.834696,1125.469227,-0.365469,0.55,0.557309,50.0,21
+1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,philippe-streiff,Philippe Streiff,tyrrell,DNF,16,18,1,11,1031.821661,1035.522673,3.701012,0.5,0.42598,50.0,21
+1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,ayrton-senna,Ayrton Senna,lotus,DNF,8,4,1,12,1156.764508,1148.024428,-8.74008,0.425,0.599802,50.0,21
+1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,michele-alboreto,Michele Alboreto,ferrari,DNF,8,15,1,13,1167.149102,1157.708379,-9.440723,0.425,0.613814,50.0,21
+1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,nelson-piquet,Nelson Piquet,brabham,DNF,6,2,1,14,1135.009441,1124.00876,-11.000681,0.35,0.570014,50.0,21
+1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,piercarlo-ghinzani,Piercarlo Ghinzani,toleman,DNF,4,13,1,15,882.437413,885.467201,3.029788,0.3,0.239404,50.0,21
+1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,marc-surer,Marc Surer,brabham,DNF,3,5,1,16,1102.116907,1087.156666,-14.960241,0.225,0.524205,50.0,21
+1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,teo-fabi,Teo Fabi,toleman,DNF,3,7,1,17,986.357462,979.377159,-6.980304,0.225,0.364606,50.0,21
+1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,huub-rothengatter,Huub Rothengatter,osella,DNF,1,20,1,18,1011.044225,998.664943,-12.379282,0.15,0.397586,50.0,21
+1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,eddie-cheever,Eddie Cheever,alfa-romeo,DNF,0,14,1,19,1005.338261,989.594156,-15.744105,0.075,0.389882,50.0,21
+1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,riccardo-patrese,Riccardo Patrese,alfa-romeo,DNF,0,12,1,20,1020.358334,1003.595728,-16.762606,0.075,0.410252,50.0,21
+1985,15,1985-10-19,south-africa,Southern Sun Hotels South African Grand Prix 1985,alan-jones,Alan Jones,lola,DNS,,,2,21,1213.065182,1179.382914,-33.682268,0.0,0.673645,50.0,21

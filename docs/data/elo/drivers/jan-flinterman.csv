@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1952-08-17,1952,7,netherlands,9,,18,1500.0,1500.348616,0.348616,0.5,0.485474,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1952-08-17,1952,7,netherlands,maserati,Maserati,9,,18,1000.0,1001.266467,1.266467,0.5,0.474671,50.0

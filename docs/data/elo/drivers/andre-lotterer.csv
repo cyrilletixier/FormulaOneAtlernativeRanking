@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-2014-08-24,2014,12,belgium,DNF,1,22,1500.0,1491.336232,-8.663768,0.02381,0.3848,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+2014-08-24,2014,12,belgium,caterham,Caterham,DNF,1,22,1000.0,983.702478,-16.297522,0.02381,0.34976,50.0

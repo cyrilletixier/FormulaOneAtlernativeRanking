@@ -1,3 +1,3 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1951-05-27,1951,1,switzerland,DNF,23,21,1500.0,1492.911798,-7.088202,0.2,0.495342,24.0
-1952-05-18,1952,1,switzerland,DNF,12,22,1492.911798,1487.486806,-5.424993,0.261905,0.487946,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1951-05-27,1951,1,switzerland,hwm,HWM,DNF,23,21,1000.0,985.467831,-14.532169,0.2,0.490643,50.0
+1952-05-18,1952,1,switzerland,hwm,HWM,DNF,12,22,985.467831,974.731271,-10.73656,0.261905,0.476636,50.0

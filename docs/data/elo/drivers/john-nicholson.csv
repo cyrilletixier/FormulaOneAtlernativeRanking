@@ -1,3 +1,3 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1974-07-20,1974,10,great-britain,DNQ,,35,1500.0,1491.821372,-8.178628,0.132353,0.473129,24.0
-1975-07-19,1975,10,great-britain,17,51,28,1491.821372,1490.870425,-0.950947,0.407407,0.44703,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1974-07-20,1974,10,great-britain,lyncar,Lyncar,DNQ,,35,1000.0,983.622066,-16.377934,0.132353,0.459912,50.0
+1975-07-19,1975,10,great-britain,lyncar,Lyncar,17,51,28,983.622066,983.594698,-0.027368,0.407407,0.407955,50.0

@@ -1,25 +1,25 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,mark-webber,Mark Webber,red-bull,1,52,2,0,1,1638.986226,1648.475467,9.48924,1.0,0.604615,24.0,24
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,2,52,4,0,2,1702.756553,1709.245889,6.489336,0.956522,0.686133,24.0,24
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,nico-rosberg,Nico Rosberg,mercedes,3,52,5,0,3,1632.501555,1640.111736,7.610181,0.913043,0.595953,24.0,24
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,jenson-button,Jenson Button,mclaren,4,52,14,0,4,1677.555379,1682.709454,5.154075,0.869565,0.654812,24.0,24
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,rubens-barrichello,Rubens Barrichello,williams,5,52,8,0,5,1625.333751,1631.088261,5.754509,0.826087,0.586316,24.0,24
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,kamui-kobayashi,Kamui Kobayashi,sauber,6,52,12,0,6,1484.412047,1493.76839,9.356343,0.782609,0.392761,24.0,24
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,7,52,1,0,7,1647.954826,1650.897964,2.943138,0.73913,0.6165,24.0,24
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,adrian-sutil,Adrian Sutil,force-india,8,52,11,0,8,1458.828975,1466.909626,8.080651,0.695652,0.358958,24.0,24
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,michael-schumacher,Michael Schumacher,mercedes,9,52,10,0,9,1762.031034,1759.585429,-2.445605,0.652174,0.754074,24.0,24
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,nico-hulkenberg,Nico Hülkenberg,williams,10,52,13,0,10,1478.773819,1484.137021,5.363202,0.608696,0.385229,24.0,24
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,11,52,20,0,11,1480.843211,1485.096706,4.253495,0.565217,0.387988,24.0,24
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,sebastien-buemi,Sébastien Buemi,toro-rosso,12,52,16,0,12,1476.031735,1479.395517,3.363782,0.521739,0.381582,24.0,24
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,vitaly-petrov,Vitaly Petrov,renault,13,52,15,0,13,1496.67315,1498.328707,1.655557,0.478261,0.409279,24.0,24
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,fernando-alonso,Fernando Alonso,ferrari,14,52,3,0,14,1715.532455,1709.131451,-6.401004,0.434783,0.701491,24.0,24
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,felipe-massa,Felipe Massa,ferrari,15,52,7,0,15,1698.704083,1691.746936,-6.957147,0.391304,0.681185,24.0,24
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,jarno-trulli,Jarno Trulli,lotus-racing,16,51,21,0,16,1512.562224,1510.567842,-1.994382,0.347826,0.430925,24.0,24
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,heikki-kovalainen,Heikki Kovalainen,lotus-racing,17,51,18,0,17,1535.122732,1531.339119,-3.783614,0.304348,0.461998,24.0,24
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,timo-glock,Timo Glock,virgin,18,50,19,0,18,1512.973712,1508.878847,-4.094865,0.26087,0.431489,24.0,24
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,karun-chandhok,Karun Chandhok,hrt,19,50,23,0,19,1472.407327,1468.582066,-3.82526,0.217391,0.376777,24.0,24
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,sakon-yamamoto,Sakon Yamamoto,hrt,20,50,24,0,20,1435.069378,1431.358009,-3.71137,0.173913,0.328553,24.0,24
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,jaime-alguersuari,Jaime Alguersuari,toro-rosso,DNF,44,17,1,21,1493.583416,1486.991448,-6.591967,0.130435,0.4051,24.0,24
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,sauber,DNF,29,9,1,22,1471.881383,1464.942382,-6.939002,0.086957,0.376082,24.0,24
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,robert-kubica,Robert Kubica,renault,DNF,19,6,1,23,1651.757051,1637.884474,-13.872577,0.043478,0.621502,24.0,24
-2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,lucas-di-grassi,Lucas di Grassi,virgin,DNF,9,22,1,24,1467.798668,1458.901952,-8.896715,0.0,0.370696,24.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,mark-webber,Mark Webber,red-bull,1,52,2,0,1,1216.275898,1233.044987,16.769089,1.0,0.664618,50.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,2,52,4,0,2,1270.508673,1281.978953,11.47028,0.956522,0.727116,50.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,nico-rosberg,Nico Rosberg,mercedes,3,52,5,0,3,1209.776182,1222.590662,12.81448,0.913043,0.656754,50.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,jenson-button,Jenson Button,mclaren,4,52,14,0,4,1264.183626,1271.654952,7.471326,0.869565,0.720139,50.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,rubens-barrichello,Rubens Barrichello,williams,5,52,8,0,5,1170.133613,1181.06965,10.936037,0.826087,0.607366,50.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,kamui-kobayashi,Kamui Kobayashi,sauber,6,52,12,0,6,985.535735,1006.369045,20.83331,0.782609,0.365942,50.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,7,52,1,0,7,1246.646076,1248.585383,1.939307,0.73913,0.700344,50.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,adrian-sutil,Adrian Sutil,force-india,8,52,11,0,8,1031.353626,1044.889079,13.535453,0.695652,0.424943,50.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,michael-schumacher,Michael Schumacher,mercedes,9,52,10,0,9,1256.378028,1253.416296,-2.961732,0.652174,0.711409,50.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,nico-hulkenberg,Nico Hülkenberg,williams,10,52,13,0,10,970.113042,983.214101,13.101059,0.608696,0.346674,50.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,11,52,20,0,11,1011.792197,1020.079016,8.286819,0.565217,0.399481,50.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,sebastien-buemi,Sébastien Buemi,toro-rosso,12,52,16,0,12,997.295436,1004.339414,7.043977,0.521739,0.38086,50.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,vitaly-petrov,Vitaly Petrov,renault,13,52,15,0,13,1006.297914,1010.591174,4.293261,0.478261,0.392396,50.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,fernando-alonso,Fernando Alonso,ferrari,14,52,3,0,14,1238.669835,1225.852344,-12.817491,0.434783,0.691132,50.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,felipe-massa,Felipe Massa,ferrari,15,52,7,0,15,1234.364086,1219.623925,-14.740161,0.391304,0.686108,50.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,jarno-trulli,Jarno Trulli,lotus-racing,16,51,21,0,16,985.487506,984.584725,-0.902781,0.347826,0.365882,50.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,heikki-kovalainen,Heikki Kovalainen,lotus-racing,17,51,18,0,17,1015.713598,1010.703132,-5.010466,0.304348,0.404557,50.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,timo-glock,Timo Glock,virgin,18,50,19,0,18,1000.551129,994.343581,-6.207548,0.26087,0.385021,50.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,karun-chandhok,Karun Chandhok,hrt,19,50,23,0,19,960.058894,954.212719,-5.846175,0.217391,0.334315,50.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,sakon-yamamoto,Sakon Yamamoto,hrt,20,50,24,0,20,901.282751,896.683112,-4.59964,0.173913,0.265906,50.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,jaime-alguersuari,Jaime Alguersuari,toro-rosso,DNF,44,17,1,21,1018.049594,1004.191922,-13.857671,0.130435,0.407588,50.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,sauber,DNF,29,9,1,22,988.753662,974.60118,-14.152483,0.086957,0.370006,50.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,robert-kubica,Robert Kubica,renault,DNF,19,6,1,23,1218.635261,1187.436431,-31.19883,0.043478,0.667455,50.0,24
+2010,10,2010-07-11,great-britain,2010 Formula 1 Santander British Grand Prix,lucas-di-grassi,Lucas di Grassi,virgin,DNF,9,22,1,24,951.548654,935.349233,-16.199421,0.0,0.323988,50.0,24

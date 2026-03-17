@@ -1,3 +1,3 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1990-03-11,1990,1,united-states,DNPQ,,35,1500.0,1493.373951,-6.626049,0.176471,0.452556,24.0
-1990-03-25,1990,2,brazil,DNPQ,,35,1493.373951,1487.099126,-6.274826,0.176471,0.437922,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1990-03-11,1990,1,united-states,life,Life,DNPQ,,35,1000.0,987.213458,-12.786542,0.176471,0.432201,50.0
+1990-03-25,1990,2,brazil,life,Life,DNPQ,,35,987.213458,975.690216,-11.523242,0.176471,0.406935,50.0

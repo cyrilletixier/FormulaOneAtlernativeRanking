@@ -1,3 +1,3 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1973-07-14,1973,9,great-britain,DNF,0,29,1500.0,1493.812303,-6.187697,0.196429,0.454249,24.0
-1973-07-29,1973,10,netherlands,DNF,7,24,1493.812303,1487.464989,-6.347313,0.173913,0.438384,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1973-07-14,1973,9,great-britain,march,March,DNF,0,29,1000.0,988.187738,-11.812262,0.196429,0.432674,50.0
+1973-07-29,1973,10,netherlands,march,March,DNF,7,24,988.187738,976.559585,-11.628152,0.173913,0.406476,50.0

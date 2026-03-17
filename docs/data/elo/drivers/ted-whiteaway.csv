@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1955-05-22,1955,2,monaco,DNQ,,24,1500.0,1489.735789,-10.264211,0.043478,0.471154,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1955-05-22,1955,2,monaco,hwm,HWM,DNQ,,24,1000.0,979.454479,-20.545521,0.043478,0.454389,50.0

@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1950-09-03,1950,7,italy,2,80,27,1500.0,1510.728156,10.728156,0.942308,0.495301,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1950-09-03,1950,7,italy,ferrari,Ferrari,2,80,27,1000.0,1022.5841,22.5841,0.942308,0.490626,50.0

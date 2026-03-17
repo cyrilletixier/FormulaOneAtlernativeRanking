@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,max-verstappen,Max Verstappen,red-bull,1,70,2,0,1,1913.62721,1917.627616,4.000406,1.0,0.833316,24.0,20
-2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,lando-norris,Lando Norris,mclaren,2,70,3,0,2,1654.492286,1664.102908,9.610622,0.947368,0.546926,24.0,20
-2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,sergio-perez,Sergio Pérez,red-bull,3,70,9,0,3,1781.76551,1786.322532,4.557022,0.894737,0.704861,24.0,20
-2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,lewis-hamilton,Lewis Hamilton,mercedes,4,70,1,0,4,1910.867073,1911.132066,0.264994,0.842105,0.831064,24.0,20
-2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,oscar-piastri,Oscar Piastri,mclaren,5,70,4,0,5,1509.075709,1519.509215,10.433506,0.789474,0.354744,24.0,20
-2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,george-russell,George Russell,mercedes,6,70,18,0,6,1661.292423,1665.634896,4.342473,0.736842,0.555906,24.0,20
-2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,charles-leclerc,Charles Leclerc,ferrari,7,70,6,0,7,1735.61309,1736.419477,0.806388,0.684211,0.650611,24.0,20
-2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,8,70,11,0,8,1726.404188,1726.218657,-0.185531,0.631579,0.639309,24.0,20
-2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,fernando-alonso,Fernando Alonso,aston-martin,9,70,8,0,9,1666.586803,1666.972644,0.385841,0.578947,0.562871,24.0,20
-2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,lance-stroll,Lance Stroll,aston-martin,10,69,14,0,10,1563.240978,1565.670666,2.429688,0.526316,0.425079,24.0,20
-2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,alexander-albon,Alexander Albon,williams,11,69,16,0,11,1545.447338,1547.176787,1.729448,0.473684,0.401624,24.0,20
-2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,valtteri-bottas,Valtteri Bottas,alfa-romeo,12,69,7,0,12,1612.360891,1610.68902,-1.671871,0.421053,0.490714,24.0,20
-2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,daniel-ricciardo,Daniel Ricciardo,alphatauri,13,69,13,0,13,1601.925933,1599.326692,-2.599241,0.368421,0.476723,24.0,20
-2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,nico-hulkenberg,Nico Hülkenberg,haas,14,69,10,0,14,1518.609678,1517.383844,-1.225834,0.315789,0.366866,24.0,20
-2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,yuki-tsunoda,Yuki Tsunoda,alphatauri,15,69,17,0,15,1480.760541,1479.405829,-1.354712,0.263158,0.319604,24.0,20
-2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,guanyu-zhou,Guanyu Zhou,alfa-romeo,16,69,5,0,16,1480.760909,1478.143029,-2.617881,0.210526,0.319605,24.0,20
-2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,kevin-magnussen,Kevin Magnussen,haas,17,69,19,0,17,1438.717446,1436.020017,-2.69743,0.157895,0.270288,24.0,20
-2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,logan-sargeant,Logan Sargeant,williams,18,67,20,0,18,1468.326347,1463.541439,-4.784908,0.105263,0.304634,24.0,20
-2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,esteban-ocon,Esteban Ocon,alpine,DNF,2,12,1,19,1616.738126,1606.083334,-10.654792,0.052632,0.496581,24.0,20
-2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,pierre-gasly,Pierre Gasly,alpine,DNF,1,15,1,20,1580.972271,1570.204083,-10.768188,0.0,0.448675,24.0,20
+2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,max-verstappen,Max Verstappen,red-bull,1,70,2,0,1,1534.246013,1540.019668,5.773655,1.0,0.884527,50.0,20
+2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,lando-norris,Lando Norris,mclaren,2,70,3,0,2,1184.832619,1205.063782,20.231163,0.947368,0.542745,50.0,20
+2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,sergio-perez,Sergio Pérez,red-bull,3,70,9,0,3,1369.883296,1376.951828,7.068532,0.894737,0.753366,50.0,20
+2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,lewis-hamilton,Lewis Hamilton,mercedes,4,70,1,0,4,1423.213837,1425.199547,1.985709,0.842105,0.802391,50.0,20
+2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,oscar-piastri,Oscar Piastri,mclaren,5,70,4,0,5,1032.759692,1054.664858,21.905166,0.789474,0.35137,50.0,20
+2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,george-russell,George Russell,mercedes,6,70,18,0,6,1265.207115,1270.018918,4.811804,0.736842,0.640606,50.0,20
+2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,charles-leclerc,Charles Leclerc,ferrari,7,70,6,0,7,1295.413369,1295.865551,0.452182,0.684211,0.675167,50.0,20
+2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,8,70,11,0,8,1286.510283,1284.832534,-1.67775,0.631579,0.665134,50.0,20
+2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,fernando-alonso,Fernando Alonso,aston-martin,9,70,8,0,9,1263.12435,1260.16319,-2.961159,0.578947,0.638171,50.0,20
+2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,lance-stroll,Lance Stroll,aston-martin,10,69,14,0,10,1107.561807,1111.64722,4.085413,0.526316,0.444608,50.0,20
+2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,alexander-albon,Alexander Albon,williams,11,69,16,0,11,1055.785483,1060.492477,4.706994,0.473684,0.379544,50.0,20
+2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,valtteri-bottas,Valtteri Bottas,alfa-romeo,12,69,7,0,12,1064.781052,1066.298412,1.517361,0.421053,0.390705,50.0,20
+2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,daniel-ricciardo,Daniel Ricciardo,alphatauri,13,69,13,0,13,1099.166021,1095.889577,-3.276444,0.368421,0.43395,50.0,20
+2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,nico-hulkenberg,Nico Hülkenberg,haas,14,69,10,0,14,1017.904593,1017.01652,-0.888072,0.315789,0.333551,50.0,20
+2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,yuki-tsunoda,Yuki Tsunoda,alphatauri,15,69,17,0,15,999.957624,997.492407,-2.465217,0.263158,0.312462,50.0,20
+2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,guanyu-zhou,Guanyu Zhou,alfa-romeo,16,69,5,0,16,999.983428,994.885135,-5.098293,0.210526,0.312492,50.0,20
+2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,kevin-magnussen,Kevin Magnussen,haas,17,69,19,0,17,939.721406,935.317263,-4.404143,0.157895,0.245978,50.0,20
+2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,logan-sargeant,Logan Sargeant,williams,18,67,20,0,18,954.11546,946.318824,-7.796637,0.105263,0.261196,50.0,20
+2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,esteban-ocon,Esteban Ocon,alpine,DNF,2,12,1,19,1146.600226,1124.515227,-22.084999,0.052632,0.494332,50.0,20
+2023,11,2023-07-23,hungary,Formula 1 Qatar Airways Hungarian Grand Prix 2023,pierre-gasly,Pierre Gasly,alpine,DNF,1,15,1,20,1102.126812,1080.241547,-21.885265,0.0,0.437705,50.0,20

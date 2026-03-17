@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,lewis-hamilton,Lewis Hamilton,mercedes,1,66,2,0,1,1957.375325,1960.432652,3.057327,1.0,0.872611,24.0,20
-2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,valtteri-bottas,Valtteri Bottas,mercedes,2,66,1,0,2,1816.290798,1820.909279,4.61848,0.947368,0.754932,24.0,20
-2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,max-verstappen,Max Verstappen,red-bull,3,66,4,0,3,1742.474734,1747.745947,5.271213,0.894737,0.675103,24.0,20
-2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,sebastian-vettel,Sebastian Vettel,ferrari,4,66,3,0,4,1865.755518,1866.729582,0.974063,0.842105,0.801519,24.0,20
-2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,charles-leclerc,Charles Leclerc,ferrari,5,66,5,0,5,1552.853838,1561.43922,8.585382,0.789474,0.431749,24.0,20
-2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,pierre-gasly,Pierre Gasly,red-bull,6,66,6,0,6,1510.217135,1518.883199,8.666065,0.736842,0.375756,24.0,20
-2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,kevin-magnussen,Kevin Magnussen,haas,7,66,8,0,7,1534.80261,1541.43504,6.63243,0.684211,0.407859,24.0,20
-2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,8,66,12,0,8,1548.038114,1552.98746,4.949346,0.631579,0.425356,24.0,20
-2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,daniil-kvyat,Daniil Kvyat,toro-rosso,9,66,9,0,9,1505.140091,1510.173823,5.033732,0.578947,0.369209,24.0,20
-2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,romain-grosjean,Romain Grosjean,haas,10,66,7,0,10,1503.964656,1507.771501,3.806845,0.526316,0.367697,24.0,20
-2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,alexander-albon,Alexander Albon,toro-rosso,11,66,11,0,11,1510.393826,1512.738619,2.344793,0.473684,0.375985,24.0,20
-2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,daniel-ricciardo,Daniel Ricciardo,renault,12,66,13,0,12,1650.110567,1646.756012,-3.354555,0.421053,0.560826,24.0,20
-2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,nico-hulkenberg,Nico Hülkenberg,renault,13,66,PL,0,13,1534.191318,1533.264122,-0.927197,0.368421,0.407054,24.0,20
-2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,14,66,14,0,14,1750.566822,1741.719752,-8.847069,0.315789,0.684417,24.0,20
-2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,sergio-perez,Sergio Pérez,racing-point,15,66,15,0,15,1639.604986,1632.790234,-6.814751,0.263158,0.547106,24.0,20
-2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,16,66,18,0,16,1494.011712,1490.544957,-3.466755,0.210526,0.354974,24.0,20
-2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,george-russell,George Russell,williams,17,65,19,0,17,1488.572764,1484.008288,-4.564476,0.157895,0.348081,24.0,20
-2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,robert-kubica,Robert Kubica,williams,18,65,17,0,18,1613.010933,1603.249642,-9.76129,0.105263,0.511984,24.0,20
-2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,lance-stroll,Lance Stroll,racing-point,DNF,44,16,1,19,1491.656427,1483.84039,-7.816038,0.026316,0.351984,24.0,20
-2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,lando-norris,Lando Norris,mclaren,DNF,44,10,1,20,1510.248622,1501.861078,-8.387544,0.026316,0.375797,24.0,20
+2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,lewis-hamilton,Lewis Hamilton,mercedes,1,66,2,0,1,1555.695619,1560.611696,4.916077,1.0,0.901678,50.0,20
+2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,valtteri-bottas,Valtteri Bottas,mercedes,2,66,1,0,2,1416.446751,1423.407002,6.960251,0.947368,0.808163,50.0,20
+2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,max-verstappen,Max Verstappen,red-bull,3,66,4,0,3,1345.154533,1352.62601,7.471477,0.894737,0.745307,50.0,20
+2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,sebastian-vettel,Sebastian Vettel,ferrari,4,66,3,0,4,1430.035701,1431.192408,1.156707,0.842105,0.818971,50.0,20
+2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,charles-leclerc,Charles Leclerc,ferrari,5,66,5,0,5,1123.653954,1138.545551,14.891597,0.789474,0.491642,50.0,20
+2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,pierre-gasly,Pierre Gasly,red-bull,6,66,6,0,6,1041.511605,1059.024613,17.513008,0.736842,0.386582,50.0,20
+2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,kevin-magnussen,Kevin Magnussen,haas,7,66,8,0,7,1064.435674,1077.860812,13.425139,0.684211,0.415708,50.0,20
+2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,8,66,12,0,8,1068.899443,1079.407697,10.508254,0.631579,0.421414,50.0,20
+2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,daniil-kvyat,Daniil Kvyat,toro-rosso,9,66,9,0,9,1004.528073,1016.445912,11.917839,0.578947,0.340591,50.0,20
+2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,romain-grosjean,Romain Grosjean,haas,10,66,7,0,10,1012.10323,1020.924973,8.821743,0.526316,0.349881,50.0,20
+2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,alexander-albon,Alexander Albon,toro-rosso,11,66,11,0,11,1026.11092,1031.432727,5.321807,0.473684,0.367248,50.0,20
+2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,daniel-ricciardo,Daniel Ricciardo,renault,12,66,13,0,12,1129.481379,1125.579807,-3.901571,0.421053,0.499084,50.0,20
+2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,nico-hulkenberg,Nico Hülkenberg,renault,13,66,PL,0,13,1027.665392,1027.626995,-0.038398,0.368421,0.369189,50.0,20
+2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,14,66,14,0,14,1291.682301,1272.898725,-18.783575,0.315789,0.691461,50.0,20
+2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,sergio-perez,Sergio Pérez,racing-point,15,66,15,0,15,1160.406505,1146.652795,-13.75371,0.263158,0.538232,50.0,20
+2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,16,66,18,0,16,996.62674,990.60381,-6.02293,0.210526,0.330985,50.0,20
+2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,george-russell,George Russell,williams,17,65,19,0,17,982.467008,974.661305,-7.805704,0.157895,0.314009,50.0,20
+2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,robert-kubica,Robert Kubica,williams,18,65,17,0,18,1124.690877,1105.305677,-19.385199,0.105263,0.492967,50.0,20
+2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,lance-stroll,Lance Stroll,racing-point,DNF,44,16,1,19,1012.473292,996.272247,-16.201046,0.026316,0.350337,50.0,20
+2019,5,2019-05-12,spain,Formula 1 Emirates Gran Premio de España 2019,lando-norris,Lando Norris,mclaren,DNF,44,10,1,20,1025.552218,1008.540452,-17.011766,0.026316,0.366551,50.0,20

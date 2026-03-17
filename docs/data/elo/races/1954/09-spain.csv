@@ -1,24 +1,24 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1954,9,1954-10-24,spain,Gran Premio de España 1954,mike-hawthorn,Mike Hawthorn,ferrari,1,80,3,0,1,1586.381963,1595.964613,9.582649,1.0,0.600723,24.0,23
-1954,9,1954-10-24,spain,Gran Premio de España 1954,luigi-musso,Luigi Musso,maserati,2,80,7,0,2,1489.978953,1501.864118,11.885166,0.954545,0.45933,24.0,23
-1954,9,1954-10-24,spain,Gran Premio de España 1954,juan-manuel-fangio,Juan Manuel Fangio,mercedes,3,79,2,0,3,1653.03235,1658.258198,5.225848,0.909091,0.691347,24.0,23
-1954,9,1954-10-24,spain,Gran Premio de España 1954,roberto-mieres,Roberto Mieres,maserati,4,79,11,0,4,1491.114104,1500.777311,9.663207,0.863636,0.461003,24.0,23
-1954,9,1954-10-24,spain,Gran Premio de España 1954,karl-kling,Karl Kling,mercedes,5,79,12,0,5,1521.509189,1529.00252,7.493332,0.818182,0.50596,24.0,23
-1954,9,1954-10-24,spain,Gran Premio de España 1954,paco-godia,Paco Godia,maserati,6,76,13,0,6,1500.942984,1508.076136,7.133152,0.772727,0.475513,24.0,23
-1954,9,1954-10-24,spain,Gran Premio de España 1954,louis-rosier,Louis Rosier,maserati,7,74,20,0,7,1518.667128,1524.079658,5.41253,0.727273,0.501751,24.0,23
-1954,9,1954-10-24,spain,Gran Premio de España 1954,ken-wharton,Ken Wharton,maserati,8,74,14,0,8,1498.991506,1504.012064,5.020558,0.681818,0.472628,24.0,23
-1954,9,1954-10-24,spain,Gran Premio de España 1954,birabongse-bhanudej,Birabongse Bhanudej,maserati,9,68,15,0,9,1512.177913,1515.639294,3.461381,0.636364,0.492139,24.0,23
-1954,9,1954-10-24,spain,Gran Premio de España 1954,sergio-mantovani,Sergio Mantovani,maserati,DNF,58,10,1,10,1510.882655,1513.299162,2.416507,0.590909,0.490221,24.0,23
-1954,9,1954-10-24,spain,Gran Premio de España 1954,emmanuel-de-graffenried,Emmanuel de Graffenried,maserati,DNF,57,21,1,11,1507.283937,1508.737407,1.453471,0.545455,0.484893,24.0,23
-1954,9,1954-10-24,spain,Gran Premio de España 1954,hans-herrmann,Hans Herrmann,mercedes,DNF,50,9,1,12,1517.130106,1517.142727,0.012621,0.5,0.499474,24.0,23
-1954,9,1954-10-24,spain,Gran Premio de España 1954,maurice-trintignant,Maurice Trintignant,ferrari,DNF,47,8,1,13,1526.020329,1524.6261,-1.394229,0.454545,0.512638,24.0,23
-1954,9,1954-10-24,spain,Gran Premio de España 1954,jacques-pollet,Jacques Pollet,gordini,DNF,37,16,1,14,1490.902339,1489.663945,-1.238394,0.409091,0.460691,24.0,23
-1954,9,1954-10-24,spain,Gran Premio de España 1954,harry-schell,Harry Schell,maserati,DNF,29,4,1,15,1487.932989,1485.708636,-2.224353,0.363636,0.456318,24.0,23
-1954,9,1954-10-24,spain,Gran Premio de España 1954,stirling-moss,Stirling Moss,maserati,DNF,20,6,1,16,1493.628207,1490.111539,-3.516668,0.318182,0.46471,24.0,23
-1954,9,1954-10-24,spain,Gran Premio de España 1954,jean-behra,Jean Behra,gordini,DNF,17,18,1,17,1476.107586,1472.11785,-3.989736,0.272727,0.438966,24.0,23
-1954,9,1954-10-24,spain,Gran Premio de España 1954,jacques-swaters,Jacques Swaters,ferrari,DNF,16,19,1,18,1482.943269,1477.622226,-5.321042,0.227273,0.448983,24.0,23
-1954,9,1954-10-24,spain,Gran Premio de España 1954,alberto-ascari,Alberto Ascari,lancia,DNF,10,1,1,19,1616.230905,1605.174997,-11.055909,0.181818,0.642481,24.0,23
-1954,9,1954-10-24,spain,Gran Premio de España 1954,luigi-villoresi,Luigi Villoresi,lancia,DNF,2,5,1,20,1564.550467,1553.615134,-10.935334,0.113636,0.569275,24.0,23
-1954,9,1954-10-24,spain,Gran Premio de España 1954,robert-manzon,Robert Manzon,ferrari,DNF,2,17,1,21,1496.188757,1487.672306,-8.516451,0.113636,0.468488,24.0,23
-1954,9,1954-10-24,spain,Gran Premio de España 1954,ottorino-volonterio,Ottorino Volonterio,maserati,DNF,,,1,22,1500.0,1489.712061,-10.287939,0.045455,0.474119,24.0,23
-1954,9,1954-10-24,spain,Gran Premio de España 1954,peter-collins,Peter Collins,vanwall,DNS,,,2,23,1468.82907,1458.548702,-10.280369,0.0,0.428349,24.0,23
+1954,9,1954-10-24,spain,Gran Premio de España 1954,mike-hawthorn,Mike Hawthorn,ferrari,1,80,3,0,1,1142.267578,1159.475642,17.208064,1.0,0.655839,50.0,23
+1954,9,1954-10-24,spain,Gran Premio de España 1954,luigi-musso,Luigi Musso,maserati,2,80,7,0,2,981.288713,1007.630586,26.341873,0.954545,0.427708,50.0,23
+1954,9,1954-10-24,spain,Gran Premio de España 1954,juan-manuel-fangio,Juan Manuel Fangio,mercedes,3,79,2,0,3,1251.513339,1257.745373,6.232034,0.909091,0.78445,50.0,23
+1954,9,1954-10-24,spain,Gran Premio de España 1954,roberto-mieres,Roberto Mieres,maserati,4,79,11,0,4,994.069272,1014.948874,20.879602,0.863636,0.446044,50.0,23
+1954,9,1954-10-24,spain,Gran Premio de España 1954,karl-kling,Karl Kling,mercedes,5,79,12,0,5,1043.590926,1058.609772,15.018846,0.818182,0.517805,50.0,23
+1954,9,1954-10-24,spain,Gran Premio de España 1954,paco-godia,Paco Godia,maserati,6,76,13,0,6,1002.559941,1018.281588,15.721647,0.772727,0.458294,50.0,23
+1954,9,1954-10-24,spain,Gran Premio de España 1954,louis-rosier,Louis Rosier,maserati,7,74,20,0,7,1023.993592,1035.889107,11.895515,0.727273,0.489362,50.0,23
+1954,9,1954-10-24,spain,Gran Premio de España 1954,ken-wharton,Ken Wharton,maserati,8,74,14,0,8,1005.25696,1016.238153,10.981193,0.681818,0.462194,50.0,23
+1954,9,1954-10-24,spain,Gran Premio de España 1954,birabongse-bhanudej,Birabongse Bhanudej,maserati,9,68,15,0,9,1030.733793,1037.594485,6.860692,0.636364,0.49915,50.0,23
+1954,9,1954-10-24,spain,Gran Premio de España 1954,sergio-mantovani,Sergio Mantovani,maserati,DNF,58,10,1,10,1026.645606,1031.530393,4.884787,0.590909,0.493213,50.0,23
+1954,9,1954-10-24,spain,Gran Premio de España 1954,emmanuel-de-graffenried,Emmanuel de Graffenried,maserati,DNF,57,21,1,11,1024.110615,1026.906725,2.79611,0.545455,0.489532,50.0,23
+1954,9,1954-10-24,spain,Gran Premio de España 1954,hans-herrmann,Hans Herrmann,mercedes,DNF,50,9,1,12,1038.869045,1038.321146,-0.547899,0.5,0.510958,50.0,23
+1954,9,1954-10-24,spain,Gran Premio de España 1954,maurice-trintignant,Maurice Trintignant,ferrari,DNF,47,8,1,13,1073.047722,1067.762344,-5.285378,0.454545,0.560253,50.0,23
+1954,9,1954-10-24,spain,Gran Premio de España 1954,jacques-pollet,Jacques Pollet,gordini,DNF,37,16,1,14,981.914132,980.938585,-0.975548,0.409091,0.428602,50.0,23
+1954,9,1954-10-24,spain,Gran Premio de España 1954,harry-schell,Harry Schell,maserati,DNF,29,4,1,15,995.258564,991.052516,-4.206048,0.363636,0.447757,50.0,23
+1954,9,1954-10-24,spain,Gran Premio de España 1954,stirling-moss,Stirling Moss,maserati,DNF,20,6,1,16,998.379476,991.675707,-6.703768,0.318182,0.452257,50.0,23
+1954,9,1954-10-24,spain,Gran Premio de España 1954,jean-behra,Jean Behra,gordini,DNF,17,18,1,17,961.218505,954.891955,-6.32655,0.272727,0.399258,50.0,23
+1954,9,1954-10-24,spain,Gran Premio de España 1954,jacques-swaters,Jacques Swaters,ferrari,DNF,16,19,1,18,972.106156,962.738204,-9.367952,0.227273,0.414632,50.0,23
+1954,9,1954-10-24,spain,Gran Premio de España 1954,alberto-ascari,Alberto Ascari,lancia,DNF,10,1,1,19,1159.827386,1134.986519,-24.840866,0.181818,0.678636,50.0,23
+1954,9,1954-10-24,spain,Gran Premio de España 1954,luigi-villoresi,Luigi Villoresi,lancia,DNF,2,5,1,20,1095.680448,1071.746064,-23.934384,0.113636,0.592324,50.0,23
+1954,9,1954-10-24,spain,Gran Premio de España 1954,robert-manzon,Robert Manzon,ferrari,DNF,2,17,1,21,994.35528,977.714289,-16.640991,0.113636,0.446456,50.0,23
+1954,9,1954-10-24,spain,Gran Premio de España 1954,ottorino-volonterio,Ottorino Volonterio,maserati,DNF,,,1,22,1000.0,979.542917,-20.457083,0.045455,0.454596,50.0,23
+1954,9,1954-10-24,spain,Gran Premio de España 1954,peter-collins,Peter Collins,vanwall,DNS,,,2,23,955.091138,935.557244,-19.533894,0.0,0.390678,50.0,23

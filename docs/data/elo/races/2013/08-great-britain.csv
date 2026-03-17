@@ -1,23 +1,23 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,nico-rosberg,Nico Rosberg,mercedes,1,52,2,0,1,1643.885756,1654.202942,10.317186,1.0,0.570117,24.0,22
-2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,mark-webber,Mark Webber,red-bull,2,52,4,0,2,1747.72508,1753.802507,6.077427,0.952381,0.699155,24.0,22
-2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,fernando-alonso,Fernando Alonso,ferrari,3,52,9,0,3,1808.705526,1812.054697,3.349171,0.904762,0.765213,24.0,22
-2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,4,52,1,0,4,1721.456803,1725.991004,4.534201,0.857143,0.668218,24.0,22
-2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,kimi-raikkonen,Kimi Räikkönen,lotus-f1,5,52,8,0,5,1770.787174,1772.812533,2.025359,0.809524,0.725134,24.0,22
-2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,felipe-massa,Felipe Massa,ferrari,6,52,11,0,6,1705.941126,1708.642895,2.701769,0.761905,0.649331,24.0,22
-2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,adrian-sutil,Adrian Sutil,force-india,7,52,6,0,7,1548.001531,1554.538086,6.536555,0.714286,0.441929,24.0,22
-2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,daniel-ricciardo,Daniel Ricciardo,toro-rosso,8,52,5,0,8,1507.715707,1514.386707,6.671,0.666667,0.388708,24.0,22
-2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,paul-di-resta,Paul di Resta,force-india,9,52,21,0,9,1599.193068,1601.794584,2.601517,0.619048,0.510651,24.0,22
-2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,nico-hulkenberg,Nico Hülkenberg,sauber,10,52,14,0,10,1550.974968,1553.98756,3.012592,0.571429,0.445904,24.0,22
-2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,pastor-maldonado,Pastor Maldonado,williams,11,52,15,0,11,1476.337225,1480.544653,4.207429,0.52381,0.3485,24.0,22
-2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,valtteri-bottas,Valtteri Bottas,williams,12,52,16,0,12,1504.514419,1506.713877,2.199458,0.47619,0.384546,24.0,22
-2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,jenson-button,Jenson Button,mclaren,13,52,10,0,13,1723.764464,1717.946431,-5.818033,0.428571,0.670989,24.0,22
-2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,esteban-gutierrez,Esteban Gutiérrez,sauber,14,52,17,0,14,1488.663423,1489.067161,0.403738,0.380952,0.36413,24.0,22
-2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,charles-pic,Charles Pic,caterham,15,52,18,0,15,1431.416427,1432.365523,0.949096,0.333333,0.293788,24.0,22
-2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,jules-bianchi,Jules Bianchi,marussia,16,52,19,0,16,1481.078273,1479.427793,-1.650479,0.285714,0.354484,24.0,22
-2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,max-chilton,Max Chilton,marussia,17,52,20,0,17,1475.376587,1472.755869,-2.620718,0.238095,0.347292,24.0,22
-2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,giedo-van-der-garde,Giedo van der Garde,caterham,18,52,22,0,18,1466.670297,1463.167843,-3.502454,0.190476,0.336412,24.0,22
-2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,19,51,7,0,19,1526.176187,1519.694577,-6.48161,0.142857,0.412924,24.0,22
-2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,sergio-perez,Sergio Pérez,mclaren,20,46,13,0,20,1545.703889,1537.456936,-8.246952,0.095238,0.438861,24.0,22
-2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,DNF,41,3,1,21,1833.339255,1815.536922,-17.802333,0.047619,0.789383,24.0,22
-2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,DNF,35,12,1,22,1512.025369,1502.561451,-9.463918,0.0,0.39433,24.0,22
+2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,nico-rosberg,Nico Rosberg,mercedes,1,52,2,0,1,1172.284961,1194.040064,21.755102,1.0,0.564898,50.0,22
+2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,mark-webber,Mark Webber,red-bull,2,52,4,0,2,1293.33015,1305.527214,12.197064,0.952381,0.70844,50.0,22
+2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,fernando-alonso,Fernando Alonso,ferrari,3,52,9,0,3,1368.738066,1374.74944,6.011374,0.904762,0.784534,50.0,22
+2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,4,52,1,0,4,1262.590654,1271.741262,9.150608,0.857143,0.674131,50.0,22
+2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,kimi-raikkonen,Kimi Räikkönen,lotus-f1,5,52,8,0,5,1342.149476,1344.670673,2.521197,0.809524,0.7591,50.0,22
+2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,felipe-massa,Felipe Massa,ferrari,6,52,11,0,6,1246.952162,1252.245517,5.293355,0.761905,0.656038,50.0,22
+2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,adrian-sutil,Adrian Sutil,force-india,7,52,6,0,7,1111.723703,1123.067547,11.343843,0.714286,0.487409,50.0,22
+2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,daniel-ricciardo,Daniel Ricciardo,toro-rosso,8,52,5,0,8,1040.577573,1054.093294,13.515721,0.666667,0.396352,50.0,22
+2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,paul-di-resta,Paul di Resta,force-india,9,52,21,0,9,1157.282945,1160.941317,3.658372,0.619048,0.54588,50.0,22
+2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,nico-hulkenberg,Nico Hülkenberg,sauber,10,52,14,0,10,1085.793603,1091.665206,5.871602,0.571429,0.453997,50.0,22
+2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,pastor-maldonado,Pastor Maldonado,williams,11,52,15,0,11,990.570724,1000.020098,9.449374,0.52381,0.334822,50.0,22
+2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,valtteri-bottas,Valtteri Bottas,williams,12,52,16,0,12,1018.005916,1023.405549,5.399632,0.47619,0.368198,50.0,22
+2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,jenson-button,Jenson Button,mclaren,13,52,10,0,13,1255.854962,1243.964147,-11.890814,0.428571,0.666388,50.0,22
+2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,esteban-gutierrez,Esteban Gutiérrez,sauber,14,52,17,0,14,987.362398,989.860493,2.498095,0.380952,0.33099,50.0,22
+2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,charles-pic,Charles Pic,caterham,15,52,18,0,15,915.145282,919.325255,4.179973,0.333333,0.249734,50.0,22
+2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,jules-bianchi,Jules Bianchi,marussia,16,52,19,0,16,972.355503,970.976635,-1.378867,0.285714,0.313292,50.0,22
+2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,max-chilton,Max Chilton,marussia,17,52,20,0,17,962.465739,959.278414,-3.187325,0.238095,0.301842,50.0,22
+2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,giedo-van-der-garde,Giedo van der Garde,caterham,18,52,22,0,18,945.103163,940.517666,-4.585497,0.190476,0.282186,50.0,22
+2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,19,51,7,0,19,1067.514253,1053.129701,-14.384552,0.142857,0.430548,50.0,22
+2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,sergio-perez,Sergio Pérez,mclaren,20,46,13,0,20,1084.891561,1067.011646,-17.879915,0.095238,0.452836,50.0,22
+2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,DNF,41,3,1,21,1437.036403,1397.295018,-39.741385,0.047619,0.842447,50.0,22
+2013,8,2013-06-30,great-britain,2013 Formula 1 Santander British Grand Prix,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,DNF,35,12,1,22,1040.249407,1020.452447,-19.79696,0.0,0.395939,50.0,22

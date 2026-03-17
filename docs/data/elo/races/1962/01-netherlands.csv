@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,graham-hill,Graham Hill,brm,1,80,2,0,1,1471.641355,1485.4136,13.772244,1.0,0.426156,24.0,20
-1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,trevor-taylor,Trevor Taylor,lotus,2,80,10,0,2,1485.513182,1497.532098,12.018916,0.947368,0.44658,24.0,20
-1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,phil-hill,Phil Hill,ferrari,3,80,9,0,3,1630.693985,1636.371342,5.677357,0.894737,0.65818,24.0,20
-1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,giancarlo-baghetti,Giancarlo Baghetti,ferrari,4,79,12,0,4,1507.188093,1515.907705,8.719612,0.842105,0.478788,24.0,20
-1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,tony-maggs,Tony Maggs,cooper,5,78,15,0,5,1505.968012,1513.468128,7.500116,0.789474,0.476969,24.0,20
-1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,carel-godin-de-beaufort,Carel Godin de Beaufort,porsche,6,76,14,0,6,1501.874979,1508.258313,6.383334,0.736842,0.47087,24.0,20
-1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,jo-bonnier,Jo Bonnier,porsche,7,75,13,0,7,1515.019073,1519.668742,4.649669,0.684211,0.490474,24.0,20
-1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,jackie-lewis,Jackie Lewis,cooper,8,70,19,0,8,1504.034618,1507.814422,3.779805,0.631579,0.474087,24.0,20
-1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,jim-clark,Jim Clark,lotus,9,70,3,0,9,1538.242478,1539.53394,1.291462,0.578947,0.525136,24.0,20
-1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,ricardo-rodriguez,Ricardo Rodríguez,ferrari,DNF,73,11,1,10,1500.175177,1501.566617,1.39144,0.526316,0.468339,24.0,20
-1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,richie-ginther,Richie Ginther,brm,DNF,71,7,1,11,1554.239283,1552.434078,-1.805205,0.473684,0.548901,24.0,20
-1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,innes-ireland,Innes Ireland,lotus,DNF,61,6,1,12,1527.506277,1525.392616,-2.113661,0.421053,0.509122,24.0,20
-1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,masten-gregory,Masten Gregory,lotus,DNF,54,16,1,13,1503.367358,1500.855235,-2.512123,0.368421,0.473093,24.0,20
-1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,wolfgang-seidel,Wolfgang Seidel,emeryson,NC,52,20,1,14,1452.646256,1450.659846,-1.98641,0.315789,0.398557,24.0,20
-1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,dan-gurney,Dan Gurney,porsche,DNF,47,8,1,15,1562.785437,1555.624722,-7.160715,0.263158,0.561521,24.0,20
-1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,bruce-mclaren,Bruce McLaren,cooper,DNF,21,5,1,16,1606.457096,1596.519151,-9.937944,0.210526,0.624607,24.0,20
-1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,roy-salvadori,Roy Salvadori,lola,DNF,12,17,1,17,1520.978786,1512.783277,-8.19551,0.157895,0.499374,24.0,20
-1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,john-surtees,John Surtees,lola,DNF,8,1,1,18,1489.260079,1480.935353,-8.324726,0.105263,0.452127,24.0,20
-1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,jack-brabham,Jack Brabham,lotus,DNF,4,4,1,19,1554.33247,1542.418691,-11.913779,0.052632,0.549039,24.0,20
-1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,ben-pon,Ben Pon,porsche,DNF,2,18,1,20,1500.0,1488.766119,-11.233881,0.0,0.468078,24.0,20
+1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,graham-hill,Graham Hill,brm,1,80,2,0,1,983.769931,1013.026794,29.256863,1.0,0.414863,50.0,20
+1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,trevor-taylor,Trevor Taylor,lotus,2,80,10,0,2,972.558527,999.97899,27.420463,0.947368,0.398959,50.0,20
+1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,phil-hill,Phil Hill,ferrari,3,80,9,0,3,1215.783517,1223.763305,7.979788,0.894737,0.735141,50.0,20
+1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,giancarlo-baghetti,Giancarlo Baghetti,ferrari,4,79,12,0,4,1016.196017,1035.220825,19.024808,0.842105,0.461609,50.0,20
+1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,tony-maggs,Tony Maggs,cooper,5,78,15,0,5,1014.371428,1030.897251,16.525823,0.789474,0.458957,50.0,20
+1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,carel-godin-de-beaufort,Carel Godin de Beaufort,porsche,6,76,14,0,6,1017.206781,1030.89494,13.688159,0.736842,0.463079,50.0,20
+1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,jo-bonnier,Jo Bonnier,porsche,7,75,13,0,7,1052.155167,1060.662533,8.507366,0.684211,0.514063,50.0,20
+1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,jackie-lewis,Jackie Lewis,cooper,8,70,19,0,8,1014.388902,1023.018719,8.629816,0.631579,0.458983,50.0,20
+1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,jim-clark,Jim Clark,lotus,9,70,3,0,9,1073.715568,1075.391881,1.676313,0.578947,0.545421,50.0,20
+1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,ricardo-rodriguez,Ricardo Rodríguez,ferrari,DNF,73,11,1,10,1001.251786,1005.569953,4.318167,0.526316,0.439952,50.0,20
+1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,richie-ginther,Richie Ginther,brm,DNF,71,7,1,11,1104.412333,1098.624318,-5.788015,0.473684,0.589445,50.0,20
+1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,innes-ireland,Innes Ireland,lotus,DNF,61,6,1,12,1059.09984,1053.943123,-5.156717,0.421053,0.524187,50.0,20
+1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,masten-gregory,Masten Gregory,lotus,DNF,54,16,1,13,1007.606175,1003.570126,-4.036049,0.368421,0.449142,50.0,20
+1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,wolfgang-seidel,Wolfgang Seidel,emeryson,NC,52,20,1,14,919.463162,918.927334,-0.535828,0.315789,0.326506,50.0,20
+1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,dan-gurney,Dan Gurney,porsche,DNF,47,8,1,15,1124.436789,1106.718596,-17.718192,0.263158,0.617522,50.0,20
+1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,bruce-mclaren,Bruce McLaren,cooper,DNF,21,5,1,16,1174.638005,1150.932765,-23.70524,0.210526,0.684631,50.0,20
+1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,roy-salvadori,Roy Salvadori,lola,DNF,12,17,1,17,1057.824544,1039.602825,-18.221719,0.157895,0.522329,50.0,20
+1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,john-surtees,John Surtees,lola,DNF,8,1,1,18,985.512499,969.908211,-15.604288,0.105263,0.417349,50.0,20
+1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,jack-brabham,Jack Brabham,lotus,DNF,4,4,1,19,1069.780173,1045.425955,-24.354218,0.052632,0.539716,50.0,20
+1962,1,1962-05-20,netherlands,Grote Prijs van Nederland 1962,ben-pon,Ben Pon,porsche,DNF,2,18,1,20,1000.0,978.092701,-21.907299,0.0,0.438146,50.0,20

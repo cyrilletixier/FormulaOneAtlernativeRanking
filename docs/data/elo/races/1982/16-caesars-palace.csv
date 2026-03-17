@@ -1,31 +1,31 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,michele-alboreto,Michele Alboreto,tyrrell,1,75,3,0,1,1573.013514,1583.634729,10.621215,1.0,0.557449,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,john-watson,John Watson,mclaren,2,75,9,0,2,1668.989389,1675.679659,6.690269,0.965517,0.686756,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,eddie-cheever,Eddie Cheever,ligier,3,75,4,0,3,1524.060042,1534.704545,10.644503,0.931034,0.487514,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,alain-prost,Alain Prost,renault,4,75,1,0,4,1602.449043,1609.597711,7.148668,0.896552,0.598691,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,keke-rosberg,Keke Rosberg,williams,5,75,6,0,5,1577.320297,1584.484967,7.16467,0.862069,0.563541,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,derek-daly,Derek Daly,williams,6,74,14,0,6,1530.047827,1538.003642,7.955815,0.827586,0.496094,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,marc-surer,Marc Surer,arrows,7,74,17,0,7,1570.892753,1576.620583,5.727829,0.793103,0.554444,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,brian-henton,Brian Henton,tyrrell,8,74,19,0,8,1458.379055,1467.110832,8.731777,0.758621,0.394797,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,9,73,18,0,9,1517.192381,1523.107355,5.914974,0.724138,0.477681,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,10,73,16,0,10,1547.344551,1551.395269,4.050719,0.689655,0.520875,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,mauro-baldi,Mauro Baldi,arrows,11,73,23,0,11,1495.633679,1500.631118,4.997439,0.655172,0.446946,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,rupert-keegan,Rupert Keegan,march,12,73,25,0,12,1430.003297,1436.345924,6.342626,0.62069,0.356414,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,raul-boesel,Raul Boesel,march,13,69,24,0,13,1459.29089,1463.854602,4.563713,0.586207,0.396052,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,manfred-winkelhock,Manfred Winkelhock,ats-wheels,NC,62,22,1,14,1460.335806,1464.037366,3.701559,0.551724,0.397492,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,niki-lauda,Niki Lauda,mclaren,DNF,53,13,1,15,1616.353849,1613.941004,-2.412845,0.517241,0.617777,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,tommy-byrne,Tommy Byrne,theodore,DNF,39,26,1,16,1476.899889,1478.393535,1.493647,0.482759,0.420523,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,derek-warwick,Derek Warwick,toleman,DNF,32,10,1,17,1412.716032,1415.463822,2.74779,0.448276,0.333785,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,elio-de-angelis,Elio de Angelis,lotus,DNF,28,20,1,18,1624.057702,1618.911554,-5.146148,0.413793,0.628216,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,mario-andretti,Mario Andretti,ferrari,DNF,26,7,1,19,1602.082458,1596.41571,-5.666748,0.362069,0.598183,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,nelson-piquet,Nelson Piquet,brabham,DNF,26,12,1,20,1626.563318,1620.094845,-6.468473,0.362069,0.631589,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,rene-arnoux,René Arnoux,renault,DNF,20,2,1,21,1583.384508,1577.102649,-6.281859,0.310345,0.572089,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,riccardo-patrese,Riccardo Patrese,brabham,DNF,17,5,1,22,1562.472193,1556.073436,-6.398757,0.275862,0.542477,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,nigel-mansell,Nigel Mansell,lotus,DNF,8,21,1,23,1540.948367,1534.46028,-6.488087,0.241379,0.511716,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,jacques-laffite,Jacques Laffite,ligier,DNF,5,11,1,24,1622.752018,1612.682642,-10.069376,0.206897,0.626454,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,chico-serra,Chico Serra,fittipaldi,DNQ,,,2,25,1448.744077,1442.895816,-5.848261,0.137931,0.381609,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,eliseo-salazar,Eliseo Salazar,ats-wheels,DNQ,,,2,26,1475.398677,1468.6669,-6.731777,0.137931,0.418422,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,teo-fabi,Teo Fabi,toleman,DNQ,,,2,27,1438.773828,1433.24918,-5.524648,0.137931,0.368125,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,jean-pierre-jarier,Jean-Pierre Jarier,osella,DNS,,,2,28,1515.388645,1504.81382,-10.574824,0.034483,0.4751,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,patrick-tambay,Patrick Tambay,ferrari,DNS,,8,2,29,1564.424257,1552.165711,-12.258547,0.034483,0.545256,24.0,30
-1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,roberto-guerrero,Roberto Guerrero,ensign,DNS,,15,2,30,1457.753072,1449.126208,-8.626864,0.034483,0.393935,24.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,michele-alboreto,Michele Alboreto,tyrrell,1,75,3,0,1,1139.043055,1158.483163,19.440108,1.0,0.611198,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,john-watson,John Watson,mclaren,2,75,9,0,2,1221.097533,1233.658047,12.560514,0.965517,0.714307,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,eddie-cheever,Eddie Cheever,ligier,3,75,4,0,3,1071.776654,1092.362854,20.5862,0.931034,0.51931,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,alain-prost,Alain Prost,renault,4,75,1,0,4,1163.966338,1176.59922,12.632882,0.896552,0.643894,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,keke-rosberg,Keke Rosberg,williams,5,75,6,0,5,1170.526309,1181.013576,10.487267,0.862069,0.652324,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,derek-daly,Derek Daly,williams,6,74,14,0,6,1079.656753,1094.52429,14.867537,0.827586,0.530235,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,marc-surer,Marc Surer,arrows,7,74,17,0,7,1127.166714,1137.057239,9.890525,0.793103,0.595293,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,brian-henton,Brian Henton,tyrrell,8,74,19,0,8,997.576026,1014.657767,17.081741,0.758621,0.416986,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,9,73,18,0,9,1051.325207,1062.986465,11.661258,0.724138,0.490913,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,10,73,16,0,10,1083.083448,1090.817232,7.733783,0.689655,0.53498,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,mauro-baldi,Mauro Baldi,arrows,11,73,23,0,11,1010.537986,1021.565494,11.027509,0.655172,0.434622,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,rupert-keegan,Rupert Keegan,march,12,73,25,0,12,908.250866,924.169425,15.918559,0.62069,0.302318,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,raul-boesel,Raul Boesel,march,13,69,24,0,13,936.132857,948.617502,12.484644,0.586207,0.336514,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,manfred-winkelhock,Manfred Winkelhock,ats-wheels,NC,62,22,1,14,946.301905,956.418591,10.116687,0.551724,0.34939,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,niki-lauda,Niki Lauda,mclaren,DNF,53,13,1,15,1133.523005,1129.193647,-4.329359,0.517241,0.603829,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,tommy-byrne,Tommy Byrne,theodore,DNF,39,26,1,16,959.611285,965.422395,5.81111,0.482759,0.366536,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,derek-warwick,Derek Warwick,toleman,DNF,32,10,1,17,896.713223,904.692721,7.979498,0.448276,0.288686,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,elio-de-angelis,Elio de Angelis,lotus,DNF,28,20,1,18,1189.343512,1176.231208,-13.112304,0.413793,0.676039,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,mario-andretti,Mario Andretti,ferrari,DNF,26,7,1,19,1146.910855,1133.933001,-12.977854,0.362069,0.621626,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,nelson-piquet,Nelson Piquet,brabham,DNF,26,12,1,20,1159.528633,1145.724706,-13.803928,0.362069,0.638148,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,rene-arnoux,René Arnoux,renault,DNF,20,2,1,21,1120.220005,1106.441837,-13.778168,0.310345,0.585908,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,riccardo-patrese,Riccardo Patrese,brabham,DNF,17,5,1,22,1083.115765,1070.157657,-12.958108,0.275862,0.535024,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,nigel-mansell,Nigel Mansell,lotus,DNF,8,21,1,23,1092.695139,1077.351283,-15.343856,0.241379,0.548256,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,jacques-laffite,Jacques Laffite,ligier,DNF,5,11,1,24,1124.393666,1105.160823,-19.232843,0.206897,0.591553,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,chico-serra,Chico Serra,fittipaldi,DNQ,,,2,25,954.648674,943.539919,-11.108754,0.137931,0.360106,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,eliseo-salazar,Eliseo Salazar,ats-wheels,DNQ,,,2,26,990.026543,976.583213,-13.44333,0.137931,0.406798,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,teo-fabi,Teo Fabi,toleman,DNQ,,,2,27,908.032552,899.826224,-8.206327,0.137931,0.302058,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,jean-pierre-jarier,Jean-Pierre Jarier,osella,DNS,,,2,28,996.483664,977.432422,-19.051242,0.034483,0.415508,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,patrick-tambay,Patrick Tambay,ferrari,DNS,,8,2,29,1116.16386,1088.867824,-27.296036,0.034483,0.580403,50.0,30
+1982,16,1982-09-25,caesars-palace,1982 Caesars Palace Grand Prix,roberto-guerrero,Roberto Guerrero,ensign,DNS,,15,2,30,944.61227,928.974558,-15.637712,0.034483,0.347237,50.0,30

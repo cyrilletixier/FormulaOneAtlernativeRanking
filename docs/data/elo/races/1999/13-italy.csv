@@ -1,23 +1,23 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,1,53,2,0,1,1658.731211,1666.952839,8.221628,1.0,0.657432,24.0,22
-1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,ralf-schumacher,Ralf Schumacher,williams,2,53,5,0,2,1575.149265,1585.004832,9.855567,0.952381,0.541732,24.0,22
-1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,mika-salo,Mika Salo,ferrari,3,53,6,0,3,1504.997614,1516.133035,11.135421,0.904762,0.440786,24.0,22
-1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,rubens-barrichello,Rubens Barrichello,stewart,4,53,7,0,4,1507.621523,1517.524136,9.902614,0.857143,0.444534,24.0,22
-1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,david-coulthard,David Coulthard,mclaren,5,53,3,0,5,1661.232175,1664.803643,3.571468,0.809524,0.660713,24.0,22
-1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,eddie-irvine,Eddie Irvine,ferrari,6,53,8,0,6,1689.783719,1691.337656,1.553938,0.761905,0.697157,24.0,22
-1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,alex-zanardi,Alex Zanardi,williams,7,53,4,0,7,1476.36236,1483.897376,7.535016,0.714286,0.400327,24.0,22
-1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,jacques-villeneuve,Jacques Villeneuve,bar,8,53,11,0,8,1561.839978,1565.297462,3.457483,0.666667,0.522605,24.0,22
-1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,jean-alesi,Jean Alesi,sauber,9,53,13,0,9,1584.624131,1586.154488,1.530358,0.619048,0.555283,24.0,22
-1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,damon-hill,Damon Hill,jordan,10,53,9,0,10,1592.85457,1592.961016,0.106446,0.571429,0.566993,24.0,22
-1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,olivier-panis,Olivier Panis,prost,11,52,10,0,11,1549.12213,1549.591178,0.469048,0.52381,0.504266,24.0,22
-1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,johnny-herbert,Johnny Herbert,stewart,DNF,40,15,1,12,1508.922186,1509.637307,0.715121,0.47619,0.446394,24.0,22
-1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,35,21,1,13,1480.553641,1480.519394,-0.034248,0.404762,0.406189,24.0,22
-1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,toranosuke-takagi,Toranosuke Takagi,arrows,DNF,35,22,1,14,1450.238927,1451.207937,0.96901,0.404762,0.364386,24.0,22
-1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,jarno-trulli,Jarno Trulli,prost,DNF,29,12,1,15,1505.129391,1501.974584,-3.154807,0.309524,0.440974,24.0,22
-1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,mika-hakkinen,Mika Häkkinen,mclaren,DNF,29,1,1,16,1684.737882,1675.585871,-9.152011,0.309524,0.690858,24.0,22
-1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,ricardo-zonta,Ricardo Zonta,bar,DNF,25,18,1,17,1479.90788,1475.895346,-4.012535,0.238095,0.405284,24.0,22
-1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,luca-badoer,Luca Badoer,minardi,DNF,23,19,1,18,1470.337884,1465.502675,-4.835209,0.190476,0.391943,24.0,22
-1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,alexander-wurz,Alexander Wurz,benetton,DNF,11,14,1,19,1557.454327,1548.49205,-8.962277,0.142857,0.516285,24.0,22
-1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,1,17,1,20,1591.783002,1579.925954,-11.857048,0.071429,0.565472,24.0,22
-1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,pedro-diniz,Pedro Diniz,sauber,DNF,1,16,1,21,1445.154176,1438.287808,-6.866368,0.071429,0.357527,24.0,22
-1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,marc-gene,Marc Gené,minardi,DNF,0,20,1,22,1492.387588,1482.238974,-10.148615,0.0,0.422859,24.0,22
+1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,1,53,2,0,1,1232.999864,1247.239673,14.239809,1.0,0.715204,50.0,22
+1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,ralf-schumacher,Ralf Schumacher,williams,2,53,5,0,2,1144.938795,1162.315672,17.376877,0.952381,0.604843,50.0,22
+1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,mika-salo,Mika Salo,ferrari,3,53,6,0,3,1038.134151,1060.490509,22.356358,0.904762,0.457635,50.0,22
+1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,rubens-barrichello,Rubens Barrichello,stewart,4,53,7,0,4,1038.87335,1058.797382,19.924032,0.857143,0.458662,50.0,22
+1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,david-coulthard,David Coulthard,mclaren,5,53,3,0,5,1229.608648,1234.521773,4.913125,0.809524,0.711261,50.0,22
+1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,eddie-irvine,Eddie Irvine,ferrari,6,53,8,0,6,1293.876597,1292.92258,-0.954016,0.761905,0.780985,50.0,22
+1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,alex-zanardi,Alex Zanardi,williams,7,53,4,0,7,986.025656,1002.42808,16.402424,0.714286,0.386237,50.0,22
+1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,jacques-villeneuve,Jacques Villeneuve,bar,8,53,11,0,8,1020.714836,1032.372798,11.657962,0.666667,0.433507,50.0,22
+1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,jean-alesi,Jean Alesi,sauber,9,53,13,0,9,1065.655684,1071.808772,6.153089,0.619048,0.495986,50.0,22
+1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,damon-hill,Damon Hill,jordan,10,53,9,0,10,1106.805513,1107.721632,0.916119,0.571429,0.553106,50.0,22
+1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,olivier-panis,Olivier Panis,prost,11,52,10,0,11,1066.320256,1067.665093,1.344837,0.52381,0.496913,50.0,22
+1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,johnny-herbert,Johnny Herbert,stewart,DNF,40,15,1,12,997.774257,1001.478856,3.704599,0.47619,0.402098,50.0,22
+1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,35,21,1,13,975.202028,976.850573,1.648545,0.404762,0.371791,50.0,22
+1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,toranosuke-takagi,Toranosuke Takagi,arrows,DNF,35,22,1,14,933.957582,938.26736,4.309778,0.404762,0.318566,50.0,22
+1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,jarno-trulli,Jarno Trulli,prost,DNF,29,12,1,15,1035.269568,1028.062992,-7.206576,0.309524,0.453655,50.0,22
+1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,mika-hakkinen,Mika Häkkinen,mclaren,DNF,29,1,1,16,1256.648406,1235.029396,-21.61901,0.309524,0.741904,50.0,22
+1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,ricardo-zonta,Ricardo Zonta,bar,DNF,25,18,1,17,972.961566,966.425197,-6.536368,0.238095,0.368823,50.0,22
+1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,luca-badoer,Luca Badoer,minardi,DNF,23,19,1,18,984.486468,974.801646,-9.684822,0.190476,0.384173,50.0,22
+1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,alexander-wurz,Alexander Wurz,benetton,DNF,11,14,1,19,1094.680398,1075.005086,-19.675312,0.142857,0.536363,50.0,22
+1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,1,17,1,20,1125.463016,1100.103203,-25.359813,0.071429,0.578625,50.0,22
+1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,pedro-diniz,Pedro Diniz,sauber,DNF,1,16,1,21,956.487766,942.696629,-13.791137,0.071429,0.347251,50.0,22
+1999,13,1999-09-12,italy,Gran Premio Campari d'Italia 1999,marc-gene,Marc Gené,minardi,DNF,0,20,1,22,998.003706,977.883208,-20.120498,0.0,0.40241,50.0,22

@@ -1,24 +1,24 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1970,6,1970-07-05,france,Grand Prix de France 1970,jochen-rindt,Jochen Rindt,lotus,1,38,6,0,1,1540.32124,1551.933985,11.612745,1.0,0.516136,24.0,23
-1970,6,1970-07-05,france,Grand Prix de France 1970,chris-amon,Chris Amon,march,2,38,3,0,2,1512.289029,1523.797443,11.508414,0.954545,0.475028,24.0,23
-1970,6,1970-07-05,france,Grand Prix de France 1970,jack-brabham,Jack Brabham,brabham,3,38,5,0,3,1594.541309,1602.0884,7.547091,0.909091,0.594629,24.0,23
-1970,6,1970-07-05,france,Grand Prix de France 1970,denny-hulme,Denny Hulme,mclaren,4,38,7,0,4,1620.471645,1626.057437,5.585792,0.863636,0.630895,24.0,23
-1970,6,1970-07-05,france,Grand Prix de France 1970,henri-pescarolo,Henri Pescarolo,matra,5,38,8,0,5,1534.798696,1542.242147,7.443451,0.818182,0.508038,24.0,23
-1970,6,1970-07-05,france,Grand Prix de France 1970,dan-gurney,Dan Gurney,mclaren,6,38,17,0,6,1527.821426,1534.41964,6.598214,0.772727,0.497802,24.0,23
-1970,6,1970-07-05,france,Grand Prix de France 1970,rolf-stommelen,Rolf Stommelen,brabham,7,38,14,0,7,1492.313658,1499.067044,6.753385,0.727273,0.445882,24.0,23
-1970,6,1970-07-05,france,Grand Prix de France 1970,john-miles,John Miles,lotus,8,38,18,0,8,1475.166647,1481.423592,6.256944,0.681818,0.421112,24.0,23
-1970,6,1970-07-05,france,Grand Prix de France 1970,jackie-stewart,Jackie Stewart,march,9,38,4,0,9,1647.52712,1646.782962,-0.744157,0.636364,0.66737,24.0,23
-1970,6,1970-07-05,france,Grand Prix de France 1970,graham-hill,Graham Hill,lotus,10,37,20,0,10,1626.649033,1625.486267,-1.162766,0.590909,0.639358,24.0,23
-1970,6,1970-07-05,france,Grand Prix de France 1970,francois-cevert,François Cevert,march,11,37,13,0,11,1498.848767,1501.01031,2.161543,0.545455,0.45539,24.0,23
-1970,6,1970-07-05,france,Grand Prix de France 1970,george-eaton,George Eaton,brm,12,36,19,0,12,1476.896072,1478.729756,1.833684,0.5,0.423597,24.0,23
-1970,6,1970-07-05,france,Grand Prix de France 1970,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,13,35,2,0,13,1582.594723,1579.641935,-2.952788,0.454545,0.577578,24.0,23
-1970,6,1970-07-05,france,Grand Prix de France 1970,ignazio-giunti,Ignazio Giunti,ferrari,14,35,11,0,14,1508.910794,1507.446964,-1.46383,0.409091,0.470084,24.0,23
-1970,6,1970-07-05,france,Grand Prix de France 1970,andrea-de-adamich,Andrea de Adamich,mclaren,NC,29,15,1,15,1469.908405,1468.709744,-1.198661,0.363636,0.413581,24.0,23
-1970,6,1970-07-05,france,Grand Prix de France 1970,jo-siffert,Jo Siffert,march,DNF,23,16,1,16,1538.071054,1533.39933,-4.671724,0.318182,0.512837,24.0,23
-1970,6,1970-07-05,france,Grand Prix de France 1970,ronnie-peterson,Ronnie Peterson,march,DNF,17,9,1,17,1512.038187,1507.19178,-4.846407,0.272727,0.474661,24.0,23
-1970,6,1970-07-05,france,Grand Prix de France 1970,jacky-ickx,Jacky Ickx,ferrari,DNF,16,1,1,18,1571.615282,1563.587623,-8.027659,0.227273,0.561759,24.0,23
-1970,6,1970-07-05,france,Grand Prix de France 1970,pedro-rodriguez,Pedro Rodríguez,brm,DNF,6,10,1,19,1576.001794,1566.73117,-9.270624,0.181818,0.568094,24.0,23
-1970,6,1970-07-05,france,Grand Prix de France 1970,jackie-oliver,Jackie Oliver,brm,DNF,5,12,1,20,1451.535887,1445.507125,-6.028762,0.136364,0.387562,24.0,23
-1970,6,1970-07-05,france,Grand Prix de France 1970,alex-soler-roig,Alex Soler-Roig,lotus,DNQ,,,2,21,1482.053491,1472.7998,-9.253691,0.045455,0.431025,24.0,23
-1970,6,1970-07-05,france,Grand Prix de France 1970,pete-lovely,Pete Lovely,lotus,DNQ,,,2,22,1487.00643,1477.580905,-9.425525,0.045455,0.438185,24.0,23
-1970,6,1970-07-05,france,Grand Prix de France 1970,silvio-moser,Silvio Moser,bellasi,DNQ,,,2,23,1452.845034,1444.590365,-8.254669,0.045455,0.389399,24.0,23
+1970,6,1970-07-05,france,Grand Prix de France 1970,jochen-rindt,Jochen Rindt,lotus,1,38,6,0,1,1088.264562,1110.218412,21.953849,1.0,0.560923,50.0,23
+1970,6,1970-07-05,france,Grand Prix de France 1970,chris-amon,Chris Amon,march,2,38,3,0,2,1034.567792,1058.069245,23.501454,0.954545,0.484516,50.0,23
+1970,6,1970-07-05,france,Grand Prix de France 1970,jack-brabham,Jack Brabham,brabham,3,38,5,0,3,1127.222457,1141.92974,14.707282,0.909091,0.614945,50.0,23
+1970,6,1970-07-05,france,Grand Prix de France 1970,denny-hulme,Denny Hulme,mclaren,4,38,7,0,4,1160.134709,1170.378479,10.24377,0.863636,0.658761,50.0,23
+1970,6,1970-07-05,france,Grand Prix de France 1970,henri-pescarolo,Henri Pescarolo,matra,5,38,8,0,5,1075.942646,1089.676478,13.733832,0.818182,0.543505,50.0,23
+1970,6,1970-07-05,france,Grand Prix de France 1970,dan-gurney,Dan Gurney,mclaren,6,38,17,0,6,1017.673093,1033.2875,15.614407,0.772727,0.460439,50.0,23
+1970,6,1970-07-05,france,Grand Prix de France 1970,rolf-stommelen,Rolf Stommelen,brabham,7,38,14,0,7,990.262578,1005.539418,15.27684,0.727273,0.421736,50.0,23
+1970,6,1970-07-05,france,Grand Prix de France 1970,john-miles,John Miles,lotus,8,38,18,0,8,969.548026,983.989268,14.441242,0.681818,0.392993,50.0,23
+1970,6,1970-07-05,france,Grand Prix de France 1970,jackie-stewart,Jackie Stewart,march,9,38,4,0,9,1218.604457,1213.883517,-4.720941,0.636364,0.730782,50.0,23
+1970,6,1970-07-05,france,Grand Prix de France 1970,graham-hill,Graham Hill,lotus,10,37,20,0,10,1156.876296,1153.695986,-3.18031,0.590909,0.654515,50.0,23
+1970,6,1970-07-05,france,Grand Prix de France 1970,francois-cevert,François Cevert,march,11,37,13,0,11,999.777088,1005.294805,5.517717,0.545455,0.4351,50.0,23
+1970,6,1970-07-05,france,Grand Prix de France 1970,george-eaton,George Eaton,brm,12,36,19,0,12,962.188354,968.042263,5.853909,0.5,0.382922,50.0,23
+1970,6,1970-07-05,france,Grand Prix de France 1970,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,13,35,2,0,13,1143.711363,1134.581318,-9.130045,0.454545,0.637146,50.0,23
+1970,6,1970-07-05,france,Grand Prix de France 1970,ignazio-giunti,Ignazio Giunti,ferrari,14,35,11,0,14,1019.979062,1017.247668,-2.731393,0.409091,0.463719,50.0,23
+1970,6,1970-07-05,france,Grand Prix de France 1970,andrea-de-adamich,Andrea de Adamich,mclaren,NC,29,15,1,15,944.803381,945.011195,0.207814,0.363636,0.35948,50.0,23
+1970,6,1970-07-05,france,Grand Prix de France 1970,jo-siffert,Jo Siffert,march,DNF,23,16,1,16,1053.284343,1043.631059,-9.653284,0.318182,0.511247,50.0,23
+1970,6,1970-07-05,france,Grand Prix de France 1970,ronnie-peterson,Ronnie Peterson,march,DNF,17,9,1,17,1027.59678,1017.504654,-10.092126,0.272727,0.47457,50.0,23
+1970,6,1970-07-05,france,Grand Prix de France 1970,jacky-ickx,Jacky Ickx,ferrari,DNF,16,1,1,18,1120.856735,1101.907615,-18.94912,0.227273,0.606255,50.0,23
+1970,6,1970-07-05,france,Grand Prix de France 1970,pedro-rodriguez,Pedro Rodríguez,brm,DNF,6,10,1,19,1124.331649,1102.872228,-21.45942,0.181818,0.611007,50.0,23
+1970,6,1970-07-05,france,Grand Prix de France 1970,jackie-oliver,Jackie Oliver,brm,DNF,5,12,1,20,938.248573,927.527631,-10.720942,0.136364,0.350782,50.0,23
+1970,6,1970-07-05,france,Grand Prix de France 1970,alex-soler-roig,Alex Soler-Roig,lotus,DNQ,,,2,21,965.771179,948.653174,-17.118005,0.045455,0.387815,50.0,23
+1970,6,1970-07-05,france,Grand Prix de France 1970,pete-lovely,Pete Lovely,lotus,DNQ,,,2,22,980.56864,962.430449,-18.138191,0.045455,0.408218,50.0,23
+1970,6,1970-07-05,france,Grand Prix de France 1970,silvio-moser,Silvio Moser,bellasi,DNQ,,,2,23,936.610109,921.45177,-15.158339,0.045455,0.348621,50.0,23

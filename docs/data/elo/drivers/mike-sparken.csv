@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1955-07-16,1955,6,great-britain,7,81,26,1500.0,1505.52422,5.52422,0.72,0.489824,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1955-07-16,1955,6,great-britain,gordini,Gordini,7,81,26,1000.0,1012.034365,12.034365,0.72,0.479313,50.0

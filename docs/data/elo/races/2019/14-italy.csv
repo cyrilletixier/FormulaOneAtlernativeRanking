@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,charles-leclerc,Charles Leclerc,ferrari,1,53,1,0,1,1607.660662,1619.534217,11.873555,1.0,0.505269,24.0,20
-2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,valtteri-bottas,Valtteri Bottas,mercedes,2,53,3,0,2,1825.452166,1829.840093,4.387926,0.947368,0.764538,24.0,20
-2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,lewis-hamilton,Lewis Hamilton,mercedes,3,53,2,0,3,1967.53477,1967.90453,0.36976,0.894737,0.87933,24.0,20
-2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,daniel-ricciardo,Daniel Ricciardo,renault,4,53,5,0,4,1626.196852,1633.688987,7.492136,0.842105,0.529933,24.0,20
-2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,nico-hulkenberg,Nico Hülkenberg,renault,5,53,6,0,5,1545.776117,1554.583542,8.807425,0.789474,0.422498,24.0,20
-2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,alexander-albon,Alexander Albon,red-bull,6,53,8,0,6,1528.439174,1536.533807,8.094633,0.736842,0.399566,24.0,20
-2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,sergio-perez,Sergio Pérez,racing-point,7,53,18,0,7,1607.266878,1611.574106,4.307228,0.684211,0.504743,24.0,20
-2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,max-verstappen,Max Verstappen,red-bull,8,53,19,0,8,1762.853763,1761.235783,-1.617979,0.631579,0.698995,24.0,20
-2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,9,52,10,0,9,1469.31199,1475.432346,6.120356,0.578947,0.323933,24.0,20
-2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,lando-norris,Lando Norris,mclaren,10,52,16,0,10,1512.958822,1516.486731,3.527909,0.526316,0.37932,24.0,20
-2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,pierre-gasly,Pierre Gasly,toro-rosso,11,52,17,0,11,1561.515002,1562.239884,0.724882,0.473684,0.443481,24.0,20
-2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,lance-stroll,Lance Stroll,racing-point,12,52,9,0,12,1497.8895,1499.357653,1.468153,0.421053,0.35988,24.0,20
-2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,sebastian-vettel,Sebastian Vettel,ferrari,13,52,4,0,13,1866.588669,1856.167074,-10.421595,0.368421,0.802654,24.0,20
-2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,george-russell,George Russell,williams,14,52,14,0,14,1466.132952,1466.031428,-0.101524,0.315789,0.32002,24.0,20
-2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,15,52,PL,0,15,1703.840984,1695.04586,-8.795125,0.263158,0.629621,24.0,20
-2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,romain-grosjean,Romain Grosjean,haas,16,52,13,0,16,1489.681617,1486.348118,-3.333499,0.210526,0.349422,24.0,20
-2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,robert-kubica,Robert Kubica,williams,17,51,15,0,17,1546.231318,1539.866327,-6.364991,0.157895,0.423103,24.0,20
-2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,kevin-magnussen,Kevin Magnussen,haas,DNF,43,11,1,18,1516.034708,1509.361296,-6.673412,0.105263,0.383322,24.0,20
-2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,daniil-kvyat,Daniil Kvyat,toro-rosso,DNF,29,12,1,19,1534.069544,1525.56501,-8.504534,0.052632,0.406987,24.0,20
-2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,DNF,27,7,1,20,1583.84531,1572.484004,-11.361305,0.0,0.473388,24.0,20
+2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,charles-leclerc,Charles Leclerc,ferrari,1,53,1,0,1,1206.27728,1226.563749,20.286469,1.0,0.594271,50.0,20
+2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,valtteri-bottas,Valtteri Bottas,mercedes,2,53,3,0,2,1412.670512,1419.747732,7.07722,0.947368,0.805824,50.0,20
+2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,lewis-hamilton,Lewis Hamilton,mercedes,3,53,2,0,3,1563.983195,1563.390762,-0.592433,0.894737,0.906585,50.0,20
+2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,daniel-ricciardo,Daniel Ricciardo,renault,4,53,5,0,4,1103.870522,1122.710731,18.840209,0.842105,0.465301,50.0,20
+2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,nico-hulkenberg,Nico Hülkenberg,renault,5,53,6,0,5,1062.478724,1081.345372,18.866648,0.789474,0.412141,50.0,20
+2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,alexander-albon,Alexander Albon,red-bull,6,53,8,0,6,1065.915912,1081.931363,16.015452,0.736842,0.416533,50.0,20
+2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,sergio-perez,Sergio Pérez,racing-point,7,53,18,0,7,1105.37072,1116.219636,10.848916,0.684211,0.467232,50.0,20
+2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,max-verstappen,Max Verstappen,red-bull,8,53,19,0,8,1355.868295,1349.646004,-6.222291,0.631579,0.756025,50.0,20
+2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,9,52,10,0,9,958.418476,973.108193,14.689718,0.578947,0.285153,50.0,20
+2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,lando-norris,Lando Norris,mclaren,10,52,16,0,10,1036.258288,1043.629008,7.37072,0.526316,0.378901,50.0,20
+2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,pierre-gasly,Pierre Gasly,toro-rosso,11,52,17,0,11,1130.585344,1129.288545,-1.2968,0.473684,0.49962,50.0,20
+2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,lance-stroll,Lance Stroll,racing-point,12,52,9,0,12,1027.181286,1029.857095,2.675809,0.421053,0.367536,50.0,20
+2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,sebastian-vettel,Sebastian Vettel,ferrari,13,52,4,0,13,1424.667562,1402.314491,-22.353071,0.368421,0.815482,50.0,20
+2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,george-russell,George Russell,williams,14,52,14,0,14,953.81967,955.612242,1.792572,0.315789,0.279938,50.0,20
+2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,15,52,PL,0,15,1202.96738,1186.612238,-16.355143,0.263158,0.590261,50.0,20
+2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,romain-grosjean,Romain Grosjean,haas,16,52,13,0,16,990.30338,984.708929,-5.594451,0.210526,0.322415,50.0,20
+2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,robert-kubica,Robert Kubica,williams,17,51,15,0,17,1009.478619,1000.091141,-9.387479,0.157895,0.345644,50.0,20
+2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,kevin-magnussen,Kevin Magnussen,haas,DNF,43,11,1,18,1027.326737,1014.204001,-13.122736,0.105263,0.367718,50.0,20
+2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,daniil-kvyat,Daniil Kvyat,toro-rosso,DNF,29,12,1,19,1068.397141,1050.043338,-18.353803,0.052632,0.419708,50.0,20
+2019,14,2019-09-08,italy,Formula 1 Gran Premio Heineken d'Italia 2019,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,DNF,27,7,1,20,1133.782172,1108.596645,-25.185527,0.0,0.503711,50.0,20

@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,juan-pablo-montoya,Juan Pablo Montoya,williams,1,78,3,0,1,1598.161683,1608.789625,10.627943,1.0,0.557169,24.0,20
-2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,kimi-raikkonen,Kimi Räikkönen,mclaren,2,78,2,0,2,1572.860959,1583.082331,10.221372,0.947368,0.521478,24.0,20
-2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,michael-schumacher,Michael Schumacher,ferrari,3,78,5,0,3,1854.296653,1855.410841,1.114189,0.894737,0.848312,24.0,20
-2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,ralf-schumacher,Ralf Schumacher,williams,4,78,1,0,4,1662.36949,1667.115432,4.745942,0.842105,0.644358,24.0,20
-2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,fernando-alonso,Fernando Alonso,renault,5,78,8,0,5,1509.016799,1517.624867,8.608068,0.789474,0.430804,24.0,20
-2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,jarno-trulli,Jarno Trulli,renault,6,78,4,0,6,1540.24224,1546.524928,6.282688,0.736842,0.475063,24.0,20
-2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,david-coulthard,David Coulthard,mclaren,7,78,6,0,7,1693.25003,1693.264041,0.014012,0.684211,0.683627,24.0,20
-2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,rubens-barrichello,Rubens Barrichello,ferrari,8,78,7,0,8,1695.563372,1694.245687,-1.317685,0.631579,0.686482,24.0,20
-2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,cristiano-da-matta,Cristiano da Matta,toyota,9,77,10,0,9,1507.264939,1510.879542,3.614604,0.578947,0.428339,24.0,20
-2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,giancarlo-fisichella,Giancarlo Fisichella,jordan,10,77,12,0,10,1529.62949,1531.221791,1.592301,0.526316,0.45997,24.0,20
-2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,nick-heidfeld,Nick Heidfeld,sauber,11,76,14,0,11,1539.274251,1539.274219,-3.2e-05,0.473684,0.473686,24.0,20
-2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,ralph-firman,Ralph Firman,jordan,12,76,16,0,12,1489.141682,1489.574785,0.433103,0.421053,0.403007,24.0,20
-2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,olivier-panis,Olivier Panis,toyota,13,74,17,0,13,1488.962773,1488.138678,-0.824095,0.368421,0.402758,24.0,20
-2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,jacques-villeneuve,Jacques Villeneuve,bar,DNF,63,11,1,14,1539.277362,1535.48775,-3.789612,0.315789,0.47369,24.0,20
-2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,justin-wilson,Justin Wilson,minardi,DNF,29,19,1,15,1476.558903,1473.619253,-2.93965,0.263158,0.385643,24.0,20
-2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,jos-verstappen,Jos Verstappen,minardi,DNF,28,18,1,16,1471.989919,1467.937128,-4.052791,0.210526,0.379393,24.0,20
-2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,mark-webber,Mark Webber,jaguar,DNF,16,9,1,17,1478.684993,1473.148973,-5.53602,0.157895,0.388562,24.0,20
-2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,antonio-pizzonia,Antônio Pizzonia,jaguar,DNF,10,13,1,18,1486.043211,1479.00044,-7.042771,0.105263,0.398712,24.0,20
-2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,DNF,0,15,1,19,1524.118118,1514.52973,-9.588388,0.052632,0.452148,24.0,20
-2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,jenson-button,Jenson Button,bar,DNS,,,2,20,1562.529826,1550.36665,-12.163176,0.0,0.506799,24.0,20
+2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,juan-pablo-montoya,Juan Pablo Montoya,williams,1,78,3,0,1,1147.801074,1168.082952,20.281877,1.0,0.594362,50.0,20
+2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,kimi-raikkonen,Kimi Räikkönen,mclaren,2,78,2,0,2,1136.230249,1154.65242,18.422171,0.947368,0.578925,50.0,20
+2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,michael-schumacher,Michael Schumacher,ferrari,3,78,5,0,3,1434.785886,1435.335817,0.54993,0.894737,0.883738,50.0,20
+2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,ralf-schumacher,Ralf Schumacher,williams,4,78,1,0,4,1209.280251,1217.746996,8.466745,0.842105,0.67277,50.0,20
+2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,fernando-alonso,Fernando Alonso,renault,5,78,8,0,5,1047.45002,1064.074206,16.624186,0.789474,0.45699,50.0,20
+2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,jarno-trulli,Jarno Trulli,renault,6,78,4,0,6,1077.666727,1089.567508,11.900781,0.736842,0.498826,50.0,20
+2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,david-coulthard,David Coulthard,mclaren,7,78,6,0,7,1208.384612,1209.011143,0.626532,0.684211,0.67168,50.0,20
+2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,rubens-barrichello,Rubens Barrichello,ferrari,8,78,7,0,8,1258.846407,1253.9113,-4.935106,0.631579,0.730281,50.0,20
+2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,cristiano-da-matta,Cristiano da Matta,toyota,9,77,10,0,9,1022.515363,1030.328667,7.813304,0.578947,0.422681,50.0,20
+2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,giancarlo-fisichella,Giancarlo Fisichella,jordan,10,77,12,0,10,1038.872957,1042.931261,4.058304,0.526316,0.44515,50.0,20
+2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,nick-heidfeld,Nick Heidfeld,sauber,11,76,14,0,11,1069.5925,1068.894441,-0.69806,0.473684,0.487645,50.0,20
+2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,ralph-firman,Ralph Firman,jordan,12,76,16,0,12,987.595614,989.871539,2.275924,0.421053,0.375534,50.0,20
+2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,olivier-panis,Olivier Panis,toyota,13,74,17,0,13,979.392097,979.579091,0.186994,0.368421,0.364681,50.0,20
+2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,jacques-villeneuve,Jacques Villeneuve,bar,DNF,63,11,1,14,1022.171755,1016.850662,-5.321093,0.315789,0.422211,50.0,20
+2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,justin-wilson,Justin Wilson,minardi,DNF,29,19,1,15,962.705354,958.716466,-3.988888,0.263158,0.342936,50.0,20
+2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,jos-verstappen,Jos Verstappen,minardi,DNF,28,18,1,16,982.414706,974.507605,-7.907102,0.210526,0.368668,50.0,20
+2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,mark-webber,Mark Webber,jaguar,DNF,16,9,1,17,984.241774,973.582254,-10.659519,0.157895,0.371085,50.0,20
+2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,antonio-pizzonia,Antônio Pizzonia,jaguar,DNF,10,13,1,18,980.199889,967.175778,-13.024111,0.105263,0.365745,50.0,20
+2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,DNF,0,15,1,19,1010.434561,992.755094,-17.679467,0.052632,0.406221,50.0,20
+2003,7,2003-06-01,monaco,Grand Prix de Monaco 2003,jenson-button,Jenson Button,bar,DNS,,,2,20,1107.444123,1080.450722,-26.993401,0.0,0.539868,50.0,20

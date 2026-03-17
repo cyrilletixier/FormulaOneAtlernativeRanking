@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,sebastian-vettel,Sebastian Vettel,toro-rosso,1,53,1,0,1,1481.51078,1496.663309,15.15253,1.0,0.368645,24.0,20
-2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,heikki-kovalainen,Heikki Kovalainen,mclaren,2,53,2,0,2,1626.695228,1635.714587,9.01936,0.947368,0.571562,24.0,20
-2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,robert-kubica,Robert Kubica,bmw-sauber,3,53,11,0,3,1644.73032,1651.888484,7.158165,0.894737,0.59648,24.0,20
-2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,fernando-alonso,Fernando Alonso,renault,4,53,8,0,4,1740.167628,1743.117584,2.949956,0.842105,0.71919,24.0,20
-2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,nick-heidfeld,Nick Heidfeld,bmw-sauber,5,53,10,0,5,1670.867,1674.650828,3.783828,0.789474,0.631814,24.0,20
-2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,felipe-massa,Felipe Massa,ferrari,6,53,6,0,6,1716.393666,1717.507888,1.114222,0.736842,0.690416,24.0,20
-2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,lewis-hamilton,Lewis Hamilton,mclaren,7,53,15,0,7,1689.43523,1690.107008,0.671778,0.684211,0.65622,24.0,20
-2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,mark-webber,Mark Webber,red-bull,8,53,3,0,8,1534.944598,1539.491832,4.547234,0.631579,0.442111,24.0,20
-2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,kimi-raikkonen,Kimi Räikkönen,ferrari,9,53,14,0,9,1721.111765,1718.296865,-2.8149,0.578947,0.696235,24.0,20
-2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,nelson-piquet-jr,Nelson Piquet Jr.,renault,10,53,17,0,10,1494.466375,1497.831213,3.364839,0.526316,0.386114,24.0,20
-2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,timo-glock,Timo Glock,toyota,11,53,9,0,11,1525.534133,1526.608018,1.073885,0.473684,0.428939,24.0,20
-2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,kazuki-nakajima,Kazuki Nakajima,williams,12,53,PL,0,12,1501.895387,1502.490769,0.595382,0.421053,0.396245,24.0,20
-2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,jarno-trulli,Jarno Trulli,toyota,13,53,7,0,13,1593.177588,1589.432236,-3.745352,0.368421,0.524477,24.0,20
-2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,nico-rosberg,Nico Rosberg,williams,14,53,5,0,14,1537.239365,1534.13031,-3.109055,0.315789,0.445333,24.0,20
-2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,jenson-button,Jenson Button,honda,15,53,PL,0,15,1539.977818,1535.513192,-4.464625,0.263158,0.449184,24.0,20
-2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,david-coulthard,David Coulthard,red-bull,16,52,13,0,16,1530.619194,1525.206687,-5.412507,0.210526,0.436047,24.0,20
-2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,rubens-barrichello,Rubens Barrichello,honda,17,52,16,0,17,1556.384844,1548.838101,-7.546744,0.157895,0.472342,24.0,20
-2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,sebastien-bourdais,Sébastien Bourdais,toro-rosso,18,52,PL,0,18,1480.058151,1473.783601,-6.274551,0.105263,0.366703,24.0,20
-2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,adrian-sutil,Adrian Sutil,force-india,19,51,20,0,19,1397.149207,1392.097122,-5.052085,0.052632,0.263135,24.0,20
-2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,giancarlo-fisichella,Giancarlo Fisichella,force-india,DNF,11,12,1,20,1546.806875,1535.795516,-11.01136,0.0,0.458807,24.0,20
+2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,sebastian-vettel,Sebastian Vettel,toro-rosso,1,53,1,0,1,999.397137,1031.374998,31.977861,1.0,0.360443,50.0,20
+2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,heikki-kovalainen,Heikki Kovalainen,mclaren,2,53,2,0,2,1209.279816,1224.745575,15.465758,0.947368,0.638053,50.0,20
+2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,robert-kubica,Robert Kubica,bmw-sauber,3,53,11,0,3,1237.634314,1248.711446,11.077132,0.894737,0.673194,50.0,20
+2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,fernando-alonso,Fernando Alonso,renault,4,53,8,0,4,1254.480232,1261.916807,7.436576,0.842105,0.693374,50.0,20
+2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,nick-heidfeld,Nick Heidfeld,bmw-sauber,5,53,10,0,5,1248.040972,1253.228347,5.187375,0.789474,0.685726,50.0,20
+2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,felipe-massa,Felipe Massa,ferrari,6,53,6,0,6,1293.517857,1293.467955,-0.049901,0.736842,0.73784,50.0,20
+2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,lewis-hamilton,Lewis Hamilton,mclaren,7,53,15,0,7,1291.769246,1289.183679,-2.585566,0.684211,0.735922,50.0,20
+2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,mark-webber,Mark Webber,red-bull,8,53,3,0,8,1083.431754,1091.447111,8.015356,0.631579,0.471272,50.0,20
+2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,kimi-raikkonen,Kimi Räikkönen,ferrari,9,53,14,0,9,1260.52368,1254.447338,-6.076343,0.578947,0.700474,50.0,20
+2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,nelson-piquet-jr,Nelson Piquet Jr.,renault,10,53,17,0,10,1007.029771,1014.836078,7.806307,0.526316,0.37019,50.0,20
+2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,timo-glock,Timo Glock,toyota,11,53,9,0,11,1065.584217,1066.905467,1.32125,0.473684,0.447259,50.0,20
+2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,kazuki-nakajima,Kazuki Nakajima,williams,12,53,PL,0,12,1013.837572,1015.942522,2.10495,0.421053,0.378954,50.0,20
+2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,jarno-trulli,Jarno Trulli,toyota,13,53,7,0,13,1138.257726,1129.418851,-8.838875,0.368421,0.545199,50.0,20
+2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,nico-rosberg,Nico Rosberg,williams,14,53,5,0,14,1078.535731,1071.091604,-7.444127,0.315789,0.464672,50.0,20
+2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,jenson-button,Jenson Button,honda,15,53,PL,0,15,1016.340284,1010.388616,-5.951668,0.263158,0.382191,50.0,20
+2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,david-coulthard,David Coulthard,red-bull,16,52,13,0,16,1035.878358,1026.018236,-9.860121,0.210526,0.407729,50.0,20
+2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,rubens-barrichello,Rubens Barrichello,honda,17,52,16,0,17,1025.770137,1013.941804,-11.828333,0.157895,0.394461,50.0,20
+2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,sebastien-bourdais,Sébastien Bourdais,toro-rosso,18,52,PL,0,18,983.730095,971.957151,-11.772944,0.105263,0.340722,50.0,20
+2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,adrian-sutil,Adrian Sutil,force-india,19,51,20,0,19,862.388109,854.750779,-7.63733,0.052632,0.205378,50.0,20
+2008,14,2008-09-14,italy,Formula 1 Gran Premio Santander d'Italia 2008,giancarlo-fisichella,Giancarlo Fisichella,force-india,DNF,11,12,1,20,1004.498078,986.15072,-18.347357,0.0,0.366947,50.0,20

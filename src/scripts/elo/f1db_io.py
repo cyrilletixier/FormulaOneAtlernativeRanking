@@ -52,6 +52,16 @@ def load_driver_names(yaml_dir: str) -> Dict[str, str]:
     return out
 
 
+def load_constructor_names(yaml_dir: str) -> Dict[str, str]:
+    constructors_dir = f"{yaml_dir}/constructors"
+    out: Dict[str, str] = {}
+    for constructor_file in glob.glob(f"{constructors_dir}/*.yml"):
+        constructor_id = os.path.basename(constructor_file).replace(".yml", "")
+        data = load_yaml(constructor_file) or {}
+        out[constructor_id] = data.get("name", constructor_id)
+    return out
+
+
 @dataclass(frozen=True)
 class RaceMeta:
     year: int
@@ -108,6 +118,32 @@ class RaceData:
     entries: List[RaceEntry]
 
 
+def _parse_race_result_row(row: Any) -> Optional[RaceEntry]:
+    if not isinstance(row, dict):
+        return None
+    driver_id = row.get("driverId")
+    if not driver_id:
+        return None
+
+    position_raw = row.get("position")
+    constructor_id = row.get("constructorId")
+
+    laps = row.get("laps")
+    try:
+        laps_int = int(laps) if laps is not None and str(laps).strip() != "" else None
+    except Exception:
+        laps_int = None
+
+    grid_pos = row.get("gridPosition")
+    return RaceEntry(
+        driver_id=str(driver_id),
+        constructor_id=str(constructor_id) if constructor_id is not None else None,
+        position_raw=str(position_raw) if position_raw is not None else "",
+        laps=laps_int,
+        grid_position=str(grid_pos) if grid_pos is not None else None,
+    )
+
+
 def load_race_data(yaml_dir: str, meta: RaceMeta) -> RaceData:
     races_dir = f"{yaml_dir}/seasons/{meta.year}/races"
     race_results_yml = f"{races_dir}/{meta.race_dir_name}/race-results.yml"
@@ -115,28 +151,9 @@ def load_race_data(yaml_dir: str, meta: RaceMeta) -> RaceData:
 
     entries: List[RaceEntry] = []
     for row in raw:
-        if not isinstance(row, dict):
-            continue
-        position_raw = row.get("position")
-        driver_id = row.get("driverId")
-        if not driver_id:
-            continue
-        constructor_id = row.get("constructorId")
-        laps = row.get("laps")
-        try:
-            laps_int = int(laps) if laps is not None and str(laps).strip() != "" else None
-        except Exception:
-            laps_int = None
-        grid_pos = row.get("gridPosition")
-        entries.append(
-            RaceEntry(
-                driver_id=str(driver_id),
-                constructor_id=str(constructor_id) if constructor_id is not None else None,
-                position_raw=str(position_raw) if position_raw is not None else "",
-                laps=laps_int,
-                grid_position=str(grid_pos) if grid_pos is not None else None,
-            )
-        )
+        entry = _parse_race_result_row(row)
+        if entry is not None:
+            entries.append(entry)
 
     return RaceData(meta=meta, entries=entries)
 

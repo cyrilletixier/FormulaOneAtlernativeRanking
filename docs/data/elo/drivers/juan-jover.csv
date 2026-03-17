@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1951-10-28,1951,8,spain,DNS,,20,1500.0,1488.311405,-11.688595,0.0,0.487025,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1951-10-28,1951,8,spain,maserati,Maserati,DNS,,20,1000.0,976.244152,-23.755848,0.0,0.475117,50.0

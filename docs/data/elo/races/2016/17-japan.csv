@@ -1,23 +1,23 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,nico-rosberg,Nico Rosberg,mercedes,1,53,1,0,1,1851.393557,1856.36495,4.971393,1.0,0.792859,24.0,22
-2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,max-verstappen,Max Verstappen,red-bull,2,53,3,0,2,1636.358608,1646.222744,9.864136,0.952381,0.541375,24.0,22
-2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,3,53,2,0,3,1870.885225,1873.144213,2.258989,0.904762,0.810637,24.0,22
-2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,4,53,6,0,4,1799.366763,1802.160501,2.793738,0.857143,0.740737,24.0,22
-2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,5,53,8,0,5,1741.437065,1744.659445,3.22238,0.809524,0.675258,24.0,22
-2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,6,53,4,0,6,1738.610051,1740.770599,2.160548,0.761905,0.671882,24.0,22
-2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,sergio-perez,Sergio Pérez,force-india,7,53,5,0,7,1655.999164,1659.523757,3.524593,0.714286,0.567428,24.0,22
-2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,8,53,9,0,8,1596.662328,1600.948353,4.286024,0.666667,0.488082,24.0,22
-2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,felipe-massa,Felipe Massa,williams,9,53,12,0,9,1636.889799,1638.736934,1.847134,0.619048,0.542084,24.0,22
-2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,valtteri-bottas,Valtteri Bottas,williams,10,53,11,0,10,1677.473379,1676.895772,-0.577607,0.571429,0.595496,24.0,22
-2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,romain-grosjean,Romain Grosjean,haas,11,53,7,0,11,1534.627974,1537.476357,2.848383,0.52381,0.405127,24.0,22
-2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,jolyon-palmer,Jolyon Palmer,renault,12,52,16,0,12,1474.331314,1477.886511,3.555196,0.47619,0.328057,24.0,22
-2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,daniil-kvyat,Daniil Kvyat,toro-rosso,13,52,13,0,13,1547.265969,1547.427422,0.161453,0.428571,0.421844,24.0,22
-2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,kevin-magnussen,Kevin Magnussen,renault,14,52,17,0,14,1524.11309,1523.863872,-0.249218,0.380952,0.391336,24.0,22
-2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,15,52,18,0,15,1455.054088,1455.741519,0.687431,0.333333,0.30469,24.0,22
-2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,fernando-alonso,Fernando Alonso,mclaren,16,52,15,0,16,1622.659438,1616.963389,-5.696049,0.285714,0.52305,24.0,22
-2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,17,52,14,0,17,1539.828145,1535.654711,-4.173435,0.238095,0.411988,24.0,22
-2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,jenson-button,Jenson Button,mclaren,18,52,22,0,18,1575.505451,1569.046406,-6.459045,0.190476,0.459603,24.0,22
-2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,felipe-nasr,Felipe Nasr,sauber,19,52,19,0,19,1480.848335,1476.210113,-4.638221,0.142857,0.336116,24.0,22
-2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,esteban-gutierrez,Esteban Gutiérrez,haas,20,52,10,0,20,1480.899341,1475.116742,-5.782599,0.095238,0.33618,24.0,22
-2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,esteban-ocon,Esteban Ocon,manor,21,52,20,0,21,1488.822266,1481.659239,-7.163027,0.047619,0.346079,24.0,22
-2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,pascal-wehrlein,Pascal Wehrlein,manor,22,52,21,0,22,1459.564362,1452.122166,-7.442196,0.0,0.310092,24.0,22
+2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,nico-rosberg,Nico Rosberg,mercedes,1,53,1,0,1,1453.166152,1461.219856,8.053704,1.0,0.838926,50.0,22
+2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,max-verstappen,Max Verstappen,red-bull,2,53,3,0,2,1244.1559,1260.17668,16.02078,0.952381,0.631965,50.0,22
+2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,3,53,2,0,3,1454.835843,1458.063804,3.22796,0.904762,0.840203,50.0,22
+2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,4,53,6,0,4,1313.874876,1321.196764,7.321889,0.857143,0.710705,50.0,22
+2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,5,53,8,0,5,1304.502494,1309.947751,5.445256,0.809524,0.700619,50.0,22
+2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,6,53,4,0,6,1351.100631,1351.743198,0.642566,0.761905,0.749053,50.0,22
+2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,sergio-perez,Sergio Pérez,force-india,7,53,5,0,7,1227.476676,1232.591181,5.114505,0.714286,0.611996,50.0,22
+2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,8,53,9,0,8,1134.472653,1143.029969,8.557315,0.666667,0.49552,50.0,22
+2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,felipe-massa,Felipe Massa,williams,9,53,12,0,9,1134.014076,1140.21978,6.205704,0.619048,0.494934,50.0,22
+2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,valtteri-bottas,Valtteri Bottas,williams,10,53,11,0,10,1235.543577,1233.029954,-2.513623,0.571429,0.621701,50.0,22
+2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,romain-grosjean,Romain Grosjean,haas,11,53,7,0,11,1048.683864,1055.55259,6.868726,0.52381,0.386435,50.0,22
+2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,jolyon-palmer,Jolyon Palmer,renault,12,52,16,0,12,977.118133,985.903378,8.785245,0.47619,0.300486,50.0,22
+2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,daniil-kvyat,Daniil Kvyat,toro-rosso,13,52,13,0,13,1072.42682,1073.041457,0.614637,0.428571,0.416279,50.0,22
+2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,kevin-magnussen,Kevin Magnussen,renault,14,52,17,0,14,1035.181643,1035.744479,0.562835,0.380952,0.369696,50.0,22
+2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,15,52,18,0,15,969.216296,971.308092,2.091796,0.333333,0.291497,50.0,22
+2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,fernando-alonso,Fernando Alonso,mclaren,16,52,15,0,16,1118.136554,1108.692288,-9.444265,0.285714,0.4746,50.0,22
+2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,17,52,14,0,17,1082.746477,1073.182518,-9.563959,0.238095,0.429374,50.0,22
+2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,jenson-button,Jenson Button,mclaren,18,52,22,0,18,1068.189078,1057.166885,-11.022193,0.190476,0.41092,50.0,22
+2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,felipe-nasr,Felipe Nasr,sauber,19,52,19,0,19,981.258334,973.139133,-8.119201,0.142857,0.305241,50.0,22
+2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,esteban-gutierrez,Esteban Gutiérrez,haas,20,52,10,0,20,1015.430884,1002.912998,-12.517886,0.095238,0.345596,50.0,22
+2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,esteban-ocon,Esteban Ocon,manor,21,52,20,0,21,983.789426,970.762194,-13.027231,0.047619,0.308164,50.0,22
+2016,17,2016-10-09,japan,2016 Formula 1 Emirates Japanese Grand Prix,pascal-wehrlein,Pascal Wehrlein,manor,22,52,21,0,22,946.268431,932.963871,-13.30456,0.0,0.266091,50.0,22

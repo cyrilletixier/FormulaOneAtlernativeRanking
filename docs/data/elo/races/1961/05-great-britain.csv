@@ -1,31 +1,31 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,wolfgang-von-trips,Wolfgang von Trips,ferrari,1,75,4,0,1,1573.306048,1583.226537,9.920489,1.0,0.586646,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,phil-hill,Phil Hill,ferrari,2,75,1,0,2,1607.517478,1615.459018,7.941541,0.965517,0.63462,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,richie-ginther,Richie Ginther,ferrari,3,75,2,0,3,1538.993988,1548.452092,9.458105,0.931034,0.536947,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,jack-brabham,Jack Brabham,cooper,4,75,9,0,4,1576.316903,1583.651495,7.334591,0.896552,0.590944,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,jo-bonnier,Jo Bonnier,porsche,5,75,3,0,5,1506.052853,1515.017031,8.964178,0.862069,0.488562,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,roy-salvadori,Roy Salvadori,cooper,6,75,13,0,6,1504.577278,1512.765933,8.188655,0.827586,0.486392,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,dan-gurney,Dan Gurney,porsche,7,74,12,0,7,1530.571162,1537.015154,6.443992,0.793103,0.524604,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,bruce-mclaren,Bruce McLaren,cooper,8,74,14,0,8,1584.625352,1588.366628,3.741276,0.758621,0.602734,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,tony-brooks,Tony Brooks,brm,9,73,6,0,9,1507.232221,1512.844436,5.612214,0.724138,0.490296,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,innes-ireland,Innes Ireland,lotus,10,72,7,0,10,1526.431511,1530.538609,4.107098,0.689655,0.518526,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,masten-gregory,Masten Gregory,cooper,11,71,16,0,11,1502.06678,1506.206057,4.139277,0.655172,0.482703,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,lorenzo-bandini,Lorenzo Bandini,cooper,12,71,21,0,12,1498.33433,1501.777599,3.443269,0.62069,0.47722,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,tony-maggs,Tony Maggs,lotus,13,69,24,0,13,1500.0,1502.556977,2.556977,0.586207,0.479666,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,ian-burgess,Ian Burgess,lotus,14,69,25,0,14,1466.089459,1469.006318,2.916859,0.551724,0.430188,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,keith-greene,Keith Greene,gilby,15,69,23,0,15,1479.936019,1481.542845,1.606826,0.517241,0.45029,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,carel-godin-de-beaufort,Carel Godin de Beaufort,porsche,16,69,18,0,16,1492.122418,1492.474054,0.351636,0.482759,0.468107,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,wolfgang-seidel,Wolfgang Seidel,lotus,17,58,22,0,17,1464.941331,1465.415229,0.473899,0.448276,0.42853,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,jim-clark,Jim Clark,lotus,DNF,62,8,1,18,1538.248413,1535.31891,-2.929503,0.413793,0.535856,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,lucien-bianchi,Lucien Bianchi,lotus,DNF,45,30,1,19,1477.434058,1475.81802,-1.616038,0.37931,0.446645,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,stirling-moss,Stirling Moss,lotus,DNF,44,5,1,20,1603.774608,1596.94312,-6.831488,0.344828,0.629473,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,graham-hill,Graham Hill,brm,DNF,43,11,1,21,1474.702292,1471.526454,-3.175838,0.310345,0.442671,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,giancarlo-baghetti,Giancarlo Baghetti,ferrari,DNF,27,19,1,22,1512.603894,1507.26788,-5.336013,0.275862,0.498196,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,tony-marsh,Tony Marsh,lotus,DNF,25,27,1,23,1494.248585,1488.732304,-5.516282,0.241379,0.471224,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,john-surtees,John Surtees,cooper,DNF,23,10,1,24,1503.855982,1497.173531,-6.682451,0.206897,0.485332,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,tim-parnell,Tim Parnell,lotus,DNF,12,29,1,25,1490.246189,1483.215524,-7.030666,0.172414,0.465358,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,gerry-ashmore,Gerry Ashmore,lotus,DNF,7,26,1,26,1500.0,1491.384563,-8.615437,0.12069,0.479666,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,jackie-lewis,Jackie Lewis,cooper,DNF,7,15,1,27,1496.14648,1487.666824,-8.479656,0.12069,0.474009,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,henry-taylor,Henry Taylor,lotus,DNF,5,17,1,28,1496.264913,1486.539706,-9.725207,0.068966,0.474182,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,massimo-natili,Massimo Natili,cooper,DNF,0,28,1,29,1500.0,1489.315597,-10.684403,0.034483,0.479666,24.0,30
-1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,jack-fairman,Jack Fairman,ferguson,DSQ,56,20,2,30,1473.376872,1462.798974,-10.577898,0.0,0.440746,24.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,wolfgang-von-trips,Wolfgang von Trips,ferrari,1,75,4,0,1,1130.208666,1147.950947,17.742282,1.0,0.645154,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,phil-hill,Phil Hill,ferrari,2,75,1,0,2,1178.707697,1191.635323,12.927625,0.965517,0.706965,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,richie-ginther,Richie Ginther,ferrari,3,75,2,0,3,1079.335307,1097.126052,17.790746,0.931034,0.57522,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,jack-brabham,Jack Brabham,cooper,4,75,9,0,4,1121.886453,1135.013098,13.126645,0.896552,0.634019,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,jo-bonnier,Jo Bonnier,porsche,5,75,3,0,5,1038.79917,1056.039141,17.239971,0.862069,0.51727,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,roy-salvadori,Roy Salvadori,cooper,6,75,13,0,6,1028.832981,1045.06766,16.234679,0.827586,0.502893,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,dan-gurney,Dan Gurney,porsche,7,74,12,0,7,1065.011048,1076.921904,11.910856,0.793103,0.554886,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,bruce-mclaren,Bruce McLaren,cooper,8,74,14,0,8,1140.586612,1145.575616,4.989003,0.758621,0.658841,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,tony-brooks,Tony Brooks,brm,9,73,6,0,9,1010.182784,1022.590476,12.407692,0.724138,0.475984,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,innes-ireland,Innes Ireland,lotus,10,72,7,0,10,1060.391017,1067.459379,7.068363,0.689655,0.548288,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,masten-gregory,Masten Gregory,cooper,11,71,16,0,11,1002.375443,1011.896796,9.521353,0.655172,0.464745,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,lorenzo-bandini,Lorenzo Bandini,cooper,12,71,21,0,12,997.820873,1005.945239,8.124366,0.62069,0.458202,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,tony-maggs,Tony Maggs,lotus,13,69,24,0,13,1000.0,1006.243774,6.243774,0.586207,0.461331,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,ian-burgess,Ian Burgess,lotus,14,69,25,0,14,946.448019,954.748007,8.299987,0.551724,0.385724,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,keith-greene,Keith Greene,gilby,15,69,23,0,15,960.26233,965.87938,5.61705,0.517241,0.4049,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,carel-godin-de-beaufort,Carel Godin de Beaufort,porsche,16,69,18,0,16,994.702105,996.153589,1.451483,0.482759,0.453729,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,wolfgang-seidel,Wolfgang Seidel,lotus,17,58,22,0,17,936.555589,940.36035,3.804761,0.448276,0.372181,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,jim-clark,Jim Clark,lotus,DNF,62,8,1,18,1080.196739,1072.06462,-8.132118,0.413793,0.576435,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,lucien-bianchi,Lucien Bianchi,lotus,DNF,45,30,1,19,963.233432,961.745924,-1.487508,0.37931,0.40906,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,stirling-moss,Stirling Moss,lotus,DNF,44,5,1,20,1138.356852,1122.802255,-15.554597,0.344828,0.65592,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,graham-hill,Graham Hill,brm,DNF,43,11,1,21,987.614962,980.952777,-6.662186,0.310345,0.443589,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,giancarlo-baghetti,Giancarlo Baghetti,ferrari,DNF,27,19,1,22,1027.338421,1016.094754,-11.243667,0.275862,0.500735,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,tony-marsh,Tony Marsh,lotus,DNF,25,27,1,23,990.747598,980.413255,-10.334344,0.241379,0.448066,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,john-surtees,John Surtees,cooper,DNF,23,10,1,24,1013.836439,1000.118714,-13.717725,0.206897,0.481251,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,tim-parnell,Tim Parnell,lotus,DNF,12,29,1,25,980.16728,967.139152,-13.028128,0.172414,0.432976,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,gerry-ashmore,Gerry Ashmore,lotus,DNF,7,26,1,26,1000.0,982.967912,-17.032088,0.12069,0.461331,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,jackie-lewis,Jackie Lewis,cooper,DNF,7,15,1,27,993.865272,977.273268,-16.592003,0.12069,0.45253,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,henry-taylor,Henry Taylor,lotus,DNF,5,17,1,28,997.069989,977.662027,-19.407962,0.068966,0.457125,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,massimo-natili,Massimo Natili,cooper,DNF,0,28,1,29,1000.0,978.657567,-21.342433,0.034483,0.461331,50.0,30
+1961,5,1961-07-15,great-britain,1961 RAC British Grand Prix,jack-fairman,Jack Fairman,ferguson,DSQ,56,20,2,30,956.261487,936.295607,-19.96588,0.0,0.399318,50.0,30

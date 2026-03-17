@@ -1,4 +1,4 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1950-05-30,1950,3,indianapolis,25,112,34,1500.0,1493.454545,-6.545455,0.227273,0.5,24.0
-1951-05-30,1951,2,indianapolis,6,200,34,1493.454545,1501.348853,7.894308,0.818182,0.489252,24.0
-1952-05-30,1952,2,indianapolis,19,184,33,1501.348853,1499.84877,-1.500083,0.4375,0.500003,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1950-05-30,1950,3,indianapolis,maserati,Maserati,25,112,34,1000.0,986.363636,-13.636364,0.227273,0.5,50.0
+1951-05-30,1951,2,indianapolis,moore,Moore,6,200,34,986.363636,1003.390862,17.027225,0.818182,0.477637,50.0
+1952-05-30,1952,2,indianapolis,lesovsky,Lesovsky,19,184,33,1003.390862,1000.190775,-3.200086,0.4375,0.501502,50.0

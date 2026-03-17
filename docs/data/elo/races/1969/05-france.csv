@@ -1,14 +1,14 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1969,5,1969-07-06,france,Grand Prix de France 1969,jackie-stewart,Jackie Stewart,matra,1,38,1,0,1,1614.537344,1623.958457,9.421113,1.0,0.607454,24.0,13
-1969,5,1969-07-06,france,Grand Prix de France 1969,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,2,38,5,0,2,1534.896951,1545.199028,10.302077,0.916667,0.487413,24.0,13
-1969,5,1969-07-06,france,Grand Prix de France 1969,jacky-ickx,Jacky Ickx,brabham,3,38,4,0,3,1532.533771,1540.92231,8.38854,0.833333,0.483811,24.0,13
-1969,5,1969-07-06,france,Grand Prix de France 1969,bruce-mclaren,Bruce McLaren,mclaren,4,37,7,0,4,1564.057722,1569.293189,5.235467,0.75,0.531856,24.0,13
-1969,5,1969-07-06,france,Grand Prix de France 1969,vic-elford,Vic Elford,mclaren,5,37,10,0,5,1504.292415,1509.709662,5.417247,0.666667,0.440948,24.0,13
-1969,5,1969-07-06,france,Grand Prix de France 1969,graham-hill,Graham Hill,lotus,6,37,8,0,6,1622.526611,1621.66794,-0.858671,0.583333,0.619111,24.0,13
-1969,5,1969-07-06,france,Grand Prix de France 1969,silvio-moser,Silvio Moser,brabham,7,36,13,0,7,1463.049553,1465.935149,2.885596,0.5,0.379767,24.0,13
-1969,5,1969-07-06,france,Grand Prix de France 1969,denny-hulme,Denny Hulme,mclaren,8,35,2,0,8,1634.416177,1629.146228,-5.269949,0.416667,0.636248,24.0,13
-1969,5,1969-07-06,france,Grand Prix de France 1969,jo-siffert,Jo Siffert,lotus,9,34,9,0,9,1567.446917,1562.558819,-4.888098,0.333333,0.537004,24.0,13
-1969,5,1969-07-06,france,Grand Prix de France 1969,chris-amon,Chris Amon,ferrari,DNF,30,6,1,10,1524.256577,1518.947658,-5.308919,0.25,0.471205,24.0,13
-1969,5,1969-07-06,france,Grand Prix de France 1969,jochen-rindt,Jochen Rindt,lotus,DNF,22,3,1,11,1491.858338,1485.723809,-6.134528,0.166667,0.422272,24.0,13
-1969,5,1969-07-06,france,Grand Prix de France 1969,piers-courage,Piers Courage,brabham,DNF,21,11,1,12,1509.245454,1500.483171,-8.762283,0.083333,0.448428,24.0,13
-1969,5,1969-07-06,france,Grand Prix de France 1969,john-miles,John Miles,lotus,DNF,1,12,1,13,1500.0,1489.572409,-10.427591,0.0,0.434483,24.0,13
+1969,5,1969-07-06,france,Grand Prix de France 1969,jackie-stewart,Jackie Stewart,matra,1,38,1,0,1,1196.468794,1212.69307,16.224277,1.0,0.675514,50.0,13
+1969,5,1969-07-06,france,Grand Prix de France 1969,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,2,38,5,0,2,1068.32971,1089.60461,21.274901,0.916667,0.491169,50.0,13
+1969,5,1969-07-06,france,Grand Prix de France 1969,jacky-ickx,Jacky Ickx,brabham,3,38,4,0,3,1066.4714,1083.717889,17.246489,0.833333,0.488404,50.0,13
+1969,5,1969-07-06,france,Grand Prix de France 1969,bruce-mclaren,Bruce McLaren,mclaren,4,37,7,0,4,1106.782281,1116.868828,10.086547,0.75,0.548269,50.0,13
+1969,5,1969-07-06,france,Grand Prix de France 1969,vic-elford,Vic Elford,mclaren,5,37,10,0,5,1019.367256,1031.757637,12.390382,0.666667,0.418859,50.0,13
+1969,5,1969-07-06,france,Grand Prix de France 1969,graham-hill,Graham Hill,lotus,6,37,8,0,6,1156.450769,1154.601109,-1.84966,0.583333,0.620327,50.0,13
+1969,5,1969-07-06,france,Grand Prix de France 1969,silvio-moser,Silvio Moser,brabham,7,36,13,0,7,943.479053,952.834556,9.355503,0.5,0.31289,50.0,13
+1969,5,1969-07-06,france,Grand Prix de France 1969,denny-hulme,Denny Hulme,mclaren,8,35,2,0,8,1199.736142,1186.57595,-13.160192,0.416667,0.679871,50.0,13
+1969,5,1969-07-06,france,Grand Prix de France 1969,jo-siffert,Jo Siffert,lotus,9,34,9,0,9,1126.481424,1114.288418,-12.193006,0.333333,0.577193,50.0,13
+1969,5,1969-07-06,france,Grand Prix de France 1969,chris-amon,Chris Amon,ferrari,DNF,30,6,1,10,1061.457664,1049.910348,-11.547315,0.25,0.480946,50.0,13
+1969,5,1969-07-06,france,Grand Prix de France 1969,jochen-rindt,Jochen Rindt,lotus,DNF,22,3,1,11,990.686778,980.139698,-10.547079,0.166667,0.377608,50.0,13
+1969,5,1969-07-06,france,Grand Prix de France 1969,piers-courage,Piers Courage,brabham,DNF,21,11,1,12,1032.493454,1014.756263,-17.737191,0.083333,0.438077,50.0,13
+1969,5,1969-07-06,france,Grand Prix de France 1969,john-miles,John Miles,lotus,DNF,1,12,1,13,1000.0,980.456345,-19.543655,0.0,0.390873,50.0,13

@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1967-08-06,1967,7,germany,NC,12,26,1500.0,1500.623545,0.623545,0.48,0.454019,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1967-08-06,1967,7,germany,protos,Protos,NC,12,26,1000.0,1002.54359,2.54359,0.48,0.429128,50.0

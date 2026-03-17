@@ -1,3 +1,3 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1953-01-18,1953,1,argentina,DNF,21,17,1500.0,1490.312816,-9.687184,0.0625,0.466133,24.0
-1955-01-16,1955,1,argentina,DNF,1,22,1490.312816,1480.062286,-10.250529,0.02381,0.450915,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1953-01-18,1953,1,argentina,simca-gordini,Simca-Gordini,DNF,21,17,1000.0,981.15707,-18.84293,0.0625,0.439359,50.0
+1955-01-16,1955,1,argentina,gordini,Gordini,DNF,1,22,981.15707,961.501537,-19.655533,0.02381,0.41692,50.0

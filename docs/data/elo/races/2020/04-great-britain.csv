@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,lewis-hamilton,Lewis Hamilton,mercedes,1,52,1,0,1,1977.173222,1979.838666,2.665443,1.0,0.88894,24.0,20
-2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,max-verstappen,Max Verstappen,red-bull,2,52,3,0,2,1767.742027,1773.453655,5.711627,0.947368,0.709384,24.0,20
-2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,charles-leclerc,Charles Leclerc,ferrari,3,52,4,0,3,1648.249509,1656.197138,7.94763,0.894737,0.563586,24.0,20
-2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,daniel-ricciardo,Daniel Ricciardo,renault,4,52,8,0,4,1612.916213,1620.725827,7.809614,0.842105,0.516705,24.0,20
-2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,lando-norris,Lando Norris,mclaren,5,52,5,0,5,1558.147467,1566.46157,8.314102,0.789474,0.443053,24.0,20
-2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,esteban-ocon,Esteban Ocon,renault,6,52,9,0,6,1548.313218,1555.680375,7.367157,0.736842,0.429877,24.0,20
-2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,pierre-gasly,Pierre Gasly,alphatauri,7,52,11,0,7,1559.608651,1565.349363,5.740712,0.684211,0.445014,24.0,20
-2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,alexander-albon,Alexander Albon,red-bull,8,52,12,0,8,1596.39945,1599.688622,3.289172,0.631579,0.49453,24.0,20
-2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,lance-stroll,Lance Stroll,racing-point,9,52,6,0,9,1506.093139,1511.008292,4.915153,0.578947,0.374149,24.0,20
-2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,sebastian-vettel,Sebastian Vettel,ferrari,10,52,10,0,10,1795.680998,1790.567356,-5.113642,0.526316,0.739384,24.0,20
-2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,valtteri-bottas,Valtteri Bottas,mercedes,11,52,2,0,11,1843.301743,1835.79945,-7.502294,0.473684,0.78628,24.0,20
-2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,george-russell,George Russell,williams,12,52,20,0,12,1438.62122,1441.760358,3.139138,0.421053,0.290255,24.0,20
-2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,13,52,7,0,13,1609.081036,1605.64557,-3.435466,0.368421,0.511565,24.0,20
-2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,14,52,15,0,14,1485.117676,1484.363021,-0.754655,0.315789,0.347233,24.0,20
-2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,nicholas-latifi,Nicholas Latifi,williams,15,52,18,0,15,1490.449066,1488.268531,-2.180535,0.263158,0.354014,24.0,20
-2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,romain-grosjean,Romain Grosjean,haas,16,52,17,0,16,1471.006357,1468.150686,-2.855671,0.210526,0.329513,24.0,20
-2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,17,51,16,0,17,1643.577866,1633.988587,-9.589279,0.157895,0.557448,24.0,20
-2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,daniil-kvyat,Daniil Kvyat,alphatauri,DNF,11,19,1,18,1539.39457,1531.889453,-7.505118,0.105263,0.417976,24.0,20
-2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,kevin-magnussen,Kevin Magnussen,haas,DNF,1,14,1,19,1500.240026,1492.705363,-7.534662,0.052632,0.366576,24.0,20
-2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,nico-hulkenberg,Nico Hülkenberg,racing-point,DNS,,13,2,20,1551.781108,1541.352681,-10.428427,0.0,0.434518,24.0,20
+2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,lewis-hamilton,Lewis Hamilton,mercedes,1,52,1,0,1,1569.843188,1574.140065,4.296877,1.0,0.914062,50.0,20
+2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,max-verstappen,Max Verstappen,red-bull,2,52,3,0,2,1341.38695,1351.417743,10.030794,0.947368,0.746753,50.0,20
+2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,charles-leclerc,Charles Leclerc,ferrari,3,52,4,0,3,1237.601593,1250.65781,13.056217,0.894737,0.633613,50.0,20
+2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,daniel-ricciardo,Daniel Ricciardo,renault,4,52,8,0,4,1109.130355,1127.673055,18.5427,0.842105,0.471251,50.0,20
+2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,lando-norris,Lando Norris,mclaren,5,52,5,0,5,1120.022532,1135.223716,15.201184,0.789474,0.48545,50.0,20
+2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,esteban-ocon,Esteban Ocon,renault,6,52,9,0,6,1065.077259,1081.218391,16.141132,0.736842,0.414019,50.0,20
+2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,pierre-gasly,Pierre Gasly,alphatauri,7,52,11,0,7,1100.706024,1111.903168,11.197145,0.684211,0.460268,50.0,20
+2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,alexander-albon,Alexander Albon,red-bull,8,52,12,0,8,1180.32687,1183.747749,3.420879,0.631579,0.563161,50.0,20
+2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,lance-stroll,Lance Stroll,racing-point,9,52,6,0,9,1041.536826,1051.289806,9.75298,0.578947,0.383888,50.0,20
+2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,sebastian-vettel,Sebastian Vettel,ferrari,10,52,10,0,10,1284.943465,1276.865109,-8.078356,0.526316,0.687883,50.0,20
+2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,valtteri-bottas,Valtteri Bottas,mercedes,11,52,2,0,11,1427.848214,1410.366682,-17.481532,0.473684,0.823315,50.0,20
+2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,george-russell,George Russell,williams,12,52,20,0,12,920.934759,929.876738,8.941979,0.421053,0.242213,50.0,20
+2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,13,52,7,0,13,1171.502297,1162.325736,-9.176561,0.368421,0.551952,50.0,20
+2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,14,52,15,0,14,1002.159698,1001.206446,-0.953251,0.315789,0.334854,50.0,20
+2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,nicholas-latifi,Nicholas Latifi,williams,15,52,18,0,15,984.975264,982.424378,-2.550886,0.263158,0.314176,50.0,20
+2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,romain-grosjean,Romain Grosjean,haas,16,52,17,0,16,968.820113,964.585557,-4.234556,0.210526,0.295217,50.0,20
+2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,17,51,16,0,17,1114.466727,1098.451014,-16.015713,0.157895,0.478209,50.0,20
+2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,daniil-kvyat,Daniil Kvyat,alphatauri,DNF,11,19,1,18,1077.097885,1060.882926,-16.21496,0.105263,0.429562,50.0,20
+2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,kevin-magnussen,Kevin Magnussen,haas,DNF,1,14,1,19,1008.937978,994.412398,-14.52558,0.052632,0.343143,50.0,20
+2020,4,2020-08-02,great-britain,Formula 1 Pirelli British Grand Prix 2020,nico-hulkenberg,Nico Hülkenberg,racing-point,DNS,,13,2,20,1075.128091,1053.777599,-21.350492,0.0,0.42701,50.0,20

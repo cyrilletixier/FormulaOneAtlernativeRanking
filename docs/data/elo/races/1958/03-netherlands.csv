@@ -1,19 +1,19 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,stirling-moss,Stirling Moss,vanwall,1,75,2,0,1,1602.853323,1611.755282,8.901959,1.0,0.629085,24.0,18
-1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,harry-schell,Harry Schell,brm,2,75,7,0,2,1521.42716,1531.79702,10.36986,0.941176,0.509099,24.0,18
-1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,jean-behra,Jean Behra,brm,3,75,4,0,3,1542.540929,1550.73788,8.196951,0.882353,0.540813,24.0,18
-1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,roy-salvadori,Roy Salvadori,cooper,4,74,9,0,4,1455.371513,1465.284609,9.913096,0.823529,0.410484,24.0,18
-1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,mike-hawthorn,Mike Hawthorn,ferrari,5,74,6,0,5,1574.244157,1578.489383,4.245226,0.764706,0.587821,24.0,18
-1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,cliff-allison,Cliff Allison,lotus,6,73,11,0,6,1507.946995,1513.156918,5.209923,0.705882,0.488802,24.0,18
-1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,luigi-musso,Luigi Musso,ferrari,7,73,12,0,7,1553.392296,1555.553372,2.161076,0.647059,0.557014,24.0,18
-1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,jack-brabham,Jack Brabham,cooper,8,73,5,0,8,1502.173391,1504.768267,2.594876,0.588235,0.480115,24.0,18
-1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,maurice-trintignant,Maurice Trintignant,cooper,9,72,8,0,9,1532.228164,1532.32576,0.097596,0.529412,0.525345,24.0,18
-1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,jo-bonnier,Jo Bonnier,maserati,10,71,15,0,10,1474.336831,1475.10784,0.771009,0.470588,0.438463,24.0,18
-1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,carel-godin-de-beaufort,Carel Godin de Beaufort,porsche,11,69,17,0,11,1498.992058,1497.466416,-1.525642,0.411765,0.475333,24.0,18
-1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,giorgio-scarlatti,Giorgio Scarlatti,maserati,DNF,51,16,1,12,1505.758554,1502.576935,-3.181619,0.352941,0.485509,24.0,18
-1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,stuart-lewis-evans,Stuart Lewis-Evans,vanwall,DNF,45,1,1,13,1498.789824,1494.447945,-4.341878,0.294118,0.475029,24.0,18
-1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,graham-hill,Graham Hill,lotus,DNF,41,13,1,14,1505.464237,1499.469717,-5.994519,0.235294,0.485066,24.0,18
-1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,peter-collins,Peter Collins,ferrari,DNF,32,10,1,15,1526.536552,1518.368928,-8.167624,0.176471,0.516788,24.0,18
-1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,masten-gregory,Masten Gregory,maserati,DNF,16,14,1,16,1529.88854,1520.188171,-9.700369,0.117647,0.521829,24.0,18
-1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,tony-brooks,Tony Brooks,vanwall,DNF,13,3,1,17,1507.141437,1496.851047,-10.290389,0.058824,0.48759,24.0,18
-1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,horace-gould,Horace Gould,maserati,DNS,,,2,18,1438.364289,1429.104756,-9.259533,0.0,0.385814,24.0,18
+1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,stirling-moss,Stirling Moss,vanwall,1,75,2,0,1,1179.759592,1194.483761,14.724169,1.0,0.705517,50.0,18
+1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,harry-schell,Harry Schell,brm,2,75,7,0,2,1064.884364,1084.596059,19.711695,0.941176,0.546943,50.0,18
+1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,jean-behra,Jean Behra,brm,3,75,4,0,3,1076.35369,1092.28699,15.933299,0.882353,0.563687,50.0,18
+1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,roy-salvadori,Roy Salvadori,cooper,4,74,9,0,4,941.18289,963.994773,22.811884,0.823529,0.367292,50.0,18
+1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,mike-hawthorn,Mike Hawthorn,ferrari,5,74,6,0,5,1104.489209,1112.516084,8.026875,0.764706,0.604168,50.0,18
+1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,cliff-allison,Cliff Allison,lotus,6,73,11,0,6,1016.927539,1028.406545,11.479007,0.705882,0.476302,50.0,18
+1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,luigi-musso,Luigi Musso,ferrari,7,73,12,0,7,1105.889952,1107.935096,2.045144,0.647059,0.606156,50.0,18
+1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,jack-brabham,Jack Brabham,cooper,8,73,5,0,8,1011.274754,1017.287432,6.012677,0.588235,0.467982,50.0,18
+1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,maurice-trintignant,Maurice Trintignant,cooper,9,72,8,0,9,1059.660468,1059.166892,-0.493576,0.529412,0.539283,50.0,18
+1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,jo-bonnier,Jo Bonnier,maserati,10,71,15,0,10,957.710284,961.717644,4.00736,0.470588,0.390441,50.0,18
+1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,carel-godin-de-beaufort,Carel Godin de Beaufort,porsche,11,69,17,0,11,998.787377,996.892557,-1.89482,0.411765,0.449661,50.0,18
+1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,giorgio-scarlatti,Giorgio Scarlatti,maserati,DNF,51,16,1,12,1018.207636,1011.945288,-6.262348,0.352941,0.478188,50.0,18
+1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,stuart-lewis-evans,Stuart Lewis-Evans,vanwall,DNF,45,1,1,13,999.897252,992.038868,-7.858384,0.294118,0.451285,50.0,18
+1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,graham-hill,Graham Hill,lotus,DNF,41,13,1,14,1011.755125,1000.085417,-11.669708,0.235294,0.468688,50.0,18
+1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,peter-collins,Peter Collins,ferrari,DNF,32,10,1,15,1067.615823,1048.892354,-18.723469,0.176471,0.55094,50.0,18
+1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,masten-gregory,Masten Gregory,maserati,DNF,16,14,1,16,1061.710077,1040.477903,-21.232173,0.117647,0.542291,50.0,18
+1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,tony-brooks,Tony Brooks,vanwall,DNF,13,3,1,17,1018.410041,997.426898,-20.983143,0.058824,0.478486,50.0,18
+1958,3,1958-05-26,netherlands,Grote Prijs van Nederland 1958,horace-gould,Horace Gould,maserati,DNS,,,2,18,900.528439,884.893951,-15.634488,0.0,0.31269,50.0,18

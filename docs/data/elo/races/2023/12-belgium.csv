@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,max-verstappen,Max Verstappen,red-bull,1,44,6,0,1,1917.627616,1921.563259,3.935643,1.0,0.836015,24.0,20
-2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,sergio-perez,Sergio Pérez,red-bull,2,44,2,0,2,1786.322532,1792.028752,5.70622,0.947368,0.709609,24.0,20
-2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,charles-leclerc,Charles Leclerc,ferrari,3,44,1,0,3,1736.419477,1742.260672,5.841194,0.894737,0.651354,24.0,20
-2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,lewis-hamilton,Lewis Hamilton,mercedes,4,44,3,0,4,1911.132066,1911.404604,0.272538,0.842105,0.83075,24.0,20
-2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,fernando-alonso,Fernando Alonso,aston-martin,5,44,9,0,5,1666.972644,1672.399307,5.426663,0.789474,0.563363,24.0,20
-2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,george-russell,George Russell,mercedes,6,44,8,0,6,1665.634896,1669.840461,4.205565,0.736842,0.56161,24.0,20
-2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,lando-norris,Lando Norris,mclaren,7,44,7,0,7,1664.102908,1667.093529,2.990621,0.684211,0.559601,24.0,20
-2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,esteban-ocon,Esteban Ocon,alpine,8,44,14,0,8,1606.083334,1609.661573,3.57824,0.631579,0.482486,24.0,20
-2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,lance-stroll,Lance Stroll,aston-martin,9,44,10,0,9,1565.670666,1569.27877,3.608104,0.578947,0.42861,24.0,20
-2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,yuki-tsunoda,Yuki Tsunoda,alphatauri,10,44,11,0,10,1479.405829,1484.394708,4.988879,0.526316,0.318446,24.0,20
-2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,pierre-gasly,Pierre Gasly,alpine,11,44,12,0,11,1570.204083,1571.141635,0.937553,0.473684,0.43462,24.0,20
-2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,valtteri-bottas,Valtteri Bottas,alfa-romeo,12,44,13,0,12,1610.68902,1609.066769,-1.622251,0.421053,0.488646,24.0,20
-2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,guanyu-zhou,Guanyu Zhou,alfa-romeo,13,44,17,0,13,1478.143029,1479.379132,1.236103,0.368421,0.316917,24.0,20
-2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,alexander-albon,Alexander Albon,williams,14,44,15,0,14,1547.176787,1545.053776,-2.12301,0.315789,0.404248,24.0,20
-2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,kevin-magnussen,Kevin Magnussen,haas,15,44,16,0,15,1436.020017,1435.908965,-0.111051,0.263158,0.267785,24.0,20
-2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,daniel-ricciardo,Daniel Ricciardo,alphatauri,16,44,19,0,16,1599.326692,1593.016562,-6.31013,0.210526,0.473448,24.0,20
-2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,logan-sargeant,Logan Sargeant,williams,17,44,18,0,17,1463.541439,1460.143818,-3.397621,0.157895,0.299462,24.0,20
-2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,nico-hulkenberg,Nico Hülkenberg,haas,18,44,PL,0,18,1517.383844,1511.13279,-6.251054,0.105263,0.365724,24.0,20
-2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,DNF,23,4,1,19,1726.218657,1712.148907,-14.06975,0.052632,0.638871,24.0,20
-2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,oscar-piastri,Oscar Piastri,mclaren,DNF,0,5,1,20,1519.509215,1510.666758,-8.842457,0.0,0.368436,24.0,20
+2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,max-verstappen,Max Verstappen,red-bull,1,44,6,0,1,1540.019668,1545.663665,5.643997,1.0,0.88712,50.0,20
+2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,sergio-perez,Sergio Pérez,red-bull,2,44,2,0,2,1376.951828,1386.349695,9.397867,0.947368,0.759411,50.0,20
+2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,charles-leclerc,Charles Leclerc,ferrari,3,44,1,0,3,1295.865551,1306.843052,10.977501,0.894737,0.675187,50.0,20
+2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,lewis-hamilton,Lewis Hamilton,mercedes,4,44,3,0,4,1425.199547,1427.145664,1.946118,0.842105,0.803183,50.0,20
+2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,fernando-alonso,Fernando Alonso,aston-martin,5,44,9,0,5,1260.16319,1267.917264,7.754074,0.789474,0.634392,50.0,20
+2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,george-russell,George Russell,mercedes,6,44,8,0,6,1270.018918,1274.568464,4.549546,0.736842,0.645851,50.0,20
+2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,lando-norris,Lando Norris,mclaren,7,44,7,0,7,1205.063782,1210.873679,5.809897,0.684211,0.568013,50.0,20
+2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,esteban-ocon,Esteban Ocon,alpine,8,44,14,0,8,1124.515227,1132.762441,8.247214,0.631579,0.466635,50.0,20
+2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,lance-stroll,Lance Stroll,aston-martin,9,44,10,0,9,1111.64722,1118.078974,6.431754,0.578947,0.450312,50.0,20
+2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,yuki-tsunoda,Yuki Tsunoda,alphatauri,10,44,11,0,10,997.492407,1008.282127,10.78972,0.526316,0.310521,50.0,20
+2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,pierre-gasly,Pierre Gasly,alpine,11,44,12,0,11,1080.241547,1083.390558,3.149011,0.473684,0.410704,50.0,20
+2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,valtteri-bottas,Valtteri Bottas,alfa-romeo,12,44,13,0,12,1066.298412,1067.685811,1.387399,0.421053,0.393305,50.0,20
+2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,guanyu-zhou,Guanyu Zhou,alfa-romeo,13,44,17,0,13,994.885135,997.930305,3.04517,0.368421,0.307518,50.0,20
+2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,alexander-albon,Alexander Albon,williams,14,44,15,0,14,1060.492477,1056.976642,-3.515835,0.315789,0.386106,50.0,20
+2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,kevin-magnussen,Kevin Magnussen,haas,15,44,16,0,15,935.317263,936.354962,1.0377,0.263158,0.242404,50.0,20
+2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,daniel-ricciardo,Daniel Ricciardo,alphatauri,16,44,19,0,16,1095.889577,1084.896748,-10.992829,0.210526,0.430383,50.0,20
+2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,logan-sargeant,Logan Sargeant,williams,17,44,18,0,17,946.318824,941.519459,-4.799365,0.157895,0.253882,50.0,20
+2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,nico-hulkenberg,Nico Hülkenberg,haas,18,44,PL,0,18,1017.01652,1005.611426,-11.405095,0.105263,0.333365,50.0,20
+2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,DNF,23,4,1,19,1284.832534,1254.3243,-30.508234,0.052632,0.662796,50.0,20
+2023,12,2023-07-30,belgium,Formula 1 MSC Cruises Belgian Grand Prix 2023,oscar-piastri,Oscar Piastri,mclaren,DNF,0,5,1,20,1054.664858,1035.71925,-18.945608,0.0,0.378912,50.0,20

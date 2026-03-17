@@ -1,25 +1,25 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,1,53,1,0,1,1780.717263,1786.633019,5.915756,1.0,0.75351,24.0,24
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,felipe-massa,Felipe Massa,ferrari,2,53,10,0,2,1683.918824,1691.429238,7.510414,0.956522,0.643588,24.0,24
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,kamui-kobayashi,Kamui Kobayashi,sauber,3,53,3,0,3,1544.881682,1555.679262,10.79758,0.913043,0.463144,24.0,24
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,jenson-button,Jenson Button,mclaren,4,53,8,0,4,1733.643098,1737.654099,4.011001,0.869565,0.70244,24.0,24
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,5,53,9,0,5,1705.052253,1708.818665,3.766411,0.826087,0.669153,24.0,24
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,kimi-raikkonen,Kimi Räikkönen,lotus-f1,6,53,7,0,6,1743.711178,1745.36327,1.652092,0.782609,0.713772,24.0,24
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,7,53,15,0,7,1543.703901,1550.364985,6.661084,0.73913,0.461585,24.0,24
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,pastor-maldonado,Pastor Maldonado,williams,8,53,12,0,8,1473.922492,1481.717232,7.794739,0.695652,0.370871,24.0,24
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,mark-webber,Mark Webber,red-bull,9,53,2,0,9,1759.542796,1757.647385,-1.895411,0.652174,0.731149,24.0,24
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,daniel-ricciardo,Daniel Ricciardo,toro-rosso,10,53,14,0,10,1493.957806,1499.051517,5.093712,0.608696,0.396458,24.0,24
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,michael-schumacher,Michael Schumacher,mercedes,11,53,23,0,11,1611.432921,1611.769591,0.336669,0.565217,0.551189,24.0,24
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,paul-di-resta,Paul di Resta,force-india,12,53,11,0,12,1585.156763,1585.281345,0.124583,0.521739,0.516548,24.0,24
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,13,53,19,0,13,1494.794791,1496.732172,1.937381,0.478261,0.397537,24.0,24
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,bruno-senna,Bruno Senna,williams,14,53,16,0,14,1487.198737,1488.326984,1.128247,0.434783,0.387772,24.0,24
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,heikki-kovalainen,Heikki Kovalainen,caterham,15,52,17,0,15,1453.258775,1454.368871,1.110096,0.391304,0.34505,24.0,24
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,timo-glock,Timo Glock,marussia,16,52,18,0,16,1405.767412,1407.191322,1.42391,0.347826,0.288496,24.0,24
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,vitaly-petrov,Vitaly Petrov,caterham,17,52,22,0,17,1491.331367,1489.201875,-2.129493,0.304348,0.393077,24.0,24
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,hrt,18,52,20,0,18,1424.556438,1423.368814,-1.187625,0.26087,0.310354,24.0,24
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,19,51,4,0,19,1506.47025,1501.783767,-4.686483,0.217391,0.412661,24.0,24
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,charles-pic,Charles Pic,marussia,DNF,37,21,1,20,1454.721062,1450.570427,-4.150635,0.173913,0.346856,24.0,24
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,narain-karthikeyan,Narain Karthikeyan,hrt,DNF,32,24,1,21,1370.728731,1367.863915,-2.864816,0.130435,0.249802,24.0,24
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,sergio-perez,Sergio Pérez,sauber,DNF,18,5,1,22,1551.129789,1541.902629,-9.22716,0.086957,0.471422,24.0,24
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,fernando-alonso,Fernando Alonso,ferrari,DNF,0,6,1,23,1807.949893,1789.734604,-18.215289,0.021739,0.78071,24.0,24
-2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,nico-rosberg,Nico Rosberg,mercedes,DNF,0,13,1,24,1683.32133,1668.414567,-14.906762,0.021739,0.642854,24.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,1,53,1,0,1,1359.671667,1369.930694,10.259028,1.0,0.794819,50.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,felipe-massa,Felipe Massa,ferrari,2,53,10,0,2,1213.778703,1229.4548,15.676098,0.956522,0.643,50.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,kamui-kobayashi,Kamui Kobayashi,sauber,3,53,3,0,3,1080.843014,1102.530031,21.687017,0.913043,0.479303,50.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,jenson-button,Jenson Button,mclaren,4,53,8,0,4,1281.043201,1288.620155,7.576954,0.869565,0.718026,50.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,5,53,9,0,5,1219.76177,1228.567836,8.806066,0.826087,0.649966,50.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,kimi-raikkonen,Kimi Räikkönen,lotus-f1,6,53,7,0,6,1310.14681,1311.879741,1.732931,0.782609,0.74795,50.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,7,53,15,0,7,1092.034621,1104.319967,12.285347,0.73913,0.493423,50.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,pastor-maldonado,Pastor Maldonado,williams,8,53,12,0,8,983.130146,999.994748,16.864602,0.695652,0.35836,50.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,mark-webber,Mark Webber,red-bull,9,53,2,0,9,1327.289106,1321.659352,-5.629755,0.652174,0.764769,50.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,daniel-ricciardo,Daniel Ricciardo,toro-rosso,10,53,14,0,10,1023.777848,1033.821104,10.043257,0.608696,0.407831,50.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,michael-schumacher,Michael Schumacher,mercedes,11,53,23,0,11,1082.907644,1087.07312,4.165476,0.565217,0.481908,50.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,paul-di-resta,Paul di Resta,force-india,12,53,11,0,12,1147.289058,1145.241337,-2.047721,0.521739,0.562694,50.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,13,53,19,0,13,995.809131,1001.04213,5.232999,0.478261,0.373601,50.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,bruno-senna,Bruno Senna,williams,14,53,16,0,14,1025.448069,1026.69235,1.244281,0.434783,0.409897,50.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,heikki-kovalainen,Heikki Kovalainen,caterham,15,52,17,0,15,949.263575,952.892714,3.629139,0.391304,0.318722,50.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,timo-glock,Timo Glock,marussia,16,52,18,0,16,887.979482,892.770175,4.790693,0.347826,0.252012,50.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,vitaly-petrov,Vitaly Petrov,caterham,17,52,22,0,17,982.322818,979.670388,-2.652429,0.304348,0.357396,50.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,hrt,18,52,20,0,18,905.955823,905.458309,-0.497515,0.26087,0.27082,50.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,19,51,4,0,19,1039.326521,1028.838783,-10.487738,0.217391,0.427146,50.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,charles-pic,Charles Pic,marussia,DNF,37,21,1,20,934.158387,927.772769,-6.385618,0.173913,0.301625,50.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,narain-karthikeyan,Narain Karthikeyan,hrt,DNF,32,24,1,21,825.845066,822.739667,-3.105399,0.130435,0.192543,50.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,sergio-perez,Sergio Pérez,sauber,DNF,18,5,1,22,1102.000019,1081.048311,-20.951708,0.086957,0.505991,50.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,fernando-alonso,Fernando Alonso,ferrari,DNF,0,6,1,23,1381.110821,1341.526073,-39.584748,0.021739,0.813434,50.0,24
+2012,15,2012-10-07,japan,2012 Formula 1 Japanese Grand Prix,nico-rosberg,Nico Rosberg,mercedes,DNF,0,13,1,24,1241.445822,1208.794564,-32.651258,0.021739,0.674764,50.0,24

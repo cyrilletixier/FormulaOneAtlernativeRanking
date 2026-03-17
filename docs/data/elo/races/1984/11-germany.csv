@@ -1,28 +1,28 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,alain-prost,Alain Prost,mclaren,1,44,1,0,1,1684.563074,1691.930974,7.3679,1.0,0.693004,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,niki-lauda,Niki Lauda,mclaren,2,44,7,0,2,1612.043636,1620.799266,8.75563,0.961538,0.596721,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,derek-warwick,Derek Warwick,renault,3,44,3,0,3,1530.901264,1541.517242,10.615978,0.923077,0.480744,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,nigel-mansell,Nigel Mansell,lotus,4,44,16,0,4,1565.431897,1573.929618,8.497721,0.884615,0.530544,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,patrick-tambay,Patrick Tambay,renault,5,44,4,0,5,1587.140021,1593.968862,6.828841,0.846154,0.561619,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,rene-arnoux,René Arnoux,ferrari,6,43,10,0,6,1653.836962,1657.536957,3.699995,0.807692,0.653526,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,andrea-de-cesaris,Andrea de Cesaris,ligier,7,43,11,0,7,1554.442117,1560.55053,6.108414,0.769231,0.514714,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,francois-hesnault,François Hesnault,ligier,8,43,17,0,8,1471.444676,1479.4735,8.028824,0.730769,0.396235,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,huub-rothengatter,Huub Rothengatter,spirit,9,40,24,0,9,1492.014259,1498.427494,6.413236,0.692308,0.42509,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,31,13,1,10,1464.775832,1471.179984,6.404152,0.653846,0.387007,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,eddie-cheever,Eddie Cheever,alfa-romeo,DNF,29,18,1,11,1537.220209,1540.232809,3.0126,0.615385,0.48986,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,teo-fabi,Teo Fabi,brabham,DNF,28,8,1,12,1460.577449,1465.27401,4.696561,0.576923,0.381233,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,nelson-piquet,Nelson Piquet,brabham,DNF,23,5,1,13,1654.791946,1652.000181,-2.791765,0.538462,0.654785,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,riccardo-patrese,Riccardo Patrese,alfa-romeo,DNF,16,20,1,14,1536.797251,1537.055268,0.258018,0.5,0.489249,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNF,14,21,1,15,1442.03739,1444.567703,2.530313,0.461538,0.356109,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,jo-gartner,Jo Gartner,osella,DNF,13,23,1,16,1494.606716,1494.00873,-0.597987,0.403846,0.428762,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,michele-alboreto,Michele Alboreto,ferrari,DNF,13,6,1,17,1572.698254,1569.407021,-3.291233,0.403846,0.540981,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,jonathan-palmer,Jonathan Palmer,ram,DNF,11,25,1,18,1500.70544,1498.514836,-2.190604,0.346154,0.437429,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,jacques-laffite,Jacques Laffite,williams,DNF,10,12,1,19,1582.578972,1576.179199,-6.399773,0.288462,0.555119,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,keke-rosberg,Keke Rosberg,williams,DNF,10,19,1,20,1623.320498,1615.547291,-7.773207,0.288462,0.612345,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,elio-de-angelis,Elio de Angelis,lotus,DNF,8,2,1,21,1614.858581,1605.520177,-9.338405,0.211538,0.600639,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,thierry-boutsen,Thierry Boutsen,arrows,DNF,8,15,1,22,1540.085981,1533.30701,-6.778971,0.211538,0.493996,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,philippe-alliot,Philippe Alliot,ram,DNF,7,22,1,23,1472.455254,1466.604221,-5.851033,0.153846,0.397639,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,ayrton-senna,Ayrton Senna,toleman,DNF,4,9,1,24,1528.634765,1519.944538,-8.690227,0.115385,0.477477,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,marc-surer,Marc Surer,arrows,DNF,1,14,1,25,1574.585853,1563.383517,-11.202337,0.076923,0.543687,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,mike-thackwell,Mike Thackwell,tyrrell,DSQ,,,2,26,1473.052204,1463.950476,-9.101728,0.019231,0.398469,24.0,27
-1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,stefan-johansson,Stefan Johansson,tyrrell,DSQ,,,2,27,1476.316713,1467.1058,-9.210913,0.019231,0.403019,24.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,alain-prost,Alain Prost,mclaren,1,44,1,0,1,1251.968944,1264.979859,13.010915,1.0,0.739782,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,niki-lauda,Niki Lauda,mclaren,2,44,7,0,2,1152.901537,1170.118392,17.216855,0.961538,0.617201,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,derek-warwick,Derek Warwick,renault,3,44,3,0,3,1108.938008,1127.236906,18.298897,0.923077,0.557099,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,nigel-mansell,Nigel Mansell,lotus,4,44,16,0,4,1109.642126,1125.968995,16.326869,0.884615,0.558078,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,patrick-tambay,Patrick Tambay,renault,5,44,4,0,5,1116.376024,1130.312738,13.936714,0.846154,0.56742,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,rene-arnoux,René Arnoux,ferrari,6,43,10,0,6,1217.96285,1223.335256,5.372407,0.807692,0.700244,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,andrea-de-cesaris,Andrea de Cesaris,ligier,7,43,11,0,7,1095.948569,1107.461483,11.512914,0.769231,0.538972,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,francois-hesnault,François Hesnault,ligier,8,43,17,0,8,957.61077,976.730569,19.119799,0.730769,0.348373,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,huub-rothengatter,Huub Rothengatter,spirit,9,40,24,0,9,989.300268,1004.396978,15.096709,0.692308,0.390374,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,31,13,1,10,983.209094,996.792801,13.583707,0.653846,0.382172,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,eddie-cheever,Eddie Cheever,alfa-romeo,DNF,29,18,1,11,1050.665625,1057.669511,7.003886,0.615385,0.475307,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,teo-fabi,Teo Fabi,brabham,DNF,28,8,1,12,971.94561,982.43377,10.48816,0.576923,0.36716,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,nelson-piquet,Nelson Piquet,brabham,DNF,23,5,1,13,1191.851551,1185.376233,-6.475318,0.538462,0.667968,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,riccardo-patrese,Riccardo Patrese,alfa-romeo,DNF,16,20,1,14,1045.554729,1047.148345,1.593615,0.5,0.468128,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNF,14,21,1,15,955.089876,960.911327,5.821451,0.461538,0.345109,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,jo-gartner,Jo Gartner,osella,DNF,13,23,1,16,991.328162,991.864668,0.536506,0.403846,0.393116,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,michele-alboreto,Michele Alboreto,ferrari,DNF,13,6,1,17,1107.110055,1099.574591,-7.535464,0.403846,0.554555,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,jonathan-palmer,Jonathan Palmer,ram,DNF,11,25,1,18,1007.831102,1004.356934,-3.474167,0.346154,0.415637,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,jacques-laffite,Jacques Laffite,williams,DNF,10,12,1,19,1080.877378,1069.40926,-11.468118,0.288462,0.517824,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,keke-rosberg,Keke Rosberg,williams,DNF,10,19,1,20,1175.988348,1158.029572,-17.958776,0.288462,0.647637,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,elio-de-angelis,Elio de Angelis,lotus,DNF,8,2,1,21,1180.284859,1158.202102,-22.082757,0.211538,0.653194,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,thierry-boutsen,Thierry Boutsen,arrows,DNF,8,15,1,22,1073.734779,1058.922952,-14.811827,0.211538,0.507775,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,philippe-alliot,Philippe Alliot,ram,DNF,7,22,1,23,960.254397,950.356246,-9.898152,0.153846,0.351809,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,ayrton-senna,Ayrton Senna,toleman,DNF,4,9,1,24,1065.326515,1046.298899,-19.027616,0.115385,0.495937,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,marc-surer,Marc Surer,arrows,DNF,1,14,1,25,1092.225616,1069.383884,-22.841732,0.076923,0.533758,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,mike-thackwell,Mike Thackwell,tyrrell,DSQ,,,2,26,953.202313,937.030161,-16.172152,0.019231,0.342674,50.0,27
+1984,11,1984-08-05,germany,Grosser Preis von Deutschland 1984,stefan-johansson,Stefan Johansson,tyrrell,DSQ,,,2,27,968.566107,951.392783,-17.173324,0.019231,0.362697,50.0,27

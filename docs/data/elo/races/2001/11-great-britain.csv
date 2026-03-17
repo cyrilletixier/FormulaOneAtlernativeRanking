@@ -1,23 +1,23 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,mika-hakkinen,Mika Häkkinen,mclaren,1,60,2,0,1,1673.662852,1681.669295,8.006444,1.0,0.666398,24.0,22
-2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,michael-schumacher,Michael Schumacher,ferrari,2,60,1,0,2,1787.012284,1790.794725,3.782441,0.952381,0.794779,24.0,22
-2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,rubens-barrichello,Rubens Barrichello,ferrari,3,60,6,0,3,1642.518463,1649.216398,6.697935,0.904762,0.625681,24.0,22
-2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,juan-pablo-montoya,Juan Pablo Montoya,williams,4,60,8,0,4,1493.970877,1504.524315,10.553438,0.857143,0.417416,24.0,22
-2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,kimi-raikkonen,Kimi Räikkönen,sauber,5,59,7,0,5,1529.809786,1538.006672,8.196886,0.809524,0.467987,24.0,22
-2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,nick-heidfeld,Nick Heidfeld,sauber,6,59,9,0,6,1485.018602,1493.58526,8.566658,0.761905,0.404961,24.0,22
-2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,7,59,5,0,7,1571.654275,1576.136465,4.48219,0.714286,0.527528,24.0,22
-2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,jacques-villeneuve,Jacques Villeneuve,bar,8,59,12,0,8,1580.109074,1583.161067,3.051993,0.666667,0.5395,24.0,22
-2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,eddie-irvine,Eddie Irvine,jaguar,9,59,15,0,9,1604.26169,1605.357163,1.095474,0.619048,0.573403,24.0,22
-2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,jos-verstappen,Jos Verstappen,arrows,10,58,17,0,10,1481.751802,1485.855546,4.103744,0.571429,0.400439,24.0,22
-2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,jean-alesi,Jean Alesi,prost,11,58,14,0,11,1541.235811,1542.185306,0.949495,0.52381,0.484247,24.0,22
-2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,jaguar,12,58,13,0,12,1456.23876,1458.89177,2.65301,0.47619,0.365648,24.0,22
-2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,benetton,13,58,19,0,13,1532.16141,1531.135186,-1.026225,0.428571,0.471331,24.0,22
-2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,enrique-bernoldi,Enrique Bernoldi,arrows,14,58,20,0,14,1461.636673,1461.829337,0.192664,0.380952,0.372925,24.0,22
-2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,jenson-button,Jenson Button,benetton,15,58,18,0,15,1521.633425,1518.680373,-2.953052,0.333333,0.456377,24.0,22
-2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,fernando-alonso,Fernando Alonso,minardi,16,57,21,0,16,1473.70065,1471.213255,-2.487396,0.285714,0.389356,24.0,22
-2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,ralf-schumacher,Ralf Schumacher,williams,DNF,36,10,1,17,1610.462368,1602.208357,-8.254011,0.238095,0.582012,24.0,22
-2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,luciano-burti,Luciano Burti,prost,DNF,6,16,1,18,1516.126437,1509.932034,-6.194403,0.190476,0.448576,24.0,22
-2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,david-coulthard,David Coulthard,mclaren,DNF,2,3,1,19,1728.284147,1714.131804,-14.152343,0.142857,0.732538,24.0,22
-2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,jarno-trulli,Jarno Trulli,jordan,DNF,0,4,1,20,1512.241376,1503.321642,-8.919733,0.071429,0.443084,24.0,22
-2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,olivier-panis,Olivier Panis,bar,DNF,0,11,1,21,1537.483862,1527.704435,-9.779428,0.071429,0.478905,24.0,22
-2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,tarso-marques,Tarso Marques,minardi,DNQ,,,2,22,1449.704061,1441.13828,-8.565781,0.0,0.356908,24.0,22
+2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,mika-hakkinen,Mika Häkkinen,mclaren,1,60,2,0,1,1173.881658,1191.751504,17.869846,1.0,0.642603,50.0,22
+2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,michael-schumacher,Michael Schumacher,ferrari,2,60,1,0,2,1353.933624,1359.850753,5.917129,0.952381,0.834038,50.0,22
+2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,rubens-barrichello,Rubens Barrichello,ferrari,3,60,6,0,3,1214.171116,1224.790087,10.61897,0.904762,0.692382,50.0,22
+2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,juan-pablo-montoya,Juan Pablo Montoya,williams,4,60,8,0,4,997.790253,1020.513663,22.72341,0.857143,0.402675,50.0,22
+2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,kimi-raikkonen,Kimi Räikkönen,sauber,5,59,7,0,5,1065.893866,1081.529366,15.6355,0.809524,0.496814,50.0,22
+2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,nick-heidfeld,Nick Heidfeld,sauber,6,59,9,0,6,1003.75363,1021.309253,17.555623,0.761905,0.410792,50.0,22
+2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,7,59,5,0,7,1057.218392,1068.696007,11.477616,0.714286,0.484733,50.0,22
+2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,jacques-villeneuve,Jacques Villeneuve,bar,8,59,12,0,8,1094.948536,1101.425591,6.477055,0.666667,0.537126,50.0,22
+2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,eddie-irvine,Eddie Irvine,jaguar,9,59,15,0,9,1091.807376,1096.120412,4.313036,0.619048,0.532787,50.0,22
+2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,jos-verstappen,Jos Verstappen,arrows,10,58,17,0,10,1015.950581,1023.146775,7.196194,0.571429,0.427505,50.0,22
+2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,jean-alesi,Jean Alesi,prost,11,58,14,0,11,1057.990439,1059.890487,1.900048,0.52381,0.485809,50.0,22
+2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,jaguar,12,58,13,0,12,966.240682,972.025973,5.785291,0.47619,0.360485,50.0,22
+2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,benetton,13,58,19,0,13,1016.99476,1016.976259,-0.018501,0.428571,0.428941,50.0,22
+2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,enrique-bernoldi,Enrique Bernoldi,arrows,14,58,20,0,14,938.673051,941.472993,2.799942,0.380952,0.324954,50.0,22
+2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,jenson-button,Jenson Button,benetton,15,58,18,0,15,1038.263177,1032.011758,-6.25142,0.333333,0.458362,50.0,22
+2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,fernando-alonso,Fernando Alonso,minardi,16,57,21,0,16,959.574265,956.271754,-3.302511,0.285714,0.351764,50.0,22
+2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,ralf-schumacher,Ralf Schumacher,williams,DNF,36,10,1,17,1154.444553,1135.476677,-18.967877,0.238095,0.617453,50.0,22
+2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,luciano-burti,Luciano Burti,prost,DNF,6,16,1,18,1037.122548,1023.807462,-13.315086,0.190476,0.456778,50.0,22
+2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,david-coulthard,David Coulthard,mclaren,DNF,2,3,1,19,1307.075719,1274.601707,-32.474012,0.142857,0.792337,50.0,22
+2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,jarno-trulli,Jarno Trulli,jordan,DNF,0,4,1,20,1040.252945,1020.768084,-19.484861,0.071429,0.461126,50.0,22
+2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,olivier-panis,Olivier Panis,bar,DNF,0,11,1,21,1046.385365,1026.474167,-19.911198,0.071429,0.469653,50.0,22
+2001,11,2001-07-15,great-britain,2001 Foster's British Grand Prix,tarso-marques,Tarso Marques,minardi,DNQ,,,2,22,943.353935,926.809738,-16.544197,0.0,0.330884,50.0,22

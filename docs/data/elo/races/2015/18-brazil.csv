@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,nico-rosberg,Nico Rosberg,mercedes,1,71,1,0,1,1799.404758,1805.60426,6.199502,1.0,0.741687,24.0,20
-2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,lewis-hamilton,Lewis Hamilton,mercedes,2,71,2,0,2,1856.616451,1860.164696,3.548245,0.947368,0.799525,24.0,20
-2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,sebastian-vettel,Sebastian Vettel,ferrari,3,71,3,0,3,1840.835418,1843.483132,2.647714,0.894737,0.784415,24.0,20
-2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,kimi-raikkonen,Kimi Räikkönen,ferrari,4,71,4,0,4,1692.814592,1698.295266,5.480674,0.842105,0.613744,24.0,20
-2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,valtteri-bottas,Valtteri Bottas,williams,5,70,7,0,5,1659.785064,1665.049639,5.264575,0.789474,0.570116,24.0,20
-2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,nico-hulkenberg,Nico Hülkenberg,force-india,6,70,5,0,6,1580.221425,1586.823037,6.601612,0.736842,0.461775,24.0,20
-2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,daniil-kvyat,Daniil Kvyat,red-bull,7,70,6,0,7,1572.975694,1578.551462,5.575768,0.684211,0.451887,24.0,20
-2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,romain-grosjean,Romain Grosjean,lotus-f1,8,70,14,0,8,1537.222864,1542.694877,5.472012,0.631579,0.403578,24.0,20
-2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,max-verstappen,Max Verstappen,toro-rosso,9,70,9,0,9,1543.077094,1547.097863,4.020769,0.578947,0.411415,24.0,20
-2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,pastor-maldonado,Pastor Maldonado,lotus-f1,10,70,15,0,10,1474.566049,1479.454867,4.888817,0.526316,0.322615,24.0,20
-2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,daniel-ricciardo,Daniel Ricciardo,red-bull,11,70,19,0,11,1645.348928,1643.500988,-1.847941,0.473684,0.550682,24.0,20
-2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,sergio-perez,Sergio Pérez,force-india,12,70,11,0,12,1620.103826,1617.816745,-2.287081,0.421053,0.516348,24.0,20
-2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,felipe-nasr,Felipe Nasr,sauber,13,70,13,0,13,1519.454992,1519.176378,-0.278614,0.368421,0.38003,24.0,20
-2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,jenson-button,Jenson Button,mclaren,14,70,16,0,14,1612.733157,1608.161609,-4.571549,0.315789,0.506271,24.0,20
-2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,fernando-alonso,Fernando Alonso,mclaren,15,70,20,0,15,1652.45141,1645.320815,-7.130595,0.263158,0.560266,24.0,20
-2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,marcus-ericsson,Marcus Ericsson,sauber,16,69,12,0,16,1471.130431,1468.542196,-2.588234,0.210526,0.318369,24.0,20
-2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,will-stevens,Will Stevens,marussia,17,67,18,0,17,1441.216152,1438.22664,-2.989512,0.157895,0.282458,24.0,20
-2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,alexander-rossi,Alexander Rossi,marussia,18,67,17,0,18,1492.810775,1487.044148,-5.766627,0.105263,0.345539,24.0,20
-2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,0,PL,1,19,1514.675771,1506.968574,-7.707196,0.052632,0.373765,24.0,20
-2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,felipe-massa,Felipe Massa,williams,DSQ,70,8,2,20,1686.502905,1671.970565,-14.532339,0.0,0.605514,24.0,20
+2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,nico-rosberg,Nico Rosberg,mercedes,1,71,1,0,1,1385.752075,1396.395542,10.643467,1.0,0.787131,50.0,20
+2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,lewis-hamilton,Lewis Hamilton,mercedes,2,71,2,0,2,1464.873673,1469.579007,4.705334,0.947368,0.853262,50.0,20
+2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,sebastian-vettel,Sebastian Vettel,ferrari,3,71,3,0,3,1394.828987,1399.79184,4.962853,0.894737,0.79548,50.0,20
+2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,kimi-raikkonen,Kimi Räikkönen,ferrari,4,71,4,0,4,1202.557314,1215.623043,13.065728,0.842105,0.580791,50.0,20
+2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,valtteri-bottas,Valtteri Bottas,williams,5,70,7,0,5,1240.559212,1248.601037,8.041825,0.789474,0.628637,50.0,20
+2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,nico-hulkenberg,Nico Hülkenberg,force-india,6,70,5,0,6,1093.819929,1108.771921,14.951993,0.736842,0.437802,50.0,20
+2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,daniil-kvyat,Daniil Kvyat,red-bull,7,70,6,0,7,1153.621762,1161.984467,8.362705,0.684211,0.516956,50.0,20
+2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,romain-grosjean,Romain Grosjean,lotus-f1,8,70,14,0,8,1062.796425,1074.512709,11.716284,0.631579,0.397253,50.0,20
+2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,max-verstappen,Max Verstappen,toro-rosso,9,70,9,0,9,1100.357946,1106.983983,6.626037,0.578947,0.446427,50.0,20
+2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,pastor-maldonado,Pastor Maldonado,lotus-f1,10,70,15,0,10,1015.405622,1024.856402,9.45078,0.526316,0.3373,50.0,20
+2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,daniel-ricciardo,Daniel Ricciardo,red-bull,11,70,19,0,11,1205.601833,1200.051473,-5.55036,0.473684,0.584691,50.0,20
+2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,sergio-perez,Sergio Pérez,force-india,12,70,11,0,12,1186.886874,1179.9115,-6.975374,0.421053,0.56056,50.0,20
+2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,felipe-nasr,Felipe Nasr,sauber,13,70,13,0,13,1047.079685,1046.648386,-0.431299,0.368421,0.377047,50.0,20
+2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,jenson-button,Jenson Button,mclaren,14,70,16,0,14,1091.539493,1085.589013,-5.95048,0.315789,0.434799,50.0,20
+2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,fernando-alonso,Fernando Alonso,mclaren,15,70,20,0,15,1093.486456,1084.776205,-8.710251,0.263158,0.437363,50.0,20
+2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,marcus-ericsson,Marcus Ericsson,sauber,16,69,12,0,16,996.953931,991.736034,-5.217897,0.210526,0.314884,50.0,20
+2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,will-stevens,Will Stevens,marussia,17,67,18,0,17,920.488312,916.90739,-3.580922,0.157895,0.229513,50.0,20
+2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,alexander-rossi,Alexander Rossi,marussia,18,67,17,0,18,992.209601,982.011702,-10.197899,0.105263,0.309221,50.0,20
+2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,0,PL,1,19,1043.690791,1027.685978,-16.004813,0.052632,0.372728,50.0,20
+2015,18,2015-11-15,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2015,felipe-massa,Felipe Massa,williams,DSQ,70,8,2,20,1216.175362,1186.267651,-29.90771,0.0,0.598154,50.0,20

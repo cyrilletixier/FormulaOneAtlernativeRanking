@@ -1,3 +1,3 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1977-06-05,1977,7,belgium,DNQ,,32,1500.0,1491.378057,-8.621943,0.096774,0.456022,24.0
-1978-05-21,1978,6,belgium,DNP,,32,1491.378057,1486.263077,-5.11498,0.209677,0.422802,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1977-06-05,1977,7,belgium,march,March,DNQ,,32,1000.0,983.252762,-16.747238,0.096774,0.431719,50.0
+1978-05-21,1978,6,belgium,ensign,Ensign,DNP,,32,983.252762,974.658458,-8.594304,0.209677,0.381564,50.0

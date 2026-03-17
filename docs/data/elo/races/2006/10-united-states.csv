@@ -1,23 +1,23 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2006,10,2006-07-02,united-states,2006 United States Grand Prix,michael-schumacher,Michael Schumacher,ferrari,1,73,1,0,1,1792.075582,1797.509175,5.433593,1.0,0.7736,24.0,22
-2006,10,2006-07-02,united-states,2006 United States Grand Prix,felipe-massa,Felipe Massa,ferrari,2,73,2,0,2,1594.742396,1604.978289,10.235892,0.952381,0.525885,24.0,22
-2006,10,2006-07-02,united-states,2006 United States Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,renault,3,73,3,0,3,1644.380007,1651.825798,7.445791,0.904762,0.594521,24.0,22
-2006,10,2006-07-02,united-states,2006 United States Grand Prix,jarno-trulli,Jarno Trulli,toyota,4,73,PL,0,4,1577.980341,1586.495169,8.514827,0.857143,0.502358,24.0,22
-2006,10,2006-07-02,united-states,2006 United States Grand Prix,fernando-alonso,Fernando Alonso,renault,5,73,5,0,5,1767.99508,1769.472243,1.477163,0.809524,0.747975,24.0,22
-2006,10,2006-07-02,united-states,2006 United States Grand Prix,rubens-barrichello,Rubens Barrichello,honda,6,73,4,0,6,1683.443258,1686.215544,2.772287,0.761905,0.646393,24.0,22
-2006,10,2006-07-02,united-states,2006 United States Grand Prix,david-coulthard,David Coulthard,red-bull,7,72,17,0,7,1583.519717,1588.419182,4.899466,0.714286,0.510141,24.0,22
-2006,10,2006-07-02,united-states,2006 United States Grand Prix,vitantonio-liuzzi,Vitantonio Liuzzi,toro-rosso,8,72,20,0,8,1495.554085,1502.24474,6.690655,0.666667,0.387889,24.0,22
-2006,10,2006-07-02,united-states,2006 United States Grand Prix,nico-rosberg,Nico Rosberg,williams,9,72,21,0,9,1496.086789,1501.617308,5.530519,0.619048,0.388609,24.0,22
-2006,10,2006-07-02,united-states,2006 United States Grand Prix,ralf-schumacher,Ralf Schumacher,toyota,DNF,62,8,1,10,1622.687585,1622.846718,0.159133,0.571429,0.564798,24.0,22
-2006,10,2006-07-02,united-states,2006 United States Grand Prix,christijan-albers,Christijan Albers,midland,DNF,37,14,1,11,1444.646646,1449.507434,4.860787,0.52381,0.321277,24.0,22
-2006,10,2006-07-02,united-states,2006 United States Grand Prix,jacques-villeneuve,Jacques Villeneuve,bmw-sauber,DNF,23,6,1,12,1542.253974,1542.829292,0.575318,0.47619,0.452219,24.0,22
-2006,10,2006-07-02,united-states,2006 United States Grand Prix,tiago-monteiro,Tiago Monteiro,midland,DNF,9,15,1,13,1483.376813,1484.745427,1.368615,0.428571,0.371546,24.0,22
-2006,10,2006-07-02,united-states,2006 United States Grand Prix,takuma-sato,Takuma Sato,super-aguri,DNF,6,18,1,14,1474.208003,1474.725375,0.517372,0.380952,0.359395,24.0,22
-2006,10,2006-07-02,united-states,2006 United States Grand Prix,jenson-button,Jenson Button,honda,DNF,3,7,1,15,1638.051425,1631.989701,-6.061724,0.333333,0.585905,24.0,22
-2006,10,2006-07-02,united-states,2006 United States Grand Prix,christian-klien,Christian Klien,red-bull,DNF,0,16,1,16,1491.154674,1485.416225,-5.738449,0.142857,0.381959,24.0,22
-2006,10,2006-07-02,united-states,2006 United States Grand Prix,franck-montagny,Franck Montagny,super-aguri,DNF,0,19,1,17,1473.907344,1468.719934,-5.187409,0.142857,0.358999,24.0,22
-2006,10,2006-07-02,united-states,2006 United States Grand Prix,juan-pablo-montoya,Juan Pablo Montoya,mclaren,DNF,0,11,1,18,1638.434186,1627.788493,-10.645692,0.142857,0.586428,24.0,22
-2006,10,2006-07-02,united-states,2006 United States Grand Prix,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,0,9,1,19,1693.614883,1681.216365,-12.398518,0.142857,0.659462,24.0,22
-2006,10,2006-07-02,united-states,2006 United States Grand Prix,mark-webber,Mark Webber,williams,DNF,0,12,1,20,1514.564673,1508.061843,-6.502829,0.142857,0.413808,24.0,22
-2006,10,2006-07-02,united-states,2006 United States Grand Prix,nick-heidfeld,Nick Heidfeld,bmw-sauber,DNF,0,10,1,21,1559.666132,1551.655841,-8.010291,0.142857,0.476619,24.0,22
-2006,10,2006-07-02,united-states,2006 United States Grand Prix,scott-speed,Scott Speed,toro-rosso,DNF,0,13,1,22,1497.271323,1491.334817,-5.936506,0.142857,0.390212,24.0,22
+2006,10,2006-07-02,united-states,2006 United States Grand Prix,michael-schumacher,Michael Schumacher,ferrari,1,73,1,0,1,1306.306421,1318.679979,12.373558,1.0,0.752529,50.0,22
+2006,10,2006-07-02,united-states,2006 United States Grand Prix,felipe-massa,Felipe Massa,ferrari,2,73,2,0,2,1169.680192,1187.832232,18.15204,0.952381,0.58934,50.0,22
+2006,10,2006-07-02,united-states,2006 United States Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,renault,3,73,3,0,3,1234.219258,1245.907696,11.688439,0.904762,0.670993,50.0,22
+2006,10,2006-07-02,united-states,2006 United States Grand Prix,jarno-trulli,Jarno Trulli,toyota,4,73,PL,0,4,1090.430598,1109.143772,18.713174,0.857143,0.482879,50.0,22
+2006,10,2006-07-02,united-states,2006 United States Grand Prix,fernando-alonso,Fernando Alonso,renault,5,73,5,0,5,1401.166734,1399.630501,-1.536233,0.809524,0.840248,50.0,22
+2006,10,2006-07-02,united-states,2006 United States Grand Prix,rubens-barrichello,Rubens Barrichello,honda,6,73,4,0,6,1191.702682,1198.901265,7.198584,0.761905,0.617933,50.0,22
+2006,10,2006-07-02,united-states,2006 United States Grand Prix,david-coulthard,David Coulthard,red-bull,7,72,17,0,7,1084.011638,1096.017549,12.005911,0.714286,0.474168,50.0,22
+2006,10,2006-07-02,united-states,2006 United States Grand Prix,vitantonio-liuzzi,Vitantonio Liuzzi,toro-rosso,8,72,20,0,8,1007.902258,1022.602358,14.700101,0.666667,0.372665,50.0,22
+2006,10,2006-07-02,united-states,2006 United States Grand Prix,nico-rosberg,Nico Rosberg,williams,9,72,21,0,9,1003.048247,1015.680819,12.632573,0.619048,0.366396,50.0,22
+2006,10,2006-07-02,united-states,2006 United States Grand Prix,ralf-schumacher,Ralf Schumacher,toyota,DNF,62,8,1,10,1126.820039,1128.781608,1.96157,0.571429,0.532197,50.0,22
+2006,10,2006-07-02,united-states,2006 United States Grand Prix,christijan-albers,Christijan Albers,midland,DNF,37,14,1,11,938.604239,950.440534,11.836295,0.52381,0.287084,50.0,22
+2006,10,2006-07-02,united-states,2006 United States Grand Prix,jacques-villeneuve,Jacques Villeneuve,bmw-sauber,DNF,23,6,1,12,1076.852893,1077.43938,0.586486,0.47619,0.464461,50.0,22
+2006,10,2006-07-02,united-states,2006 United States Grand Prix,tiago-monteiro,Tiago Monteiro,midland,DNF,9,15,1,13,995.234188,998.843798,3.609609,0.428571,0.356379,50.0,22
+2006,10,2006-07-02,united-states,2006 United States Grand Prix,takuma-sato,Takuma Sato,super-aguri,DNF,6,18,1,14,965.352301,968.448516,3.096215,0.380952,0.319028,50.0,22
+2006,10,2006-07-02,united-states,2006 United States Grand Prix,jenson-button,Jenson Button,honda,DNF,3,7,1,15,1178.62388,1165.239065,-13.384815,0.333333,0.60103,50.0,22
+2006,10,2006-07-02,united-states,2006 United States Grand Prix,christian-klien,Christian Klien,red-bull,DNF,0,16,1,16,1012.600814,1000.805465,-11.79535,0.142857,0.378764,50.0,22
+2006,10,2006-07-02,united-states,2006 United States Grand Prix,franck-montagny,Franck Montagny,super-aguri,DNF,0,19,1,17,955.898145,947.662809,-8.235336,0.142857,0.307564,50.0,22
+2006,10,2006-07-02,united-states,2006 United States Grand Prix,juan-pablo-montoya,Juan Pablo Montoya,mclaren,DNF,0,11,1,18,1155.521686,1134.132244,-21.389441,0.142857,0.570646,50.0,22
+2006,10,2006-07-02,united-states,2006 United States Grand Prix,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,0,9,1,19,1273.070358,1244.392992,-28.677367,0.142857,0.716404,50.0,22
+2006,10,2006-07-02,united-states,2006 United States Grand Prix,mark-webber,Mark Webber,williams,DNF,0,12,1,20,1033.135184,1019.990624,-13.144559,0.142857,0.405748,50.0,22
+2006,10,2006-07-02,united-states,2006 United States Grand Prix,nick-heidfeld,Nick Heidfeld,bmw-sauber,DNF,0,10,1,21,1120.478016,1101.439381,-19.038635,0.142857,0.52363,50.0,22
+2006,10,2006-07-02,united-states,2006 United States Grand Prix,scott-speed,Scott Speed,toro-rosso,DNF,0,13,1,22,1005.775153,994.422335,-11.352818,0.142857,0.369914,50.0,22

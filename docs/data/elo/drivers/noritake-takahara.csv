@@ -1,3 +1,3 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1976-10-24,1976,16,japan,9,70,27,1500.0,1506.002366,6.002366,0.692308,0.442209,24.0
-1977-10-23,1977,17,japan,DNF,1,23,1506.002366,1496.696091,-9.306275,0.045455,0.433216,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1976-10-24,1976,16,japan,surtees,Surtees,9,70,27,1000.0,1014.181171,14.181171,0.692308,0.408684,50.0
+1977-10-23,1977,17,japan,kojima,Kojima,DNF,1,23,1014.181171,996.34121,-17.839961,0.045455,0.402254,50.0

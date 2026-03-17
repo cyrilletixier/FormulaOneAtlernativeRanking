@@ -1,5 +1,5 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1974-05-12,1974,5,belgium,17,81,32,1500.0,1500.336867,0.336867,0.483871,0.469835,24.0
-1977-07-31,1977,11,germany,DNQ,,30,1500.336867,1491.295949,-9.040918,0.068966,0.44567,24.0
-1977-08-28,1977,13,netherlands,DNQ,,34,1491.295949,1483.251694,-8.044255,0.106061,0.441238,24.0
-1977-09-11,1977,14,italy,DNQ,,34,1483.251694,1476.351601,-6.900093,0.136364,0.423868,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1974-05-12,1974,5,belgium,brabham,Brabham,17,81,32,1000.0,1001.455932,1.455932,0.483871,0.454752,50.0
+1977-07-31,1977,11,germany,brm,BRM,DNQ,,30,1001.455932,984.01254,-17.443392,0.068966,0.417833,50.0
+1977-08-28,1977,13,netherlands,brm,BRM,DNQ,,34,984.01254,968.985701,-15.026839,0.106061,0.406597,50.0
+1977-09-11,1977,14,italy,brm,BRM,DNQ,,34,968.985701,956.886754,-12.098947,0.136364,0.378343,50.0

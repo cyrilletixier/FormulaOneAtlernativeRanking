@@ -1,24 +1,24 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1968,1,1968-01-01,south-africa,South African Grand Prix 1968,jim-clark,Jim Clark,lotus,1,80,1,0,1,1643.829674,1652.11871,8.289036,1.0,0.654623,24.0,23
-1968,1,1968-01-01,south-africa,South African Grand Prix 1968,graham-hill,Graham Hill,lotus,2,80,2,0,2,1598.159869,1606.883973,8.724104,0.954545,0.591041,24.0,23
-1968,1,1968-01-01,south-africa,South African Grand Prix 1968,jochen-rindt,Jochen Rindt,brabham,3,80,4,0,3,1520.746208,1531.099257,10.353048,0.909091,0.477714,24.0,23
-1968,1,1968-01-01,south-africa,South African Grand Prix 1968,chris-amon,Chris Amon,ferrari,4,78,8,0,4,1517.899781,1527.262608,9.362826,0.863636,0.473519,24.0,23
-1968,1,1968-01-01,south-africa,South African Grand Prix 1968,denny-hulme,Denny Hulme,mclaren,5,78,9,0,5,1602.853087,1608.143657,5.29057,0.818182,0.597741,24.0,23
-1968,1,1968-01-01,south-africa,South African Grand Prix 1968,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,6,77,18,0,6,1508.727776,1516.232648,7.504873,0.772727,0.460024,24.0,23
-1968,1,1968-01-01,south-africa,South African Grand Prix 1968,jo-siffert,Jo Siffert,cooper,7,77,16,0,7,1523.201697,1529.1042,5.902503,0.727273,0.481335,24.0,23
-1968,1,1968-01-01,south-africa,South African Grand Prix 1968,john-surtees,John Surtees,honda,8,75,6,0,8,1606.888319,1608.768533,1.880214,0.681818,0.603476,24.0,23
-1968,1,1968-01-01,south-africa,South African Grand Prix 1968,john-love,John Love,brabham,9,75,17,0,9,1506.576032,1510.883997,4.307965,0.636364,0.456865,24.0,23
-1968,1,1968-01-01,south-africa,South African Grand Prix 1968,jackie-pretorius,Jackie Pretorius,brabham,NC,70,23,1,10,1494.248059,1497.897954,3.649895,0.590909,0.43883,24.0,23
-1968,1,1968-01-01,south-africa,South African Grand Prix 1968,dan-gurney,Dan Gurney,eagle,DNF,58,12,1,11,1545.952918,1546.685778,0.73286,0.545455,0.514919,24.0,23
-1968,1,1968-01-01,south-africa,South African Grand Prix 1968,jacky-ickx,Jacky Ickx,ferrari,DNF,51,11,1,12,1500.843334,1502.080204,1.23687,0.5,0.448464,24.0,23
-1968,1,1968-01-01,south-africa,South African Grand Prix 1968,jo-bonnier,Jo Bonnier,cooper,DNF,47,19,1,13,1520.849177,1520.289491,-0.559686,0.454545,0.477866,24.0,23
-1968,1,1968-01-01,south-africa,South African Grand Prix 1968,jackie-stewart,Jackie Stewart,matra,DNF,43,3,1,14,1522.665531,1520.950651,-1.71488,0.409091,0.480544,24.0,23
-1968,1,1968-01-01,south-africa,South African Grand Prix 1968,sam-tingle,Sam Tingle,lds,DNF,35,22,1,15,1495.478413,1493.630699,-1.847714,0.363636,0.440624,24.0,23
-1968,1,1968-01-01,south-africa,South African Grand Prix 1968,basil-van-rooyen,Basil van Rooyen,cooper,DNF,22,20,1,16,1500.0,1496.902846,-3.097154,0.318182,0.44723,24.0,23
-1968,1,1968-01-01,south-africa,South African Grand Prix 1968,pedro-rodriguez,Pedro Rodríguez,brm,DNF,20,10,1,17,1541.660247,1535.999679,-5.660567,0.272727,0.508584,24.0,23
-1968,1,1968-01-01,south-africa,South African Grand Prix 1968,jack-brabham,Jack Brabham,brabham,DNF,17,5,1,18,1653.810934,1643.23454,-10.576395,0.227273,0.667956,24.0,23
-1968,1,1968-01-01,south-africa,South African Grand Prix 1968,andrea-de-adamich,Andrea de Adamich,ferrari,DNF,13,7,1,19,1500.0,1493.630119,-6.369881,0.181818,0.44723,24.0,23
-1968,1,1968-01-01,south-africa,South African Grand Prix 1968,mike-spence,Mike Spence,brm,DNF,8,13,1,20,1538.631968,1529.805966,-8.826001,0.136364,0.504114,24.0,23
-1968,1,1968-01-01,south-africa,South African Grand Prix 1968,brian-redman,Brian Redman,cooper,DNF,4,21,1,21,1489.103545,1480.933127,-8.170417,0.090909,0.431343,24.0,23
-1968,1,1968-01-01,south-africa,South African Grand Prix 1968,dave-charlton,Dave Charlton,brabham,DNF,3,14,1,22,1499.496821,1489.871875,-9.624946,0.045455,0.446494,24.0,23
-1968,1,1968-01-01,south-africa,South African Grand Prix 1968,ludovico-scarfiotti,Ludovico Scarfiotti,cooper,DNF,2,15,1,23,1501.526321,1490.739198,-10.787122,0.0,0.449463,24.0,23
+1968,1,1968-01-01,south-africa,South African Grand Prix 1968,jim-clark,Jim Clark,lotus,1,80,1,0,1,1180.338779,1196.746832,16.408053,1.0,0.671839,50.0,23
+1968,1,1968-01-01,south-africa,South African Grand Prix 1968,graham-hill,Graham Hill,lotus,2,80,2,0,2,1099.166367,1118.852781,19.686414,0.954545,0.560817,50.0,23
+1968,1,1968-01-01,south-africa,South African Grand Prix 1968,jochen-rindt,Jochen Rindt,brabham,3,80,4,0,3,1041.272791,1062.86306,21.590269,0.909091,0.477286,50.0,23
+1968,1,1968-01-01,south-africa,South African Grand Prix 1968,chris-amon,Chris Amon,ferrari,4,78,8,0,4,1078.36259,1094.996515,16.633925,0.863636,0.530958,50.0,23
+1968,1,1968-01-01,south-africa,South African Grand Prix 1968,denny-hulme,Denny Hulme,mclaren,5,78,9,0,5,1186.906436,1193.802456,6.896021,0.818182,0.680261,50.0,23
+1968,1,1968-01-01,south-africa,South African Grand Prix 1968,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,6,77,18,0,6,1023.479898,1039.53617,16.056272,0.772727,0.451602,50.0,23
+1968,1,1968-01-01,south-africa,South African Grand Prix 1968,jo-siffert,Jo Siffert,cooper,7,77,16,0,7,1049.324955,1061.241389,11.916434,0.727273,0.488944,50.0,23
+1968,1,1968-01-01,south-africa,South African Grand Prix 1968,john-surtees,John Surtees,honda,8,75,6,0,8,1166.916376,1168.291322,1.374946,0.681818,0.654319,50.0,23
+1968,1,1968-01-01,south-africa,South African Grand Prix 1968,john-love,John Love,brabham,9,75,17,0,9,1020.567117,1030.014613,9.447495,0.636364,0.447414,50.0,23
+1968,1,1968-01-01,south-africa,South African Grand Prix 1968,jackie-pretorius,Jackie Pretorius,brabham,NC,70,23,1,10,989.190489,998.596523,9.406035,0.590909,0.402788,50.0,23
+1968,1,1968-01-01,south-africa,South African Grand Prix 1968,dan-gurney,Dan Gurney,eagle,DNF,58,12,1,11,1033.268114,1037.255186,3.987072,0.545455,0.465713,50.0,23
+1968,1,1968-01-01,south-africa,South African Grand Prix 1968,jacky-ickx,Jacky Ickx,ferrari,DNF,51,11,1,12,1007.977161,1011.507783,3.530622,0.5,0.429388,50.0,23
+1968,1,1968-01-01,south-africa,South African Grand Prix 1968,jo-bonnier,Jo Bonnier,cooper,DNF,47,19,1,13,1042.567153,1041.33649,-1.230663,0.454545,0.479159,50.0,23
+1968,1,1968-01-01,south-africa,South African Grand Prix 1968,jackie-stewart,Jackie Stewart,matra,DNF,43,3,1,14,1029.524249,1026.963312,-2.560936,0.409091,0.46031,50.0,23
+1968,1,1968-01-01,south-africa,South African Grand Prix 1968,sam-tingle,Sam Tingle,lds,DNF,35,22,1,15,996.173455,993.723944,-2.449511,0.363636,0.412627,50.0,23
+1968,1,1968-01-01,south-africa,South African Grand Prix 1968,basil-van-rooyen,Basil van Rooyen,cooper,DNF,22,20,1,16,1000.0,995.006928,-4.993072,0.318182,0.418043,50.0,23
+1968,1,1968-01-01,south-africa,South African Grand Prix 1968,pedro-rodriguez,Pedro Rodríguez,brm,DNF,20,10,1,17,1091.419057,1077.568621,-13.850436,0.272727,0.549736,50.0,23
+1968,1,1968-01-01,south-africa,South African Grand Prix 1968,jack-brabham,Jack Brabham,brabham,DNF,17,5,1,18,1236.040057,1210.414438,-25.625619,0.227273,0.739785,50.0,23
+1968,1,1968-01-01,south-africa,South African Grand Prix 1968,andrea-de-adamich,Andrea de Adamich,ferrari,DNF,13,7,1,19,1000.0,988.188746,-11.811254,0.181818,0.418043,50.0,23
+1968,1,1968-01-01,south-africa,South African Grand Prix 1968,mike-spence,Mike Spence,brm,DNF,8,13,1,20,1066.285909,1047.428676,-18.857233,0.136364,0.513508,50.0,23
+1968,1,1968-01-01,south-africa,South African Grand Prix 1968,brian-redman,Brian Redman,cooper,DNF,4,21,1,21,978.54359,963.69319,-14.8504,0.090909,0.387917,50.0,23
+1968,1,1968-01-01,south-africa,South African Grand Prix 1968,dave-charlton,Dave Charlton,brabham,DNF,3,14,1,22,1002.256676,983.467124,-18.789552,0.045455,0.421246,50.0,23
+1968,1,1968-01-01,south-africa,South African Grand Prix 1968,ludovico-scarfiotti,Ludovico Scarfiotti,cooper,DNF,2,15,1,23,1014.211867,992.296986,-21.914881,0.0,0.438298,50.0,23

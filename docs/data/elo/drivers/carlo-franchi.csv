@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1978-09-10,1978,14,italy,DNQ,,31,1500.0,1490.432614,-9.567386,0.033333,0.431974,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1978-09-10,1978,14,italy,surtees,Surtees,DNQ,,31,1000.0,981.902064,-18.097936,0.033333,0.395292,50.0

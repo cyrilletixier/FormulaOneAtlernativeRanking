@@ -1,23 +1,23 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,michael-schumacher,Michael Schumacher,ferrari,1,73,1,0,1,1738.953777,1745.137652,6.183874,1.0,0.742339,24.0,22
-2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,rubens-barrichello,Rubens Barrichello,ferrari,2,73,4,0,2,1600.014825,1609.342954,9.328129,0.952381,0.563709,24.0,22
-2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,3,73,7,0,3,1602.074167,1610.19008,8.115914,0.904762,0.566599,24.0,22
-2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,jacques-villeneuve,Jacques Villeneuve,bar,4,73,8,0,4,1577.689926,1585.489678,7.799752,0.857143,0.532153,24.0,22
-2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,david-coulthard,David Coulthard,mclaren,5,73,2,0,5,1676.166627,1679.597305,3.430678,0.809524,0.666579,24.0,22
-2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,ricardo-zonta,Ricardo Zonta,bar,6,73,12,0,6,1498.570882,1506.783448,8.212566,0.761905,0.419715,24.0,22
-2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,eddie-irvine,Eddie Irvine,jaguar,7,73,17,0,7,1642.285889,1644.501116,2.215228,0.714286,0.621985,24.0,22
-2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,pedro-diniz,Pedro Diniz,sauber,8,72,9,0,8,1463.050032,1470.15138,7.101349,0.666667,0.370777,24.0,22
-2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,nick-heidfeld,Nick Heidfeld,prost,9,72,16,0,9,1462.92702,1468.889501,5.962481,0.619048,0.370611,24.0,22
-2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,alexander-wurz,Alexander Wurz,benetton,10,72,11,0,10,1541.408997,1543.593551,2.184554,0.571429,0.480406,24.0,22
-2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,johnny-herbert,Johnny Herbert,jaguar,11,72,19,0,11,1509.126247,1511.268489,2.142242,0.52381,0.434549,24.0,22
-2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,marc-gene,Marc Gené,minardi,12,72,22,0,12,1484.9072,1486.719265,1.812065,0.47619,0.400688,24.0,22
-2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,jean-alesi,Jean Alesi,prost,DNF,64,20,1,13,1514.459606,1514.135342,-0.324264,0.428571,0.442082,24.0,22
-2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,gaston-mazzacane,Gastón Mazzacane,minardi,DNF,59,21,1,14,1494.257267,1493.4717,-0.785567,0.380952,0.413684,24.0,22
-2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,ralf-schumacher,Ralf Schumacher,williams,DNF,58,10,1,15,1621.045822,1614.813775,-6.232047,0.333333,0.593002,24.0,22
-2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,45,18,1,16,1454.410589,1452.647723,-1.762866,0.285714,0.359167,24.0,22
-2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,44,15,1,17,1569.00356,1562.242847,-6.760713,0.238095,0.519792,24.0,22
-2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,jos-verstappen,Jos Verstappen,arrows,DNF,34,13,1,18,1468.144855,1463.651877,-4.492978,0.190476,0.377684,24.0,22
-2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,mika-hakkinen,Mika Häkkinen,mclaren,DNF,25,3,1,19,1744.907209,1730.360067,-14.547141,0.142857,0.748988,24.0,22
-2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,mika-salo,Mika Salo,sauber,DNF,18,14,1,20,1542.048683,1532.782753,-9.265929,0.095238,0.481318,24.0,22
-2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,jenson-button,Jenson Button,williams,DNF,14,6,1,21,1536.632231,1526.408905,-10.223326,0.047619,0.473591,24.0,22
-2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,jarno-trulli,Jarno Trulli,jordan,DNF,12,5,1,22,1499.191196,1489.097197,-10.093999,0.0,0.420583,24.0,22
+2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,michael-schumacher,Michael Schumacher,ferrari,1,73,1,0,1,1269.892666,1282.745377,12.852711,1.0,0.742946,50.0,22
+2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,rubens-barrichello,Rubens Barrichello,ferrari,2,73,4,0,2,1173.834624,1190.097881,16.263258,0.952381,0.627116,50.0,22
+2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,3,73,7,0,3,1103.66203,1122.282475,18.620445,0.904762,0.532353,50.0,22
+2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,jacques-villeneuve,Jacques Villeneuve,bar,4,73,8,0,4,1095.448477,1112.257095,16.808618,0.857143,0.52097,50.0,22
+2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,david-coulthard,David Coulthard,mclaren,5,73,2,0,5,1235.932877,1241.190323,5.257447,0.809524,0.704375,50.0,22
+2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,ricardo-zonta,Ricardo Zonta,bar,6,73,12,0,6,1025.94354,1042.810449,16.866909,0.761905,0.424567,50.0,22
+2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,eddie-irvine,Eddie Irvine,jaguar,7,73,17,0,7,1158.900775,1164.241872,5.341098,0.714286,0.607464,50.0,22
+2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,pedro-diniz,Pedro Diniz,sauber,8,72,9,0,8,999.036597,1012.968098,13.931501,0.666667,0.388037,50.0,22
+2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,nick-heidfeld,Nick Heidfeld,prost,9,72,16,0,9,950.828055,965.520075,14.69202,0.619048,0.325207,50.0,22
+2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,alexander-wurz,Alexander Wurz,benetton,10,72,11,0,10,1064.800122,1069.454694,4.654572,0.571429,0.478337,50.0,22
+2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,johnny-herbert,Johnny Herbert,jaguar,11,72,19,0,11,1012.76625,1018.6279,5.86165,0.52381,0.406577,50.0,22
+2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,marc-gene,Marc Gené,minardi,12,72,22,0,12,1000.385577,1004.702712,4.317135,0.47619,0.389848,50.0,22
+2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,jean-alesi,Jean Alesi,prost,DNF,64,20,1,13,976.643586,980.154256,3.51067,0.428571,0.358358,50.0,22
+2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,gaston-mazzacane,Gastón Mazzacane,minardi,DNF,59,21,1,14,1003.667569,1003.001984,-0.665585,0.380952,0.394264,50.0,22
+2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,ralf-schumacher,Ralf Schumacher,williams,DNF,58,10,1,15,1190.63372,1174.861636,-15.772085,0.333333,0.648775,50.0,22
+2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,45,18,1,16,949.808564,947.898042,-1.910521,0.285714,0.323925,50.0,22
+2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,44,15,1,17,1072.213047,1059.685034,-12.528014,0.238095,0.488656,50.0,22
+2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,jos-verstappen,Jos Verstappen,arrows,DNF,34,13,1,18,996.904982,987.169806,-9.735177,0.190476,0.38518,50.0,22
+2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,mika-hakkinen,Mika Häkkinen,mclaren,DNF,25,3,1,19,1340.303926,1306.783188,-33.520738,0.142857,0.813272,50.0,22
+2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,mika-salo,Mika Salo,sauber,DNF,18,14,1,20,1100.086984,1078.478757,-21.608227,0.095238,0.527403,50.0,22
+2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,jenson-button,Jenson Button,williams,DNF,14,6,1,21,1080.776657,1058.128786,-22.647871,0.047619,0.500576,50.0,22
+2000,15,2000-09-24,united-states,2000 SAP United States Grand Prix,jarno-trulli,Jarno Trulli,jordan,DNF,12,5,1,22,1016.602808,996.012992,-20.589816,0.0,0.411796,50.0,22

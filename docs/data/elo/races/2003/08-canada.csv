@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,michael-schumacher,Michael Schumacher,ferrari,1,70,3,0,1,1855.410841,1859.039718,3.628876,1.0,0.848797,24.0,20
-2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,ralf-schumacher,Ralf Schumacher,williams,2,70,1,0,2,1667.115432,1674.246544,7.131112,0.947368,0.650239,24.0,20
-2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,juan-pablo-montoya,Juan Pablo Montoya,williams,3,70,2,0,3,1608.789625,1616.538874,7.749249,0.894737,0.571851,24.0,20
-2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,fernando-alonso,Fernando Alonso,renault,4,70,4,0,4,1517.624867,1527.201586,9.576719,0.842105,0.443075,24.0,20
-2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,rubens-barrichello,Rubens Barrichello,ferrari,5,70,5,0,5,1694.245687,1696.764533,2.518846,0.789474,0.684522,24.0,20
-2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,kimi-raikkonen,Kimi Räikkönen,mclaren,6,70,PL,0,6,1583.082331,1587.90543,4.823099,0.736842,0.53588,24.0,20
-2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,mark-webber,Mark Webber,jaguar,7,69,6,0,7,1473.148973,1480.420789,7.271816,0.684211,0.381218,24.0,20
-2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,olivier-panis,Olivier Panis,toyota,8,69,7,0,8,1488.138678,1493.652896,5.514218,0.631579,0.40182,24.0,20
-2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,jos-verstappen,Jos Verstappen,minardi,9,68,15,0,9,1467.937128,1472.852747,4.915619,0.578947,0.37413,24.0,20
-2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,antonio-pizzonia,Antônio Pizzonia,jaguar,10,66,13,0,10,1479.00044,1482.290639,3.290199,0.526316,0.389224,24.0,20
-2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,cristiano-da-matta,Cristiano da Matta,toyota,11,64,9,0,11,1510.879542,1511.842265,0.962723,0.473684,0.433571,24.0,20
-2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,justin-wilson,Justin Wilson,minardi,DNF,60,18,1,12,1473.619253,1474.559881,0.940628,0.421053,0.38186,24.0,20
-2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,jenson-button,Jenson Button,bar,DNF,51,17,1,13,1550.36665,1547.460561,-2.90609,0.368421,0.489508,24.0,20
-2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,david-coulthard,David Coulthard,mclaren,DNF,47,11,1,14,1693.264041,1683.811969,-9.452072,0.289474,0.68331,24.0,20
-2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,nick-heidfeld,Nick Heidfeld,sauber,DNF,47,12,1,15,1539.274219,1534.851709,-4.422509,0.289474,0.473745,24.0,20
-2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,jarno-trulli,Jarno Trulli,renault,DNF,22,8,1,16,1546.524928,1539.960415,-6.564513,0.210526,0.484048,24.0,20
-2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,20,16,1,17,1531.221791,1523.284112,-7.937679,0.131579,0.462316,24.0,20
-2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,ralph-firman,Ralph Firman,jordan,DNF,20,PL,1,18,1489.574785,1483.041267,-6.533518,0.131579,0.403809,24.0,20
-2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,jacques-villeneuve,Jacques Villeneuve,bar,DNF,14,14,1,19,1535.48775,1525.51007,-9.977681,0.052632,0.468368,24.0,20
-2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,DNF,6,10,1,20,1514.52973,1504.000687,-10.529043,0.0,0.43871,24.0,20
+2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,michael-schumacher,Michael Schumacher,ferrari,1,70,3,0,1,1435.335817,1441.177613,5.841796,1.0,0.883164,50.0,20
+2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,ralf-schumacher,Ralf Schumacher,williams,2,70,1,0,2,1217.746996,1231.015495,13.268499,0.947368,0.681998,50.0,20
+2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,juan-pablo-montoya,Juan Pablo Montoya,williams,3,70,2,0,3,1168.082952,1181.809656,13.726704,0.894737,0.620203,50.0,20
+2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,fernando-alonso,Fernando Alonso,renault,4,70,4,0,4,1064.074206,1082.178929,18.104722,0.842105,0.480011,50.0,20
+2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,rubens-barrichello,Rubens Barrichello,ferrari,5,70,5,0,5,1253.9113,1257.198988,3.287688,0.789474,0.72372,50.0,20
+2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,kimi-raikkonen,Kimi Räikkönen,mclaren,6,70,PL,0,6,1154.65242,1161.357449,6.705028,0.736842,0.602742,50.0,20
+2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,mark-webber,Mark Webber,jaguar,7,69,6,0,7,973.582254,989.905215,16.322961,0.684211,0.357751,50.0,20
+2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,olivier-panis,Olivier Panis,toyota,8,69,7,0,8,979.579091,992.878906,13.299815,0.631579,0.365583,50.0,20
+2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,jos-verstappen,Jos Verstappen,minardi,9,68,15,0,9,974.507605,985.50717,10.999566,0.578947,0.358956,50.0,20
+2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,antonio-pizzonia,Antônio Pizzonia,jaguar,10,66,13,0,10,967.175778,976.019132,8.843354,0.526316,0.349449,50.0,20
+2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,cristiano-da-matta,Cristiano da Matta,toyota,11,64,9,0,11,1030.328667,1032.329123,2.000456,0.473684,0.433675,50.0,20
+2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,justin-wilson,Justin Wilson,minardi,DNF,60,18,1,12,958.716466,962.839441,4.122975,0.421053,0.338593,50.0,20
+2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,jenson-button,Jenson Button,bar,DNF,51,17,1,13,1080.450722,1073.744016,-6.706706,0.368421,0.502555,50.0,20
+2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,david-coulthard,David Coulthard,mclaren,DNF,47,11,1,14,1209.011143,1189.91075,-19.100394,0.289474,0.671482,50.0,20
+2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,nick-heidfeld,Nick Heidfeld,sauber,DNF,47,12,1,15,1068.894441,1059.035675,-9.858766,0.289474,0.486649,50.0,20
+2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,jarno-trulli,Jarno Trulli,renault,DNF,22,8,1,16,1089.567508,1074.339783,-15.227725,0.210526,0.515081,50.0,20
+2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,20,16,1,17,1042.931261,1026.963671,-15.96759,0.131579,0.450931,50.0,20
+2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,ralph-firman,Ralph Firman,jordan,DNF,20,PL,1,18,989.871539,977.493077,-12.378461,0.131579,0.379148,50.0,20
+2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,jacques-villeneuve,Jacques Villeneuve,bar,DNF,14,14,1,19,1016.850662,998.715488,-18.135174,0.052632,0.415335,50.0,20
+2003,8,2003-06-15,canada,Grand Prix Air Canada 2003,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,DNF,6,10,1,20,992.755094,973.606344,-19.14875,0.0,0.382975,50.0,20

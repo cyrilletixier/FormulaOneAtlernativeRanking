@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1976-10-10,1976,15,united-states,14,54,27,1500.0,1501.427483,1.427483,0.5,0.440522,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1976-10-10,1976,15,united-states,wolf-williams,Wolf-Williams,14,54,27,1000.0,1004.712152,4.712152,0.5,0.405757,50.0

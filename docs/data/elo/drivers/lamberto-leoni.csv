@@ -1,6 +1,6 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1977-09-11,1977,14,italy,DNQ,,34,1500.0,1492.528615,-7.471385,0.136364,0.447671,24.0
-1978-01-15,1978,1,argentina,DNF,28,27,1492.528615,1487.103205,-5.425409,0.192308,0.418366,24.0
-1978-01-29,1978,2,brazil,DNS,,28,1487.103205,1477.655487,-9.447718,0.018519,0.412173,24.0
-1978-03-04,1978,3,south-africa,DNQ,,30,1477.655487,1469.24358,-8.411907,0.051724,0.40222,24.0
-1978-04-02,1978,4,united-states-west,DNQ,,30,1469.24358,1461.972356,-7.271224,0.086207,0.389175,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1977-09-11,1977,14,italy,surtees,Surtees,DNQ,,34,1000.0,985.800797,-14.199203,0.136364,0.420348,50.0
+1978-01-15,1978,1,argentina,ensign,Ensign,DNF,28,27,985.800797,976.582134,-9.218663,0.192308,0.376681,50.0
+1978-01-29,1978,2,brazil,ensign,Ensign,DNS,,28,976.582134,959.224551,-17.357583,0.018519,0.36567,50.0
+1978-03-04,1978,3,south-africa,ensign,Ensign,DNQ,,30,959.224551,944.48744,-14.73711,0.051724,0.346466,50.0
+1978-04-02,1978,4,united-states-west,ensign,Ensign,DNQ,,30,944.48744,932.561791,-11.92565,0.086207,0.32472,50.0

@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,max-verstappen,Max Verstappen,red-bull,1,28,1,0,1,1854.88902,1859.979505,5.090485,1.0,0.787896,24.0,20
-2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,sergio-perez,Sergio Pérez,red-bull,2,28,4,0,2,1733.674337,1740.686024,7.011686,0.947368,0.655215,24.0,20
-2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,charles-leclerc,Charles Leclerc,ferrari,3,28,2,0,3,1726.825806,1732.776247,5.950441,0.894737,0.646802,24.0,20
-2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,esteban-ocon,Esteban Ocon,alpine,4,28,5,0,4,1620.758353,1628.75565,7.997297,0.842105,0.508885,24.0,20
-2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,lewis-hamilton,Lewis Hamilton,mercedes,5,28,6,0,5,1927.46144,1926.002489,-1.458951,0.789474,0.850263,24.0,20
-2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,sebastian-vettel,Sebastian Vettel,aston-martin,6,28,9,0,6,1599.735515,1605.883004,6.147488,0.736842,0.480697,24.0,20
-2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,fernando-alonso,Fernando Alonso,alpine,7,28,7,0,7,1592.693489,1597.804305,5.110816,0.684211,0.47126,24.0,20
-2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,george-russell,George Russell,mercedes,8,28,8,0,8,1605.229135,1608.67351,3.444375,0.631579,0.488063,24.0,20
-2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,nicholas-latifi,Nicholas Latifi,williams,9,28,19,0,9,1401.776725,1409.987414,8.210689,0.578947,0.236835,24.0,20
-2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,lando-norris,Lando Norris,mclaren,10,28,10,0,10,1681.322369,1679.816306,-1.506062,0.526316,0.589068,24.0,20
-2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,daniel-ricciardo,Daniel Ricciardo,mclaren,11,28,11,0,11,1613.731131,1613.112385,-0.618746,0.473684,0.499465,24.0,20
-2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,lance-stroll,Lance Stroll,aston-martin,12,28,18,0,12,1549.989464,1550.147007,0.157543,0.421053,0.414488,24.0,20
-2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,yuki-tsunoda,Yuki Tsunoda,alphatauri,13,28,13,0,13,1471.821125,1473.08789,1.266765,0.368421,0.315639,24.0,20
-2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,kevin-magnussen,Kevin Magnussen,haas,14,28,17,0,14,1457.832907,1458.234999,0.402092,0.315789,0.299036,24.0,20
-2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,valtteri-bottas,Valtteri Bottas,alfa-romeo,15,28,12,0,15,1686.873925,1678.87944,-7.994485,0.263158,0.596261,24.0,20
-2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,guanyu-zhou,Guanyu Zhou,alfa-romeo,16,28,14,0,16,1474.890281,1472.278895,-2.611386,0.210526,0.319334,24.0,20
-2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,mick-schumacher,Mick Schumacher,haas,17,28,15,0,17,1439.552136,1436.670652,-2.881484,0.157895,0.277957,24.0,20
-2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,pierre-gasly,Pierre Gasly,alphatauri,18,28,PL,0,18,1597.138847,1588.211979,-8.926868,0.105263,0.477216,24.0,20
-2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,alexander-albon,Alexander Albon,williams,DNF,0,16,1,19,1571.231632,1561.240907,-9.990726,0.026316,0.442596,24.0,20
-2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,DNF,0,3,1,20,1723.77054,1708.969572,-14.800967,0.026316,0.643023,24.0,20
+2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,max-verstappen,Max Verstappen,red-bull,1,28,1,0,1,1447.424496,1455.819217,8.394721,1.0,0.832106,50.0,20
+2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,sergio-perez,Sergio Pérez,red-bull,2,28,4,0,2,1309.197706,1321.63411,12.436403,0.947368,0.69864,50.0,20
+2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,charles-leclerc,Charles Leclerc,ferrari,3,28,2,0,3,1303.7955,1313.902211,10.106712,0.894737,0.692603,50.0,20
+2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,esteban-ocon,Esteban Ocon,alpine,4,28,5,0,4,1171.063614,1186.62189,15.558276,0.842105,0.53094,50.0,20
+2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,lewis-hamilton,Lewis Hamilton,mercedes,5,28,6,0,5,1434.871721,1433.256366,-1.615354,0.789474,0.821781,50.0,20
+2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,sebastian-vettel,Sebastian Vettel,aston-martin,6,28,9,0,6,1089.667821,1105.189377,15.521556,0.736842,0.426411,50.0,20
+2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,fernando-alonso,Fernando Alonso,alpine,7,28,7,0,7,1139.739925,1149.417822,9.677897,0.684211,0.490653,50.0,20
+2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,george-russell,George Russell,mercedes,8,28,8,0,8,1229.64819,1230.983711,1.335521,0.631579,0.604869,50.0,20
+2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,nicholas-latifi,Nicholas Latifi,williams,9,28,19,0,9,894.997878,913.659046,18.661168,0.578947,0.205724,50.0,20
+2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,lando-norris,Lando Norris,mclaren,10,28,10,0,10,1241.551764,1236.893201,-4.658563,0.526316,0.619487,50.0,20
+2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,daniel-ricciardo,Daniel Ricciardo,mclaren,11,28,11,0,11,1112.858586,1113.73989,0.881304,0.473684,0.456058,50.0,20
+2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,lance-stroll,Lance Stroll,aston-martin,12,28,18,0,12,1089.775536,1089.500768,-0.274768,0.421053,0.426548,50.0,20
+2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,yuki-tsunoda,Yuki Tsunoda,alphatauri,13,28,13,0,13,972.916607,977.048809,4.132202,0.368421,0.285777,50.0,20
+2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,kevin-magnussen,Kevin Magnussen,haas,14,28,17,0,14,970.605071,972.233904,1.628833,0.315789,0.283213,50.0,20
+2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,valtteri-bottas,Valtteri Bottas,alfa-romeo,15,28,12,0,15,1139.140696,1127.804566,-11.33613,0.263158,0.48988,50.0,20
+2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,guanyu-zhou,Guanyu Zhou,alfa-romeo,16,28,14,0,16,974.891017,971.018552,-3.872465,0.210526,0.287976,50.0,20
+2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,mick-schumacher,Mick Schumacher,haas,17,28,15,0,17,958.820231,953.199577,-5.620654,0.157895,0.270308,50.0,20
+2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,pierre-gasly,Pierre Gasly,alphatauri,18,28,PL,0,18,1127.782879,1109.283555,-18.499324,0.105263,0.47525,50.0,20
+2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,alexander-albon,Alexander Albon,williams,DNF,0,16,1,19,1080.10471,1060.706463,-19.398246,0.026316,0.414281,50.0,20
+2022,18,2022-10-09,japan,Formula 1 Honda Japanese Grand Prix 2022,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,DNF,0,3,1,20,1299.26496,1266.205873,-33.059087,0.026316,0.687498,50.0,20

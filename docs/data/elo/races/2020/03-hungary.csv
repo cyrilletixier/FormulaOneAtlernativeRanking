@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,lewis-hamilton,Lewis Hamilton,mercedes,1,70,1,0,1,1974.425744,1977.173222,2.747479,1.0,0.885522,24.0,20
-2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,max-verstappen,Max Verstappen,red-bull,2,70,7,0,2,1761.760417,1767.742027,5.98161,0.947368,0.698135,24.0,20
-2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,valtteri-bottas,Valtteri Bottas,mercedes,3,70,2,0,3,1840.555724,1843.301743,2.746019,0.894737,0.780319,24.0,20
-2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,lance-stroll,Lance Stroll,racing-point,4,70,3,0,4,1494.353221,1506.093139,11.739919,0.842105,0.352942,24.0,20
-2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,alexander-albon,Alexander Albon,red-bull,5,70,13,0,5,1588.927819,1596.39945,7.471631,0.789474,0.478156,24.0,20
-2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,sebastian-vettel,Sebastian Vettel,ferrari,6,69,5,0,6,1795.643052,1795.680998,0.037946,0.736842,0.735261,24.0,20
-2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,sergio-perez,Sergio Pérez,racing-point,7,69,4,0,7,1628.916488,1632.571601,3.655113,0.684211,0.531914,24.0,20
-2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,daniel-ricciardo,Daniel Ricciardo,renault,8,69,11,0,8,1609.912766,1612.916213,3.003447,0.631579,0.506435,24.0,20
-2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,9,69,9,0,9,1607.254918,1609.081036,1.826119,0.578947,0.502859,24.0,20
-2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,kevin-magnussen,Kevin Magnussen,haas,10,69,PL,0,10,1496.133563,1500.240026,4.106462,0.526316,0.355213,24.0,20
-2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,charles-leclerc,Charles Leclerc,ferrari,11,69,6,0,11,1650.329049,1648.249509,-2.07954,0.473684,0.560332,24.0,20
-2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,daniil-kvyat,Daniil Kvyat,alphatauri,12,69,17,0,12,1539.162142,1539.39457,0.232428,0.421053,0.411368,24.0,20
-2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,lando-norris,Lando Norris,mclaren,13,69,8,0,13,1559.841058,1558.147467,-1.693591,0.368421,0.438987,24.0,20
-2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,esteban-ocon,Esteban Ocon,renault,14,69,14,0,14,1550.98527,1548.313218,-2.672052,0.315789,0.427125,24.0,20
-2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,15,69,20,0,15,1650.722478,1643.577866,-7.144612,0.263158,0.56085,24.0,20
-2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,romain-grosjean,Romain Grosjean,haas,16,69,PL,0,16,1473.804193,1471.006357,-2.797836,0.210526,0.327103,24.0,20
-2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,17,69,19,0,17,1489.655551,1485.117676,-4.537875,0.157895,0.346973,24.0,20
-2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,george-russell,George Russell,williams,18,69,12,0,18,1443.052836,1438.62122,-4.431616,0.105263,0.289914,24.0,20
-2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,nicholas-latifi,Nicholas Latifi,williams,19,65,15,0,19,1497.760953,1490.449066,-7.311886,0.052632,0.357294,24.0,20
-2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,pierre-gasly,Pierre Gasly,alphatauri,DNF,15,10,1,20,1570.487814,1559.608651,-10.879163,0.0,0.453298,24.0,20
+2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,lewis-hamilton,Lewis Hamilton,mercedes,1,70,1,0,1,1565.38127,1569.843188,4.461918,1.0,0.910762,50.0,20
+2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,max-verstappen,Max Verstappen,red-bull,2,70,7,0,2,1330.593277,1341.38695,10.793673,0.947368,0.731495,50.0,20
+2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,valtteri-bottas,Valtteri Bottas,mercedes,3,70,2,0,3,1423.98342,1427.848214,3.864794,0.894737,0.817441,50.0,20
+2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,lance-stroll,Lance Stroll,racing-point,4,70,3,0,4,1016.697811,1041.536826,24.839014,0.842105,0.345325,50.0,20
+2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,alexander-albon,Alexander Albon,red-bull,5,70,13,0,5,1167.854599,1180.32687,12.472271,0.789474,0.540028,50.0,20
+2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,sebastian-vettel,Sebastian Vettel,ferrari,6,69,5,0,6,1282.062561,1284.943465,2.880904,0.736842,0.679224,50.0,20
+2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,sergio-perez,Sergio Pérez,racing-point,7,69,4,0,7,1162.788424,1170.324297,7.535873,0.684211,0.533493,50.0,20
+2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,daniel-ricciardo,Daniel Ricciardo,renault,8,69,11,0,8,1100.143593,1109.130355,8.986761,0.631579,0.451844,50.0,20
+2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,9,69,9,0,9,1169.673423,1171.502297,1.828873,0.578947,0.54237,50.0,20
+2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,kevin-magnussen,Kevin Magnussen,haas,10,69,PL,0,10,998.799706,1008.937978,10.138272,0.526316,0.32355,50.0,20
+2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,charles-leclerc,Charles Leclerc,ferrari,11,69,6,0,11,1245.773402,1237.601593,-8.171809,0.473684,0.63712,50.0,20
+2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,daniil-kvyat,Daniil Kvyat,alphatauri,12,69,17,0,12,1077.141384,1077.097885,-0.043498,0.421053,0.421923,50.0,20
+2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,lando-norris,Lando Norris,mclaren,13,69,8,0,13,1125.875013,1120.022532,-5.852481,0.368421,0.485471,50.0,20
+2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,esteban-ocon,Esteban Ocon,renault,14,69,14,0,14,1069.916971,1065.077259,-4.839711,0.315789,0.412584,50.0,20
+2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,15,69,20,0,15,1125.561907,1114.466727,-11.09518,0.263158,0.485061,50.0,20
+2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,romain-grosjean,Romain Grosjean,haas,16,69,PL,0,16,972.948211,968.820113,-4.128098,0.210526,0.293088,50.0,20
+2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,17,69,19,0,17,1011.19368,1002.159698,-9.033982,0.157895,0.338574,50.0,20
+2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,george-russell,George Russell,williams,18,69,12,0,18,927.833287,920.934759,-6.898528,0.105263,0.243234,50.0,20
+2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,nicholas-latifi,Nicholas Latifi,williams,19,65,15,0,19,998.5034,984.975264,-13.528136,0.052632,0.323194,50.0,20
+2020,3,2020-07-19,hungary,Formula 1 Aramco Magyar Nagydíj 2020,pierre-gasly,Pierre Gasly,alphatauri,DNF,15,10,1,20,1124.916954,1100.706024,-24.21093,0.0,0.484219,50.0,20

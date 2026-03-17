@@ -1,23 +1,23 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,nico-rosberg,Nico Rosberg,mercedes,1,57,2,0,1,1817.410437,1822.924733,5.514296,1.0,0.770238,24.0,22
-2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,2,57,4,0,2,1694.166959,1701.92402,7.757061,0.952381,0.62917,24.0,22
-2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,3,57,1,0,3,1867.056492,1869.170657,2.114164,0.904762,0.816672,24.0,22
-2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,4,57,5,0,4,1655.111816,1661.802654,6.690838,0.857143,0.578358,24.0,22
-2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,romain-grosjean,Romain Grosjean,haas,5,57,9,0,5,1554.835948,1563.650742,8.814794,0.809524,0.442241,24.0,22
-2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,max-verstappen,Max Verstappen,toro-rosso,6,57,10,0,6,1545.832324,1553.797455,7.96513,0.761905,0.430024,24.0,22
-2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,daniil-kvyat,Daniil Kvyat,red-bull,7,56,15,0,7,1568.885615,1574.95519,6.069575,0.714286,0.461387,24.0,22
-2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,felipe-massa,Felipe Massa,williams,8,56,7,0,8,1678.197725,1679.589942,1.392217,0.666667,0.608658,24.0,22
-2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,valtteri-bottas,Valtteri Bottas,williams,9,56,6,0,9,1662.167329,1662.919889,0.75256,0.619048,0.587691,24.0,22
-2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,stoffel-vandoorne,Stoffel Vandoorne,mclaren,10,56,12,0,10,1500.0,1504.858724,4.858724,0.571429,0.368982,24.0,22
-2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,kevin-magnussen,Kevin Magnussen,renault,11,56,PL,0,11,1557.153622,1559.035617,1.881996,0.52381,0.445393,24.0,22
-2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,12,56,17,0,12,1466.53781,1470.136116,3.598306,0.47619,0.326261,24.0,22
-2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,pascal-wehrlein,Pascal Wehrlein,manor,13,56,16,0,13,1498.205528,1499.691782,1.486254,0.428571,0.366644,24.0,22
-2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,felipe-nasr,Felipe Nasr,sauber,14,56,21,0,14,1515.17609,1514.984615,-0.191475,0.380952,0.38893,24.0,22
-2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,15,56,8,0,15,1597.430538,1593.420617,-4.009922,0.333333,0.500413,24.0,22
-2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,sergio-perez,Sergio Pérez,force-india,16,56,18,0,16,1622.009218,1616.052807,-5.956411,0.285714,0.533898,24.0,22
-2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,rio-haryanto,Rio Haryanto,manor,17,56,20,0,17,1494.776957,1491.79865,-2.978306,0.238095,0.362191,24.0,22
-2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,29,11,1,18,1515.473888,1510.701519,-4.77237,0.190476,0.389325,24.0,22
-2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,esteban-gutierrez,Esteban Gutiérrez,haas,DNF,9,13,1,19,1454.88381,1450.827556,-4.056254,0.142857,0.311868,24.0,22
-2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,jenson-button,Jenson Button,mclaren,DNF,6,14,1,20,1603.282343,1593.366302,-9.916041,0.095238,0.508406,24.0,22
-2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,jolyon-palmer,Jolyon Palmer,renault,DNS,,19,2,21,1503.919814,1495.512741,-8.407073,0.02381,0.374104,24.0,22
-2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,DNS,,3,2,22,1847.501498,1828.893433,-18.608064,0.02381,0.799146,24.0,22
+2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,nico-rosberg,Nico Rosberg,mercedes,1,57,2,0,1,1416.092669,1425.179985,9.087316,1.0,0.818254,50.0,22
+2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,2,57,4,0,2,1208.797081,1226.45072,17.65364,0.952381,0.599308,50.0,22
+2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,3,57,1,0,3,1478.658495,1480.624976,1.966481,0.904762,0.865432,50.0,22
+2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,4,57,5,0,4,1221.055986,1233.185464,12.129478,0.857143,0.614553,50.0,22
+2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,romain-grosjean,Romain Grosjean,haas,5,57,9,0,5,1099.272782,1116.894985,17.622204,0.809524,0.45708,50.0,22
+2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,max-verstappen,Max Verstappen,toro-rosso,6,57,10,0,6,1100.887742,1116.022681,15.134939,0.761905,0.459206,50.0,22
+2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,daniil-kvyat,Daniil Kvyat,red-bull,7,56,15,0,7,1135.04572,1145.549962,10.504242,0.714286,0.504201,50.0,22
+2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,felipe-massa,Felipe Massa,williams,8,56,7,0,8,1201.672007,1205.487626,3.815619,0.666667,0.590354,50.0,22
+2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,valtteri-bottas,Valtteri Bottas,williams,9,56,6,0,9,1236.946677,1236.199851,-0.746826,0.619048,0.633984,50.0,22
+2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,stoffel-vandoorne,Stoffel Vandoorne,mclaren,10,56,12,0,10,1000.0,1012.06687,12.06687,0.571429,0.330091,50.0,22
+2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,kevin-magnussen,Kevin Magnussen,renault,11,56,PL,0,11,1107.570122,1110.360149,2.790027,0.52381,0.468009,50.0,22
+2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,12,56,17,0,12,988.081955,996.106102,8.024147,0.47619,0.315708,50.0,22
+2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,pascal-wehrlein,Pascal Wehrlein,manor,13,56,16,0,13,998.000701,1003.046235,5.045534,0.428571,0.327661,50.0,22
+2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,felipe-nasr,Felipe Nasr,sauber,14,56,21,0,14,1038.702858,1038.832569,0.129711,0.380952,0.378358,50.0,22
+2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,15,56,8,0,15,1131.705283,1123.381578,-8.323705,0.333333,0.499807,50.0,22
+2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,sergio-perez,Sergio Pérez,force-india,16,56,18,0,16,1184.448651,1170.311476,-14.137175,0.285714,0.568458,50.0,22
+2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,rio-haryanto,Rio Haryanto,manor,17,56,20,0,17,990.857844,986.81086,-4.046984,0.238095,0.319035,50.0,22
+2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,29,11,1,18,1046.20773,1036.334186,-9.873544,0.190476,0.387947,50.0,22
+2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,esteban-gutierrez,Esteban Gutiérrez,haas,DNF,9,13,1,19,952.765407,946.17302,-6.592387,0.142857,0.274705,50.0,22
+2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,jenson-button,Jenson Button,mclaren,DNF,6,14,1,20,1082.523254,1065.531375,-16.991879,0.095238,0.435076,50.0,22
+2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,jolyon-palmer,Jolyon Palmer,renault,DNS,,19,2,21,1009.905463,993.984367,-15.921096,0.02381,0.342231,50.0,22
+2016,2,2016-04-03,bahrain,2016 Formula 1 Gulf Air Bahrain Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,DNS,,3,2,22,1406.880762,1367.544151,-39.336612,0.02381,0.810542,50.0,22

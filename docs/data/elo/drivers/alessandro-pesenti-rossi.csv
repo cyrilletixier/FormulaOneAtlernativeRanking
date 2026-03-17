@@ -1,5 +1,5 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1976-08-01,1976,10,germany,14,13,28,1500.0,1501.772291,1.772291,0.518519,0.444673,24.0
-1976-08-15,1976,11,austria,11,51,25,1501.772291,1504.750531,2.97824,0.583333,0.45924,24.0
-1976-08-29,1976,12,netherlands,DNQ,,27,1504.750531,1493.87048,-10.880051,0.0,0.453335,24.0
-1976-09-12,1976,13,italy,18,49,29,1493.87048,1492.866735,-1.003745,0.392857,0.43468,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1976-08-01,1976,10,germany,tyrrell,Tyrrell,14,13,28,1000.0,1005.386785,5.386785,0.518519,0.410783,50.0
+1976-08-15,1976,11,austria,tyrrell,Tyrrell,11,51,25,1005.386785,1012.872378,7.485593,0.583333,0.433621,50.0
+1976-08-29,1976,12,netherlands,tyrrell,Tyrrell,DNQ,,27,1012.872378,991.197389,-21.674989,0.0,0.4335,50.0
+1976-09-12,1976,13,italy,tyrrell,Tyrrell,18,49,29,991.197389,990.890254,-0.307134,0.392857,0.399,50.0

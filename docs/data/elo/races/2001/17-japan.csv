@@ -1,23 +1,23 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,michael-schumacher,Michael Schumacher,ferrari,1,53,1,0,1,1794.400545,1799.221077,4.820532,1.0,0.799144,24.0,22
-2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,juan-pablo-montoya,Juan Pablo Montoya,williams,2,53,2,0,2,1511.691984,1524.051271,12.359287,0.952381,0.437411,24.0,22
-2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,david-coulthard,David Coulthard,mclaren,3,53,7,0,3,1708.685434,1713.45548,4.770046,0.904762,0.70601,24.0,22
-2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,mika-hakkinen,Mika Häkkinen,mclaren,4,53,5,0,4,1673.936413,1678.60171,4.665297,0.857143,0.662755,24.0,22
-2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,rubens-barrichello,Rubens Barrichello,ferrari,5,53,4,0,5,1667.102857,1670.837145,3.734288,0.809524,0.653928,24.0,22
-2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,ralf-schumacher,Ralf Schumacher,williams,6,53,3,0,6,1616.594925,1620.816554,4.221629,0.761905,0.586004,24.0,22
-2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,jenson-button,Jenson Button,benetton,7,53,9,0,7,1511.604198,1518.252174,6.647976,0.714286,0.437287,24.0,22
-2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,jarno-trulli,Jarno Trulli,jordan,8,52,8,0,8,1500.436176,1506.318532,5.882356,0.666667,0.421568,24.0,22
-2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,nick-heidfeld,Nick Heidfeld,sauber,9,52,10,0,9,1496.564167,1501.433786,4.869619,0.619048,0.416147,24.0,22
-2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,jacques-villeneuve,Jacques Villeneuve,bar,10,52,14,0,10,1594.12973,1594.533181,0.40345,0.571429,0.554618,24.0,22
-2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,fernando-alonso,Fernando Alonso,minardi,11,52,18,0,11,1457.961014,1461.816679,3.855664,0.52381,0.363157,24.0,22
-2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,heinz-harald-frentzen,Heinz-Harald Frentzen,prost,12,52,15,0,12,1569.633275,1568.584137,-1.049138,0.47619,0.519905,24.0,22
-2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,olivier-panis,Olivier Panis,bar,13,51,17,0,13,1535.519978,1534.495916,-1.024062,0.428571,0.471241,24.0,22
-2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,enrique-bernoldi,Enrique Bernoldi,arrows,14,51,PL,0,14,1465.96799,1466.135725,0.167735,0.380952,0.373963,24.0,22
-2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,jos-verstappen,Jos Verstappen,arrows,15,51,21,0,15,1487.799686,1486.105219,-1.694468,0.333333,0.403936,24.0,22
-2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,alex-yoong,Alex Yoong,minardi,16,50,PL,0,16,1491.864766,1488.891785,-2.972981,0.285714,0.409588,24.0,22
-2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,benetton,17,47,6,0,17,1555.327869,1549.054007,-6.273862,0.238095,0.499506,24.0,22
-2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,jaguar,DNF,45,16,1,18,1465.547456,1461.157449,-4.390008,0.190476,0.373393,24.0,22
-2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,tomas-enge,Tomáš Enge,prost,DNF,42,19,1,19,1500.320876,1493.635683,-6.685192,0.142857,0.421407,24.0,22
-2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,eddie-irvine,Eddie Irvine,jaguar,DNF,24,13,1,20,1570.405498,1560.187118,-10.21838,0.095238,0.521004,24.0,22
-2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,jean-alesi,Jean Alesi,jordan,DNF,5,11,1,21,1565.865091,1554.087638,-11.777453,0.02381,0.514537,24.0,22
-2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,kimi-raikkonen,Kimi Räikkönen,sauber,DNF,5,12,1,22,1523.044962,1512.732625,-10.312337,0.02381,0.45349,24.0,22
+2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,michael-schumacher,Michael Schumacher,ferrari,1,53,1,0,1,1358.849644,1367.062637,8.212993,1.0,0.83574,50.0,22
+2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,juan-pablo-montoya,Juan Pablo Montoya,williams,2,53,2,0,2,1034.278001,1059.599025,25.321025,0.952381,0.44596,50.0,22
+2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,david-coulthard,David Coulthard,mclaren,3,53,7,0,3,1254.24021,1262.76785,8.52764,0.904762,0.734209,50.0,22
+2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,mika-hakkinen,Mika Häkkinen,mclaren,4,53,5,0,4,1181.194579,1191.720613,10.526034,0.857143,0.646622,50.0,22
+2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,rubens-barrichello,Rubens Barrichello,ferrari,5,53,4,0,5,1243.237484,1247.622393,4.384909,0.809524,0.721826,50.0,22
+2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,ralf-schumacher,Ralf Schumacher,williams,6,53,3,0,6,1156.389606,1163.767707,7.3781,0.761905,0.614343,50.0,22
+2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,jenson-button,Jenson Button,benetton,7,53,9,0,7,1018.653973,1033.152565,14.498593,0.714286,0.424314,50.0,22
+2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,jarno-trulli,Jarno Trulli,jordan,8,52,8,0,8,1015.645346,1027.970299,12.324953,0.666667,0.420168,50.0,22
+2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,nick-heidfeld,Nick Heidfeld,sauber,9,52,10,0,9,1025.62228,1034.877345,9.255065,0.619048,0.433946,50.0,22
+2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,jacques-villeneuve,Jacques Villeneuve,bar,10,52,14,0,10,1120.926035,1121.169861,0.243825,0.571429,0.566552,50.0,22
+2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,fernando-alonso,Fernando Alonso,minardi,11,52,18,0,11,938.139404,948.450439,10.311035,0.52381,0.317589,50.0,22
+2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,heinz-harald-frentzen,Heinz-Harald Frentzen,prost,12,52,15,0,12,1062.386081,1061.935274,-0.450807,0.47619,0.485207,50.0,22
+2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,olivier-panis,Olivier Panis,bar,13,51,17,0,13,1047.06637,1045.305656,-1.760713,0.428571,0.463786,50.0,22
+2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,enrique-bernoldi,Enrique Bernoldi,arrows,14,51,PL,0,14,959.590076,961.389398,1.799322,0.380952,0.344966,50.0,22
+2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,jos-verstappen,Jos Verstappen,arrows,15,51,21,0,15,1018.90097,1014.334906,-4.566064,0.333333,0.424655,50.0,22
+2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,alex-yoong,Alex Yoong,minardi,16,50,PL,0,16,985.291556,980.63289,-4.658666,0.285714,0.378888,50.0,22
+2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,benetton,17,47,6,0,17,1072.965134,1059.869501,-13.095633,0.238095,0.500008,50.0,22
+2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,jaguar,DNF,45,16,1,18,987.42238,977.858833,-9.563547,0.190476,0.381747,50.0,22
+2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,tomas-enge,Tomáš Enge,prost,DNF,42,19,1,19,1002.663865,989.687737,-12.976128,0.142857,0.40238,50.0,22
+2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,eddie-irvine,Eddie Irvine,jaguar,DNF,24,13,1,20,1038.95611,1021.094399,-17.861712,0.095238,0.452472,50.0,22
+2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,jean-alesi,Jean Alesi,jordan,DNF,5,11,1,21,1105.69736,1079.608428,-26.088932,0.02381,0.545588,50.0,22
+2001,17,2001-10-14,japan,2001 Fuji Television Japanese Grand Prix,kimi-raikkonen,Kimi Räikkönen,sauber,DNF,5,12,1,22,1043.663301,1021.902009,-21.761293,0.02381,0.459035,50.0,22

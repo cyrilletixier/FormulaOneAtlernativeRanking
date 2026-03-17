@@ -1,25 +1,25 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,mark-webber,Mark Webber,red-bull,1,52,2,0,1,1773.239302,1779.334759,6.095457,1.0,0.746023,24.0,24
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,fernando-alonso,Fernando Alonso,ferrari,2,52,1,0,2,1808.55794,1812.757922,4.199982,0.956522,0.781522,24.0,24
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,3,52,4,0,3,1777.82271,1781.716614,3.893904,0.913043,0.750797,24.0,24
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,felipe-massa,Felipe Massa,ferrari,4,52,5,0,4,1668.550237,1674.420296,5.870059,0.869565,0.624979,24.0,24
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,kimi-raikkonen,Kimi Räikkönen,lotus-f1,5,52,6,0,5,1719.211084,1722.567948,3.356864,0.826087,0.686218,24.0,24
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,6,52,9,0,6,1488.319711,1497.758644,9.438933,0.782609,0.38932,24.0,24
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,michael-schumacher,Michael Schumacher,mercedes,7,52,3,0,7,1616.607321,1620.944971,4.337649,0.73913,0.558395,24.0,24
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,8,52,8,0,8,1738.925216,1738.610557,-0.314659,0.695652,0.708763,24.0,24
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,bruno-senna,Bruno Senna,williams,9,52,13,0,9,1467.532669,1474.476499,6.94383,0.652174,0.362848,24.0,24
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,jenson-button,Jenson Button,mclaren,10,52,16,0,10,1730.434301,1728.263406,-2.170895,0.608696,0.69915,24.0,24
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,kamui-kobayashi,Kamui Kobayashi,sauber,11,52,17,0,11,1531.272769,1534.1478,2.875031,0.565217,0.445424,24.0,24
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,12,52,14,0,12,1533.732034,1535.48556,1.753525,0.521739,0.448676,24.0,24
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,daniel-ricciardo,Daniel Ricciardo,toro-rosso,13,52,12,0,13,1472.2788,1474.904855,2.626055,0.478261,0.368842,24.0,24
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,14,52,23,0,14,1504.570219,1505.156293,0.586073,0.434783,0.410363,24.0,24
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,nico-rosberg,Nico Rosberg,mercedes,15,52,11,0,15,1685.540739,1679.428076,-6.112663,0.391304,0.645999,24.0,24
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,pastor-maldonado,Pastor Maldonado,williams,16,51,7,0,16,1479.418904,1478.696719,-0.722185,0.347826,0.377917,24.0,24
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,heikki-kovalainen,Heikki Kovalainen,caterham,17,51,19,0,17,1456.022668,1454.964281,-1.058387,0.304348,0.348447,24.0,24
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,timo-glock,Timo Glock,marussia,18,51,20,0,18,1406.030814,1405.365869,-0.664945,0.26087,0.288576,24.0,24
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,charles-pic,Charles Pic,marussia,19,51,24,0,19,1466.96453,1463.490747,-3.473783,0.217391,0.362132,24.0,24
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,hrt,20,50,21,0,20,1441.39367,1437.636791,-3.756879,0.173913,0.33045,24.0,24
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,narain-karthikeyan,Narain Karthikeyan,hrt,21,50,22,0,21,1391.936417,1388.524181,-3.412236,0.130435,0.272611,24.0,24
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,sergio-perez,Sergio Pérez,sauber,DNF,11,15,1,22,1547.235499,1538.124776,-9.110723,0.086957,0.46657,24.0,24
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,paul-di-resta,Paul di Resta,force-india,DNF,2,10,1,23,1577.795449,1566.666747,-11.128702,0.043478,0.507174,24.0,24
-2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,vitaly-petrov,Vitaly Petrov,caterham,DNS,,18,2,24,1511.03559,1500.984284,-10.051306,0.0,0.418804,24.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,mark-webber,Mark Webber,red-bull,1,52,2,0,1,1371.580074,1381.417483,9.837409,1.0,0.803252,50.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,fernando-alonso,Fernando Alonso,ferrari,2,52,1,0,2,1393.771885,1400.51083,6.738945,0.956522,0.821743,50.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,3,52,4,0,3,1368.017288,1373.66029,5.643003,0.913043,0.800183,50.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,felipe-massa,Felipe Massa,ferrari,4,52,5,0,4,1177.501109,1190.95372,13.452611,0.869565,0.600513,50.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,kimi-raikkonen,Kimi Räikkönen,lotus-f1,5,52,6,0,5,1266.697205,1272.904035,6.20683,0.826087,0.70195,50.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,6,52,9,0,6,1002.827409,1022.740705,19.913297,0.782609,0.384343,50.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,michael-schumacher,Michael Schumacher,mercedes,7,52,3,0,7,1071.61256,1085.085255,13.472696,0.73913,0.469677,50.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,8,52,8,0,8,1292.213489,1290.566361,-1.647128,0.695652,0.728595,50.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,bruno-senna,Bruno Senna,williams,9,52,13,0,9,989.814246,1003.993924,14.179678,0.652174,0.36858,50.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,jenson-button,Jenson Button,mclaren,10,52,16,0,10,1279.608372,1274.26406,-5.344312,0.608696,0.715582,50.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,kamui-kobayashi,Kamui Kobayashi,sauber,11,52,17,0,11,1056.461376,1062.18709,5.725715,0.565217,0.450703,50.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,12,52,14,0,12,1083.032078,1084.919442,1.887364,0.521739,0.483992,50.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,daniel-ricciardo,Daniel Ricciardo,toro-rosso,13,52,12,0,13,976.847102,983.10711,6.260009,0.478261,0.353061,50.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,14,52,23,0,14,1012.792583,1014.705536,1.912952,0.434783,0.396524,50.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,nico-rosberg,Nico Rosberg,mercedes,15,52,11,0,15,1255.999141,1241.042769,-14.956372,0.391304,0.690432,50.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,pastor-maldonado,Pastor Maldonado,williams,16,51,7,0,16,993.162975,991.923296,-1.239679,0.347826,0.37262,50.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,heikki-kovalainen,Heikki Kovalainen,caterham,17,51,19,0,17,945.714504,945.096098,-0.618406,0.304348,0.316716,50.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,timo-glock,Timo Glock,marussia,18,51,20,0,18,874.463315,875.513362,1.050046,0.26087,0.239869,50.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,charles-pic,Charles Pic,marussia,19,51,24,0,19,945.292175,940.350095,-4.94208,0.217391,0.316233,50.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,hrt,20,50,21,0,20,929.863338,923.619456,-6.243882,0.173913,0.298791,50.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,narain-karthikeyan,Narain Karthikeyan,hrt,21,50,22,0,21,853.577757,849.131858,-4.445899,0.130435,0.219353,50.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,sergio-perez,Sergio Pérez,sauber,DNF,11,15,1,22,1103.655085,1082.512259,-21.142826,0.086957,0.509813,50.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,paul-di-resta,Paul di Resta,force-india,DNF,2,10,1,23,1143.318141,1117.540992,-25.777149,0.043478,0.559021,50.0,24
+2012,9,2012-07-08,great-britain,2012 Formula 1 Santander British Grand Prix,vitaly-petrov,Vitaly Petrov,caterham,DNS,,18,2,24,1014.367473,994.444651,-19.922822,0.0,0.398456,50.0,24

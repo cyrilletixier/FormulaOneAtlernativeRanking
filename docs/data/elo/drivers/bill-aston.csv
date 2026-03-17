@@ -1,4 +1,4 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1952-07-19,1952,5,great-britain,DNS,,32,1500.0,1488.063369,-11.936631,0.0,0.49736,24.0
-1952-08-03,1952,6,germany,DNF,2,34,1488.063369,1485.312247,-2.751122,0.363636,0.478266,24.0
-1952-09-07,1952,8,italy,DNQ,,35,1485.312247,1477.557653,-7.754595,0.147059,0.470167,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1952-07-19,1952,5,great-britain,aston-butterworth,Aston Butterworth,DNS,,32,1000.0,975.233188,-24.766812,0.0,0.495336,50.0
+1952-08-03,1952,6,germany,aston-butterworth,Aston Butterworth,DNF,2,34,975.233188,970.564645,-4.668543,0.363636,0.457007,50.0
+1952-09-07,1952,8,italy,aston-butterworth,Aston Butterworth,DNQ,,35,970.564645,955.788036,-14.77661,0.147059,0.442591,50.0

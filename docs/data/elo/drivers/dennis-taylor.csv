@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1959-07-18,1959,5,great-britain,DNQ,,30,1500.0,1490.246189,-9.753811,0.086207,0.492616,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1959-07-18,1959,5,great-britain,lotus,Lotus,DNQ,,30,1000.0,980.16728,-19.83272,0.086207,0.482861,50.0

@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,george-russell,George Russell,mercedes,1,62,1,0,1,1786.927612,1793.884837,6.957225,1.0,0.710116,24.0,20
-2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,max-verstappen,Max Verstappen,red-bull,2,62,2,0,2,1936.097709,1938.456376,2.358667,0.947368,0.849091,24.0,20
-2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,lando-norris,Lando Norris,mclaren,3,62,5,0,3,1832.90989,1836.182721,3.272831,0.894737,0.758369,24.0,20
-2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,oscar-piastri,Oscar Piastri,mclaren,4,62,3,0,4,1788.350384,1791.480689,3.130305,0.842105,0.711676,24.0,20
-2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,kimi-antonelli,Kimi Antonelli,mercedes,5,62,4,0,5,1537.154434,1546.604987,9.450553,0.789474,0.395701,24.0,20
-2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,charles-leclerc,Charles Leclerc,ferrari,6,62,7,0,6,1793.548114,1794.016151,0.468037,0.736842,0.717341,24.0,20
-2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,fernando-alonso,Fernando Alonso,aston-martin,7,62,10,0,7,1602.983619,1607.833664,4.850045,0.684211,0.482125,24.0,20
-2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,lewis-hamilton,Lewis Hamilton,ferrari,8,62,6,0,8,1779.103361,1777.426169,-1.677192,0.631579,0.701462,24.0,20
-2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,oliver-bearman,Oliver Bearman,haas,9,62,9,0,9,1521.629048,1526.506182,4.877135,0.578947,0.375733,24.0,20
-2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,carlos-sainz-jr,Carlos Sainz Jr.,williams,10,61,18,0,10,1675.022199,1673.826167,-1.196032,0.526316,0.57615,24.0,20
-2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,isack-hadjar,Isack Hadjar,racing-bulls,11,61,8,0,11,1535.461435,1537.38558,1.924144,0.473684,0.393512,24.0,20
-2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,yuki-tsunoda,Yuki Tsunoda,red-bull,12,61,13,0,12,1509.181767,1510.648891,1.467124,0.421053,0.359922,24.0,20
-2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,lance-stroll,Lance Stroll,aston-martin,13,61,15,0,13,1509.407744,1509.604864,0.197119,0.368421,0.360208,24.0,20
-2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,alexander-albon,Alexander Albon,williams,14,61,PL,0,14,1552.236015,1549.847548,-2.388468,0.315789,0.415309,24.0,20
-2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,liam-lawson,Liam Lawson,racing-bulls,15,61,12,0,15,1521.280203,1518.589087,-2.691116,0.263158,0.375288,24.0,20
-2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,franco-colapinto,Franco Colapinto,alpine,16,61,16,0,16,1464.342196,1462.077966,-2.264231,0.210526,0.304869,24.0,20
-2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,17,61,14,0,17,1497.795592,1493.28972,-4.505872,0.157895,0.345639,24.0,20
-2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,esteban-ocon,Esteban Ocon,haas,18,61,17,0,18,1535.27312,1528.360999,-6.912121,0.105263,0.393268,24.0,20
-2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,pierre-gasly,Pierre Gasly,alpine,19,61,PL,0,19,1526.098669,1518.206887,-7.891783,0.052632,0.381456,24.0,20
-2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,nico-hulkenberg,Nico Hülkenberg,kick-sauber,20,61,11,0,20,1534.883973,1525.457602,-9.426371,0.0,0.392765,24.0,20
+2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,george-russell,George Russell,mercedes,1,62,1,0,1,1385.832474,1397.488747,11.656273,1.0,0.766875,50.0,20
+2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,max-verstappen,Max Verstappen,red-bull,2,62,2,0,2,1494.891184,1499.46121,4.570026,0.947368,0.855968,50.0,20
+2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,lando-norris,Lando Norris,mclaren,3,62,5,0,3,1425.759506,1430.380487,4.620981,0.894737,0.802317,50.0,20
+2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,oscar-piastri,Oscar Piastri,mclaren,4,62,3,0,4,1416.263735,1418.659975,2.396241,0.842105,0.79418,50.0,20
+2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,kimi-antonelli,Kimi Antonelli,mercedes,5,62,4,0,5,1075.558182,1094.692639,19.134457,0.789474,0.406785,50.0,20
+2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,charles-leclerc,Charles Leclerc,ferrari,6,62,7,0,6,1345.896862,1346.32585,0.428988,0.736842,0.728262,50.0,20
+2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,fernando-alonso,Fernando Alonso,aston-martin,7,62,10,0,7,1106.639066,1118.539629,11.900563,0.684211,0.446199,50.0,20
+2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,lewis-hamilton,Lewis Hamilton,ferrari,8,62,6,0,8,1276.433018,1275.307835,-1.125183,0.631579,0.654083,50.0,20
+2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,oliver-bearman,Oliver Bearman,haas,9,62,9,0,9,1051.8131,1061.908987,10.095887,0.578947,0.37703,50.0,20
+2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,carlos-sainz-jr,Carlos Sainz Jr.,williams,10,61,18,0,10,1165.547417,1165.816837,0.26942,0.526316,0.520927,50.0,20
+2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,isack-hadjar,Isack Hadjar,racing-bulls,11,61,8,0,11,1078.673572,1081.821929,3.148357,0.473684,0.410717,50.0,20
+2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,yuki-tsunoda,Yuki Tsunoda,red-bull,12,61,13,0,12,1047.569455,1050.034007,2.464552,0.421053,0.371762,50.0,20
+2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,lance-stroll,Lance Stroll,aston-martin,13,61,15,0,13,1015.570826,1017.357384,1.786558,0.368421,0.33269,50.0,20
+2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,alexander-albon,Alexander Albon,williams,14,61,PL,0,14,1100.643336,1094.504188,-6.139149,0.315789,0.438572,50.0,20
+2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,liam-lawson,Liam Lawson,racing-bulls,15,61,12,0,15,1062.579439,1056.213954,-6.365485,0.263158,0.390468,50.0,20
+2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,franco-colapinto,Franco Colapinto,alpine,16,61,16,0,16,950.305492,947.932569,-2.372922,0.210526,0.257985,50.0,20
+2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,17,61,14,0,17,1024.258604,1014.994779,-9.263825,0.157895,0.343171,50.0,20
+2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,esteban-ocon,Esteban Ocon,haas,18,61,17,0,18,1044.243106,1031.124029,-13.119077,0.105263,0.367645,50.0,20
+2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,pierre-gasly,Pierre Gasly,alpine,19,61,PL,0,19,1025.038881,1010.46458,-14.574301,0.052632,0.344118,50.0,20
+2025,18,2025-10-05,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2025,nico-hulkenberg,Nico Hülkenberg,kick-sauber,20,61,11,0,20,1062.403522,1042.89116,-19.512362,0.0,0.390247,50.0,20

@@ -1,4 +1,4 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-2001-09-16,2001,15,italy,12,52,22,1500.0,1501.322705,1.322705,0.47619,0.421078,24.0
-2001-09-30,2001,16,united-states,14,72,22,1501.322705,1500.320876,-1.00183,0.380952,0.422695,24.0
-2001-10-14,2001,17,japan,DNF,42,22,1500.320876,1493.635683,-6.685192,0.142857,0.421407,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+2001-09-16,2001,15,italy,prost,Prost,12,52,22,1000.0,1003.829753,3.829753,0.47619,0.399595,50.0
+2001-09-30,2001,16,united-states,prost,Prost,14,72,22,1003.829753,1002.663865,-1.165888,0.380952,0.40427,50.0
+2001-10-14,2001,17,japan,prost,Prost,DNF,42,22,1002.663865,989.687737,-12.976128,0.142857,0.40238,50.0

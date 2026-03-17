@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,1,60,1,0,1,1559.278355,1571.848408,12.570053,1.0,0.476248,24.0,20
-2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,mark-webber,Mark Webber,red-bull,2,60,3,0,2,1582.941793,1593.43991,10.498117,0.947368,0.509947,24.0,20
-2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,rubens-barrichello,Rubens Barrichello,brawn,3,60,2,0,3,1580.054984,1589.388643,9.333659,0.894737,0.505834,24.0,20
-2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,felipe-massa,Felipe Massa,ferrari,4,60,11,0,4,1694.185914,1698.478275,4.292361,0.842105,0.663257,24.0,20
-2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,nico-rosberg,Nico Rosberg,williams,5,60,7,0,5,1567.993862,1575.213598,7.219736,0.789474,0.488651,24.0,20
-2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,jenson-button,Jenson Button,brawn,6,60,6,0,6,1612.207152,1616.655454,4.448301,0.736842,0.551496,24.0,20
-2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,jarno-trulli,Jarno Trulli,toyota,7,60,4,0,7,1587.014894,1591.058008,4.043114,0.684211,0.515747,24.0,20
-2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,8,60,9,0,8,1695.323772,1694.528157,-0.795615,0.631579,0.66473,24.0,20
-2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,timo-glock,Timo Glock,toyota,9,60,8,0,9,1574.667383,1576.606326,1.938943,0.578947,0.498158,24.0,20
-2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,force-india,10,60,16,0,10,1494.617976,1497.988557,3.370582,0.526316,0.385875,24.0,20
-2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,kazuki-nakajima,Kazuki Nakajima,williams,11,60,5,0,11,1476.751347,1479.435951,2.684604,0.473684,0.361826,24.0,20
-2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,nelson-piquet-jr,Nelson Piquet Jr.,renault,12,59,14,0,12,1478.574365,1479.937518,1.363153,0.421053,0.364255,24.0,20
-2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,robert-kubica,Robert Kubica,bmw-sauber,13,59,12,0,13,1611.164797,1606.806332,-4.358465,0.368421,0.550024,24.0,20
-2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,fernando-alonso,Fernando Alonso,renault,14,59,10,0,14,1746.877231,1736.976056,-9.901174,0.315789,0.728338,24.0,20
-2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,nick-heidfeld,Nick Heidfeld,bmw-sauber,15,59,15,0,15,1656.188641,1647.800383,-8.388258,0.263158,0.612669,24.0,20
-2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,16,59,18,0,16,1677.874156,1667.522142,-10.352013,0.210526,0.64186,24.0,20
-2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,adrian-sutil,Adrian Sutil,force-india,17,59,PL,0,17,1378.679377,1376.660093,-2.019284,0.157895,0.242032,24.0,20
-2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,sebastien-buemi,Sébastien Buemi,toro-rosso,18,59,19,0,18,1483.066436,1476.706401,-6.360035,0.105263,0.370265,24.0,20
-2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,sebastien-bourdais,Sébastien Bourdais,toro-rosso,DNF,37,17,1,19,1482.614993,1475.006334,-7.608659,0.052632,0.369659,24.0,20
-2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,heikki-kovalainen,Heikki Kovalainen,mclaren,DNF,36,13,1,20,1575.349481,1563.370362,-11.979119,0.0,0.49913,24.0,20
+2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,1,60,1,0,1,1137.822839,1160.683976,22.861137,1.0,0.542777,50.0,20
+2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,mark-webber,Mark Webber,red-bull,2,60,3,0,2,1164.32467,1182.736228,18.411558,0.947368,0.579137,50.0,20
+2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,rubens-barrichello,Rubens Barrichello,brawn,3,60,2,0,3,1107.555877,1127.248212,19.692335,0.894737,0.50089,50.0,20
+2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,felipe-massa,Felipe Massa,ferrari,4,60,11,0,4,1232.260909,1240.93008,8.669171,0.842105,0.668722,50.0,20
+2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,nico-rosberg,Nico Rosberg,williams,5,60,7,0,5,1128.700688,1141.665712,12.965024,0.789474,0.530173,50.0,20
+2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,jenson-button,Jenson Button,brawn,6,60,6,0,6,1185.018143,1191.505106,6.486964,0.736842,0.607103,50.0,20
+2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,jarno-trulli,Jarno Trulli,toyota,7,60,4,0,7,1121.550159,1129.746871,8.196712,0.684211,0.520276,50.0,20
+2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,8,60,9,0,8,1212.359485,1211.777988,-0.581497,0.631579,0.643209,50.0,20
+2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,timo-glock,Timo Glock,toyota,9,60,8,0,9,1144.983934,1146.298976,1.315042,0.578947,0.552647,50.0,20
+2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,force-india,10,60,16,0,10,953.372019,964.767061,11.395042,0.526316,0.298415,50.0,20
+2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,kazuki-nakajima,Kazuki Nakajima,williams,11,60,5,0,11,975.847434,983.251984,7.404549,0.473684,0.325593,50.0,20
+2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,nelson-piquet-jr,Nelson Piquet Jr.,renault,12,59,14,0,12,983.306048,987.616302,4.310254,0.421053,0.334848,50.0,20
+2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,robert-kubica,Robert Kubica,bmw-sauber,13,59,12,0,13,1139.478236,1130.646241,-8.831995,0.368421,0.545061,50.0,20
+2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,fernando-alonso,Fernando Alonso,renault,14,59,10,0,14,1271.660967,1251.607228,-20.053739,0.315789,0.716864,50.0,20
+2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,nick-heidfeld,Nick Heidfeld,bmw-sauber,15,59,15,0,15,1193.571486,1175.803689,-17.767797,0.263158,0.618514,50.0,20
+2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,16,59,18,0,16,1231.290748,1208.442305,-22.848442,0.210526,0.667495,50.0,20
+2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,adrian-sutil,Adrian Sutil,force-india,17,59,PL,0,17,856.630269,854.75109,-1.879179,0.157895,0.195478,50.0,20
+2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,sebastien-buemi,Sébastien Buemi,toro-rosso,18,59,19,0,18,975.473296,964.479855,-10.993441,0.105263,0.325132,50.0,20
+2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,sebastien-bourdais,Sébastien Bourdais,toro-rosso,DNF,37,17,1,19,999.312124,984.190121,-15.122003,0.052632,0.355072,50.0,20
+2009,8,2009-06-21,great-britain,2009 Formula 1 Santander British Grand Prix,heikki-kovalainen,Heikki Kovalainen,mclaren,DNF,36,13,1,20,1087.096179,1063.466485,-23.629694,0.0,0.472594,50.0,20

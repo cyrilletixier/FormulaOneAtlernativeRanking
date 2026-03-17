@@ -1,25 +1,25 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,lewis-hamilton,Lewis Hamilton,mclaren,1,70,2,0,1,1744.190754,1751.037265,6.846511,1.0,0.714729,24.0,24
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,romain-grosjean,Romain Grosjean,lotus-f1,2,70,7,0,2,1479.795748,1493.663219,13.867472,0.956522,0.37871,24.0,24
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,sergio-perez,Sergio Pérez,sauber,3,70,15,0,3,1531.432826,1542.6421,11.209274,0.913043,0.44599,24.0,24
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,sebastian-vettel,Sebastian Vettel,red-bull,4,70,1,0,4,1791.08757,1793.613201,2.525632,0.869565,0.764331,24.0,24
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,fernando-alonso,Fernando Alonso,ferrari,5,70,3,0,5,1801.959698,1803.183501,1.223803,0.826087,0.775095,24.0,24
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,nico-rosberg,Nico Rosberg,mercedes,6,70,5,0,6,1678.687262,1682.163006,3.475744,0.782609,0.637786,24.0,24
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,mark-webber,Mark Webber,red-bull,7,70,4,0,7,1770.28449,1770.192856,-0.091634,0.73913,0.742949,24.0,24
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,kimi-raikkonen,Kimi Räikkönen,lotus-f1,8,70,12,0,8,1712.112543,1712.534851,0.422308,0.695652,0.678056,24.0,24
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,kamui-kobayashi,Kamui Kobayashi,sauber,9,70,11,0,9,1534.785024,1539.627022,4.841998,0.652174,0.450424,24.0,24
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,felipe-massa,Felipe Massa,ferrari,10,70,6,0,10,1676.026868,1675.407542,-0.619326,0.608696,0.634501,24.0,24
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,paul-di-resta,Paul di Resta,force-india,11,70,8,0,11,1570.432402,1572.051701,1.619298,0.565217,0.497747,24.0,24
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,nico-hulkenberg,Nico Hülkenberg,force-india,12,70,13,0,12,1522.277988,1524.385869,2.10788,0.521739,0.433911,24.0,24
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,pastor-maldonado,Pastor Maldonado,williams,13,70,22,0,13,1473.278853,1475.867199,2.588347,0.478261,0.370413,24.0,24
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,daniel-ricciardo,Daniel Ricciardo,toro-rosso,14,70,14,0,14,1465.651139,1467.42735,1.776211,0.434783,0.360774,24.0,24
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,15,69,19,0,15,1514.444325,1513.668879,-0.775446,0.391304,0.423615,24.0,24
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,jenson-button,Jenson Button,mclaren,16,69,10,0,16,1739.189775,1730.517996,-8.671779,0.347826,0.70915,24.0,24
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,bruno-senna,Bruno Senna,williams,17,69,16,0,17,1462.723907,1461.457937,-1.26597,0.304348,0.357097,24.0,24
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,heikki-kovalainen,Heikki Kovalainen,caterham,18,69,17,0,18,1456.003933,1453.895921,-2.108012,0.26087,0.348703,24.0,24
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,vitaly-petrov,Vitaly Petrov,caterham,19,69,18,0,19,1514.522645,1509.57082,-4.951825,0.217391,0.423717,24.0,24
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,charles-pic,Charles Pic,marussia,20,67,23,0,20,1470.894969,1466.251477,-4.643492,0.173913,0.367392,24.0,24
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,timo-glock,Timo Glock,marussia,DNF,56,21,1,21,1417.276421,1413.162818,-4.113603,0.130435,0.301835,24.0,24
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,michael-schumacher,Michael Schumacher,mercedes,DNF,43,9,1,22,1619.228158,1607.823957,-11.404201,0.086957,0.562132,24.0,24
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,pedro-de-la-rosa,Pedro de la Rosa,hrt,DNF,24,20,1,23,1449.170138,1442.047835,-7.122303,0.043478,0.340241,24.0,24
-2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,narain-karthikeyan,Narain Karthikeyan,hrt,DNF,22,24,1,24,1398.971157,1392.234271,-6.736886,0.0,0.280704,24.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,lewis-hamilton,Lewis Hamilton,mclaren,1,70,2,0,1,1306.176225,1319.060242,12.884017,1.0,0.74232,50.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,romain-grosjean,Romain Grosjean,lotus-f1,2,70,7,0,2,984.464759,1014.107331,29.642571,0.956522,0.36367,50.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,sergio-perez,Sergio Pérez,sauber,3,70,15,0,3,1074.181384,1096.112899,21.931515,0.913043,0.474413,50.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,sebastian-vettel,Sebastian Vettel,red-bull,4,70,1,0,4,1401.894551,1404.009261,2.11471,0.869565,0.827271,50.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,fernando-alonso,Fernando Alonso,ferrari,5,70,3,0,5,1383.737188,1384.409991,0.672803,0.826087,0.812631,50.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,nico-rosberg,Nico Rosberg,mercedes,6,70,5,0,6,1245.95554,1251.102489,5.146949,0.782609,0.67967,50.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,mark-webber,Mark Webber,red-bull,7,70,4,0,7,1371.199267,1368.050234,-3.149033,0.73913,0.802111,50.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,kimi-raikkonen,Kimi Räikkönen,lotus-f1,8,70,12,0,8,1252.792111,1253.219587,0.427476,0.695652,0.687103,50.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,kamui-kobayashi,Kamui Kobayashi,sauber,9,70,11,0,9,1065.320345,1074.762413,9.442068,0.652174,0.463333,50.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,felipe-massa,Felipe Massa,ferrari,10,70,6,0,10,1191.396879,1190.941999,-0.45488,0.608696,0.617793,50.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,paul-di-resta,Paul di Resta,force-india,11,70,8,0,11,1132.864089,1133.756616,0.892527,0.565217,0.547367,50.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,nico-hulkenberg,Nico Hülkenberg,force-india,12,70,13,0,12,1061.698361,1064.845072,3.146711,0.521739,0.458805,50.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,pastor-maldonado,Pastor Maldonado,williams,13,70,22,0,13,979.265421,985.306395,6.040974,0.478261,0.357441,50.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,daniel-ricciardo,Daniel Ricciardo,toro-rosso,14,70,14,0,14,960.684948,965.651295,4.966348,0.434783,0.335456,50.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,15,69,19,0,15,1033.279524,1031.675201,-1.604323,0.391304,0.423391,50.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,jenson-button,Jenson Button,mclaren,16,69,10,0,16,1300.045131,1280.624156,-19.420975,0.347826,0.736246,50.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,bruno-senna,Bruno Senna,williams,17,69,16,0,17,979.80886,977.121703,-2.687157,0.304348,0.358091,50.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,heikki-kovalainen,Heikki Kovalainen,caterham,18,69,17,0,18,942.192289,939.532958,-2.659331,0.26087,0.314056,50.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,vitaly-petrov,Vitaly Petrov,caterham,19,69,18,0,19,1019.647344,1010.190476,-9.456868,0.217391,0.406529,50.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,charles-pic,Charles Pic,marussia,20,67,23,0,20,948.775038,941.389994,-7.385045,0.173913,0.321614,50.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,timo-glock,Timo Glock,marussia,DNF,56,21,1,21,893.689582,887.175474,-6.514108,0.130435,0.260717,50.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,michael-schumacher,Michael Schumacher,mercedes,DNF,43,9,1,22,1066.951592,1048.030812,-18.92078,0.086957,0.465372,50.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,pedro-de-la-rosa,Pedro de la Rosa,hrt,DNF,24,20,1,23,943.235537,929.646982,-13.588555,0.043478,0.315249,50.0,24
+2012,7,2012-06-10,canada,Formula 1 Grand Prix du Canada 2012,narain-karthikeyan,Narain Karthikeyan,hrt,DNF,22,24,1,24,862.934711,851.467097,-11.467614,0.0,0.229352,50.0,24

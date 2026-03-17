@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,1,61,1,0,1,1931.367364,1934.635315,3.267951,1.0,0.863835,24.0,20
-2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,max-verstappen,Max Verstappen,red-bull,2,61,2,0,2,1675.999905,1684.167609,8.167705,0.947368,0.607047,24.0,20
-2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,3,61,3,0,3,1850.853531,1853.148914,2.295383,0.894737,0.799096,24.0,20
-2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,valtteri-bottas,Valtteri Bottas,mercedes,4,61,4,0,4,1775.859546,1778.675644,2.816099,0.842105,0.724768,24.0,20
-2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,5,61,5,0,5,1751.559713,1753.757009,2.197296,0.789474,0.69792,24.0,20
-2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,6,61,6,0,6,1685.550574,1688.377092,2.826518,0.736842,0.619071,24.0,20
-2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,fernando-alonso,Fernando Alonso,mclaren,7,61,11,0,7,1546.961691,1552.899931,5.93824,0.684211,0.436784,24.0,20
-2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,renault,8,60,12,0,8,1563.861525,1567.995065,4.13354,0.631579,0.459348,24.0,20
-2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,charles-leclerc,Charles Leclerc,sauber,9,60,13,0,9,1486.626271,1491.93087,5.304599,0.578947,0.357922,24.0,20
-2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,nico-hulkenberg,Nico Hülkenberg,renault,10,60,10,0,10,1563.111389,1564.742696,1.631307,0.526316,0.458345,24.0,20
-2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,11,60,14,0,11,1450.438817,1454.297095,3.858277,0.473684,0.312923,24.0,20
-2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,stoffel-vandoorne,Stoffel Vandoorne,mclaren,12,60,18,0,12,1493.031039,1494.349831,1.318792,0.421053,0.366103,24.0,20
-2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,pierre-gasly,Pierre Gasly,toro-rosso,13,60,15,0,13,1504.269522,1503.977493,-0.292028,0.368421,0.380589,24.0,20
-2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,lance-stroll,Lance Stroll,williams,14,60,20,0,14,1492.448629,1491.259015,-1.189614,0.315789,0.365357,24.0,20
-2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,romain-grosjean,Romain Grosjean,haas,15,60,8,0,15,1519.983034,1516.672719,-3.310315,0.263158,0.401088,24.0,20
-2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,sergio-perez,Sergio Pérez,force-india,16,60,7,0,16,1652.461941,1643.669245,-8.792696,0.210526,0.576889,24.0,20
-2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,brendon-hartley,Brendon Hartley,toro-rosso,17,60,17,0,17,1453.204774,1449.403515,-3.801259,0.157895,0.316281,24.0,20
-2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,kevin-magnussen,Kevin Magnussen,haas,18,59,16,0,18,1549.62542,1541.583742,-8.041678,0.105263,0.440333,24.0,20
-2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,sergey-sirotkin,Sergey Sirotkin,williams,19,59,19,0,19,1466.778926,1460.050919,-6.728007,0.052632,0.332965,24.0,20
-2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,esteban-ocon,Esteban Ocon,force-india,DNF,0,9,1,20,1581.77945,1570.17934,-11.600109,0.0,0.483338,24.0,20
+2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,1,61,1,0,1,1516.824592,1522.280347,5.455754,1.0,0.890885,50.0,20
+2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,max-verstappen,Max Verstappen,red-bull,2,61,2,0,2,1238.282849,1253.469681,15.186832,0.947368,0.643632,50.0,20
+2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,3,61,3,0,3,1407.328094,1411.390822,4.062728,0.894737,0.813482,50.0,20
+2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,valtteri-bottas,Valtteri Bottas,mercedes,4,61,4,0,4,1358.243974,1361.832572,3.588598,0.842105,0.770333,50.0,20
+2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,5,61,5,0,5,1306.189663,1309.719301,3.529637,0.789474,0.718881,50.0,20
+2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,6,61,6,0,6,1182.963973,1190.970558,8.006585,0.736842,0.57671,50.0,20
+2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,fernando-alonso,Fernando Alonso,mclaren,7,61,11,0,7,1043.55544,1057.864288,14.308848,0.684211,0.398034,50.0,20
+2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,renault,8,60,12,0,8,1106.904154,1114.501066,7.596913,0.631579,0.479641,50.0,20
+2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,charles-leclerc,Charles Leclerc,sauber,9,60,13,0,9,987.324892,999.861804,12.536912,0.578947,0.328209,50.0,20
+2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,nico-hulkenberg,Nico Hülkenberg,renault,10,60,10,0,10,1077.104702,1081.366263,4.261561,0.526316,0.441085,50.0,20
+2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,11,60,14,0,11,980.926342,988.583584,7.657242,0.473684,0.320539,50.0,20
+2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,stoffel-vandoorne,Stoffel Vandoorne,mclaren,12,60,18,0,12,1011.166257,1014.352105,3.185848,0.421053,0.357336,50.0,20
+2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,pierre-gasly,Pierre Gasly,toro-rosso,13,60,15,0,13,1029.161804,1028.592236,-0.569568,0.368421,0.379812,50.0,20
+2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,lance-stroll,Lance Stroll,williams,14,60,20,0,14,1004.238661,1002.588676,-1.649984,0.315789,0.348789,50.0,20
+2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,romain-grosjean,Romain Grosjean,haas,15,60,8,0,15,1042.828951,1036.131373,-6.697578,0.263158,0.397109,50.0,20
+2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,sergio-perez,Sergio Pérez,force-india,16,60,7,0,16,1177.88548,1159.893295,-17.992185,0.210526,0.57037,50.0,20
+2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,brendon-hartley,Brendon Hartley,toro-rosso,17,60,17,0,17,940.065136,934.294436,-5.7707,0.157895,0.273309,50.0,20
+2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,kevin-magnussen,Kevin Magnussen,haas,18,59,16,0,18,1100.530551,1082.2242,-18.306351,0.105263,0.47139,50.0,20
+2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,sergey-sirotkin,Sergey Sirotkin,williams,19,59,19,0,19,961.651111,949.389566,-12.261546,0.052632,0.297862,50.0,20
+2018,15,2018-09-16,singapore,Formula 1 2018 Singapore Airlines Singapore Grand Prix,esteban-ocon,Esteban Ocon,force-india,DNF,0,9,1,20,1140.211113,1114.081568,-26.129546,0.0,0.522591,50.0,20

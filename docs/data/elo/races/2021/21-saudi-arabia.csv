@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,lewis-hamilton,Lewis Hamilton,mercedes,1,50,1,0,1,1981.215771,1983.873252,2.65748,1.0,0.889272,24.0,20
-2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,max-verstappen,Max Verstappen,red-bull,2,50,3,0,2,1808.268781,1813.082732,4.813951,0.947368,0.746787,24.0,20
-2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,valtteri-bottas,Valtteri Bottas,mercedes,3,50,2,0,3,1779.903296,1784.179542,4.276246,0.894737,0.71656,24.0,20
-2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,esteban-ocon,Esteban Ocon,alpine,4,50,9,0,4,1583.040073,1591.957224,8.917151,0.842105,0.470557,24.0,20
-2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,daniel-ricciardo,Daniel Ricciardo,mclaren,5,50,11,0,5,1668.841064,1673.792971,4.951907,0.789474,0.583144,24.0,20
-2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,pierre-gasly,Pierre Gasly,alphatauri,6,50,6,0,6,1609.97043,1615.506263,5.535833,0.736842,0.506182,24.0,20
-2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,charles-leclerc,Charles Leclerc,ferrari,7,50,4,0,7,1680.758956,1682.819085,2.060129,0.684211,0.598372,24.0,20
-2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,8,50,15,0,8,1693.494087,1693.90511,0.411024,0.631579,0.614453,24.0,20
-2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,9,50,10,0,9,1480.122239,1485.897806,5.775566,0.578947,0.338299,24.0,20
-2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,lando-norris,Lando Norris,mclaren,10,50,7,0,10,1666.505027,1665.213218,-1.291809,0.526316,0.580141,24.0,20
-2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,lance-stroll,Lance Stroll,aston-martin,11,50,18,0,11,1541.19058,1542.58459,1.39401,0.473684,0.4156,24.0,20
-2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,nicholas-latifi,Nicholas Latifi,williams,12,50,16,0,12,1425.681868,1429.200253,3.518384,0.421053,0.274453,24.0,20
-2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,fernando-alonso,Fernando Alonso,alpine,13,49,13,0,13,1578.336319,1576.034222,-2.302097,0.368421,0.464342,24.0,20
-2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,yuki-tsunoda,Yuki Tsunoda,alphatauri,14,49,8,0,14,1487.626233,1486.864615,-0.761618,0.315789,0.347524,24.0,20
-2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,15,49,12,0,15,1560.42659,1556.164486,-4.262104,0.263158,0.440746,24.0,20
-2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,sebastian-vettel,Sebastian Vettel,aston-martin,DNF,44,17,1,16,1636.969546,1629.020194,-7.949351,0.210526,0.541749,24.0,20
-2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,george-russell,George Russell,williams,DNF,14,14,1,17,1458.430458,1453.464608,-4.96585,0.105263,0.312174,24.0,20
-2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,nikita-mazepin,Nikita Mazepin,haas,DNF,14,20,1,18,1410.391405,1406.734559,-3.656846,0.105263,0.257632,24.0,20
-2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,sergio-perez,Sergio Pérez,red-bull,DNF,14,5,1,19,1704.805369,1692.24647,-12.558898,0.105263,0.628551,24.0,20
-2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,mick-schumacher,Mick Schumacher,haas,DNF,8,19,1,20,1424.794625,1418.231517,-6.563108,0.0,0.273463,24.0,20
+2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,lewis-hamilton,Lewis Hamilton,mercedes,1,50,1,0,1,1543.519476,1548.479306,4.959829,1.0,0.900803,50.0,20
+2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,max-verstappen,Max Verstappen,red-bull,2,50,3,0,2,1382.265632,1390.537122,8.27149,0.947368,0.781939,50.0,20
+2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,valtteri-bottas,Valtteri Bottas,mercedes,3,50,2,0,3,1285.383213,1295.960749,10.577536,0.894737,0.683186,50.0,20
+2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,esteban-ocon,Esteban Ocon,alpine,4,50,9,0,4,1120.723793,1138.651989,17.928196,0.842105,0.483541,50.0,20
+2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,daniel-ricciardo,Daniel Ricciardo,mclaren,5,50,11,0,5,1200.339626,1210.656683,10.317057,0.789474,0.583133,50.0,20
+2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,pierre-gasly,Pierre Gasly,alphatauri,6,50,6,0,6,1156.349978,1166.771007,10.421029,0.736842,0.528422,50.0,20
+2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,charles-leclerc,Charles Leclerc,ferrari,7,50,4,0,7,1243.51257,1245.965666,2.453096,0.684211,0.635149,50.0,20
+2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,8,50,15,0,8,1273.982426,1272.042283,-1.940143,0.631579,0.670382,50.0,20
+2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,9,50,10,0,9,1007.282799,1019.029005,11.746206,0.578947,0.344023,50.0,20
+2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,lando-norris,Lando Norris,mclaren,10,50,7,0,10,1238.019391,1232.902475,-5.116916,0.526316,0.628654,50.0,20
+2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,lance-stroll,Lance Stroll,aston-martin,11,50,18,0,11,1073.859429,1076.306153,2.446724,0.473684,0.42475,50.0,20
+2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,nicholas-latifi,Nicholas Latifi,williams,12,50,16,0,12,916.326536,925.164365,8.837829,0.421053,0.244296,50.0,20
+2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,fernando-alonso,Fernando Alonso,alpine,13,49,13,0,13,1129.751967,1123.426637,-6.32533,0.368421,0.494928,50.0,20
+2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,yuki-tsunoda,Yuki Tsunoda,alphatauri,14,49,8,0,14,990.848985,990.391466,-0.45752,0.315789,0.32494,50.0,20
+2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,15,49,12,0,15,1052.892533,1046.108222,-6.784311,0.263158,0.398844,50.0,20
+2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,sebastian-vettel,Sebastian Vettel,aston-martin,DNF,44,17,1,16,1104.68454,1092.044117,-12.640423,0.210526,0.463335,50.0,20
+2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,george-russell,George Russell,williams,DNF,14,14,1,17,990.766059,979.786986,-10.979073,0.105263,0.324845,50.0,20
+2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,nikita-mazepin,Nikita Mazepin,haas,DNF,14,20,1,18,866.565035,861.986172,-4.578863,0.105263,0.19684,50.0,20
+2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,sergio-perez,Sergio Pérez,red-bull,DNF,14,5,1,19,1274.03687,1245.777855,-28.259015,0.105263,0.670443,50.0,20
+2021,21,2021-12-05,saudi-arabia,Formula 1 stc Saudi Arabian Grand Prix 2021,mick-schumacher,Mick Schumacher,haas,DNF,8,19,1,20,889.001796,878.124396,-10.877399,0.0,0.217548,50.0,20

@@ -1,23 +1,23 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,fernando-alonso,Fernando Alonso,renault,1,60,1,0,1,1755.415911,1761.787918,6.372007,1.0,0.7345,24.0,22
-2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,michael-schumacher,Michael Schumacher,ferrari,2,60,3,0,2,1783.183058,1787.682108,4.49905,0.952381,0.764921,24.0,22
-2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,kimi-raikkonen,Kimi Räikkönen,mclaren,3,60,2,0,3,1681.283704,1687.54488,6.261176,0.904762,0.64388,24.0,22
-2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,renault,4,60,5,0,4,1631.130796,1637.866019,6.735224,0.857143,0.576509,24.0,22
-2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,felipe-massa,Felipe Massa,ferrari,5,60,4,0,5,1580.403981,1587.697561,7.29358,0.809524,0.505625,24.0,22
-2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,juan-pablo-montoya,Juan Pablo Montoya,mclaren,6,60,8,0,6,1644.241144,1648.25963,4.018486,0.761905,0.594468,24.0,22
-2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,nick-heidfeld,Nick Heidfeld,bmw-sauber,7,60,9,0,7,1547.646093,1553.761281,6.115188,0.714286,0.459486,24.0,22
-2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,jacques-villeneuve,Jacques Villeneuve,bmw-sauber,8,60,10,0,8,1541.809004,1546.977832,5.168827,0.666667,0.451299,24.0,22
-2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,nico-rosberg,Nico Rosberg,williams,9,60,12,0,9,1499.098502,1504.542016,5.443514,0.619048,0.392235,24.0,22
-2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,rubens-barrichello,Rubens Barrichello,honda,10,59,6,0,10,1698.17644,1695.916155,-2.260286,0.571429,0.665607,24.0,22
-2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,jarno-trulli,Jarno Trulli,toyota,11,59,22,0,11,1570.770142,1571.532545,0.762403,0.52381,0.492043,24.0,22
-2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,david-coulthard,David Coulthard,red-bull,12,59,11,0,12,1580.335299,1579.631202,-0.704097,0.47619,0.505528,24.0,22
-2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,vitantonio-liuzzi,Vitantonio Liuzzi,toro-rosso,13,59,13,0,13,1493.485817,1494.540467,1.054651,0.428571,0.384628,24.0,22
-2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,christian-klien,Christian Klien,red-bull,14,59,14,0,14,1487.527763,1487.632149,0.104386,0.380952,0.376603,24.0,22
-2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,christijan-albers,Christijan Albers,midland,15,59,18,0,15,1452.529841,1452.593299,0.063457,0.333333,0.330689,24.0,22
-2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,tiago-monteiro,Tiago Monteiro,midland,16,58,16,0,16,1485.246558,1483.138622,-2.107935,0.285714,0.373545,24.0,22
-2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,takuma-sato,Takuma Sato,super-aguri,17,57,21,0,17,1477.863289,1474.84865,-3.014638,0.238095,0.363705,24.0,22
-2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,franck-montagny,Franck Montagny,super-aguri,18,57,20,0,18,1484.819997,1480.440049,-4.379948,0.190476,0.372974,24.0,22
-2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,jenson-button,Jenson Button,honda,DNF,8,19,1,19,1648.198622,1637.230875,-10.967747,0.142857,0.599847,24.0,22
-2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,scott-speed,Scott Speed,toro-rosso,DNF,1,15,1,20,1499.926777,1492.771832,-7.154945,0.095238,0.393361,24.0,22
-2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,mark-webber,Mark Webber,williams,DNF,0,17,1,21,1522.630629,1513.012649,-9.61798,0.02381,0.424559,24.0,22
-2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,ralf-schumacher,Ralf Schumacher,toyota,DNF,0,7,1,22,1643.891548,1630.207176,-13.684373,0.02381,0.593992,24.0,22
+2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,fernando-alonso,Fernando Alonso,renault,1,60,1,0,1,1384.278327,1392.880668,8.602341,1.0,0.827953,50.0,22
+2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,michael-schumacher,Michael Schumacher,ferrari,2,60,3,0,2,1284.68261,1295.7824,11.09979,0.952381,0.730385,50.0,22
+2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,kimi-raikkonen,Kimi Räikkönen,mclaren,3,60,2,0,3,1252.548162,1263.105807,10.557645,0.904762,0.693609,50.0,22
+2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,renault,4,60,5,0,4,1213.778442,1224.320501,10.542059,0.857143,0.646302,50.0,22
+2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,felipe-massa,Felipe Massa,ferrari,5,60,4,0,5,1145.250107,1157.890959,12.640853,0.809524,0.556707,50.0,22
+2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,juan-pablo-montoya,Juan Pablo Montoya,mclaren,6,60,8,0,6,1167.069853,1175.871456,8.801603,0.761905,0.585873,50.0,22
+2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,nick-heidfeld,Nick Heidfeld,bmw-sauber,7,60,9,0,7,1099.232593,1110.239497,11.006904,0.714286,0.494148,50.0,22
+2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,jacques-villeneuve,Jacques Villeneuve,bmw-sauber,8,60,10,0,8,1077.596198,1087.699419,10.103221,0.666667,0.464602,50.0,22
+2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,nico-rosberg,Nico Rosberg,williams,9,60,12,0,9,1007.663347,1020.065076,12.401729,0.619048,0.371013,50.0,22
+2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,rubens-barrichello,Rubens Barrichello,honda,10,59,6,0,10,1221.281615,1217.068844,-4.212771,0.571429,0.655684,50.0,22
+2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,jarno-trulli,Jarno Trulli,toyota,11,59,22,0,11,1072.109779,1075.443869,3.33409,0.52381,0.457128,50.0,22
+2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,david-coulthard,David Coulthard,red-bull,12,59,11,0,12,1072.757044,1073.666121,0.909077,0.47619,0.458009,50.0,22
+2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,vitantonio-liuzzi,Vitantonio Liuzzi,toro-rosso,13,59,13,0,13,1001.611883,1004.881751,3.269868,0.428571,0.363174,50.0,22
+2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,christian-klien,Christian Klien,red-bull,14,59,14,0,14,1004.084954,1004.814024,0.729071,0.380952,0.366371,50.0,22
+2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,christijan-albers,Christijan Albers,midland,15,59,18,0,15,952.236344,953.822718,1.586374,0.333333,0.301606,50.0,22
+2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,tiago-monteiro,Tiago Monteiro,midland,16,58,16,0,16,997.496565,993.888509,-3.608056,0.285714,0.357875,50.0,22
+2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,takuma-sato,Takuma Sato,super-aguri,17,57,21,0,17,968.732022,964.55406,-4.177962,0.238095,0.321654,50.0,22
+2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,franck-montagny,Franck Montagny,super-aguri,18,57,20,0,18,974.052705,967.164552,-6.888153,0.190476,0.328239,50.0,22
+2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,jenson-button,Jenson Button,honda,DNF,8,19,1,19,1202.09412,1177.662207,-24.431912,0.142857,0.631495,50.0,22
+2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,scott-speed,Scott Speed,toro-rosso,DNF,1,15,1,20,1008.840326,994.97503,-13.865296,0.095238,0.372544,50.0,22
+2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,mark-webber,Mark Webber,williams,DNF,0,17,1,21,1049.466647,1029.334929,-20.131718,0.02381,0.426444,50.0,22
+2006,8,2006-06-11,great-britain,2006 Formula 1 Foster's British Grand Prix,ralf-schumacher,Ralf Schumacher,toyota,DNF,0,7,1,22,1169.571279,1141.302524,-28.268755,0.02381,0.589185,50.0,22

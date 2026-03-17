@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,max-verstappen,Max Verstappen,red-bull,1,58,1,0,1,1868.273699,1873.088792,4.815093,1.0,0.799371,24.0,20
-2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,charles-leclerc,Charles Leclerc,ferrari,2,58,3,0,2,1744.646893,1751.347451,6.700557,0.947368,0.668179,24.0,20
-2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,sergio-perez,Sergio Pérez,red-bull,3,58,2,0,3,1750.589621,1755.857357,5.267736,0.894737,0.675248,24.0,20
-2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,4,58,4,0,4,1705.187897,1710.526331,5.338434,0.842105,0.619671,24.0,20
-2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,george-russell,George Russell,mercedes,5,58,6,0,5,1635.608028,1641.854167,6.246138,0.789474,0.529218,24.0,20
-2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,lando-norris,Lando Norris,mclaren,6,58,7,0,6,1671.413539,1675.265216,3.851677,0.736842,0.576356,24.0,20
-2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,esteban-ocon,Esteban Ocon,alpine,7,58,8,0,7,1632.983666,1636.787171,3.803505,0.684211,0.525731,24.0,20
-2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,lance-stroll,Lance Stroll,aston-martin,8,58,14,0,8,1542.303588,1547.731831,5.428243,0.631579,0.405402,24.0,20
-2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,daniel-ricciardo,Daniel Ricciardo,mclaren,9,58,13,0,9,1599.579784,1601.925933,2.346149,0.578947,0.481191,24.0,20
-2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,sebastian-vettel,Sebastian Vettel,aston-martin,10,58,9,0,10,1604.670171,1605.590086,0.919915,0.526316,0.487986,24.0,20
-2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,yuki-tsunoda,Yuki Tsunoda,alphatauri,11,58,11,0,11,1466.57723,1470.492525,3.915295,0.473684,0.310547,24.0,20
-2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,guanyu-zhou,Guanyu Zhou,alfa-romeo,12,57,15,0,12,1478.35707,1480.669705,2.312635,0.421053,0.324693,24.0,20
-2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,alexander-albon,Alexander Albon,williams,13,57,19,0,13,1555.656741,1554.349552,-1.307189,0.368421,0.422887,24.0,20
-2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,pierre-gasly,Pierre Gasly,alphatauri,14,57,17,0,14,1581.427344,1578.038388,-3.388956,0.315789,0.456996,24.0,20
-2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,valtteri-bottas,Valtteri Bottas,alfa-romeo,15,57,18,0,15,1665.296294,1657.971107,-7.325187,0.263158,0.568374,24.0,20
-2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,mick-schumacher,Mick Schumacher,haas,16,57,12,0,16,1437.133478,1435.552122,-1.581356,0.210526,0.276416,24.0,20
-2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,kevin-magnussen,Kevin Magnussen,haas,17,57,16,0,17,1454.680037,1451.352632,-3.327405,0.157895,0.296537,24.0,20
-2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,lewis-hamilton,Lewis Hamilton,mercedes,18,55,5,0,18,1932.968421,1915.016155,-17.952266,0.105263,0.853274,24.0,20
-2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,nicholas-latifi,Nicholas Latifi,williams,19,55,20,0,19,1403.849636,1399.348509,-4.501127,0.052632,0.240179,24.0,20
-2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,fernando-alonso,Fernando Alonso,alpine,DNF,27,10,1,20,1599.995039,1588.43315,-11.561889,0.0,0.481745,24.0,20
+2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,max-verstappen,Max Verstappen,red-bull,1,58,1,0,1,1466.04135,1473.844955,7.803605,1.0,0.843928,50.0,20
+2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,charles-leclerc,Charles Leclerc,ferrari,2,58,3,0,2,1330.881111,1342.203995,11.322884,0.947368,0.720911,50.0,20
+2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,sergio-perez,Sergio Pérez,red-bull,3,58,2,0,3,1334.657537,1343.150576,8.493039,0.894737,0.724876,50.0,20
+2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,4,58,4,0,4,1256.293725,1266.533562,10.239837,0.842105,0.637309,50.0,20
+2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,george-russell,George Russell,mercedes,5,58,6,0,5,1269.663697,1276.488777,6.82508,0.789474,0.652972,50.0,20
+2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,lando-norris,Lando Norris,mclaren,6,58,7,0,6,1215.131604,1222.594017,7.462413,0.736842,0.587594,50.0,20
+2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,esteban-ocon,Esteban Ocon,alpine,7,58,8,0,7,1190.883274,1197.220622,6.337348,0.684211,0.557464,50.0,20
+2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,lance-stroll,Lance Stroll,aston-martin,8,58,14,0,8,1072.5738,1083.773891,11.200092,0.631579,0.407577,50.0,20
+2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,daniel-ricciardo,Daniel Ricciardo,mclaren,9,58,13,0,9,1091.807118,1099.166021,7.358903,0.578947,0.431769,50.0,20
+2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,sebastian-vettel,Sebastian Vettel,aston-martin,10,58,9,0,10,1108.363392,1112.041427,3.678035,0.526316,0.452755,50.0,20
+2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,yuki-tsunoda,Yuki Tsunoda,alphatauri,11,58,11,0,11,967.057204,976.626771,9.569567,0.473684,0.282293,50.0,20
+2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,guanyu-zhou,Guanyu Zhou,alfa-romeo,12,57,15,0,12,987.848948,993.619988,5.77104,0.421053,0.305632,50.0,20
+2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,alexander-albon,Alexander Albon,williams,13,57,19,0,13,1054.676768,1053.831653,-0.845116,0.368421,0.385323,50.0,20
+2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,pierre-gasly,Pierre Gasly,alphatauri,14,57,17,0,14,1097.38363,1091.23188,-6.15175,0.315789,0.438824,50.0,20
+2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,valtteri-bottas,Valtteri Bottas,alfa-romeo,15,57,18,0,15,1116.660195,1106.652704,-10.007491,0.263158,0.463308,50.0,20
+2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,mick-schumacher,Mick Schumacher,haas,16,57,12,0,16,955.672291,952.70534,-2.966952,0.210526,0.269865,50.0,20
+2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,kevin-magnussen,Kevin Magnussen,haas,17,57,16,0,17,966.226797,960.052648,-6.174149,0.157895,0.281378,50.0,20
+2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,lewis-hamilton,Lewis Hamilton,mercedes,18,55,5,0,18,1451.62506,1415.251386,-36.373675,0.105263,0.832737,50.0,20
+2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,nicholas-latifi,Nicholas Latifi,williams,19,55,20,0,19,904.289531,896.060017,-8.229513,0.052632,0.217222,50.0,20
+2022,22,2022-11-20,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2022,fernando-alonso,Fernando Alonso,alpine,DNF,27,10,1,20,1150.381875,1125.068678,-25.313196,0.0,0.506264,50.0,20

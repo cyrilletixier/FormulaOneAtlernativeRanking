@@ -1,25 +1,25 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,1,44,2,0,1,1700.341171,1707.951198,7.610027,1.0,0.682916,24.0,24
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,mark-webber,Mark Webber,red-bull,2,44,1,0,2,1661.503201,1669.240857,7.737656,0.956522,0.634119,24.0,24
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,robert-kubica,Robert Kubica,renault,3,44,3,0,3,1630.213554,1637.895829,7.682275,0.913043,0.592949,24.0,24
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,felipe-massa,Felipe Massa,ferrari,4,44,6,0,4,1703.089535,1707.488994,4.399459,0.869565,0.686254,24.0,24
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,adrian-sutil,Adrian Sutil,force-india,5,44,8,0,5,1458.04824,1469.258777,11.210537,0.826087,0.358981,24.0,24
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,nico-rosberg,Nico Rosberg,mercedes,6,44,14,0,6,1629.204024,1633.788279,4.584255,0.782609,0.591598,24.0,24
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,michael-schumacher,Michael Schumacher,mercedes,7,44,21,0,7,1752.805998,1752.697602,-0.108395,0.73913,0.743647,24.0,24
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,kamui-kobayashi,Kamui Kobayashi,sauber,8,44,17,0,8,1503.366552,1510.001604,6.635052,0.695652,0.419192,24.0,24
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,vitaly-petrov,Vitaly Petrov,renault,9,44,23,0,9,1512.819244,1518.102239,5.282995,0.652174,0.432049,24.0,24
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,10,44,12,0,10,1486.021551,1491.130286,5.108735,0.608696,0.395832,24.0,24
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,sauber,11,44,24,0,11,1475.408836,1479.812828,4.403992,0.565217,0.381718,24.0,24
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,sebastien-buemi,Sébastien Buemi,toro-rosso,12,44,16,0,12,1473.639366,1477.055998,3.416632,0.521739,0.379379,24.0,24
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,jaime-alguersuari,Jaime Alguersuari,toro-rosso,13,44,11,0,13,1477.328358,1479.584396,2.256038,0.478261,0.384259,24.0,24
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,nico-hulkenberg,Nico Hülkenberg,williams,14,43,9,0,14,1495.456968,1496.087794,0.630826,0.434783,0.408498,24.0,24
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,15,43,4,0,15,1664.721799,1658.794647,-5.927153,0.391304,0.638269,24.0,24
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,heikki-kovalainen,Heikki Kovalainen,lotus-racing,16,43,13,0,16,1524.215608,1521.819991,-2.395617,0.347826,0.447643,24.0,24
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,lucas-di-grassi,Lucas di Grassi,virgin,17,43,22,0,17,1451.184939,1450.086223,-1.098716,0.304348,0.350128,24.0,24
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,timo-glock,Timo Glock,virgin,18,43,20,0,18,1503.138463,1499.346154,-3.792309,0.26087,0.418882,24.0,24
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,jarno-trulli,Jarno Trulli,lotus-racing,19,43,15,0,19,1500.714676,1495.957683,-4.756993,0.217391,0.415599,24.0,24
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,sakon-yamamoto,Sakon Yamamoto,hrt,20,42,19,0,20,1423.237152,1419.851432,-3.38572,0.173913,0.314985,24.0,24
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,fernando-alonso,Fernando Alonso,ferrari,DNF,37,10,1,21,1722.578988,1708.682591,-13.896398,0.130435,0.709451,24.0,24
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,jenson-button,Jenson Button,mclaren,DNF,15,5,1,22,1687.370283,1673.450586,-13.919697,0.086957,0.666944,24.0,24
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,bruno-senna,Bruno Senna,hrt,DNF,5,18,1,23,1454.486916,1447.025345,-7.46157,0.043478,0.354377,24.0,24
-2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,rubens-barrichello,Rubens Barrichello,williams,DNF,0,7,1,24,1629.75066,1615.534751,-14.21591,0.0,0.59233,24.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,1,44,2,0,1,1258.829305,1273.138407,14.309102,1.0,0.713818,50.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,mark-webber,Mark Webber,red-bull,2,44,1,0,2,1253.466541,1265.902476,12.435935,0.956522,0.707803,50.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,robert-kubica,Robert Kubica,renault,3,44,3,0,3,1168.737187,1184.095848,15.358661,0.913043,0.60587,50.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,felipe-massa,Felipe Massa,ferrari,4,44,6,0,4,1243.240648,1251.910347,8.669699,0.869565,0.696171,50.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,adrian-sutil,Adrian Sutil,force-india,5,44,8,0,5,1019.397821,1040.156975,20.759154,0.826087,0.410904,50.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,nico-rosberg,Nico Rosberg,mercedes,6,44,14,0,6,1193.369435,1200.665764,7.29633,0.782609,0.636682,50.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,michael-schumacher,Michael Schumacher,mercedes,7,44,21,0,7,1243.681702,1245.804362,2.12266,0.73913,0.696677,50.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,kamui-kobayashi,Kamui Kobayashi,sauber,8,44,17,0,8,1027.258099,1040.98635,13.728251,0.695652,0.421087,50.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,vitaly-petrov,Vitaly Petrov,renault,9,44,23,0,9,1041.684929,1052.298716,10.613788,0.652174,0.439898,50.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,10,44,12,0,10,1020.392675,1030.217966,9.82529,0.608696,0.41219,50.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,sauber,11,44,24,0,11,997.61401,1006.725311,9.111301,0.565217,0.382991,50.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,sebastien-buemi,Sébastien Buemi,toro-rosso,12,44,16,0,12,992.485221,999.747336,7.262115,0.521739,0.376497,50.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,jaime-alguersuari,Jaime Alguersuari,toro-rosso,13,44,11,0,13,984.601414,990.185505,5.584091,0.478261,0.366579,50.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,nico-hulkenberg,Nico Hülkenberg,williams,14,43,9,0,14,1009.398208,1011.235857,1.837649,0.434783,0.39803,50.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,15,43,4,0,15,1269.084314,1252.391956,-16.692357,0.391304,0.725151,50.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,heikki-kovalainen,Heikki Kovalainen,lotus-racing,16,43,13,0,16,1001.86693,999.838198,-2.028732,0.347826,0.388401,50.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,lucas-di-grassi,Lucas di Grassi,virgin,17,43,22,0,17,924.724953,925.219223,0.49427,0.304348,0.294462,50.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,timo-glock,Timo Glock,virgin,18,43,20,0,18,987.244311,981.793058,-5.451254,0.26087,0.369895,50.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,jarno-trulli,Jarno Trulli,lotus-racing,19,43,15,0,19,970.646173,964.053949,-6.592224,0.217391,0.349236,50.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,sakon-yamamoto,Sakon Yamamoto,hrt,20,42,19,0,20,886.045796,882.159589,-3.886206,0.173913,0.251637,50.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,fernando-alonso,Fernando Alonso,ferrari,DNF,37,10,1,21,1255.15726,1226.19371,-28.96355,0.130435,0.709706,50.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,jenson-button,Jenson Button,mclaren,DNF,15,5,1,22,1274.696323,1242.481264,-32.215059,0.086957,0.731258,50.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,bruno-senna,Bruno Senna,hrt,DNF,5,18,1,23,929.790017,916.948458,-12.841559,0.043478,0.300309,50.0,24
+2010,13,2010-08-29,belgium,2010 Formula 1 Belgian Grand Prix,rubens-barrichello,Rubens Barrichello,williams,DNF,0,7,1,24,1175.768914,1145.03156,-30.737354,0.0,0.614747,50.0,24

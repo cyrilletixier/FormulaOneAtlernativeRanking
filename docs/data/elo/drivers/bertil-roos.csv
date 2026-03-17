@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1974-06-09,1974,7,sweden,DNF,2,28,1500.0,1492.396634,-7.603366,0.148148,0.464955,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1974-06-09,1974,7,sweden,shadow,Shadow,DNF,2,28,1000.0,984.917759,-15.082241,0.148148,0.449793,50.0

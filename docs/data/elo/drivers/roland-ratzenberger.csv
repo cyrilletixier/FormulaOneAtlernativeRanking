@@ -1,4 +1,4 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1994-03-27,1994,1,brazil,DNQ,,28,1500.0,1489.745993,-10.254007,0.018519,0.445769,24.0
-1994-04-17,1994,2,pacific,11,78,28,1489.745993,1494.309151,4.563157,0.62963,0.439498,24.0
-1994-05-01,1994,3,san-marino,DNS,,28,1494.309151,1483.756518,-10.552633,0.0,0.439693,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1994-03-27,1994,1,brazil,simtek,Simtek,DNQ,,28,1000.0,980.087841,-19.912159,0.018519,0.416762,50.0
+1994-04-17,1994,2,pacific,simtek,Simtek,11,78,28,980.087841,991.655945,11.568104,0.62963,0.398268,50.0
+1994-05-01,1994,3,san-marino,simtek,Simtek,DNS,,28,991.655945,971.348749,-20.307197,0.0,0.406144,50.0

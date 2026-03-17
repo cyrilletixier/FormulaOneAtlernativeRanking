@@ -1,6 +1,6 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1953-06-07,1953,3,netherlands,DNS,,20,1500.0,1488.55285,-11.44715,0.0,0.476965,24.0
-1953-06-21,1953,4,belgium,9,32,22,1488.55285,1492.30751,3.75466,0.619048,0.462603,24.0
-1953-08-23,1953,8,switzerland,DNS,,23,1492.30751,1482.284382,-10.023128,0.045455,0.463085,24.0
-1954-08-22,1954,7,switzerland,DNF,10,17,1482.284382,1476.054438,-6.229945,0.1875,0.447081,24.0
-1954-09-05,1954,8,italy,6,75,21,1476.054438,1482.529751,6.475314,0.7,0.430195,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1953-06-07,1953,3,netherlands,gordini,Gordini,DNS,,20,1000.0,976.994281,-23.005719,0.0,0.460114,50.0
+1953-06-21,1953,4,belgium,gordini,Gordini,9,32,22,976.994281,986.329102,9.33482,0.619048,0.432351,50.0
+1953-08-23,1953,8,switzerland,gordini,Gordini,DNS,,23,986.329102,966.67696,-19.652142,0.045455,0.438497,50.0
+1954-08-22,1954,7,switzerland,gordini,Gordini,DNF,10,17,966.67696,955.988404,-10.688556,0.1875,0.401271,50.0
+1954-09-05,1954,8,italy,gordini,Gordini,6,75,21,955.988404,971.957169,15.968765,0.7,0.380625,50.0

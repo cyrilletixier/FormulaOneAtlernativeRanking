@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,1,52,2,0,1,1853.806905,1858.548281,4.741375,1.0,0.802443,24.0,20
-2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,2,52,1,0,2,1916.848794,1919.085432,2.236639,0.947368,0.854175,24.0,20
-2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,3,52,3,0,3,1744.181795,1749.102435,4.92064,0.894737,0.68971,24.0,20
-2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,valtteri-bottas,Valtteri Bottas,mercedes,4,52,4,0,4,1757.871815,1761.155645,3.28383,0.842105,0.705279,24.0,20
-2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,5,52,6,0,5,1715.154883,1718.37137,3.216487,0.789474,0.655453,24.0,20
-2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,nico-hulkenberg,Nico Hülkenberg,renault,6,52,11,0,6,1562.280901,1569.007721,6.726821,0.736842,0.456558,24.0,20
-2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,esteban-ocon,Esteban Ocon,force-india,7,52,10,0,7,1561.880792,1567.357329,5.476537,0.684211,0.456021,24.0,20
-2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,fernando-alonso,Fernando Alonso,mclaren,8,52,13,0,8,1562.571823,1566.762966,4.191143,0.631579,0.456948,24.0,20
-2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,kevin-magnussen,Kevin Magnussen,haas,9,52,7,0,9,1540.075695,1543.725276,3.649581,0.578947,0.426882,24.0,20
-2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,sergio-perez,Sergio Pérez,force-india,10,52,12,0,10,1649.012158,1647.913298,-1.09886,0.526316,0.572102,24.0,20
-2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,stoffel-vandoorne,Stoffel Vandoorne,mclaren,11,52,17,0,11,1498.370107,1500.807544,2.437437,0.473684,0.372124,24.0,20
-2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,lance-stroll,Lance Stroll,williams,12,52,PL,0,12,1495.689948,1496.947122,1.257174,0.421053,0.36867,24.0,20
-2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,pierre-gasly,Pierre Gasly,toro-rosso,13,52,14,0,13,1493.180036,1493.251473,0.071437,0.368421,0.365445,24.0,20
-2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,sergey-sirotkin,Sergey Sirotkin,williams,14,52,PL,0,14,1469.043122,1468.584523,-0.4586,0.315789,0.334898,24.0,20
-2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,max-verstappen,Max Verstappen,red-bull,15,46,5,0,15,1680.153828,1671.778226,-8.375602,0.263158,0.612141,24.0,20
-2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,renault,DNF,37,16,1,16,1563.175224,1556.610106,-6.565118,0.184211,0.457757,24.0,20
-2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,romain-grosjean,Romain Grosjean,haas,DNF,37,8,1,17,1516.96266,1511.871918,-5.090742,0.184211,0.396325,24.0,20
-2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,DNF,31,15,1,18,1445.656566,1440.832845,-4.823721,0.105263,0.306252,24.0,20
-2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,charles-leclerc,Charles Leclerc,sauber,DNF,18,9,1,19,1511.027837,1502.965619,-8.062217,0.052632,0.388557,24.0,20
-2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,brendon-hartley,Brendon Hartley,toro-rosso,DNF,1,PL,1,20,1458.828171,1451.09393,-7.734241,0.0,0.32226,24.0,20
+2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,1,52,2,0,1,1417.216882,1426.105373,8.888491,1.0,0.82223,50.0,20
+2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,2,52,1,0,2,1492.77334,1496.284246,3.510906,0.947368,0.87715,50.0,20
+2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,3,52,3,0,3,1296.524526,1305.837308,9.312783,0.894737,0.708481,50.0,20
+2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,valtteri-bottas,Valtteri Bottas,mercedes,4,52,4,0,4,1331.314808,1336.196092,4.881284,0.842105,0.74448,50.0,20
+2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,5,52,6,0,5,1240.261334,1247.46941,7.208076,0.789474,0.645312,50.0,20
+2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,nico-hulkenberg,Nico Hülkenberg,renault,6,52,11,0,6,1072.736865,1087.866976,15.130111,0.736842,0.43424,50.0,20
+2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,esteban-ocon,Esteban Ocon,force-india,7,52,10,0,7,1105.523687,1115.900199,10.376512,0.684211,0.47668,50.0,20
+2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,fernando-alonso,Fernando Alonso,mclaren,8,52,13,0,8,1070.108503,1080.144955,10.036452,0.631579,0.43085,50.0,20
+2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,kevin-magnussen,Kevin Magnussen,haas,9,52,7,0,9,1089.082947,1095.261521,6.178574,0.578947,0.455376,50.0,20
+2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,sergio-perez,Sergio Pérez,force-india,10,52,12,0,10,1166.860999,1165.401516,-1.459483,0.526316,0.555505,50.0,20
+2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,stoffel-vandoorne,Stoffel Vandoorne,mclaren,11,52,17,0,11,1021.014717,1026.279262,5.264545,0.473684,0.368393,50.0,20
+2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,lance-stroll,Lance Stroll,williams,12,52,PL,0,12,1005.432983,1009.031763,3.59878,0.421053,0.349077,50.0,20
+2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,pierre-gasly,Pierre Gasly,toro-rosso,13,52,14,0,13,1003.012192,1004.128004,1.115812,0.368421,0.346105,50.0,20
+2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,sergey-sirotkin,Sergey Sirotkin,williams,14,52,PL,0,14,954.851737,956.194684,1.342946,0.315789,0.288931,50.0,20
+2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,max-verstappen,Max Verstappen,red-bull,15,46,5,0,15,1256.63591,1236.579707,-20.056203,0.263158,0.664282,50.0,20
+2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,renault,DNF,37,16,1,16,1109.43048,1094.55388,-14.8766,0.184211,0.481743,50.0,20
+2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,romain-grosjean,Romain Grosjean,haas,DNF,37,8,1,17,1035.580394,1025.455569,-10.124825,0.184211,0.386707,50.0,20
+2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,DNF,31,15,1,18,971.720855,961.559184,-10.16167,0.105263,0.308497,50.0,20
+2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,charles-leclerc,Charles Leclerc,sauber,DNF,18,9,1,19,1033.031989,1016.489221,-16.542768,0.052632,0.383487,50.0,20
+2018,10,2018-07-08,great-britain,Formula 1 2018 Rolex British Grand Prix,brendon-hartley,Brendon Hartley,toro-rosso,DNF,1,PL,1,20,940.272594,926.648871,-13.623723,0.0,0.272474,50.0,20

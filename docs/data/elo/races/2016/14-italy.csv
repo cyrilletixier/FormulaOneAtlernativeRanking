@@ -1,23 +1,23 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,nico-rosberg,Nico Rosberg,mercedes,1,53,2,0,1,1838.240665,1843.48788,5.247216,1.0,0.781366,24.0,22
-2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,lewis-hamilton,Lewis Hamilton,mercedes,2,53,1,0,2,1880.923003,1884.09037,3.167368,0.952381,0.820407,24.0,22
-2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,sebastian-vettel,Sebastian Vettel,ferrari,3,53,3,0,3,1812.801394,1816.37433,3.572936,0.904762,0.75589,24.0,22
-2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,kimi-raikkonen,Kimi Räikkönen,ferrari,4,53,4,0,4,1727.581176,1732.325643,4.744466,0.857143,0.659457,24.0,22
-2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,daniel-ricciardo,Daniel Ricciardo,red-bull,5,53,6,0,5,1719.496178,1723.336244,3.840066,0.809524,0.649521,24.0,22
-2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,valtteri-bottas,Valtteri Bottas,williams,6,53,5,0,6,1680.527395,1684.410537,3.883141,0.761905,0.600107,24.0,22
-2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,max-verstappen,Max Verstappen,red-bull,7,53,7,0,7,1615.570139,1620.38281,4.812671,0.714286,0.513758,24.0,22
-2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,sergio-perez,Sergio Pérez,force-india,8,53,8,0,8,1645.88975,1648.581769,2.692019,0.666667,0.554499,24.0,22
-2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,felipe-massa,Felipe Massa,williams,9,53,11,0,9,1639.704366,1641.451885,1.747518,0.619048,0.546234,24.0,22
-2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,nico-hulkenberg,Nico Hülkenberg,force-india,10,53,9,0,10,1601.181024,1603.032404,1.851379,0.571429,0.494288,24.0,22
-2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,romain-grosjean,Romain Grosjean,haas,11,52,17,0,11,1551.528132,1553.845301,2.317169,0.52381,0.427261,24.0,22
-2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,jenson-button,Jenson Button,mclaren,12,52,14,0,12,1579.011698,1579.297824,0.286126,0.47619,0.464269,24.0,22
-2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,esteban-gutierrez,Esteban Gutiérrez,haas,13,52,10,0,13,1478.913687,1481.207118,2.293431,0.428571,0.333012,24.0,22
-2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,fernando-alonso,Fernando Alonso,mclaren,14,52,12,0,14,1616.247995,1613.038684,-3.209311,0.380952,0.514674,24.0,22
-2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,15,52,15,0,15,1539.63053,1537.757128,-1.873402,0.333333,0.411392,24.0,22
-2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,marcus-ericsson,Marcus Ericsson,sauber,16,52,19,0,16,1452.724632,1452.355482,-0.36915,0.285714,0.301096,24.0,22
-2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,kevin-magnussen,Kevin Magnussen,renault,17,52,21,0,17,1531.13632,1527.247224,-3.889097,0.238095,0.400141,24.0,22
-2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,esteban-ocon,Esteban Ocon,manor,18,51,22,0,18,1498.239267,1494.233609,-4.005658,0.190476,0.357379,24.0,22
-2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,daniil-kvyat,Daniil Kvyat,toro-rosso,DNF,36,16,1,19,1550.230734,1543.44671,-6.784024,0.142857,0.425525,24.0,22
-2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,pascal-wehrlein,Pascal Wehrlein,manor,DNF,26,13,1,20,1464.885571,1459.593383,-5.292188,0.095238,0.315746,24.0,22
-2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,jolyon-palmer,Jolyon Palmer,renault,DNF,7,20,1,21,1474.744656,1468.019319,-6.725337,0.047619,0.327841,24.0,22
-2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,felipe-nasr,Felipe Nasr,sauber,DNF,6,18,1,22,1489.387402,1481.080063,-8.30734,0.0,0.346139,24.0,22
+2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,nico-rosberg,Nico Rosberg,mercedes,1,53,2,0,1,1432.343556,1441.135936,8.79238,1.0,0.824152,50.0,22
+2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,lewis-hamilton,Lewis Hamilton,mercedes,2,53,1,0,2,1481.817931,1486.364725,4.546794,0.952381,0.861445,50.0,22
+2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,sebastian-vettel,Sebastian Vettel,ferrari,3,53,3,0,3,1339.878646,1348.13865,8.260004,0.904762,0.739562,50.0,22
+2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,kimi-raikkonen,Kimi Räikkönen,ferrari,4,53,4,0,4,1278.261882,1287.466636,9.204755,0.857143,0.673048,50.0,22
+2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,daniel-ricciardo,Daniel Ricciardo,red-bull,5,53,6,0,5,1322.025946,1326.448656,4.42271,0.809524,0.72107,50.0,22
+2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,valtteri-bottas,Valtteri Bottas,williams,6,53,5,0,6,1246.663957,1252.947511,6.283554,0.761905,0.636234,50.0,22
+2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,max-verstappen,Max Verstappen,red-bull,7,53,7,0,7,1213.228166,1219.16045,5.932284,0.714286,0.59564,50.0,22
+2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,sergio-perez,Sergio Pérez,force-india,8,53,8,0,8,1212.527907,1216.122522,3.594616,0.666667,0.594774,50.0,22
+2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,felipe-massa,Felipe Massa,williams,9,53,11,0,9,1132.592518,1138.886544,6.294025,0.619048,0.493167,50.0,22
+2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,nico-hulkenberg,Nico Hülkenberg,force-india,10,53,9,0,10,1145.644504,1148.715299,3.070795,0.571429,0.510013,50.0,22
+2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,romain-grosjean,Romain Grosjean,haas,11,52,17,0,11,1084.029794,1088.696061,4.666267,0.52381,0.430484,50.0,22
+2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,jenson-button,Jenson Button,mclaren,12,52,14,0,12,1067.39007,1070.739281,3.34921,0.47619,0.409206,50.0,22
+2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,esteban-gutierrez,Esteban Gutiérrez,haas,13,52,10,0,13,1013.189497,1017.533547,4.34405,0.428571,0.34169,50.0,22
+2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,fernando-alonso,Fernando Alonso,mclaren,14,52,12,0,14,1094.924071,1091.746814,-3.177257,0.380952,0.444498,50.0,22
+2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,15,52,15,0,15,1084.960882,1080.043564,-4.917318,0.333333,0.43168,50.0,22
+2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,marcus-ericsson,Marcus Ericsson,sauber,16,52,19,0,16,961.562643,961.778533,0.21589,0.285714,0.281396,50.0,22
+2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,kevin-magnussen,Kevin Magnussen,renault,17,52,21,0,17,1047.415993,1040.123352,-7.292641,0.238095,0.383948,50.0,22
+2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,esteban-ocon,Esteban Ocon,manor,18,51,22,0,18,998.054074,991.401387,-6.652687,0.190476,0.32353,50.0,22
+2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,daniil-kvyat,Daniil Kvyat,toro-rosso,DNF,36,16,1,19,1077.689845,1063.714882,-13.974963,0.142857,0.422356,50.0,22
+2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,pascal-wehrlein,Pascal Wehrlein,manor,DNF,26,13,1,20,950.253129,941.571411,-8.681718,0.095238,0.268872,50.0,22
+2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,jolyon-palmer,Jolyon Palmer,renault,DNF,7,20,1,21,972.568297,960.257398,-12.310899,0.047619,0.293837,50.0,22
+2016,14,2016-09-04,italy,Formula 1 Gran Premio Heineken d'Italia 2016,felipe-nasr,Felipe Nasr,sauber,DNF,6,18,1,22,994.565511,978.59566,-15.969851,0.0,0.319397,50.0,22

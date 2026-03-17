@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,max-verstappen,Max Verstappen,red-bull,1,44,14,0,1,1841.733759,1847.118255,5.384496,1.0,0.775646,24.0,20
-2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,sergio-perez,Sergio Pérez,red-bull,2,44,2,0,2,1711.708532,1719.355386,7.646854,0.947368,0.62875,24.0,20
-2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,3,44,1,0,3,1705.937572,1712.496278,6.558706,0.894737,0.621457,24.0,20
-2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,george-russell,George Russell,mercedes,4,44,5,0,4,1578.773913,1588.112027,9.338114,0.842105,0.453017,24.0,20
-2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,fernando-alonso,Fernando Alonso,alpine,5,44,3,0,5,1599.240904,1606.65616,7.415256,0.789474,0.480505,24.0,20
-2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,charles-leclerc,Charles Leclerc,ferrari,6,44,15,0,6,1702.382825,1705.260456,2.877631,0.736842,0.616941,24.0,20
-2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,esteban-ocon,Esteban Ocon,alpine,7,44,16,0,7,1623.862948,1627.957046,4.094098,0.684211,0.513623,24.0,20
-2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,sebastian-vettel,Sebastian Vettel,aston-martin,8,44,10,0,8,1608.969326,1612.28093,3.311604,0.631579,0.493595,24.0,20
-2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,pierre-gasly,Pierre Gasly,alphatauri,9,44,PL,0,9,1589.423706,1592.103112,2.679407,0.578947,0.467305,24.0,20
-2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,alexander-albon,Alexander Albon,williams,10,44,6,0,10,1577.240503,1579.048955,1.808452,0.526316,0.450964,24.0,20
-2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,lance-stroll,Lance Stroll,aston-martin,11,44,9,0,11,1545.167492,1546.735417,1.567925,0.473684,0.408354,24.0,20
-2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,lando-norris,Lando Norris,mclaren,12,44,17,0,12,1673.805608,1669.990489,-3.815119,0.421053,0.580016,24.0,20
-2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,yuki-tsunoda,Yuki Tsunoda,alphatauri,13,44,20,0,13,1480.064326,1481.095327,1.031001,0.368421,0.325463,24.0,20
-2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,guanyu-zhou,Guanyu Zhou,alfa-romeo,14,44,18,0,14,1481.047386,1480.786392,-0.260994,0.315789,0.326664,24.0,20
-2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,daniel-ricciardo,Daniel Ricciardo,mclaren,15,44,7,0,15,1629.607166,1623.410957,-6.19621,0.263158,0.521333,24.0,20
-2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,kevin-magnussen,Kevin Magnussen,haas,16,43,12,0,16,1460.054351,1457.873055,-2.181296,0.210526,0.301414,24.0,20
-2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,mick-schumacher,Mick Schumacher,haas,17,43,19,0,17,1434.151307,1431.423974,-2.727333,0.157895,0.271534,24.0,20
-2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,nicholas-latifi,Nicholas Latifi,williams,18,43,11,0,18,1412.625912,1409.203072,-3.42284,0.105263,0.247881,24.0,20
-2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,valtteri-bottas,Valtteri Bottas,alfa-romeo,DNF,1,13,1,19,1723.714156,1709.527317,-14.186838,0.052632,0.64375,24.0,20
-2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,lewis-hamilton,Lewis Hamilton,mercedes,DNF,0,4,1,20,1957.052926,1936.13001,-20.922916,0.0,0.871788,24.0,20
+2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,max-verstappen,Max Verstappen,red-bull,1,44,14,0,1,1429.103482,1438.180838,9.077356,1.0,0.818453,50.0,20
+2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,sergio-perez,Sergio Pérez,red-bull,2,44,2,0,2,1269.997269,1284.609483,14.612214,0.947368,0.655124,50.0,20
+2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,3,44,1,0,3,1269.470281,1281.482264,12.011983,0.894737,0.654497,50.0,20
+2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,george-russell,George Russell,mercedes,4,44,5,0,4,1198.943919,1212.69569,13.751771,0.842105,0.56707,50.0,20
+2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,fernando-alonso,Fernando Alonso,alpine,5,44,3,0,5,1161.857983,1175.373144,13.515161,0.789474,0.51917,50.0,20
+2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,charles-leclerc,Charles Leclerc,ferrari,6,44,15,0,6,1259.083962,1263.823652,4.73969,0.736842,0.642048,50.0,20
+2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,esteban-ocon,Esteban Ocon,alpine,7,44,16,0,7,1184.799326,1191.564979,6.765653,0.684211,0.548897,50.0,20
+2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,sebastian-vettel,Sebastian Vettel,aston-martin,8,44,10,0,8,1097.828425,1107.61318,9.784754,0.631579,0.435884,50.0,20
+2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,pierre-gasly,Pierre Gasly,alphatauri,9,44,PL,0,9,1109.651101,1116.039176,6.388075,0.578947,0.451186,50.0,20
+2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,alexander-albon,Alexander Albon,williams,10,44,6,0,10,1089.177453,1094.256259,5.078807,0.526316,0.42474,50.0,20
+2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,lance-stroll,Lance Stroll,aston-martin,11,44,9,0,11,1081.107724,1084.072267,2.964543,0.473684,0.414393,50.0,20
+2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,lando-norris,Lando Norris,mclaren,12,44,17,0,12,1230.550632,1221.252112,-9.29852,0.421053,0.607023,50.0,20
+2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,yuki-tsunoda,Yuki Tsunoda,alphatauri,13,44,20,0,13,984.244061,987.845063,3.601002,0.368421,0.296401,50.0,20
+2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,guanyu-zhou,Guanyu Zhou,alfa-romeo,14,44,18,0,14,981.76753,982.877717,1.110187,0.315789,0.293586,50.0,20
+2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,daniel-ricciardo,Daniel Ricciardo,mclaren,15,44,7,0,15,1136.871995,1125.699232,-11.172763,0.263158,0.486613,50.0,20
+2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,kevin-magnussen,Kevin Magnussen,haas,16,43,12,0,16,971.252682,967.690515,-3.562166,0.210526,0.28177,50.0,20
+2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,mick-schumacher,Mick Schumacher,haas,17,43,19,0,17,944.291423,939.559189,-4.732234,0.157895,0.252539,50.0,20
+2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,nicholas-latifi,Nicholas Latifi,williams,18,43,11,0,18,911.763128,906.052773,-5.710355,0.105263,0.21947,50.0,20
+2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,valtteri-bottas,Valtteri Bottas,alfa-romeo,DNF,1,13,1,19,1196.241791,1170.692875,-25.548916,0.052632,0.56361,50.0,20
+2022,14,2022-08-28,belgium,Formula 1 Rolex Belgian Grand Prix 2022,lewis-hamilton,Lewis Hamilton,mercedes,DNF,0,4,1,20,1492.974012,1449.597771,-43.376241,0.0,0.867525,50.0,20

@@ -1,20 +1,20 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,stirling-moss,Stirling Moss,vanwall,1,87,2,0,1,1583.530931,1593.27055,9.73962,1.0,0.594183,24.0,19
-1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,juan-manuel-fangio,Juan Manuel Fangio,maserati,2,87,4,0,2,1721.437335,1725.606967,4.169632,0.944444,0.77071,24.0,19
-1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,wolfgang-von-trips,Wolfgang von Trips,ferrari,3,85,8,0,3,1495.503154,1505.679967,10.176812,0.888889,0.464855,24.0,19
-1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,masten-gregory,Masten Gregory,maserati,4,84,11,0,4,1521.986452,1529.88854,7.902089,0.833333,0.50408,24.0,19
-1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,giorgio-scarlatti,Giorgio Scarlatti,maserati,5,84,12,0,5,1497.834169,1504.594967,6.760797,0.75,0.4683,24.0,19
-1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,harry-schell,Harry Schell,maserati,5,,,0,6,1506.907574,1513.346066,6.438491,0.75,0.48173,24.0,19
-1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,mike-hawthorn,Mike Hawthorn,ferrari,6,83,10,0,7,1564.81192,1567.200561,2.388641,0.666667,0.56714,24.0,19
-1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,tony-brooks,Tony Brooks,vanwall,7,82,3,0,8,1503.66621,1506.88658,3.22037,0.611111,0.476929,24.0,19
-1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,luigi-musso,Luigi Musso,ferrari,8,82,9,0,9,1533.159887,1533.998171,0.838284,0.555556,0.520627,24.0,19
-1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,paco-godia,Paco Godia,maserati,9,81,15,0,10,1518.526737,1518.551907,0.02517,0.5,0.498951,24.0,19
-1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,horace-gould,Horace Gould,maserati,10,78,18,0,11,1447.625351,1448.809947,1.184596,0.444444,0.395086,24.0,19
-1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,andre-simon,André Simon,maserati,11,72,16,0,12,1482.779279,1480.739447,-2.039832,0.361111,0.446104,24.0,19
-1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,ottorino-volonterio,Ottorino Volonterio,maserati,11,,,0,13,1496.874647,1494.336153,-2.538494,0.361111,0.466882,24.0,19
-1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,peter-collins,Peter Collins,ferrari,DNF,62,7,1,14,1533.996314,1528.138238,-5.858076,0.277778,0.521864,24.0,19
-1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,jean-behra,Jean Behra,maserati,DNF,50,5,1,15,1548.115585,1540.424219,-7.691366,0.222222,0.542696,24.0,19
-1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,stuart-lewis-evans,Stuart Lewis-Evans,vanwall,DNF,49,1,1,16,1506.638271,1499.086337,-7.551934,0.166667,0.481331,24.0,19
-1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,bruce-halford,Bruce Halford,maserati,DNF,47,14,1,17,1485.748485,1477.603864,-8.14462,0.111111,0.45047,24.0,19
-1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,jo-bonnier,Jo Bonnier,maserati,DNF,31,13,1,18,1476.011113,1466.876174,-9.134938,0.055556,0.436178,24.0,19
-1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,luigi-piotti,Luigi Piotti,maserati,DNF,3,17,1,19,1459.313944,1449.428701,-9.885243,0.0,0.411885,24.0,19
+1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,stirling-moss,Stirling Moss,vanwall,1,87,2,0,1,1150.530018,1167.431492,16.901474,1.0,0.661971,50.0,19
+1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,juan-manuel-fangio,Juan Manuel Fangio,maserati,2,87,4,0,2,1312.731815,1318.075325,5.34351,0.944444,0.837574,50.0,19
+1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,wolfgang-von-trips,Wolfgang von Trips,ferrari,3,85,8,0,3,994.55965,1016.832538,22.272888,0.888889,0.443431,50.0,19
+1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,masten-gregory,Masten Gregory,maserati,4,84,11,0,4,1045.906258,1061.710077,15.803819,0.833333,0.517257,50.0,19
+1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,giorgio-scarlatti,Giorgio Scarlatti,maserati,5,84,12,0,5,1001.414536,1016.252485,14.837949,0.75,0.453241,50.0,19
+1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,harry-schell,Harry Schell,maserati,5,,,0,6,1038.730968,1050.88428,12.153312,0.75,0.506934,50.0,19
+1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,mike-hawthorn,Mike Hawthorn,ferrari,6,83,10,0,7,1086.28269,1090.876948,4.594257,0.666667,0.574782,50.0,19
+1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,tony-brooks,Tony Brooks,vanwall,7,82,3,0,8,1011.133778,1018.329642,7.195864,0.611111,0.467194,50.0,19
+1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,luigi-musso,Luigi Musso,ferrari,8,82,9,0,9,1068.194903,1068.514164,0.319261,0.555556,0.54917,50.0,19
+1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,paco-godia,Paco Godia,maserati,9,81,15,0,10,1039.70457,1039.287804,-0.416766,0.5,0.508335,50.0,19
+1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,horace-gould,Horace Gould,maserati,10,78,18,0,11,909.570981,915.466895,5.895914,0.444444,0.326526,50.0,19
+1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,andre-simon,André Simon,maserati,11,72,16,0,12,971.93913,969.428198,-2.510932,0.361111,0.41133,50.0,19
+1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,ottorino-volonterio,Ottorino Volonterio,maserati,11,,,0,13,996.151023,991.921288,-4.229735,0.361111,0.445706,50.0,19
+1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,peter-collins,Peter Collins,ferrari,DNF,62,7,1,14,1089.099387,1074.051358,-15.048029,0.277778,0.578738,50.0,19
+1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,jean-behra,Jean Behra,maserati,DNF,50,5,1,15,1092.296217,1074.246454,-18.049762,0.222222,0.583217,50.0,19
+1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,stuart-lewis-evans,Stuart Lewis-Evans,vanwall,DNF,49,1,1,16,1015.573251,1000.227605,-15.345646,0.166667,0.47358,50.0,19
+1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,bruce-halford,Bruce Halford,maserati,DNF,47,14,1,17,977.533665,962.128079,-15.405586,0.111111,0.419223,50.0,19
+1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,jo-bonnier,Jo Bonnier,maserati,DNF,31,13,1,18,956.645458,939.925866,-16.719592,0.055556,0.389947,50.0,19
+1957,8,1957-09-08,italy,Gran Premio d'Italia 1957,luigi-piotti,Luigi Piotti,maserati,DNF,3,17,1,19,928.736103,911.143902,-17.5922,0.0,0.351844,50.0,19

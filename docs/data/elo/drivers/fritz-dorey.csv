@@ -1,4 +1,4 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1959-07-05,1959,4,france,10,40,22,1500.0,1502.128722,2.128722,0.571429,0.482732,24.0
-1959-07-18,1959,5,great-britain,DNF,57,30,1502.128722,1502.643962,0.51524,0.517241,0.495773,24.0
-1959-12-12,1959,9,united-states,DNF,6,19,1502.643962,1499.172174,-3.471788,0.333333,0.477991,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1959-07-05,1959,4,france,maserati,Maserati,10,40,22,1000.0,1005.401242,5.401242,0.571429,0.463404,50.0
+1959-07-18,1959,5,great-britain,maserati,Maserati,DNF,57,30,1005.401242,1006.722055,1.320813,0.517241,0.490825,50.0
+1959-12-12,1959,9,united-states,tec-mec,Tec-Mec,DNF,6,19,1006.722055,1000.288433,-6.433622,0.333333,0.462006,50.0

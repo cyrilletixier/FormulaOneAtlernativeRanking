@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1957-07-07,1957,4,france,DNF,24,15,1500.0,1493.740025,-6.259975,0.214286,0.475118,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1957-07-07,1957,4,france,brm,BRM,DNF,24,15,1000.0,987.811238,-12.188762,0.214286,0.458061,50.0

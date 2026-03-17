@@ -1,4 +1,4 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1962-12-29,1962,9,south-africa,10,71,17,1500.0,1499.361777,-0.638223,0.4375,0.464093,24.0
-1963-12-28,1963,10,south-africa,DNF,3,21,1499.361777,1491.010233,-8.351545,0.1,0.447981,24.0
-1965-01-01,1965,1,south-africa,DNQ,,28,1491.010233,1482.017925,-8.992307,0.074074,0.448754,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1962-12-29,1962,9,south-africa,lotus,Lotus,10,71,17,1000.0,1000.230309,0.230309,0.4375,0.432894,50.0
+1963-12-28,1963,10,south-africa,lotus,Lotus,DNF,3,21,1000.230309,984.543671,-15.686638,0.1,0.413733,50.0
+1965-01-01,1965,1,south-africa,lotus,Lotus,DNQ,,28,984.543671,967.423251,-17.120419,0.074074,0.416482,50.0

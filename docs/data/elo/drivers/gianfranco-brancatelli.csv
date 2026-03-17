@@ -1,4 +1,4 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1979-04-29,1979,5,spain,DNQ,,27,1500.0,1490.859556,-9.140444,0.038462,0.419313,24.0
-1979-05-13,1979,6,belgium,DNQ,,28,1490.859556,1482.390785,-8.468771,0.055556,0.408421,24.0
-1979-05-27,1979,7,monaco,DNPQ,,25,1482.390785,1477.331889,-5.058896,0.166667,0.377454,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1979-04-29,1979,5,spain,kauhsen,Kauhsen,DNQ,,27,1000.0,982.889358,-17.110642,0.038462,0.380674,50.0
+1979-05-13,1979,6,belgium,kauhsen,Kauhsen,DNQ,,28,982.889358,967.662061,-15.227297,0.055556,0.360101,50.0
+1979-05-27,1979,7,monaco,merzario,Merzario,DNPQ,,25,967.662061,960.090104,-7.571957,0.166667,0.318106,50.0

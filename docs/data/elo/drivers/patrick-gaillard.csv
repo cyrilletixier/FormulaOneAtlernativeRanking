@@ -1,6 +1,6 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1979-07-01,1979,8,france,DNQ,,27,1500.0,1491.152686,-8.847314,0.057692,0.42633,24.0
-1979-07-14,1979,9,great-britain,13,65,26,1491.152686,1493.747039,2.594353,0.52,0.411902,24.0
-1979-07-29,1979,10,germany,DNQ,,26,1493.747039,1484.170002,-9.577037,0.02,0.419043,24.0
-1979-08-12,1979,11,austria,DNF,42,26,1484.170002,1487.830969,3.660967,0.56,0.40746,24.0
-1979-08-26,1979,12,netherlands,DNQ,,26,1487.830969,1478.517749,-9.31322,0.02,0.408051,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1979-07-01,1979,8,france,ensign,Ensign,DNQ,,27,1000.0,983.482576,-16.517424,0.057692,0.388041,50.0
+1979-07-14,1979,9,great-britain,ensign,Ensign,13,65,26,983.482576,991.290782,7.808206,0.52,0.363836,50.0
+1979-07-29,1979,10,germany,ensign,Ensign,DNQ,,26,991.290782,973.24086,-18.049922,0.02,0.380998,50.0
+1979-08-12,1979,11,austria,ensign,Ensign,DNF,42,26,973.24086,983.268345,10.027485,0.56,0.35945,50.0
+1979-08-26,1979,12,netherlands,ensign,Ensign,DNQ,,26,983.268345,965.996263,-17.272082,0.02,0.365442,50.0

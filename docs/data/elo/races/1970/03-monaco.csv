@@ -1,22 +1,22 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,jochen-rindt,Jochen Rindt,lotus,1,80,8,0,1,1522.338685,1534.891115,12.55243,1.0,0.476982,24.0,21
-1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,jack-brabham,Jack Brabham,brabham,2,80,4,0,2,1590.254634,1599.210828,8.956193,0.95,0.576825,24.0,21
-1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,henri-pescarolo,Henri Pescarolo,matra,3,80,7,0,3,1514.669997,1525.093807,10.42381,0.9,0.465675,24.0,21
-1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,denny-hulme,Denny Hulme,mclaren,4,80,3,0,4,1614.756534,1620.471645,5.715111,0.85,0.61187,24.0,21
-1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,graham-hill,Graham Hill,lotus,5,79,16,0,5,1630.721378,1634.700982,3.979605,0.8,0.634183,24.0,21
-1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,pedro-rodriguez,Pedro Rodríguez,brm,6,78,15,0,6,1559.045825,1564.296907,5.251082,0.75,0.531205,24.0,21
-1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,ronnie-peterson,Ronnie Peterson,march,7,78,12,0,7,1500.0,1506.140716,6.140716,0.7,0.444137,24.0,21
-1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,jo-siffert,Jo Siffert,march,8,76,11,0,8,1535.940633,1539.610685,3.670052,0.65,0.497081,24.0,21
-1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,chris-amon,Chris Amon,march,DNF,60,2,1,9,1504.933459,1508.500745,3.567286,0.6,0.451363,24.0,21
-1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,piers-courage,Piers Courage,de-tomaso,NC,58,9,1,10,1498.866838,1501.447322,2.580484,0.55,0.44248,24.0,21
-1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,jackie-stewart,Jackie Stewart,march,DNF,57,1,1,11,1651.957652,1648.0438,-3.913852,0.5,0.663077,24.0,21
-1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,jackie-oliver,Jackie Oliver,brm,DNF,42,14,1,12,1454.994311,1456.686657,1.692346,0.45,0.379486,24.0,21
-1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,DNF,21,6,1,13,1572.318174,1568.701262,-3.616912,0.4,0.550705,24.0,21
-1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,bruce-mclaren,Bruce McLaren,mclaren,DNF,19,10,1,14,1570.159644,1565.418648,-4.740996,0.35,0.547542,24.0,21
-1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,john-surtees,John Surtees,mclaren,DNF,14,13,1,15,1542.49367,1537.531192,-4.962478,0.3,0.50677,24.0,21
-1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,jacky-ickx,Jacky Ickx,ferrari,DNF,11,5,1,16,1569.088276,1561.984991,-7.103285,0.25,0.54597,24.0,21
-1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,andrea-de-adamich,Andrea de Adamich,mclaren,DNQ,,,2,17,1486.500327,1478.712899,-7.787428,0.1,0.424476,24.0,21
-1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,george-eaton,George Eaton,brm,DNQ,,,2,18,1484.480484,1476.763259,-7.717225,0.1,0.421551,24.0,21
-1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,john-miles,John Miles,lotus,DNQ,,,2,19,1477.631814,1470.15174,-7.480074,0.1,0.41167,24.0,21
-1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,johnny-servoz-gavin,Johnny Servoz-Gavin,march,DNQ,,,2,20,1516.956403,1508.099367,-8.857036,0.1,0.469043,24.0,21
-1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,rolf-stommelen,Rolf Stommelen,brabham,DNQ,,,2,21,1502.577292,1494.227464,-8.349828,0.1,0.447909,24.0,21
+1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,jochen-rindt,Jochen Rindt,lotus,1,80,8,0,1,1055.086905,1080.351479,25.264573,1.0,0.494709,50.0,21
+1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,jack-brabham,Jack Brabham,brabham,2,80,4,0,2,1121.507562,1139.513417,18.005855,0.95,0.589883,50.0,21
+1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,henri-pescarolo,Henri Pescarolo,matra,3,80,7,0,3,1036.756934,1058.346066,21.589132,0.9,0.468217,50.0,21
+1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,denny-hulme,Denny Hulme,mclaren,4,80,3,0,4,1149.033364,1160.134709,11.101345,0.85,0.627973,50.0,21
+1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,graham-hill,Graham Hill,lotus,5,79,16,0,5,1168.761711,1176.038602,7.276891,0.8,0.654462,50.0,21
+1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,pedro-rodriguez,Pedro Rodríguez,brm,6,78,15,0,6,1093.638909,1103.62305,9.984141,0.75,0.550317,50.0,21
+1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,ronnie-peterson,Ronnie Peterson,march,7,78,12,0,7,1000.0,1014.217155,14.217155,0.7,0.415657,50.0,21
+1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,jo-siffert,Jo Siffert,march,8,76,11,0,8,1048.414893,1056.662024,8.247131,0.65,0.485057,50.0,21
+1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,chris-amon,Chris Amon,march,DNF,60,2,1,9,1020.113578,1027.899328,7.78575,0.6,0.444285,50.0,21
+1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,piers-courage,Piers Courage,de-tomaso,NC,58,9,1,10,1009.632854,1015.666948,6.034094,0.55,0.429318,50.0,21
+1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,jackie-stewart,Jackie Stewart,march,DNF,57,1,1,11,1238.200465,1226.17119,-12.029275,0.5,0.740585,50.0,21
+1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,jackie-oliver,Jackie Oliver,brm,DNF,42,14,1,12,939.106887,944.982237,5.87535,0.45,0.332493,50.0,21
+1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,DNF,21,6,1,13,1129.855854,1119.778007,-10.077846,0.4,0.601557,50.0,21
+1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,bruce-mclaren,Bruce McLaren,mclaren,DNF,19,10,1,14,1103.15984,1092.463727,-10.696113,0.35,0.563922,50.0,21
+1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,john-surtees,John Surtees,mclaren,DNF,14,13,1,15,1039.514514,1030.90468,-8.609834,0.3,0.472197,50.0,21
+1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,jacky-ickx,Jacky Ickx,ferrari,DNF,11,5,1,16,1121.140266,1104.17191,-16.968356,0.25,0.589367,50.0,21
+1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,andrea-de-adamich,Andrea de Adamich,mclaren,DNQ,,,2,17,974.993113,960.955949,-14.037163,0.1,0.380743,50.0,21
+1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,george-eaton,George Eaton,brm,DNQ,,,2,18,973.731991,959.781625,-13.950366,0.1,0.379007,50.0,21
+1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,john-miles,John Miles,lotus,DNQ,,,2,19,968.245033,954.670751,-13.574282,0.1,0.371486,50.0,21
+1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,johnny-servoz-gavin,Johnny Servoz-Gavin,march,DNQ,,,2,20,1045.473152,1026.432935,-19.040217,0.1,0.480804,50.0,21
+1970,3,1970-05-10,monaco,Grand Prix de Monaco 1970,rolf-stommelen,Rolf Stommelen,brabham,DNQ,,,2,21,1008.677794,992.279829,-16.397964,0.1,0.427959,50.0,21

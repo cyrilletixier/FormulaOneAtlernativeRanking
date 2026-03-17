@@ -1,30 +1,30 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,nelson-piquet,Nelson Piquet,brabham,1,52,4,0,1,1647.235818,1655.607992,8.372174,1.0,0.651159,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,rene-arnoux,René Arnoux,ferrari,2,52,3,0,2,1632.913859,1640.885813,7.971953,0.964286,0.632121,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,eddie-cheever,Eddie Cheever,renault,3,52,7,0,3,1546.153748,1556.185245,10.031497,0.928571,0.510592,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,patrick-tambay,Patrick Tambay,ferrari,4,52,2,0,4,1595.723807,1603.207443,7.483636,0.892857,0.581039,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,elio-de-angelis,Elio de Angelis,lotus,5,52,8,0,5,1540.95761,1549.453703,8.496092,0.857143,0.503139,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,derek-warwick,Derek Warwick,toleman,6,52,12,0,6,1446.352422,1457.185397,10.832975,0.821429,0.370055,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,bruno-giacomelli,Bruno Giacomelli,toleman,7,52,14,0,7,1522.829386,1530.235139,7.405754,0.785714,0.477141,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,nigel-mansell,Nigel Mansell,lotus,8,52,11,0,8,1542.835432,1548.695442,5.86001,0.75,0.505833,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,jean-pierre-jarier,Jean-Pierre Jarier,ligier,9,51,19,0,9,1502.650711,1509.033615,6.382905,0.714286,0.448331,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,marc-surer,Marc Surer,arrows,10,51,20,0,10,1587.209835,1589.837644,2.627809,0.678571,0.569079,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,keke-rosberg,Keke Rosberg,williams,11,51,16,0,11,1616.574632,1617.364615,0.789983,0.642857,0.609941,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,johnny-cecotto,Johnny Cecotto,theodore,12,50,26,0,12,1481.967714,1486.480386,4.512672,0.607143,0.419115,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,roberto-guerrero,Roberto Guerrero,theodore,13,50,21,0,13,1447.97335,1452.753785,4.780435,0.571429,0.372244,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,corrado-fabi,Corrado Fabi,osella,DNF,45,25,1,14,1458.118441,1461.710424,3.591983,0.535714,0.386048,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,danny-sullivan,Danny Sullivan,tyrrell,DNF,44,22,1,15,1499.409824,1500.760356,1.350532,0.5,0.443728,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,thierry-boutsen,Thierry Boutsen,arrows,DNF,41,18,1,16,1520.250761,1520.030848,-0.219913,0.464286,0.473449,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,35,9,1,17,1456.183809,1457.267862,1.084052,0.428571,0.383403,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,michele-alboreto,Michele Alboreto,tyrrell,DNF,28,24,1,18,1573.892891,1570.115958,-3.776933,0.392857,0.550229,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,alain-prost,Alain Prost,renault,DNF,26,5,1,19,1670.421938,1662.647841,-7.774097,0.357143,0.681064,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,niki-lauda,Niki Lauda,mclaren,DNF,24,13,1,20,1584.610887,1578.755253,-5.855634,0.321429,0.565413,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,john-watson,John Watson,mclaren,DNF,13,15,1,21,1666.089954,1656.733443,-9.356511,0.285714,0.675569,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNF,10,23,1,22,1429.418882,1427.079331,-2.339551,0.25,0.347481,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,mauro-baldi,Mauro Baldi,alfa-romeo,DNF,4,10,1,23,1521.179034,1514.498654,-6.68038,0.196429,0.474778,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,stefan-johansson,Stefan Johansson,spirit,DNF,4,17,1,24,1488.841581,1483.26518,-5.576401,0.196429,0.428779,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,DNF,2,6,1,25,1527.502568,1518.890454,-8.612114,0.125,0.483838,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,riccardo-patrese,Riccardo Patrese,brabham,DNF,2,1,1,26,1545.523437,1536.290914,-9.232523,0.125,0.509688,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,jacques-laffite,Jacques Laffite,williams,DNQ,,,2,27,1630.779538,1616.534676,-14.244862,0.035714,0.62925,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,kenny-acheson,Kenny Acheson,ram,DNQ,,,2,28,1462.71352,1454.154114,-8.559406,0.035714,0.392356,24.0,29
-1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,raul-boesel,Raul Boesel,ligier,DNQ,,,2,29,1486.255269,1476.909133,-9.346136,0.035714,0.425137,24.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,nelson-piquet,Nelson Piquet,brabham,1,52,4,0,1,1190.856962,1207.160104,16.303141,1.0,0.673937,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,rene-arnoux,René Arnoux,ferrari,2,52,3,0,2,1206.265607,1219.841237,13.57563,0.964286,0.692773,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,eddie-cheever,Eddie Cheever,renault,3,52,7,0,3,1092.584464,1111.814204,19.229741,0.928571,0.543977,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,patrick-tambay,Patrick Tambay,ferrari,4,52,2,0,4,1156.214911,1169.36744,13.152529,0.892857,0.629807,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,elio-de-angelis,Elio de Angelis,lotus,5,52,8,0,5,1018.867553,1039.638535,20.770982,0.857143,0.441723,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,derek-warwick,Derek Warwick,toleman,6,52,12,0,6,977.716368,999.492284,21.775916,0.821429,0.38591,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,bruno-giacomelli,Bruno Giacomelli,toleman,7,52,14,0,7,1033.324687,1049.525749,16.201062,0.785714,0.461693,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,nigel-mansell,Nigel Mansell,lotus,8,52,11,0,8,1081.287144,1092.370015,11.082871,0.75,0.528343,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,jean-pierre-jarier,Jean-Pierre Jarier,ligier,9,51,19,0,9,1003.759984,1018.4232,14.663215,0.714286,0.421021,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,marc-surer,Marc Surer,arrows,10,51,20,0,10,1129.47046,1133.682632,4.212172,0.678571,0.594328,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,keke-rosberg,Keke Rosberg,williams,11,51,16,0,11,1199.848277,1197.7415,-2.106778,0.642857,0.684993,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,johnny-cecotto,Johnny Cecotto,theodore,12,50,26,0,12,972.341632,983.759906,11.418275,0.607143,0.378777,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,roberto-guerrero,Roberto Guerrero,theodore,13,50,21,0,13,951.233916,962.244439,11.010523,0.571429,0.351218,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,corrado-fabi,Corrado Fabi,osella,DNF,45,25,1,14,943.482643,953.203453,9.720809,0.535714,0.341298,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,danny-sullivan,Danny Sullivan,tyrrell,DNF,44,22,1,15,1005.624314,1009.446073,3.821759,0.5,0.423565,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,thierry-boutsen,Thierry Boutsen,arrows,DNF,41,18,1,16,1047.318155,1046.476562,-0.841593,0.464286,0.481118,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,35,9,1,17,956.01568,959.57456,3.55888,0.428571,0.357394,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,michele-alboreto,Michele Alboreto,tyrrell,DNF,28,24,1,18,1114.628351,1105.559826,-9.068524,0.392857,0.574228,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,alain-prost,Alain Prost,renault,DNF,26,5,1,19,1261.075934,1241.177173,-19.898761,0.357143,0.755118,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,niki-lauda,Niki Lauda,mclaren,DNF,24,13,1,20,1080.238006,1069.965056,-10.27295,0.321429,0.526888,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,john-watson,John Watson,mclaren,DNF,13,15,1,21,1206.862016,1186.473159,-20.388857,0.285714,0.693491,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNF,10,23,1,22,896.003381,894.337066,-1.666315,0.25,0.283326,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,mauro-baldi,Mauro Baldi,alfa-romeo,DNF,4,10,1,23,1062.026792,1046.76927,-15.257522,0.196429,0.501579,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,stefan-johansson,Stefan Johansson,spirit,DNF,4,17,1,24,990.496473,980.166155,-10.330319,0.196429,0.403035,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,DNF,2,6,1,25,1062.847092,1043.961078,-18.886015,0.125,0.50272,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,riccardo-patrese,Riccardo Patrese,brabham,DNF,2,1,1,26,1061.662941,1042.859303,-18.803638,0.125,0.501073,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,jacques-laffite,Jacques Laffite,williams,DNQ,,,2,27,1147.39606,1118.270439,-29.125621,0.035714,0.618227,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,kenny-acheson,Kenny Acheson,ram,DNQ,,,2,28,931.272527,916.762567,-14.50996,0.035714,0.325913,50.0,29
+1983,13,1983-09-11,italy,Gran Premio d'Italia 1983,raul-boesel,Raul Boesel,ligier,DNQ,,,2,29,1004.864146,985.523493,-19.340653,0.035714,0.422527,50.0,29

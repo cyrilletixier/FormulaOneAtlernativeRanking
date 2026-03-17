@@ -1,17 +1,17 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,jack-brabham,Jack Brabham,cooper,1,55,3,0,1,1579.855938,1590.030345,10.174407,1.0,0.576066,24.0,16
-1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,bruce-mclaren,Bruce McLaren,cooper,2,55,6,0,2,1572.586528,1581.421759,8.835231,0.933333,0.565199,24.0,16
-1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,jim-clark,Jim Clark,lotus,3,55,8,0,3,1511.367741,1520.830217,9.462476,0.866667,0.472397,24.0,16
-1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,wolfgang-von-trips,Wolfgang von Trips,ferrari,4,55,9,0,4,1539.774434,1546.600191,6.825757,0.8,0.515593,24.0,16
-1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,tony-brooks,Tony Brooks,cooper,5,49,12,0,5,1523.06271,1528.898639,5.835929,0.733333,0.49017,24.0,16
-1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,innes-ireland,Innes Ireland,lotus,6,48,7,0,6,1519.660948,1524.021043,4.360095,0.666667,0.484996,24.0,16
-1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,olivier-gendebien,Olivier Gendebien,cooper,7,46,14,0,7,1528.82216,1531.24778,2.425621,0.6,0.498932,24.0,16
-1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,mario-de-araujo-cabral,Mário de Araújo Cabral,cooper,DNF,37,15,1,8,1498.343652,1500.279409,1.935756,0.533333,0.452677,24.0,16
-1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,john-surtees,John Surtees,lotus,DNF,36,1,1,9,1511.303881,1511.168683,-0.135197,0.466667,0.4723,24.0,16
-1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,phil-hill,Phil Hill,ferrari,DNF,29,10,1,10,1570.233198,1566.353159,-3.88004,0.4,0.561668,24.0,16
-1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,dan-gurney,Dan Gurney,brm,DNF,24,2,1,11,1517.232867,1513.681549,-3.551318,0.333333,0.481305,24.0,16
-1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,masten-gregory,Masten Gregory,cooper,DNF,21,11,1,12,1519.250143,1514.025228,-5.224915,0.266667,0.484371,24.0,16
-1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,graham-hill,Graham Hill,brm,DNF,8,5,1,13,1472.512783,1467.376914,-5.135869,0.2,0.413995,24.0,16
-1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,jo-bonnier,Jo Bonnier,brm,DNF,6,13,1,14,1491.898301,1484.467217,-7.431085,0.133333,0.442962,24.0,16
-1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,stirling-moss,Stirling Moss,lotus,DSQ,50,4,2,15,1594.423398,1581.679941,-12.743458,0.066667,0.597644,24.0,16
-1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,henry-taylor,Henry Taylor,cooper,DNS,,,2,16,1522.770173,1511.016782,-11.753391,0.0,0.489725,24.0,16
+1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,jack-brabham,Jack Brabham,cooper,1,55,3,0,1,1149.244705,1167.407991,18.163287,1.0,0.636734,50.0,16
+1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,bruce-mclaren,Bruce McLaren,cooper,2,55,6,0,2,1133.542614,1149.4889,15.946286,0.933333,0.614408,50.0,16
+1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,jim-clark,Jim Clark,lotus,3,55,8,0,3,1025.954244,1046.567017,20.612773,0.866667,0.454411,50.0,16
+1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,wolfgang-von-trips,Wolfgang von Trips,ferrari,4,55,9,0,4,1076.030694,1089.54916,13.518465,0.8,0.529631,50.0,16
+1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,tony-brooks,Tony Brooks,cooper,5,49,12,0,5,1040.695263,1053.536785,12.841523,0.733333,0.476503,50.0,16
+1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,innes-ireland,Innes Ireland,lotus,6,48,7,0,6,1051.267541,1059.980925,8.713385,0.666667,0.492399,50.0,16
+1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,olivier-gendebien,Olivier Gendebien,cooper,7,46,14,0,7,1065.086289,1069.426775,4.340486,0.6,0.51319,50.0,16
+1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,mario-de-araujo-cabral,Mário de Araújo Cabral,cooper,DNF,37,15,1,8,998.178952,1004.182887,6.003935,0.533333,0.413255,50.0,16
+1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,john-surtees,John Surtees,lotus,DNF,36,1,1,9,1025.334692,1025.993749,0.659058,0.466667,0.453486,50.0,16
+1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,phil-hill,Phil Hill,ferrari,DNF,29,10,1,10,1119.138059,1109.460427,-9.677632,0.4,0.593553,50.0,16
+1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,dan-gurney,Dan Gurney,brm,DNF,24,2,1,11,1034.9041,1028.180237,-6.723863,0.333333,0.467811,50.0,16
+1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,masten-gregory,Masten Gregory,cooper,DNF,21,11,1,12,1030.819756,1021.0686,-9.751156,0.266667,0.46169,50.0,16
+1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,graham-hill,Graham Hill,brm,DNF,8,5,1,13,973.87884,964.975861,-8.902979,0.2,0.37806,50.0,16
+1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,jo-bonnier,Jo Bonnier,brm,DNF,6,13,1,14,1008.426313,993.675691,-14.750623,0.133333,0.428346,50.0,16
+1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,stirling-moss,Stirling Moss,lotus,DSQ,50,4,2,15,1122.412503,1095.829759,-26.582745,0.066667,0.598322,50.0,16
+1960,8,1960-08-14,portugal,Grande Prémio de Portugal 1960,henry-taylor,Henry Taylor,cooper,DNS,,,2,16,1048.479057,1024.068857,-24.4102,0.0,0.488204,50.0,16

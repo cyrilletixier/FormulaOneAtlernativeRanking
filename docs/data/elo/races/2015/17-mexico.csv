@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,nico-rosberg,Nico Rosberg,mercedes,1,71,1,0,1,1793.02863,1799.404758,6.376129,1.0,0.734328,24.0,20
-2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,lewis-hamilton,Lewis Hamilton,mercedes,2,71,2,0,2,1852.973194,1856.616451,3.643257,0.947368,0.795566,24.0,20
-2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,valtteri-bottas,Valtteri Bottas,williams,3,71,6,0,3,1651.737184,1659.785064,8.04788,0.894737,0.559408,24.0,20
-2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,daniil-kvyat,Daniil Kvyat,red-bull,4,71,4,0,4,1563.304474,1572.975694,9.671219,0.842105,0.439138,24.0,20
-2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,daniel-ricciardo,Daniel Ricciardo,red-bull,5,71,5,0,5,1639.429146,1645.348928,5.919782,0.789474,0.542816,24.0,20
-2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,felipe-massa,Felipe Massa,williams,6,71,7,0,6,1683.248194,1686.502905,3.25471,0.736842,0.601229,24.0,20
-2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,nico-hulkenberg,Nico Hülkenberg,force-india,7,71,10,0,7,1574.7115,1580.221425,5.509925,0.684211,0.45463,24.0,20
-2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,sergio-perez,Sergio Pérez,force-india,8,71,9,0,8,1617.250323,1620.103826,2.853503,0.631579,0.512683,24.0,20
-2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,max-verstappen,Max Verstappen,toro-rosso,9,71,8,0,9,1538.93447,1543.077094,4.142624,0.578947,0.406338,24.0,20
-2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,romain-grosjean,Romain Grosjean,lotus-f1,10,71,12,0,10,1534.191706,1537.222864,3.031158,0.526316,0.400018,24.0,20
-2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,pastor-maldonado,Pastor Maldonado,lotus-f1,11,71,13,0,11,1470.843926,1474.566049,3.722124,0.473684,0.318596,24.0,20
-2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,marcus-ericsson,Marcus Ericsson,sauber,12,71,14,0,12,1468.605457,1471.130431,2.524974,0.421053,0.315845,24.0,20
-2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,13,71,11,0,13,1514.821096,1514.675771,-0.145325,0.368421,0.374476,24.0,20
-2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,jenson-button,Jenson Button,mclaren,14,71,20,0,14,1617.465647,1612.733157,-4.73249,0.315789,0.512977,24.0,20
-2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,alexander-rossi,Alexander Rossi,marussia,15,69,16,0,15,1494.864018,1492.810775,-2.053243,0.263158,0.34871,24.0,20
-2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,will-stevens,Will Stevens,marussia,16,69,17,0,16,1443.007036,1441.216152,-1.790884,0.210526,0.285146,24.0,20
-2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,felipe-nasr,Felipe Nasr,sauber,DNF,57,15,1,17,1524.972806,1519.454992,-5.517814,0.157895,0.387804,24.0,20
-2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,sebastian-vettel,Sebastian Vettel,ferrari,DNF,50,3,1,18,1857.504797,1840.835418,-16.669379,0.105263,0.799821,24.0,20
-2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,21,19,1,19,1706.708395,1692.814592,-13.893802,0.052632,0.63154,24.0,20
-2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,fernando-alonso,Fernando Alonso,mclaren,DNF,1,18,1,20,1666.345759,1652.45141,-13.894349,0.0,0.578931,24.0,20
+2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,nico-rosberg,Nico Rosberg,mercedes,1,71,1,0,1,1374.555467,1385.752075,11.196608,1.0,0.776068,50.0,20
+2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,lewis-hamilton,Lewis Hamilton,mercedes,2,71,2,0,2,1459.946596,1464.873673,4.927077,0.947368,0.848827,50.0,20
+2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,valtteri-bottas,Valtteri Bottas,williams,3,71,6,0,3,1226.38528,1240.559212,14.173932,0.894737,0.611258,50.0,20
+2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,daniil-kvyat,Daniil Kvyat,red-bull,4,71,4,0,4,1136.244591,1153.621762,17.377171,0.842105,0.494562,50.0,20
+2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,daniel-ricciardo,Daniel Ricciardo,red-bull,5,71,5,0,5,1194.679936,1205.601833,10.921897,0.789474,0.571036,50.0,20
+2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,felipe-massa,Felipe Massa,williams,6,71,7,0,6,1208.787407,1216.175362,7.387955,0.736842,0.589083,50.0,20
+2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,nico-hulkenberg,Nico Hülkenberg,force-india,7,71,10,0,7,1080.672221,1093.819929,13.147708,0.684211,0.421256,50.0,20
+2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,sergio-perez,Sergio Pérez,force-india,8,71,9,0,8,1183.112176,1186.886874,3.774697,0.631579,0.556085,50.0,20
+2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,max-verstappen,Max Verstappen,toro-rosso,9,71,8,0,9,1093.301774,1100.357946,7.056173,0.578947,0.437824,50.0,20
+2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,romain-grosjean,Romain Grosjean,lotus-f1,10,71,12,0,10,1055.938672,1062.796425,6.857752,0.526316,0.389161,50.0,20
+2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,pastor-maldonado,Pastor Maldonado,lotus-f1,11,71,13,0,11,1008.183071,1015.405622,7.222551,0.473684,0.329233,50.0,20
+2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,marcus-ericsson,Marcus Ericsson,sauber,12,71,14,0,12,991.350041,996.953931,5.60389,0.421053,0.308975,50.0,20
+2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,13,71,11,0,13,1043.961757,1043.690791,-0.270966,0.368421,0.37384,50.0,20
+2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,jenson-button,Jenson Button,mclaren,14,71,20,0,14,1097.946979,1091.539493,-6.407486,0.315789,0.443939,50.0,20
+2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,alexander-rossi,Alexander Rossi,marussia,15,69,16,0,15,994.699938,992.209601,-2.490337,0.263158,0.312965,50.0,20
+2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,will-stevens,Will Stevens,marussia,16,69,17,0,16,921.526642,920.488312,-1.03833,0.210526,0.231293,50.0,20
+2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,felipe-nasr,Felipe Nasr,sauber,DNF,57,15,1,17,1058.829047,1047.079685,-11.749362,0.157895,0.392882,50.0,20
+2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,sebastian-vettel,Sebastian Vettel,ferrari,DNF,50,3,1,18,1430.865232,1394.828987,-36.036245,0.105263,0.825988,50.0,20
+2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,21,19,1,19,1230.761093,1202.557314,-28.203779,0.052632,0.616707,50.0,20
+2015,17,2015-11-01,mexico,Formula 1 Gran Premio de México 2015,fernando-alonso,Fernando Alonso,mclaren,DNF,1,18,1,20,1116.937363,1093.486456,-23.450907,0.0,0.469018,50.0,20

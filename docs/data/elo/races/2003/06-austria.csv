@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,michael-schumacher,Michael Schumacher,ferrari,1,69,1,0,1,1850.59421,1854.296653,3.702443,1.0,0.845732,24.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,kimi-raikkonen,Kimi Räikkönen,mclaren,2,69,2,0,2,1562.273941,1572.860959,10.587018,0.947368,0.506243,24.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,rubens-barrichello,Rubens Barrichello,ferrari,3,69,5,0,3,1690.415807,1695.563372,5.147565,0.894737,0.680255,24.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,jenson-button,Jenson Button,bar,4,69,7,0,4,1554.192574,1562.529826,8.337252,0.842105,0.49472,24.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,david-coulthard,David Coulthard,mclaren,5,69,14,0,5,1690.635346,1693.25003,2.614684,0.789474,0.680529,24.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,ralf-schumacher,Ralf Schumacher,williams,6,68,10,0,6,1660.079644,1662.36949,2.289845,0.736842,0.641432,24.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,mark-webber,Mark Webber,jaguar,7,68,PL,0,7,1471.339404,1478.684993,7.345589,0.684211,0.378144,24.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,jarno-trulli,Jarno Trulli,renault,8,68,6,0,8,1536.346791,1540.24224,3.895449,0.631579,0.469269,24.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,antonio-pizzonia,Antônio Pizzonia,jaguar,9,68,8,0,9,1481.560616,1486.043211,4.482595,0.578947,0.392173,24.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,cristiano-da-matta,Cristiano da Matta,toyota,10,68,13,0,10,1504.823664,1507.264939,2.441275,0.526316,0.424596,24.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,ralph-firman,Ralph Firman,jordan,11,68,16,0,11,1487.378589,1489.141682,1.763093,0.473684,0.400222,24.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,jacques-villeneuve,Jacques Villeneuve,bar,12,68,12,0,12,1540.579332,1539.277362,-1.301969,0.421053,0.475301,24.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,justin-wilson,Justin Wilson,minardi,13,67,18,0,13,1476.977528,1476.558903,-0.418625,0.368421,0.385864,24.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,60,9,1,14,1533.205609,1529.62949,-3.576118,0.315789,0.464794,24.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,nick-heidfeld,Nick Heidfeld,sauber,DNF,46,4,1,15,1544.499881,1539.274251,-5.22563,0.263158,0.480892,24.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,fernando-alonso,Fernando Alonso,renault,DNF,44,PL,1,16,1514.481332,1509.016799,-5.464533,0.210526,0.438215,24.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,32,3,1,17,1608.074475,1598.161683,-9.912792,0.157895,0.570928,24.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,olivier-panis,Olivier Panis,toyota,DNF,6,11,1,18,1496.341346,1488.962773,-7.378572,0.105263,0.412704,24.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,jos-verstappen,Jos Verstappen,minardi,DNF,0,20,1,19,1480.09025,1471.989919,-8.100331,0.052632,0.390145,24.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,DNS,,15,2,20,1535.346356,1524.118118,-11.228238,0.0,0.467843,24.0,20
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,michael-schumacher,Michael Schumacher,ferrari,1,69,1,0,1,1428.81247,1434.785886,5.973416,1.0,0.880532,50.0,20
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,kimi-raikkonen,Kimi Räikkönen,mclaren,2,69,2,0,2,1116.45549,1136.230249,19.774759,0.947368,0.551873,50.0,20
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,rubens-barrichello,Rubens Barrichello,ferrari,3,69,5,0,3,1250.156309,1258.846407,8.690098,0.894737,0.720935,50.0,20
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,jenson-button,Jenson Button,bar,4,69,7,0,4,1091.194233,1107.444123,16.249889,0.842105,0.517107,50.0,20
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,david-coulthard,David Coulthard,mclaren,5,69,14,0,5,1202.11603,1208.384612,6.268581,0.789474,0.664102,50.0,20
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,ralf-schumacher,Ralf Schumacher,williams,6,68,10,0,6,1205.874873,1209.280251,3.405379,0.736842,0.668735,50.0,20
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,mark-webber,Mark Webber,jaguar,7,68,PL,0,7,967.447604,984.241774,16.794169,0.684211,0.348327,50.0,20
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,jarno-trulli,Jarno Trulli,renault,8,68,6,0,8,1070.508669,1077.666727,7.158058,0.631579,0.488418,50.0,20
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,antonio-pizzonia,Antônio Pizzonia,jaguar,9,68,8,0,9,968.75373,980.199889,11.44616,0.578947,0.350024,50.0,20
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,cristiano-da-matta,Cristiano da Matta,toyota,10,68,13,0,10,1016.918545,1022.515363,5.596818,0.526316,0.414379,50.0,20
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,ralph-firman,Ralph Firman,jordan,11,68,16,0,11,982.301154,987.595614,5.29446,0.473684,0.367795,50.0,20
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,jacques-villeneuve,Jacques Villeneuve,bar,12,68,12,0,12,1022.199226,1022.171755,-0.02747,0.421053,0.421602,50.0,20
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,justin-wilson,Justin Wilson,minardi,13,67,18,0,13,961.303556,962.705354,1.401798,0.368421,0.340385,50.0,20
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,60,9,1,14,1045.78918,1038.872957,-6.916223,0.315789,0.454114,50.0,20
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,nick-heidfeld,Nick Heidfeld,sauber,DNF,46,4,1,15,1081.627214,1069.5925,-12.034714,0.263158,0.503852,50.0,20
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,fernando-alonso,Fernando Alonso,renault,DNF,44,PL,1,16,1060.660714,1047.45002,-13.210694,0.210526,0.47474,50.0,20
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,32,3,1,17,1171.150302,1147.801074,-23.349228,0.157895,0.624879,50.0,20
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,olivier-panis,Olivier Panis,toyota,DNF,6,11,1,18,993.246924,979.392097,-13.854827,0.105263,0.38236,50.0,20
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,jos-verstappen,Jos Verstappen,minardi,DNF,0,20,1,19,999.307897,982.414706,-16.89319,0.052632,0.390495,50.0,20
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,DNS,,15,2,20,1032.201799,1010.434561,-21.767238,0.0,0.435345,50.0,20

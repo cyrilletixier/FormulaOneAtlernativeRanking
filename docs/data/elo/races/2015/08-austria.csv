@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,nico-rosberg,Nico Rosberg,mercedes,1,71,2,0,1,1796.694225,1802.998683,6.304458,1.0,0.737314,24.0,20
-2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,lewis-hamilton,Lewis Hamilton,mercedes,2,71,1,0,2,1835.883677,1839.948473,4.064796,0.947368,0.778002,24.0,20
-2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,felipe-massa,Felipe Massa,williams,3,71,4,0,3,1698.470375,1705.047771,6.577396,0.894737,0.620679,24.0,20
-2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,sebastian-vettel,Sebastian Vettel,ferrari,4,71,3,0,4,1839.523437,1840.975836,1.452398,0.842105,0.781589,24.0,20
-2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,valtteri-bottas,Valtteri Bottas,williams,5,71,6,0,5,1643.724715,1649.493048,5.768333,0.789474,0.549126,24.0,20
-2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,nico-hulkenberg,Nico Hülkenberg,force-india,6,71,5,0,6,1602.748145,1608.573124,5.824979,0.736842,0.494135,24.0,20
-2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,pastor-maldonado,Pastor Maldonado,lotus-f1,7,70,10,0,7,1450.104056,1459.394947,9.290891,0.684211,0.29709,24.0,20
-2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,max-verstappen,Max Verstappen,toro-rosso,8,70,7,0,8,1491.340578,1498.161728,6.82115,0.631579,0.347364,24.0,20
-2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,sergio-perez,Sergio Pérez,force-india,9,70,13,0,9,1589.225438,1591.698135,2.472697,0.578947,0.475918,24.0,20
-2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,daniel-ricciardo,Daniel Ricciardo,red-bull,10,70,18,0,10,1653.133421,1652.285837,-0.847584,0.526316,0.561632,24.0,20
-2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,felipe-nasr,Felipe Nasr,sauber,11,70,8,0,11,1519.818986,1521.977434,2.158448,0.473684,0.383749,24.0,20
-2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,daniil-kvyat,Daniil Kvyat,red-bull,12,70,15,0,12,1514.386325,1515.450292,1.063967,0.421053,0.376721,24.0,20
-2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,marcus-ericsson,Marcus Ericsson,sauber,13,69,11,0,13,1452.068933,1453.725192,1.656259,0.368421,0.29941,24.0,20
-2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,roberto-merhi,Roberto Merhi,marussia,14,68,16,0,14,1471.605808,1471.435013,-0.170795,0.315789,0.322906,24.0,20
-2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,35,12,1,15,1513.723026,1510.386472,-3.336554,0.236842,0.375865,24.0,20
-2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,romain-grosjean,Romain Grosjean,lotus-f1,DNF,35,9,1,16,1545.061705,1540.741605,-4.3201,0.236842,0.416846,24.0,20
-2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,jenson-button,Jenson Button,mclaren,DNF,8,20,1,17,1654.804288,1645.061472,-9.742817,0.157895,0.563845,24.0,20
-2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,will-stevens,Will Stevens,marussia,DNF,1,17,1,18,1465.861083,1460.80534,-5.055743,0.105263,0.315919,24.0,20
-2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,fernando-alonso,Fernando Alonso,mclaren,DNF,0,19,1,19,1716.895144,1702.072876,-14.822269,0.026316,0.64391,24.0,20
-2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,0,14,1,20,1728.269025,1713.109113,-15.159912,0.026316,0.657979,24.0,20
+2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,nico-rosberg,Nico Rosberg,mercedes,1,71,2,0,1,1408.223366,1418.091201,9.867835,1.0,0.802643,50.0,20
+2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,lewis-hamilton,Lewis Hamilton,mercedes,2,71,1,0,2,1449.441737,1454.964135,5.522398,0.947368,0.83692,50.0,20
+2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,felipe-massa,Felipe Massa,williams,3,71,4,0,3,1247.086661,1260.118016,13.031355,0.894737,0.63411,50.0,20
+2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,sebastian-vettel,Sebastian Vettel,ferrari,4,71,3,0,4,1401.82445,1404.080889,2.256439,0.842105,0.796976,50.0,20
+2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,valtteri-bottas,Valtteri Bottas,williams,5,71,6,0,5,1245.031204,1252.921915,7.890711,0.789474,0.631659,50.0,20
+2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,nico-hulkenberg,Nico Hülkenberg,force-india,6,71,5,0,6,1134.730172,1146.876552,12.14638,0.736842,0.493915,50.0,20
+2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,pastor-maldonado,Pastor Maldonado,lotus-f1,7,70,10,0,7,958.979985,979.254101,20.274116,0.684211,0.278728,50.0,20
+2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,max-verstappen,Max Verstappen,toro-rosso,8,70,7,0,8,992.089794,1007.851722,15.761927,0.631579,0.31634,50.0,20
+2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,sergio-perez,Sergio Pérez,force-india,9,70,13,0,9,1134.737022,1138.988227,4.251204,0.578947,0.493923,50.0,20
+2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,daniel-ricciardo,Daniel Ricciardo,red-bull,10,70,18,0,10,1246.857918,1241.481839,-5.376078,0.526316,0.633837,50.0,20
+2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,felipe-nasr,Felipe Nasr,sauber,11,70,8,0,11,1045.805002,1050.434917,4.629916,0.473684,0.381086,50.0,20
+2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,daniil-kvyat,Daniil Kvyat,red-bull,12,70,15,0,12,1053.033357,1054.582423,1.549065,0.421053,0.390071,50.0,20
+2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,marcus-ericsson,Marcus Ericsson,sauber,13,69,11,0,13,953.343942,958.138253,4.794311,0.368421,0.272535,50.0,20
+2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,roberto-merhi,Roberto Merhi,marussia,14,68,16,0,14,955.014338,957.085626,2.071289,0.315789,0.274364,50.0,20
+2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,35,12,1,15,1035.810707,1029.215142,-6.595566,0.236842,0.368753,50.0,20
+2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,romain-grosjean,Romain Grosjean,lotus-f1,DNF,35,9,1,16,1079.973419,1070.617489,-9.355931,0.236842,0.423961,50.0,20
+2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,jenson-button,Jenson Button,mclaren,DNF,8,20,1,17,1140.751972,1123.565499,-17.186473,0.157895,0.501624,50.0,20
+2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,will-stevens,Will Stevens,marussia,DNF,1,17,1,18,946.794907,938.787066,-8.007841,0.105263,0.26542,50.0,20
+2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,fernando-alonso,Fernando Alonso,mclaren,DNF,0,19,1,19,1172.739536,1146.935942,-25.803593,0.026316,0.542388,50.0,20
+2015,8,2015-06-21,austria,Formula 1 Rolex Grosser Preis von Österreich 2015,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,0,14,1,20,1269.775906,1238.054443,-31.721464,0.026316,0.660745,50.0,20

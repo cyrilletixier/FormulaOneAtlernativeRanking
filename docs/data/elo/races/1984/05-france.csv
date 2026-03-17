@@ -1,28 +1,28 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1984,5,1984-05-20,france,Grand Prix de France 1984,niki-lauda,Niki Lauda,mclaren,1,79,9,0,1,1575.856882,1586.592009,10.735127,1.0,0.552703,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,patrick-tambay,Patrick Tambay,renault,2,79,1,0,2,1594.624151,1603.795917,9.171766,0.961538,0.579382,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,nigel-mansell,Nigel Mansell,lotus,3,79,6,0,3,1542.752259,1552.78475,10.03249,0.923077,0.505056,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,rene-arnoux,René Arnoux,ferrari,4,79,11,0,4,1635.889232,1641.845881,5.956649,0.884615,0.636422,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,elio-de-angelis,Elio de Angelis,lotus,5,79,2,0,5,1568.455903,1575.753228,7.297326,0.846154,0.542099,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,keke-rosberg,Keke Rosberg,williams,6,78,4,0,6,1616.856385,1621.590336,4.733951,0.807692,0.610444,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,alain-prost,Alain Prost,mclaren,7,78,5,0,7,1671.789715,1673.848499,2.058784,0.769231,0.683448,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,jacques-laffite,Jacques Laffite,williams,8,78,12,0,8,1570.554945,1575.010765,4.455819,0.730769,0.54511,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,teo-fabi,Teo Fabi,brabham,9,78,17,0,9,1441.762122,1449.679904,7.917782,0.692308,0.3624,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,andrea-de-cesaris,Andrea de Cesaris,ligier,10,77,24,0,10,1560.368984,1563.329959,2.960976,0.653846,0.530472,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,thierry-boutsen,Thierry Boutsen,arrows,11,77,14,0,11,1546.295949,1548.820986,2.525037,0.615385,0.510175,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,piercarlo-ghinzani,Piercarlo Ghinzani,osella,12,74,23,0,12,1409.446551,1415.613189,6.166638,0.576923,0.31998,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,jonathan-palmer,Jonathan Palmer,ram,13,72,20,0,13,1514.3232,1516.109293,1.786093,0.538462,0.464041,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,mauro-baldi,Mauro Baldi,spirit,DNF,61,22,1,14,1514.09605,1514.966905,0.870855,0.5,0.463714,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,derek-warwick,Derek Warwick,renault,DNF,53,7,1,15,1521.627785,1521.315313,-0.312472,0.461538,0.474558,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,eddie-cheever,Eddie Cheever,alfa-romeo,DNF,51,16,1,16,1567.546064,1564.259354,-3.28671,0.403846,0.540792,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,marc-surer,Marc Surer,arrows,DNF,51,19,1,17,1596.278618,1592.00975,-4.268868,0.403846,0.581716,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,ayrton-senna,Ayrton Senna,toleman,DNF,35,13,1,18,1501.031112,1498.65924,-2.371872,0.346154,0.444982,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,michele-alboreto,Michele Alboreto,ferrari,DNF,33,10,1,19,1566.142575,1560.596555,-5.546021,0.307692,0.538776,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,johnny-cecotto,Johnny Cecotto,toleman,DNF,22,18,1,20,1477.373251,1473.9601,-3.413151,0.269231,0.411445,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,riccardo-patrese,Riccardo Patrese,alfa-romeo,DNF,15,15,1,21,1551.361448,1544.480213,-6.881236,0.230769,0.517487,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,nelson-piquet,Nelson Piquet,brabham,DNF,11,3,1,22,1654.71979,1643.460595,-11.259195,0.192308,0.661441,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,5,8,1,23,1457.743203,1452.215811,-5.527391,0.153846,0.384154,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,philippe-alliot,Philippe Alliot,ram,DNF,4,21,1,24,1489.113403,1481.610299,-7.503104,0.115385,0.428014,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,francois-hesnault,François Hesnault,ligier,DNS,,,2,25,1492.796832,1484.245135,-8.551698,0.076923,0.433244,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,martin-brundle,Martin Brundle,tyrrell,DSQ,,,2,26,1461.239242,1452.365455,-8.873787,0.019231,0.388972,24.0,27
-1984,5,1984-05-20,france,Grand Prix de France 1984,stefan-bellof,Stefan Bellof,tyrrell,DSQ,,,2,27,1461.239242,1452.365455,-8.873787,0.019231,0.388972,24.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,niki-lauda,Niki Lauda,mclaren,1,79,9,0,1,1076.145454,1100.095332,23.949878,1.0,0.521002,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,patrick-tambay,Patrick Tambay,renault,2,79,1,0,2,1137.859585,1155.635162,17.775576,0.961538,0.606027,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,nigel-mansell,Nigel Mansell,lotus,3,79,6,0,3,1070.124003,1090.648854,20.524852,0.923077,0.51258,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,rene-arnoux,René Arnoux,ferrari,4,79,11,0,4,1195.176202,1205.3872,10.210999,0.884615,0.680395,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,elio-de-angelis,Elio de Angelis,lotus,5,79,2,0,5,1091.407355,1106.600244,15.192889,0.846154,0.542296,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,keke-rosberg,Keke Rosberg,williams,6,78,4,0,6,1177.413139,1184.897308,7.484169,0.807692,0.658009,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,alain-prost,Alain Prost,mclaren,7,78,5,0,7,1242.487776,1244.12648,1.638704,0.769231,0.736457,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,jacques-laffite,Jacques Laffite,williams,8,78,12,0,8,1040.244427,1053.243808,12.999381,0.730769,0.470782,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,teo-fabi,Teo Fabi,brabham,9,78,17,0,9,929.031849,947.53802,18.506171,0.692308,0.322184,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,andrea-de-cesaris,Andrea de Cesaris,ligier,10,77,24,0,10,1120.786553,1124.335851,3.549298,0.653846,0.58286,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,thierry-boutsen,Thierry Boutsen,arrows,11,77,14,0,11,1094.767808,1098.188572,3.420764,0.615385,0.546969,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,piercarlo-ghinzani,Piercarlo Ghinzani,osella,12,74,23,0,12,875.494765,891.389748,15.894983,0.576923,0.259023,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,jonathan-palmer,Jonathan Palmer,ram,13,72,20,0,13,1034.340075,1038.135683,3.795609,0.538462,0.462549,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,mauro-baldi,Mauro Baldi,spirit,DNF,61,22,1,14,1045.398098,1046.499146,1.101048,0.5,0.477979,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,derek-warwick,Derek Warwick,renault,DNF,53,7,1,15,1115.081781,1109.406524,-5.675257,0.461538,0.575044,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,eddie-cheever,Eddie Cheever,alfa-romeo,DNF,51,16,1,16,1120.965456,1112.002525,-8.96293,0.403846,0.583105,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,marc-surer,Marc Surer,arrows,DNF,51,19,1,17,1139.222722,1129.022018,-10.200704,0.403846,0.60786,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,ayrton-senna,Ayrton Senna,toleman,DNF,35,13,1,18,1006.883937,1002.963234,-3.920703,0.346154,0.424568,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,michele-alboreto,Michele Alboreto,ferrari,DNF,33,10,1,19,1095.032672,1083.050419,-11.982254,0.307692,0.547337,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,johnny-cecotto,Johnny Cecotto,toleman,DNF,22,18,1,20,972.03189,966.617997,-5.413892,0.269231,0.377509,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,riccardo-patrese,Riccardo Patrese,alfa-romeo,DNF,15,15,1,21,1073.234423,1058.926305,-14.308118,0.230769,0.516932,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,nelson-piquet,Nelson Piquet,brabham,DNF,11,3,1,22,1195.237934,1170.829717,-24.408217,0.192308,0.680472,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,5,8,1,23,966.496386,955.678901,-10.817486,0.153846,0.370196,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,philippe-alliot,Philippe Alliot,ram,DNF,4,21,1,24,984.272711,970.349437,-13.923274,0.115385,0.39385,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,francois-hesnault,François Hesnault,ligier,DNS,,,2,25,990.092731,973.854103,-16.238628,0.076923,0.401696,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,martin-brundle,Martin Brundle,tyrrell,DSQ,,,2,26,928.206973,913.110544,-15.096429,0.019231,0.321159,50.0,27
+1984,5,1984-05-20,france,Grand Prix de France 1984,stefan-bellof,Stefan Bellof,tyrrell,DSQ,,,2,27,928.206973,913.110544,-15.096429,0.019231,0.321159,50.0,27

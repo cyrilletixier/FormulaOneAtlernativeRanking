@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-2007-07-22,2007,10,europe,DNF,13,22,1500.0,1495.84558,-4.15442,0.238095,0.411196,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+2007-07-22,2007,10,europe,spyker,Spyker,DNF,13,22,1000.0,992.67424,-7.32576,0.238095,0.38461,50.0

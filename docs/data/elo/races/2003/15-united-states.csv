@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,michael-schumacher,Michael Schumacher,ferrari,1,73,7,0,1,1852.889193,1856.598859,3.709666,1.0,0.845431,24.0,20
-2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,kimi-raikkonen,Kimi Räikkönen,mclaren,2,73,1,0,2,1596.249902,1605.71651,9.466609,0.947368,0.552926,24.0,20
-2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,3,73,15,0,3,1497.623397,1509.157672,11.534276,0.894737,0.414142,24.0,20
-2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,jarno-trulli,Jarno Trulli,renault,4,73,10,0,4,1533.710093,1542.766552,9.056459,0.842105,0.464753,24.0,20
-2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,nick-heidfeld,Nick Heidfeld,sauber,5,73,13,0,5,1535.797199,1543.519728,7.722529,0.789474,0.467702,24.0,20
-2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,juan-pablo-montoya,Juan Pablo Montoya,williams,6,72,4,0,6,1664.800613,1666.991677,2.191065,0.736842,0.645548,24.0,20
-2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,jordan,7,72,17,0,7,1497.474479,1503.961084,6.486605,0.684211,0.413935,24.0,20
-2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,justin-wilson,Justin Wilson,jaguar,8,71,16,0,8,1455.504701,1462.099166,6.594465,0.631579,0.35681,24.0,20
-2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,cristiano-da-matta,Cristiano da Matta,toyota,9,71,9,0,9,1513.082131,1516.519781,3.437649,0.578947,0.435712,24.0,20
-2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,jos-verstappen,Jos Verstappen,minardi,10,69,19,0,10,1460.602146,1464.507161,3.905015,0.526316,0.363607,24.0,20
-2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,nicolas-kiesa,Nicolas Kiesa,minardi,11,69,20,0,11,1498.811001,1500.20043,1.389429,0.473684,0.415791,24.0,20
-2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,jacques-villeneuve,Jacques Villeneuve,bar,DNF,63,12,1,12,1522.560444,1521.889039,-0.671404,0.421053,0.449028,24.0,20
-2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,ralph-firman,Ralph Firman,jordan,DNF,48,18,1,13,1472.967132,1472.682701,-0.284431,0.368421,0.380272,24.0,20
-2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,david-coulthard,David Coulthard,mclaren,DNF,45,8,1,14,1680.806158,1672.400572,-8.405586,0.315789,0.666022,24.0,20
-2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,fernando-alonso,Fernando Alonso,renault,DNF,44,6,1,15,1545.285819,1540.054708,-5.231111,0.263158,0.481121,24.0,20
-2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,jenson-button,Jenson Button,bar,DNF,41,11,1,16,1540.680871,1534.342953,-6.337918,0.210526,0.474606,24.0,20
-2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,olivier-panis,Olivier Panis,toyota,DNF,27,3,1,17,1491.995434,1486.032599,-5.962836,0.157895,0.406346,24.0,20
-2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,mark-webber,Mark Webber,jaguar,DNF,21,14,1,18,1509.759537,1501.308863,-8.450674,0.078947,0.431059,24.0,20
-2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,ralf-schumacher,Ralf Schumacher,williams,DNF,21,5,1,19,1680.564591,1666.482116,-14.082475,0.078947,0.665717,24.0,20
-2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,rubens-barrichello,Rubens Barrichello,ferrari,DNF,2,2,1,20,1683.545089,1667.477758,-16.067331,0.0,0.669472,24.0,20
+2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,michael-schumacher,Michael Schumacher,ferrari,1,73,7,0,1,1419.167502,1425.620535,6.453034,1.0,0.870939,50.0,20
+2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,kimi-raikkonen,Kimi Räikkönen,mclaren,2,73,1,0,2,1162.410913,1179.235683,16.82477,0.947368,0.610873,50.0,20
+2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,3,73,15,0,3,977.037113,1003.674892,26.637779,0.894737,0.361981,50.0,20
+2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,jarno-trulli,Jarno Trulli,renault,4,73,10,0,4,1058.008157,1076.584628,18.57647,0.842105,0.470576,50.0,20
+2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,nick-heidfeld,Nick Heidfeld,sauber,5,73,13,0,5,1060.006229,1075.814606,15.808377,0.789474,0.473306,50.0,20
+2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,juan-pablo-montoya,Juan Pablo Montoya,williams,6,72,4,0,6,1261.298956,1261.659517,0.360561,0.736842,0.729631,50.0,20
+2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,jordan,7,72,17,0,7,983.844904,999.512986,15.668082,0.684211,0.370849,50.0,20
+2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,justin-wilson,Justin Wilson,jaguar,8,71,16,0,8,934.871888,951.010939,16.139051,0.631579,0.308798,50.0,20
+2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,cristiano-da-matta,Cristiano da Matta,toyota,9,71,9,0,9,1033.567429,1040.651265,7.083836,0.578947,0.437271,50.0,20
+2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,jos-verstappen,Jos Verstappen,minardi,10,69,19,0,10,963.876481,972.940184,9.063703,0.526316,0.345042,50.0,20
+2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,nicolas-kiesa,Nicolas Kiesa,minardi,11,69,20,0,11,1001.185907,1005.184108,3.998201,0.473684,0.39372,50.0,20
+2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,jacques-villeneuve,Jacques Villeneuve,bar,DNF,63,12,1,12,1009.895211,1010.680814,0.785603,0.421053,0.405341,50.0,20
+2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,ralph-firman,Ralph Firman,jordan,DNF,48,18,1,13,962.27581,963.546814,1.271004,0.368421,0.343001,50.0,20
+2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,david-coulthard,David Coulthard,mclaren,DNF,45,8,1,14,1190.192846,1173.67416,-16.518686,0.315789,0.646163,50.0,20
+2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,fernando-alonso,Fernando Alonso,renault,DNF,44,6,1,15,1106.380317,1092.71207,-13.668247,0.263158,0.536523,50.0,20
+2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,jenson-button,Jenson Button,bar,DNF,41,11,1,16,1057.773852,1044.787382,-12.98647,0.210526,0.470256,50.0,20
+2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,olivier-panis,Olivier Panis,toyota,DNF,27,3,1,17,995.930507,984.487796,-11.442711,0.157895,0.386749,50.0,20
+2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,mark-webber,Mark Webber,jaguar,DNF,21,14,1,18,1049.066578,1030.095593,-18.970985,0.078947,0.458367,50.0,20
+2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,ralf-schumacher,Ralf Schumacher,williams,DNF,21,5,1,19,1233.768006,1202.78468,-30.983325,0.078947,0.698614,50.0,20
+2003,15,2003-09-28,united-states,2003 SAP United States Grand Prix,rubens-barrichello,Rubens Barrichello,ferrari,DNF,2,2,1,20,1219.610536,1185.510491,-34.100045,0.0,0.682001,50.0,20

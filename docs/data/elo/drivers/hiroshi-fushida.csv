@@ -1,3 +1,3 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1975-06-22,1975,8,netherlands,DNS,,25,1500.0,1489.227586,-10.772414,0.0,0.448851,24.0
-1975-07-19,1975,10,great-britain,DNQ,,28,1489.227586,1479.033101,-10.194485,0.018519,0.443289,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1975-06-22,1975,8,netherlands,maki,Maki,DNS,,25,1000.0,979.085564,-20.914436,0.0,0.418289,50.0
+1975-07-19,1975,10,great-britain,maki,Maki,DNQ,,28,979.085564,959.926589,-19.158975,0.018519,0.401698,50.0

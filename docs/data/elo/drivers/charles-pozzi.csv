@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1950-07-02,1950,6,france,6,56,19,1500.0,1503.446752,3.446752,0.638889,0.495274,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1950-07-02,1950,6,france,talbot-lago,Talbot-Lago,6,56,19,1000.0,1007.413496,7.413496,0.638889,0.490619,50.0

@@ -1,3 +1,3 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1950-05-13,1950,1,great-britain,10,,23,1500.0,1501.636364,1.636364,0.568182,0.5,24.0
-1951-07-14,1951,5,great-britain,8,84,20,1501.636364,1504.994077,3.357713,0.631579,0.491674,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1950-05-13,1950,1,great-britain,maserati,Maserati,10,,23,1000.0,1003.409091,3.409091,0.568182,0.5,50.0
+1951-07-14,1951,5,great-britain,era,ERA,8,84,20,1003.409091,1010.764362,7.355271,0.631579,0.484474,50.0

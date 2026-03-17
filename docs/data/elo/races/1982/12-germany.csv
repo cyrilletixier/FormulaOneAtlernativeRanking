@@ -1,31 +1,31 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,patrick-tambay,Patrick Tambay,ferrari,1,45,5,0,1,1547.255675,1558.792848,11.537173,1.0,0.519284,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,rene-arnoux,René Arnoux,renault,2,45,3,0,2,1568.530373,1578.511003,9.98063,0.965517,0.549658,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,keke-rosberg,Keke Rosberg,williams,3,44,9,0,3,1541.016086,1551.1127,10.096615,0.931034,0.510342,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,michele-alboreto,Michele Alboreto,tyrrell,4,44,7,0,4,1558.622343,1567.286585,8.664242,0.896552,0.535542,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,5,44,11,0,5,1546.534845,1554.786455,8.25161,0.862069,0.518252,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,marc-surer,Marc Surer,arrows,6,44,26,0,6,1566.78287,1573.512795,6.729925,0.827586,0.547173,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,brian-henton,Brian Henton,tyrrell,7,44,17,0,7,1440.832577,1451.001639,10.169062,0.793103,0.369393,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,roberto-guerrero,Roberto Guerrero,ensign,8,44,21,0,8,1452.965448,1461.911698,8.94625,0.758621,0.38586,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,nigel-mansell,Nigel Mansell,lotus,9,43,18,0,9,1522.901241,1528.655814,5.754573,0.724138,0.484364,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,derek-warwick,Derek Warwick,toleman,10,43,14,0,10,1412.328055,1420.916377,8.588322,0.689655,0.331808,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,chico-serra,Chico Serra,fittipaldi,11,43,25,0,11,1432.416394,1439.545531,7.129136,0.655172,0.358125,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,jacques-laffite,Jacques Laffite,ligier,DNF,36,15,1,12,1633.402538,1632.539164,-0.863374,0.603448,0.639422,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,john-watson,John Watson,mclaren,DNF,36,10,1,13,1667.848251,1665.912848,-1.935403,0.603448,0.68409,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,derek-daly,Derek Daly,williams,DNF,25,19,1,14,1541.012729,1542.006011,0.993282,0.551724,0.510337,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,raul-boesel,Raul Boesel,march,DNF,22,24,1,15,1478.513824,1480.817049,2.303225,0.517241,0.421274,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,elio-de-angelis,Elio de Angelis,lotus,DNF,21,13,1,16,1615.262133,1612.089827,-3.172306,0.482759,0.614938,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,nelson-piquet,Nelson Piquet,brabham,DNF,18,4,1,17,1631.903933,1627.364418,-4.539515,0.448276,0.637422,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,eliseo-salazar,Eliseo Salazar,ats-wheels,DNF,17,22,1,18,1473.923926,1473.898619,-0.025307,0.413793,0.414848,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,alain-prost,Alain Prost,renault,DNF,14,2,1,19,1598.582668,1593.479325,-5.103343,0.37931,0.59195,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,riccardo-patrese,Riccardo Patrese,brabham,DNF,13,6,1,20,1565.721566,1560.901529,-4.820036,0.344828,0.545662,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,DNF,9,8,1,21,1518.888996,1514.850496,-4.0385,0.310345,0.478616,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,eddie-cheever,Eddie Cheever,ligier,DNF,8,12,1,22,1521.309887,1516.360571,-4.949316,0.275862,0.482084,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,mauro-baldi,Mauro Baldi,arrows,DNF,6,23,1,23,1496.435769,1491.511024,-4.924745,0.241379,0.446577,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,jean-pierre-jarier,Jean-Pierre Jarier,osella,DNF,3,20,1,24,1539.712092,1532.060478,-7.651614,0.189655,0.508472,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,3,16,1,25,1475.342622,1469.890399,-5.452223,0.189655,0.416831,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,rupert-keegan,Rupert Keegan,march,DNQ,,,2,26,1451.64719,1444.912534,-6.734656,0.103448,0.384059,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,teo-fabi,Teo Fabi,toleman,DNQ,,,2,27,1452.295316,1445.539414,-6.755903,0.103448,0.384944,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,tommy-byrne,Tommy Byrne,theodore,DNQ,,,2,28,1500.0,1491.643334,-8.356666,0.103448,0.451643,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,didier-pironi,Didier Pironi,ferrari,DNS,,1,2,29,1642.976909,1627.74044,-15.236469,0.017241,0.652094,24.0,30
-1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,niki-lauda,Niki Lauda,mclaren,DNS,,,2,30,1622.617335,1608.032667,-14.584668,0.017241,0.624936,24.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,patrick-tambay,Patrick Tambay,ferrari,1,45,5,0,1,1086.41681,1109.525158,23.108348,1.0,0.537833,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,rene-arnoux,René Arnoux,renault,2,45,3,0,2,1089.406688,1110.584004,21.177317,0.965517,0.541971,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,keke-rosberg,Keke Rosberg,williams,3,44,9,0,3,1109.915697,1127.957553,18.041856,0.931034,0.570197,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,michele-alboreto,Michele Alboreto,tyrrell,4,44,7,0,4,1118.68598,1134.405612,15.719632,0.896552,0.582159,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,5,44,11,0,5,1085.28034,1101.570837,16.290497,0.862069,0.536259,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,marc-surer,Marc Surer,arrows,6,44,26,0,6,1128.838288,1140.422497,11.584209,0.827586,0.595902,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,brian-henton,Brian Henton,tyrrell,7,44,17,0,7,964.918208,985.997691,21.079484,0.793103,0.371514,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,roberto-guerrero,Roberto Guerrero,ensign,8,44,21,0,8,923.250783,945.252971,22.002188,0.758621,0.318577,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,nigel-mansell,Nigel Mansell,lotus,9,43,18,0,9,1059.679597,1070.851813,11.172215,0.724138,0.500694,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,derek-warwick,Derek Warwick,toleman,10,43,14,0,10,886.678091,907.399701,20.72161,0.689655,0.275223,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,chico-serra,Chico Serra,fittipaldi,11,43,25,0,11,913.216736,930.656989,17.440252,0.655172,0.306367,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,jacques-laffite,Jacques Laffite,ligier,DNF,36,15,1,12,1142.320507,1141.79536,-0.525147,0.603448,0.613951,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,john-watson,John Watson,mclaren,DNF,36,10,1,13,1224.436622,1218.767401,-5.669221,0.603448,0.716833,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,derek-daly,Derek Daly,williams,DNF,25,19,1,14,1113.697288,1112.515275,-1.182013,0.551724,0.575364,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,raul-boesel,Raul Boesel,march,DNF,22,24,1,15,966.601146,973.777256,7.17611,0.517241,0.373719,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,elio-de-angelis,Elio de Angelis,lotus,DNF,21,13,1,16,1180.927672,1171.863962,-9.06371,0.482759,0.664033,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,nelson-piquet,Nelson Piquet,brabham,DNF,18,4,1,17,1173.492624,1163.176487,-10.316137,0.448276,0.654599,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,eliseo-salazar,Eliseo Salazar,ats-wheels,DNF,17,22,1,18,982.338529,983.300364,0.961834,0.413793,0.394556,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,alain-prost,Alain Prost,renault,DNF,14,2,1,19,1165.727432,1152.461366,-13.266066,0.37931,0.644632,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,riccardo-patrese,Riccardo Patrese,brabham,DNF,13,6,1,20,1088.706808,1078.898051,-9.808757,0.344828,0.541003,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,DNF,9,8,1,21,1056.589715,1047.287193,-9.302522,0.310345,0.496395,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,eddie-cheever,Eddie Cheever,ligier,DNF,8,12,1,22,1071.437693,1059.378469,-12.059224,0.275862,0.517047,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,mauro-baldi,Mauro Baldi,arrows,DNF,6,23,1,23,1009.036763,999.572794,-9.463969,0.241379,0.430659,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,jean-pierre-jarier,Jean-Pierre Jarier,osella,DNF,3,20,1,24,1036.795829,1022.833638,-13.962191,0.189655,0.468899,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,3,16,1,25,969.334895,959.95208,-9.382815,0.189655,0.377311,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,rupert-keegan,Rupert Keegan,march,DNQ,,,2,26,944.402463,932.323519,-12.078944,0.103448,0.345027,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,teo-fabi,Teo Fabi,toleman,DNQ,,,2,27,922.541267,911.828373,-10.712894,0.103448,0.317706,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,tommy-byrne,Tommy Byrne,theodore,DNQ,,,2,28,1000.0,984.255036,-15.744964,0.103448,0.418348,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,didier-pironi,Didier Pironi,ferrari,DNS,,1,2,29,1208.359673,1174.33018,-34.029493,0.017241,0.697831,50.0,30
+1982,12,1982-08-08,germany,Grosser Preis von Deutschland 1982,niki-lauda,Niki Lauda,mclaren,DNS,,,2,30,1143.404288,1113.496803,-29.907484,0.017241,0.615391,50.0,30

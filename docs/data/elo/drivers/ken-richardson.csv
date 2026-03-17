@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1951-09-16,1951,7,italy,DNS,,24,1500.0,1489.769919,-10.230081,0.065217,0.491471,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1951-09-16,1951,7,italy,brm,BRM,DNS,,24,1000.0,979.086853,-20.913147,0.065217,0.48348,50.0

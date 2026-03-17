@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,max-verstappen,Max Verstappen,red-bull,1,72,1,0,1,1921.563259,1925.371869,3.808609,1.0,0.841308,24.0,20
-2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,fernando-alonso,Fernando Alonso,aston-martin,2,72,5,0,2,1672.399307,1681.297414,8.898107,0.947368,0.576614,24.0,20
-2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,pierre-gasly,Pierre Gasly,alpine,3,72,12,0,3,1571.141635,1581.980595,10.838959,0.894737,0.443114,24.0,20
-2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,sergio-perez,Sergio Pérez,red-bull,4,72,7,0,4,1792.028752,1794.958007,2.929255,0.842105,0.720053,24.0,20
-2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,5,72,6,0,5,1712.148907,1716.050952,3.902044,0.789474,0.626888,24.0,20
-2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,lewis-hamilton,Lewis Hamilton,mercedes,6,72,13,0,6,1911.404604,1909.090777,-2.313827,0.736842,0.833252,24.0,20
-2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,lando-norris,Lando Norris,mclaren,7,72,2,0,7,1667.093529,1669.840342,2.746813,0.684211,0.56976,24.0,20
-2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,alexander-albon,Alexander Albon,williams,8,72,4,0,8,1545.053776,1550.400084,5.346308,0.631579,0.408816,24.0,20
-2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,oscar-piastri,Oscar Piastri,mclaren,9,72,8,0,9,1510.666758,1515.812672,5.145914,0.578947,0.364534,24.0,20
-2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,esteban-ocon,Esteban Ocon,alpine,10,72,16,0,10,1609.661573,1610.431657,0.770084,0.526316,0.494229,24.0,20
-2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,lance-stroll,Lance Stroll,aston-martin,11,72,11,0,11,1569.27877,1570.071565,0.792795,0.473684,0.440651,24.0,20
-2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,nico-hulkenberg,Nico Hülkenberg,haas,12,72,14,0,12,1511.13279,1512.475053,1.342263,0.421053,0.365125,24.0,20
-2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,liam-lawson,Liam Lawson,alphatauri,13,72,19,0,13,1500.0,1500.415779,0.415779,0.368421,0.351097,24.0,20
-2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,valtteri-bottas,Valtteri Bottas,alfa-romeo,14,72,18,0,14,1609.066769,1604.803177,-4.263592,0.315789,0.493439,24.0,20
-2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,yuki-tsunoda,Yuki Tsunoda,alphatauri,15,72,17,0,15,1484.394708,1482.748467,-1.646241,0.263158,0.331751,24.0,20
-2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,kevin-magnussen,Kevin Magnussen,haas,16,72,PL,0,16,1435.908965,1434.373629,-1.535337,0.210526,0.274499,24.0,20
-2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,george-russell,George Russell,mercedes,17,72,3,0,17,1669.840461,1659.870445,-9.970016,0.157895,0.573312,24.0,20
-2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,guanyu-zhou,Guanyu Zhou,alfa-romeo,DNF,62,15,1,18,1479.379132,1474.090579,-5.288553,0.105263,0.32562,24.0,20
-2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,charles-leclerc,Charles Leclerc,ferrari,DNF,41,9,1,19,1742.260672,1727.60203,-14.658642,0.052632,0.663408,24.0,20
-2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,logan-sargeant,Logan Sargeant,williams,DNF,14,10,1,20,1460.143818,1452.883094,-7.260724,0.0,0.30253,24.0,20
+2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,max-verstappen,Max Verstappen,red-bull,1,72,1,0,1,1545.663665,1551.118775,5.455111,1.0,0.890898,50.0,20
+2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,fernando-alonso,Fernando Alonso,aston-martin,2,72,5,0,2,1267.917264,1282.908739,14.991475,0.947368,0.647539,50.0,20
+2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,pierre-gasly,Pierre Gasly,alpine,3,72,12,0,3,1083.390558,1107.044242,23.653684,0.894737,0.421663,50.0,20
+2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,sergio-perez,Sergio Pérez,red-bull,4,72,7,0,4,1386.349695,1389.937076,3.587381,0.842105,0.770358,50.0,20
+2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,5,72,6,0,5,1254.3243,1262.202043,7.877743,0.789474,0.631919,50.0,20
+2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,lewis-hamilton,Lewis Hamilton,mercedes,6,72,13,0,6,1427.145664,1423.672262,-3.473402,0.736842,0.80631,50.0,20
+2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,lando-norris,Lando Norris,mclaren,7,72,2,0,7,1210.873679,1216.065303,5.191624,0.684211,0.580378,50.0,20
+2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,alexander-albon,Alexander Albon,williams,8,72,4,0,8,1056.976642,1069.10874,12.132098,0.631579,0.388937,50.0,20
+2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,oscar-piastri,Oscar Piastri,mclaren,9,72,8,0,9,1035.71925,1046.515912,10.796663,0.578947,0.363014,50.0,20
+2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,esteban-ocon,Esteban Ocon,alpine,10,72,16,0,10,1132.762441,1134.898963,2.136523,0.526316,0.483585,50.0,20
+2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,lance-stroll,Lance Stroll,aston-martin,11,72,11,0,11,1118.078974,1118.506506,0.427533,0.473684,0.465134,50.0,20
+2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,nico-hulkenberg,Nico Hülkenberg,haas,12,72,14,0,12,1005.611426,1010.304924,4.693499,0.421053,0.327183,50.0,20
+2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,liam-lawson,Liam Lawson,alphatauri,13,72,19,0,13,1000.0,1002.388952,2.388952,0.368421,0.320642,50.0,20
+2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,valtteri-bottas,Valtteri Bottas,alfa-romeo,14,72,18,0,14,1067.685811,1063.367881,-4.31793,0.315789,0.402148,50.0,20
+2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,yuki-tsunoda,Yuki Tsunoda,alphatauri,15,72,17,0,15,1008.282127,1004.924423,-3.357703,0.263158,0.330312,50.0,20
+2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,kevin-magnussen,Kevin Magnussen,haas,16,72,PL,0,16,936.354962,934.367572,-1.98739,0.210526,0.250274,50.0,20
+2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,george-russell,George Russell,mercedes,17,72,3,0,17,1274.568464,1249.709048,-24.859416,0.157895,0.655083,50.0,20
+2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,guanyu-zhou,Guanyu Zhou,alfa-romeo,DNF,62,15,1,18,997.930305,987.28138,-10.648925,0.105263,0.318242,50.0,20
+2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,charles-leclerc,Charles Leclerc,ferrari,DNF,41,9,1,19,1306.843052,1274.940114,-31.902938,0.052632,0.69069,50.0,20
+2023,13,2023-08-27,netherlands,Formula 1 Heineken Dutch Grand Prix 2023,logan-sargeant,Logan Sargeant,williams,DNF,14,10,1,20,941.519459,928.734879,-12.78458,0.0,0.255692,50.0,20

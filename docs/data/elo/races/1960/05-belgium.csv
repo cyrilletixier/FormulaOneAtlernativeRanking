@@ -1,20 +1,20 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,jack-brabham,Jack Brabham,cooper,1,36,1,0,1,1548.909527,1559.693669,10.784142,1.0,0.550661,24.0,19
-1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,bruce-mclaren,Bruce McLaren,cooper,2,36,13,0,2,1547.882793,1557.370377,9.487584,0.944444,0.549128,24.0,19
-1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,olivier-gendebien,Olivier Gendebien,cooper,3,35,4,0,3,1504.862909,1514.568524,9.705615,0.888889,0.484488,24.0,19
-1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,phil-hill,Phil Hill,ferrari,4,35,3,0,4,1561.920468,1568.240581,6.320113,0.833333,0.569995,24.0,19
-1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,jim-clark,Jim Clark,lotus,5,34,9,0,5,1499.48496,1506.718041,7.233082,0.777778,0.476399,24.0,19
-1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,lucien-bianchi,Lucien Bianchi,cooper,6,28,14,0,6,1491.920933,1498.09327,6.172337,0.722222,0.465042,24.0,19
-1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,graham-hill,Graham Hill,brm,DNF,35,5,1,7,1477.039655,1482.412489,5.372834,0.666667,0.442799,24.0,19
-1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,alan-stacey,Alan Stacey,lotus,DNF,24,16,1,8,1488.428296,1492.05959,3.631294,0.611111,0.459807,24.0,19
-1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,willy-mairesse,Willy Mairesse,ferrari,DNF,23,12,1,9,1500.0,1501.881166,1.881166,0.555556,0.477174,24.0,19
-1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,wolfgang-von-trips,Wolfgang von Trips,ferrari,DNF,22,10,1,10,1533.983696,1533.304179,-0.679517,0.5,0.528313,24.0,19
-1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,chris-bristow,Chris Bristow,cooper,DNF,19,8,1,11,1500.243593,1499.449303,-0.79429,0.444444,0.47754,24.0,19
-1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,chuck-daigh,Chuck Daigh,scarab,DNF,16,17,1,12,1483.215573,1481.700672,-1.514901,0.388889,0.45201,24.0,19
-1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,jo-bonnier,Jo Bonnier,brm,DNF,14,6,1,13,1501.563625,1498.05503,-3.508595,0.333333,0.479525,24.0,19
-1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,innes-ireland,Innes Ireland,lotus,DNF,13,7,1,14,1509.029783,1503.918195,-5.111587,0.277778,0.490761,24.0,19
-1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,dan-gurney,Dan Gurney,brm,DNF,4,11,1,15,1524.906822,1517.88814,-7.018682,0.222222,0.514667,24.0,19
-1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,tony-brooks,Tony Brooks,cooper,DNF,2,2,1,16,1530.737726,1522.175243,-8.562482,0.166667,0.523437,24.0,19
-1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,lance-reventlow,Lance Reventlow,scarab,DNF,1,15,1,17,1483.215573,1475.034005,-8.181568,0.111111,0.45201,24.0,19
-1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,mike-taylor,Mike Taylor,lotus,DNS,,,2,18,1493.970327,1483.402207,-10.56812,0.027778,0.468116,24.0,19
-1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,stirling-moss,Stirling Moss,lotus,DNS,,,2,19,1609.071824,1594.423398,-14.648426,0.027778,0.638129,24.0,19
+1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,jack-brabham,Jack Brabham,cooper,1,36,1,0,1,1093.035818,1113.418224,20.382406,1.0,0.592352,50.0,19
+1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,bruce-mclaren,Bruce McLaren,cooper,2,36,13,0,2,1089.553237,1107.409195,17.855958,0.944444,0.587325,50.0,19
+1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,olivier-gendebien,Olivier Gendebien,cooper,3,35,4,0,3,1017.223582,1037.63668,20.413099,0.888889,0.480627,50.0,19
+1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,phil-hill,Phil Hill,ferrari,4,35,3,0,4,1109.08474,1119.987292,10.902552,0.833333,0.615282,50.0,19
+1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,jim-clark,Jim Clark,lotus,5,34,9,0,5,1000.291518,1016.403314,16.111796,0.777778,0.455542,50.0,19
+1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,lucien-bianchi,Lucien Bianchi,cooper,6,28,14,0,6,983.863583,998.40542,14.541837,0.722222,0.431385,50.0,19
+1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,graham-hill,Graham Hill,brm,DNF,35,5,1,7,981.839521,993.751528,11.912007,0.666667,0.428427,50.0,19
+1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,alan-stacey,Alan Stacey,lotus,DNF,24,16,1,8,984.700895,993.625911,8.925016,0.611111,0.432611,50.0,19
+1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,willy-mairesse,Willy Mairesse,ferrari,DNF,23,12,1,9,1000.0,1005.022211,5.022211,0.555556,0.455111,50.0,19
+1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,wolfgang-von-trips,Wolfgang von Trips,ferrari,DNF,22,10,1,10,1067.969422,1065.17719,-2.792231,0.5,0.555845,50.0,19
+1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,chris-bristow,Chris Bristow,cooper,DNF,19,8,1,11,1002.522295,1001.802607,-0.719688,0.444444,0.458838,50.0,19
+1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,chuck-daigh,Chuck Daigh,scarab,DNF,16,17,1,12,967.906354,966.941452,-0.964902,0.388889,0.408187,50.0,19
+1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,jo-bonnier,Jo Bonnier,brm,DNF,14,6,1,13,1031.304771,1022.89371,-8.41106,0.333333,0.501555,50.0,19
+1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,innes-ireland,Innes Ireland,lotus,DNF,13,7,1,14,1030.36813,1019.248917,-11.119214,0.277778,0.500162,50.0,19
+1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,dan-gurney,Dan Gurney,brm,DNF,4,11,1,15,1052.33518,1036.807572,-15.527608,0.222222,0.532774,50.0,19
+1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,tony-brooks,Tony Brooks,cooper,DNF,2,2,1,16,1057.464249,1038.779515,-18.684734,0.166667,0.540361,50.0,19
+1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,lance-reventlow,Lance Reventlow,scarab,DNF,1,15,1,17,967.906354,953.052563,-14.853791,0.111111,0.408187,50.0,19
+1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,mike-taylor,Mike Taylor,lotus,DNS,,,2,18,987.9259,967.447953,-20.477948,0.027778,0.437337,50.0,19
+1960,5,1960-06-19,belgium,1960 Belgian Grand Prix,stirling-moss,Stirling Moss,lotus,DNS,,,2,19,1154.92821,1122.412503,-32.515706,0.027778,0.678092,50.0,19

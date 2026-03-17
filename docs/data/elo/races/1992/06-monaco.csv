@@ -1,33 +1,33 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,ayrton-senna,Ayrton Senna,mclaren,1,78,3,0,1,1778.904948,1783.848281,4.943333,1.0,0.794028,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,nigel-mansell,Nigel Mansell,williams,2,78,1,0,2,1726.858475,1732.310322,5.451847,0.967742,0.740582,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,riccardo-patrese,Riccardo Patrese,williams,3,78,2,0,3,1722.590543,1727.381415,4.790872,0.935484,0.735864,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,michael-schumacher,Michael Schumacher,benetton,4,78,6,0,4,1559.676912,1568.722126,9.045214,0.903226,0.526342,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,martin-brundle,Martin Brundle,benetton,5,78,7,0,5,1559.419925,1567.699578,8.279654,0.870968,0.525982,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,bertrand-gachot,Bertrand Gachot,venturi,6,77,15,0,6,1466.377848,1476.992479,10.614631,0.83871,0.396433,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,michele-alboreto,Michele Alboreto,footwork,7,77,11,0,7,1522.867593,1530.830295,7.962702,0.806452,0.474672,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,christian-fittipaldi,Christian Fittipaldi,minardi,8,77,17,0,8,1498.504578,1506.510469,8.005891,0.774194,0.440615,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,jj-lehto,JJ Lehto,dallara,9,76,20,0,9,1537.189905,1543.121448,5.931544,0.741935,0.494788,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,erik-comas,Érik Comas,ligier,10,76,23,0,10,1546.287274,1551.137921,4.850648,0.709677,0.507567,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,aguri-suzuki,Aguri Suzuki,footwork,11,76,19,0,11,1475.234673,1481.688754,6.454081,0.677419,0.408499,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,thierry-boutsen,Thierry Boutsen,ligier,12,75,22,0,12,1631.745784,1632.233386,0.487602,0.645161,0.624845,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,ivan-capelli,Ivan Capelli,ferrari,DNF,60,8,1,13,1536.447907,1539.307698,2.859791,0.612903,0.493745,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,gerhard-berger,Gerhard Berger,mclaren,DNF,32,5,1,14,1681.001158,1678.438821,-2.562337,0.580645,0.687409,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,mika-hakkinen,Mika Häkkinen,lotus,DNF,30,14,1,15,1535.941643,1537.270118,1.328476,0.548387,0.493034,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,jean-alesi,Jean Alesi,ferrari,DNF,28,4,1,16,1609.464773,1607.570327,-1.894445,0.516129,0.595064,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,mauricio-gugelmin,Maurício Gugelmin,jordan,DNF,18,13,1,17,1560.981785,1559.918658,-1.063127,0.483871,0.528168,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,johnny-herbert,Johnny Herbert,lotus,DNF,17,9,1,18,1534.041448,1533.11142,-0.930028,0.451613,0.490364,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,roberto-moreno,Roberto Moreno,andrea-moda,DNF,11,26,1,19,1481.405029,1481.462465,0.057436,0.419355,0.416962,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,andrea-de-cesaris,Andrea de Cesaris,tyrrell,DNF,9,10,1,20,1556.64165,1553.014681,-3.626969,0.370968,0.522091,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,gabriele-tarquini,Gabriele Tarquini,fondmetal,DNF,9,25,1,21,1399.787942,1401.252864,1.464922,0.370968,0.309929,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,stefano-modena,Stefano Modena,jordan,DNF,6,21,1,22,1542.284074,1537.979334,-4.304741,0.322581,0.501945,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,olivier-grouillard,Olivier Grouillard,tyrrell,DNF,4,24,1,23,1455.716114,1453.514631,-2.201483,0.290323,0.382051,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,gianni-morbidelli,Gianni Morbidelli,minardi,DNF,1,12,1,24,1537.603876,1531.52146,-6.082416,0.241935,0.495369,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,karl-wendlinger,Karl Wendlinger,march,DNF,1,16,1,25,1503.291874,1498.363592,-4.928282,0.241935,0.447281,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,pierluigi-martini,Pierluigi Martini,dallara,DNF,0,18,1,26,1578.051727,1569.449781,-8.601946,0.193548,0.551963,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,perry-mccarthy,Perry McCarthy,andrea-moda,DNPQ,,,1,27,1485.963029,1479.289152,-6.673877,0.145161,0.423239,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,ukyo-katayama,Ukyo Katayama,venturi,DNPQ,,,1,28,1507.981752,1500.573811,-7.40794,0.145161,0.453825,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,andrea-chiesa,Andrea Chiesa,fondmetal,DNQ,,,2,29,1472.269442,1463.723966,-8.545475,0.048387,0.404449,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,damon-hill,Damon Hill,brabham,DNQ,,,2,30,1481.395129,1472.549666,-8.845463,0.048387,0.416948,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,eric-van-de-poele,Eric van de Poele,brabham,DNQ,,,2,31,1388.765171,1382.810153,-5.955017,0.048387,0.296513,24.0,32
-1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,paul-belmondo,Paul Belmondo,march,DNQ,,,2,32,1483.20104,1474.295944,-8.905096,0.048387,0.419433,24.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,ayrton-senna,Ayrton Senna,mclaren,1,78,3,0,1,1333.418805,1342.753916,9.335111,1.0,0.813298,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,nigel-mansell,Nigel Mansell,williams,2,78,1,0,2,1312.447257,1321.111522,8.664265,0.967742,0.794457,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,riccardo-patrese,Riccardo Patrese,williams,3,78,2,0,3,1306.175236,1313.519869,7.344633,0.935484,0.788591,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,michael-schumacher,Michael Schumacher,benetton,4,78,6,0,4,1119.216949,1135.852377,16.635428,0.903226,0.570517,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,martin-brundle,Martin Brundle,benetton,5,78,7,0,5,1088.663421,1105.748311,17.08489,0.870968,0.52927,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,bertrand-gachot,Bertrand Gachot,venturi,6,77,15,0,6,1005.452576,1026.58305,21.130474,0.83871,0.4161,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,michele-alboreto,Michele Alboreto,footwork,7,77,11,0,7,1052.714623,1069.027847,16.313224,0.806452,0.480187,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,christian-fittipaldi,Christian Fittipaldi,minardi,8,77,17,0,8,1004.051328,1022.049746,17.998417,0.774194,0.414225,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,jj-lehto,JJ Lehto,dallara,9,76,20,0,9,1090.864958,1101.348558,10.4836,0.741935,0.532263,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,erik-comas,Érik Comas,ligier,10,76,23,0,10,1096.985309,1105.440611,8.455302,0.709677,0.540571,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,aguri-suzuki,Aguri Suzuki,footwork,11,76,19,0,11,996.148292,1009.834784,13.686492,0.677419,0.40369,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,thierry-boutsen,Thierry Boutsen,ligier,12,75,22,0,12,1122.408274,1125.927397,3.519123,0.645161,0.574779,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,ivan-capelli,Ivan Capelli,ferrari,DNF,60,8,1,13,1058.800152,1065.020058,6.219906,0.612903,0.488505,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,gerhard-berger,Gerhard Berger,mclaren,DNF,32,5,1,14,1227.381766,1221.108943,-6.272823,0.580645,0.706102,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,mika-hakkinen,Mika Häkkinen,lotus,DNF,30,14,1,15,1067.827405,1070.204471,2.377065,0.548387,0.500846,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,jean-alesi,Jean Alesi,ferrari,DNF,28,4,1,16,1154.147332,1149.129552,-5.017781,0.516129,0.616485,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,mauricio-gugelmin,Maurício Gugelmin,jordan,DNF,18,13,1,17,1099.993695,1096.954921,-3.038774,0.483871,0.544646,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,johnny-herbert,Johnny Herbert,lotus,DNF,17,9,1,18,1065.408738,1063.112395,-2.296343,0.451613,0.49754,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,roberto-moreno,Roberto Moreno,andrea-moda,DNF,11,26,1,19,1022.284079,1021.313679,-0.9704,0.419355,0.438763,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,andrea-de-cesaris,Andrea de Cesaris,tyrrell,DNF,9,10,1,20,1098.08642,1089.531626,-8.554794,0.370968,0.542064,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,gabriele-tarquini,Gabriele Tarquini,fondmetal,DNF,9,25,1,21,916.632727,920.030183,3.397456,0.370968,0.303019,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,stefano-modena,Stefano Modena,jordan,DNF,6,21,1,22,1054.436264,1046.4383,-7.997965,0.322581,0.48254,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,olivier-grouillard,Olivier Grouillard,tyrrell,DNF,4,24,1,23,974.499295,970.254153,-4.245143,0.290323,0.375225,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,gianni-morbidelli,Gianni Morbidelli,minardi,DNF,1,12,1,24,1078.689304,1065.002062,-13.687242,0.241935,0.51568,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,karl-wendlinger,Karl Wendlinger,march,DNF,1,16,1,25,1018.70102,1009.101858,-9.599162,0.241935,0.433919,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,pierluigi-martini,Pierluigi Martini,dallara,DNF,0,18,1,26,1129.313882,1109.793189,-19.520694,0.193548,0.583962,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,perry-mccarthy,Perry McCarthy,andrea-moda,DNPQ,,,1,27,974.524689,963.019832,-11.504857,0.145161,0.375258,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,ukyo-katayama,Ukyo Katayama,venturi,DNPQ,,,1,28,1021.411326,1006.790289,-14.621038,0.145161,0.437582,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,andrea-chiesa,Andrea Chiesa,fondmetal,DNQ,,,2,29,952.638015,937.697283,-14.940731,0.048387,0.347202,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,damon-hill,Damon Hill,brabham,DNQ,,,2,30,965.165313,949.426535,-15.738778,0.048387,0.363163,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,eric-van-de-poele,Eric van de Poele,brabham,DNQ,,,2,31,831.938966,823.790639,-8.148327,0.048387,0.211354,50.0,32
+1992,6,1992-05-31,monaco,Grand Prix de Monaco 1992,paul-belmondo,Paul Belmondo,march,DNQ,,,2,32,976.783346,960.292811,-16.490535,0.048387,0.378198,50.0,32

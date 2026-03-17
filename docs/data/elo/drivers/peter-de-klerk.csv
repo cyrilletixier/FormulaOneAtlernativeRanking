@@ -1,5 +1,5 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1963-12-28,1963,10,south-africa,DNF,53,21,1500.0,1496.425905,-3.574095,0.3,0.448921,24.0
-1965-01-01,1965,1,south-africa,10,79,28,1496.425905,1501.466099,5.040195,0.666667,0.456659,24.0
-1969-03-01,1969,1,south-africa,NC,67,18,1501.466099,1503.538739,2.07264,0.529412,0.443052,24.0
-1970-03-07,1970,1,south-africa,11,75,23,1503.538739,1505.691343,2.152605,0.545455,0.455763,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1963-12-28,1963,10,south-africa,alfa-special,Alfa Special,DNF,53,21,1000.0,994.329617,-5.670383,0.3,0.413408,50.0
+1965-01-01,1965,1,south-africa,alfa-special,Alfa Special,10,79,28,994.329617,1006.146001,11.816384,0.666667,0.430339,50.0
+1969-03-01,1969,1,south-africa,brabham,Brabham,NC,67,18,1006.146001,1011.750102,5.604102,0.529412,0.41733,50.0
+1970-03-07,1970,1,south-africa,brabham,Brabham,11,75,23,1011.750102,1017.00677,5.256668,0.545455,0.440321,50.0

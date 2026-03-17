@@ -1,4 +1,4 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1981-09-27,1981,14,canada,DNQ,,30,1500.0,1491.587333,-8.412667,0.086207,0.436735,24.0
-1981-10-17,1981,15,caesars-palace,DNQ,,30,1491.587333,1483.454491,-8.132842,0.086207,0.425075,24.0
-1983-06-12,1983,8,canada,DNQ,,28,1483.454491,1473.83908,-9.615411,0.018519,0.419161,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1981-09-27,1981,14,canada,arrows,Arrows,DNQ,,30,1000.0,984.332882,-15.667118,0.086207,0.399549,50.0
+1981-10-17,1981,15,caesars-palace,arrows,Arrows,DNQ,,30,984.332882,969.680293,-14.652589,0.086207,0.379259,50.0
+1983-06-12,1983,8,canada,ram,RAM,DNQ,,28,969.680293,952.006418,-17.673876,0.018519,0.371996,50.0

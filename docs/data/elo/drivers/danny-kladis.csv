@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1954-05-31,1954,2,indianapolis,30,,42,1500.0,1488.93443,-11.06557,0.036585,0.497651,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1954-05-31,1954,2,indianapolis,bromme,Bromme,30,,42,1000.0,977.069768,-22.930232,0.036585,0.49519,50.0

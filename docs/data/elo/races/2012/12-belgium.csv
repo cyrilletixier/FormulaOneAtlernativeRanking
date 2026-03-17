@@ -1,25 +1,25 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,jenson-button,Jenson Button,mclaren,1,44,1,0,1,1736.413233,1743.494327,7.081095,1.0,0.704954,24.0,24
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,2,44,10,0,2,1786.165772,1790.925372,4.7596,0.956522,0.758205,24.0,24
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,kimi-raikkonen,Kimi Räikkönen,lotus-f1,3,44,3,0,3,1734.184719,1739.239104,5.054385,0.913043,0.702444,24.0,24
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,4,44,11,0,4,1542.890176,1552.69312,9.802944,0.869565,0.461109,24.0,24
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,felipe-massa,Felipe Massa,ferrari,5,44,14,0,5,1672.335861,1677.064246,4.728385,0.826087,0.629071,24.0,24
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,mark-webber,Mark Webber,red-bull,6,44,12,0,6,1776.672879,1777.492116,0.819237,0.782609,0.748474,24.0,24
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,michael-schumacher,Michael Schumacher,mercedes,7,44,13,0,7,1611.481497,1615.985272,4.503775,0.73913,0.551473,24.0,24
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,8,44,15,0,8,1504.170202,1511.015826,6.845625,0.695652,0.410418,24.0,24
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,daniel-ricciardo,Daniel Ricciardo,toro-rosso,9,44,16,0,9,1477.811573,1484.425057,6.613484,0.652174,0.376612,24.0,24
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,paul-di-resta,Paul di Resta,force-india,10,44,9,0,10,1569.05683,1571.769307,2.712477,0.608696,0.495676,24.0,24
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,nico-rosberg,Nico Rosberg,mercedes,11,44,23,0,11,1678.0327,1676.331529,-1.701171,0.565217,0.6361,24.0,24
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,bruno-senna,Bruno Senna,williams,12,44,17,0,12,1481.709619,1485.073856,3.364238,0.521739,0.381563,24.0,24
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,kamui-kobayashi,Kamui Kobayashi,sauber,13,44,2,0,13,1539.383511,1539.906093,0.522581,0.478261,0.456487,24.0,24
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,vitaly-petrov,Vitaly Petrov,caterham,14,43,19,0,14,1495.101663,1495.967535,0.865872,0.434783,0.398705,24.0,24
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,timo-glock,Timo Glock,marussia,15,43,20,0,15,1396.872031,1399.560687,2.688656,0.391304,0.279277,24.0,24
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,charles-pic,Charles Pic,marussia,16,43,22,0,16,1454.775167,1454.776428,0.001261,0.347826,0.347774,24.0,24
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,heikki-kovalainen,Heikki Kovalainen,caterham,17,43,18,0,17,1450.892331,1449.964912,-0.927419,0.304348,0.34299,24.0,24
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,hrt,18,43,21,0,18,1427.32174,1426.034554,-1.287186,0.26087,0.314502,24.0,24
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,narain-karthikeyan,Narain Karthikeyan,hrt,DNF,29,24,1,19,1377.821949,1376.841115,-0.980833,0.217391,0.258259,24.0,24
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,pastor-maldonado,Pastor Maldonado,williams,DNF,4,6,1,20,1481.439339,1476.464003,-4.975336,0.173913,0.381219,24.0,24
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,fernando-alonso,Fernando Alonso,ferrari,DNF,0,5,1,21,1818.790165,1801.395001,-17.395164,0.065217,0.790016,24.0,24
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,DNF,0,7,1,22,1729.093676,1713.938777,-15.1549,0.065217,0.696672,24.0,24
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,DNF,0,8,1,23,1506.746595,1498.38159,-8.365005,0.065217,0.413759,24.0,24
-2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,sergio-perez,Sergio Pérez,sauber,DNF,0,4,1,24,1545.265366,1535.688766,-9.5766,0.065217,0.464242,24.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,jenson-button,Jenson Button,mclaren,1,44,1,0,1,1289.61238,1303.390118,13.777738,1.0,0.724445,50.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,2,44,10,0,2,1377.945531,1385.419663,7.474132,0.956522,0.807039,50.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,kimi-raikkonen,Kimi Räikkönen,lotus-f1,3,44,3,0,3,1295.024516,1304.179079,9.154564,0.913043,0.729952,50.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,4,44,11,0,4,1096.631063,1115.078764,18.447702,0.869565,0.500611,50.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,felipe-massa,Felipe Massa,ferrari,5,44,14,0,5,1188.293669,1198.982568,10.688899,0.826087,0.612309,50.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,mark-webber,Mark Webber,red-bull,6,44,12,0,6,1370.120219,1369.231928,-0.888291,0.782609,0.800375,50.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,michael-schumacher,Michael Schumacher,mercedes,7,44,13,0,7,1072.592286,1086.014118,13.421832,0.73913,0.470694,50.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,8,44,15,0,8,1013.818873,1028.695404,14.876531,0.695652,0.398122,50.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,daniel-ricciardo,Daniel Ricciardo,toro-rosso,9,44,16,0,9,990.152868,1004.283759,14.130891,0.652174,0.369556,50.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,paul-di-resta,Paul di Resta,force-india,10,44,9,0,10,1119.059608,1123.073108,4.0135,0.608696,0.528426,50.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,nico-rosberg,Nico Rosberg,mercedes,11,44,23,0,11,1234.718329,1229.696369,-5.02196,0.565217,0.665657,50.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,bruno-senna,Bruno Senna,williams,12,44,17,0,12,1017.815392,1023.752596,5.937204,0.521739,0.402995,50.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,kamui-kobayashi,Kamui Kobayashi,sauber,13,44,2,0,13,1071.626968,1072.065392,0.438424,0.478261,0.469492,50.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,vitaly-petrov,Vitaly Petrov,caterham,14,43,19,0,14,985.342772,988.890877,3.548105,0.434783,0.363821,50.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,timo-glock,Timo Glock,marussia,15,43,20,0,15,862.620271,870.699647,8.079376,0.391304,0.229717,50.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,charles-pic,Charles Pic,marussia,16,43,22,0,16,927.026461,929.578955,2.552494,0.347826,0.296776,50.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,heikki-kovalainen,Heikki Kovalainen,caterham,17,43,18,0,17,939.823982,939.489243,-0.334738,0.304348,0.311043,50.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,hrt,18,43,21,0,18,905.702299,905.062979,-0.63932,0.26087,0.273656,50.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,narain-karthikeyan,Narain Karthikeyan,hrt,DNF,29,24,1,19,832.311562,833.118586,0.807024,0.217391,0.201251,50.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,pastor-maldonado,Pastor Maldonado,williams,DNF,4,6,1,20,998.202852,987.937939,-10.264912,0.173913,0.379211,50.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,fernando-alonso,Fernando Alonso,ferrari,DNF,0,5,1,21,1408.816398,1370.475093,-38.341306,0.065217,0.832044,50.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,DNF,0,7,1,22,1269.828723,1237.896746,-31.931977,0.065217,0.703857,50.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,DNF,0,8,1,23,1040.995305,1022.682227,-18.313078,0.065217,0.431479,50.0,24
+2012,12,2012-09-02,belgium,2012 Formula 1 Shell Belgian Grand Prix,sergio-perez,Sergio Pérez,sauber,DNF,0,4,1,24,1094.10835,1072.495518,-21.612832,0.065217,0.497474,50.0,24

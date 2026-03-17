@@ -1,3 +1,3 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1975-05-11,1975,5,monaco,DNQ,,26,1500.0,1492.564137,-7.435863,0.14,0.449828,24.0
-1975-06-08,1975,7,sweden,10,78,26,1492.564137,1497.331906,4.767769,0.64,0.441343,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1975-05-11,1975,5,monaco,hesketh,Hesketh,DNQ,,26,1000.0,986.072931,-13.927069,0.14,0.418541,50.0
+1975-06-08,1975,7,sweden,hesketh,Hesketh,10,78,26,986.072931,997.958181,11.88525,0.64,0.402295,50.0

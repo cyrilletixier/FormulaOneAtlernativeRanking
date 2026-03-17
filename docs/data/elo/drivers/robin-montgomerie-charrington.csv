@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1952-06-22,1952,3,belgium,DNF,17,22,1500.0,1495.107707,-4.892293,0.285714,0.48956,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1952-06-22,1952,3,belgium,aston-butterworth,Aston Butterworth,DNF,17,22,1000.0,990.192335,-9.807665,0.285714,0.481868,50.0

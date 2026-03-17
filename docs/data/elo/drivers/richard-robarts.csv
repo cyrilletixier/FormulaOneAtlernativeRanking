@@ -1,5 +1,5 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1974-01-13,1974,1,argentina,DNF,35,26,1500.0,1499.084632,-0.915368,0.42,0.45814,24.0
-1974-01-27,1974,2,brazil,15,30,25,1499.084632,1498.215161,-0.869471,0.416667,0.452895,24.0
-1974-03-30,1974,3,south-africa,17,74,27,1498.215161,1496.346934,-1.868227,0.384615,0.462458,24.0
-1974-06-09,1974,7,sweden,DNS,,28,1496.346934,1485.759761,-10.587173,0.018519,0.459651,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1974-01-13,1974,1,argentina,brabham,Brabham,DNF,35,26,1000.0,999.096091,-0.903909,0.42,0.438078,50.0
+1974-01-27,1974,2,brazil,brabham,Brabham,15,30,25,999.096091,998.417036,-0.679055,0.416667,0.430248,50.0
+1974-03-30,1974,3,south-africa,brabham,Brabham,17,74,27,998.417036,995.272524,-3.144512,0.384615,0.447506,50.0
+1974-06-09,1974,7,sweden,iso-marlboro,Iso-Marlboro,DNS,,28,995.272524,974.04386,-21.228664,0.018519,0.443092,50.0

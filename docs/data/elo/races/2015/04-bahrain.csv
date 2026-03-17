@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,1,57,1,0,1,1817.267436,1823.04201,5.774575,1.0,0.759393,24.0,20
-2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,2,57,4,0,2,1710.683999,1718.155388,7.47139,0.947368,0.636061,24.0,20
-2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,nico-rosberg,Nico Rosberg,mercedes,3,57,3,0,3,1773.706086,1778.094699,4.388613,0.894737,0.711878,24.0,20
-2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,valtteri-bottas,Valtteri Bottas,williams,4,57,5,0,4,1625.655327,1633.273446,7.618119,0.842105,0.524684,24.0,20
-2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,5,57,2,0,5,1832.0009,1832.361815,0.360915,0.789474,0.774436,24.0,20
-2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,6,57,7,0,6,1644.878349,1649.352275,4.473926,0.736842,0.550429,24.0,20
-2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,7,57,10,0,7,1529.816523,1536.724325,6.907802,0.684211,0.396385,24.0,20
-2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,sergio-perez,Sergio Pérez,force-india,8,56,11,0,8,1582.639431,1586.596045,3.956614,0.631579,0.46672,24.0,20
-2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,daniil-kvyat,Daniil Kvyat,red-bull,9,56,17,0,9,1487.780163,1493.455353,5.67519,0.578947,0.342481,24.0,20
-2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,felipe-massa,Felipe Massa,williams,10,56,6,0,10,1704.080713,1701.647197,-2.433516,0.526316,0.627712,24.0,20
-2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,fernando-alonso,Fernando Alonso,mclaren,11,56,14,0,11,1770.367278,1764.742295,-5.624984,0.473684,0.708059,24.0,20
-2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,felipe-nasr,Felipe Nasr,sauber,12,56,12,0,12,1517.48607,1518.463524,0.977455,0.421053,0.380325,24.0,20
-2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,13,56,8,0,13,1608.540767,1605.343536,-3.197231,0.368421,0.501639,24.0,20
-2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,14,56,13,0,14,1448.98302,1449.474019,0.490999,0.315789,0.295331,24.0,20
-2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,pastor-maldonado,Pastor Maldonado,lotus-f1,15,56,18,0,15,1454.49124,1453.562752,-0.928488,0.263158,0.301845,24.0,20
-2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,will-stevens,Will Stevens,marussia,16,55,20,0,16,1480.890957,1477.929902,-2.961055,0.210526,0.333904,24.0,20
-2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,roberto-merhi,Roberto Merhi,marussia,17,54,19,0,17,1490.056551,1485.55803,-4.498521,0.157895,0.345333,24.0,20
-2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,max-verstappen,Max Verstappen,toro-rosso,DNF,34,15,1,18,1502.745699,1496.598819,-6.14688,0.105263,0.361383,24.0,20
-2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,29,9,1,19,1511.32101,1503.64737,-7.67364,0.052632,0.372367,24.0,20
-2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,jenson-button,Jenson Button,mclaren,DNS,,20,2,20,1689.950869,1675.319587,-14.631282,0.0,0.609637,24.0,20
+2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,1,57,1,0,1,1422.215163,1431.409882,9.194719,1.0,0.816106,50.0,20
+2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,2,57,4,0,2,1230.936973,1247.635775,16.698802,0.947368,0.613392,50.0,20
+2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,nico-rosberg,Nico Rosberg,mercedes,3,57,3,0,3,1372.56703,1378.771698,6.204668,0.894737,0.770643,50.0,20
+2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,valtteri-bottas,Valtteri Bottas,williams,4,57,5,0,4,1223.838737,1235.710064,11.871328,0.842105,0.604679,50.0,20
+2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,5,57,2,0,5,1388.744414,1388.914243,0.169829,0.789474,0.786077,50.0,20
+2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,6,57,7,0,6,1245.915802,1251.178811,5.263009,0.736842,0.631582,50.0,20
+2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,7,57,10,0,7,1047.516187,1062.664585,15.148399,0.684211,0.381243,50.0,20
+2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,sergio-perez,Sergio Pérez,force-india,8,56,11,0,8,1123.94564,1131.620619,7.674979,0.631579,0.478079,50.0,20
+2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,daniil-kvyat,Daniil Kvyat,red-bull,9,56,17,0,9,995.553976,1008.571229,13.017253,0.578947,0.318602,50.0,20
+2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,felipe-massa,Felipe Massa,williams,10,56,6,0,10,1262.515001,1256.261247,-6.253753,0.526316,0.651391,50.0,20
+2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,fernando-alonso,Fernando Alonso,mclaren,11,56,14,0,11,1271.568071,1262.151033,-9.417038,0.473684,0.662025,50.0,20
+2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,felipe-nasr,Felipe Nasr,sauber,12,56,12,0,12,1040.16816,1042.612206,2.444045,0.421053,0.372172,50.0,20
+2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,13,56,8,0,13,1146.555852,1139.622266,-6.933586,0.368421,0.507093,50.0,20
+2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,14,56,13,0,14,940.100217,943.055289,2.955072,0.315789,0.256688,50.0,20
+2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,pastor-maldonado,Pastor Maldonado,lotus-f1,15,56,18,0,15,963.40231,962.461191,-0.941119,0.263158,0.28198,50.0,20
+2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,will-stevens,Will Stevens,marussia,16,55,20,0,16,968.633423,964.769315,-3.864108,0.210526,0.287808,50.0,20
+2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,roberto-merhi,Roberto Merhi,marussia,17,54,19,0,17,984.904169,977.485613,-7.418557,0.157895,0.306266,50.0,20
+2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,max-verstappen,Max Verstappen,toro-rosso,DNF,34,15,1,18,1010.243293,998.710277,-11.533016,0.105263,0.335923,50.0,20
+2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,29,9,1,19,1027.602546,1012.39378,-15.208767,0.052632,0.356807,50.0,20
+2015,4,2015-04-19,bahrain,2015 Formula 1 Gulf Air Bahrain Grand Prix,jenson-button,Jenson Button,mclaren,DNS,,20,2,20,1205.118431,1176.046271,-29.07216,0.0,0.581443,50.0,20

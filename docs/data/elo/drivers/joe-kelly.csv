@@ -1,3 +1,3 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1950-05-13,1950,1,great-britain,NC,57,23,1500.0,1497.818182,-2.181818,0.409091,0.5,24.0
-1951-07-14,1951,5,great-britain,NC,75,20,1497.818182,1492.472096,-5.346086,0.263158,0.485911,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1950-05-13,1950,1,great-britain,alta,Alta,NC,57,23,1000.0,995.454545,-4.545455,0.409091,0.5,50.0
+1951-07-14,1951,5,great-britain,alta,Alta,NC,75,20,995.454545,984.983614,-10.470931,0.263158,0.472577,50.0

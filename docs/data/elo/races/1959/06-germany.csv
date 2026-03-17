@@ -1,18 +1,18 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,tony-brooks,Tony Brooks,ferrari,1,60,1,0,1,1523.243695,1535.179238,11.935542,1.0,0.502686,24.0,17
-1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,dan-gurney,Dan Gurney,ferrari,2,60,3,0,2,1497.557294,1508.928277,11.370983,0.9375,0.463709,24.0,17
-1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,phil-hill,Phil Hill,ferrari,3,60,6,0,3,1550.358799,1558.307857,7.949058,0.875,0.543789,24.0,17
-1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,maurice-trintignant,Maurice Trintignant,cooper,4,59,12,0,4,1539.132099,1545.988747,6.856648,0.8125,0.526806,24.0,17
-1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,jo-bonnier,Jo Bonnier,brm,5,58,7,0,5,1480.237918,1487.735018,7.4971,0.75,0.437621,24.0,17
-1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,ian-burgess,Ian Burgess,cooper,6,56,15,0,6,1496.590273,1501.996354,5.406081,0.6875,0.462247,24.0,17
-1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,harry-schell,Harry Schell,brm,7,49,8,0,7,1545.988177,1548.095702,2.107525,0.625,0.537186,24.0,17
-1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,bruce-mclaren,Bruce McLaren,cooper,DNF,37,9,1,8,1533.388407,1534.454144,1.065738,0.5625,0.518094,24.0,17
-1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,hans-herrmann,Hans Herrmann,brm,DNF,35,11,1,9,1493.658045,1494.670465,1.01242,0.5,0.457816,24.0,17
-1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,masten-gregory,Masten Gregory,cooper,DNF,23,5,1,10,1531.252086,1529.395659,-1.856427,0.4375,0.514851,24.0,17
-1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,jack-brabham,Jack Brabham,cooper,DNF,15,4,1,11,1543.138418,1539.34942,-3.788998,0.375,0.532875,24.0,17
-1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,graham-hill,Graham Hill,lotus,DNF,10,10,1,12,1483.719899,1480.591604,-3.128295,0.3125,0.442846,24.0,17
-1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,innes-ireland,Innes Ireland,lotus,DNF,7,13,1,13,1503.66459,1498.313627,-5.350963,0.25,0.472957,24.0,17
-1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,cliff-allison,Cliff Allison,ferrari,DNF,2,14,1,14,1503.375607,1496.535156,-6.840451,0.1875,0.472519,24.0,17
-1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,stirling-moss,Stirling Moss,cooper,DNF,1,2,1,15,1589.629413,1578.174832,-11.454581,0.125,0.602274,24.0,17
-1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,jean-behra,Jean Behra,behra-porsche,DNS,,,2,16,1528.900441,1517.379725,-11.520716,0.03125,0.51128,24.0,17
-1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,wolfgang-von-trips,Wolfgang von Trips,porsche,DNS,,,2,17,1521.768663,1510.507998,-11.260664,0.03125,0.500444,24.0,17
+1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,tony-brooks,Tony Brooks,ferrari,1,60,1,0,1,1047.24556,1071.816758,24.571198,1.0,0.508576,50.0,17
+1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,dan-gurney,Dan Gurney,ferrari,2,60,3,0,2,995.877432,1021.173269,25.295837,0.9375,0.431583,50.0,17
+1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,phil-hill,Phil Hill,ferrari,3,60,6,0,3,1100.581746,1114.927047,14.345301,0.875,0.588094,50.0,17
+1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,maurice-trintignant,Maurice Trintignant,cooper,4,59,12,0,4,1065.99746,1079.784427,13.786967,0.8125,0.536761,50.0,17
+1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,jo-bonnier,Jo Bonnier,brm,5,58,7,0,5,986.235844,1002.868316,16.632472,0.75,0.417351,50.0,17
+1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,ian-burgess,Ian Burgess,cooper,6,56,15,0,6,995.9043,1008.698146,12.793847,0.6875,0.431623,50.0,17
+1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,harry-schell,Harry Schell,brm,7,49,8,0,7,1088.900743,1091.606121,2.705378,0.625,0.570892,50.0,17
+1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,bruce-mclaren,Bruce McLaren,cooper,DNF,37,9,1,8,1068.59449,1069.686918,1.092428,0.5625,0.540651,50.0,17
+1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,hans-herrmann,Hans Herrmann,brm,DNF,35,11,1,9,991.947043,995.658631,3.711588,0.5,0.425768,50.0,17
+1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,masten-gregory,Masten Gregory,cooper,DNF,23,5,1,10,1059.393092,1054.925618,-4.467474,0.4375,0.526849,50.0,17
+1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,jack-brabham,Jack Brabham,cooper,DNF,15,4,1,11,1093.85587,1083.695377,-10.160493,0.375,0.57821,50.0,17
+1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,graham-hill,Graham Hill,lotus,DNF,10,10,1,12,984.411635,979.303113,-5.108522,0.3125,0.41467,50.0,17
+1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,innes-ireland,Innes Ireland,lotus,DNF,7,13,1,13,1009.346633,999.265276,-10.081357,0.25,0.451627,50.0,17
+1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,cliff-allison,Cliff Allison,ferrari,DNF,2,14,1,14,1011.314619,997.961189,-13.353429,0.1875,0.454569,50.0,17
+1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,stirling-moss,Stirling Moss,cooper,DNF,1,2,1,15,1120.793209,1096.173197,-24.620013,0.125,0.6174,50.0,17
+1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,jean-behra,Jean Behra,behra-porsche,DNS,,,2,16,1043.084163,1019.531201,-23.552962,0.03125,0.502309,50.0,17
+1959,6,1959-08-02,germany,Grosser Preis von Deutschland 1959,wolfgang-von-trips,Wolfgang von Trips,porsche,DNS,,,2,17,1043.586163,1019.995399,-23.590764,0.03125,0.503065,50.0,17

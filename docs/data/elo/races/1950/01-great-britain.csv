@@ -1,24 +1,24 @@
 year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,nino-farina,Nino Farina,alfa-romeo,1,70,1,0,1,1500.0,1512.0,12.0,1.0,0.5,24.0,23
-1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,luigi-fagioli,Luigi Fagioli,alfa-romeo,2,70,2,0,2,1500.0,1510.909091,10.909091,0.954545,0.5,24.0,23
-1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,reg-parnell,Reg Parnell,alfa-romeo,3,70,4,0,3,1500.0,1509.818182,9.818182,0.909091,0.5,24.0,23
-1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,yves-giraud-cabantous,Yves Giraud-Cabantous,talbot-lago,4,68,6,0,4,1500.0,1508.727273,8.727273,0.863636,0.5,24.0,23
-1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,louis-rosier,Louis Rosier,talbot-lago,5,68,9,0,5,1500.0,1507.636364,7.636364,0.818182,0.5,24.0,23
-1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,bob-gerard,Bob Gerard,era,6,67,13,0,6,1500.0,1506.545455,6.545455,0.772727,0.5,24.0,23
-1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,cuth-harrison,Cuth Harrison,era,7,67,15,0,7,1500.0,1505.454545,5.454545,0.727273,0.5,24.0,23
-1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,philippe-etancelin,Philippe Étancelin,talbot-lago,8,65,14,0,8,1500.0,1504.363636,4.363636,0.681818,0.5,24.0,23
-1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,david-hampshire,David Hampshire,maserati,9,64,16,0,9,1500.0,1503.272727,3.272727,0.636364,0.5,24.0,23
-1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,brian-shawe-taylor,Brian Shawe-Taylor,maserati,10,,,0,10,1500.0,1501.636364,1.636364,0.568182,0.5,24.0,23
-1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,joe-fry,Joe Fry,maserati,10,64,20,0,11,1500.0,1501.636364,1.636364,0.568182,0.5,24.0,23
-1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,johnny-claes,Johnny Claes,talbot-lago,11,64,21,0,12,1500.0,1500.0,0.0,0.5,0.5,24.0,23
-1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,juan-manuel-fangio,Juan Manuel Fangio,alfa-romeo,DNF,62,3,1,13,1500.0,1498.909091,-1.090909,0.454545,0.5,24.0,23
-1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,joe-kelly,Joe Kelly,alta,NC,57,19,1,14,1500.0,1497.818182,-2.181818,0.409091,0.5,24.0,23
-1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,birabongse-bhanudej,Birabongse Bhanudej,maserati,DNF,49,5,1,15,1500.0,1496.727273,-3.272727,0.363636,0.5,24.0,23
-1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,david-murray,David Murray,maserati,DNF,44,18,1,16,1500.0,1495.636364,-4.363636,0.318182,0.5,24.0,23
-1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,geoffrey-crossley,Geoffrey Crossley,alta,DNF,43,17,1,17,1500.0,1494.545455,-5.454545,0.272727,0.5,24.0,23
-1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,emmanuel-de-graffenried,Emmanuel de Graffenried,maserati,DNF,36,8,1,18,1500.0,1493.454545,-6.545455,0.227273,0.5,24.0,23
-1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,louis-chiron,Louis Chiron,maserati,DNF,24,11,1,19,1500.0,1492.363636,-7.636364,0.181818,0.5,24.0,23
-1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,eugene-martin,Eugène Martin,talbot-lago,DNF,8,7,1,20,1500.0,1491.272727,-8.727273,0.136364,0.5,24.0,23
-1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,peter-walker,Peter Walker,era,DNF,5,10,1,21,1500.0,1490.181818,-9.818182,0.090909,0.5,24.0,23
-1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,leslie-johnson,Leslie Johnson,era,DNF,2,12,1,22,1500.0,1489.090909,-10.909091,0.045455,0.5,24.0,23
-1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,tony-rolt,Tony Rolt,era,DNF,,,1,23,1500.0,1488.0,-12.0,0.0,0.5,24.0,23
+1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,nino-farina,Nino Farina,alfa-romeo,1,70,1,0,1,1000.0,1025.0,25.0,1.0,0.5,50.0,23
+1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,luigi-fagioli,Luigi Fagioli,alfa-romeo,2,70,2,0,2,1000.0,1022.727273,22.727273,0.954545,0.5,50.0,23
+1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,reg-parnell,Reg Parnell,alfa-romeo,3,70,4,0,3,1000.0,1020.454545,20.454545,0.909091,0.5,50.0,23
+1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,yves-giraud-cabantous,Yves Giraud-Cabantous,talbot-lago,4,68,6,0,4,1000.0,1018.181818,18.181818,0.863636,0.5,50.0,23
+1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,louis-rosier,Louis Rosier,talbot-lago,5,68,9,0,5,1000.0,1015.909091,15.909091,0.818182,0.5,50.0,23
+1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,bob-gerard,Bob Gerard,era,6,67,13,0,6,1000.0,1013.636364,13.636364,0.772727,0.5,50.0,23
+1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,cuth-harrison,Cuth Harrison,era,7,67,15,0,7,1000.0,1011.363636,11.363636,0.727273,0.5,50.0,23
+1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,philippe-etancelin,Philippe Étancelin,talbot-lago,8,65,14,0,8,1000.0,1009.090909,9.090909,0.681818,0.5,50.0,23
+1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,david-hampshire,David Hampshire,maserati,9,64,16,0,9,1000.0,1006.818182,6.818182,0.636364,0.5,50.0,23
+1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,brian-shawe-taylor,Brian Shawe-Taylor,maserati,10,,,0,10,1000.0,1003.409091,3.409091,0.568182,0.5,50.0,23
+1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,joe-fry,Joe Fry,maserati,10,64,20,0,11,1000.0,1003.409091,3.409091,0.568182,0.5,50.0,23
+1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,johnny-claes,Johnny Claes,talbot-lago,11,64,21,0,12,1000.0,1000.0,0.0,0.5,0.5,50.0,23
+1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,juan-manuel-fangio,Juan Manuel Fangio,alfa-romeo,DNF,62,3,1,13,1000.0,997.727273,-2.272727,0.454545,0.5,50.0,23
+1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,joe-kelly,Joe Kelly,alta,NC,57,19,1,14,1000.0,995.454545,-4.545455,0.409091,0.5,50.0,23
+1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,birabongse-bhanudej,Birabongse Bhanudej,maserati,DNF,49,5,1,15,1000.0,993.181818,-6.818182,0.363636,0.5,50.0,23
+1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,david-murray,David Murray,maserati,DNF,44,18,1,16,1000.0,990.909091,-9.090909,0.318182,0.5,50.0,23
+1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,geoffrey-crossley,Geoffrey Crossley,alta,DNF,43,17,1,17,1000.0,988.636364,-11.363636,0.272727,0.5,50.0,23
+1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,emmanuel-de-graffenried,Emmanuel de Graffenried,maserati,DNF,36,8,1,18,1000.0,986.363636,-13.636364,0.227273,0.5,50.0,23
+1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,louis-chiron,Louis Chiron,maserati,DNF,24,11,1,19,1000.0,984.090909,-15.909091,0.181818,0.5,50.0,23
+1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,eugene-martin,Eugène Martin,talbot-lago,DNF,8,7,1,20,1000.0,981.818182,-18.181818,0.136364,0.5,50.0,23
+1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,peter-walker,Peter Walker,era,DNF,5,10,1,21,1000.0,979.545455,-20.454545,0.090909,0.5,50.0,23
+1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,leslie-johnson,Leslie Johnson,era,DNF,2,12,1,22,1000.0,977.272727,-22.727273,0.045455,0.5,50.0,23
+1950,1,1950-05-13,great-britain,1950 RAC British Grand Prix,tony-rolt,Tony Rolt,era,DNF,,,1,23,1000.0,975.0,-25.0,0.0,0.5,50.0,23

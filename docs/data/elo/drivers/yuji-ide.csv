@@ -1,5 +1,5 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-2006-03-12,2006,1,bahrain,DNF,35,22,1500.0,1493.99289,-6.00711,0.142857,0.393153,24.0
-2006-03-19,2006,2,malaysia,DNF,33,22,1493.99289,1490.462917,-3.529973,0.238095,0.385177,24.0
-2006-04-02,2006,3,australia,13,54,22,1490.462917,1491.61793,1.155014,0.428571,0.380446,24.0
-2006-04-23,2006,4,san-marino,DNF,23,22,1491.61793,1484.736548,-6.881383,0.095238,0.381962,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+2006-03-12,2006,1,bahrain,super-aguri,Super Aguri,DNF,35,22,1000.0,989.168448,-10.831552,0.142857,0.359488,50.0
+2006-03-19,2006,2,malaysia,super-aguri,Super Aguri,DNF,33,22,989.168448,983.772501,-5.395947,0.238095,0.346014,50.0
+2006-04-02,2006,3,australia,super-aguri,Super Aguri,13,54,22,983.772501,988.242258,4.469756,0.428571,0.339176,50.0
+2006-04-23,2006,4,san-marino,super-aguri,Super Aguri,DNF,23,22,988.242258,975.751308,-12.49095,0.095238,0.345057,50.0

@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1951-05-30,1951,2,indianapolis,19,97,34,1500.0,1498.206932,-1.793068,0.424242,0.498954,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1951-05-30,1951,2,indianapolis,hall,Hall,19,97,34,1000.0,996.321054,-3.678946,0.424242,0.497821,50.0

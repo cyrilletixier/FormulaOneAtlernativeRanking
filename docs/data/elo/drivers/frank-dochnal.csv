@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1963-10-27,1963,9,mexico,DNQ,,22,1500.0,1489.202936,-10.797064,0.0,0.449878,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1963-10-27,1963,9,mexico,cooper,Cooper,DNQ,,22,1000.0,979.333554,-20.666446,0.0,0.413329,50.0

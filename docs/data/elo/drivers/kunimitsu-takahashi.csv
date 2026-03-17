@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1977-10-23,1977,17,japan,9,71,23,1500.0,1505.084034,5.084034,0.636364,0.424529,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1977-10-23,1977,17,japan,tyrrell,Tyrrell,9,71,23,1000.0,1012.692825,12.692825,0.636364,0.382507,50.0

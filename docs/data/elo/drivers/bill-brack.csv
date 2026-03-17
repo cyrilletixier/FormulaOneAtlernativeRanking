@@ -1,4 +1,4 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1968-09-22,1968,10,canada,DNF,18,22,1500.0,1493.7296,-6.2704,0.190476,0.451743,24.0
-1969-09-20,1969,9,canada,NC,80,20,1493.7296,1498.353617,4.624017,0.631579,0.438912,24.0
-1972-09-24,1972,11,canada,DNF,20,25,1498.353617,1492.501095,-5.852522,0.208333,0.452188,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1968-09-22,1968,10,canada,lotus,Lotus,DNF,18,22,1000.0,988.324313,-11.675687,0.190476,0.42399,50.0
+1969-09-20,1969,9,canada,brm,BRM,NC,80,20,988.324313,999.578622,11.254309,0.631579,0.406493,50.0
+1972-09-24,1972,11,canada,brm,BRM,DNF,20,25,999.578622,988.236011,-11.342611,0.208333,0.435186,50.0

@@ -1,3 +1,3 @@
-date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1983-04-17,1983,3,france,DNQ,,29,1500.0,1490.08078,-9.91922,0.035714,0.449015,24.0
-1988-09-11,1988,12,italy,11,49,31,1490.08078,1495.346238,5.265458,0.666667,0.447273,24.0
+date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1983-04-17,1983,3,france,ram,RAM,DNQ,,29,1000.0,980.849303,-19.150697,0.035714,0.418728,50.0
+1988-09-11,1988,12,italy,williams,Williams,11,49,31,980.849303,993.494632,12.64533,0.666667,0.41376,50.0
