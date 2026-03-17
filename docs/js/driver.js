@@ -226,7 +226,7 @@ function renderEloChart(container, points) {
 }
 
 async function loadIndexData() {
-    const resp = await fetch('data/elo/index.json');
+    const resp = await fetch('data/elo/index.json', { cache: 'no-store' });
     return resp.json();
 }
 
@@ -335,7 +335,7 @@ async function initDriverPage() {
 
     // Charge uniquement ce qui est nécessaire pour le graph au démarrage.
     // Le tableau des résultats est chargé/affiché à la demande.
-    const resp = await fetch(`data/elo/drivers/${driverId}.csv`);
+    const resp = await fetch(`data/elo/drivers/${driverId}.csv`, { cache: 'no-store' });
     const csvText = await resp.text();
     const points = buildPointsFromDriverCsv(parseCsv(csvText));
     renderEloChart(chartContainer, points);
@@ -349,7 +349,7 @@ async function initDriverPage() {
         resultsToggle.disabled = true;
 
         try {
-            const r = await fetch(`data/elo/drivers/${driverId}.csv`);
+            const r = await fetch(`data/elo/drivers/${driverId}.csv`, { cache: 'no-store' });
             const t = await r.text();
             const rows = parseCsv(t);
             renderTable(rows, headRow, body);
