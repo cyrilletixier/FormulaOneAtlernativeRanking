@@ -29,15 +29,22 @@
                 <div id="elo-chart" class="elo-chart" aria-label="Graphique évolution ELO"></div>
             </div>
 
-            <div class="table-container" style="margin-top: 20px;">
-                <table id="driver-table">
-                    <thead>
-                        <tr id="driver-head-row">
-                            <th>Chargement…</th>
-                        </tr>
-                    </thead>
-                    <tbody id="driver-body"></tbody>
-                </table>
+            <div class="driver-results">
+                <div class="driver-results-actions">
+                    <button id="driver-results-toggle" class="tab-button" type="button">Charger les résultats</button>
+                    <span id="driver-results-status" class="driver-results-status" aria-live="polite"></span>
+                </div>
+
+                <div id="driver-results-panel" class="table-container driver-results-panel" hidden>
+                    <table id="driver-table">
+                        <thead>
+                            <tr id="driver-head-row">
+                                <th>Résultats</th>
+                            </tr>
+                        </thead>
+                        <tbody id="driver-body"></tbody>
+                    </table>
+                </div>
             </div>
         </div>
     </div>

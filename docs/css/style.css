@@ -282,6 +282,26 @@ td a.driver-link:hover {
   fill: var(--primary-color);
 }
 
+.driver-results {
+  margin-top: 16px;
+}
+
+.driver-results-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.driver-results-status {
+  color: var(--primary-color);
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+
+.driver-results-panel {
+  margin-top: 12px;
+}
+
 tr:nth-child(even) {
   background-color: var(--table-even-row);
 }

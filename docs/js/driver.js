@@ -213,9 +213,6 @@ function renderEloChart(container, points) {
     addMainLine(svg, points, xScale, yScale);
     addOffLines(svg, points, xScale, yScale);
     addMinMaxLabels(svg, pad, height, minY, maxY);
-    labelMax.setAttribute('class', 'elo-label');
-    labelMax.textContent = Math.round(maxY);
-    svg.appendChild(labelMax);
 
     container.appendChild(svg);
 
@@ -316,6 +313,9 @@ async function initDriverPage() {
     const chartContainer = document.getElementById('elo-chart');
     const headRow = document.getElementById('driver-head-row');
     const body = document.getElementById('driver-body');
+    const resultsToggle = document.getElementById('driver-results-toggle');
+    const resultsPanel = document.getElementById('driver-results-panel');
+    const resultsStatus = document.getElementById('driver-results-status');
 
     if (!driverId) {
         title.textContent = 'Pilote';
@@ -328,13 +328,61 @@ async function initDriverPage() {
     title.textContent = driverName;
     subtitle.textContent = `ELO (K=${indexData.k})`;
 
+    // Charge uniquement ce qui est nécessaire pour le graph au démarrage.
+    // Le tableau des résultats est chargé/affiché à la demande.
     const resp = await fetch(`data/elo/drivers/${driverId}.csv`);
     const csvText = await resp.text();
-    const rows = parseCsv(csvText);
-
-    renderTable(rows, headRow, body);
-    const points = buildPointsFromDriverCsv(rows);
+    const points = buildPointsFromDriverCsv(parseCsv(csvText));
     renderEloChart(chartContainer, points);
+
+    let tableLoaded = false;
+
+    async function loadAndShowResults() {
+        if (!resultsToggle || !resultsPanel || !resultsStatus) return;
+
+        resultsStatus.textContent = 'Chargement…';
+        resultsToggle.disabled = true;
+
+        try {
+            const r = await fetch(`data/elo/drivers/${driverId}.csv`);
+            const t = await r.text();
+            const rows = parseCsv(t);
+            renderTable(rows, headRow, body);
+            tableLoaded = true;
+            resultsPanel.hidden = false;
+            resultsToggle.textContent = 'Masquer les résultats';
+            resultsStatus.textContent = '';
+        } catch (e) {
+            resultsStatus.textContent = 'Erreur de chargement.';
+            console.error(e);
+        } finally {
+            resultsToggle.disabled = false;
+        }
+    }
+
+    function hideResults() {
+        if (!resultsToggle || !resultsPanel || !resultsStatus) return;
+        resultsPanel.hidden = true;
+        resultsToggle.textContent = tableLoaded ? 'Afficher les résultats' : 'Charger les résultats';
+        resultsStatus.textContent = '';
+    }
+
+    if (resultsToggle && resultsPanel && resultsStatus) {
+        resultsToggle.addEventListener('click', () => {
+            if (!resultsPanel.hidden) {
+                hideResults();
+                return;
+            }
+
+            if (tableLoaded) {
+                resultsPanel.hidden = false;
+                resultsToggle.textContent = 'Masquer les résultats';
+                return;
+            }
+
+            loadAndShowResults();
+        });
+    }
 }
 
 document.addEventListener('DOMContentLoaded', () => {
