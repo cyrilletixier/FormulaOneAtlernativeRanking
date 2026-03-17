@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,max-verstappen,Max Verstappen,red-bull,1,58,1,0,1,1390.537122,1401.090048,10.552927,1.0,0.788941,50.0,20
-2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,lewis-hamilton,Lewis Hamilton,mercedes,2,58,2,0,2,1548.479306,1550.699598,2.220293,0.947368,0.902963,50.0,20
-2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,3,58,5,0,3,1272.042283,1283.384464,11.34218,0.894737,0.667893,50.0,20
-2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,yuki-tsunoda,Yuki Tsunoda,alphatauri,4,58,8,0,4,990.391466,1016.254068,25.862603,0.842105,0.324853,50.0,20
-2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,pierre-gasly,Pierre Gasly,alphatauri,5,58,12,0,5,1166.771007,1179.172202,12.401196,0.789474,0.54145,50.0,20
-2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,valtteri-bottas,Valtteri Bottas,mercedes,6,58,6,0,6,1295.960749,1298.076574,2.115825,0.736842,0.694526,50.0,20
-2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,lando-norris,Lando Norris,mclaren,7,58,3,0,7,1232.902475,1235.994537,3.092061,0.684211,0.622369,50.0,20
-2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,fernando-alonso,Fernando Alonso,alpine,8,58,11,0,8,1123.426637,1130.654112,7.227475,0.631579,0.487029,50.0,20
-2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,esteban-ocon,Esteban Ocon,alpine,9,58,9,0,9,1138.651989,1142.289968,3.637979,0.578947,0.506188,50.0,20
-2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,charles-leclerc,Charles Leclerc,ferrari,10,58,7,0,10,1245.965666,1240.39116,-5.574506,0.526316,0.637806,50.0,20
-2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,sebastian-vettel,Sebastian Vettel,aston-martin,11,58,15,0,11,1092.044117,1093.347063,1.302946,0.473684,0.447625,50.0,20
-2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,daniel-ricciardo,Daniel Ricciardo,mclaren,12,57,10,0,12,1210.656683,1201.92919,-8.727493,0.421053,0.595603,50.0,20
-2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,lance-stroll,Lance Stroll,aston-martin,13,57,13,0,13,1076.306153,1073.326985,-2.979169,0.368421,0.428004,50.0,20
-2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,mick-schumacher,Mick Schumacher,haas,14,57,19,0,14,878.124396,883.51402,5.389624,0.315789,0.207997,50.0,20
-2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,sergio-perez,Sergio Pérez,red-bull,15,55,4,0,15,1245.777855,1227.05647,-18.721385,0.263158,0.637586,50.0,20
-2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,nicholas-latifi,Nicholas Latifi,williams,DNF,50,16,1,16,925.164365,922.997418,-2.166948,0.210526,0.253865,50.0,20
-2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,DNF,33,14,1,17,1019.029005,1009.010398,-10.018607,0.157895,0.358267,50.0,20
-2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,george-russell,George Russell,williams,DNF,26,17,1,18,979.786986,969.410387,-10.376599,0.105263,0.312795,50.0,20
-2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,DNF,25,18,1,19,1046.108222,1029.197953,-16.910269,0.052632,0.390837,50.0,20
-2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,nikita-mazepin,Nikita Mazepin,haas,DNS,,,2,20,861.986172,852.316039,-9.670133,0.0,0.193403,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,1057,max-verstappen,Max Verstappen,red-bull,1,58,1,0,1,1390.537122,1401.090048,10.552927,1.0,0.788941,50.0,20
+2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,1057,lewis-hamilton,Lewis Hamilton,mercedes,2,58,2,0,2,1548.479306,1550.699598,2.220293,0.947368,0.902963,50.0,20
+2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,1057,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,3,58,5,0,3,1272.042283,1283.384464,11.34218,0.894737,0.667893,50.0,20
+2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,1057,yuki-tsunoda,Yuki Tsunoda,alphatauri,4,58,8,0,4,990.391466,1016.254068,25.862603,0.842105,0.324853,50.0,20
+2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,1057,pierre-gasly,Pierre Gasly,alphatauri,5,58,12,0,5,1166.771007,1179.172202,12.401196,0.789474,0.54145,50.0,20
+2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,1057,valtteri-bottas,Valtteri Bottas,mercedes,6,58,6,0,6,1295.960749,1298.076574,2.115825,0.736842,0.694526,50.0,20
+2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,1057,lando-norris,Lando Norris,mclaren,7,58,3,0,7,1232.902475,1235.994537,3.092061,0.684211,0.622369,50.0,20
+2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,1057,fernando-alonso,Fernando Alonso,alpine,8,58,11,0,8,1123.426637,1130.654112,7.227475,0.631579,0.487029,50.0,20
+2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,1057,esteban-ocon,Esteban Ocon,alpine,9,58,9,0,9,1138.651989,1142.289968,3.637979,0.578947,0.506188,50.0,20
+2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,1057,charles-leclerc,Charles Leclerc,ferrari,10,58,7,0,10,1245.965666,1240.39116,-5.574506,0.526316,0.637806,50.0,20
+2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,1057,sebastian-vettel,Sebastian Vettel,aston-martin,11,58,15,0,11,1092.044117,1093.347063,1.302946,0.473684,0.447625,50.0,20
+2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,1057,daniel-ricciardo,Daniel Ricciardo,mclaren,12,57,10,0,12,1210.656683,1201.92919,-8.727493,0.421053,0.595603,50.0,20
+2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,1057,lance-stroll,Lance Stroll,aston-martin,13,57,13,0,13,1076.306153,1073.326985,-2.979169,0.368421,0.428004,50.0,20
+2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,1057,mick-schumacher,Mick Schumacher,haas,14,57,19,0,14,878.124396,883.51402,5.389624,0.315789,0.207997,50.0,20
+2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,1057,sergio-perez,Sergio Pérez,red-bull,15,55,4,0,15,1245.777855,1227.05647,-18.721385,0.263158,0.637586,50.0,20
+2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,1057,nicholas-latifi,Nicholas Latifi,williams,DNF,50,16,1,16,925.164365,922.997418,-2.166948,0.210526,0.253865,50.0,20
+2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,1057,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,DNF,33,14,1,17,1019.029005,1009.010398,-10.018607,0.157895,0.358267,50.0,20
+2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,1057,george-russell,George Russell,williams,DNF,26,17,1,18,979.786986,969.410387,-10.376599,0.105263,0.312795,50.0,20
+2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,1057,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,DNF,25,18,1,19,1046.108222,1029.197953,-16.910269,0.052632,0.390837,50.0,20
+2021,22,2021-12-12,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2021,1057,nikita-mazepin,Nikita Mazepin,haas,DNS,,,2,20,861.986172,852.316039,-9.670133,0.0,0.193403,50.0,20

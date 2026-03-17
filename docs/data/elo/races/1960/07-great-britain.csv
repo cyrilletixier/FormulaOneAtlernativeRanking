@@ -1,26 +1,26 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,jack-brabham,Jack Brabham,cooper,1,77,1,0,1,1132.122449,1149.244705,17.122256,1.0,0.657555,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,john-surtees,John Surtees,lotus,2,77,11,0,2,1000.918596,1025.334692,24.416095,0.958333,0.470011,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,innes-ireland,Innes Ireland,lotus,3,77,5,0,3,1031.15273,1051.267541,20.114811,0.916667,0.51437,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,bruce-mclaren,Bruce McLaren,cooper,4,76,3,0,4,1121.98825,1133.542614,11.554364,0.875,0.643913,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,tony-brooks,Tony Brooks,cooper,5,76,9,0,5,1024.239814,1040.695263,16.455449,0.833333,0.504224,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,wolfgang-von-trips,Wolfgang von Trips,ferrari,6,75,7,0,6,1064.606062,1076.030694,11.424632,0.791667,0.563174,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,phil-hill,Phil Hill,ferrari,7,75,10,0,7,1113.235949,1119.138059,5.90211,0.75,0.631958,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,henry-taylor,Henry Taylor,cooper,8,74,16,0,8,1039.384205,1048.479057,9.094852,0.708333,0.526436,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,olivier-gendebien,Olivier Gendebien,cooper,9,74,12,0,9,1059.545011,1065.086289,5.541278,0.666667,0.555841,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,dan-gurney,Dan Gurney,brm,10,74,6,0,10,1029.231688,1034.9041,5.672413,0.625,0.511552,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,maurice-trintignant,Maurice Trintignant,aston-martin,11,72,21,0,11,1079.355134,1079.302296,-0.052838,0.583333,0.58439,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,david-piper,David Piper,lotus,12,72,23,0,12,971.239985,976.980155,5.74017,0.541667,0.426863,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,brian-naylor,Brian Naylor,jbw,13,72,18,0,13,959.924883,964.392965,4.468082,0.5,0.410638,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,masten-gregory,Masten Gregory,cooper,14,71,14,0,14,1033.816997,1030.819756,-2.997241,0.458333,0.518278,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,gino-munaron,Gino Munaron,cooper,15,68,24,0,15,976.140671,975.277196,-0.863475,0.416667,0.433936,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,jim-clark,Jim Clark,lotus,16,68,8,0,16,1033.062856,1025.954244,-7.108612,0.375,0.517172,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,graham-hill,Graham Hill,brm,DNF,71,2,1,17,979.12493,973.87884,-5.24609,0.333333,0.438255,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,lucien-bianchi,Lucien Bianchi,cooper,DNF,60,17,1,18,995.937165,987.384223,-8.552943,0.291667,0.462726,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,jo-bonnier,Jo Bonnier,brm,DNF,59,4,1,19,1020.89174,1008.426313,-12.465427,0.25,0.499309,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,chuck-daigh,Chuck Daigh,cooper,DNF,56,19,1,20,948.582098,938.22979,-10.352309,0.1875,0.394546,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,ian-burgess,Ian Burgess,cooper,DNF,56,20,1,21,995.112023,981.411026,-13.700997,0.1875,0.46152,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,jack-fairman,Jack Fairman,cooper,DNF,44,15,1,22,972.486121,956.261487,-16.224633,0.104167,0.428659,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,roy-salvadori,Roy Salvadori,aston-martin,DNF,44,13,1,23,1024.114678,1004.12098,-19.993698,0.104167,0.504041,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,keith-greene,Keith Greene,cooper,DNF,12,22,1,24,980.16728,960.26233,-19.90495,0.041667,0.439766,50.0,25
-1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,lance-reventlow,Lance Reventlow,cooper,DNS,,,2,25,953.052563,933.009264,-20.043299,0.0,0.400866,50.0,25
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,jack-brabham,Jack Brabham,cooper,1,77,1,0,1,1132.122449,1149.244705,17.122256,1.0,0.657555,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,john-surtees,John Surtees,lotus,2,77,11,0,2,1000.918596,1025.334692,24.416095,0.958333,0.470011,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,innes-ireland,Innes Ireland,lotus,3,77,5,0,3,1031.15273,1051.267541,20.114811,0.916667,0.51437,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,bruce-mclaren,Bruce McLaren,cooper,4,76,3,0,4,1121.98825,1133.542614,11.554364,0.875,0.643913,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,tony-brooks,Tony Brooks,cooper,5,76,9,0,5,1024.239814,1040.695263,16.455449,0.833333,0.504224,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,wolfgang-von-trips,Wolfgang von Trips,ferrari,6,75,7,0,6,1064.606062,1076.030694,11.424632,0.791667,0.563174,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,phil-hill,Phil Hill,ferrari,7,75,10,0,7,1113.235949,1119.138059,5.90211,0.75,0.631958,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,henry-taylor,Henry Taylor,cooper,8,74,16,0,8,1039.384205,1048.479057,9.094852,0.708333,0.526436,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,olivier-gendebien,Olivier Gendebien,cooper,9,74,12,0,9,1059.545011,1065.086289,5.541278,0.666667,0.555841,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,dan-gurney,Dan Gurney,brm,10,74,6,0,10,1029.231688,1034.9041,5.672413,0.625,0.511552,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,maurice-trintignant,Maurice Trintignant,aston-martin,11,72,21,0,11,1079.355134,1079.302296,-0.052838,0.583333,0.58439,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,david-piper,David Piper,lotus,12,72,23,0,12,971.239985,976.980155,5.74017,0.541667,0.426863,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,brian-naylor,Brian Naylor,jbw,13,72,18,0,13,959.924883,964.392965,4.468082,0.5,0.410638,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,masten-gregory,Masten Gregory,cooper,14,71,14,0,14,1033.816997,1030.819756,-2.997241,0.458333,0.518278,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,gino-munaron,Gino Munaron,cooper,15,68,24,0,15,976.140671,975.277196,-0.863475,0.416667,0.433936,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,jim-clark,Jim Clark,lotus,16,68,8,0,16,1033.062856,1025.954244,-7.108612,0.375,0.517172,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,graham-hill,Graham Hill,brm,DNF,71,2,1,17,979.12493,973.87884,-5.24609,0.333333,0.438255,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,lucien-bianchi,Lucien Bianchi,cooper,DNF,60,17,1,18,995.937165,987.384223,-8.552943,0.291667,0.462726,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,jo-bonnier,Jo Bonnier,brm,DNF,59,4,1,19,1020.89174,1008.426313,-12.465427,0.25,0.499309,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,chuck-daigh,Chuck Daigh,cooper,DNF,56,19,1,20,948.582098,938.22979,-10.352309,0.1875,0.394546,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,ian-burgess,Ian Burgess,cooper,DNF,56,20,1,21,995.112023,981.411026,-13.700997,0.1875,0.46152,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,jack-fairman,Jack Fairman,cooper,DNF,44,15,1,22,972.486121,956.261487,-16.224633,0.104167,0.428659,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,roy-salvadori,Roy Salvadori,aston-martin,DNF,44,13,1,23,1024.114678,1004.12098,-19.993698,0.104167,0.504041,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,keith-greene,Keith Greene,cooper,DNF,12,22,1,24,980.16728,960.26233,-19.90495,0.041667,0.439766,50.0,25
+1960,7,1960-07-16,great-britain,1960 RAC British Grand Prix,91,lance-reventlow,Lance Reventlow,cooper,DNS,,,2,25,953.052563,933.009264,-20.043299,0.0,0.400866,50.0,25

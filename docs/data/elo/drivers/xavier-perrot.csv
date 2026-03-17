@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1969-08-03,1969,7,germany,brabham,Brabham,10,13,26,1000.0,1009.871609,9.871609,0.64,0.442568,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1969-08-03,1969,7,germany,180,brabham,Brabham,10,13,26,1000.0,1009.871609,9.871609,0.64,0.442568,50.0

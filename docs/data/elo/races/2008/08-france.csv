@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,felipe-massa,Felipe Massa,ferrari,1,70,2,0,1,1291.364316,1304.566725,13.202409,1.0,0.735952,50.0,20
-2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,kimi-raikkonen,Kimi Räikkönen,ferrari,2,70,1,0,2,1306.421976,1316.179248,9.757272,0.947368,0.752223,50.0,20
-2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,jarno-trulli,Jarno Trulli,toyota,3,70,4,0,3,1108.36316,1127.838211,19.475051,0.894737,0.505236,50.0,20
-2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,heikki-kovalainen,Heikki Kovalainen,mclaren,4,70,10,0,4,1150.857425,1164.840428,13.983003,0.842105,0.562445,50.0,20
-2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,robert-kubica,Robert Kubica,bmw-sauber,5,70,5,0,5,1233.787864,1239.810159,6.022294,0.789474,0.669028,50.0,20
-2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,mark-webber,Mark Webber,red-bull,6,70,6,0,6,1076.176265,1089.934106,13.757841,0.736842,0.461685,50.0,20
-2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,nelson-piquet-jr,Nelson Piquet Jr.,renault,7,70,9,0,7,960.960564,979.535895,18.57533,0.684211,0.312704,50.0,20
-2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,fernando-alonso,Fernando Alonso,renault,8,70,3,0,8,1294.794184,1289.387835,-5.406349,0.631579,0.739706,50.0,20
-2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,david-coulthard,David Coulthard,red-bull,9,70,7,0,9,1059.415076,1066.405813,6.990737,0.578947,0.439133,50.0,20
-2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,lewis-hamilton,Lewis Hamilton,mclaren,10,70,13,0,10,1243.259472,1235.54971,-7.709762,0.526316,0.680511,50.0,20
-2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,timo-glock,Timo Glock,toyota,11,70,8,0,11,1033.701506,1037.139775,3.43827,0.473684,0.404919,50.0,20
-2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,sebastian-vettel,Sebastian Vettel,toro-rosso,12,70,12,0,12,964.773325,969.960299,5.186974,0.421053,0.317313,50.0,20
-2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,nick-heidfeld,Nick Heidfeld,bmw-sauber,13,70,11,0,13,1239.072876,1223.721105,-15.351771,0.368421,0.675456,50.0,20
-2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,rubens-barrichello,Rubens Barrichello,honda,14,69,20,0,14,1070.015,1063.135555,-6.879446,0.315789,0.453378,50.0,20
-2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,kazuki-nakajima,Kazuki Nakajima,williams,15,69,15,0,15,1023.096933,1016.704971,-6.391962,0.263158,0.390997,50.0,20
-2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,nico-rosberg,Nico Rosberg,williams,16,69,19,0,16,1083.203059,1070.170524,-13.032535,0.210526,0.471177,50.0,20
-2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,sebastien-bourdais,Sébastien Bourdais,toro-rosso,17,69,14,0,17,958.622513,951.022654,-7.599859,0.157895,0.309892,50.0,20
-2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,giancarlo-fisichella,Giancarlo Fisichella,force-india,18,69,17,0,18,1066.209895,1049.060193,-17.149702,0.105263,0.448257,50.0,20
-2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,adrian-sutil,Adrian Sutil,force-india,19,69,18,0,19,880.975363,872.4293,-8.546063,0.052632,0.223553,50.0,20
-2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,jenson-button,Jenson Button,honda,DNF,16,16,1,20,1064.854315,1042.532582,-22.321732,0.0,0.446435,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,793,felipe-massa,Felipe Massa,ferrari,1,70,2,0,1,1291.364316,1304.566725,13.202409,1.0,0.735952,50.0,20
+2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,793,kimi-raikkonen,Kimi Räikkönen,ferrari,2,70,1,0,2,1306.421976,1316.179248,9.757272,0.947368,0.752223,50.0,20
+2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,793,jarno-trulli,Jarno Trulli,toyota,3,70,4,0,3,1108.36316,1127.838211,19.475051,0.894737,0.505236,50.0,20
+2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,793,heikki-kovalainen,Heikki Kovalainen,mclaren,4,70,10,0,4,1150.857425,1164.840428,13.983003,0.842105,0.562445,50.0,20
+2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,793,robert-kubica,Robert Kubica,bmw-sauber,5,70,5,0,5,1233.787864,1239.810159,6.022294,0.789474,0.669028,50.0,20
+2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,793,mark-webber,Mark Webber,red-bull,6,70,6,0,6,1076.176265,1089.934106,13.757841,0.736842,0.461685,50.0,20
+2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,793,nelson-piquet-jr,Nelson Piquet Jr.,renault,7,70,9,0,7,960.960564,979.535895,18.57533,0.684211,0.312704,50.0,20
+2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,793,fernando-alonso,Fernando Alonso,renault,8,70,3,0,8,1294.794184,1289.387835,-5.406349,0.631579,0.739706,50.0,20
+2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,793,david-coulthard,David Coulthard,red-bull,9,70,7,0,9,1059.415076,1066.405813,6.990737,0.578947,0.439133,50.0,20
+2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,793,lewis-hamilton,Lewis Hamilton,mclaren,10,70,13,0,10,1243.259472,1235.54971,-7.709762,0.526316,0.680511,50.0,20
+2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,793,timo-glock,Timo Glock,toyota,11,70,8,0,11,1033.701506,1037.139775,3.43827,0.473684,0.404919,50.0,20
+2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,793,sebastian-vettel,Sebastian Vettel,toro-rosso,12,70,12,0,12,964.773325,969.960299,5.186974,0.421053,0.317313,50.0,20
+2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,793,nick-heidfeld,Nick Heidfeld,bmw-sauber,13,70,11,0,13,1239.072876,1223.721105,-15.351771,0.368421,0.675456,50.0,20
+2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,793,rubens-barrichello,Rubens Barrichello,honda,14,69,20,0,14,1070.015,1063.135555,-6.879446,0.315789,0.453378,50.0,20
+2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,793,kazuki-nakajima,Kazuki Nakajima,williams,15,69,15,0,15,1023.096933,1016.704971,-6.391962,0.263158,0.390997,50.0,20
+2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,793,nico-rosberg,Nico Rosberg,williams,16,69,19,0,16,1083.203059,1070.170524,-13.032535,0.210526,0.471177,50.0,20
+2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,793,sebastien-bourdais,Sébastien Bourdais,toro-rosso,17,69,14,0,17,958.622513,951.022654,-7.599859,0.157895,0.309892,50.0,20
+2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,793,giancarlo-fisichella,Giancarlo Fisichella,force-india,18,69,17,0,18,1066.209895,1049.060193,-17.149702,0.105263,0.448257,50.0,20
+2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,793,adrian-sutil,Adrian Sutil,force-india,19,69,18,0,19,880.975363,872.4293,-8.546063,0.052632,0.223553,50.0,20
+2008,8,2008-06-22,france,Formula 1 Grand Prix de France 2008,793,jenson-button,Jenson Button,honda,DNF,16,16,1,20,1064.854315,1042.532582,-22.321732,0.0,0.446435,50.0,20

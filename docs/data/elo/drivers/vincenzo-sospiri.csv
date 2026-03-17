@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1997-03-09,1997,1,australia,lola,Lola,DNQ,,24,1000.0,983.289439,-16.710561,0.065217,0.399429,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1997-03-09,1997,1,australia,598,lola,Lola,DNQ,,24,1000.0,983.289439,-16.710561,0.065217,0.399429,50.0

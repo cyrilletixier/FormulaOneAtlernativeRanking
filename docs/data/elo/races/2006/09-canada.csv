@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,fernando-alonso,Fernando Alonso,renault,1,70,1,0,1,1392.880668,1401.166734,8.286066,1.0,0.834279,50.0,22
-2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,michael-schumacher,Michael Schumacher,ferrari,2,70,5,0,2,1295.7824,1306.306421,10.524021,0.952381,0.741901,50.0,22
-2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,kimi-raikkonen,Kimi Räikkönen,mclaren,3,70,3,0,3,1263.105807,1273.070358,9.964551,0.904762,0.705471,50.0,22
-2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,giancarlo-fisichella,Giancarlo Fisichella,renault,4,70,2,0,4,1224.320501,1234.219258,9.898756,0.857143,0.659168,50.0,22
-2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,felipe-massa,Felipe Massa,ferrari,5,70,10,0,5,1157.890959,1169.680192,11.789233,0.809524,0.573739,50.0,22
-2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,jarno-trulli,Jarno Trulli,toyota,6,69,4,0,6,1075.443869,1090.430598,14.98673,0.761905,0.46217,50.0,22
-2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,nick-heidfeld,Nick Heidfeld,bmw-sauber,7,69,13,0,7,1110.239497,1120.478016,10.238518,0.714286,0.509515,50.0,22
-2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,david-coulthard,David Coulthard,red-bull,8,69,22,0,8,1073.666121,1084.011638,10.345518,0.666667,0.459756,50.0,22
-2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,jenson-button,Jenson Button,honda,9,69,8,0,9,1177.662207,1178.62388,0.961673,0.619048,0.599814,50.0,22
-2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,scott-speed,Scott Speed,toro-rosso,10,69,17,0,10,994.97503,1005.775153,10.800123,0.571429,0.355426,50.0,22
-2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,christian-klien,Christian Klien,red-bull,11,69,12,0,11,1004.814024,1012.600814,7.78679,0.52381,0.368074,50.0,22
-2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,mark-webber,Mark Webber,williams,12,69,16,0,12,1029.334929,1033.135184,3.800254,0.47619,0.400185,50.0,22
-2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,vitantonio-liuzzi,Vitantonio Liuzzi,toro-rosso,13,68,15,0,13,1004.881751,1007.902258,3.020507,0.428571,0.368161,50.0,22
-2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,tiago-monteiro,Tiago Monteiro,midland,14,66,18,0,14,993.888509,995.234188,1.345679,0.380952,0.354039,50.0,22
-2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,takuma-sato,Takuma Sato,super-aguri,15,64,20,0,15,964.55406,965.352301,0.798241,0.333333,0.317369,50.0,22
-2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,jacques-villeneuve,Jacques Villeneuve,bmw-sauber,DNF,58,11,1,16,1087.699419,1076.852893,-10.846525,0.261905,0.478835,50.0,22
-2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,ralf-schumacher,Ralf Schumacher,toyota,DNF,58,14,1,17,1141.302524,1126.820039,-14.482485,0.261905,0.551554,50.0,22
-2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,juan-pablo-montoya,Juan Pablo Montoya,mclaren,DNF,13,7,1,18,1175.871456,1155.521686,-20.34977,0.190476,0.597472,50.0,22
-2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,rubens-barrichello,Rubens Barrichello,honda,DNF,11,9,1,19,1217.068844,1191.702682,-25.366163,0.142857,0.65018,50.0,22
-2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,franck-montagny,Franck Montagny,super-aguri,DNF,2,21,1,20,967.164552,955.898145,-11.266407,0.095238,0.320566,50.0,22
-2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,nico-rosberg,Nico Rosberg,williams,DNF,1,6,1,21,1020.065076,1003.048247,-17.016829,0.047619,0.387956,50.0,22
-2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,christijan-albers,Christijan Albers,midland,DNF,0,19,1,22,953.822718,938.604239,-15.218479,0.0,0.30437,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,759,fernando-alonso,Fernando Alonso,renault,1,70,1,0,1,1392.880668,1401.166734,8.286066,1.0,0.834279,50.0,22
+2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,759,michael-schumacher,Michael Schumacher,ferrari,2,70,5,0,2,1295.7824,1306.306421,10.524021,0.952381,0.741901,50.0,22
+2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,759,kimi-raikkonen,Kimi Räikkönen,mclaren,3,70,3,0,3,1263.105807,1273.070358,9.964551,0.904762,0.705471,50.0,22
+2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,759,giancarlo-fisichella,Giancarlo Fisichella,renault,4,70,2,0,4,1224.320501,1234.219258,9.898756,0.857143,0.659168,50.0,22
+2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,759,felipe-massa,Felipe Massa,ferrari,5,70,10,0,5,1157.890959,1169.680192,11.789233,0.809524,0.573739,50.0,22
+2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,759,jarno-trulli,Jarno Trulli,toyota,6,69,4,0,6,1075.443869,1090.430598,14.98673,0.761905,0.46217,50.0,22
+2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,759,nick-heidfeld,Nick Heidfeld,bmw-sauber,7,69,13,0,7,1110.239497,1120.478016,10.238518,0.714286,0.509515,50.0,22
+2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,759,david-coulthard,David Coulthard,red-bull,8,69,22,0,8,1073.666121,1084.011638,10.345518,0.666667,0.459756,50.0,22
+2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,759,jenson-button,Jenson Button,honda,9,69,8,0,9,1177.662207,1178.62388,0.961673,0.619048,0.599814,50.0,22
+2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,759,scott-speed,Scott Speed,toro-rosso,10,69,17,0,10,994.97503,1005.775153,10.800123,0.571429,0.355426,50.0,22
+2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,759,christian-klien,Christian Klien,red-bull,11,69,12,0,11,1004.814024,1012.600814,7.78679,0.52381,0.368074,50.0,22
+2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,759,mark-webber,Mark Webber,williams,12,69,16,0,12,1029.334929,1033.135184,3.800254,0.47619,0.400185,50.0,22
+2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,759,vitantonio-liuzzi,Vitantonio Liuzzi,toro-rosso,13,68,15,0,13,1004.881751,1007.902258,3.020507,0.428571,0.368161,50.0,22
+2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,759,tiago-monteiro,Tiago Monteiro,midland,14,66,18,0,14,993.888509,995.234188,1.345679,0.380952,0.354039,50.0,22
+2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,759,takuma-sato,Takuma Sato,super-aguri,15,64,20,0,15,964.55406,965.352301,0.798241,0.333333,0.317369,50.0,22
+2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,759,jacques-villeneuve,Jacques Villeneuve,bmw-sauber,DNF,58,11,1,16,1087.699419,1076.852893,-10.846525,0.261905,0.478835,50.0,22
+2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,759,ralf-schumacher,Ralf Schumacher,toyota,DNF,58,14,1,17,1141.302524,1126.820039,-14.482485,0.261905,0.551554,50.0,22
+2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,759,juan-pablo-montoya,Juan Pablo Montoya,mclaren,DNF,13,7,1,18,1175.871456,1155.521686,-20.34977,0.190476,0.597472,50.0,22
+2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,759,rubens-barrichello,Rubens Barrichello,honda,DNF,11,9,1,19,1217.068844,1191.702682,-25.366163,0.142857,0.65018,50.0,22
+2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,759,franck-montagny,Franck Montagny,super-aguri,DNF,2,21,1,20,967.164552,955.898145,-11.266407,0.095238,0.320566,50.0,22
+2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,759,nico-rosberg,Nico Rosberg,williams,DNF,1,6,1,21,1020.065076,1003.048247,-17.016829,0.047619,0.387956,50.0,22
+2006,9,2006-06-25,canada,Formula 1 Grand Prix du Canada 2006,759,christijan-albers,Christijan Albers,midland,DNF,0,19,1,22,953.822718,938.604239,-15.218479,0.0,0.30437,50.0,22

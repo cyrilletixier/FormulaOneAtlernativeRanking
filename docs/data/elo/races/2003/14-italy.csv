@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,michael-schumacher,Michael Schumacher,ferrari,1,53,1,0,1,1412.943594,1419.167502,6.223907,1.0,0.875522,50.0,20
-2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,juan-pablo-montoya,Juan Pablo Montoya,williams,2,53,2,0,2,1250.472762,1261.298956,10.826194,0.947368,0.730845,50.0,20
-2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,rubens-barrichello,Rubens Barrichello,ferrari,3,53,3,0,3,1209.028476,1219.610536,10.58206,0.894737,0.683096,50.0,20
-2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,kimi-raikkonen,Kimi Räikkönen,mclaren,4,53,4,0,4,1150.795633,1162.410913,11.615281,0.842105,0.6098,50.0,20
-2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,marc-gene,Marc Gené,williams,5,53,5,0,5,991.709962,1011.559721,19.849758,0.789474,0.392479,50.0,20
-2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,jacques-villeneuve,Jacques Villeneuve,bar,6,52,10,0,6,992.746888,1009.895211,17.148323,0.736842,0.393876,50.0,20
-2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,mark-webber,Mark Webber,jaguar,7,52,11,0,7,1037.620453,1049.066578,11.446125,0.684211,0.455288,50.0,20
-2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,fernando-alonso,Fernando Alonso,renault,8,52,20,0,8,1102.016067,1106.380317,4.364251,0.631579,0.544294,50.0,20
-2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,nick-heidfeld,Nick Heidfeld,sauber,9,52,16,0,9,1055.029087,1060.006229,4.977142,0.578947,0.479405,50.0,20
-2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,giancarlo-fisichella,Giancarlo Fisichella,jordan,10,52,13,0,10,976.110459,983.844904,7.734445,0.526316,0.371627,50.0,20
-2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,zsolt-baumgartner,Zsolt Baumgartner,jordan,11,51,18,0,11,991.123025,995.222823,4.099797,0.473684,0.391688,50.0,20
-2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,nicolas-kiesa,Nicolas Kiesa,minardi,12,51,19,0,12,1000.340506,1001.185907,0.845401,0.421053,0.404145,50.0,20
-2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,13,50,14,0,13,977.274635,977.037113,-0.237522,0.368421,0.373171,50.0,20
-2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,david-coulthard,David Coulthard,mclaren,DNF,45,8,1,14,1208.528117,1190.192846,-18.335271,0.315789,0.682495,50.0,20
-2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,olivier-panis,Olivier Panis,toyota,DNF,35,9,1,15,1003.172099,995.930507,-7.241592,0.263158,0.40799,50.0,20
-2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,jos-verstappen,Jos Verstappen,minardi,DNF,27,17,1,16,971.635586,963.876481,-7.759105,0.210526,0.365708,50.0,20
-2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,jenson-button,Jenson Button,bar,DNF,24,7,1,17,1075.250552,1057.773852,-17.4767,0.157895,0.507429,50.0,20
-2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,cristiano-da-matta,Cristiano da Matta,toyota,DNF,3,12,1,18,1052.069301,1033.567429,-18.501872,0.105263,0.475301,50.0,20
-2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,justin-wilson,Justin Wilson,jaguar,DNF,2,15,1,19,949.057583,934.871888,-14.185694,0.052632,0.336345,50.0,20
-2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,jarno-trulli,Jarno Trulli,renault,DNF,0,6,1,20,1083.983088,1058.008157,-25.97493,0.0,0.519499,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,711,michael-schumacher,Michael Schumacher,ferrari,1,53,1,0,1,1412.943594,1419.167502,6.223907,1.0,0.875522,50.0,20
+2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,711,juan-pablo-montoya,Juan Pablo Montoya,williams,2,53,2,0,2,1250.472762,1261.298956,10.826194,0.947368,0.730845,50.0,20
+2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,711,rubens-barrichello,Rubens Barrichello,ferrari,3,53,3,0,3,1209.028476,1219.610536,10.58206,0.894737,0.683096,50.0,20
+2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,711,kimi-raikkonen,Kimi Räikkönen,mclaren,4,53,4,0,4,1150.795633,1162.410913,11.615281,0.842105,0.6098,50.0,20
+2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,711,marc-gene,Marc Gené,williams,5,53,5,0,5,991.709962,1011.559721,19.849758,0.789474,0.392479,50.0,20
+2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,711,jacques-villeneuve,Jacques Villeneuve,bar,6,52,10,0,6,992.746888,1009.895211,17.148323,0.736842,0.393876,50.0,20
+2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,711,mark-webber,Mark Webber,jaguar,7,52,11,0,7,1037.620453,1049.066578,11.446125,0.684211,0.455288,50.0,20
+2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,711,fernando-alonso,Fernando Alonso,renault,8,52,20,0,8,1102.016067,1106.380317,4.364251,0.631579,0.544294,50.0,20
+2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,711,nick-heidfeld,Nick Heidfeld,sauber,9,52,16,0,9,1055.029087,1060.006229,4.977142,0.578947,0.479405,50.0,20
+2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,711,giancarlo-fisichella,Giancarlo Fisichella,jordan,10,52,13,0,10,976.110459,983.844904,7.734445,0.526316,0.371627,50.0,20
+2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,711,zsolt-baumgartner,Zsolt Baumgartner,jordan,11,51,18,0,11,991.123025,995.222823,4.099797,0.473684,0.391688,50.0,20
+2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,711,nicolas-kiesa,Nicolas Kiesa,minardi,12,51,19,0,12,1000.340506,1001.185907,0.845401,0.421053,0.404145,50.0,20
+2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,711,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,13,50,14,0,13,977.274635,977.037113,-0.237522,0.368421,0.373171,50.0,20
+2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,711,david-coulthard,David Coulthard,mclaren,DNF,45,8,1,14,1208.528117,1190.192846,-18.335271,0.315789,0.682495,50.0,20
+2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,711,olivier-panis,Olivier Panis,toyota,DNF,35,9,1,15,1003.172099,995.930507,-7.241592,0.263158,0.40799,50.0,20
+2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,711,jos-verstappen,Jos Verstappen,minardi,DNF,27,17,1,16,971.635586,963.876481,-7.759105,0.210526,0.365708,50.0,20
+2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,711,jenson-button,Jenson Button,bar,DNF,24,7,1,17,1075.250552,1057.773852,-17.4767,0.157895,0.507429,50.0,20
+2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,711,cristiano-da-matta,Cristiano da Matta,toyota,DNF,3,12,1,18,1052.069301,1033.567429,-18.501872,0.105263,0.475301,50.0,20
+2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,711,justin-wilson,Justin Wilson,jaguar,DNF,2,15,1,19,949.057583,934.871888,-14.185694,0.052632,0.336345,50.0,20
+2003,14,2003-09-14,italy,Gran Premio Vodafone d'Italia 2003,711,jarno-trulli,Jarno Trulli,renault,DNF,0,6,1,20,1083.983088,1058.008157,-25.97493,0.0,0.519499,50.0,20

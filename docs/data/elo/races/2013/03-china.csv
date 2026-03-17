@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,fernando-alonso,Fernando Alonso,ferrari,1,56,3,0,1,1345.787426,1357.454836,11.66741,1.0,0.766652,50.0,22
-2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,kimi-raikkonen,Kimi Räikkönen,lotus-f1,2,56,2,0,2,1331.254102,1341.267192,10.01309,0.952381,0.752119,50.0,22
-2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,3,56,1,0,3,1227.932872,1241.366267,13.433394,0.904762,0.636094,50.0,22
-2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,4,56,9,0,4,1411.538922,1413.086085,1.547163,0.857143,0.8262,50.0,22
-2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,jenson-button,Jenson Button,mclaren,5,56,8,0,5,1260.94501,1267.652207,6.707197,0.809524,0.67538,50.0,22
-2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,felipe-massa,Felipe Massa,ferrari,6,56,5,0,6,1283.073145,1286.137406,3.064261,0.761905,0.70062,50.0,22
-2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,daniel-ricciardo,Daniel Ricciardo,toro-rosso,7,56,7,0,7,1036.670182,1052.916079,16.245898,0.714286,0.389368,50.0,22
-2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,paul-di-resta,Paul di Resta,force-india,8,56,11,0,8,1106.370219,1115.691951,9.321732,0.666667,0.480232,50.0,22
-2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,9,56,6,0,9,1069.160353,1078.542855,9.382502,0.619048,0.431398,50.0,22
-2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,nico-hulkenberg,Nico Hülkenberg,sauber,10,56,10,0,10,1109.40872,1113.768622,4.359902,0.571429,0.484231,50.0,22
-2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,sergio-perez,Sergio Pérez,mclaren,11,56,12,0,11,1059.070036,1064.347663,5.277628,0.52381,0.418257,50.0,22
-2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,12,56,15,0,12,1033.55417,1038.094353,4.540183,0.47619,0.385387,50.0,22
-2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,valtteri-bottas,Valtteri Bottas,williams,13,56,16,0,13,1010.737202,1014.336452,3.59925,0.428571,0.356586,50.0,22
-2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,pastor-maldonado,Pastor Maldonado,williams,14,56,14,0,14,992.805432,995.13012,2.324688,0.380952,0.334459,50.0,22
-2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,jules-bianchi,Jules Bianchi,marussia,15,55,18,0,15,1003.740666,1003.012605,-0.728061,0.333333,0.347895,50.0,22
-2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,charles-pic,Charles Pic,caterham,16,55,20,0,16,933.295567,934.322116,1.02655,0.285714,0.265183,50.0,22
-2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,max-chilton,Max Chilton,marussia,17,55,19,0,17,992.127249,987.350429,-4.776821,0.238095,0.333632,50.0,22
-2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,giedo-van-der-garde,Giedo van der Garde,caterham,18,55,21,0,18,992.272256,985.105645,-7.166611,0.190476,0.333808,50.0,22
-2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,nico-rosberg,Nico Rosberg,mercedes,DNF,21,4,1,19,1134.502991,1115.785754,-18.717237,0.142857,0.517202,50.0,22
-2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,mark-webber,Mark Webber,red-bull,DNF,15,PL,1,20,1297.900387,1266.812711,-31.087676,0.095238,0.716992,50.0,22
-2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,adrian-sutil,Adrian Sutil,force-india,DNF,5,13,1,21,1115.241239,1093.026968,-22.214271,0.047619,0.491904,50.0,22
-2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,esteban-gutierrez,Esteban Gutiérrez,sauber,DNF,4,17,1,22,1010.59046,992.77029,-17.82017,0.0,0.356403,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,881,fernando-alonso,Fernando Alonso,ferrari,1,56,3,0,1,1345.787426,1357.454836,11.66741,1.0,0.766652,50.0,22
+2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,881,kimi-raikkonen,Kimi Räikkönen,lotus-f1,2,56,2,0,2,1331.254102,1341.267192,10.01309,0.952381,0.752119,50.0,22
+2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,881,lewis-hamilton,Lewis Hamilton,mercedes,3,56,1,0,3,1227.932872,1241.366267,13.433394,0.904762,0.636094,50.0,22
+2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,881,sebastian-vettel,Sebastian Vettel,red-bull,4,56,9,0,4,1411.538922,1413.086085,1.547163,0.857143,0.8262,50.0,22
+2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,881,jenson-button,Jenson Button,mclaren,5,56,8,0,5,1260.94501,1267.652207,6.707197,0.809524,0.67538,50.0,22
+2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,881,felipe-massa,Felipe Massa,ferrari,6,56,5,0,6,1283.073145,1286.137406,3.064261,0.761905,0.70062,50.0,22
+2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,881,daniel-ricciardo,Daniel Ricciardo,toro-rosso,7,56,7,0,7,1036.670182,1052.916079,16.245898,0.714286,0.389368,50.0,22
+2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,881,paul-di-resta,Paul di Resta,force-india,8,56,11,0,8,1106.370219,1115.691951,9.321732,0.666667,0.480232,50.0,22
+2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,881,romain-grosjean,Romain Grosjean,lotus-f1,9,56,6,0,9,1069.160353,1078.542855,9.382502,0.619048,0.431398,50.0,22
+2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,881,nico-hulkenberg,Nico Hülkenberg,sauber,10,56,10,0,10,1109.40872,1113.768622,4.359902,0.571429,0.484231,50.0,22
+2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,881,sergio-perez,Sergio Pérez,mclaren,11,56,12,0,11,1059.070036,1064.347663,5.277628,0.52381,0.418257,50.0,22
+2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,881,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,12,56,15,0,12,1033.55417,1038.094353,4.540183,0.47619,0.385387,50.0,22
+2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,881,valtteri-bottas,Valtteri Bottas,williams,13,56,16,0,13,1010.737202,1014.336452,3.59925,0.428571,0.356586,50.0,22
+2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,881,pastor-maldonado,Pastor Maldonado,williams,14,56,14,0,14,992.805432,995.13012,2.324688,0.380952,0.334459,50.0,22
+2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,881,jules-bianchi,Jules Bianchi,marussia,15,55,18,0,15,1003.740666,1003.012605,-0.728061,0.333333,0.347895,50.0,22
+2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,881,charles-pic,Charles Pic,caterham,16,55,20,0,16,933.295567,934.322116,1.02655,0.285714,0.265183,50.0,22
+2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,881,max-chilton,Max Chilton,marussia,17,55,19,0,17,992.127249,987.350429,-4.776821,0.238095,0.333632,50.0,22
+2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,881,giedo-van-der-garde,Giedo van der Garde,caterham,18,55,21,0,18,992.272256,985.105645,-7.166611,0.190476,0.333808,50.0,22
+2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,881,nico-rosberg,Nico Rosberg,mercedes,DNF,21,4,1,19,1134.502991,1115.785754,-18.717237,0.142857,0.517202,50.0,22
+2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,881,mark-webber,Mark Webber,red-bull,DNF,15,PL,1,20,1297.900387,1266.812711,-31.087676,0.095238,0.716992,50.0,22
+2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,881,adrian-sutil,Adrian Sutil,force-india,DNF,5,13,1,21,1115.241239,1093.026968,-22.214271,0.047619,0.491904,50.0,22
+2013,3,2013-04-14,china,2013 Formula 1 UBS Chinese Grand Prix,881,esteban-gutierrez,Esteban Gutiérrez,sauber,DNF,4,17,1,22,1010.59046,992.77029,-17.82017,0.0,0.356403,50.0,22

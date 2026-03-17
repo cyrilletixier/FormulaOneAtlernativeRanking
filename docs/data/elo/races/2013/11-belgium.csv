@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,1,44,2,0,1,1411.138479,1420.11192,8.973441,1.0,0.820531,50.0,22
-2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,fernando-alonso,Fernando Alonso,ferrari,2,44,9,0,2,1378.951271,1386.939422,7.988151,0.952381,0.792618,50.0,22
-2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,3,44,1,0,3,1293.484415,1303.348478,9.864063,0.904762,0.707481,50.0,22
-2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,nico-rosberg,Nico Rosberg,mercedes,4,44,4,0,4,1172.921622,1187.514274,14.592652,0.857143,0.56529,50.0,22
-2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,mark-webber,Mark Webber,red-bull,5,44,3,0,5,1312.021199,1316.135781,4.114582,0.809524,0.727232,50.0,22
-2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,jenson-button,Jenson Button,mclaren,6,44,6,0,6,1252.277588,1257.30764,5.030052,0.761905,0.661304,50.0,22
-2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,felipe-massa,Felipe Massa,ferrari,7,44,10,0,7,1221.398695,1225.86835,4.469654,0.714286,0.624893,50.0,22
-2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,8,44,7,0,8,1093.727752,1103.840238,10.112486,0.666667,0.464417,50.0,22
-2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,adrian-sutil,Adrian Sutil,force-india,9,44,12,0,9,1094.603855,1102.279291,7.675436,0.619048,0.465539,50.0,22
-2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,daniel-ricciardo,Daniel Ricciardo,toro-rosso,10,44,19,0,10,1057.841202,1065.478756,7.637554,0.571429,0.418678,50.0,22
-2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,sergio-perez,Sergio Pérez,mclaren,11,44,13,0,11,1087.609208,1090.970404,3.361196,0.52381,0.456586,50.0,22
-2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,12,44,18,0,12,1012.785228,1018.468751,5.683523,0.47619,0.36252,50.0,22
-2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,nico-hulkenberg,Nico Hülkenberg,sauber,13,44,11,0,13,1099.985245,1097.792176,-2.193069,0.428571,0.472433,50.0,22
-2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,esteban-gutierrez,Esteban Gutiérrez,sauber,14,44,21,0,14,977.779179,980.798395,3.019216,0.380952,0.320568,50.0,22
-2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,valtteri-bottas,Valtteri Bottas,williams,15,44,20,0,15,1005.280405,1004.278079,-1.002326,0.333333,0.35338,50.0,22
-2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,giedo-van-der-garde,Giedo van der Garde,caterham,16,43,14,0,16,941.626397,941.94346,0.317063,0.285714,0.279373,50.0,22
-2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,pastor-maldonado,Pastor Maldonado,williams,17,43,17,0,17,1010.708465,1004.614053,-6.094412,0.238095,0.359983,50.0,22
-2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,jules-bianchi,Jules Bianchi,marussia,18,43,15,0,18,957.252282,951.932052,-5.32023,0.190476,0.296881,50.0,22
-2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,max-chilton,Max Chilton,marussia,19,42,16,0,19,948.961884,941.728107,-7.233777,0.142857,0.287533,50.0,22
-2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,paul-di-resta,Paul di Resta,force-india,DNF,26,5,1,20,1141.76849,1120.235853,-21.532637,0.095238,0.525891,50.0,22
-2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,kimi-raikkonen,Kimi Räikkönen,lotus-f1,DNF,25,8,1,21,1363.328503,1326.798195,-36.530308,0.047619,0.778225,50.0,22
-2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,charles-pic,Charles Pic,caterham,DNF,8,22,1,22,922.527239,909.59493,-12.932308,0.0,0.258646,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,889,sebastian-vettel,Sebastian Vettel,red-bull,1,44,2,0,1,1411.138479,1420.11192,8.973441,1.0,0.820531,50.0,22
+2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,889,fernando-alonso,Fernando Alonso,ferrari,2,44,9,0,2,1378.951271,1386.939422,7.988151,0.952381,0.792618,50.0,22
+2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,889,lewis-hamilton,Lewis Hamilton,mercedes,3,44,1,0,3,1293.484415,1303.348478,9.864063,0.904762,0.707481,50.0,22
+2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,889,nico-rosberg,Nico Rosberg,mercedes,4,44,4,0,4,1172.921622,1187.514274,14.592652,0.857143,0.56529,50.0,22
+2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,889,mark-webber,Mark Webber,red-bull,5,44,3,0,5,1312.021199,1316.135781,4.114582,0.809524,0.727232,50.0,22
+2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,889,jenson-button,Jenson Button,mclaren,6,44,6,0,6,1252.277588,1257.30764,5.030052,0.761905,0.661304,50.0,22
+2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,889,felipe-massa,Felipe Massa,ferrari,7,44,10,0,7,1221.398695,1225.86835,4.469654,0.714286,0.624893,50.0,22
+2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,889,romain-grosjean,Romain Grosjean,lotus-f1,8,44,7,0,8,1093.727752,1103.840238,10.112486,0.666667,0.464417,50.0,22
+2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,889,adrian-sutil,Adrian Sutil,force-india,9,44,12,0,9,1094.603855,1102.279291,7.675436,0.619048,0.465539,50.0,22
+2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,889,daniel-ricciardo,Daniel Ricciardo,toro-rosso,10,44,19,0,10,1057.841202,1065.478756,7.637554,0.571429,0.418678,50.0,22
+2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,889,sergio-perez,Sergio Pérez,mclaren,11,44,13,0,11,1087.609208,1090.970404,3.361196,0.52381,0.456586,50.0,22
+2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,889,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,12,44,18,0,12,1012.785228,1018.468751,5.683523,0.47619,0.36252,50.0,22
+2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,889,nico-hulkenberg,Nico Hülkenberg,sauber,13,44,11,0,13,1099.985245,1097.792176,-2.193069,0.428571,0.472433,50.0,22
+2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,889,esteban-gutierrez,Esteban Gutiérrez,sauber,14,44,21,0,14,977.779179,980.798395,3.019216,0.380952,0.320568,50.0,22
+2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,889,valtteri-bottas,Valtteri Bottas,williams,15,44,20,0,15,1005.280405,1004.278079,-1.002326,0.333333,0.35338,50.0,22
+2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,889,giedo-van-der-garde,Giedo van der Garde,caterham,16,43,14,0,16,941.626397,941.94346,0.317063,0.285714,0.279373,50.0,22
+2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,889,pastor-maldonado,Pastor Maldonado,williams,17,43,17,0,17,1010.708465,1004.614053,-6.094412,0.238095,0.359983,50.0,22
+2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,889,jules-bianchi,Jules Bianchi,marussia,18,43,15,0,18,957.252282,951.932052,-5.32023,0.190476,0.296881,50.0,22
+2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,889,max-chilton,Max Chilton,marussia,19,42,16,0,19,948.961884,941.728107,-7.233777,0.142857,0.287533,50.0,22
+2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,889,paul-di-resta,Paul di Resta,force-india,DNF,26,5,1,20,1141.76849,1120.235853,-21.532637,0.095238,0.525891,50.0,22
+2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,889,kimi-raikkonen,Kimi Räikkönen,lotus-f1,DNF,25,8,1,21,1363.328503,1326.798195,-36.530308,0.047619,0.778225,50.0,22
+2013,11,2013-08-25,belgium,2013 Formula 1 Shell Belgian Grand Prix,889,charles-pic,Charles Pic,caterham,DNF,8,22,1,22,922.527239,909.59493,-12.932308,0.0,0.258646,50.0,22

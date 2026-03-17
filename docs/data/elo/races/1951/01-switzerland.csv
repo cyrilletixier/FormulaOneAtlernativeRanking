@@ -1,22 +1,22 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,juan-manuel-fangio,Juan Manuel Fangio,alfa-romeo,1,42,1,0,1,1053.450078,1074.923128,21.473051,1.0,0.570539,50.0,21
-1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,piero-taruffi,Piero Taruffi,ferrari,2,42,6,0,2,1000.468715,1023.401335,22.93262,0.95,0.491348,50.0,21
-1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,nino-farina,Nino Farina,alfa-romeo,3,42,2,0,3,1070.253641,1085.495737,15.242096,0.9,0.595158,50.0,21
-1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,consalvo-sanesi,Consalvo Sanesi,alfa-romeo,4,41,4,0,4,983.161023,1002.39178,19.230757,0.85,0.465385,50.0,21
-1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,emmanuel-de-graffenried,Emmanuel de Graffenried,alfa-romeo,5,40,5,0,5,1004.719211,1019.832472,15.113261,0.8,0.497735,50.0,21
-1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,alberto-ascari,Alberto Ascari,ferrari,6,40,7,0,6,1031.398588,1042.010398,10.611811,0.75,0.537764,50.0,21
-1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,louis-chiron,Louis Chiron,maserati,7,40,19,0,7,978.332863,990.424528,12.091665,0.7,0.458167,50.0,21
-1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,stirling-moss,Stirling Moss,hwm,8,40,14,0,8,1000.0,1007.967831,7.967831,0.65,0.490643,50.0,21
-1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,louis-rosier,Louis Rosier,talbot-lago,9,39,8,0,9,1058.917711,1059.988214,1.070503,0.6,0.57859,50.0,21
-1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,philippe-etancelin,Philippe Étancelin,talbot-lago,10,39,12,0,10,1012.328667,1014.370183,2.041516,0.55,0.50917,50.0,21
-1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,rudi-fischer,Rudi Fischer,ferrari,11,39,10,0,11,1000.0,1000.467831,0.467831,0.5,0.490643,50.0,21
-1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,harry-schell,Harry Schell,maserati,12,38,17,0,12,995.819717,994.101493,-1.718224,0.45,0.484364,50.0,21
-1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,johnny-claes,Johnny Claes,talbot-lago,13,35,18,0,13,992.830954,988.837061,-3.993893,0.4,0.479878,50.0,21
-1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,guy-mairesse,Guy Mairesse,talbot-lago,14,31,21,0,14,1004.314869,996.958513,-7.356356,0.35,0.497127,50.0,21
-1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,peter-whitehead,Peter Whitehead,ferrari,DNF,36,9,1,15,1010.29471,999.989029,-10.305682,0.3,0.506114,50.0,21
-1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,henri-louveau,Henri Louveau,talbot-lago,DNF,30,11,1,16,990.85333,979.507796,-11.345534,0.25,0.476911,50.0,21
-1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,george-abecassis,George Abecassis,hwm,DNF,23,20,1,17,1000.0,985.467831,-14.532169,0.2,0.490643,50.0,21
-1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,yves-giraud-cabantous,Yves Giraud-Cabantous,talbot-lago,DNF,14,15,1,18,971.182911,956.307556,-14.875355,0.15,0.447507,50.0,21
-1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,luigi-villoresi,Luigi Villoresi,ferrari,DNF,12,3,1,19,995.601554,976.399709,-19.201845,0.1,0.484037,50.0,21
-1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,jose-froilan-gonzalez,José Froilán González,talbot-lago,DNF,10,13,1,20,977.976341,957.594626,-20.381715,0.05,0.457634,50.0,21
-1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,peter-hirt,Peter Hirt,veritas,DNF,0,16,1,21,1000.0,975.467831,-24.532169,0.0,0.490643,50.0,21
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,8,juan-manuel-fangio,Juan Manuel Fangio,alfa-romeo,1,42,1,0,1,1053.450078,1074.923128,21.473051,1.0,0.570539,50.0,21
+1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,8,piero-taruffi,Piero Taruffi,ferrari,2,42,6,0,2,1000.468715,1023.401335,22.93262,0.95,0.491348,50.0,21
+1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,8,nino-farina,Nino Farina,alfa-romeo,3,42,2,0,3,1070.253641,1085.495737,15.242096,0.9,0.595158,50.0,21
+1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,8,consalvo-sanesi,Consalvo Sanesi,alfa-romeo,4,41,4,0,4,983.161023,1002.39178,19.230757,0.85,0.465385,50.0,21
+1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,8,emmanuel-de-graffenried,Emmanuel de Graffenried,alfa-romeo,5,40,5,0,5,1004.719211,1019.832472,15.113261,0.8,0.497735,50.0,21
+1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,8,alberto-ascari,Alberto Ascari,ferrari,6,40,7,0,6,1031.398588,1042.010398,10.611811,0.75,0.537764,50.0,21
+1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,8,louis-chiron,Louis Chiron,maserati,7,40,19,0,7,978.332863,990.424528,12.091665,0.7,0.458167,50.0,21
+1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,8,stirling-moss,Stirling Moss,hwm,8,40,14,0,8,1000.0,1007.967831,7.967831,0.65,0.490643,50.0,21
+1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,8,louis-rosier,Louis Rosier,talbot-lago,9,39,8,0,9,1058.917711,1059.988214,1.070503,0.6,0.57859,50.0,21
+1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,8,philippe-etancelin,Philippe Étancelin,talbot-lago,10,39,12,0,10,1012.328667,1014.370183,2.041516,0.55,0.50917,50.0,21
+1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,8,rudi-fischer,Rudi Fischer,ferrari,11,39,10,0,11,1000.0,1000.467831,0.467831,0.5,0.490643,50.0,21
+1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,8,harry-schell,Harry Schell,maserati,12,38,17,0,12,995.819717,994.101493,-1.718224,0.45,0.484364,50.0,21
+1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,8,johnny-claes,Johnny Claes,talbot-lago,13,35,18,0,13,992.830954,988.837061,-3.993893,0.4,0.479878,50.0,21
+1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,8,guy-mairesse,Guy Mairesse,talbot-lago,14,31,21,0,14,1004.314869,996.958513,-7.356356,0.35,0.497127,50.0,21
+1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,8,peter-whitehead,Peter Whitehead,ferrari,DNF,36,9,1,15,1010.29471,999.989029,-10.305682,0.3,0.506114,50.0,21
+1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,8,henri-louveau,Henri Louveau,talbot-lago,DNF,30,11,1,16,990.85333,979.507796,-11.345534,0.25,0.476911,50.0,21
+1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,8,george-abecassis,George Abecassis,hwm,DNF,23,20,1,17,1000.0,985.467831,-14.532169,0.2,0.490643,50.0,21
+1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,8,yves-giraud-cabantous,Yves Giraud-Cabantous,talbot-lago,DNF,14,15,1,18,971.182911,956.307556,-14.875355,0.15,0.447507,50.0,21
+1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,8,luigi-villoresi,Luigi Villoresi,ferrari,DNF,12,3,1,19,995.601554,976.399709,-19.201845,0.1,0.484037,50.0,21
+1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,8,jose-froilan-gonzalez,José Froilán González,talbot-lago,DNF,10,13,1,20,977.976341,957.594626,-20.381715,0.05,0.457634,50.0,21
+1951,1,1951-05-27,switzerland,Grosser Preis der Schweiz 1951,8,peter-hirt,Peter Hirt,veritas,DNF,0,16,1,21,1000.0,975.467831,-24.532169,0.0,0.490643,50.0,21

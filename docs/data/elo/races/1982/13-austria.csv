@@ -1,30 +1,30 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,elio-de-angelis,Elio de Angelis,lotus,1,53,7,0,1,1171.863962,1188.924515,17.060553,1.0,0.658789,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,keke-rosberg,Keke Rosberg,williams,2,53,6,0,2,1127.957553,1146.127256,18.169703,0.964286,0.600892,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,jacques-laffite,Jacques Laffite,ligier,3,52,14,0,3,1141.79536,1157.249877,15.454517,0.928571,0.619481,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,patrick-tambay,Patrick Tambay,ferrari,4,52,4,0,4,1109.525158,1125.380929,15.85577,0.892857,0.575742,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,niki-lauda,Niki Lauda,mclaren,5,52,10,0,5,1113.496803,1127.294266,13.797462,0.857143,0.581194,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,mauro-baldi,Mauro Baldi,arrows,6,52,23,0,6,999.572794,1019.511887,19.939094,0.821429,0.422647,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,chico-serra,Chico Serra,fittipaldi,7,51,20,0,7,930.656989,953.366031,22.709042,0.785714,0.331533,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,alain-prost,Alain Prost,renault,8,48,3,0,8,1152.461366,1158.280977,5.81961,0.75,0.633608,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,john-watson,John Watson,mclaren,DNF,44,18,1,9,1218.767401,1218.663565,-0.103836,0.714286,0.716362,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,brian-henton,Brian Henton,tyrrell,DNF,32,19,1,10,985.997691,999.719757,13.722066,0.678571,0.40413,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,nelson-piquet,Nelson Piquet,brabham,DNF,31,1,1,11,1163.176487,1162.939268,-0.237219,0.642857,0.647602,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,marc-surer,Marc Surer,arrows,DNF,28,21,1,12,1140.422497,1139.00431,-1.418187,0.589286,0.617649,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,tommy-byrne,Tommy Byrne,theodore,DNF,28,26,1,13,984.255036,993.630848,9.375812,0.589286,0.401769,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,riccardo-patrese,Riccardo Patrese,brabham,DNF,27,2,1,14,1078.898051,1079.021189,0.123138,0.535714,0.533252,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,eddie-cheever,Eddie Cheever,ligier,DNF,22,22,1,15,1059.378469,1059.082343,-0.296126,0.5,0.505923,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,nigel-mansell,Nigel Mansell,lotus,DNF,17,12,1,16,1070.851813,1067.966185,-2.885628,0.464286,0.521998,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,rene-arnoux,René Arnoux,renault,DNF,16,5,1,17,1110.584004,1103.152735,-7.431269,0.428571,0.577197,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,15,25,1,18,959.95208,961.129639,1.177559,0.392857,0.369306,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,derek-warwick,Derek Warwick,toleman,DNF,7,15,1,19,907.399701,909.222944,1.823243,0.339286,0.302821,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,teo-fabi,Teo Fabi,toleman,DNF,7,17,1,20,911.828373,913.383,1.554627,0.339286,0.308193,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,roberto-guerrero,Roberto Guerrero,ensign,DNF,6,16,1,21,945.252971,942.031334,-3.221637,0.285714,0.350147,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,michele-alboreto,Michele Alboreto,tyrrell,DNF,1,8,1,22,1134.405612,1115.53334,-18.872272,0.232143,0.609588,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,rupert-keegan,Rupert Keegan,march,DNF,1,24,1,23,932.323519,927.24883,-5.074689,0.232143,0.333637,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,DNF,0,11,1,24,1047.287193,1029.98143,-17.305762,0.142857,0.488972,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,DNF,0,13,1,25,1101.570837,1080.474889,-21.095948,0.142857,0.564776,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,derek-daly,Derek Daly,williams,DNF,0,9,1,26,1112.515275,1090.665741,-21.849533,0.142857,0.579848,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,eliseo-salazar,Eliseo Salazar,ats-wheels,DNQ,,,2,27,983.300364,965.06218,-18.238183,0.035714,0.400478,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,jean-pierre-jarier,Jean-Pierre Jarier,osella,DNQ,,,2,28,1022.833638,1001.879209,-20.954429,0.035714,0.454803,50.0,29
-1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,raul-boesel,Raul Boesel,march,DNQ,,,2,29,973.777256,956.179777,-17.597478,0.035714,0.387664,50.0,29
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,elio-de-angelis,Elio de Angelis,lotus,1,53,7,0,1,1171.863962,1188.924515,17.060553,1.0,0.658789,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,keke-rosberg,Keke Rosberg,williams,2,53,6,0,2,1127.957553,1146.127256,18.169703,0.964286,0.600892,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,jacques-laffite,Jacques Laffite,ligier,3,52,14,0,3,1141.79536,1157.249877,15.454517,0.928571,0.619481,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,patrick-tambay,Patrick Tambay,ferrari,4,52,4,0,4,1109.525158,1125.380929,15.85577,0.892857,0.575742,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,niki-lauda,Niki Lauda,mclaren,5,52,10,0,5,1113.496803,1127.294266,13.797462,0.857143,0.581194,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,mauro-baldi,Mauro Baldi,arrows,6,52,23,0,6,999.572794,1019.511887,19.939094,0.821429,0.422647,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,chico-serra,Chico Serra,fittipaldi,7,51,20,0,7,930.656989,953.366031,22.709042,0.785714,0.331533,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,alain-prost,Alain Prost,renault,8,48,3,0,8,1152.461366,1158.280977,5.81961,0.75,0.633608,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,john-watson,John Watson,mclaren,DNF,44,18,1,9,1218.767401,1218.663565,-0.103836,0.714286,0.716362,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,brian-henton,Brian Henton,tyrrell,DNF,32,19,1,10,985.997691,999.719757,13.722066,0.678571,0.40413,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,nelson-piquet,Nelson Piquet,brabham,DNF,31,1,1,11,1163.176487,1162.939268,-0.237219,0.642857,0.647602,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,marc-surer,Marc Surer,arrows,DNF,28,21,1,12,1140.422497,1139.00431,-1.418187,0.589286,0.617649,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,tommy-byrne,Tommy Byrne,theodore,DNF,28,26,1,13,984.255036,993.630848,9.375812,0.589286,0.401769,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,riccardo-patrese,Riccardo Patrese,brabham,DNF,27,2,1,14,1078.898051,1079.021189,0.123138,0.535714,0.533252,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,eddie-cheever,Eddie Cheever,ligier,DNF,22,22,1,15,1059.378469,1059.082343,-0.296126,0.5,0.505923,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,nigel-mansell,Nigel Mansell,lotus,DNF,17,12,1,16,1070.851813,1067.966185,-2.885628,0.464286,0.521998,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,rene-arnoux,René Arnoux,renault,DNF,16,5,1,17,1110.584004,1103.152735,-7.431269,0.428571,0.577197,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,15,25,1,18,959.95208,961.129639,1.177559,0.392857,0.369306,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,derek-warwick,Derek Warwick,toleman,DNF,7,15,1,19,907.399701,909.222944,1.823243,0.339286,0.302821,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,teo-fabi,Teo Fabi,toleman,DNF,7,17,1,20,911.828373,913.383,1.554627,0.339286,0.308193,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,roberto-guerrero,Roberto Guerrero,ensign,DNF,6,16,1,21,945.252971,942.031334,-3.221637,0.285714,0.350147,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,michele-alboreto,Michele Alboreto,tyrrell,DNF,1,8,1,22,1134.405612,1115.53334,-18.872272,0.232143,0.609588,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,rupert-keegan,Rupert Keegan,march,DNF,1,24,1,23,932.323519,927.24883,-5.074689,0.232143,0.333637,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,DNF,0,11,1,24,1047.287193,1029.98143,-17.305762,0.142857,0.488972,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,DNF,0,13,1,25,1101.570837,1080.474889,-21.095948,0.142857,0.564776,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,derek-daly,Derek Daly,williams,DNF,0,9,1,26,1112.515275,1090.665741,-21.849533,0.142857,0.579848,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,eliseo-salazar,Eliseo Salazar,ats-wheels,DNQ,,,2,27,983.300364,965.06218,-18.238183,0.035714,0.400478,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,jean-pierre-jarier,Jean-Pierre Jarier,osella,DNQ,,,2,28,1022.833638,1001.879209,-20.954429,0.035714,0.454803,50.0,29
+1982,13,1982-08-15,austria,Grosser Preis von Österreich 1982,370,raul-boesel,Raul Boesel,march,DNQ,,,2,29,973.777256,956.179777,-17.597478,0.035714,0.387664,50.0,29

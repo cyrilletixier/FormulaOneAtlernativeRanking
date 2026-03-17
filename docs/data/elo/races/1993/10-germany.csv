@@ -1,27 +1,27 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,alain-prost,Alain Prost,williams,1,45,1,0,1,1338.355137,1348.568166,10.213029,1.0,0.795739,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,michael-schumacher,Michael Schumacher,benetton,2,45,3,0,2,1245.114261,1258.384708,13.270447,0.96,0.694591,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,mark-blundell,Mark Blundell,ligier,3,45,5,0,3,1039.956915,1065.112033,25.155118,0.92,0.416898,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,ayrton-senna,Ayrton Senna,mclaren,4,45,4,0,4,1298.299573,1304.540626,6.241054,0.88,0.755179,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,riccardo-patrese,Riccardo Patrese,benetton,5,45,7,0,5,1214.631494,1223.793907,9.162413,0.84,0.656752,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,gerhard-berger,Gerhard Berger,ferrari,6,45,9,0,6,1163.879389,1174.393251,10.513862,0.8,0.589723,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,jean-alesi,Jean Alesi,ferrari,7,45,10,0,7,1115.043107,1126.940315,11.897207,0.76,0.522056,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,martin-brundle,Martin Brundle,ligier,8,44,6,0,8,1195.706688,1200.092694,4.386005,0.72,0.63228,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,karl-wendlinger,Karl Wendlinger,sauber,9,44,14,0,9,1041.857224,1054.881191,13.023968,0.68,0.419521,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,johnny-herbert,Johnny Herbert,lotus,10,44,13,0,10,1077.910818,1086.419389,8.508571,0.64,0.469829,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,christian-fittipaldi,Christian Fittipaldi,minardi,11,44,20,0,11,1114.881373,1118.789928,3.908555,0.6,0.521829,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,philippe-alliot,Philippe Alliot,larrousse,12,44,23,0,12,1079.827275,1084.201164,4.373889,0.56,0.472522,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,thierry-boutsen,Thierry Boutsen,jordan,13,44,24,0,13,1084.612199,1086.649613,2.037413,0.52,0.479252,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,pierluigi-martini,Pierluigi Martini,minardi,14,44,22,0,14,1077.237403,1077.793287,0.555884,0.48,0.468882,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,damon-hill,Damon Hill,williams,15,43,2,0,15,1068.608788,1067.770135,-0.838653,0.44,0.456773,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,michele-alboreto,Michele Alboreto,lola,16,43,26,0,16,994.899514,997.095185,2.195671,0.4,0.356087,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,derek-warwick,Derek Warwick,footwork,17,42,11,0,17,1138.719486,1128.963444,-9.756042,0.36,0.555121,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,rubens-barrichello,Rubens Barrichello,jordan,DNF,34,17,1,18,1039.470829,1034.659464,-4.811365,0.32,0.416227,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,ukyo-katayama,Ukyo Katayama,tyrrell,DNF,28,21,1,19,972.766269,970.39248,-2.373789,0.28,0.327476,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,jj-lehto,JJ Lehto,sauber,DNF,22,18,1,20,1113.58254,1099.582247,-14.000293,0.24,0.520006,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,alex-zanardi,Alex Zanardi,lotus,DNF,19,15,1,21,1033.875836,1023.449339,-10.426497,0.2,0.40853,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,aguri-suzuki,Aguri Suzuki,footwork,DNF,9,8,1,22,1042.384179,1029.371746,-13.012433,0.16,0.420249,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,luca-badoer,Luca Badoer,lola,DNF,4,25,1,23,985.685519,973.482618,-12.202901,0.1,0.344058,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,michael-andretti,Michael Andretti,mclaren,DNF,4,12,1,24,1017.605105,1003.286955,-14.318151,0.1,0.386363,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,andrea-de-cesaris,Andrea de Cesaris,tyrrell,DNF,1,19,1,25,1065.801347,1045.159322,-20.642025,0.04,0.45284,50.0,26
-1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,erik-comas,Érik Comas,larrousse,DNF,0,16,1,26,1071.779215,1048.718277,-23.060938,0.0,0.461219,50.0,26
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,alain-prost,Alain Prost,williams,1,45,1,0,1,1338.355137,1348.568166,10.213029,1.0,0.795739,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,michael-schumacher,Michael Schumacher,benetton,2,45,3,0,2,1245.114261,1258.384708,13.270447,0.96,0.694591,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,mark-blundell,Mark Blundell,ligier,3,45,5,0,3,1039.956915,1065.112033,25.155118,0.92,0.416898,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,ayrton-senna,Ayrton Senna,mclaren,4,45,4,0,4,1298.299573,1304.540626,6.241054,0.88,0.755179,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,riccardo-patrese,Riccardo Patrese,benetton,5,45,7,0,5,1214.631494,1223.793907,9.162413,0.84,0.656752,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,gerhard-berger,Gerhard Berger,ferrari,6,45,9,0,6,1163.879389,1174.393251,10.513862,0.8,0.589723,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,jean-alesi,Jean Alesi,ferrari,7,45,10,0,7,1115.043107,1126.940315,11.897207,0.76,0.522056,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,martin-brundle,Martin Brundle,ligier,8,44,6,0,8,1195.706688,1200.092694,4.386005,0.72,0.63228,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,karl-wendlinger,Karl Wendlinger,sauber,9,44,14,0,9,1041.857224,1054.881191,13.023968,0.68,0.419521,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,johnny-herbert,Johnny Herbert,lotus,10,44,13,0,10,1077.910818,1086.419389,8.508571,0.64,0.469829,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,christian-fittipaldi,Christian Fittipaldi,minardi,11,44,20,0,11,1114.881373,1118.789928,3.908555,0.6,0.521829,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,philippe-alliot,Philippe Alliot,larrousse,12,44,23,0,12,1079.827275,1084.201164,4.373889,0.56,0.472522,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,thierry-boutsen,Thierry Boutsen,jordan,13,44,24,0,13,1084.612199,1086.649613,2.037413,0.52,0.479252,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,pierluigi-martini,Pierluigi Martini,minardi,14,44,22,0,14,1077.237403,1077.793287,0.555884,0.48,0.468882,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,damon-hill,Damon Hill,williams,15,43,2,0,15,1068.608788,1067.770135,-0.838653,0.44,0.456773,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,michele-alboreto,Michele Alboreto,lola,16,43,26,0,16,994.899514,997.095185,2.195671,0.4,0.356087,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,derek-warwick,Derek Warwick,footwork,17,42,11,0,17,1138.719486,1128.963444,-9.756042,0.36,0.555121,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,rubens-barrichello,Rubens Barrichello,jordan,DNF,34,17,1,18,1039.470829,1034.659464,-4.811365,0.32,0.416227,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,ukyo-katayama,Ukyo Katayama,tyrrell,DNF,28,21,1,19,972.766269,970.39248,-2.373789,0.28,0.327476,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,jj-lehto,JJ Lehto,sauber,DNF,22,18,1,20,1113.58254,1099.582247,-14.000293,0.24,0.520006,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,alex-zanardi,Alex Zanardi,lotus,DNF,19,15,1,21,1033.875836,1023.449339,-10.426497,0.2,0.40853,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,aguri-suzuki,Aguri Suzuki,footwork,DNF,9,8,1,22,1042.384179,1029.371746,-13.012433,0.16,0.420249,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,luca-badoer,Luca Badoer,lola,DNF,4,25,1,23,985.685519,973.482618,-12.202901,0.1,0.344058,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,michael-andretti,Michael Andretti,mclaren,DNF,4,12,1,24,1017.605105,1003.286955,-14.318151,0.1,0.386363,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,andrea-de-cesaris,Andrea de Cesaris,tyrrell,DNF,1,19,1,25,1065.801347,1045.159322,-20.642025,0.04,0.45284,50.0,26
+1993,10,1993-07-25,germany,Grosser Mobil 1 Preis von Deutschland 1993,542,erik-comas,Érik Comas,larrousse,DNF,0,16,1,26,1071.779215,1048.718277,-23.060938,0.0,0.461219,50.0,26

@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,1,53,2,0,1,1522.280347,1527.620279,5.339932,1.0,0.893201,50.0,20
-2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,valtteri-bottas,Valtteri Bottas,mercedes,2,53,1,0,2,1361.832572,1370.546699,8.714127,0.947368,0.773086,50.0,20
-2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,3,53,3,0,3,1411.390822,1415.324408,3.933585,0.894737,0.816065,50.0,20
-2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,4,53,4,0,4,1309.719301,1315.713909,5.994609,0.842105,0.722213,50.0,20
-2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,max-verstappen,Max Verstappen,red-bull,5,53,19,0,5,1253.469681,1259.88504,6.415359,0.789474,0.661167,50.0,20
-2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,6,53,18,0,6,1190.970558,1198.464051,7.493493,0.736842,0.586972,50.0,20
-2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,charles-leclerc,Charles Leclerc,sauber,7,53,7,0,7,999.861804,1016.857812,16.996007,0.684211,0.34429,50.0,20
-2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,kevin-magnussen,Kevin Magnussen,haas,8,52,5,0,8,1082.2242,1091.380245,9.156046,0.631579,0.448458,50.0,20
-2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,esteban-ocon,Esteban Ocon,force-india,9,52,6,0,9,1114.081568,1118.549437,4.467869,0.578947,0.48959,50.0,20
-2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,sergio-perez,Sergio Pérez,force-india,10,52,8,0,10,1159.893295,1158.800198,-1.093097,0.526316,0.548178,50.0,20
-2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,romain-grosjean,Romain Grosjean,haas,11,52,9,0,11,1036.131373,1040.342904,4.211531,0.473684,0.389454,50.0,20
-2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,nico-hulkenberg,Nico Hülkenberg,renault,12,52,12,0,12,1081.366263,1080.051337,-1.314925,0.421053,0.447351,50.0,20
-2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,13,52,10,0,13,988.583584,990.474928,1.891344,0.368421,0.330594,50.0,20
-2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,fernando-alonso,Fernando Alonso,mclaren,14,52,16,0,14,1057.864288,1052.797483,-5.066805,0.315789,0.417126,50.0,20
-2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,lance-stroll,Lance Stroll,williams,15,52,14,0,15,1002.588676,998.365093,-4.223583,0.263158,0.34763,50.0,20
-2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,stoffel-vandoorne,Stoffel Vandoorne,mclaren,16,51,15,0,16,1014.352105,1006.771016,-7.581089,0.210526,0.362148,50.0,20
-2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,renault,17,51,11,0,17,1114.501066,1097.889257,-16.611809,0.157895,0.490131,50.0,20
-2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,sergey-sirotkin,Sergey Sirotkin,williams,18,51,13,0,18,949.389566,940.420088,-8.969477,0.105263,0.284653,50.0,20
-2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,brendon-hartley,Brendon Hartley,toro-rosso,DNF,4,20,1,19,934.294436,922.22281,-12.071626,0.026316,0.267748,50.0,20
-2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,pierre-gasly,Pierre Gasly,toro-rosso,DNF,4,17,1,20,1028.592236,1010.910745,-17.681491,0.026316,0.379946,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,992,lewis-hamilton,Lewis Hamilton,mercedes,1,53,2,0,1,1522.280347,1527.620279,5.339932,1.0,0.893201,50.0,20
+2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,992,valtteri-bottas,Valtteri Bottas,mercedes,2,53,1,0,2,1361.832572,1370.546699,8.714127,0.947368,0.773086,50.0,20
+2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,992,sebastian-vettel,Sebastian Vettel,ferrari,3,53,3,0,3,1411.390822,1415.324408,3.933585,0.894737,0.816065,50.0,20
+2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,992,kimi-raikkonen,Kimi Räikkönen,ferrari,4,53,4,0,4,1309.719301,1315.713909,5.994609,0.842105,0.722213,50.0,20
+2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,992,max-verstappen,Max Verstappen,red-bull,5,53,19,0,5,1253.469681,1259.88504,6.415359,0.789474,0.661167,50.0,20
+2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,992,daniel-ricciardo,Daniel Ricciardo,red-bull,6,53,18,0,6,1190.970558,1198.464051,7.493493,0.736842,0.586972,50.0,20
+2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,992,charles-leclerc,Charles Leclerc,sauber,7,53,7,0,7,999.861804,1016.857812,16.996007,0.684211,0.34429,50.0,20
+2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,992,kevin-magnussen,Kevin Magnussen,haas,8,52,5,0,8,1082.2242,1091.380245,9.156046,0.631579,0.448458,50.0,20
+2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,992,esteban-ocon,Esteban Ocon,force-india,9,52,6,0,9,1114.081568,1118.549437,4.467869,0.578947,0.48959,50.0,20
+2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,992,sergio-perez,Sergio Pérez,force-india,10,52,8,0,10,1159.893295,1158.800198,-1.093097,0.526316,0.548178,50.0,20
+2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,992,romain-grosjean,Romain Grosjean,haas,11,52,9,0,11,1036.131373,1040.342904,4.211531,0.473684,0.389454,50.0,20
+2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,992,nico-hulkenberg,Nico Hülkenberg,renault,12,52,12,0,12,1081.366263,1080.051337,-1.314925,0.421053,0.447351,50.0,20
+2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,992,marcus-ericsson,Marcus Ericsson,sauber,13,52,10,0,13,988.583584,990.474928,1.891344,0.368421,0.330594,50.0,20
+2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,992,fernando-alonso,Fernando Alonso,mclaren,14,52,16,0,14,1057.864288,1052.797483,-5.066805,0.315789,0.417126,50.0,20
+2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,992,lance-stroll,Lance Stroll,williams,15,52,14,0,15,1002.588676,998.365093,-4.223583,0.263158,0.34763,50.0,20
+2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,992,stoffel-vandoorne,Stoffel Vandoorne,mclaren,16,51,15,0,16,1014.352105,1006.771016,-7.581089,0.210526,0.362148,50.0,20
+2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,992,carlos-sainz-jr,Carlos Sainz Jr.,renault,17,51,11,0,17,1114.501066,1097.889257,-16.611809,0.157895,0.490131,50.0,20
+2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,992,sergey-sirotkin,Sergey Sirotkin,williams,18,51,13,0,18,949.389566,940.420088,-8.969477,0.105263,0.284653,50.0,20
+2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,992,brendon-hartley,Brendon Hartley,toro-rosso,DNF,4,20,1,19,934.294436,922.22281,-12.071626,0.026316,0.267748,50.0,20
+2018,16,2018-09-30,russia,Formula 1 2018 VTB Russian Grand Prix,992,pierre-gasly,Pierre Gasly,toro-rosso,DNF,4,17,1,20,1028.592236,1010.910745,-17.681491,0.026316,0.379946,50.0,20

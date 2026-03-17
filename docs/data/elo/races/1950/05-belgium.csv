@@ -1,15 +1,15 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,juan-manuel-fangio,Juan Manuel Fangio,alfa-romeo,1,35,2,0,1,1014.452386,1038.816055,24.363669,1.0,0.512727,50.0,14
-1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,luigi-fagioli,Luigi Fagioli,alfa-romeo,2,35,3,0,2,1032.881919,1051.977895,19.095976,0.923077,0.541157,50.0,14
-1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,louis-rosier,Louis Rosier,talbot-lago,3,35,8,0,3,1024.115794,1040.040833,15.925039,0.846154,0.527653,50.0,14
-1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,nino-farina,Nino Farina,alfa-romeo,4,35,1,0,4,1037.765007,1048.793622,11.028615,0.769231,0.548658,50.0,14
-1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,alberto-ascari,Alberto Ascari,ferrari,5,34,7,0,5,999.377958,1009.522768,10.144809,0.692308,0.489412,50.0,14
-1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,luigi-villoresi,Luigi Villoresi,ferrari,6,33,4,0,6,988.459522,995.601554,7.142032,0.615385,0.472544,50.0,14
-1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,pierre-levegh,Pierre Levegh,talbot-lago,7,33,10,0,7,1000.0,1002.404406,2.404406,0.538462,0.490373,50.0,14
-1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,johnny-claes,Johnny Claes,talbot-lago,8,32,14,0,8,1008.416367,1006.323703,-2.092665,0.461538,0.503392,50.0,14
-1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,geoffrey-crossley,Geoffrey Crossley,alta,9,30,12,0,9,988.636364,984.226292,-4.410072,0.384615,0.472817,50.0,14
-1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,toni-branca,Toni Branca,maserati,10,29,11,0,10,996.039893,987.211963,-8.82793,0.307692,0.484251,50.0,14
-1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,eugene-chaboud,Eugène Chaboud,talbot-lago,DNF,22,13,1,11,1000.0,987.019791,-12.980209,0.230769,0.490373,50.0,14
-1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,raymond-sommer,Raymond Sommer,talbot-lago,DNF,20,5,1,12,1002.110712,985.12113,-16.989582,0.153846,0.493638,50.0,14
-1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,philippe-etancelin,Philippe Étancelin,talbot-lago,DNF,15,6,1,13,1002.738536,981.854247,-20.884289,0.076923,0.494609,50.0,14
-1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,yves-giraud-cabantous,Yves Giraud-Cabantous,talbot-lago,DNF,2,9,1,14,992.250423,968.330623,-23.9198,0.0,0.478396,50.0,14
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,5,juan-manuel-fangio,Juan Manuel Fangio,alfa-romeo,1,35,2,0,1,1014.452386,1038.816055,24.363669,1.0,0.512727,50.0,14
+1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,5,luigi-fagioli,Luigi Fagioli,alfa-romeo,2,35,3,0,2,1032.881919,1051.977895,19.095976,0.923077,0.541157,50.0,14
+1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,5,louis-rosier,Louis Rosier,talbot-lago,3,35,8,0,3,1024.115794,1040.040833,15.925039,0.846154,0.527653,50.0,14
+1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,5,nino-farina,Nino Farina,alfa-romeo,4,35,1,0,4,1037.765007,1048.793622,11.028615,0.769231,0.548658,50.0,14
+1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,5,alberto-ascari,Alberto Ascari,ferrari,5,34,7,0,5,999.377958,1009.522768,10.144809,0.692308,0.489412,50.0,14
+1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,5,luigi-villoresi,Luigi Villoresi,ferrari,6,33,4,0,6,988.459522,995.601554,7.142032,0.615385,0.472544,50.0,14
+1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,5,pierre-levegh,Pierre Levegh,talbot-lago,7,33,10,0,7,1000.0,1002.404406,2.404406,0.538462,0.490373,50.0,14
+1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,5,johnny-claes,Johnny Claes,talbot-lago,8,32,14,0,8,1008.416367,1006.323703,-2.092665,0.461538,0.503392,50.0,14
+1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,5,geoffrey-crossley,Geoffrey Crossley,alta,9,30,12,0,9,988.636364,984.226292,-4.410072,0.384615,0.472817,50.0,14
+1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,5,toni-branca,Toni Branca,maserati,10,29,11,0,10,996.039893,987.211963,-8.82793,0.307692,0.484251,50.0,14
+1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,5,eugene-chaboud,Eugène Chaboud,talbot-lago,DNF,22,13,1,11,1000.0,987.019791,-12.980209,0.230769,0.490373,50.0,14
+1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,5,raymond-sommer,Raymond Sommer,talbot-lago,DNF,20,5,1,12,1002.110712,985.12113,-16.989582,0.153846,0.493638,50.0,14
+1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,5,philippe-etancelin,Philippe Étancelin,talbot-lago,DNF,15,6,1,13,1002.738536,981.854247,-20.884289,0.076923,0.494609,50.0,14
+1950,5,1950-06-18,belgium,1950 Belgian Grand Prix,5,yves-giraud-cabantous,Yves Giraud-Cabantous,talbot-lago,DNF,2,9,1,14,992.250423,968.330623,-23.9198,0.0,0.478396,50.0,14

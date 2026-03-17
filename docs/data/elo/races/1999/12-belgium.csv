@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,david-coulthard,David Coulthard,mclaren,1,44,2,0,1,1214.33415,1229.608648,15.274498,1.0,0.69451,50.0,22
-1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,mika-hakkinen,Mika Häkkinen,mclaren,2,44,1,0,2,1245.586963,1256.648406,11.061443,0.952381,0.731152,50.0,22
-1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,3,44,3,0,3,1223.007741,1232.999864,9.992123,0.904762,0.704919,50.0,22
-1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,eddie-irvine,Eddie Irvine,ferrari,4,44,6,0,4,1289.959872,1293.876597,3.916725,0.857143,0.778808,50.0,22
-1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,ralf-schumacher,Ralf Schumacher,williams,5,44,5,0,5,1133.998008,1144.938795,10.940788,0.809524,0.590708,50.0,22
-1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,damon-hill,Damon Hill,jordan,6,44,4,0,6,1095.595066,1106.805513,11.210447,0.761905,0.537696,50.0,22
-1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,mika-salo,Mika Salo,ferrari,7,44,9,0,7,1024.303359,1038.134151,13.830792,0.714286,0.43767,50.0,22
-1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,alex-zanardi,Alex Zanardi,williams,8,44,8,0,8,970.933581,986.025656,15.092075,0.666667,0.364825,50.0,22
-1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,jean-alesi,Jean Alesi,sauber,9,44,16,0,9,1059.020505,1065.655684,6.635179,0.619048,0.486344,50.0,22
-1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,rubens-barrichello,Rubens Barrichello,stewart,10,44,7,0,10,1032.776873,1038.87335,6.096477,0.571429,0.449499,50.0,22
-1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,benetton,11,44,13,0,11,1128.428287,1125.463016,-2.965271,0.52381,0.583115,50.0,22
-1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,jarno-trulli,Jarno Trulli,prost,12,44,12,0,12,1034.0221,1035.269568,1.247468,0.47619,0.451241,50.0,22
-1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,olivier-panis,Olivier Panis,prost,13,44,17,0,13,1069.979901,1066.320256,-3.659646,0.428571,0.501764,50.0,22
-1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,alexander-wurz,Alexander Wurz,benetton,14,44,15,0,14,1103.036339,1094.680398,-8.355941,0.380952,0.548071,50.0,22
-1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,jacques-villeneuve,Jacques Villeneuve,bar,15,43,11,0,15,1026.053637,1020.714836,-5.338801,0.333333,0.440109,50.0,22
-1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,marc-gene,Marc Gené,minardi,16,43,21,0,16,1004.210528,998.003706,-6.206822,0.285714,0.409851,50.0,22
-1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,35,22,1,17,982.298517,975.202028,-7.096488,0.238095,0.380025,50.0,22
-1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,luca-badoer,Luca Badoer,minardi,DNF,33,20,1,18,996.089373,984.486468,-11.602905,0.166667,0.398725,50.0,22
-1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,ricardo-zonta,Ricardo Zonta,bar,DNF,33,14,1,19,983.725619,972.961566,-10.764053,0.166667,0.381948,50.0,22
-1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,johnny-herbert,Johnny Herbert,stewart,DNF,27,10,1,20,1014.193667,997.774257,-16.419409,0.095238,0.423626,50.0,22
-1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,pedro-diniz,Pedro Diniz,sauber,DNF,19,18,1,21,972.448798,956.487766,-15.961032,0.047619,0.36684,50.0,22
-1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,toranosuke-takagi,Toranosuke Takagi,arrows,DNF,0,19,1,22,950.885227,933.957582,-16.927645,0.0,0.338553,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,642,david-coulthard,David Coulthard,mclaren,1,44,2,0,1,1214.33415,1229.608648,15.274498,1.0,0.69451,50.0,22
+1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,642,mika-hakkinen,Mika Häkkinen,mclaren,2,44,1,0,2,1245.586963,1256.648406,11.061443,0.952381,0.731152,50.0,22
+1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,642,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,3,44,3,0,3,1223.007741,1232.999864,9.992123,0.904762,0.704919,50.0,22
+1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,642,eddie-irvine,Eddie Irvine,ferrari,4,44,6,0,4,1289.959872,1293.876597,3.916725,0.857143,0.778808,50.0,22
+1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,642,ralf-schumacher,Ralf Schumacher,williams,5,44,5,0,5,1133.998008,1144.938795,10.940788,0.809524,0.590708,50.0,22
+1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,642,damon-hill,Damon Hill,jordan,6,44,4,0,6,1095.595066,1106.805513,11.210447,0.761905,0.537696,50.0,22
+1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,642,mika-salo,Mika Salo,ferrari,7,44,9,0,7,1024.303359,1038.134151,13.830792,0.714286,0.43767,50.0,22
+1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,642,alex-zanardi,Alex Zanardi,williams,8,44,8,0,8,970.933581,986.025656,15.092075,0.666667,0.364825,50.0,22
+1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,642,jean-alesi,Jean Alesi,sauber,9,44,16,0,9,1059.020505,1065.655684,6.635179,0.619048,0.486344,50.0,22
+1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,642,rubens-barrichello,Rubens Barrichello,stewart,10,44,7,0,10,1032.776873,1038.87335,6.096477,0.571429,0.449499,50.0,22
+1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,642,giancarlo-fisichella,Giancarlo Fisichella,benetton,11,44,13,0,11,1128.428287,1125.463016,-2.965271,0.52381,0.583115,50.0,22
+1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,642,jarno-trulli,Jarno Trulli,prost,12,44,12,0,12,1034.0221,1035.269568,1.247468,0.47619,0.451241,50.0,22
+1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,642,olivier-panis,Olivier Panis,prost,13,44,17,0,13,1069.979901,1066.320256,-3.659646,0.428571,0.501764,50.0,22
+1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,642,alexander-wurz,Alexander Wurz,benetton,14,44,15,0,14,1103.036339,1094.680398,-8.355941,0.380952,0.548071,50.0,22
+1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,642,jacques-villeneuve,Jacques Villeneuve,bar,15,43,11,0,15,1026.053637,1020.714836,-5.338801,0.333333,0.440109,50.0,22
+1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,642,marc-gene,Marc Gené,minardi,16,43,21,0,16,1004.210528,998.003706,-6.206822,0.285714,0.409851,50.0,22
+1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,642,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,35,22,1,17,982.298517,975.202028,-7.096488,0.238095,0.380025,50.0,22
+1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,642,luca-badoer,Luca Badoer,minardi,DNF,33,20,1,18,996.089373,984.486468,-11.602905,0.166667,0.398725,50.0,22
+1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,642,ricardo-zonta,Ricardo Zonta,bar,DNF,33,14,1,19,983.725619,972.961566,-10.764053,0.166667,0.381948,50.0,22
+1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,642,johnny-herbert,Johnny Herbert,stewart,DNF,27,10,1,20,1014.193667,997.774257,-16.419409,0.095238,0.423626,50.0,22
+1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,642,pedro-diniz,Pedro Diniz,sauber,DNF,19,18,1,21,972.448798,956.487766,-15.961032,0.047619,0.36684,50.0,22
+1999,12,1999-08-29,belgium,1999 Foster's Belgian Grand Prix,642,toranosuke-takagi,Toranosuke Takagi,arrows,DNF,0,19,1,22,950.885227,933.957582,-16.927645,0.0,0.338553,50.0,22

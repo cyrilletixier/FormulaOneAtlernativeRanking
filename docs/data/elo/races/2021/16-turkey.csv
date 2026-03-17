@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,valtteri-bottas,Valtteri Bottas,mercedes,1,58,1,0,1,1322.702283,1336.353505,13.651222,1.0,0.726976,50.0,20
-2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,max-verstappen,Max Verstappen,red-bull,2,58,2,0,2,1328.710985,1339.416535,10.705549,0.947368,0.733257,50.0,20
-2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,sergio-perez,Sergio Pérez,red-bull,3,58,6,0,3,1213.874396,1228.524341,14.649945,0.894737,0.601738,50.0,20
-2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,charles-leclerc,Charles Leclerc,ferrari,4,58,3,0,4,1202.163882,1214.907606,12.743724,0.842105,0.587231,50.0,20
-2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,lewis-hamilton,Lewis Hamilton,mercedes,5,58,11,0,5,1533.371898,1527.926077,-5.445821,0.789474,0.89839,50.0,20
-2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,pierre-gasly,Pierre Gasly,alphatauri,6,58,4,0,6,1150.095606,1160.86994,10.774334,0.736842,0.521355,50.0,20
-2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,lando-norris,Lando Norris,mclaren,7,58,7,0,7,1251.289065,1253.151484,1.862419,0.684211,0.646962,50.0,20
-2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,8,58,19,0,8,1266.547742,1264.885593,-1.662149,0.631579,0.664822,50.0,20
-2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,lance-stroll,Lance Stroll,aston-martin,9,58,8,0,9,1078.368362,1085.838998,7.470636,0.578947,0.429535,50.0,20
-2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,esteban-ocon,Esteban Ocon,alpine,10,57,12,0,10,1119.254005,1121.480072,2.226067,0.526316,0.481794,50.0,20
-2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,11,57,16,0,11,992.299182,999.784803,7.485621,0.473684,0.323972,50.0,20
-2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,12,57,17,0,12,1043.488504,1045.25396,1.765456,0.421053,0.385744,50.0,20
-2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,daniel-ricciardo,Daniel Ricciardo,mclaren,13,57,20,0,13,1255.263336,1241.10191,-14.161426,0.368421,0.65165,50.0,20
-2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,yuki-tsunoda,Yuki Tsunoda,alphatauri,14,57,9,0,14,995.574377,994.973351,-0.601025,0.315789,0.32781,50.0,20
-2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,george-russell,George Russell,williams,15,57,13,0,15,1009.593812,1005.53018,-4.063632,0.263158,0.344431,50.0,20
-2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,fernando-alonso,Fernando Alonso,alpine,16,57,5,0,16,1128.944552,1114.759118,-14.185433,0.210526,0.494235,50.0,20
-2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,nicholas-latifi,Nicholas Latifi,williams,17,57,15,0,17,938.987339,933.671114,-5.316224,0.157895,0.264219,50.0,20
-2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,sebastian-vettel,Sebastian Vettel,aston-martin,18,57,10,0,18,1101.759265,1084.054291,-17.704974,0.105263,0.459363,50.0,20
-2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,mick-schumacher,Mick Schumacher,haas,19,56,14,0,19,915.943777,906.56662,-9.377157,0.052632,0.240175,50.0,20
-2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,nikita-mazepin,Nikita Mazepin,haas,20,56,18,0,20,891.880287,881.063156,-10.817131,0.0,0.216343,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,1051,valtteri-bottas,Valtteri Bottas,mercedes,1,58,1,0,1,1322.702283,1336.353505,13.651222,1.0,0.726976,50.0,20
+2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,1051,max-verstappen,Max Verstappen,red-bull,2,58,2,0,2,1328.710985,1339.416535,10.705549,0.947368,0.733257,50.0,20
+2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,1051,sergio-perez,Sergio Pérez,red-bull,3,58,6,0,3,1213.874396,1228.524341,14.649945,0.894737,0.601738,50.0,20
+2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,1051,charles-leclerc,Charles Leclerc,ferrari,4,58,3,0,4,1202.163882,1214.907606,12.743724,0.842105,0.587231,50.0,20
+2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,1051,lewis-hamilton,Lewis Hamilton,mercedes,5,58,11,0,5,1533.371898,1527.926077,-5.445821,0.789474,0.89839,50.0,20
+2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,1051,pierre-gasly,Pierre Gasly,alphatauri,6,58,4,0,6,1150.095606,1160.86994,10.774334,0.736842,0.521355,50.0,20
+2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,1051,lando-norris,Lando Norris,mclaren,7,58,7,0,7,1251.289065,1253.151484,1.862419,0.684211,0.646962,50.0,20
+2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,1051,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,8,58,19,0,8,1266.547742,1264.885593,-1.662149,0.631579,0.664822,50.0,20
+2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,1051,lance-stroll,Lance Stroll,aston-martin,9,58,8,0,9,1078.368362,1085.838998,7.470636,0.578947,0.429535,50.0,20
+2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,1051,esteban-ocon,Esteban Ocon,alpine,10,57,12,0,10,1119.254005,1121.480072,2.226067,0.526316,0.481794,50.0,20
+2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,1051,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,11,57,16,0,11,992.299182,999.784803,7.485621,0.473684,0.323972,50.0,20
+2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,1051,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,12,57,17,0,12,1043.488504,1045.25396,1.765456,0.421053,0.385744,50.0,20
+2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,1051,daniel-ricciardo,Daniel Ricciardo,mclaren,13,57,20,0,13,1255.263336,1241.10191,-14.161426,0.368421,0.65165,50.0,20
+2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,1051,yuki-tsunoda,Yuki Tsunoda,alphatauri,14,57,9,0,14,995.574377,994.973351,-0.601025,0.315789,0.32781,50.0,20
+2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,1051,george-russell,George Russell,williams,15,57,13,0,15,1009.593812,1005.53018,-4.063632,0.263158,0.344431,50.0,20
+2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,1051,fernando-alonso,Fernando Alonso,alpine,16,57,5,0,16,1128.944552,1114.759118,-14.185433,0.210526,0.494235,50.0,20
+2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,1051,nicholas-latifi,Nicholas Latifi,williams,17,57,15,0,17,938.987339,933.671114,-5.316224,0.157895,0.264219,50.0,20
+2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,1051,sebastian-vettel,Sebastian Vettel,aston-martin,18,57,10,0,18,1101.759265,1084.054291,-17.704974,0.105263,0.459363,50.0,20
+2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,1051,mick-schumacher,Mick Schumacher,haas,19,56,14,0,19,915.943777,906.56662,-9.377157,0.052632,0.240175,50.0,20
+2021,16,2021-10-03,turkey,Formula 1 Rolex Turkish Grand Prix 2021,1051,nikita-mazepin,Nikita Mazepin,haas,20,56,18,0,20,891.880287,881.063156,-10.817131,0.0,0.216343,50.0,20

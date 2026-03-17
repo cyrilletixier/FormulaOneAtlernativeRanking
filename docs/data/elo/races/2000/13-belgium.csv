@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,mika-hakkinen,Mika Häkkinen,mclaren,1,44,1,0,1,1322.727274,1332.926533,10.199259,1.0,0.796015,50.0,22
-2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,michael-schumacher,Michael Schumacher,ferrari,2,44,4,0,2,1244.232225,1256.198756,11.966532,0.952381,0.71305,50.0,22
-2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,ralf-schumacher,Ralf Schumacher,williams,3,44,6,0,3,1162.211959,1176.895269,14.68331,0.904762,0.611096,50.0,22
-2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,david-coulthard,David Coulthard,mclaren,4,44,5,0,4,1260.605833,1266.879999,6.274165,0.857143,0.73166,50.0,22
-2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,jenson-button,Jenson Button,williams,5,44,3,0,5,1073.815181,1089.756035,15.940854,0.809524,0.490707,50.0,22
-2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,6,44,8,0,6,1115.112426,1125.823477,10.711051,0.761905,0.547684,50.0,22
-2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,jacques-villeneuve,Jacques Villeneuve,bar,7,44,7,0,7,1093.11027,1102.954303,9.844033,0.714286,0.517405,50.0,22
-2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,johnny-herbert,Johnny Herbert,jaguar,8,44,9,0,8,1005.828979,1019.28807,13.45909,0.666667,0.397485,50.0,22
-2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,mika-salo,Mika Salo,sauber,9,44,18,0,9,1084.350425,1090.038174,5.687749,0.619048,0.505293,50.0,22
-2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,eddie-irvine,Eddie Irvine,jaguar,10,44,12,0,10,1188.66365,1184.96572,-3.69793,0.571429,0.645387,50.0,22
-2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,pedro-diniz,Pedro Diniz,sauber,11,44,15,0,11,975.868938,984.167778,8.29884,0.52381,0.357833,50.0,22
-2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,ricardo-zonta,Ricardo Zonta,bar,12,43,13,0,12,1003.8167,1007.88707,4.07037,0.47619,0.394783,50.0,22
-2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,alexander-wurz,Alexander Wurz,benetton,13,43,19,0,13,1048.372327,1047.024895,-1.347432,0.428571,0.45552,50.0,22
-2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,marc-gene,Marc Gené,minardi,14,43,21,0,14,987.78468,988.159965,0.375284,0.380952,0.373447,50.0,22
-2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,jos-verstappen,Jos Verstappen,arrows,15,43,20,0,15,972.722166,971.701439,-1.020727,0.333333,0.353748,50.0,22
-2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,arrows,16,42,16,0,16,963.628582,960.812262,-2.81632,0.285714,0.342041,50.0,22
-2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,gaston-mazzacane,Gastón Mazzacane,minardi,17,42,22,0,17,1001.931496,994.223436,-7.708059,0.238095,0.392256,50.0,22
-2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,jean-alesi,Jean Alesi,prost,DNF,32,17,1,18,980.247895,970.404003,-9.843893,0.166667,0.363545,50.0,22
-2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,rubens-barrichello,Rubens Barrichello,ferrari,DNF,32,10,1,19,1227.223928,1200.904902,-26.319026,0.166667,0.693047,50.0,22
-2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,nick-heidfeld,Nick Heidfeld,prost,DNF,12,14,1,20,957.325384,945.386541,-11.938843,0.095238,0.334015,50.0,22
-2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,8,11,1,21,1093.870689,1070.328871,-23.541818,0.047619,0.518455,50.0,22
-2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,jarno-trulli,Jarno Trulli,jordan,DNF,4,2,1,22,1055.622424,1032.345934,-23.276489,0.0,0.46553,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,659,mika-hakkinen,Mika Häkkinen,mclaren,1,44,1,0,1,1322.727274,1332.926533,10.199259,1.0,0.796015,50.0,22
+2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,659,michael-schumacher,Michael Schumacher,ferrari,2,44,4,0,2,1244.232225,1256.198756,11.966532,0.952381,0.71305,50.0,22
+2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,659,ralf-schumacher,Ralf Schumacher,williams,3,44,6,0,3,1162.211959,1176.895269,14.68331,0.904762,0.611096,50.0,22
+2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,659,david-coulthard,David Coulthard,mclaren,4,44,5,0,4,1260.605833,1266.879999,6.274165,0.857143,0.73166,50.0,22
+2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,659,jenson-button,Jenson Button,williams,5,44,3,0,5,1073.815181,1089.756035,15.940854,0.809524,0.490707,50.0,22
+2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,659,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,6,44,8,0,6,1115.112426,1125.823477,10.711051,0.761905,0.547684,50.0,22
+2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,659,jacques-villeneuve,Jacques Villeneuve,bar,7,44,7,0,7,1093.11027,1102.954303,9.844033,0.714286,0.517405,50.0,22
+2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,659,johnny-herbert,Johnny Herbert,jaguar,8,44,9,0,8,1005.828979,1019.28807,13.45909,0.666667,0.397485,50.0,22
+2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,659,mika-salo,Mika Salo,sauber,9,44,18,0,9,1084.350425,1090.038174,5.687749,0.619048,0.505293,50.0,22
+2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,659,eddie-irvine,Eddie Irvine,jaguar,10,44,12,0,10,1188.66365,1184.96572,-3.69793,0.571429,0.645387,50.0,22
+2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,659,pedro-diniz,Pedro Diniz,sauber,11,44,15,0,11,975.868938,984.167778,8.29884,0.52381,0.357833,50.0,22
+2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,659,ricardo-zonta,Ricardo Zonta,bar,12,43,13,0,12,1003.8167,1007.88707,4.07037,0.47619,0.394783,50.0,22
+2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,659,alexander-wurz,Alexander Wurz,benetton,13,43,19,0,13,1048.372327,1047.024895,-1.347432,0.428571,0.45552,50.0,22
+2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,659,marc-gene,Marc Gené,minardi,14,43,21,0,14,987.78468,988.159965,0.375284,0.380952,0.373447,50.0,22
+2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,659,jos-verstappen,Jos Verstappen,arrows,15,43,20,0,15,972.722166,971.701439,-1.020727,0.333333,0.353748,50.0,22
+2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,659,pedro-de-la-rosa,Pedro de la Rosa,arrows,16,42,16,0,16,963.628582,960.812262,-2.81632,0.285714,0.342041,50.0,22
+2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,659,gaston-mazzacane,Gastón Mazzacane,minardi,17,42,22,0,17,1001.931496,994.223436,-7.708059,0.238095,0.392256,50.0,22
+2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,659,jean-alesi,Jean Alesi,prost,DNF,32,17,1,18,980.247895,970.404003,-9.843893,0.166667,0.363545,50.0,22
+2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,659,rubens-barrichello,Rubens Barrichello,ferrari,DNF,32,10,1,19,1227.223928,1200.904902,-26.319026,0.166667,0.693047,50.0,22
+2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,659,nick-heidfeld,Nick Heidfeld,prost,DNF,12,14,1,20,957.325384,945.386541,-11.938843,0.095238,0.334015,50.0,22
+2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,659,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,8,11,1,21,1093.870689,1070.328871,-23.541818,0.047619,0.518455,50.0,22
+2000,13,2000-08-27,belgium,2000 Foster's Belgian Grand Prix,659,jarno-trulli,Jarno Trulli,jordan,DNF,4,2,1,22,1055.622424,1032.345934,-23.276489,0.0,0.46553,50.0,22

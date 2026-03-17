@@ -1,4 +1,4 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1950-09-03,1950,7,italy,talbot-lago,Talbot-Lago,DNF,42,27,1000.0,1004.314869,4.314869,0.576923,0.490626,50.0
-1951-05-27,1951,1,switzerland,talbot-lago,Talbot-Lago,14,31,21,1004.314869,996.958513,-7.356356,0.35,0.497127,50.0
-1951-07-01,1951,4,france,talbot-lago,Talbot-Lago,9,66,23,996.958513,1000.21585,3.257337,0.545455,0.480308,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1950-09-03,1950,7,italy,7,talbot-lago,Talbot-Lago,DNF,42,27,1000.0,1004.314869,4.314869,0.576923,0.490626,50.0
+1951-05-27,1951,1,switzerland,8,talbot-lago,Talbot-Lago,14,31,21,1004.314869,996.958513,-7.356356,0.35,0.497127,50.0
+1951-07-01,1951,4,france,11,talbot-lago,Talbot-Lago,9,66,23,996.958513,1000.21585,3.257337,0.545455,0.480308,50.0

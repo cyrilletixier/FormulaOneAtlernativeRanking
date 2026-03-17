@@ -1,28 +1,28 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,carlos-reutemann,Carlos Reutemann,williams,1,76,2,0,1,1145.590564,1166.526768,20.936204,1.0,0.581276,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,jacques-laffite,Jacques Laffite,ligier,2,76,5,0,2,1158.100862,1176.258992,18.15813,0.961538,0.598376,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,nelson-piquet,Nelson Piquet,brabham,3,76,4,0,3,1110.465919,1129.99676,19.530841,0.923077,0.53246,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,jochen-mass,Jochen Mass,arrows,4,75,15,0,4,1069.017273,1089.537196,20.519922,0.884615,0.474217,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,gilles-villeneuve,Gilles Villeneuve,ferrari,5,75,6,0,5,1218.024939,1226.489142,8.464203,0.846154,0.67687,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,emerson-fittipaldi,Emerson Fittipaldi,fittipaldi,6,74,18,0,6,1118.451856,1131.654637,13.202781,0.807692,0.543637,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,mario-andretti,Mario Andretti,lotus,7,73,19,0,7,1074.185019,1088.572901,14.387882,0.769231,0.481473,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,riccardo-patrese,Riccardo Patrese,arrows,8,73,11,0,8,1110.059287,1120.00324,9.943953,0.730769,0.53189,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,elio-de-angelis,Elio de Angelis,lotus,9,68,14,0,9,1060.178906,1071.702768,11.523862,0.692308,0.46183,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,jan-lammers,Jan Lammers,ats-wheels,NC,64,13,1,10,957.335488,973.828902,16.493414,0.653846,0.323978,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,didier-pironi,Didier Pironi,ligier,DNF,54,1,1,11,1197.269613,1195.517301,-1.752312,0.615385,0.650431,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,rene-arnoux,René Arnoux,renault,DNF,53,20,1,12,1125.390946,1126.571222,1.180276,0.576923,0.553318,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,patrick-depailler,Patrick Depailler,alfa-romeo,DNF,50,7,1,13,1153.248146,1150.582948,-2.665198,0.538462,0.591766,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,jody-scheckter,Jody Scheckter,ferrari,DNF,27,17,1,14,1258.686988,1247.395919,-11.291068,0.5,0.725821,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,jean-pierre-jabouille,Jean-Pierre Jabouille,renault,DNF,25,16,1,15,1019.485476,1022.285594,2.800118,0.461538,0.405536,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,alan-jones,Alan Jones,williams,DNF,24,3,1,16,1230.44377,1216.985517,-13.458253,0.423077,0.692242,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,alain-prost,Alain Prost,mclaren,DNF,0,10,1,17,1019.57909,1015.642061,-3.937029,0.326923,0.405664,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,DNF,0,8,1,18,1048.245237,1042.332679,-5.912558,0.326923,0.445174,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,derek-daly,Derek Daly,tyrrell,DNF,0,12,1,19,1064.789627,1057.721391,-7.068236,0.326923,0.468288,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,jean-pierre-jarier,Jean-Pierre Jarier,tyrrell,DNF,0,9,1,20,1117.781311,1106.992486,-10.788825,0.326923,0.5427,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,david-kennedy,David Kennedy,shadow,DNQ,,,2,21,929.073092,920.367409,-8.705682,0.115385,0.289498,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,eddie-cheever,Eddie Cheever,osella,DNQ,,,2,22,919.685512,911.530895,-8.154617,0.115385,0.278477,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,geoff-lees,Geoff Lees,shadow,DNQ,,,2,23,976.946253,965.267981,-11.678272,0.115385,0.34895,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,john-watson,John Watson,mclaren,DNQ,,,2,24,1178.194612,1152.694082,-25.50053,0.115385,0.625395,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,keke-rosberg,Keke Rosberg,fittipaldi,DNQ,,,2,25,1063.569663,1046.009982,-17.559681,0.115385,0.466578,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,ricardo-zunino,Ricardo Zunino,brabham,DNQ,,,2,26,1038.880645,1023.040999,-15.839647,0.115385,0.432178,50.0,27
-1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,tiff-needell,Tiff Needell,ensign,DNQ,,,2,27,994.529132,981.699455,-12.829678,0.115385,0.371978,50.0,27
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,carlos-reutemann,Carlos Reutemann,williams,1,76,2,0,1,1145.590564,1166.526768,20.936204,1.0,0.581276,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,jacques-laffite,Jacques Laffite,ligier,2,76,5,0,2,1158.100862,1176.258992,18.15813,0.961538,0.598376,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,nelson-piquet,Nelson Piquet,brabham,3,76,4,0,3,1110.465919,1129.99676,19.530841,0.923077,0.53246,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,jochen-mass,Jochen Mass,arrows,4,75,15,0,4,1069.017273,1089.537196,20.519922,0.884615,0.474217,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,gilles-villeneuve,Gilles Villeneuve,ferrari,5,75,6,0,5,1218.024939,1226.489142,8.464203,0.846154,0.67687,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,emerson-fittipaldi,Emerson Fittipaldi,fittipaldi,6,74,18,0,6,1118.451856,1131.654637,13.202781,0.807692,0.543637,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,mario-andretti,Mario Andretti,lotus,7,73,19,0,7,1074.185019,1088.572901,14.387882,0.769231,0.481473,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,riccardo-patrese,Riccardo Patrese,arrows,8,73,11,0,8,1110.059287,1120.00324,9.943953,0.730769,0.53189,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,elio-de-angelis,Elio de Angelis,lotus,9,68,14,0,9,1060.178906,1071.702768,11.523862,0.692308,0.46183,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,jan-lammers,Jan Lammers,ats-wheels,NC,64,13,1,10,957.335488,973.828902,16.493414,0.653846,0.323978,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,didier-pironi,Didier Pironi,ligier,DNF,54,1,1,11,1197.269613,1195.517301,-1.752312,0.615385,0.650431,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,rene-arnoux,René Arnoux,renault,DNF,53,20,1,12,1125.390946,1126.571222,1.180276,0.576923,0.553318,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,patrick-depailler,Patrick Depailler,alfa-romeo,DNF,50,7,1,13,1153.248146,1150.582948,-2.665198,0.538462,0.591766,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,jody-scheckter,Jody Scheckter,ferrari,DNF,27,17,1,14,1258.686988,1247.395919,-11.291068,0.5,0.725821,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,jean-pierre-jabouille,Jean-Pierre Jabouille,renault,DNF,25,16,1,15,1019.485476,1022.285594,2.800118,0.461538,0.405536,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,alan-jones,Alan Jones,williams,DNF,24,3,1,16,1230.44377,1216.985517,-13.458253,0.423077,0.692242,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,alain-prost,Alain Prost,mclaren,DNF,0,10,1,17,1019.57909,1015.642061,-3.937029,0.326923,0.405664,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,DNF,0,8,1,18,1048.245237,1042.332679,-5.912558,0.326923,0.445174,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,derek-daly,Derek Daly,tyrrell,DNF,0,12,1,19,1064.789627,1057.721391,-7.068236,0.326923,0.468288,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,jean-pierre-jarier,Jean-Pierre Jarier,tyrrell,DNF,0,9,1,20,1117.781311,1106.992486,-10.788825,0.326923,0.5427,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,david-kennedy,David Kennedy,shadow,DNQ,,,2,21,929.073092,920.367409,-8.705682,0.115385,0.289498,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,eddie-cheever,Eddie Cheever,osella,DNQ,,,2,22,919.685512,911.530895,-8.154617,0.115385,0.278477,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,geoff-lees,Geoff Lees,shadow,DNQ,,,2,23,976.946253,965.267981,-11.678272,0.115385,0.34895,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,john-watson,John Watson,mclaren,DNQ,,,2,24,1178.194612,1152.694082,-25.50053,0.115385,0.625395,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,keke-rosberg,Keke Rosberg,fittipaldi,DNQ,,,2,25,1063.569663,1046.009982,-17.559681,0.115385,0.466578,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,ricardo-zunino,Ricardo Zunino,brabham,DNQ,,,2,26,1038.880645,1023.040999,-15.839647,0.115385,0.432178,50.0,27
+1980,6,1980-05-18,monaco,Grand Prix de Monaco 1980,334,tiff-needell,Tiff Needell,ensign,DNQ,,,2,27,994.529132,981.699455,-12.829678,0.115385,0.371978,50.0,27

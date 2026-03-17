@@ -1,7 +1,7 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1957-05-19,1957,2,monaco,connaught,Connaught,DNF,47,21,1000.0,998.465503,-1.534497,0.45,0.48069,50.0
-1957-07-20,1957,5,great-britain,maserati,Maserati,8,71,19,998.465503,1000.665745,2.200242,0.5,0.455995,50.0
-1958-07-19,1958,7,great-britain,connaught,Connaught,DNF,19,20,1000.665745,985.88267,-14.783075,0.157895,0.453556,50.0
-1958-08-03,1958,8,germany,lotus,Lotus,11,13,26,985.88267,993.670139,7.787468,0.6,0.444251,50.0
-1959-05-10,1959,1,monaco,cooper,Cooper,DNQ,,24,993.670139,978.000312,-15.669827,0.152174,0.46557,50.0
-1959-07-18,1959,5,great-britain,cooper,Cooper,13,69,30,978.000312,984.783451,6.783139,0.586207,0.450544,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1957-05-19,1957,2,monaco,58,connaught,Connaught,DNF,47,21,1000.0,998.465503,-1.534497,0.45,0.48069,50.0
+1957-07-20,1957,5,great-britain,61,maserati,Maserati,8,71,19,998.465503,1000.665745,2.200242,0.5,0.455995,50.0
+1958-07-19,1958,7,great-britain,71,connaught,Connaught,DNF,19,20,1000.665745,985.88267,-14.783075,0.157895,0.453556,50.0
+1958-08-03,1958,8,germany,72,lotus,Lotus,11,13,26,985.88267,993.670139,7.787468,0.6,0.444251,50.0
+1959-05-10,1959,1,monaco,76,cooper,Cooper,DNQ,,24,993.670139,978.000312,-15.669827,0.152174,0.46557,50.0
+1959-07-18,1959,5,great-britain,80,cooper,Cooper,13,69,30,978.000312,984.783451,6.783139,0.586207,0.450544,50.0

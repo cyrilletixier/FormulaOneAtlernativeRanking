@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,lewis-hamilton,Lewis Hamilton,mercedes,1,57,1,0,1,1538.412894,1543.519476,5.106582,1.0,0.897868,50.0,20
-2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,max-verstappen,Max Verstappen,red-bull,2,57,7,0,2,1373.587093,1382.265632,8.678539,0.947368,0.773798,50.0,20
-2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,fernando-alonso,Fernando Alonso,alpine,3,57,3,0,3,1108.442146,1129.751967,21.309821,0.894737,0.46854,50.0,20
-2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,sergio-perez,Sergio Pérez,red-bull,4,57,11,0,4,1264.941583,1274.03687,9.095287,0.842105,0.6602,50.0,20
-2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,esteban-ocon,Esteban Ocon,alpine,5,57,9,0,5,1104.424371,1120.723793,16.299422,0.789474,0.463485,50.0,20
-2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,lance-stroll,Lance Stroll,aston-martin,6,57,12,0,6,1057.249888,1073.859429,16.609541,0.736842,0.404651,50.0,20
-2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,7,57,5,0,7,1273.254772,1273.982426,0.727654,0.684211,0.669657,50.0,20
-2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,charles-leclerc,Charles Leclerc,ferrari,8,57,13,0,8,1243.712153,1243.51257,-0.199582,0.631579,0.635571,50.0,20
-2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,lando-norris,Lando Norris,mclaren,9,56,4,0,9,1240.671557,1238.019391,-2.652166,0.578947,0.631991,50.0,20
-2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,sebastian-vettel,Sebastian Vettel,aston-martin,10,56,10,0,10,1101.34972,1104.68454,3.334819,0.526316,0.459619,50.0,20
-2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,pierre-gasly,Pierre Gasly,alphatauri,11,56,2,0,11,1159.29218,1156.349978,-2.942202,0.473684,0.532528,50.0,20
-2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,daniel-ricciardo,Daniel Ricciardo,mclaren,12,56,14,0,12,1208.987218,1200.339626,-8.647592,0.421053,0.594004,50.0,20
-2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,yuki-tsunoda,Yuki Tsunoda,alphatauri,13,56,8,0,13,988.558463,990.848985,2.290523,0.368421,0.322611,50.0,20
-2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,14,56,16,0,14,1057.341252,1052.892533,-4.448719,0.315789,0.404764,50.0,20
-2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,15,56,18,0,15,1011.597993,1007.282799,-4.315194,0.263158,0.349462,50.0,20
-2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,mick-schumacher,Mick Schumacher,haas,16,56,19,0,16,889.368859,889.001796,-0.367064,0.210526,0.217868,50.0,20
-2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,george-russell,George Russell,williams,17,55,15,0,17,999.642893,990.766059,-8.876835,0.157895,0.335431,50.0,20
-2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,nikita-mazepin,Nikita Mazepin,haas,18,55,20,0,18,871.355976,866.565035,-4.790941,0.105263,0.201082,50.0,20
-2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,nicholas-latifi,Nicholas Latifi,williams,DNF,50,17,1,19,926.429303,916.326536,-10.102767,0.052632,0.254687,50.0,20
-2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,valtteri-bottas,Valtteri Bottas,mercedes,DNF,48,6,1,20,1321.492341,1285.383213,-36.109127,0.0,0.722183,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,1055,lewis-hamilton,Lewis Hamilton,mercedes,1,57,1,0,1,1538.412894,1543.519476,5.106582,1.0,0.897868,50.0,20
+2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,1055,max-verstappen,Max Verstappen,red-bull,2,57,7,0,2,1373.587093,1382.265632,8.678539,0.947368,0.773798,50.0,20
+2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,1055,fernando-alonso,Fernando Alonso,alpine,3,57,3,0,3,1108.442146,1129.751967,21.309821,0.894737,0.46854,50.0,20
+2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,1055,sergio-perez,Sergio Pérez,red-bull,4,57,11,0,4,1264.941583,1274.03687,9.095287,0.842105,0.6602,50.0,20
+2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,1055,esteban-ocon,Esteban Ocon,alpine,5,57,9,0,5,1104.424371,1120.723793,16.299422,0.789474,0.463485,50.0,20
+2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,1055,lance-stroll,Lance Stroll,aston-martin,6,57,12,0,6,1057.249888,1073.859429,16.609541,0.736842,0.404651,50.0,20
+2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,1055,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,7,57,5,0,7,1273.254772,1273.982426,0.727654,0.684211,0.669657,50.0,20
+2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,1055,charles-leclerc,Charles Leclerc,ferrari,8,57,13,0,8,1243.712153,1243.51257,-0.199582,0.631579,0.635571,50.0,20
+2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,1055,lando-norris,Lando Norris,mclaren,9,56,4,0,9,1240.671557,1238.019391,-2.652166,0.578947,0.631991,50.0,20
+2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,1055,sebastian-vettel,Sebastian Vettel,aston-martin,10,56,10,0,10,1101.34972,1104.68454,3.334819,0.526316,0.459619,50.0,20
+2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,1055,pierre-gasly,Pierre Gasly,alphatauri,11,56,2,0,11,1159.29218,1156.349978,-2.942202,0.473684,0.532528,50.0,20
+2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,1055,daniel-ricciardo,Daniel Ricciardo,mclaren,12,56,14,0,12,1208.987218,1200.339626,-8.647592,0.421053,0.594004,50.0,20
+2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,1055,yuki-tsunoda,Yuki Tsunoda,alphatauri,13,56,8,0,13,988.558463,990.848985,2.290523,0.368421,0.322611,50.0,20
+2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,1055,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,14,56,16,0,14,1057.341252,1052.892533,-4.448719,0.315789,0.404764,50.0,20
+2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,1055,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,15,56,18,0,15,1011.597993,1007.282799,-4.315194,0.263158,0.349462,50.0,20
+2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,1055,mick-schumacher,Mick Schumacher,haas,16,56,19,0,16,889.368859,889.001796,-0.367064,0.210526,0.217868,50.0,20
+2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,1055,george-russell,George Russell,williams,17,55,15,0,17,999.642893,990.766059,-8.876835,0.157895,0.335431,50.0,20
+2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,1055,nikita-mazepin,Nikita Mazepin,haas,18,55,20,0,18,871.355976,866.565035,-4.790941,0.105263,0.201082,50.0,20
+2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,1055,nicholas-latifi,Nicholas Latifi,williams,DNF,50,17,1,19,926.429303,916.326536,-10.102767,0.052632,0.254687,50.0,20
+2021,20,2021-11-21,qatar,Formula 1 Ooredoo Qatar Grand Prix 2021,1055,valtteri-bottas,Valtteri Bottas,mercedes,DNF,48,6,1,20,1321.492341,1285.383213,-36.109127,0.0,0.722183,50.0,20

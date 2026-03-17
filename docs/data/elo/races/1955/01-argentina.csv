@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,juan-manuel-fangio,Juan Manuel Fangio,mercedes,1,96,3,0,1,1257.745373,1268.731634,10.986261,1.0,0.780275,50.0,22
-1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,jose-froilan-gonzalez,José Froilán González,ferrari,2,96,1,0,2,1181.090364,1191.660448,10.570084,0.904762,0.69336,50.0,22
-1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,maurice-trintignant,Maurice Trintignant,ferrari,2,,,0,3,1067.762344,1085.967203,18.204859,0.904762,0.540665,50.0,22
-1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,nino-farina,Nino Farina,ferrari,2,,,0,4,1192.720319,1202.580067,9.859748,0.904762,0.707567,50.0,22
-1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,umberto-maglioli,Umberto Maglioli,ferrari,3,,,0,5,1043.180925,1058.382981,15.202056,0.809524,0.505483,50.0,22
-1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,hans-herrmann,Hans Herrmann,mercedes,4,94,10,0,6,1038.321146,1049.110211,10.789065,0.714286,0.498504,50.0,22
-1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,karl-kling,Karl Kling,mercedes,4,,,0,7,1058.609772,1067.944189,9.334417,0.714286,0.527597,50.0,22
-1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,stirling-moss,Stirling Moss,mercedes,4,,,0,8,991.675707,1005.801187,14.12548,0.714286,0.431776,50.0,22
-1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,roberto-mieres,Roberto Mieres,maserati,5,91,16,0,9,1014.948874,1022.653292,7.704418,0.619048,0.464959,50.0,22
-1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,harry-schell,Harry Schell,maserati,6,88,7,0,10,991.052516,996.888818,5.836303,0.547619,0.430893,50.0,22
-1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,jean-behra,Jean Behra,maserati,6,,,0,11,954.891955,963.252829,8.360874,0.547619,0.380402,50.0,22
-1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,luigi-musso,Luigi Musso,maserati,7,83,18,0,12,1007.630586,1007.525197,-0.105389,0.452381,0.454489,50.0,22
-1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,sergio-mantovani,Sergio Mantovani,maserati,7,,,0,13,1031.530393,1029.711904,-1.818489,0.452381,0.488751,50.0,22
-1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,clemar-bucci,Clemar Bucci,maserati,DNF,54,20,1,14,953.930657,954.02409,0.093432,0.380952,0.379084,50.0,22
-1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,jesus-iglesias,Jesús Iglesias,gordini,DNF,38,17,1,15,1000.0,994.4865,-5.5135,0.333333,0.443603,50.0,22
-1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,eugenio-castellotti,Eugenio Castellotti,lancia,DNF,35,12,1,16,1000.0,992.105547,-7.894453,0.285714,0.443603,50.0,22
-1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,alberto-uria,Alberto Uria,maserati,DNF,22,21,1,17,1000.0,989.724595,-10.275405,0.238095,0.443603,50.0,22
-1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,alberto-ascari,Alberto Ascari,lancia,DNF,21,2,1,18,1134.986519,1112.813098,-22.173421,0.190476,0.633945,50.0,22
-1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,elie-bayol,Élie Bayol,gordini,DNF,7,15,1,19,965.444311,952.839142,-12.605168,0.142857,0.394961,50.0,22
-1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,luigi-villoresi,Luigi Villoresi,lancia,DNF,2,11,1,20,1071.746064,1049.191199,-22.554864,0.095238,0.546335,50.0,22
-1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,carlos-menditeguy,Carlos Menditéguy,maserati,DNF,1,13,1,21,964.192617,945.721843,-18.470775,0.02381,0.393225,50.0,22
-1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,pablo-birger,Pablo Birger,gordini,DNF,1,9,1,22,981.15707,961.501537,-19.655533,0.02381,0.41692,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,42,juan-manuel-fangio,Juan Manuel Fangio,mercedes,1,96,3,0,1,1257.745373,1268.731634,10.986261,1.0,0.780275,50.0,22
+1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,42,jose-froilan-gonzalez,José Froilán González,ferrari,2,96,1,0,2,1181.090364,1191.660448,10.570084,0.904762,0.69336,50.0,22
+1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,42,maurice-trintignant,Maurice Trintignant,ferrari,2,,,0,3,1067.762344,1085.967203,18.204859,0.904762,0.540665,50.0,22
+1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,42,nino-farina,Nino Farina,ferrari,2,,,0,4,1192.720319,1202.580067,9.859748,0.904762,0.707567,50.0,22
+1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,42,umberto-maglioli,Umberto Maglioli,ferrari,3,,,0,5,1043.180925,1058.382981,15.202056,0.809524,0.505483,50.0,22
+1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,42,hans-herrmann,Hans Herrmann,mercedes,4,94,10,0,6,1038.321146,1049.110211,10.789065,0.714286,0.498504,50.0,22
+1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,42,karl-kling,Karl Kling,mercedes,4,,,0,7,1058.609772,1067.944189,9.334417,0.714286,0.527597,50.0,22
+1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,42,stirling-moss,Stirling Moss,mercedes,4,,,0,8,991.675707,1005.801187,14.12548,0.714286,0.431776,50.0,22
+1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,42,roberto-mieres,Roberto Mieres,maserati,5,91,16,0,9,1014.948874,1022.653292,7.704418,0.619048,0.464959,50.0,22
+1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,42,harry-schell,Harry Schell,maserati,6,88,7,0,10,991.052516,996.888818,5.836303,0.547619,0.430893,50.0,22
+1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,42,jean-behra,Jean Behra,maserati,6,,,0,11,954.891955,963.252829,8.360874,0.547619,0.380402,50.0,22
+1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,42,luigi-musso,Luigi Musso,maserati,7,83,18,0,12,1007.630586,1007.525197,-0.105389,0.452381,0.454489,50.0,22
+1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,42,sergio-mantovani,Sergio Mantovani,maserati,7,,,0,13,1031.530393,1029.711904,-1.818489,0.452381,0.488751,50.0,22
+1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,42,clemar-bucci,Clemar Bucci,maserati,DNF,54,20,1,14,953.930657,954.02409,0.093432,0.380952,0.379084,50.0,22
+1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,42,jesus-iglesias,Jesús Iglesias,gordini,DNF,38,17,1,15,1000.0,994.4865,-5.5135,0.333333,0.443603,50.0,22
+1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,42,eugenio-castellotti,Eugenio Castellotti,lancia,DNF,35,12,1,16,1000.0,992.105547,-7.894453,0.285714,0.443603,50.0,22
+1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,42,alberto-uria,Alberto Uria,maserati,DNF,22,21,1,17,1000.0,989.724595,-10.275405,0.238095,0.443603,50.0,22
+1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,42,alberto-ascari,Alberto Ascari,lancia,DNF,21,2,1,18,1134.986519,1112.813098,-22.173421,0.190476,0.633945,50.0,22
+1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,42,elie-bayol,Élie Bayol,gordini,DNF,7,15,1,19,965.444311,952.839142,-12.605168,0.142857,0.394961,50.0,22
+1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,42,luigi-villoresi,Luigi Villoresi,lancia,DNF,2,11,1,20,1071.746064,1049.191199,-22.554864,0.095238,0.546335,50.0,22
+1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,42,carlos-menditeguy,Carlos Menditéguy,maserati,DNF,1,13,1,21,964.192617,945.721843,-18.470775,0.02381,0.393225,50.0,22
+1955,1,1955-01-16,argentina,Gran Premio de Argentina 1955,42,pablo-birger,Pablo Birger,gordini,DNF,1,9,1,22,981.15707,961.501537,-19.655533,0.02381,0.41692,50.0,22

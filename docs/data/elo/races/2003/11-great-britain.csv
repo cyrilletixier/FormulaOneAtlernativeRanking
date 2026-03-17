@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,rubens-barrichello,Rubens Barrichello,ferrari,1,60,1,0,1,1262.971335,1276.321849,13.350513,1.0,0.73299,50.0,20
-2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,juan-pablo-montoya,Juan Pablo Montoya,williams,2,60,7,0,2,1211.791245,1225.427907,13.636662,0.947368,0.674635,50.0,20
-2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,kimi-raikkonen,Kimi Räikkönen,mclaren,3,60,3,0,3,1144.302878,1159.559639,15.256761,0.894737,0.589602,50.0,20
-2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,michael-schumacher,Michael Schumacher,ferrari,4,60,5,0,4,1436.909122,1434.872498,-2.036624,0.842105,0.882838,50.0,20
-2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,david-coulthard,David Coulthard,mclaren,5,60,12,0,5,1178.951739,1186.712711,7.760972,0.789474,0.634254,50.0,20
-2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,jarno-trulli,Jarno Trulli,renault,6,60,2,0,6,1038.140645,1052.699045,14.5584,0.736842,0.445674,50.0,20
-2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,cristiano-da-matta,Cristiano da Matta,toyota,7,60,6,0,7,1023.607011,1036.523422,12.916412,0.684211,0.425882,50.0,20
-2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,jenson-button,Jenson Button,bar,8,60,20,0,8,1057.912929,1065.855009,7.94208,0.631579,0.472737,50.0,20
-2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,ralf-schumacher,Ralf Schumacher,williams,9,60,4,0,9,1260.391877,1252.829523,-7.562354,0.578947,0.730194,50.0,20
-2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,jacques-villeneuve,Jacques Villeneuve,bar,10,60,9,0,10,997.176543,1003.977114,6.800571,0.526316,0.390304,50.0,20
-2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,olivier-panis,Olivier Panis,toyota,11,60,13,0,11,991.03073,995.608154,4.577424,0.473684,0.382136,50.0,20
-2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,12,60,14,0,12,987.040125,989.24991,2.209785,0.421053,0.376857,50.0,20
-2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,ralph-firman,Ralph Firman,jordan,13,59,17,0,13,977.622846,977.819632,0.196786,0.368421,0.364485,50.0,20
-2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,mark-webber,Mark Webber,jaguar,14,59,11,0,14,1024.411601,1018.852343,-5.559258,0.315789,0.426975,50.0,20
-2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,jos-verstappen,Jos Verstappen,minardi,15,58,19,0,15,974.611201,969.741299,-4.869902,0.263158,0.360556,50.0,20
-2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,justin-wilson,Justin Wilson,minardi,16,58,18,0,16,962.521245,955.801284,-6.719961,0.210526,0.344926,50.0,20
-2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,nick-heidfeld,Nick Heidfeld,sauber,17,58,16,0,17,1061.126673,1045.164269,-15.962404,0.157895,0.477143,50.0,20
-2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,fernando-alonso,Fernando Alonso,renault,DNF,52,8,1,18,1077.848886,1058.109206,-19.739681,0.105263,0.500057,50.0,20
-2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,44,15,1,19,1007.705224,990.116911,-17.588314,0.052632,0.404398,50.0,20
-2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,antonio-pizzonia,Antônio Pizzonia,jaguar,DNF,32,10,1,20,991.952065,972.784196,-19.167869,0.0,0.383357,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,708,rubens-barrichello,Rubens Barrichello,ferrari,1,60,1,0,1,1262.971335,1276.321849,13.350513,1.0,0.73299,50.0,20
+2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,708,juan-pablo-montoya,Juan Pablo Montoya,williams,2,60,7,0,2,1211.791245,1225.427907,13.636662,0.947368,0.674635,50.0,20
+2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,708,kimi-raikkonen,Kimi Räikkönen,mclaren,3,60,3,0,3,1144.302878,1159.559639,15.256761,0.894737,0.589602,50.0,20
+2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,708,michael-schumacher,Michael Schumacher,ferrari,4,60,5,0,4,1436.909122,1434.872498,-2.036624,0.842105,0.882838,50.0,20
+2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,708,david-coulthard,David Coulthard,mclaren,5,60,12,0,5,1178.951739,1186.712711,7.760972,0.789474,0.634254,50.0,20
+2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,708,jarno-trulli,Jarno Trulli,renault,6,60,2,0,6,1038.140645,1052.699045,14.5584,0.736842,0.445674,50.0,20
+2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,708,cristiano-da-matta,Cristiano da Matta,toyota,7,60,6,0,7,1023.607011,1036.523422,12.916412,0.684211,0.425882,50.0,20
+2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,708,jenson-button,Jenson Button,bar,8,60,20,0,8,1057.912929,1065.855009,7.94208,0.631579,0.472737,50.0,20
+2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,708,ralf-schumacher,Ralf Schumacher,williams,9,60,4,0,9,1260.391877,1252.829523,-7.562354,0.578947,0.730194,50.0,20
+2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,708,jacques-villeneuve,Jacques Villeneuve,bar,10,60,9,0,10,997.176543,1003.977114,6.800571,0.526316,0.390304,50.0,20
+2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,708,olivier-panis,Olivier Panis,toyota,11,60,13,0,11,991.03073,995.608154,4.577424,0.473684,0.382136,50.0,20
+2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,708,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,12,60,14,0,12,987.040125,989.24991,2.209785,0.421053,0.376857,50.0,20
+2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,708,ralph-firman,Ralph Firman,jordan,13,59,17,0,13,977.622846,977.819632,0.196786,0.368421,0.364485,50.0,20
+2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,708,mark-webber,Mark Webber,jaguar,14,59,11,0,14,1024.411601,1018.852343,-5.559258,0.315789,0.426975,50.0,20
+2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,708,jos-verstappen,Jos Verstappen,minardi,15,58,19,0,15,974.611201,969.741299,-4.869902,0.263158,0.360556,50.0,20
+2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,708,justin-wilson,Justin Wilson,minardi,16,58,18,0,16,962.521245,955.801284,-6.719961,0.210526,0.344926,50.0,20
+2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,708,nick-heidfeld,Nick Heidfeld,sauber,17,58,16,0,17,1061.126673,1045.164269,-15.962404,0.157895,0.477143,50.0,20
+2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,708,fernando-alonso,Fernando Alonso,renault,DNF,52,8,1,18,1077.848886,1058.109206,-19.739681,0.105263,0.500057,50.0,20
+2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,708,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,44,15,1,19,1007.705224,990.116911,-17.588314,0.052632,0.404398,50.0,20
+2003,11,2003-07-20,great-britain,2003 Foster's British Grand Prix,708,antonio-pizzonia,Antônio Pizzonia,jaguar,DNF,32,10,1,20,991.952065,972.784196,-19.167869,0.0,0.383357,50.0,20

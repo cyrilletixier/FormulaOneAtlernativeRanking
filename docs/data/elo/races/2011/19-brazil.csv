@@ -1,25 +1,25 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,mark-webber,Mark Webber,red-bull,1,71,2,0,1,1347.521042,1358.108287,10.587245,1.0,0.788255,50.0,24
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,sebastian-vettel,Sebastian Vettel,red-bull,2,71,1,0,2,1392.926186,1399.436659,6.510472,0.956522,0.826312,50.0,24
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,jenson-button,Jenson Button,mclaren,3,71,3,0,3,1344.03775,1350.432174,6.394424,0.913043,0.785155,50.0,24
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,fernando-alonso,Fernando Alonso,ferrari,4,71,5,0,4,1367.843945,1371.030582,3.186637,0.869565,0.805832,50.0,24
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,felipe-massa,Felipe Massa,ferrari,5,71,7,0,5,1222.206864,1230.422818,8.215954,0.826087,0.661768,50.0,24
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,adrian-sutil,Adrian Sutil,force-india,6,70,8,0,6,1113.573001,1126.074674,12.501673,0.782609,0.532575,50.0,24
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,nico-rosberg,Nico Rosberg,mercedes,7,70,6,0,7,1209.300421,1213.898235,4.597813,0.73913,0.647174,50.0,24
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,paul-di-resta,Paul di Resta,force-india,8,70,11,0,8,1089.016568,1098.69934,9.682772,0.695652,0.501997,50.0,24
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,kamui-kobayashi,Kamui Kobayashi,sauber,9,70,16,0,9,1051.935468,1061.765392,9.829924,0.652174,0.455575,50.0,24
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,vitaly-petrov,Vitaly Petrov,renault,10,70,15,0,10,1062.71411,1069.695384,6.981274,0.608696,0.46907,50.0,24
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,jaime-alguersuari,Jaime Alguersuari,toro-rosso,11,70,13,0,11,1056.284642,1061.494575,5.209932,0.565217,0.461019,50.0,24
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,sebastien-buemi,Sébastien Buemi,toro-rosso,12,70,14,0,12,1006.317305,1012.459095,6.141791,0.521739,0.398903,50.0,24
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,sergio-perez,Sergio Pérez,sauber,13,70,17,0,13,1035.363057,1037.532277,2.16922,0.478261,0.434876,50.0,24
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,rubens-barrichello,Rubens Barrichello,williams,14,70,12,0,14,1070.9627,1068.7317,-2.231,0.434783,0.479403,50.0,24
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,michael-schumacher,Michael Schumacher,mercedes,15,70,10,0,15,1151.455215,1142.068666,-9.386549,0.391304,0.579035,50.0,24
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,heikki-kovalainen,Heikki Kovalainen,lotus-racing,16,69,19,0,16,949.853168,950.687882,0.834715,0.347826,0.331132,50.0,24
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,bruno-senna,Bruno Senna,renault,17,69,9,0,17,957.207786,955.438207,-1.769579,0.304348,0.339739,50.0,24
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,jarno-trulli,Jarno Trulli,lotus-racing,18,69,20,0,18,901.773006,900.966034,-0.806972,0.26087,0.277009,50.0,24
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,jerome-dambrosio,Jérôme d'Ambrosio,virgin,19,68,23,0,19,911.01315,907.52808,-3.48507,0.217391,0.287093,50.0,24
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,daniel-ricciardo,Daniel Ricciardo,hrt,20,68,22,0,20,930.950422,924.176908,-6.773514,0.173913,0.309383,50.0,24
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,vitantonio-liuzzi,Vitantonio Liuzzi,hrt,DNF,61,21,1,21,876.137253,870.162748,-5.974505,0.130435,0.249925,50.0,24
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,lewis-hamilton,Lewis Hamilton,mclaren,DNF,46,4,1,22,1311.443753,1278.044966,-33.398788,0.086957,0.754932,50.0,24
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,pastor-maldonado,Pastor Maldonado,williams,DNF,26,18,1,23,975.30508,959.417548,-15.887531,0.043478,0.361229,50.0,24
-2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,timo-glock,Timo Glock,virgin,DNF,21,24,1,24,888.300523,875.170184,-13.130338,0.0,0.262607,50.0,24
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,mark-webber,Mark Webber,red-bull,1,71,2,0,1,1347.521042,1358.108287,10.587245,1.0,0.788255,50.0,24
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,sebastian-vettel,Sebastian Vettel,red-bull,2,71,1,0,2,1392.926186,1399.436659,6.510472,0.956522,0.826312,50.0,24
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,jenson-button,Jenson Button,mclaren,3,71,3,0,3,1344.03775,1350.432174,6.394424,0.913043,0.785155,50.0,24
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,fernando-alonso,Fernando Alonso,ferrari,4,71,5,0,4,1367.843945,1371.030582,3.186637,0.869565,0.805832,50.0,24
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,felipe-massa,Felipe Massa,ferrari,5,71,7,0,5,1222.206864,1230.422818,8.215954,0.826087,0.661768,50.0,24
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,adrian-sutil,Adrian Sutil,force-india,6,70,8,0,6,1113.573001,1126.074674,12.501673,0.782609,0.532575,50.0,24
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,nico-rosberg,Nico Rosberg,mercedes,7,70,6,0,7,1209.300421,1213.898235,4.597813,0.73913,0.647174,50.0,24
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,paul-di-resta,Paul di Resta,force-india,8,70,11,0,8,1089.016568,1098.69934,9.682772,0.695652,0.501997,50.0,24
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,kamui-kobayashi,Kamui Kobayashi,sauber,9,70,16,0,9,1051.935468,1061.765392,9.829924,0.652174,0.455575,50.0,24
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,vitaly-petrov,Vitaly Petrov,renault,10,70,15,0,10,1062.71411,1069.695384,6.981274,0.608696,0.46907,50.0,24
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,jaime-alguersuari,Jaime Alguersuari,toro-rosso,11,70,13,0,11,1056.284642,1061.494575,5.209932,0.565217,0.461019,50.0,24
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,sebastien-buemi,Sébastien Buemi,toro-rosso,12,70,14,0,12,1006.317305,1012.459095,6.141791,0.521739,0.398903,50.0,24
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,sergio-perez,Sergio Pérez,sauber,13,70,17,0,13,1035.363057,1037.532277,2.16922,0.478261,0.434876,50.0,24
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,rubens-barrichello,Rubens Barrichello,williams,14,70,12,0,14,1070.9627,1068.7317,-2.231,0.434783,0.479403,50.0,24
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,michael-schumacher,Michael Schumacher,mercedes,15,70,10,0,15,1151.455215,1142.068666,-9.386549,0.391304,0.579035,50.0,24
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,heikki-kovalainen,Heikki Kovalainen,lotus-racing,16,69,19,0,16,949.853168,950.687882,0.834715,0.347826,0.331132,50.0,24
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,bruno-senna,Bruno Senna,renault,17,69,9,0,17,957.207786,955.438207,-1.769579,0.304348,0.339739,50.0,24
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,jarno-trulli,Jarno Trulli,lotus-racing,18,69,20,0,18,901.773006,900.966034,-0.806972,0.26087,0.277009,50.0,24
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,jerome-dambrosio,Jérôme d'Ambrosio,virgin,19,68,23,0,19,911.01315,907.52808,-3.48507,0.217391,0.287093,50.0,24
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,daniel-ricciardo,Daniel Ricciardo,hrt,20,68,22,0,20,930.950422,924.176908,-6.773514,0.173913,0.309383,50.0,24
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,vitantonio-liuzzi,Vitantonio Liuzzi,hrt,DNF,61,21,1,21,876.137253,870.162748,-5.974505,0.130435,0.249925,50.0,24
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,lewis-hamilton,Lewis Hamilton,mclaren,DNF,46,4,1,22,1311.443753,1278.044966,-33.398788,0.086957,0.754932,50.0,24
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,pastor-maldonado,Pastor Maldonado,williams,DNF,26,18,1,23,975.30508,959.417548,-15.887531,0.043478,0.361229,50.0,24
+2011,19,2011-11-27,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2011,858,timo-glock,Timo Glock,virgin,DNF,21,24,1,24,888.300523,875.170184,-13.130338,0.0,0.262607,50.0,24

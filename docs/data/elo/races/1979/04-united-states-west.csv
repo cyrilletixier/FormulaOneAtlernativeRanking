@@ -1,27 +1,27 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,gilles-villeneuve,Gilles Villeneuve,ferrari,1,80,1,0,1,1172.427753,1191.75355,19.325797,1.0,0.613484,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,jody-scheckter,Jody Scheckter,ferrari,2,80,3,0,2,1213.816741,1228.441763,14.625023,0.96,0.6675,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,alan-jones,Alan Jones,williams,3,80,10,0,3,1138.862566,1156.473057,17.610491,0.92,0.56779,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,mario-andretti,Mario Andretti,lotus,4,80,6,0,4,1197.303232,1208.987256,11.684025,0.88,0.64632,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,patrick-depailler,Patrick Depailler,ligier,5,80,4,0,5,1151.063899,1163.83634,12.772442,0.84,0.584551,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,jean-pierre-jarier,Jean-Pierre Jarier,tyrrell,6,79,7,0,6,1032.049599,1051.089509,19.039909,0.8,0.419202,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,elio-de-angelis,Elio de Angelis,shadow,7,78,20,0,7,1014.49432,1032.724665,18.230346,0.76,0.395393,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,nelson-piquet,Nelson Piquet,brabham,8,78,12,0,8,1024.534714,1040.086574,15.55186,0.72,0.408963,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,jochen-mass,Jochen Mass,arrows,9,78,13,0,9,1092.670646,1101.499312,8.828666,0.68,0.503427,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,hector-rebaque,Héctor Rebaque,lotus,DNF,71,23,1,10,931.368958,948.875626,17.506668,0.64,0.289867,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,derek-daly,Derek Daly,ensign,DNF,69,24,1,11,1000.682413,1011.834379,11.151966,0.6,0.376961,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,john-watson,John Watson,mclaren,DNF,62,18,1,12,1158.16286,1156.451387,-1.711473,0.56,0.594229,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,clay-regazzoni,Clay Regazzoni,williams,DNF,48,15,1,13,1048.324861,1052.245788,3.920928,0.52,0.441581,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,jan-lammers,Jan Lammers,shadow,DNF,47,14,1,14,994.589068,1000.142824,5.553756,0.48,0.368925,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,riccardo-patrese,Riccardo Patrese,arrows,DNF,40,9,1,15,1104.686302,1100.67389,-4.012412,0.44,0.520248,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,carlos-reutemann,Carlos Reutemann,lotus,DNF,21,2,1,16,1258.594871,1242.498355,-16.096516,0.4,0.72193,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,emerson-fittipaldi,Emerson Fittipaldi,fittipaldi,DNF,19,16,1,17,1149.132917,1138.037482,-11.095435,0.36,0.581909,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,arturo-merzario,Arturo Merzario,merzario,DNF,13,22,1,18,862.222327,867.491363,5.269035,0.32,0.214619,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,jacques-laffite,Jacques Laffite,ligier,DNF,8,5,1,19,1224.923483,1204.851975,-20.071508,0.28,0.68143,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,james-hunt,James Hunt,wolf,DNF,0,8,1,20,1119.13473,1102.113439,-17.021291,0.2,0.540426,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,niki-lauda,Niki Lauda,brabham,DNF,0,11,1,21,1173.37099,1152.633628,-20.737362,0.2,0.614747,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,patrick-tambay,Patrick Tambay,mclaren,DNF,0,19,1,22,1118.053751,1101.107788,-16.945963,0.2,0.538919,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,didier-pironi,Didier Pironi,tyrrell,DSQ,72,17,2,23,1080.67707,1062.345378,-18.331692,0.12,0.486634,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,hans-joachim-stuck,Hans-Joachim Stuck,ats-wheels,DSQ,49,21,2,24,1008.82225,993.432814,-15.389436,0.08,0.387789,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,jean-pierre-jabouille,Jean-Pierre Jabouille,renault,DNS,,,2,25,1039.790638,1019.299922,-20.490716,0.02,0.429814,50.0,26
-1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,rene-arnoux,René Arnoux,renault,DNS,,,2,26,1020.38781,1001.220704,-19.167106,0.02,0.403342,50.0,26
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,gilles-villeneuve,Gilles Villeneuve,ferrari,1,80,1,0,1,1172.427753,1191.75355,19.325797,1.0,0.613484,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,jody-scheckter,Jody Scheckter,ferrari,2,80,3,0,2,1213.816741,1228.441763,14.625023,0.96,0.6675,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,alan-jones,Alan Jones,williams,3,80,10,0,3,1138.862566,1156.473057,17.610491,0.92,0.56779,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,mario-andretti,Mario Andretti,lotus,4,80,6,0,4,1197.303232,1208.987256,11.684025,0.88,0.64632,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,patrick-depailler,Patrick Depailler,ligier,5,80,4,0,5,1151.063899,1163.83634,12.772442,0.84,0.584551,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,jean-pierre-jarier,Jean-Pierre Jarier,tyrrell,6,79,7,0,6,1032.049599,1051.089509,19.039909,0.8,0.419202,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,elio-de-angelis,Elio de Angelis,shadow,7,78,20,0,7,1014.49432,1032.724665,18.230346,0.76,0.395393,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,nelson-piquet,Nelson Piquet,brabham,8,78,12,0,8,1024.534714,1040.086574,15.55186,0.72,0.408963,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,jochen-mass,Jochen Mass,arrows,9,78,13,0,9,1092.670646,1101.499312,8.828666,0.68,0.503427,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,hector-rebaque,Héctor Rebaque,lotus,DNF,71,23,1,10,931.368958,948.875626,17.506668,0.64,0.289867,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,derek-daly,Derek Daly,ensign,DNF,69,24,1,11,1000.682413,1011.834379,11.151966,0.6,0.376961,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,john-watson,John Watson,mclaren,DNF,62,18,1,12,1158.16286,1156.451387,-1.711473,0.56,0.594229,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,clay-regazzoni,Clay Regazzoni,williams,DNF,48,15,1,13,1048.324861,1052.245788,3.920928,0.52,0.441581,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,jan-lammers,Jan Lammers,shadow,DNF,47,14,1,14,994.589068,1000.142824,5.553756,0.48,0.368925,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,riccardo-patrese,Riccardo Patrese,arrows,DNF,40,9,1,15,1104.686302,1100.67389,-4.012412,0.44,0.520248,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,carlos-reutemann,Carlos Reutemann,lotus,DNF,21,2,1,16,1258.594871,1242.498355,-16.096516,0.4,0.72193,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,emerson-fittipaldi,Emerson Fittipaldi,fittipaldi,DNF,19,16,1,17,1149.132917,1138.037482,-11.095435,0.36,0.581909,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,arturo-merzario,Arturo Merzario,merzario,DNF,13,22,1,18,862.222327,867.491363,5.269035,0.32,0.214619,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,jacques-laffite,Jacques Laffite,ligier,DNF,8,5,1,19,1224.923483,1204.851975,-20.071508,0.28,0.68143,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,james-hunt,James Hunt,wolf,DNF,0,8,1,20,1119.13473,1102.113439,-17.021291,0.2,0.540426,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,niki-lauda,Niki Lauda,brabham,DNF,0,11,1,21,1173.37099,1152.633628,-20.737362,0.2,0.614747,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,patrick-tambay,Patrick Tambay,mclaren,DNF,0,19,1,22,1118.053751,1101.107788,-16.945963,0.2,0.538919,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,didier-pironi,Didier Pironi,tyrrell,DSQ,72,17,2,23,1080.67707,1062.345378,-18.331692,0.12,0.486634,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,hans-joachim-stuck,Hans-Joachim Stuck,ats-wheels,DSQ,49,21,2,24,1008.82225,993.432814,-15.389436,0.08,0.387789,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,jean-pierre-jabouille,Jean-Pierre Jabouille,renault,DNS,,,2,25,1039.790638,1019.299922,-20.490716,0.02,0.429814,50.0,26
+1979,4,1979-04-08,united-states-west,1979 Lubri Lon Long Beach Grand Prix,317,rene-arnoux,René Arnoux,renault,DNS,,,2,26,1020.38781,1001.220704,-19.167106,0.02,0.403342,50.0,26

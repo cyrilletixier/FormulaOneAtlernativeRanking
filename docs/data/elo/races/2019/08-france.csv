@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,lewis-hamilton,Lewis Hamilton,mercedes,1,53,1,0,1,1570.109915,1574.70677,4.596855,1.0,0.908063,50.0,20
-2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,valtteri-bottas,Valtteri Bottas,mercedes,2,53,2,0,2,1428.721251,1435.207584,6.486333,0.947368,0.817642,50.0,20
-2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,charles-leclerc,Charles Leclerc,ferrari,3,53,3,0,3,1133.790442,1153.233506,19.443064,0.894737,0.505876,50.0,20
-2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,max-verstappen,Max Verstappen,red-bull,4,53,4,0,4,1358.729741,1362.912816,4.183075,0.842105,0.758444,50.0,20
-2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,sebastian-vettel,Sebastian Vettel,ferrari,5,53,7,0,5,1443.706924,1441.729011,-1.977912,0.789474,0.829032,50.0,20
-2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,6,53,6,0,6,1095.421711,1109.432038,14.010327,0.736842,0.456636,50.0,20
-2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,7,52,12,0,7,1228.196745,1231.313067,3.116322,0.684211,0.621884,50.0,20
-2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,nico-hulkenberg,Nico Hülkenberg,renault,8,52,13,0,8,1043.306474,1055.391974,12.0855,0.631579,0.389869,50.0,20
-2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,lando-norris,Lando Norris,mclaren,9,52,5,0,9,997.242614,1009.56063,12.318016,0.578947,0.332587,50.0,20
-2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,pierre-gasly,Pierre Gasly,red-bull,10,52,9,0,10,1087.92816,1091.894585,3.966424,0.526316,0.446987,50.0,20
-2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,daniel-ricciardo,Daniel Ricciardo,renault,11,52,8,0,11,1141.62529,1139.517048,-2.108243,0.473684,0.515849,50.0,20
-2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,sergio-perez,Sergio Pérez,racing-point,12,52,14,0,12,1136.918922,1132.478415,-4.440507,0.421053,0.509863,50.0,20
-2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,lance-stroll,Lance Stroll,racing-point,13,52,17,0,13,1003.019231,1004.458993,1.439763,0.368421,0.339626,50.0,20
-2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,daniil-kvyat,Daniil Kvyat,toro-rosso,14,52,19,0,14,1040.382233,1036.863404,-3.518828,0.315789,0.386166,50.0,20
-2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,alexander-albon,Alexander Albon,toro-rosso,15,52,11,0,15,1027.397954,1022.064985,-5.33297,0.263158,0.369817,50.0,20
-2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,16,52,10,0,16,980.05982,974.988365,-5.071455,0.210526,0.311955,50.0,20
-2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,kevin-magnussen,Kevin Magnussen,haas,17,52,15,0,17,1058.580343,1046.009472,-12.570871,0.157895,0.409312,50.0,20
-2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,robert-kubica,Robert Kubica,williams,18,51,18,0,18,1070.129888,1054.187851,-15.942037,0.105263,0.424104,50.0,20
-2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,george-russell,George Russell,williams,19,51,20,0,19,967.958839,955.704033,-12.254806,0.052632,0.297728,50.0,20
-2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,romain-grosjean,Romain Grosjean,haas,DNF,44,16,1,20,1026.394719,1007.966668,-18.428051,0.0,0.368561,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,1005,lewis-hamilton,Lewis Hamilton,mercedes,1,53,1,0,1,1570.109915,1574.70677,4.596855,1.0,0.908063,50.0,20
+2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,1005,valtteri-bottas,Valtteri Bottas,mercedes,2,53,2,0,2,1428.721251,1435.207584,6.486333,0.947368,0.817642,50.0,20
+2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,1005,charles-leclerc,Charles Leclerc,ferrari,3,53,3,0,3,1133.790442,1153.233506,19.443064,0.894737,0.505876,50.0,20
+2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,1005,max-verstappen,Max Verstappen,red-bull,4,53,4,0,4,1358.729741,1362.912816,4.183075,0.842105,0.758444,50.0,20
+2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,1005,sebastian-vettel,Sebastian Vettel,ferrari,5,53,7,0,5,1443.706924,1441.729011,-1.977912,0.789474,0.829032,50.0,20
+2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,1005,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,6,53,6,0,6,1095.421711,1109.432038,14.010327,0.736842,0.456636,50.0,20
+2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,1005,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,7,52,12,0,7,1228.196745,1231.313067,3.116322,0.684211,0.621884,50.0,20
+2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,1005,nico-hulkenberg,Nico Hülkenberg,renault,8,52,13,0,8,1043.306474,1055.391974,12.0855,0.631579,0.389869,50.0,20
+2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,1005,lando-norris,Lando Norris,mclaren,9,52,5,0,9,997.242614,1009.56063,12.318016,0.578947,0.332587,50.0,20
+2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,1005,pierre-gasly,Pierre Gasly,red-bull,10,52,9,0,10,1087.92816,1091.894585,3.966424,0.526316,0.446987,50.0,20
+2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,1005,daniel-ricciardo,Daniel Ricciardo,renault,11,52,8,0,11,1141.62529,1139.517048,-2.108243,0.473684,0.515849,50.0,20
+2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,1005,sergio-perez,Sergio Pérez,racing-point,12,52,14,0,12,1136.918922,1132.478415,-4.440507,0.421053,0.509863,50.0,20
+2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,1005,lance-stroll,Lance Stroll,racing-point,13,52,17,0,13,1003.019231,1004.458993,1.439763,0.368421,0.339626,50.0,20
+2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,1005,daniil-kvyat,Daniil Kvyat,toro-rosso,14,52,19,0,14,1040.382233,1036.863404,-3.518828,0.315789,0.386166,50.0,20
+2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,1005,alexander-albon,Alexander Albon,toro-rosso,15,52,11,0,15,1027.397954,1022.064985,-5.33297,0.263158,0.369817,50.0,20
+2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,1005,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,16,52,10,0,16,980.05982,974.988365,-5.071455,0.210526,0.311955,50.0,20
+2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,1005,kevin-magnussen,Kevin Magnussen,haas,17,52,15,0,17,1058.580343,1046.009472,-12.570871,0.157895,0.409312,50.0,20
+2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,1005,robert-kubica,Robert Kubica,williams,18,51,18,0,18,1070.129888,1054.187851,-15.942037,0.105263,0.424104,50.0,20
+2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,1005,george-russell,George Russell,williams,19,51,20,0,19,967.958839,955.704033,-12.254806,0.052632,0.297728,50.0,20
+2019,8,2019-06-23,france,Formula 1 Pirelli Grand Prix de France 2019,1005,romain-grosjean,Romain Grosjean,haas,DNF,44,16,1,20,1026.394719,1007.966668,-18.428051,0.0,0.368561,50.0,20

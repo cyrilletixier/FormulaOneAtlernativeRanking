@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1954-09-05,1954,8,italy,maserati,Maserati,DNQ,,21,1000.0,977.871686,-22.128314,0.0,0.442566,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1954-09-05,1954,8,italy,40,maserati,Maserati,DNQ,,21,1000.0,977.871686,-22.128314,0.0,0.442566,50.0

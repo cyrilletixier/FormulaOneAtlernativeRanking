@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,lewis-hamilton,Lewis Hamilton,mercedes,1,57,3,0,1,1543.170056,1548.340133,5.170076,1.0,0.896598,50.0,20
-2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,valtteri-bottas,Valtteri Bottas,mercedes,2,57,4,0,2,1390.840754,1398.829347,7.988593,0.947368,0.787597,50.0,20
-2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,charles-leclerc,Charles Leclerc,ferrari,3,57,1,0,3,1066.729765,1090.633859,23.904094,0.894737,0.416655,50.0,20
-2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,max-verstappen,Max Verstappen,red-bull,4,57,5,0,4,1329.152055,1334.764857,5.612803,0.842105,0.729849,50.0,20
-2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,sebastian-vettel,Sebastian Vettel,ferrari,5,57,2,0,5,1423.341619,1422.072971,-1.268648,0.789474,0.814847,50.0,20
-2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,lando-norris,Lando Norris,mclaren,6,57,9,0,6,1004.391392,1024.304257,19.912865,0.736842,0.338585,50.0,20
-2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,7,57,8,0,7,1308.03245,1306.827477,-1.204973,0.684211,0.70831,50.0,20
-2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,pierre-gasly,Pierre Gasly,red-bull,8,57,13,0,8,1023.775907,1037.233158,13.457251,0.631579,0.362434,50.0,20
-2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,alexander-albon,Alexander Albon,toro-rosso,9,57,12,0,9,999.128234,1011.465738,12.337504,0.578947,0.332197,50.0,20
-2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,sergio-perez,Sergio Pérez,racing-point,10,57,14,0,10,1143.462197,1144.026599,0.564402,0.526316,0.515028,50.0,20
-2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,11,57,16,0,11,987.232209,995.020651,7.788443,0.473684,0.317915,50.0,20
-2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,daniil-kvyat,Daniil Kvyat,toro-rosso,12,56,15,0,12,1033.81659,1036.121081,2.304491,0.421053,0.374963,50.0,20
-2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,kevin-magnussen,Kevin Magnussen,haas,13,56,6,0,13,1072.316938,1069.547951,-2.768987,0.368421,0.423801,50.0,20
-2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,lance-stroll,Lance Stroll,racing-point,14,56,18,0,14,996.273335,995.625324,-0.648011,0.315789,0.32875,50.0,20
-2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,george-russell,George Russell,williams,15,56,19,0,15,993.865076,990.730414,-3.134662,0.263158,0.325851,50.0,20
-2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,robert-kubica,Robert Kubica,williams,16,55,20,0,16,1175.865353,1158.598718,-17.266635,0.210526,0.555859,50.0,20
-2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,nico-hulkenberg,Nico Hülkenberg,renault,17,53,17,0,17,1062.991289,1050.291923,-12.699367,0.157895,0.411882,50.0,20
-2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,daniel-ricciardo,Daniel Ricciardo,renault,18,53,10,0,18,1170.132704,1147.960836,-22.171867,0.105263,0.548701,50.0,20
-2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,19,53,7,0,19,1078.382153,1059.435109,-18.947044,0.052632,0.431572,50.0,20
-2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,romain-grosjean,Romain Grosjean,haas,DNF,16,11,1,20,1036.721138,1017.790811,-18.930327,0.0,0.378607,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,999,lewis-hamilton,Lewis Hamilton,mercedes,1,57,3,0,1,1543.170056,1548.340133,5.170076,1.0,0.896598,50.0,20
+2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,999,valtteri-bottas,Valtteri Bottas,mercedes,2,57,4,0,2,1390.840754,1398.829347,7.988593,0.947368,0.787597,50.0,20
+2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,999,charles-leclerc,Charles Leclerc,ferrari,3,57,1,0,3,1066.729765,1090.633859,23.904094,0.894737,0.416655,50.0,20
+2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,999,max-verstappen,Max Verstappen,red-bull,4,57,5,0,4,1329.152055,1334.764857,5.612803,0.842105,0.729849,50.0,20
+2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,999,sebastian-vettel,Sebastian Vettel,ferrari,5,57,2,0,5,1423.341619,1422.072971,-1.268648,0.789474,0.814847,50.0,20
+2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,999,lando-norris,Lando Norris,mclaren,6,57,9,0,6,1004.391392,1024.304257,19.912865,0.736842,0.338585,50.0,20
+2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,999,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,7,57,8,0,7,1308.03245,1306.827477,-1.204973,0.684211,0.70831,50.0,20
+2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,999,pierre-gasly,Pierre Gasly,red-bull,8,57,13,0,8,1023.775907,1037.233158,13.457251,0.631579,0.362434,50.0,20
+2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,999,alexander-albon,Alexander Albon,toro-rosso,9,57,12,0,9,999.128234,1011.465738,12.337504,0.578947,0.332197,50.0,20
+2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,999,sergio-perez,Sergio Pérez,racing-point,10,57,14,0,10,1143.462197,1144.026599,0.564402,0.526316,0.515028,50.0,20
+2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,999,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,11,57,16,0,11,987.232209,995.020651,7.788443,0.473684,0.317915,50.0,20
+2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,999,daniil-kvyat,Daniil Kvyat,toro-rosso,12,56,15,0,12,1033.81659,1036.121081,2.304491,0.421053,0.374963,50.0,20
+2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,999,kevin-magnussen,Kevin Magnussen,haas,13,56,6,0,13,1072.316938,1069.547951,-2.768987,0.368421,0.423801,50.0,20
+2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,999,lance-stroll,Lance Stroll,racing-point,14,56,18,0,14,996.273335,995.625324,-0.648011,0.315789,0.32875,50.0,20
+2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,999,george-russell,George Russell,williams,15,56,19,0,15,993.865076,990.730414,-3.134662,0.263158,0.325851,50.0,20
+2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,999,robert-kubica,Robert Kubica,williams,16,55,20,0,16,1175.865353,1158.598718,-17.266635,0.210526,0.555859,50.0,20
+2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,999,nico-hulkenberg,Nico Hülkenberg,renault,17,53,17,0,17,1062.991289,1050.291923,-12.699367,0.157895,0.411882,50.0,20
+2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,999,daniel-ricciardo,Daniel Ricciardo,renault,18,53,10,0,18,1170.132704,1147.960836,-22.171867,0.105263,0.548701,50.0,20
+2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,999,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,19,53,7,0,19,1078.382153,1059.435109,-18.947044,0.052632,0.431572,50.0,20
+2019,2,2019-03-31,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2019,999,romain-grosjean,Romain Grosjean,haas,DNF,16,11,1,20,1036.721138,1017.790811,-18.930327,0.0,0.378607,50.0,20

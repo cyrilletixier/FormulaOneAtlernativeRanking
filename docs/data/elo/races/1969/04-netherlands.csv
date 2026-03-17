@@ -1,16 +1,16 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,jackie-stewart,Jackie Stewart,matra,1,90,2,0,1,1179.317819,1196.468794,17.150974,1.0,0.656981,50.0,15
-1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,jo-siffert,Jo Siffert,lotus,2,90,10,0,2,1107.816389,1126.481424,18.665035,0.928571,0.555271,50.0,15
-1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,chris-amon,Chris Amon,ferrari,3,90,4,0,3,1041.451763,1061.457664,20.005901,0.857143,0.457025,50.0,15
-1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,denny-hulme,Denny Hulme,mclaren,4,90,7,0,4,1194.306323,1199.736142,5.429819,0.785714,0.677118,50.0,15
-1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,jacky-ickx,Jacky Ickx,brabham,5,90,5,0,5,1054.579329,1066.4714,11.892071,0.714286,0.476444,50.0,15
-1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,jack-brabham,Jack Brabham,brabham,6,90,8,0,6,1043.418093,1052.56455,9.146457,0.642857,0.459928,50.0,15
-1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,graham-hill,Graham Hill,lotus,7,88,3,0,7,1159.349998,1156.450769,-2.899228,0.571429,0.629413,50.0,15
-1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,8,87,11,0,8,1068.159368,1068.32971,0.170342,0.5,0.496593,50.0,15
-1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,john-surtees,John Surtees,brm,9,87,12,0,9,1076.069184,1072.08097,-3.988214,0.428571,0.508336,50.0,15
-1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,vic-elford,Vic Elford,mclaren,10,84,15,0,10,1023.006643,1019.367256,-3.639387,0.357143,0.429931,50.0,15
-1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,silvio-moser,Silvio Moser,brabham,DNF,54,14,1,11,945.238358,943.479053,-1.759305,0.285714,0.3209,50.0,15
-1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,bruce-mclaren,Bruce McLaren,mclaren,DNF,24,6,1,12,1125.093426,1106.782281,-18.311145,0.214286,0.580509,50.0,15
-1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,jochen-rindt,Jochen Rindt,lotus,DNF,16,1,1,13,1003.636378,990.686778,-12.9496,0.142857,0.401849,50.0,15
-1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,piers-courage,Piers Courage,brabham,DNF,12,9,1,14,1052.597403,1032.493454,-20.103949,0.071429,0.473508,50.0,15
-1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,jackie-oliver,Jackie Oliver,brm,DNF,9,13,1,15,985.617931,966.808162,-18.80977,0.0,0.376195,50.0,15
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,177,jackie-stewart,Jackie Stewart,matra,1,90,2,0,1,1179.317819,1196.468794,17.150974,1.0,0.656981,50.0,15
+1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,177,jo-siffert,Jo Siffert,lotus,2,90,10,0,2,1107.816389,1126.481424,18.665035,0.928571,0.555271,50.0,15
+1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,177,chris-amon,Chris Amon,ferrari,3,90,4,0,3,1041.451763,1061.457664,20.005901,0.857143,0.457025,50.0,15
+1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,177,denny-hulme,Denny Hulme,mclaren,4,90,7,0,4,1194.306323,1199.736142,5.429819,0.785714,0.677118,50.0,15
+1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,177,jacky-ickx,Jacky Ickx,brabham,5,90,5,0,5,1054.579329,1066.4714,11.892071,0.714286,0.476444,50.0,15
+1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,177,jack-brabham,Jack Brabham,brabham,6,90,8,0,6,1043.418093,1052.56455,9.146457,0.642857,0.459928,50.0,15
+1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,177,graham-hill,Graham Hill,lotus,7,88,3,0,7,1159.349998,1156.450769,-2.899228,0.571429,0.629413,50.0,15
+1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,177,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,8,87,11,0,8,1068.159368,1068.32971,0.170342,0.5,0.496593,50.0,15
+1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,177,john-surtees,John Surtees,brm,9,87,12,0,9,1076.069184,1072.08097,-3.988214,0.428571,0.508336,50.0,15
+1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,177,vic-elford,Vic Elford,mclaren,10,84,15,0,10,1023.006643,1019.367256,-3.639387,0.357143,0.429931,50.0,15
+1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,177,silvio-moser,Silvio Moser,brabham,DNF,54,14,1,11,945.238358,943.479053,-1.759305,0.285714,0.3209,50.0,15
+1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,177,bruce-mclaren,Bruce McLaren,mclaren,DNF,24,6,1,12,1125.093426,1106.782281,-18.311145,0.214286,0.580509,50.0,15
+1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,177,jochen-rindt,Jochen Rindt,lotus,DNF,16,1,1,13,1003.636378,990.686778,-12.9496,0.142857,0.401849,50.0,15
+1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,177,piers-courage,Piers Courage,brabham,DNF,12,9,1,14,1052.597403,1032.493454,-20.103949,0.071429,0.473508,50.0,15
+1969,4,1969-06-21,netherlands,Grote Prijs van Nederland 1969,177,jackie-oliver,Jackie Oliver,brm,DNF,9,13,1,15,985.617931,966.808162,-18.80977,0.0,0.376195,50.0,15

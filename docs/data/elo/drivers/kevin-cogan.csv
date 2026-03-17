@@ -1,3 +1,3 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1980-09-28,1980,13,canada,williams,Williams,DNQ,,28,1000.0,983.473199,-16.526801,0.055556,0.386092,50.0
-1981-03-15,1981,1,united-states-west,tyrrell,Tyrrell,DNQ,,29,983.473199,967.988071,-15.485128,0.071429,0.381131,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1980-09-28,1980,13,canada,341,williams,Williams,DNQ,,28,1000.0,983.473199,-16.526801,0.055556,0.386092,50.0
+1981-03-15,1981,1,united-states-west,343,tyrrell,Tyrrell,DNQ,,29,983.473199,967.988071,-15.485128,0.071429,0.381131,50.0

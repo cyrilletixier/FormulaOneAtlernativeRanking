@@ -1,14 +1,14 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,nino-farina,Nino Farina,alfa-romeo,1,36,2,0,1,1085.495737,1105.232772,19.737035,1.0,0.605259,50.0,13
-1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,alberto-ascari,Alberto Ascari,ferrari,2,36,4,0,2,1042.010398,1060.867769,18.857371,0.916667,0.539519,50.0,13
-1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,luigi-villoresi,Luigi Villoresi,ferrari,3,36,3,0,3,976.399709,996.13005,19.730341,0.833333,0.438727,50.0,13
-1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,louis-rosier,Louis Rosier,talbot-lago,4,34,7,0,4,1059.988214,1069.140544,9.152331,0.75,0.566953,50.0,13
-1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,yves-giraud-cabantous,Yves Giraud-Cabantous,talbot-lago,5,34,8,0,5,956.307556,969.22218,12.914624,0.666667,0.408374,50.0,13
-1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,andre-pilette,André Pilette,talbot-lago,6,33,12,0,6,1000.0,1005.423649,5.423649,0.583333,0.47486,50.0,13
-1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,johnny-claes,Johnny Claes,talbot-lago,7,33,11,0,7,988.837061,990.950962,2.113901,0.5,0.457722,50.0,13
-1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,pierre-levegh,Pierre Levegh,talbot-lago,8,32,13,0,8,998.465976,995.674234,-2.791741,0.416667,0.472501,50.0,13
-1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,juan-manuel-fangio,Juan Manuel Fangio,alfa-romeo,9,32,1,0,9,1074.923128,1062.115312,-12.807817,0.333333,0.58949,50.0,13
-1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,louis-chiron,Louis Chiron,talbot-lago,DNF,28,9,1,10,990.424528,979.916782,-10.507746,0.25,0.460155,50.0,13
-1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,consalvo-sanesi,Consalvo Sanesi,alfa-romeo,DNF,11,6,1,11,1002.39178,986.798112,-15.593668,0.166667,0.47854,50.0,13
-1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,piero-taruffi,Piero Taruffi,ferrari,DNF,8,5,1,12,1023.401335,1002.022595,-21.37874,0.083333,0.510908,50.0,13
-1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,philippe-etancelin,Philippe Étancelin,talbot-lago,DNF,0,10,1,13,1014.370183,989.520645,-24.849538,0.0,0.496991,50.0,13
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,10,nino-farina,Nino Farina,alfa-romeo,1,36,2,0,1,1085.495737,1105.232772,19.737035,1.0,0.605259,50.0,13
+1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,10,alberto-ascari,Alberto Ascari,ferrari,2,36,4,0,2,1042.010398,1060.867769,18.857371,0.916667,0.539519,50.0,13
+1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,10,luigi-villoresi,Luigi Villoresi,ferrari,3,36,3,0,3,976.399709,996.13005,19.730341,0.833333,0.438727,50.0,13
+1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,10,louis-rosier,Louis Rosier,talbot-lago,4,34,7,0,4,1059.988214,1069.140544,9.152331,0.75,0.566953,50.0,13
+1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,10,yves-giraud-cabantous,Yves Giraud-Cabantous,talbot-lago,5,34,8,0,5,956.307556,969.22218,12.914624,0.666667,0.408374,50.0,13
+1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,10,andre-pilette,André Pilette,talbot-lago,6,33,12,0,6,1000.0,1005.423649,5.423649,0.583333,0.47486,50.0,13
+1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,10,johnny-claes,Johnny Claes,talbot-lago,7,33,11,0,7,988.837061,990.950962,2.113901,0.5,0.457722,50.0,13
+1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,10,pierre-levegh,Pierre Levegh,talbot-lago,8,32,13,0,8,998.465976,995.674234,-2.791741,0.416667,0.472501,50.0,13
+1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,10,juan-manuel-fangio,Juan Manuel Fangio,alfa-romeo,9,32,1,0,9,1074.923128,1062.115312,-12.807817,0.333333,0.58949,50.0,13
+1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,10,louis-chiron,Louis Chiron,talbot-lago,DNF,28,9,1,10,990.424528,979.916782,-10.507746,0.25,0.460155,50.0,13
+1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,10,consalvo-sanesi,Consalvo Sanesi,alfa-romeo,DNF,11,6,1,11,1002.39178,986.798112,-15.593668,0.166667,0.47854,50.0,13
+1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,10,piero-taruffi,Piero Taruffi,ferrari,DNF,8,5,1,12,1023.401335,1002.022595,-21.37874,0.083333,0.510908,50.0,13
+1951,3,1951-06-17,belgium,1951 Belgian Grand Prix,10,philippe-etancelin,Philippe Étancelin,talbot-lago,DNF,0,10,1,13,1014.370183,989.520645,-24.849538,0.0,0.496991,50.0,13

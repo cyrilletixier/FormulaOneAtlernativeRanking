@@ -1,25 +1,25 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,jochen-rindt,Jochen Rindt,lotus,1,80,1,0,1,1065.105643,1088.264562,23.15892,1.0,0.536822,50.0,24
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,jackie-stewart,Jackie Stewart,march,2,80,2,0,2,1207.070193,1218.604457,11.534265,0.956522,0.725836,50.0,24
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,jacky-ickx,Jacky Ickx,ferrari,3,79,3,0,3,1104.863634,1120.856735,15.993101,0.913043,0.593181,50.0,24
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,clay-regazzoni,Clay Regazzoni,ferrari,4,79,6,0,4,1000.0,1021.318911,21.318911,0.869565,0.443187,50.0,24
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,5,79,10,0,5,1134.071519,1143.711363,9.639844,0.826087,0.63329,50.0,24
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,john-surtees,John Surtees,mclaren,6,79,14,0,6,1030.90468,1045.656648,14.751968,0.782609,0.487569,50.0,24
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,john-miles,John Miles,lotus,7,78,8,0,7,951.345,969.548026,18.203026,0.73913,0.37507,50.0,24
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,henri-pescarolo,Henri Pescarolo,matra,8,78,13,0,8,1068.224659,1075.942646,7.717987,0.695652,0.541292,50.0,24
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,ronnie-peterson,Ronnie Peterson,march,9,78,16,0,9,1018.471172,1027.59678,9.125608,0.652174,0.469662,50.0,24
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,pedro-rodriguez,Pedro Rodríguez,brm,10,77,7,0,10,1124.942102,1124.331649,-0.610454,0.608696,0.620905,50.0,24
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,jack-brabham,Jack Brabham,brabham,11,76,12,0,11,1130.376341,1127.222457,-3.153884,0.565217,0.628295,50.0,24
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,graham-hill,Graham Hill,lotus,NC,71,20,1,12,1164.455695,1156.876296,-7.579399,0.521739,0.673327,50.0,24
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,francois-cevert,François Cevert,march,DNF,31,15,1,13,997.871609,999.777088,1.905478,0.478261,0.440151,50.0,24
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,george-eaton,George Eaton,brm,DNF,26,18,1,14,959.781625,962.188354,2.406729,0.434783,0.386648,50.0,24
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,jackie-oliver,Jackie Oliver,brm,DNF,23,5,1,15,936.428634,938.248573,1.819939,0.391304,0.354906,50.0,24
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,jo-siffert,Jo Siffert,march,DNF,22,17,1,16,1063.721804,1053.284343,-10.437461,0.326087,0.534836,50.0,24
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,piers-courage,Piers Courage,de-tomaso,DNF,22,9,1,17,999.228321,993.428372,-5.799949,0.326087,0.442086,50.0,24
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,peter-gethin,Peter Gethin,mclaren,DNF,18,11,1,18,1000.0,990.884128,-9.115872,0.26087,0.443187,50.0,24
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,dan-gurney,Dan Gurney,mclaren,DNF,2,19,1,19,1031.203538,1017.673093,-13.530446,0.217391,0.488,50.0,24
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,chris-amon,Chris Amon,march,DNF,1,4,1,20,1051.753498,1034.567792,-17.185706,0.173913,0.517627,50.0,24
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,andrea-de-adamich,Andrea de Adamich,mclaren,DNQ,,,2,21,960.955949,944.803381,-16.152568,0.065217,0.388269,50.0,24
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,pete-lovely,Pete Lovely,lotus,DNQ,,,2,22,999.42618,980.56864,-18.857541,0.065217,0.442368,50.0,24
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,rolf-stommelen,Rolf Stommelen,brabham,DNQ,,,2,23,1009.866902,990.262578,-19.604324,0.065217,0.457304,50.0,24
-1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,silvio-moser,Silvio Moser,bellasi,DNQ,,,2,24,952.158282,936.610109,-15.548173,0.065217,0.376181,50.0,24
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,jochen-rindt,Jochen Rindt,lotus,1,80,1,0,1,1065.105643,1088.264562,23.15892,1.0,0.536822,50.0,24
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,jackie-stewart,Jackie Stewart,march,2,80,2,0,2,1207.070193,1218.604457,11.534265,0.956522,0.725836,50.0,24
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,jacky-ickx,Jacky Ickx,ferrari,3,79,3,0,3,1104.863634,1120.856735,15.993101,0.913043,0.593181,50.0,24
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,clay-regazzoni,Clay Regazzoni,ferrari,4,79,6,0,4,1000.0,1021.318911,21.318911,0.869565,0.443187,50.0,24
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,5,79,10,0,5,1134.071519,1143.711363,9.639844,0.826087,0.63329,50.0,24
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,john-surtees,John Surtees,mclaren,6,79,14,0,6,1030.90468,1045.656648,14.751968,0.782609,0.487569,50.0,24
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,john-miles,John Miles,lotus,7,78,8,0,7,951.345,969.548026,18.203026,0.73913,0.37507,50.0,24
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,henri-pescarolo,Henri Pescarolo,matra,8,78,13,0,8,1068.224659,1075.942646,7.717987,0.695652,0.541292,50.0,24
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,ronnie-peterson,Ronnie Peterson,march,9,78,16,0,9,1018.471172,1027.59678,9.125608,0.652174,0.469662,50.0,24
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,pedro-rodriguez,Pedro Rodríguez,brm,10,77,7,0,10,1124.942102,1124.331649,-0.610454,0.608696,0.620905,50.0,24
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,jack-brabham,Jack Brabham,brabham,11,76,12,0,11,1130.376341,1127.222457,-3.153884,0.565217,0.628295,50.0,24
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,graham-hill,Graham Hill,lotus,NC,71,20,1,12,1164.455695,1156.876296,-7.579399,0.521739,0.673327,50.0,24
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,francois-cevert,François Cevert,march,DNF,31,15,1,13,997.871609,999.777088,1.905478,0.478261,0.440151,50.0,24
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,george-eaton,George Eaton,brm,DNF,26,18,1,14,959.781625,962.188354,2.406729,0.434783,0.386648,50.0,24
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,jackie-oliver,Jackie Oliver,brm,DNF,23,5,1,15,936.428634,938.248573,1.819939,0.391304,0.354906,50.0,24
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,jo-siffert,Jo Siffert,march,DNF,22,17,1,16,1063.721804,1053.284343,-10.437461,0.326087,0.534836,50.0,24
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,piers-courage,Piers Courage,de-tomaso,DNF,22,9,1,17,999.228321,993.428372,-5.799949,0.326087,0.442086,50.0,24
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,peter-gethin,Peter Gethin,mclaren,DNF,18,11,1,18,1000.0,990.884128,-9.115872,0.26087,0.443187,50.0,24
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,dan-gurney,Dan Gurney,mclaren,DNF,2,19,1,19,1031.203538,1017.673093,-13.530446,0.217391,0.488,50.0,24
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,chris-amon,Chris Amon,march,DNF,1,4,1,20,1051.753498,1034.567792,-17.185706,0.173913,0.517627,50.0,24
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,andrea-de-adamich,Andrea de Adamich,mclaren,DNQ,,,2,21,960.955949,944.803381,-16.152568,0.065217,0.388269,50.0,24
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,pete-lovely,Pete Lovely,lotus,DNQ,,,2,22,999.42618,980.56864,-18.857541,0.065217,0.442368,50.0,24
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,rolf-stommelen,Rolf Stommelen,brabham,DNQ,,,2,23,1009.866902,990.262578,-19.604324,0.065217,0.457304,50.0,24
+1970,5,1970-06-21,netherlands,Grote Prijs van Nederland 1970,189,silvio-moser,Silvio Moser,bellasi,DNQ,,,2,24,952.158282,936.610109,-15.548173,0.065217,0.376181,50.0,24

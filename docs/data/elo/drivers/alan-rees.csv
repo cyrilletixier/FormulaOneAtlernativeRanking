@@ -1,4 +1,4 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1966-08-07,1966,6,germany,brabham,Brabham,DNF,4,30,1000.0,994.928541,-5.071459,0.327586,0.429015,50.0
-1967-07-15,1967,6,great-britain,cooper,Cooper,9,76,21,994.928541,1004.608436,9.679895,0.6,0.406402,50.0
-1967-08-06,1967,7,germany,brabham,Brabham,7,15,26,1004.608436,1020.820589,16.212154,0.76,0.435757,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1966-08-07,1966,6,germany,147,brabham,Brabham,DNF,4,30,1000.0,994.928541,-5.071459,0.327586,0.429015,50.0
+1967-07-15,1967,6,great-britain,156,cooper,Cooper,9,76,21,994.928541,1004.608436,9.679895,0.6,0.406402,50.0
+1967-08-06,1967,7,germany,157,brabham,Brabham,7,15,26,1004.608436,1020.820589,16.212154,0.76,0.435757,50.0

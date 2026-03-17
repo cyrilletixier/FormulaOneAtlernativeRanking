@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,daniel-ricciardo,Daniel Ricciardo,red-bull,1,78,1,0,1,1232.896821,1250.999378,18.102557,1.0,0.637949,50.0,20
-2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,sebastian-vettel,Sebastian Vettel,ferrari,2,78,2,0,2,1398.285436,1405.312467,7.027032,0.947368,0.806828,50.0,20
-2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,lewis-hamilton,Lewis Hamilton,mercedes,3,78,3,0,3,1527.084516,1526.949838,-0.134678,0.894737,0.89743,50.0,20
-2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,kimi-raikkonen,Kimi Räikkönen,ferrari,4,78,4,0,4,1261.898565,1270.428203,8.529638,0.842105,0.671513,50.0,20
-2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,valtteri-bottas,Valtteri Bottas,mercedes,5,78,5,0,5,1363.147781,1363.831342,0.683561,0.789474,0.775802,50.0,20
-2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,esteban-ocon,Esteban Ocon,force-india,6,78,6,0,6,1096.70887,1110.232261,13.523392,0.736842,0.466374,50.0,20
-2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,pierre-gasly,Pierre Gasly,toro-rosso,7,78,10,0,7,989.375738,1007.078977,17.703239,0.684211,0.330146,50.0,20
-2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,nico-hulkenberg,Nico Hülkenberg,renault,8,78,11,0,8,1067.852503,1077.98458,10.132077,0.631579,0.428937,50.0,20
-2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,max-verstappen,Max Verstappen,red-bull,9,78,20,0,9,1209.934772,1208.362047,-1.572725,0.578947,0.610402,50.0,20
-2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,carlos-sainz-jr,Carlos Sainz Jr.,renault,10,78,8,0,10,1093.694012,1096.887035,3.193023,0.526316,0.462455,50.0,20
-2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,marcus-ericsson,Marcus Ericsson,sauber,11,78,16,0,11,948.564488,958.137583,9.573095,0.473684,0.282222,50.0,20
-2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,sergio-perez,Sergio Pérez,force-india,12,78,9,0,12,1206.934497,1197.649869,-9.284628,0.421053,0.606745,50.0,20
-2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,kevin-magnussen,Kevin Magnussen,haas,13,78,19,0,13,1060.154678,1057.625636,-2.529042,0.368421,0.419002,50.0,20
-2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,stoffel-vandoorne,Stoffel Vandoorne,mclaren,14,77,12,0,14,1036.915403,1033.242551,-3.672851,0.315789,0.389247,50.0,20
-2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,romain-grosjean,Romain Grosjean,haas,15,77,18,0,15,1005.958038,1001.594709,-4.363329,0.263158,0.350424,50.0,20
-2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,sergey-sirotkin,Sergey Sirotkin,williams,16,77,13,0,16,963.36859,958.932551,-4.436039,0.210526,0.299247,50.0,20
-2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,lance-stroll,Lance Stroll,williams,17,76,17,0,17,1048.241029,1035.950956,-12.290073,0.157895,0.403696,50.0,20
-2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,charles-leclerc,Charles Leclerc,sauber,18,70,14,0,18,1018.903539,1005.840594,-13.062945,0.105263,0.366522,50.0,20
-2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,brendon-hartley,Brendon Hartley,toro-rosso,19,70,15,0,19,970.893698,958.122091,-12.771607,0.052632,0.308064,50.0,20
-2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,fernando-alonso,Fernando Alonso,mclaren,DNF,52,7,1,20,1112.574766,1088.22507,-24.349696,0.0,0.486994,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,982,daniel-ricciardo,Daniel Ricciardo,red-bull,1,78,1,0,1,1232.896821,1250.999378,18.102557,1.0,0.637949,50.0,20
+2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,982,sebastian-vettel,Sebastian Vettel,ferrari,2,78,2,0,2,1398.285436,1405.312467,7.027032,0.947368,0.806828,50.0,20
+2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,982,lewis-hamilton,Lewis Hamilton,mercedes,3,78,3,0,3,1527.084516,1526.949838,-0.134678,0.894737,0.89743,50.0,20
+2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,982,kimi-raikkonen,Kimi Räikkönen,ferrari,4,78,4,0,4,1261.898565,1270.428203,8.529638,0.842105,0.671513,50.0,20
+2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,982,valtteri-bottas,Valtteri Bottas,mercedes,5,78,5,0,5,1363.147781,1363.831342,0.683561,0.789474,0.775802,50.0,20
+2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,982,esteban-ocon,Esteban Ocon,force-india,6,78,6,0,6,1096.70887,1110.232261,13.523392,0.736842,0.466374,50.0,20
+2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,982,pierre-gasly,Pierre Gasly,toro-rosso,7,78,10,0,7,989.375738,1007.078977,17.703239,0.684211,0.330146,50.0,20
+2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,982,nico-hulkenberg,Nico Hülkenberg,renault,8,78,11,0,8,1067.852503,1077.98458,10.132077,0.631579,0.428937,50.0,20
+2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,982,max-verstappen,Max Verstappen,red-bull,9,78,20,0,9,1209.934772,1208.362047,-1.572725,0.578947,0.610402,50.0,20
+2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,982,carlos-sainz-jr,Carlos Sainz Jr.,renault,10,78,8,0,10,1093.694012,1096.887035,3.193023,0.526316,0.462455,50.0,20
+2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,982,marcus-ericsson,Marcus Ericsson,sauber,11,78,16,0,11,948.564488,958.137583,9.573095,0.473684,0.282222,50.0,20
+2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,982,sergio-perez,Sergio Pérez,force-india,12,78,9,0,12,1206.934497,1197.649869,-9.284628,0.421053,0.606745,50.0,20
+2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,982,kevin-magnussen,Kevin Magnussen,haas,13,78,19,0,13,1060.154678,1057.625636,-2.529042,0.368421,0.419002,50.0,20
+2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,982,stoffel-vandoorne,Stoffel Vandoorne,mclaren,14,77,12,0,14,1036.915403,1033.242551,-3.672851,0.315789,0.389247,50.0,20
+2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,982,romain-grosjean,Romain Grosjean,haas,15,77,18,0,15,1005.958038,1001.594709,-4.363329,0.263158,0.350424,50.0,20
+2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,982,sergey-sirotkin,Sergey Sirotkin,williams,16,77,13,0,16,963.36859,958.932551,-4.436039,0.210526,0.299247,50.0,20
+2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,982,lance-stroll,Lance Stroll,williams,17,76,17,0,17,1048.241029,1035.950956,-12.290073,0.157895,0.403696,50.0,20
+2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,982,charles-leclerc,Charles Leclerc,sauber,18,70,14,0,18,1018.903539,1005.840594,-13.062945,0.105263,0.366522,50.0,20
+2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,982,brendon-hartley,Brendon Hartley,toro-rosso,19,70,15,0,19,970.893698,958.122091,-12.771607,0.052632,0.308064,50.0,20
+2018,6,2018-05-27,monaco,Formula 1 Grand Prix de Monaco 2018,982,fernando-alonso,Fernando Alonso,mclaren,DNF,52,7,1,20,1112.574766,1088.22507,-24.349696,0.0,0.486994,50.0,20

@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,max-verstappen,Max Verstappen,red-bull,1,72,1,0,1,1438.180838,1446.856527,8.675689,1.0,0.826486,50.0,20
-2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,george-russell,George Russell,mercedes,2,72,6,0,2,1212.69569,1230.896584,18.200894,0.947368,0.583351,50.0,20
-2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,charles-leclerc,Charles Leclerc,ferrari,3,72,2,0,3,1263.823652,1276.220837,12.397185,0.894737,0.646793,50.0,20
-2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,lewis-hamilton,Lewis Hamilton,mercedes,4,72,4,0,4,1449.597771,1449.91268,0.314909,0.842105,0.835807,50.0,20
-2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,sergio-perez,Sergio Pérez,red-bull,5,72,5,0,5,1284.609483,1290.507916,5.898433,0.789474,0.671505,50.0,20
-2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,fernando-alonso,Fernando Alonso,alpine,6,72,13,0,6,1175.373144,1185.446712,10.073568,0.736842,0.535371,50.0,20
-2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,lando-norris,Lando Norris,mclaren,7,72,7,0,7,1221.252112,1225.753279,4.501166,0.684211,0.594187,50.0,20
-2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,8,72,3,0,8,1281.482264,1279.669523,-1.812741,0.631579,0.667834,50.0,20
-2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,esteban-ocon,Esteban Ocon,alpine,9,72,12,0,9,1191.564979,1192.697071,1.132092,0.578947,0.556306,50.0,20
-2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,lance-stroll,Lance Stroll,aston-martin,10,72,10,0,10,1084.072267,1089.545278,5.473011,0.526316,0.416856,50.0,20
-2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,pierre-gasly,Pierre Gasly,alphatauri,11,72,11,0,11,1116.039176,1116.818315,0.779139,0.473684,0.458101,50.0,20
-2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,alexander-albon,Alexander Albon,williams,12,72,15,0,12,1094.256259,1093.812689,-0.44357,0.421053,0.429924,50.0,20
-2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,mick-schumacher,Mick Schumacher,haas,13,72,8,0,13,939.559189,945.640986,6.081797,0.368421,0.246785,50.0,20
-2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,sebastian-vettel,Sebastian Vettel,aston-martin,14,72,19,0,14,1107.61318,1101.044065,-6.569114,0.315789,0.447172,50.0,20
-2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,kevin-magnussen,Kevin Magnussen,haas,15,72,18,0,15,967.690515,967.003241,-0.687274,0.263158,0.276903,50.0,20
-2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,guanyu-zhou,Guanyu Zhou,alfa-romeo,16,72,14,0,16,982.877717,978.710788,-4.166929,0.210526,0.293865,50.0,20
-2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,daniel-ricciardo,Daniel Ricciardo,mclaren,17,72,17,0,17,1125.699232,1110.060679,-15.638553,0.157895,0.470666,50.0,20
-2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,nicholas-latifi,Nicholas Latifi,williams,18,71,20,0,18,906.052773,900.651892,-5.400881,0.105263,0.213281,50.0,20
-2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,valtteri-bottas,Valtteri Bottas,alfa-romeo,DNF,53,16,1,19,1170.692875,1146.859713,-23.833162,0.052632,0.529295,50.0,20
-2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,yuki-tsunoda,Yuki Tsunoda,alphatauri,DNF,43,9,1,20,987.845063,972.869403,-14.975659,0.0,0.299513,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,1072,max-verstappen,Max Verstappen,red-bull,1,72,1,0,1,1438.180838,1446.856527,8.675689,1.0,0.826486,50.0,20
+2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,1072,george-russell,George Russell,mercedes,2,72,6,0,2,1212.69569,1230.896584,18.200894,0.947368,0.583351,50.0,20
+2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,1072,charles-leclerc,Charles Leclerc,ferrari,3,72,2,0,3,1263.823652,1276.220837,12.397185,0.894737,0.646793,50.0,20
+2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,1072,lewis-hamilton,Lewis Hamilton,mercedes,4,72,4,0,4,1449.597771,1449.91268,0.314909,0.842105,0.835807,50.0,20
+2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,1072,sergio-perez,Sergio Pérez,red-bull,5,72,5,0,5,1284.609483,1290.507916,5.898433,0.789474,0.671505,50.0,20
+2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,1072,fernando-alonso,Fernando Alonso,alpine,6,72,13,0,6,1175.373144,1185.446712,10.073568,0.736842,0.535371,50.0,20
+2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,1072,lando-norris,Lando Norris,mclaren,7,72,7,0,7,1221.252112,1225.753279,4.501166,0.684211,0.594187,50.0,20
+2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,1072,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,8,72,3,0,8,1281.482264,1279.669523,-1.812741,0.631579,0.667834,50.0,20
+2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,1072,esteban-ocon,Esteban Ocon,alpine,9,72,12,0,9,1191.564979,1192.697071,1.132092,0.578947,0.556306,50.0,20
+2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,1072,lance-stroll,Lance Stroll,aston-martin,10,72,10,0,10,1084.072267,1089.545278,5.473011,0.526316,0.416856,50.0,20
+2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,1072,pierre-gasly,Pierre Gasly,alphatauri,11,72,11,0,11,1116.039176,1116.818315,0.779139,0.473684,0.458101,50.0,20
+2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,1072,alexander-albon,Alexander Albon,williams,12,72,15,0,12,1094.256259,1093.812689,-0.44357,0.421053,0.429924,50.0,20
+2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,1072,mick-schumacher,Mick Schumacher,haas,13,72,8,0,13,939.559189,945.640986,6.081797,0.368421,0.246785,50.0,20
+2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,1072,sebastian-vettel,Sebastian Vettel,aston-martin,14,72,19,0,14,1107.61318,1101.044065,-6.569114,0.315789,0.447172,50.0,20
+2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,1072,kevin-magnussen,Kevin Magnussen,haas,15,72,18,0,15,967.690515,967.003241,-0.687274,0.263158,0.276903,50.0,20
+2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,1072,guanyu-zhou,Guanyu Zhou,alfa-romeo,16,72,14,0,16,982.877717,978.710788,-4.166929,0.210526,0.293865,50.0,20
+2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,1072,daniel-ricciardo,Daniel Ricciardo,mclaren,17,72,17,0,17,1125.699232,1110.060679,-15.638553,0.157895,0.470666,50.0,20
+2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,1072,nicholas-latifi,Nicholas Latifi,williams,18,71,20,0,18,906.052773,900.651892,-5.400881,0.105263,0.213281,50.0,20
+2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,1072,valtteri-bottas,Valtteri Bottas,alfa-romeo,DNF,53,16,1,19,1170.692875,1146.859713,-23.833162,0.052632,0.529295,50.0,20
+2022,15,2022-09-04,netherlands,Formula 1 Heineken Dutch Grand Prix 2022,1072,yuki-tsunoda,Yuki Tsunoda,alphatauri,DNF,43,9,1,20,987.845063,972.869403,-14.975659,0.0,0.299513,50.0,20

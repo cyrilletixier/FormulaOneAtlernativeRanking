@@ -1,25 +1,25 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,jackie-stewart,Jackie Stewart,tyrrell,1,68,2,0,1,1189.57499,1204.773973,15.198984,1.0,0.69602,50.0,24
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,ronnie-peterson,Ronnie Peterson,march,2,68,5,0,2,1049.495937,1072.112931,22.616994,0.956522,0.504182,50.0,24
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,emerson-fittipaldi,Emerson Fittipaldi,lotus,3,68,4,0,3,1054.137509,1074.246351,20.108841,0.913043,0.510867,50.0,24
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,henri-pescarolo,Henri Pescarolo,march,4,67,17,0,4,1081.430934,1097.408007,15.977073,0.869565,0.550024,50.0,24
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,rolf-stommelen,Rolf Stommelen,surtees,5,67,12,0,5,1011.490943,1030.317105,18.826163,0.826087,0.449564,50.0,24
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,john-surtees,John Surtees,surtees,6,67,18,0,6,1071.992708,1084.296876,12.304168,0.782609,0.536525,50.0,24
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,7,66,15,0,7,1134.777185,1140.50482,5.727634,0.73913,0.624578,50.0,24
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,howden-ganley,Howden Ganley,brm,8,66,11,0,8,1011.458696,1023.765424,12.306727,0.695652,0.449518,50.0,24
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,jo-siffert,Jo Siffert,brm,9,66,3,0,9,1027.042887,1036.058804,9.015918,0.652174,0.471856,50.0,24
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,francois-cevert,François Cevert,tyrrell,10,65,10,0,10,1034.359926,1040.675685,6.315759,0.608696,0.48238,50.0,24
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,nanni-galli,Nanni Galli,march,11,65,21,0,11,946.069513,956.404085,10.334572,0.565217,0.358526,50.0,24
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,tim-schenken,Tim Schenken,brabham,12,63,7,0,12,1009.650754,1013.390921,3.740167,0.521739,0.446936,50.0,24
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,reine-wisell,Reine Wisell,lotus,NC,57,19,1,13,1031.864004,1031.837622,-0.026383,0.478261,0.478789,50.0,24
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,andrea-de-adamich,Andrea de Adamich,march,NC,56,24,1,14,931.484726,936.264875,4.780149,0.434783,0.33918,50.0,24
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,peter-gethin,Peter Gethin,mclaren,DNF,53,14,1,15,1014.822298,1011.671161,-3.151137,0.391304,0.454327,50.0,24
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,jacky-ickx,Jacky Ickx,ferrari,DNF,51,6,1,16,1179.792123,1162.995472,-16.79665,0.347826,0.683759,50.0,24
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,clay-regazzoni,Clay Regazzoni,ferrari,DNF,48,1,1,17,1106.112287,1092.081547,-14.03074,0.304348,0.584963,50.0,24
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,chris-amon,Chris Amon,matra,DNF,35,9,1,18,1135.769073,1117.516293,-18.25278,0.26087,0.625925,50.0,24
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,denny-hulme,Denny Hulme,mclaren,DNF,32,8,1,19,1166.090135,1143.649543,-22.440592,0.217391,0.666203,50.0,24
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,derek-bell,Derek Bell,surtees,DNF,23,23,1,20,965.327753,954.788922,-10.538831,0.173913,0.38469,50.0,24
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,mike-beuttler,Mike Beuttler,march,DNF,21,20,1,21,1000.0,984.861834,-15.138166,0.130435,0.433198,50.0,24
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,dave-charlton,Dave Charlton,lotus,DNF,1,13,1,22,958.379975,943.969012,-14.410963,0.086957,0.375176,50.0,24
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,graham-hill,Graham Hill,brabham,DNF,0,16,1,23,1050.651869,1026.446481,-24.205388,0.021739,0.505847,50.0,24
-1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,jackie-oliver,Jackie Oliver,mclaren,DNF,0,22,1,24,966.984203,948.722683,-18.261519,0.021739,0.38697,50.0,24
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,jackie-stewart,Jackie Stewart,tyrrell,1,68,2,0,1,1189.57499,1204.773973,15.198984,1.0,0.69602,50.0,24
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,ronnie-peterson,Ronnie Peterson,march,2,68,5,0,2,1049.495937,1072.112931,22.616994,0.956522,0.504182,50.0,24
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,emerson-fittipaldi,Emerson Fittipaldi,lotus,3,68,4,0,3,1054.137509,1074.246351,20.108841,0.913043,0.510867,50.0,24
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,henri-pescarolo,Henri Pescarolo,march,4,67,17,0,4,1081.430934,1097.408007,15.977073,0.869565,0.550024,50.0,24
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,rolf-stommelen,Rolf Stommelen,surtees,5,67,12,0,5,1011.490943,1030.317105,18.826163,0.826087,0.449564,50.0,24
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,john-surtees,John Surtees,surtees,6,67,18,0,6,1071.992708,1084.296876,12.304168,0.782609,0.536525,50.0,24
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,7,66,15,0,7,1134.777185,1140.50482,5.727634,0.73913,0.624578,50.0,24
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,howden-ganley,Howden Ganley,brm,8,66,11,0,8,1011.458696,1023.765424,12.306727,0.695652,0.449518,50.0,24
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,jo-siffert,Jo Siffert,brm,9,66,3,0,9,1027.042887,1036.058804,9.015918,0.652174,0.471856,50.0,24
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,francois-cevert,François Cevert,tyrrell,10,65,10,0,10,1034.359926,1040.675685,6.315759,0.608696,0.48238,50.0,24
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,nanni-galli,Nanni Galli,march,11,65,21,0,11,946.069513,956.404085,10.334572,0.565217,0.358526,50.0,24
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,tim-schenken,Tim Schenken,brabham,12,63,7,0,12,1009.650754,1013.390921,3.740167,0.521739,0.446936,50.0,24
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,reine-wisell,Reine Wisell,lotus,NC,57,19,1,13,1031.864004,1031.837622,-0.026383,0.478261,0.478789,50.0,24
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,andrea-de-adamich,Andrea de Adamich,march,NC,56,24,1,14,931.484726,936.264875,4.780149,0.434783,0.33918,50.0,24
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,peter-gethin,Peter Gethin,mclaren,DNF,53,14,1,15,1014.822298,1011.671161,-3.151137,0.391304,0.454327,50.0,24
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,jacky-ickx,Jacky Ickx,ferrari,DNF,51,6,1,16,1179.792123,1162.995472,-16.79665,0.347826,0.683759,50.0,24
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,clay-regazzoni,Clay Regazzoni,ferrari,DNF,48,1,1,17,1106.112287,1092.081547,-14.03074,0.304348,0.584963,50.0,24
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,chris-amon,Chris Amon,matra,DNF,35,9,1,18,1135.769073,1117.516293,-18.25278,0.26087,0.625925,50.0,24
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,denny-hulme,Denny Hulme,mclaren,DNF,32,8,1,19,1166.090135,1143.649543,-22.440592,0.217391,0.666203,50.0,24
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,derek-bell,Derek Bell,surtees,DNF,23,23,1,20,965.327753,954.788922,-10.538831,0.173913,0.38469,50.0,24
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,mike-beuttler,Mike Beuttler,march,DNF,21,20,1,21,1000.0,984.861834,-15.138166,0.130435,0.433198,50.0,24
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,dave-charlton,Dave Charlton,lotus,DNF,1,13,1,22,958.379975,943.969012,-14.410963,0.086957,0.375176,50.0,24
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,graham-hill,Graham Hill,brabham,DNF,0,16,1,23,1050.651869,1026.446481,-24.205388,0.021739,0.505847,50.0,24
+1971,6,1971-07-17,great-britain,1971 Woolmark British Grand Prix,203,jackie-oliver,Jackie Oliver,mclaren,DNF,0,22,1,24,966.984203,948.722683,-18.261519,0.021739,0.38697,50.0,24

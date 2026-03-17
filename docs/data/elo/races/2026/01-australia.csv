@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,george-russell,George Russell,mercedes,1,58,1,0,1,1401.482426,1412.01379,10.531364,1.0,0.789373,50.0,22
-2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,kimi-antonelli,Kimi Antonelli,mercedes,2,58,2,0,2,1153.964012,1175.535057,21.571044,0.952381,0.52096,50.0,22
-2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,charles-leclerc,Charles Leclerc,ferrari,3,58,4,0,3,1339.119047,1347.775311,8.656265,0.904762,0.731637,50.0,22
-2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,lewis-hamilton,Lewis Hamilton,ferrari,4,58,7,0,4,1245.795643,1257.071207,11.275565,0.857143,0.631632,50.0,22
-2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,lando-norris,Lando Norris,mclaren,5,58,6,0,5,1423.516368,1423.597673,0.081305,0.809524,0.807898,50.0,22
-2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,max-verstappen,Max Verstappen,red-bull,6,58,20,0,6,1529.339995,1523.280279,-6.059716,0.761905,0.883099,50.0,22
-2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,oliver-bearman,Oliver Bearman,haas,7,57,12,0,7,1092.030457,1105.592844,13.562387,0.714286,0.443038,50.0,22
-2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,arvid-lindblad,Arvid Lindblad,racing-bulls,8,57,9,0,8,1000.0,1016.842533,16.842533,0.666667,0.329816,50.0,22
-2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,gabriel-bortoleto,Gabriel Bortoleto,audi,9,57,10,0,9,1001.214973,1015.604757,14.389784,0.619048,0.331252,50.0,22
-2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,pierre-gasly,Pierre Gasly,alpine,10,57,14,0,10,988.59167,1001.340984,12.749314,0.571429,0.316442,50.0,22
-2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,esteban-ocon,Esteban Ocon,haas,11,57,13,0,11,1061.84434,1067.776618,5.932278,0.52381,0.405164,50.0,22
-2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,alexander-albon,Alexander Albon,williams,12,57,15,0,12,1072.903223,1075.763157,2.859934,0.47619,0.418992,50.0,22
-2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,liam-lawson,Liam Lawson,racing-bulls,13,57,8,0,13,1049.342777,1051.289946,1.947169,0.428571,0.389628,50.0,22
-2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,franco-colapinto,Franco Colapinto,alpine,14,56,16,0,14,932.826746,939.154472,6.327725,0.380952,0.254398,50.0,22
-2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,carlos-sainz-jr,Carlos Sainz Jr.,williams,15,56,21,0,15,1148.253862,1139.229241,-9.024622,0.333333,0.513826,50.0,22
-2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,sergio-perez,Sergio Pérez,cadillac,16,55,18,0,16,1175.894073,1162.771803,-13.122271,0.285714,0.54816,50.0,22
-2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,lance-stroll,Lance Stroll,aston-martin,NC,43,22,1,17,1005.414026,1000.507232,-4.906794,0.238095,0.336231,50.0,22
-2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,fernando-alonso,Fernando Alonso,aston-martin,DNF,21,17,1,18,1125.815627,1111.057091,-14.758535,0.190476,0.485647,50.0,22
-2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,valtteri-bottas,Valtteri Bottas,cadillac,DNF,15,19,1,19,942.902289,936.787468,-6.114821,0.142857,0.265154,50.0,22
-2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,isack-hadjar,Isack Hadjar,red-bull,DNF,10,3,1,20,1068.180942,1052.28891,-15.892032,0.095238,0.413079,50.0,22
-2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,nico-hulkenberg,Nico Hülkenberg,audi,DNS,,11,2,21,1056.427543,1037.697097,-18.730446,0.02381,0.398418,50.0,22
-2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,oscar-piastri,Oscar Piastri,mclaren,DNS,,5,2,22,1397.774666,1359.657234,-38.117431,0.02381,0.786158,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,1150,george-russell,George Russell,mercedes,1,58,1,0,1,1401.482426,1412.01379,10.531364,1.0,0.789373,50.0,22
+2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,1150,kimi-antonelli,Kimi Antonelli,mercedes,2,58,2,0,2,1153.964012,1175.535057,21.571044,0.952381,0.52096,50.0,22
+2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,1150,charles-leclerc,Charles Leclerc,ferrari,3,58,4,0,3,1339.119047,1347.775311,8.656265,0.904762,0.731637,50.0,22
+2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,1150,lewis-hamilton,Lewis Hamilton,ferrari,4,58,7,0,4,1245.795643,1257.071207,11.275565,0.857143,0.631632,50.0,22
+2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,1150,lando-norris,Lando Norris,mclaren,5,58,6,0,5,1423.516368,1423.597673,0.081305,0.809524,0.807898,50.0,22
+2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,1150,max-verstappen,Max Verstappen,red-bull,6,58,20,0,6,1529.339995,1523.280279,-6.059716,0.761905,0.883099,50.0,22
+2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,1150,oliver-bearman,Oliver Bearman,haas,7,57,12,0,7,1092.030457,1105.592844,13.562387,0.714286,0.443038,50.0,22
+2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,1150,arvid-lindblad,Arvid Lindblad,racing-bulls,8,57,9,0,8,1000.0,1016.842533,16.842533,0.666667,0.329816,50.0,22
+2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,1150,gabriel-bortoleto,Gabriel Bortoleto,audi,9,57,10,0,9,1001.214973,1015.604757,14.389784,0.619048,0.331252,50.0,22
+2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,1150,pierre-gasly,Pierre Gasly,alpine,10,57,14,0,10,988.59167,1001.340984,12.749314,0.571429,0.316442,50.0,22
+2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,1150,esteban-ocon,Esteban Ocon,haas,11,57,13,0,11,1061.84434,1067.776618,5.932278,0.52381,0.405164,50.0,22
+2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,1150,alexander-albon,Alexander Albon,williams,12,57,15,0,12,1072.903223,1075.763157,2.859934,0.47619,0.418992,50.0,22
+2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,1150,liam-lawson,Liam Lawson,racing-bulls,13,57,8,0,13,1049.342777,1051.289946,1.947169,0.428571,0.389628,50.0,22
+2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,1150,franco-colapinto,Franco Colapinto,alpine,14,56,16,0,14,932.826746,939.154472,6.327725,0.380952,0.254398,50.0,22
+2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,1150,carlos-sainz-jr,Carlos Sainz Jr.,williams,15,56,21,0,15,1148.253862,1139.229241,-9.024622,0.333333,0.513826,50.0,22
+2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,1150,sergio-perez,Sergio Pérez,cadillac,16,55,18,0,16,1175.894073,1162.771803,-13.122271,0.285714,0.54816,50.0,22
+2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,1150,lance-stroll,Lance Stroll,aston-martin,NC,43,22,1,17,1005.414026,1000.507232,-4.906794,0.238095,0.336231,50.0,22
+2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,1150,fernando-alonso,Fernando Alonso,aston-martin,DNF,21,17,1,18,1125.815627,1111.057091,-14.758535,0.190476,0.485647,50.0,22
+2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,1150,valtteri-bottas,Valtteri Bottas,cadillac,DNF,15,19,1,19,942.902289,936.787468,-6.114821,0.142857,0.265154,50.0,22
+2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,1150,isack-hadjar,Isack Hadjar,red-bull,DNF,10,3,1,20,1068.180942,1052.28891,-15.892032,0.095238,0.413079,50.0,22
+2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,1150,nico-hulkenberg,Nico Hülkenberg,audi,DNS,,11,2,21,1056.427543,1037.697097,-18.730446,0.02381,0.398418,50.0,22
+2026,1,2026-03-08,australia,Formula 1 Qatar Airways Australian Grand Prix 2026,1150,oscar-piastri,Oscar Piastri,mclaren,DNS,,5,2,22,1397.774666,1359.657234,-38.117431,0.02381,0.786158,50.0,22

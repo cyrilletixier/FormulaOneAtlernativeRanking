@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,michael-schumacher,Michael Schumacher,ferrari,1,70,2,0,1,1443.179131,1448.847638,5.668507,1.0,0.88663,50.0,20
-2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,fernando-alonso,Fernando Alonso,renault,2,70,1,0,2,1120.596818,1140.274815,19.677997,0.947368,0.553808,50.0,20
-2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,rubens-barrichello,Rubens Barrichello,ferrari,3,70,10,0,3,1294.800591,1301.294692,6.494101,0.894737,0.764855,50.0,20
-2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,jarno-trulli,Jarno Trulli,renault,4,70,5,0,4,1179.073649,1189.618872,10.545223,0.842105,0.631201,50.0,20
-2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,jenson-button,Jenson Button,bar,5,70,4,0,5,1177.853969,1185.845702,7.991733,0.789474,0.629639,50.0,20
-2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,david-coulthard,David Coulthard,mclaren,6,70,3,0,6,1126.392166,1135.150808,8.758642,0.736842,0.561669,50.0,20
-2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,kimi-raikkonen,Kimi Räikkönen,mclaren,7,70,9,0,7,1110.22715,1117.454238,7.227088,0.684211,0.539669,50.0,20
-2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,juan-pablo-montoya,Juan Pablo Montoya,williams,8,70,6,0,8,1163.424385,1164.454828,1.030442,0.631579,0.61097,50.0,20
-2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,mark-webber,Mark Webber,jaguar,9,70,12,0,9,1015.671625,1024.1398,8.468175,0.578947,0.409584,50.0,20
-2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,marc-gene,Marc Gené,williams,10,70,8,0,10,1011.559721,1017.674787,6.115067,0.526316,0.404014,50.0,20
-2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,christian-klien,Christian Klien,jaguar,11,69,13,0,11,979.852561,985.448963,5.596402,0.473684,0.361756,50.0,20
-2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,giancarlo-fisichella,Giancarlo Fisichella,sauber,12,69,15,0,12,1058.433199,1056.073189,-2.360011,0.421053,0.468253,50.0,20
-2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,felipe-massa,Felipe Massa,sauber,13,69,16,0,13,1047.421508,1043.189959,-4.231549,0.368421,0.453052,50.0,20
-2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,cristiano-da-matta,Cristiano da Matta,toyota,14,69,11,0,14,1012.226599,1007.770246,-4.456353,0.315789,0.404917,50.0,20
-2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,olivier-panis,Olivier Panis,toyota,15,68,14,0,15,1015.882016,1008.546447,-7.33557,0.263158,0.409869,50.0,20
-2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,nick-heidfeld,Nick Heidfeld,jordan,16,68,17,0,16,1043.673951,1031.80583,-11.868121,0.210526,0.447889,50.0,20
-2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,giorgio-pantano,Giorgio Pantano,jordan,17,67,18,0,17,956.595419,947.903132,-8.692287,0.157895,0.33174,50.0,20
-2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,gianmaria-bruni,Gianmaria Bruni,minardi,18,65,19,0,18,939.231446,928.994609,-10.236838,0.105263,0.31,50.0,20
-2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,zsolt-baumgartner,Zsolt Baumgartner,minardi,DNF,31,20,1,19,975.558067,960.38247,-15.175597,0.052632,0.356144,50.0,20
-2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,takuma-sato,Takuma Sato,bar,DNF,15,7,1,20,1055.601817,1032.384766,-23.217052,0.0,0.464341,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,723,michael-schumacher,Michael Schumacher,ferrari,1,70,2,0,1,1443.179131,1448.847638,5.668507,1.0,0.88663,50.0,20
+2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,723,fernando-alonso,Fernando Alonso,renault,2,70,1,0,2,1120.596818,1140.274815,19.677997,0.947368,0.553808,50.0,20
+2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,723,rubens-barrichello,Rubens Barrichello,ferrari,3,70,10,0,3,1294.800591,1301.294692,6.494101,0.894737,0.764855,50.0,20
+2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,723,jarno-trulli,Jarno Trulli,renault,4,70,5,0,4,1179.073649,1189.618872,10.545223,0.842105,0.631201,50.0,20
+2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,723,jenson-button,Jenson Button,bar,5,70,4,0,5,1177.853969,1185.845702,7.991733,0.789474,0.629639,50.0,20
+2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,723,david-coulthard,David Coulthard,mclaren,6,70,3,0,6,1126.392166,1135.150808,8.758642,0.736842,0.561669,50.0,20
+2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,723,kimi-raikkonen,Kimi Räikkönen,mclaren,7,70,9,0,7,1110.22715,1117.454238,7.227088,0.684211,0.539669,50.0,20
+2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,723,juan-pablo-montoya,Juan Pablo Montoya,williams,8,70,6,0,8,1163.424385,1164.454828,1.030442,0.631579,0.61097,50.0,20
+2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,723,mark-webber,Mark Webber,jaguar,9,70,12,0,9,1015.671625,1024.1398,8.468175,0.578947,0.409584,50.0,20
+2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,723,marc-gene,Marc Gené,williams,10,70,8,0,10,1011.559721,1017.674787,6.115067,0.526316,0.404014,50.0,20
+2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,723,christian-klien,Christian Klien,jaguar,11,69,13,0,11,979.852561,985.448963,5.596402,0.473684,0.361756,50.0,20
+2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,723,giancarlo-fisichella,Giancarlo Fisichella,sauber,12,69,15,0,12,1058.433199,1056.073189,-2.360011,0.421053,0.468253,50.0,20
+2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,723,felipe-massa,Felipe Massa,sauber,13,69,16,0,13,1047.421508,1043.189959,-4.231549,0.368421,0.453052,50.0,20
+2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,723,cristiano-da-matta,Cristiano da Matta,toyota,14,69,11,0,14,1012.226599,1007.770246,-4.456353,0.315789,0.404917,50.0,20
+2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,723,olivier-panis,Olivier Panis,toyota,15,68,14,0,15,1015.882016,1008.546447,-7.33557,0.263158,0.409869,50.0,20
+2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,723,nick-heidfeld,Nick Heidfeld,jordan,16,68,17,0,16,1043.673951,1031.80583,-11.868121,0.210526,0.447889,50.0,20
+2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,723,giorgio-pantano,Giorgio Pantano,jordan,17,67,18,0,17,956.595419,947.903132,-8.692287,0.157895,0.33174,50.0,20
+2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,723,gianmaria-bruni,Gianmaria Bruni,minardi,18,65,19,0,18,939.231446,928.994609,-10.236838,0.105263,0.31,50.0,20
+2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,723,zsolt-baumgartner,Zsolt Baumgartner,minardi,DNF,31,20,1,19,975.558067,960.38247,-15.175597,0.052632,0.356144,50.0,20
+2004,10,2004-07-04,france,Formula 1 Mobil 1 Grand Prix de France 2004,723,takuma-sato,Takuma Sato,bar,DNF,15,7,1,20,1055.601817,1032.384766,-23.217052,0.0,0.464341,50.0,20

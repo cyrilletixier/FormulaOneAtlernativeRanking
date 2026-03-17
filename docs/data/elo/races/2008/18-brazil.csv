@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,felipe-massa,Felipe Massa,ferrari,1,71,1,0,1,1285.031266,1298.65452,13.623255,1.0,0.727535,50.0,20
-2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,fernando-alonso,Fernando Alonso,renault,2,71,6,0,2,1296.280469,1306.654255,10.373786,0.947368,0.739893,50.0,20
-2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,kimi-raikkonen,Kimi Räikkönen,ferrari,3,71,3,0,3,1255.052943,1265.128294,10.075351,0.894737,0.69323,50.0,20
-2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,sebastian-vettel,Sebastian Vettel,toro-rosso,4,71,7,0,4,1072.795618,1092.049534,19.253916,0.842105,0.457027,50.0,20
-2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,lewis-hamilton,Lewis Hamilton,mclaren,5,71,4,0,5,1295.085716,1297.629695,2.543978,0.789474,0.738594,50.0,20
-2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,timo-glock,Timo Glock,toyota,6,71,10,0,6,1077.31364,1091.001547,13.687906,0.736842,0.463084,50.0,20
-2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,heikki-kovalainen,Heikki Kovalainen,mclaren,7,71,5,0,7,1168.059693,1173.050195,4.990502,0.684211,0.5844,50.0,20
-2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,jarno-trulli,Jarno Trulli,toyota,8,71,2,0,8,1100.717309,1107.568832,6.851523,0.631579,0.494548,50.0,20
-2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,mark-webber,Mark Webber,red-bull,9,71,12,0,9,1073.762647,1079.793882,6.031235,0.578947,0.458323,50.0,20
-2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,nick-heidfeld,Nick Heidfeld,bmw-sauber,10,70,8,0,10,1254.858902,1246.524612,-8.33429,0.526316,0.693002,50.0,20
-2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,robert-kubica,Robert Kubica,bmw-sauber,11,70,PL,0,11,1254.161381,1243.236564,-10.924817,0.473684,0.692181,50.0,20
-2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,nico-rosberg,Nico Rosberg,williams,12,70,18,0,12,1083.871584,1081.329772,-2.541812,0.421053,0.471889,50.0,20
-2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,jenson-button,Jenson Button,honda,13,70,17,0,13,1008.399589,1008.202781,-0.196809,0.368421,0.372357,50.0,20
-2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,sebastien-bourdais,Sébastien Bourdais,toro-rosso,14,70,9,0,14,987.627508,986.111992,-1.515515,0.315789,0.3461,50.0,20
-2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,rubens-barrichello,Rubens Barrichello,honda,15,70,15,0,15,1003.881963,998.710311,-5.171653,0.263158,0.366591,50.0,20
-2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,adrian-sutil,Adrian Sutil,force-india,16,69,20,0,16,841.167828,842.368481,1.200653,0.210526,0.186513,50.0,20
-2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,kazuki-nakajima,Kazuki Nakajima,williams,17,69,16,0,17,1023.308987,1011.624537,-11.68445,0.157895,0.391584,50.0,20
-2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,giancarlo-fisichella,Giancarlo Fisichella,force-india,18,69,19,0,18,969.37957,958.461465,-10.918105,0.105263,0.323625,50.0,20
-2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,david-coulthard,David Coulthard,red-bull,DNF,0,14,1,19,1026.800073,1008.309575,-18.490498,0.026316,0.396126,50.0,20
-2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,nelson-piquet-jr,Nelson Piquet Jr.,renault,DNF,0,11,1,20,1032.368399,1013.514244,-18.854155,0.026316,0.403399,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,803,felipe-massa,Felipe Massa,ferrari,1,71,1,0,1,1285.031266,1298.65452,13.623255,1.0,0.727535,50.0,20
+2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,803,fernando-alonso,Fernando Alonso,renault,2,71,6,0,2,1296.280469,1306.654255,10.373786,0.947368,0.739893,50.0,20
+2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,803,kimi-raikkonen,Kimi Räikkönen,ferrari,3,71,3,0,3,1255.052943,1265.128294,10.075351,0.894737,0.69323,50.0,20
+2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,803,sebastian-vettel,Sebastian Vettel,toro-rosso,4,71,7,0,4,1072.795618,1092.049534,19.253916,0.842105,0.457027,50.0,20
+2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,803,lewis-hamilton,Lewis Hamilton,mclaren,5,71,4,0,5,1295.085716,1297.629695,2.543978,0.789474,0.738594,50.0,20
+2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,803,timo-glock,Timo Glock,toyota,6,71,10,0,6,1077.31364,1091.001547,13.687906,0.736842,0.463084,50.0,20
+2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,803,heikki-kovalainen,Heikki Kovalainen,mclaren,7,71,5,0,7,1168.059693,1173.050195,4.990502,0.684211,0.5844,50.0,20
+2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,803,jarno-trulli,Jarno Trulli,toyota,8,71,2,0,8,1100.717309,1107.568832,6.851523,0.631579,0.494548,50.0,20
+2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,803,mark-webber,Mark Webber,red-bull,9,71,12,0,9,1073.762647,1079.793882,6.031235,0.578947,0.458323,50.0,20
+2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,803,nick-heidfeld,Nick Heidfeld,bmw-sauber,10,70,8,0,10,1254.858902,1246.524612,-8.33429,0.526316,0.693002,50.0,20
+2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,803,robert-kubica,Robert Kubica,bmw-sauber,11,70,PL,0,11,1254.161381,1243.236564,-10.924817,0.473684,0.692181,50.0,20
+2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,803,nico-rosberg,Nico Rosberg,williams,12,70,18,0,12,1083.871584,1081.329772,-2.541812,0.421053,0.471889,50.0,20
+2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,803,jenson-button,Jenson Button,honda,13,70,17,0,13,1008.399589,1008.202781,-0.196809,0.368421,0.372357,50.0,20
+2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,803,sebastien-bourdais,Sébastien Bourdais,toro-rosso,14,70,9,0,14,987.627508,986.111992,-1.515515,0.315789,0.3461,50.0,20
+2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,803,rubens-barrichello,Rubens Barrichello,honda,15,70,15,0,15,1003.881963,998.710311,-5.171653,0.263158,0.366591,50.0,20
+2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,803,adrian-sutil,Adrian Sutil,force-india,16,69,20,0,16,841.167828,842.368481,1.200653,0.210526,0.186513,50.0,20
+2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,803,kazuki-nakajima,Kazuki Nakajima,williams,17,69,16,0,17,1023.308987,1011.624537,-11.68445,0.157895,0.391584,50.0,20
+2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,803,giancarlo-fisichella,Giancarlo Fisichella,force-india,18,69,19,0,18,969.37957,958.461465,-10.918105,0.105263,0.323625,50.0,20
+2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,803,david-coulthard,David Coulthard,red-bull,DNF,0,14,1,19,1026.800073,1008.309575,-18.490498,0.026316,0.396126,50.0,20
+2008,18,2008-11-02,brazil,Formula 1 Grande Prêmio do Brasil 2008,803,nelson-piquet-jr,Nelson Piquet Jr.,renault,DNF,0,11,1,20,1032.368399,1013.514244,-18.854155,0.026316,0.403399,50.0,20

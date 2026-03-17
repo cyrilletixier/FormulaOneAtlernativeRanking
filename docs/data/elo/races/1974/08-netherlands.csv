@@ -1,28 +1,28 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,niki-lauda,Niki Lauda,ferrari,1,75,1,0,1,1030.265646,1056.026426,25.76078,1.0,0.484784,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,clay-regazzoni,Clay Regazzoni,ferrari,2,75,2,0,2,1132.284786,1148.927232,16.642445,0.961538,0.62869,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,emerson-fittipaldi,Emerson Fittipaldi,mclaren,3,75,3,0,3,1249.298338,1256.928292,7.629954,0.923077,0.770478,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,mike-hailwood,Mike Hailwood,mclaren,4,75,4,0,4,1060.479068,1078.299507,17.820439,0.884615,0.528207,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,jody-scheckter,Jody Scheckter,tyrrell,5,75,5,0,5,1089.008777,1102.874866,13.866088,0.846154,0.568832,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,patrick-depailler,Patrick Depailler,tyrrell,6,75,8,0,6,1085.177669,1097.391485,12.213816,0.807692,0.563416,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,john-watson,John Watson,brabham,7,75,13,0,7,1028.162225,1042.535727,14.373502,0.769231,0.481761,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,ronnie-peterson,Ronnie Peterson,lotus,8,73,10,0,8,1093.839326,1101.595836,7.75651,0.730769,0.575639,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,rikky-von-opel,Rikky von Opel,brabham,9,73,23,0,9,923.592155,941.377406,17.785251,0.692308,0.336603,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,vittorio-brambilla,Vittorio Brambilla,march,10,72,15,0,10,1006.777685,1016.914426,10.136741,0.653846,0.451111,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,jacky-ickx,Jacky Ickx,lotus,11,71,18,0,11,1089.559093,1091.847882,2.288789,0.615385,0.569609,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,carlos-reutemann,Carlos Reutemann,brabham,12,71,12,0,12,1082.255807,1083.138178,0.882371,0.576923,0.559276,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,denny-hulme,Denny Hulme,mclaren,DNF,65,9,1,13,1174.663211,1167.385521,-7.27769,0.538462,0.684015,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,francois-migault,François Migault,brm,DNF,60,25,1,14,972.611366,977.467956,4.856589,0.5,0.402868,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,arturo-merzario,Arturo Merzario,iso-marlboro,DNF,54,21,1,15,978.29776,980.834281,2.536521,0.461538,0.410808,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,guy-edwards,Guy Edwards,lola,DNF,36,14,1,16,1012.857233,1011.020967,-1.836266,0.423077,0.459802,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,jean-pierre-jarier,Jean-Pierre Jarier,shadow,DNF,27,7,1,17,1017.071609,1013.010425,-4.061184,0.384615,0.465839,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,jean-pierre-beltoise,Jean-Pierre Beltoise,brm,DNF,18,16,1,18,1068.457475,1058.783849,-9.673626,0.346154,0.539626,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,graham-hill,Graham Hill,lola,DNF,16,19,1,19,1085.556025,1072.743064,-12.812961,0.307692,0.563952,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,henri-pescarolo,Henri Pescarolo,brm,DNF,15,24,1,20,975.839498,968.932516,-6.906982,0.269231,0.40737,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,jochen-mass,Jochen Mass,surtees,DNF,8,20,1,21,942.931664,936.359095,-6.57257,0.230769,0.362221,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,james-hunt,James Hunt,hesketh,DNF,2,6,1,22,1051.762982,1035.593485,-16.169496,0.192308,0.515698,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,hans-joachim-stuck,Hans-Joachim Stuck,march,DNF,0,22,1,23,1001.327556,985.891256,-15.4363,0.134615,0.443341,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,tom-pryce,Tom Pryce,shadow,DNF,0,11,1,24,996.617222,981.515744,-15.101478,0.134615,0.436645,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,vern-schuppan,Vern Schuppan,ensign,DSQ,69,17,2,25,965.497452,949.69372,-15.803732,0.076923,0.392998,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,gijs-van-lennep,Gijs van Lennep,iso-marlboro,DNQ,,,2,26,1013.583753,991.503177,-22.080576,0.019231,0.460842,50.0,27
-1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,tim-schenken,Tim Schenken,trojan,DNQ,,,2,27,995.859474,975.042538,-20.816936,0.019231,0.435569,50.0,27
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,niki-lauda,Niki Lauda,ferrari,1,75,1,0,1,1030.265646,1056.026426,25.76078,1.0,0.484784,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,clay-regazzoni,Clay Regazzoni,ferrari,2,75,2,0,2,1132.284786,1148.927232,16.642445,0.961538,0.62869,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,emerson-fittipaldi,Emerson Fittipaldi,mclaren,3,75,3,0,3,1249.298338,1256.928292,7.629954,0.923077,0.770478,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,mike-hailwood,Mike Hailwood,mclaren,4,75,4,0,4,1060.479068,1078.299507,17.820439,0.884615,0.528207,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,jody-scheckter,Jody Scheckter,tyrrell,5,75,5,0,5,1089.008777,1102.874866,13.866088,0.846154,0.568832,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,patrick-depailler,Patrick Depailler,tyrrell,6,75,8,0,6,1085.177669,1097.391485,12.213816,0.807692,0.563416,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,john-watson,John Watson,brabham,7,75,13,0,7,1028.162225,1042.535727,14.373502,0.769231,0.481761,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,ronnie-peterson,Ronnie Peterson,lotus,8,73,10,0,8,1093.839326,1101.595836,7.75651,0.730769,0.575639,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,rikky-von-opel,Rikky von Opel,brabham,9,73,23,0,9,923.592155,941.377406,17.785251,0.692308,0.336603,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,vittorio-brambilla,Vittorio Brambilla,march,10,72,15,0,10,1006.777685,1016.914426,10.136741,0.653846,0.451111,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,jacky-ickx,Jacky Ickx,lotus,11,71,18,0,11,1089.559093,1091.847882,2.288789,0.615385,0.569609,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,carlos-reutemann,Carlos Reutemann,brabham,12,71,12,0,12,1082.255807,1083.138178,0.882371,0.576923,0.559276,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,denny-hulme,Denny Hulme,mclaren,DNF,65,9,1,13,1174.663211,1167.385521,-7.27769,0.538462,0.684015,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,francois-migault,François Migault,brm,DNF,60,25,1,14,972.611366,977.467956,4.856589,0.5,0.402868,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,arturo-merzario,Arturo Merzario,iso-marlboro,DNF,54,21,1,15,978.29776,980.834281,2.536521,0.461538,0.410808,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,guy-edwards,Guy Edwards,lola,DNF,36,14,1,16,1012.857233,1011.020967,-1.836266,0.423077,0.459802,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,jean-pierre-jarier,Jean-Pierre Jarier,shadow,DNF,27,7,1,17,1017.071609,1013.010425,-4.061184,0.384615,0.465839,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,jean-pierre-beltoise,Jean-Pierre Beltoise,brm,DNF,18,16,1,18,1068.457475,1058.783849,-9.673626,0.346154,0.539626,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,graham-hill,Graham Hill,lola,DNF,16,19,1,19,1085.556025,1072.743064,-12.812961,0.307692,0.563952,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,henri-pescarolo,Henri Pescarolo,brm,DNF,15,24,1,20,975.839498,968.932516,-6.906982,0.269231,0.40737,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,jochen-mass,Jochen Mass,surtees,DNF,8,20,1,21,942.931664,936.359095,-6.57257,0.230769,0.362221,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,james-hunt,James Hunt,hesketh,DNF,2,6,1,22,1051.762982,1035.593485,-16.169496,0.192308,0.515698,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,hans-joachim-stuck,Hans-Joachim Stuck,march,DNF,0,22,1,23,1001.327556,985.891256,-15.4363,0.134615,0.443341,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,tom-pryce,Tom Pryce,shadow,DNF,0,11,1,24,996.617222,981.515744,-15.101478,0.134615,0.436645,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,vern-schuppan,Vern Schuppan,ensign,DSQ,69,17,2,25,965.497452,949.69372,-15.803732,0.076923,0.392998,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,gijs-van-lennep,Gijs van Lennep,iso-marlboro,DNQ,,,2,26,1013.583753,991.503177,-22.080576,0.019231,0.460842,50.0,27
+1974,8,1974-06-23,netherlands,Grote Prijs van Nederland 1974,243,tim-schenken,Tim Schenken,trojan,DNQ,,,2,27,995.859474,975.042538,-20.816936,0.019231,0.435569,50.0,27

@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,sebastian-vettel,Sebastian Vettel,ferrari,1,68,1,0,1,1405.312467,1414.725354,9.412886,1.0,0.811742,50.0,20
-2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,valtteri-bottas,Valtteri Bottas,mercedes,2,68,2,0,2,1363.831342,1372.423252,8.59191,0.947368,0.77553,50.0,20
-2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,max-verstappen,Max Verstappen,red-bull,3,68,3,0,3,1208.362047,1222.685101,14.323053,0.894737,0.608276,50.0,20
-2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,daniel-ricciardo,Daniel Ricciardo,red-bull,4,68,6,0,4,1250.999378,1260.174274,9.174896,0.842105,0.658607,50.0,20
-2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,lewis-hamilton,Lewis Hamilton,mercedes,5,68,4,0,5,1526.949838,1521.599394,-5.350444,0.789474,0.896483,50.0,20
-2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,kimi-raikkonen,Kimi Räikkönen,ferrari,6,68,5,0,6,1270.428203,1273.243708,2.815505,0.736842,0.680532,50.0,20
-2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,nico-hulkenberg,Nico Hülkenberg,renault,7,67,7,0,7,1077.98458,1090.063172,12.078592,0.684211,0.442639,50.0,20
-2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,carlos-sainz-jr,Carlos Sainz Jr.,renault,8,67,9,0,8,1096.887035,1105.111587,8.224552,0.631579,0.467088,50.0,20
-2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,esteban-ocon,Esteban Ocon,force-india,9,67,8,0,9,1110.232261,1114.961758,4.729497,0.578947,0.484357,50.0,20
-2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,charles-leclerc,Charles Leclerc,sauber,10,67,13,0,10,1005.840594,1014.598993,8.758399,0.526316,0.351148,50.0,20
-2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,pierre-gasly,Pierre Gasly,toro-rosso,11,67,19,0,11,1007.078977,1013.12946,6.050482,0.473684,0.352675,50.0,20
-2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,romain-grosjean,Romain Grosjean,haas,12,67,20,0,12,1001.594709,1005.350889,3.75618,0.421053,0.345929,50.0,20
-2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,kevin-magnussen,Kevin Magnussen,haas,13,67,11,0,13,1057.625636,1055.22545,-2.400186,0.368421,0.416425,50.0,20
-2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,sergio-perez,Sergio Pérez,force-india,14,67,10,0,14,1197.649869,1183.678918,-13.970951,0.315789,0.595208,50.0,20
-2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,marcus-ericsson,Marcus Ericsson,sauber,15,66,18,0,15,958.137583,956.588344,-1.549239,0.263158,0.294143,50.0,20
-2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,stoffel-vandoorne,Stoffel Vandoorne,mclaren,16,66,15,0,16,1033.242551,1024.500616,-8.741935,0.210526,0.385365,50.0,20
-2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,sergey-sirotkin,Sergey Sirotkin,williams,17,66,17,0,17,958.932551,952.074283,-6.858268,0.157895,0.29506,50.0,20
-2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,fernando-alonso,Fernando Alonso,mclaren,DNF,40,14,1,18,1088.22507,1070.694344,-17.530726,0.105263,0.455878,50.0,20
-2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,brendon-hartley,Brendon Hartley,toro-rosso,DNF,0,12,1,19,958.122091,944.73164,-13.390451,0.026316,0.294125,50.0,20
-2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,lance-stroll,Lance Stroll,williams,DNF,0,16,1,20,1035.950956,1017.827202,-18.123754,0.026316,0.388791,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,983,sebastian-vettel,Sebastian Vettel,ferrari,1,68,1,0,1,1405.312467,1414.725354,9.412886,1.0,0.811742,50.0,20
+2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,983,valtteri-bottas,Valtteri Bottas,mercedes,2,68,2,0,2,1363.831342,1372.423252,8.59191,0.947368,0.77553,50.0,20
+2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,983,max-verstappen,Max Verstappen,red-bull,3,68,3,0,3,1208.362047,1222.685101,14.323053,0.894737,0.608276,50.0,20
+2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,983,daniel-ricciardo,Daniel Ricciardo,red-bull,4,68,6,0,4,1250.999378,1260.174274,9.174896,0.842105,0.658607,50.0,20
+2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,983,lewis-hamilton,Lewis Hamilton,mercedes,5,68,4,0,5,1526.949838,1521.599394,-5.350444,0.789474,0.896483,50.0,20
+2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,983,kimi-raikkonen,Kimi Räikkönen,ferrari,6,68,5,0,6,1270.428203,1273.243708,2.815505,0.736842,0.680532,50.0,20
+2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,983,nico-hulkenberg,Nico Hülkenberg,renault,7,67,7,0,7,1077.98458,1090.063172,12.078592,0.684211,0.442639,50.0,20
+2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,983,carlos-sainz-jr,Carlos Sainz Jr.,renault,8,67,9,0,8,1096.887035,1105.111587,8.224552,0.631579,0.467088,50.0,20
+2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,983,esteban-ocon,Esteban Ocon,force-india,9,67,8,0,9,1110.232261,1114.961758,4.729497,0.578947,0.484357,50.0,20
+2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,983,charles-leclerc,Charles Leclerc,sauber,10,67,13,0,10,1005.840594,1014.598993,8.758399,0.526316,0.351148,50.0,20
+2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,983,pierre-gasly,Pierre Gasly,toro-rosso,11,67,19,0,11,1007.078977,1013.12946,6.050482,0.473684,0.352675,50.0,20
+2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,983,romain-grosjean,Romain Grosjean,haas,12,67,20,0,12,1001.594709,1005.350889,3.75618,0.421053,0.345929,50.0,20
+2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,983,kevin-magnussen,Kevin Magnussen,haas,13,67,11,0,13,1057.625636,1055.22545,-2.400186,0.368421,0.416425,50.0,20
+2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,983,sergio-perez,Sergio Pérez,force-india,14,67,10,0,14,1197.649869,1183.678918,-13.970951,0.315789,0.595208,50.0,20
+2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,983,marcus-ericsson,Marcus Ericsson,sauber,15,66,18,0,15,958.137583,956.588344,-1.549239,0.263158,0.294143,50.0,20
+2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,983,stoffel-vandoorne,Stoffel Vandoorne,mclaren,16,66,15,0,16,1033.242551,1024.500616,-8.741935,0.210526,0.385365,50.0,20
+2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,983,sergey-sirotkin,Sergey Sirotkin,williams,17,66,17,0,17,958.932551,952.074283,-6.858268,0.157895,0.29506,50.0,20
+2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,983,fernando-alonso,Fernando Alonso,mclaren,DNF,40,14,1,18,1088.22507,1070.694344,-17.530726,0.105263,0.455878,50.0,20
+2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,983,brendon-hartley,Brendon Hartley,toro-rosso,DNF,0,12,1,19,958.122091,944.73164,-13.390451,0.026316,0.294125,50.0,20
+2018,7,2018-06-10,canada,Formula 1 Grand Prix Heineken du Canada 2018,983,lance-stroll,Lance Stroll,williams,DNF,0,16,1,20,1035.950956,1017.827202,-18.123754,0.026316,0.388791,50.0,20

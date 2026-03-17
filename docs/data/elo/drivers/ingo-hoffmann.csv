@@ -1,7 +1,7 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1976-01-25,1976,1,brazil,fittipaldi,Fittipaldi,11,39,22,1000.0,1006.164398,6.164398,0.52381,0.400522,50.0
-1976-03-28,1976,3,united-states-west,fittipaldi,Fittipaldi,DNQ,,27,1006.164398,990.763766,-15.400632,0.115385,0.423397,50.0
-1976-05-02,1976,4,spain,fittipaldi,Fittipaldi,DNQ,,30,990.763766,974.574016,-16.18975,0.086207,0.410002,50.0
-1976-07-04,1976,8,france,fittipaldi,Fittipaldi,DNQ,,30,974.574016,956.832188,-17.741828,0.034483,0.389319,50.0
-1977-01-09,1977,1,argentina,fittipaldi,Fittipaldi,DNF,22,21,956.832188,950.799276,-6.032911,0.2,0.320658,50.0
-1977-01-23,1977,2,brazil,fittipaldi,Fittipaldi,7,38,22,950.799276,970.445274,19.645998,0.714286,0.321366,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1976-01-25,1976,1,brazil,265,fittipaldi,Fittipaldi,11,39,22,1000.0,1006.164398,6.164398,0.52381,0.400522,50.0
+1976-03-28,1976,3,united-states-west,267,fittipaldi,Fittipaldi,DNQ,,27,1006.164398,990.763766,-15.400632,0.115385,0.423397,50.0
+1976-05-02,1976,4,spain,268,fittipaldi,Fittipaldi,DNQ,,30,990.763766,974.574016,-16.18975,0.086207,0.410002,50.0
+1976-07-04,1976,8,france,272,fittipaldi,Fittipaldi,DNQ,,30,974.574016,956.832188,-17.741828,0.034483,0.389319,50.0
+1977-01-09,1977,1,argentina,281,fittipaldi,Fittipaldi,DNF,22,21,956.832188,950.799276,-6.032911,0.2,0.320658,50.0
+1977-01-23,1977,2,brazil,282,fittipaldi,Fittipaldi,7,38,22,950.799276,970.445274,19.645998,0.714286,0.321366,50.0

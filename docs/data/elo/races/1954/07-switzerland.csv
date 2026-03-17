@@ -1,18 +1,18 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,juan-manuel-fangio,Juan Manuel Fangio,mercedes,1,66,2,0,1,1227.588509,1239.623071,12.034562,1.0,0.759309,50.0,17
-1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,jose-froilan-gonzalez,José Froilán González,ferrari,2,66,1,0,2,1158.301627,1171.426629,13.125002,0.9375,0.675,50.0,17
-1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,hans-herrmann,Hans Herrmann,mercedes,3,65,7,0,3,1001.451778,1022.623028,21.171251,0.875,0.451575,50.0,17
-1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,roberto-mieres,Roberto Mieres,maserati,4,64,12,0,4,984.718672,1003.982725,19.264053,0.8125,0.427219,50.0,17
-1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,sergio-mantovani,Sergio Mantovani,maserati,5,64,9,0,5,1008.516975,1022.921082,14.404107,0.75,0.461918,50.0,17
-1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,ken-wharton,Ken Wharton,maserati,6,64,8,0,6,992.831951,1005.25696,12.425009,0.6875,0.439,50.0,17
-1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,umberto-maglioli,Umberto Maglioli,ferrari,7,61,11,0,7,1015.593654,1023.228576,7.634922,0.625,0.472302,50.0,17
-1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,jacques-swaters,Jacques Swaters,ferrari,8,58,16,0,8,963.842762,972.106156,8.263395,0.5625,0.397232,50.0,17
-1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,karl-kling,Karl Kling,mercedes,DNF,38,5,1,9,1056.258556,1054.656171,-1.602385,0.5,0.532048,50.0,17
-1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,maurice-trintignant,Maurice Trintignant,ferrari,DNF,33,4,1,10,1067.716042,1062.152187,-5.563855,0.4375,0.548777,50.0,17
-1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,mike-hawthorn,Mike Hawthorn,ferrari,DNF,30,6,1,11,1139.608769,1125.850395,-13.758374,0.375,0.650167,50.0,17
-1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,harry-schell,Harry Schell,maserati,DNF,23,13,1,12,1002.272298,995.258564,-7.013734,0.3125,0.452775,50.0,17
-1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,stirling-moss,Stirling Moss,maserati,DNF,21,3,1,13,1005.540072,995.162244,-10.377827,0.25,0.457557,50.0,17
-1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,fred-wacker,Fred Wacker,gordini,DNF,10,15,1,14,966.67696,955.988404,-10.688556,0.1875,0.401271,50.0,17
-1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,jean-behra,Jean Behra,gordini,DNF,8,14,1,15,995.258348,979.381645,-15.876702,0.125,0.442534,50.0,17
-1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,clemar-bucci,Clemar Bucci,gordini,DNF,0,10,1,16,987.276052,968.854758,-18.421294,0.0625,0.430926,50.0,17
-1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,robert-manzon,Robert Manzon,ferrari,DNS,,,2,17,1034.696914,1009.67734,-25.019573,0.0,0.500391,50.0,17
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,39,juan-manuel-fangio,Juan Manuel Fangio,mercedes,1,66,2,0,1,1227.588509,1239.623071,12.034562,1.0,0.759309,50.0,17
+1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,39,jose-froilan-gonzalez,José Froilán González,ferrari,2,66,1,0,2,1158.301627,1171.426629,13.125002,0.9375,0.675,50.0,17
+1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,39,hans-herrmann,Hans Herrmann,mercedes,3,65,7,0,3,1001.451778,1022.623028,21.171251,0.875,0.451575,50.0,17
+1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,39,roberto-mieres,Roberto Mieres,maserati,4,64,12,0,4,984.718672,1003.982725,19.264053,0.8125,0.427219,50.0,17
+1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,39,sergio-mantovani,Sergio Mantovani,maserati,5,64,9,0,5,1008.516975,1022.921082,14.404107,0.75,0.461918,50.0,17
+1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,39,ken-wharton,Ken Wharton,maserati,6,64,8,0,6,992.831951,1005.25696,12.425009,0.6875,0.439,50.0,17
+1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,39,umberto-maglioli,Umberto Maglioli,ferrari,7,61,11,0,7,1015.593654,1023.228576,7.634922,0.625,0.472302,50.0,17
+1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,39,jacques-swaters,Jacques Swaters,ferrari,8,58,16,0,8,963.842762,972.106156,8.263395,0.5625,0.397232,50.0,17
+1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,39,karl-kling,Karl Kling,mercedes,DNF,38,5,1,9,1056.258556,1054.656171,-1.602385,0.5,0.532048,50.0,17
+1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,39,maurice-trintignant,Maurice Trintignant,ferrari,DNF,33,4,1,10,1067.716042,1062.152187,-5.563855,0.4375,0.548777,50.0,17
+1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,39,mike-hawthorn,Mike Hawthorn,ferrari,DNF,30,6,1,11,1139.608769,1125.850395,-13.758374,0.375,0.650167,50.0,17
+1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,39,harry-schell,Harry Schell,maserati,DNF,23,13,1,12,1002.272298,995.258564,-7.013734,0.3125,0.452775,50.0,17
+1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,39,stirling-moss,Stirling Moss,maserati,DNF,21,3,1,13,1005.540072,995.162244,-10.377827,0.25,0.457557,50.0,17
+1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,39,fred-wacker,Fred Wacker,gordini,DNF,10,15,1,14,966.67696,955.988404,-10.688556,0.1875,0.401271,50.0,17
+1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,39,jean-behra,Jean Behra,gordini,DNF,8,14,1,15,995.258348,979.381645,-15.876702,0.125,0.442534,50.0,17
+1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,39,clemar-bucci,Clemar Bucci,gordini,DNF,0,10,1,16,987.276052,968.854758,-18.421294,0.0625,0.430926,50.0,17
+1954,7,1954-08-22,switzerland,Grosser Preis der Schweiz 1954,39,robert-manzon,Robert Manzon,ferrari,DNS,,,2,17,1034.696914,1009.67734,-25.019573,0.0,0.500391,50.0,17

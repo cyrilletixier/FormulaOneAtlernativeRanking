@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,valtteri-bottas,Valtteri Bottas,mercedes,1,56,1,0,1,1438.138354,1446.86458,8.726226,1.0,0.825475,50.0,20
-2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,lewis-hamilton,Lewis Hamilton,mercedes,2,56,5,0,2,1568.859011,1570.785972,1.926962,0.947368,0.908829,50.0,20
-2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,max-verstappen,Max Verstappen,red-bull,3,56,3,0,3,1328.67487,1336.962363,8.287493,0.894737,0.728987,50.0,20
-2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,charles-leclerc,Charles Leclerc,ferrari,4,56,4,0,4,1269.383512,1278.161265,8.777752,0.842105,0.66655,50.0,20
-2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,alexander-albon,Alexander Albon,red-bull,5,56,6,0,5,1146.355955,1159.884817,13.528862,0.789474,0.518896,50.0,20
-2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,daniel-ricciardo,Daniel Ricciardo,renault,6,56,9,0,6,1082.045763,1097.052063,15.0063,0.736842,0.436716,50.0,20
-2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,lando-norris,Lando Norris,mclaren,7,56,8,0,7,1051.200507,1065.536273,14.335765,0.684211,0.397495,50.0,20
-2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,8,55,7,0,8,1128.037524,1134.836987,6.799462,0.631579,0.49559,50.0,20
-2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,nico-hulkenberg,Nico Hülkenberg,renault,9,55,11,0,9,1076.596919,1084.05656,7.459641,0.578947,0.429755,50.0,20
-2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,sergio-perez,Sergio Pérez,racing-point,10,55,PL,0,10,1124.887288,1126.624749,1.73746,0.526316,0.491567,50.0,20
-2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,11,55,17,0,11,1125.838979,1124.884072,-0.954906,0.473684,0.492782,50.0,20
-2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,daniil-kvyat,Daniil Kvyat,toro-rosso,12,55,13,0,12,1055.768075,1056.657305,0.88923,0.421053,0.403268,50.0,20
-2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,lance-stroll,Lance Stroll,racing-point,13,55,14,0,13,1046.682931,1045.513924,-1.169007,0.368421,0.391801,50.0,20
-2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,14,55,16,0,14,982.200793,982.340019,0.139226,0.315789,0.313005,50.0,20
-2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,romain-grosjean,Romain Grosjean,haas,15,55,15,0,15,972.02916,970.130311,-1.898849,0.263158,0.301135,50.0,20
-2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,pierre-gasly,Pierre Gasly,toro-rosso,16,54,10,0,16,1139.693535,1124.697868,-14.995667,0.210526,0.51044,50.0,20
-2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,george-russell,George Russell,williams,17,54,18,0,17,931.381644,926.491472,-4.890171,0.157895,0.255698,50.0,20
-2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,kevin-magnussen,Kevin Magnussen,haas,18,52,12,0,18,1007.811081,995.891996,-11.919085,0.105263,0.343645,50.0,20
-2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,robert-kubica,Robert Kubica,williams,DNF,31,19,1,19,969.896104,957.594223,-12.301881,0.052632,0.298669,50.0,20
-2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,sebastian-vettel,Sebastian Vettel,ferrari,DNF,7,2,1,20,1394.13921,1354.654397,-39.484813,0.0,0.789696,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,1016,valtteri-bottas,Valtteri Bottas,mercedes,1,56,1,0,1,1438.138354,1446.86458,8.726226,1.0,0.825475,50.0,20
+2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,1016,lewis-hamilton,Lewis Hamilton,mercedes,2,56,5,0,2,1568.859011,1570.785972,1.926962,0.947368,0.908829,50.0,20
+2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,1016,max-verstappen,Max Verstappen,red-bull,3,56,3,0,3,1328.67487,1336.962363,8.287493,0.894737,0.728987,50.0,20
+2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,1016,charles-leclerc,Charles Leclerc,ferrari,4,56,4,0,4,1269.383512,1278.161265,8.777752,0.842105,0.66655,50.0,20
+2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,1016,alexander-albon,Alexander Albon,red-bull,5,56,6,0,5,1146.355955,1159.884817,13.528862,0.789474,0.518896,50.0,20
+2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,1016,daniel-ricciardo,Daniel Ricciardo,renault,6,56,9,0,6,1082.045763,1097.052063,15.0063,0.736842,0.436716,50.0,20
+2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,1016,lando-norris,Lando Norris,mclaren,7,56,8,0,7,1051.200507,1065.536273,14.335765,0.684211,0.397495,50.0,20
+2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,1016,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,8,55,7,0,8,1128.037524,1134.836987,6.799462,0.631579,0.49559,50.0,20
+2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,1016,nico-hulkenberg,Nico Hülkenberg,renault,9,55,11,0,9,1076.596919,1084.05656,7.459641,0.578947,0.429755,50.0,20
+2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,1016,sergio-perez,Sergio Pérez,racing-point,10,55,PL,0,10,1124.887288,1126.624749,1.73746,0.526316,0.491567,50.0,20
+2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,1016,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,11,55,17,0,11,1125.838979,1124.884072,-0.954906,0.473684,0.492782,50.0,20
+2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,1016,daniil-kvyat,Daniil Kvyat,toro-rosso,12,55,13,0,12,1055.768075,1056.657305,0.88923,0.421053,0.403268,50.0,20
+2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,1016,lance-stroll,Lance Stroll,racing-point,13,55,14,0,13,1046.682931,1045.513924,-1.169007,0.368421,0.391801,50.0,20
+2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,1016,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,14,55,16,0,14,982.200793,982.340019,0.139226,0.315789,0.313005,50.0,20
+2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,1016,romain-grosjean,Romain Grosjean,haas,15,55,15,0,15,972.02916,970.130311,-1.898849,0.263158,0.301135,50.0,20
+2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,1016,pierre-gasly,Pierre Gasly,toro-rosso,16,54,10,0,16,1139.693535,1124.697868,-14.995667,0.210526,0.51044,50.0,20
+2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,1016,george-russell,George Russell,williams,17,54,18,0,17,931.381644,926.491472,-4.890171,0.157895,0.255698,50.0,20
+2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,1016,kevin-magnussen,Kevin Magnussen,haas,18,52,12,0,18,1007.811081,995.891996,-11.919085,0.105263,0.343645,50.0,20
+2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,1016,robert-kubica,Robert Kubica,williams,DNF,31,19,1,19,969.896104,957.594223,-12.301881,0.052632,0.298669,50.0,20
+2019,19,2019-11-03,united-states,Formula 1 Emirates United States Grand Prix 2019,1016,sebastian-vettel,Sebastian Vettel,ferrari,DNF,7,2,1,20,1394.13921,1354.654397,-39.484813,0.0,0.789696,50.0,20

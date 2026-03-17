@@ -1,18 +1,18 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,jim-clark,Jim Clark,lotus,1,80,2,0,1,1265.853043,1278.921887,13.068843,1.0,0.738623,50.0,17
-1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,jackie-stewart,Jackie Stewart,brm,2,80,6,0,2,1102.53125,1123.405537,20.874288,0.9375,0.520014,50.0,17
-1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,dan-gurney,Dan Gurney,brabham,3,80,5,0,3,1114.763751,1131.630255,16.866505,0.875,0.53767,50.0,17
-1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,graham-hill,Graham Hill,brm,4,80,1,0,4,1237.407152,1242.810374,5.403222,0.8125,0.704436,50.0,17
-1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,denny-hulme,Denny Hulme,brabham,5,79,7,0,5,1018.761904,1036.27334,17.511436,0.75,0.399771,50.0,17
-1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,richie-ginther,Richie Ginther,honda,6,79,3,0,6,1138.043437,1143.868114,5.824677,0.6875,0.571006,50.0,17
-1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,john-surtees,John Surtees,ferrari,7,79,4,0,7,1158.654946,1159.901488,1.246542,0.625,0.600069,50.0,17
-1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,mike-spence,Mike Spence,lotus,8,79,8,0,8,1115.719543,1116.892225,1.172683,0.5625,0.539046,50.0,17
-1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,lorenzo-bandini,Lorenzo Bandini,ferrari,9,79,12,0,9,1119.256154,1117.049422,-2.206732,0.5,0.544135,50.0,17
-1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,innes-ireland,Innes Ireland,lotus,10,78,13,0,10,1014.543256,1016.724728,2.181472,0.4375,0.393871,50.0,17
-1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,frank-gardner,Frank Gardner,brabham,11,77,11,0,11,983.545154,984.72648,1.181326,0.375,0.351373,50.0,17
-1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,richard-attwood,Richard Attwood,lotus,12,77,17,0,12,980.551601,978.808573,-1.743028,0.3125,0.347361,50.0,17
-1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,jo-siffert,Jo Siffert,brabham,13,55,10,0,13,1085.161213,1072.917702,-12.243511,0.25,0.49487,50.0,17
-1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,jochen-rindt,Jochen Rindt,cooper,DNF,48,14,1,14,971.780401,964.370073,-7.410328,0.1875,0.335707,50.0,17
-1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,bruce-mclaren,Bruce McLaren,cooper,DNF,36,9,1,15,1138.724084,1116.375384,-22.3487,0.125,0.571974,50.0,17
-1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,jo-bonnier,Jo Bonnier,brabham,DNF,16,15,1,16,1051.07254,1031.914764,-19.157776,0.0625,0.445656,50.0,17
-1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,bob-anderson,Bob Anderson,brabham,DNF,11,16,1,17,1022.072233,1001.851315,-20.220918,0.0,0.404418,50.0,17
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,137,jim-clark,Jim Clark,lotus,1,80,2,0,1,1265.853043,1278.921887,13.068843,1.0,0.738623,50.0,17
+1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,137,jackie-stewart,Jackie Stewart,brm,2,80,6,0,2,1102.53125,1123.405537,20.874288,0.9375,0.520014,50.0,17
+1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,137,dan-gurney,Dan Gurney,brabham,3,80,5,0,3,1114.763751,1131.630255,16.866505,0.875,0.53767,50.0,17
+1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,137,graham-hill,Graham Hill,brm,4,80,1,0,4,1237.407152,1242.810374,5.403222,0.8125,0.704436,50.0,17
+1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,137,denny-hulme,Denny Hulme,brabham,5,79,7,0,5,1018.761904,1036.27334,17.511436,0.75,0.399771,50.0,17
+1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,137,richie-ginther,Richie Ginther,honda,6,79,3,0,6,1138.043437,1143.868114,5.824677,0.6875,0.571006,50.0,17
+1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,137,john-surtees,John Surtees,ferrari,7,79,4,0,7,1158.654946,1159.901488,1.246542,0.625,0.600069,50.0,17
+1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,137,mike-spence,Mike Spence,lotus,8,79,8,0,8,1115.719543,1116.892225,1.172683,0.5625,0.539046,50.0,17
+1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,137,lorenzo-bandini,Lorenzo Bandini,ferrari,9,79,12,0,9,1119.256154,1117.049422,-2.206732,0.5,0.544135,50.0,17
+1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,137,innes-ireland,Innes Ireland,lotus,10,78,13,0,10,1014.543256,1016.724728,2.181472,0.4375,0.393871,50.0,17
+1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,137,frank-gardner,Frank Gardner,brabham,11,77,11,0,11,983.545154,984.72648,1.181326,0.375,0.351373,50.0,17
+1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,137,richard-attwood,Richard Attwood,lotus,12,77,17,0,12,980.551601,978.808573,-1.743028,0.3125,0.347361,50.0,17
+1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,137,jo-siffert,Jo Siffert,brabham,13,55,10,0,13,1085.161213,1072.917702,-12.243511,0.25,0.49487,50.0,17
+1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,137,jochen-rindt,Jochen Rindt,cooper,DNF,48,14,1,14,971.780401,964.370073,-7.410328,0.1875,0.335707,50.0,17
+1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,137,bruce-mclaren,Bruce McLaren,cooper,DNF,36,9,1,15,1138.724084,1116.375384,-22.3487,0.125,0.571974,50.0,17
+1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,137,jo-bonnier,Jo Bonnier,brabham,DNF,16,15,1,16,1051.07254,1031.914764,-19.157776,0.0625,0.445656,50.0,17
+1965,6,1965-07-18,netherlands,Grote Prijs van Nederland 1965,137,bob-anderson,Bob Anderson,brabham,DNF,11,16,1,17,1022.072233,1001.851315,-20.220918,0.0,0.404418,50.0,17

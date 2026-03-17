@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1967-10-22,1967,11,mexico,ferrari,Ferrari,8,63,19,1000.0,1010.337608,10.337608,0.611111,0.404359,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1967-10-22,1967,11,mexico,161,ferrari,Ferrari,8,63,19,1000.0,1010.337608,10.337608,0.611111,0.404359,50.0

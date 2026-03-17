@@ -1,4 +1,4 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1964-09-06,1964,8,italy,brabham,Brabham,DNQ,,25,1000.0,983.928286,-16.071714,0.104167,0.425601,50.0
-1965-09-12,1965,8,italy,lotus,Lotus,DNF,37,23,983.928286,975.835367,-8.092919,0.227273,0.389131,50.0
-1966-09-04,1966,7,italy,lotus,Lotus,9,63,22,975.835367,988.584762,12.749396,0.619048,0.36406,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1964-09-06,1964,8,italy,129,brabham,Brabham,DNQ,,25,1000.0,983.928286,-16.071714,0.104167,0.425601,50.0
+1965-09-12,1965,8,italy,139,lotus,Lotus,DNF,37,23,983.928286,975.835367,-8.092919,0.227273,0.389131,50.0
+1966-09-04,1966,7,italy,148,lotus,Lotus,9,63,22,975.835367,988.584762,12.749396,0.619048,0.36406,50.0

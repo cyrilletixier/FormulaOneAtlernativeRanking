@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,max-verstappen,Max Verstappen,red-bull,1,71,3,0,1,1352.277623,1364.527655,12.250031,1.0,0.754999,50.0,20
-2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,lewis-hamilton,Lewis Hamilton,mercedes,2,71,2,0,2,1530.584439,1533.210126,2.625686,0.947368,0.894855,50.0,20
-2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,sergio-perez,Sergio Pérez,red-bull,3,71,4,0,3,1242.333166,1255.31383,12.980664,0.894737,0.635124,50.0,20
-2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,pierre-gasly,Pierre Gasly,alphatauri,4,71,5,0,4,1134.144593,1151.18953,17.044937,0.842105,0.501207,50.0,20
-2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,charles-leclerc,Charles Leclerc,ferrari,5,71,8,0,5,1226.913334,1235.551231,8.637897,0.789474,0.616716,50.0,20
-2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,6,70,6,0,6,1266.016133,1269.721221,3.705087,0.736842,0.66274,50.0,20
-2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,sebastian-vettel,Sebastian Vettel,aston-martin,7,70,9,0,7,1088.529135,1100.572233,12.043098,0.684211,0.443349,50.0,20
-2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,8,70,10,0,8,1044.258669,1056.43418,12.17551,0.631579,0.388069,50.0,20
-2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,fernando-alonso,Fernando Alonso,alpine,9,70,12,0,9,1096.231738,1102.524759,6.293021,0.578947,0.453087,50.0,20
-2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,lando-norris,Lando Norris,mclaren,10,70,18,0,10,1252.334375,1246.30575,-6.028626,0.526316,0.646888,50.0,20
-2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,11,70,11,0,11,1006.793279,1013.338897,6.545618,0.473684,0.342772,50.0,20
-2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,daniel-ricciardo,Daniel Ricciardo,mclaren,12,70,7,0,12,1248.892593,1237.802429,-11.090164,0.421053,0.642856,50.0,20
-2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,esteban-ocon,Esteban Ocon,alpine,13,70,19,0,13,1099.892791,1095.427686,-4.465105,0.368421,0.457723,50.0,20
-2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,lance-stroll,Lance Stroll,aston-martin,14,69,20,0,14,1084.937888,1078.78652,-6.151369,0.315789,0.438817,50.0,20
-2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,valtteri-bottas,Valtteri Bottas,mercedes,15,69,1,0,15,1336.212726,1312.42426,-23.788466,0.263158,0.738927,50.0,20
-2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,george-russell,George Russell,williams,16,69,16,0,16,1004.30535,997.840238,-6.465111,0.210526,0.339829,50.0,20
-2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,nicholas-latifi,Nicholas Latifi,williams,17,69,13,0,17,933.844115,928.699267,-5.144848,0.157895,0.260792,50.0,20
-2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,nikita-mazepin,Nikita Mazepin,haas,18,68,15,0,18,878.589239,873.559397,-5.029842,0.105263,0.20586,50.0,20
-2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,mick-schumacher,Mick Schumacher,haas,DNF,0,14,1,19,905.494897,895.22314,-10.271757,0.026316,0.231751,50.0,20
-2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,yuki-tsunoda,Yuki Tsunoda,alphatauri,DNF,0,17,1,20,1007.526571,991.660308,-15.866263,0.026316,0.343641,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,1053,max-verstappen,Max Verstappen,red-bull,1,71,3,0,1,1352.277623,1364.527655,12.250031,1.0,0.754999,50.0,20
+2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,1053,lewis-hamilton,Lewis Hamilton,mercedes,2,71,2,0,2,1530.584439,1533.210126,2.625686,0.947368,0.894855,50.0,20
+2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,1053,sergio-perez,Sergio Pérez,red-bull,3,71,4,0,3,1242.333166,1255.31383,12.980664,0.894737,0.635124,50.0,20
+2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,1053,pierre-gasly,Pierre Gasly,alphatauri,4,71,5,0,4,1134.144593,1151.18953,17.044937,0.842105,0.501207,50.0,20
+2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,1053,charles-leclerc,Charles Leclerc,ferrari,5,71,8,0,5,1226.913334,1235.551231,8.637897,0.789474,0.616716,50.0,20
+2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,1053,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,6,70,6,0,6,1266.016133,1269.721221,3.705087,0.736842,0.66274,50.0,20
+2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,1053,sebastian-vettel,Sebastian Vettel,aston-martin,7,70,9,0,7,1088.529135,1100.572233,12.043098,0.684211,0.443349,50.0,20
+2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,1053,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,8,70,10,0,8,1044.258669,1056.43418,12.17551,0.631579,0.388069,50.0,20
+2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,1053,fernando-alonso,Fernando Alonso,alpine,9,70,12,0,9,1096.231738,1102.524759,6.293021,0.578947,0.453087,50.0,20
+2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,1053,lando-norris,Lando Norris,mclaren,10,70,18,0,10,1252.334375,1246.30575,-6.028626,0.526316,0.646888,50.0,20
+2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,1053,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,11,70,11,0,11,1006.793279,1013.338897,6.545618,0.473684,0.342772,50.0,20
+2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,1053,daniel-ricciardo,Daniel Ricciardo,mclaren,12,70,7,0,12,1248.892593,1237.802429,-11.090164,0.421053,0.642856,50.0,20
+2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,1053,esteban-ocon,Esteban Ocon,alpine,13,70,19,0,13,1099.892791,1095.427686,-4.465105,0.368421,0.457723,50.0,20
+2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,1053,lance-stroll,Lance Stroll,aston-martin,14,69,20,0,14,1084.937888,1078.78652,-6.151369,0.315789,0.438817,50.0,20
+2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,1053,valtteri-bottas,Valtteri Bottas,mercedes,15,69,1,0,15,1336.212726,1312.42426,-23.788466,0.263158,0.738927,50.0,20
+2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,1053,george-russell,George Russell,williams,16,69,16,0,16,1004.30535,997.840238,-6.465111,0.210526,0.339829,50.0,20
+2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,1053,nicholas-latifi,Nicholas Latifi,williams,17,69,13,0,17,933.844115,928.699267,-5.144848,0.157895,0.260792,50.0,20
+2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,1053,nikita-mazepin,Nikita Mazepin,haas,18,68,15,0,18,878.589239,873.559397,-5.029842,0.105263,0.20586,50.0,20
+2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,1053,mick-schumacher,Mick Schumacher,haas,DNF,0,14,1,19,905.494897,895.22314,-10.271757,0.026316,0.231751,50.0,20
+2021,18,2021-11-07,mexico,Formula 1 Gran Premio de la Ciudad de México 2021,1053,yuki-tsunoda,Yuki Tsunoda,alphatauri,DNF,0,17,1,20,1007.526571,991.660308,-15.866263,0.026316,0.343641,50.0,20

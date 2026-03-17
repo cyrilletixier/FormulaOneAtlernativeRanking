@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,michael-schumacher,Michael Schumacher,ferrari,1,53,1,0,1,1256.198756,1269.892666,13.69391,1.0,0.726122,50.0,22
-2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,mika-hakkinen,Mika Häkkinen,mclaren,2,53,3,0,2,1332.926533,1340.303926,7.377393,0.952381,0.804833,50.0,22
-2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,ralf-schumacher,Ralf Schumacher,williams,3,53,7,0,3,1176.895269,1190.63372,13.738452,0.904762,0.629993,50.0,22
-2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,jos-verstappen,Jos Verstappen,arrows,4,53,11,0,4,971.701439,996.904982,25.203544,0.857143,0.353072,50.0,22
-2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,alexander-wurz,Alexander Wurz,benetton,5,53,13,0,5,1047.024895,1064.800122,17.775227,0.809524,0.454019,50.0,22
-2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,ricardo-zonta,Ricardo Zonta,bar,6,53,17,0,6,1007.88707,1025.94354,18.05647,0.761905,0.400775,50.0,22
-2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,mika-salo,Mika Salo,sauber,7,52,15,0,7,1090.038174,1100.086984,10.04881,0.714286,0.51331,50.0,22
-2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,pedro-diniz,Pedro Diniz,sauber,8,52,16,0,8,984.167778,999.036597,14.868819,0.666667,0.36929,50.0,22
-2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,marc-gene,Marc Gené,minardi,9,52,21,0,9,988.159965,1000.385577,12.225613,0.619048,0.374535,50.0,22
-2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,gaston-mazzacane,Gastón Mazzacane,minardi,10,52,22,0,10,994.223436,1003.667569,9.444132,0.571429,0.382546,50.0,22
-2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,giancarlo-fisichella,Giancarlo Fisichella,benetton,11,52,9,0,11,1070.328871,1072.213047,1.884176,0.52381,0.486126,50.0,22
-2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,jean-alesi,Jean Alesi,prost,12,51,19,0,12,970.404003,976.643586,6.239583,0.47619,0.351399,50.0,22
-2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,nick-heidfeld,Nick Heidfeld,prost,DNF,15,20,1,13,945.386541,950.828055,5.441514,0.428571,0.319741,50.0,22
-2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,jacques-villeneuve,Jacques Villeneuve,bar,DNF,14,4,1,14,1102.954303,1095.448477,-7.505826,0.380952,0.531069,50.0,22
-2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,jenson-button,Jenson Button,williams,DNF,10,12,1,15,1089.756035,1080.776657,-8.979378,0.333333,0.512921,50.0,22
-2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,johnny-herbert,Johnny Herbert,jaguar,DNF,1,18,1,16,1019.28807,1012.76625,-6.521819,0.285714,0.416151,50.0,22
-2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,david-coulthard,David Coulthard,mclaren,DNF,0,5,1,17,1266.879999,1235.932877,-30.947122,0.119048,0.73799,50.0,22
-2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,eddie-irvine,Eddie Irvine,jaguar,DNF,0,14,1,18,1184.96572,1158.900775,-26.064945,0.119048,0.640347,50.0,22
-2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,DNF,0,8,1,19,1125.823477,1103.66203,-22.161447,0.119048,0.562277,50.0,22
-2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,jarno-trulli,Jarno Trulli,jordan,DNF,0,6,1,20,1032.345934,1016.602808,-15.743127,0.119048,0.43391,50.0,22
-2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,0,10,1,21,960.812262,949.808564,-11.003698,0.119048,0.339122,50.0,22
-2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,rubens-barrichello,Rubens Barrichello,ferrari,DNF,0,2,1,22,1200.904902,1173.834624,-27.070278,0.119048,0.660453,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,660,michael-schumacher,Michael Schumacher,ferrari,1,53,1,0,1,1256.198756,1269.892666,13.69391,1.0,0.726122,50.0,22
+2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,660,mika-hakkinen,Mika Häkkinen,mclaren,2,53,3,0,2,1332.926533,1340.303926,7.377393,0.952381,0.804833,50.0,22
+2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,660,ralf-schumacher,Ralf Schumacher,williams,3,53,7,0,3,1176.895269,1190.63372,13.738452,0.904762,0.629993,50.0,22
+2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,660,jos-verstappen,Jos Verstappen,arrows,4,53,11,0,4,971.701439,996.904982,25.203544,0.857143,0.353072,50.0,22
+2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,660,alexander-wurz,Alexander Wurz,benetton,5,53,13,0,5,1047.024895,1064.800122,17.775227,0.809524,0.454019,50.0,22
+2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,660,ricardo-zonta,Ricardo Zonta,bar,6,53,17,0,6,1007.88707,1025.94354,18.05647,0.761905,0.400775,50.0,22
+2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,660,mika-salo,Mika Salo,sauber,7,52,15,0,7,1090.038174,1100.086984,10.04881,0.714286,0.51331,50.0,22
+2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,660,pedro-diniz,Pedro Diniz,sauber,8,52,16,0,8,984.167778,999.036597,14.868819,0.666667,0.36929,50.0,22
+2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,660,marc-gene,Marc Gené,minardi,9,52,21,0,9,988.159965,1000.385577,12.225613,0.619048,0.374535,50.0,22
+2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,660,gaston-mazzacane,Gastón Mazzacane,minardi,10,52,22,0,10,994.223436,1003.667569,9.444132,0.571429,0.382546,50.0,22
+2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,660,giancarlo-fisichella,Giancarlo Fisichella,benetton,11,52,9,0,11,1070.328871,1072.213047,1.884176,0.52381,0.486126,50.0,22
+2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,660,jean-alesi,Jean Alesi,prost,12,51,19,0,12,970.404003,976.643586,6.239583,0.47619,0.351399,50.0,22
+2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,660,nick-heidfeld,Nick Heidfeld,prost,DNF,15,20,1,13,945.386541,950.828055,5.441514,0.428571,0.319741,50.0,22
+2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,660,jacques-villeneuve,Jacques Villeneuve,bar,DNF,14,4,1,14,1102.954303,1095.448477,-7.505826,0.380952,0.531069,50.0,22
+2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,660,jenson-button,Jenson Button,williams,DNF,10,12,1,15,1089.756035,1080.776657,-8.979378,0.333333,0.512921,50.0,22
+2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,660,johnny-herbert,Johnny Herbert,jaguar,DNF,1,18,1,16,1019.28807,1012.76625,-6.521819,0.285714,0.416151,50.0,22
+2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,660,david-coulthard,David Coulthard,mclaren,DNF,0,5,1,17,1266.879999,1235.932877,-30.947122,0.119048,0.73799,50.0,22
+2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,660,eddie-irvine,Eddie Irvine,jaguar,DNF,0,14,1,18,1184.96572,1158.900775,-26.064945,0.119048,0.640347,50.0,22
+2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,660,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,DNF,0,8,1,19,1125.823477,1103.66203,-22.161447,0.119048,0.562277,50.0,22
+2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,660,jarno-trulli,Jarno Trulli,jordan,DNF,0,6,1,20,1032.345934,1016.602808,-15.743127,0.119048,0.43391,50.0,22
+2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,660,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,0,10,1,21,960.812262,949.808564,-11.003698,0.119048,0.339122,50.0,22
+2000,14,2000-09-10,italy,Gran Premio Campari d'Italia 2000,660,rubens-barrichello,Rubens Barrichello,ferrari,DNF,0,2,1,22,1200.904902,1173.834624,-27.070278,0.119048,0.660453,50.0,22

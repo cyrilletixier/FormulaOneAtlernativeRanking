@@ -1,35 +1,35 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,riccardo-patrese,Riccardo Patrese,williams,1,67,1,0,1,1247.261814,1260.946706,13.684892,1.0,0.726302,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,nigel-mansell,Nigel Mansell,williams,2,67,2,0,2,1204.11244,1218.751264,14.638824,0.969697,0.67692,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,ayrton-senna,Ayrton Senna,mclaren,3,67,3,0,3,1313.048698,1320.374732,7.326035,0.939394,0.792873,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,andrea-de-cesaris,Andrea de Cesaris,jordan,4,66,11,0,4,1035.596595,1058.210069,22.613475,0.909091,0.456821,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,roberto-moreno,Roberto Moreno,benetton,5,66,9,0,5,985.725248,1010.142191,24.416943,0.878788,0.390449,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,eric-bernard,Éric Bernard,lola,6,66,18,0,6,1080.885212,1097.40524,16.520028,0.848485,0.518084,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,gianni-morbidelli,Gianni Morbidelli,minardi,7,66,23,0,7,1006.816191,1026.812777,19.996586,0.818182,0.41825,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,thierry-boutsen,Thierry Boutsen,ligier,8,65,14,0,8,1230.487161,1234.500794,4.013633,0.787879,0.707606,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,mika-hakkinen,Mika Häkkinen,lotus,9,65,24,0,9,1052.954483,1066.819031,13.864547,0.757576,0.480285,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,johnny-herbert,Johnny Herbert,lotus,10,65,25,0,10,1007.6326,1023.029459,15.396858,0.727273,0.419336,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,stefano-modena,Stefano Modena,tyrrell,11,65,8,0,11,1100.591981,1108.209923,7.617942,0.69697,0.544611,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,satoru-nakajima,Satoru Nakajima,tyrrell,12,64,13,0,12,1074.858442,1082.694851,7.836408,0.666667,0.509939,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,mark-blundell,Mark Blundell,brabham,DNF,54,12,1,13,1003.550802,1014.67324,11.122438,0.636364,0.413915,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,bertrand-gachot,Bertrand Gachot,jordan,DNF,51,20,1,14,945.803113,959.131649,13.328536,0.606061,0.33949,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,aguri-suzuki,Aguri Suzuki,lola,DNF,48,19,1,15,1024.341113,1031.045431,6.704318,0.575758,0.441671,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,nelson-piquet,Nelson Piquet,benetton,DNF,44,6,1,16,1258.202481,1248.568567,-9.633914,0.545455,0.738133,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,jean-alesi,Jean Alesi,ferrari,DNF,42,4,1,17,1136.682647,1132.819418,-3.863229,0.515152,0.592416,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,jj-lehto,JJ Lehto,dallara,DNF,30,16,1,18,1019.415748,1021.904912,2.489165,0.484848,0.435065,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,michele-alboreto,Michele Alboreto,footwork,DNF,24,26,1,19,1007.236608,1009.023431,1.786823,0.454545,0.418809,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,martin-brundle,Martin Brundle,brabham,DNF,20,17,1,20,1099.618886,1093.665697,-5.953189,0.424242,0.543306,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,ivan-capelli,Ivan Capelli,leyton-house,DNF,19,22,1,21,1067.225931,1061.942407,-5.283524,0.393939,0.49961,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,alain-prost,Alain Prost,ferrari,DNF,16,7,1,22,1310.121621,1288.795957,-21.325664,0.363636,0.79015,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,mauricio-gugelmin,Maurício Gugelmin,leyton-house,DNF,15,21,1,23,1063.596912,1055.528776,-8.068136,0.333333,0.494696,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,olivier-grouillard,Olivier Grouillard,fondmetal,DNF,13,10,1,24,920.913534,920.607231,-0.306302,0.30303,0.309156,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,gerhard-berger,Gerhard Berger,mclaren,DNF,5,5,1,25,1212.18059,1191.493562,-20.687027,0.272727,0.686468,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,pierluigi-martini,Pierluigi Martini,minardi,DNF,4,15,1,26,1130.606441,1113.504562,-17.101879,0.242424,0.584462,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,emanuele-pirro,Emanuele Pirro,dallara,DNPQ,,,1,27,1065.088573,1048.586109,-16.502464,0.166667,0.496716,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,eric-van-de-poele,Eric van de Poele,modena,DNPQ,,,1,28,971.720583,961.439315,-10.281268,0.166667,0.372292,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,nicola-larini,Nicola Larini,modena,DNPQ,,,1,29,1041.626529,1026.711756,-14.914773,0.166667,0.464962,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,pedro-chaves,Pedro Chaves,coloni,DNPQ,,,1,30,947.189789,938.462348,-8.727441,0.166667,0.341215,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,erik-comas,Érik Comas,ligier,DNQ,,,2,31,1039.696705,1018.851668,-20.845037,0.045455,0.462355,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,fabrizio-barbazza,Fabrizio Barbazza,ags,DNQ,,,2,32,949.185819,934.273269,-14.91255,0.045455,0.343706,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,gabriele-tarquini,Gabriele Tarquini,ags,DNQ,,,2,33,877.913595,867.187143,-10.726452,0.045455,0.259984,50.0,34
-1991,6,1991-06-16,mexico,Gran Premio de México 1991,stefan-johansson,Stefan Johansson,footwork,DNQ,,,2,34,938.080909,923.856309,-14.2246,0.045455,0.329947,50.0,34
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,riccardo-patrese,Riccardo Patrese,williams,1,67,1,0,1,1247.261814,1260.946706,13.684892,1.0,0.726302,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,nigel-mansell,Nigel Mansell,williams,2,67,2,0,2,1204.11244,1218.751264,14.638824,0.969697,0.67692,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,ayrton-senna,Ayrton Senna,mclaren,3,67,3,0,3,1313.048698,1320.374732,7.326035,0.939394,0.792873,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,andrea-de-cesaris,Andrea de Cesaris,jordan,4,66,11,0,4,1035.596595,1058.210069,22.613475,0.909091,0.456821,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,roberto-moreno,Roberto Moreno,benetton,5,66,9,0,5,985.725248,1010.142191,24.416943,0.878788,0.390449,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,eric-bernard,Éric Bernard,lola,6,66,18,0,6,1080.885212,1097.40524,16.520028,0.848485,0.518084,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,gianni-morbidelli,Gianni Morbidelli,minardi,7,66,23,0,7,1006.816191,1026.812777,19.996586,0.818182,0.41825,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,thierry-boutsen,Thierry Boutsen,ligier,8,65,14,0,8,1230.487161,1234.500794,4.013633,0.787879,0.707606,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,mika-hakkinen,Mika Häkkinen,lotus,9,65,24,0,9,1052.954483,1066.819031,13.864547,0.757576,0.480285,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,johnny-herbert,Johnny Herbert,lotus,10,65,25,0,10,1007.6326,1023.029459,15.396858,0.727273,0.419336,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,stefano-modena,Stefano Modena,tyrrell,11,65,8,0,11,1100.591981,1108.209923,7.617942,0.69697,0.544611,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,satoru-nakajima,Satoru Nakajima,tyrrell,12,64,13,0,12,1074.858442,1082.694851,7.836408,0.666667,0.509939,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,mark-blundell,Mark Blundell,brabham,DNF,54,12,1,13,1003.550802,1014.67324,11.122438,0.636364,0.413915,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,bertrand-gachot,Bertrand Gachot,jordan,DNF,51,20,1,14,945.803113,959.131649,13.328536,0.606061,0.33949,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,aguri-suzuki,Aguri Suzuki,lola,DNF,48,19,1,15,1024.341113,1031.045431,6.704318,0.575758,0.441671,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,nelson-piquet,Nelson Piquet,benetton,DNF,44,6,1,16,1258.202481,1248.568567,-9.633914,0.545455,0.738133,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,jean-alesi,Jean Alesi,ferrari,DNF,42,4,1,17,1136.682647,1132.819418,-3.863229,0.515152,0.592416,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,jj-lehto,JJ Lehto,dallara,DNF,30,16,1,18,1019.415748,1021.904912,2.489165,0.484848,0.435065,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,michele-alboreto,Michele Alboreto,footwork,DNF,24,26,1,19,1007.236608,1009.023431,1.786823,0.454545,0.418809,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,martin-brundle,Martin Brundle,brabham,DNF,20,17,1,20,1099.618886,1093.665697,-5.953189,0.424242,0.543306,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,ivan-capelli,Ivan Capelli,leyton-house,DNF,19,22,1,21,1067.225931,1061.942407,-5.283524,0.393939,0.49961,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,alain-prost,Alain Prost,ferrari,DNF,16,7,1,22,1310.121621,1288.795957,-21.325664,0.363636,0.79015,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,mauricio-gugelmin,Maurício Gugelmin,leyton-house,DNF,15,21,1,23,1063.596912,1055.528776,-8.068136,0.333333,0.494696,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,olivier-grouillard,Olivier Grouillard,fondmetal,DNF,13,10,1,24,920.913534,920.607231,-0.306302,0.30303,0.309156,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,gerhard-berger,Gerhard Berger,mclaren,DNF,5,5,1,25,1212.18059,1191.493562,-20.687027,0.272727,0.686468,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,pierluigi-martini,Pierluigi Martini,minardi,DNF,4,15,1,26,1130.606441,1113.504562,-17.101879,0.242424,0.584462,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,emanuele-pirro,Emanuele Pirro,dallara,DNPQ,,,1,27,1065.088573,1048.586109,-16.502464,0.166667,0.496716,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,eric-van-de-poele,Eric van de Poele,modena,DNPQ,,,1,28,971.720583,961.439315,-10.281268,0.166667,0.372292,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,nicola-larini,Nicola Larini,modena,DNPQ,,,1,29,1041.626529,1026.711756,-14.914773,0.166667,0.464962,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,pedro-chaves,Pedro Chaves,coloni,DNPQ,,,1,30,947.189789,938.462348,-8.727441,0.166667,0.341215,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,erik-comas,Érik Comas,ligier,DNQ,,,2,31,1039.696705,1018.851668,-20.845037,0.045455,0.462355,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,fabrizio-barbazza,Fabrizio Barbazza,ags,DNQ,,,2,32,949.185819,934.273269,-14.91255,0.045455,0.343706,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,gabriele-tarquini,Gabriele Tarquini,ags,DNQ,,,2,33,877.913595,867.187143,-10.726452,0.045455,0.259984,50.0,34
+1991,6,1991-06-16,mexico,Gran Premio de México 1991,506,stefan-johansson,Stefan Johansson,footwork,DNQ,,,2,34,938.080909,923.856309,-14.2246,0.045455,0.329947,50.0,34

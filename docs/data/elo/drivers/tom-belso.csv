@@ -1,6 +1,6 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1973-06-17,1973,7,sweden,iso-marlboro,Iso-Marlboro,DNS,,22,1000.0,979.969002,-20.030998,0.02381,0.424429,50.0
-1974-03-30,1974,3,south-africa,iso-marlboro,Iso-Marlboro,DNF,0,27,979.969002,958.893244,-21.075758,0.0,0.421515,50.0
-1974-04-28,1974,4,spain,iso-marlboro,Iso-Marlboro,DNQ,,28,958.893244,942.11495,-16.778294,0.055556,0.391121,50.0
-1974-06-09,1974,7,sweden,iso-marlboro,Iso-Marlboro,8,79,28,942.11495,960.680442,18.565492,0.740741,0.369431,50.0
-1974-07-20,1974,10,great-britain,iso-marlboro,Iso-Marlboro,DNQ,,35,960.680442,947.04254,-13.637901,0.132353,0.405111,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1973-06-17,1973,7,sweden,227,iso-marlboro,Iso-Marlboro,DNS,,22,1000.0,979.969002,-20.030998,0.02381,0.424429,50.0
+1974-03-30,1974,3,south-africa,238,iso-marlboro,Iso-Marlboro,DNF,0,27,979.969002,958.893244,-21.075758,0.0,0.421515,50.0
+1974-04-28,1974,4,spain,239,iso-marlboro,Iso-Marlboro,DNQ,,28,958.893244,942.11495,-16.778294,0.055556,0.391121,50.0
+1974-06-09,1974,7,sweden,242,iso-marlboro,Iso-Marlboro,8,79,28,942.11495,960.680442,18.565492,0.740741,0.369431,50.0
+1974-07-20,1974,10,great-britain,245,iso-marlboro,Iso-Marlboro,DNQ,,35,960.680442,947.04254,-13.637901,0.132353,0.405111,50.0

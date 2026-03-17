@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1960-05-30,1960,3,indianapolis,trevis,Trevis,9,200,33,1000.0,1012.853622,12.853622,0.75,0.492928,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1960-05-30,1960,3,indianapolis,87,trevis,Trevis,9,200,33,1000.0,1012.853622,12.853622,0.75,0.492928,50.0

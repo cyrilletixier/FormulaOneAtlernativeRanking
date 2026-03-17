@@ -1,4 +1,4 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1994-11-13,1994,16,australia,larrousse,Larrousse,DNF,56,28,1000.0,1003.004882,3.004882,0.481481,0.421384,50.0
-1995-09-24,1995,13,portugal,pacific,Pacific,DNF,14,24,1003.004882,991.124828,-11.880054,0.173913,0.411514,50.0
-1995-10-01,1995,14,europe,pacific,Pacific,15,60,24,991.124828,990.806997,-0.317832,0.391304,0.397661,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1994-11-13,1994,16,australia,564,larrousse,Larrousse,DNF,56,28,1000.0,1003.004882,3.004882,0.481481,0.421384,50.0
+1995-09-24,1995,13,portugal,577,pacific,Pacific,DNF,14,24,1003.004882,991.124828,-11.880054,0.173913,0.411514,50.0
+1995-10-01,1995,14,europe,578,pacific,Pacific,15,60,24,991.124828,990.806997,-0.317832,0.391304,0.397661,50.0

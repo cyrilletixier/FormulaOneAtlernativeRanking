@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,lewis-hamilton,Lewis Hamilton,mercedes,1,59,1,0,1,1572.582363,1576.899034,4.316671,1.0,0.913667,50.0,20
-2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,valtteri-bottas,Valtteri Bottas,mercedes,2,59,2,0,2,1424.577291,1431.106031,6.52874,0.947368,0.816794,50.0,20
-2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,alexander-albon,Alexander Albon,red-bull,3,59,4,0,3,1189.618659,1206.072546,16.453887,0.894737,0.565659,50.0,20
-2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,daniel-ricciardo,Daniel Ricciardo,renault,4,59,8,0,4,1148.786411,1165.23163,16.445218,0.842105,0.513201,50.0,20
-2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,sergio-perez,Sergio Pérez,racing-point,5,59,7,0,5,1179.642419,1191.4685,11.826082,0.789474,0.552952,50.0,20
-2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,lando-norris,Lando Norris,mclaren,6,59,11,0,6,1165.52373,1175.624135,10.100405,0.736842,0.534834,50.0,20
-2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,daniil-kvyat,Daniil Kvyat,alphatauri,7,59,12,0,7,1078.793353,1091.882476,13.089123,0.684211,0.422428,50.0,20
-2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,charles-leclerc,Charles Leclerc,ferrari,8,59,5,0,8,1188.332028,1191.709711,3.377683,0.631579,0.564025,50.0,20
-2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,9,59,13,0,9,1079.221073,1087.01955,7.798477,0.578947,0.422978,50.0,20
-2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,sebastian-vettel,Sebastian Vettel,ferrari,10,59,14,0,10,1218.853301,1215.053795,-3.799506,0.526316,0.602306,50.0,20
-2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,george-russell,George Russell,williams,11,59,18,0,11,914.947272,927.105811,12.158539,0.473684,0.230513,50.0,20
-2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,romain-grosjean,Romain Grosjean,haas,12,59,15,0,12,956.516453,963.844105,7.327653,0.421053,0.2745,50.0,20
-2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,lance-stroll,Lance Stroll,racing-point,DNF,42,6,1,13,1119.228117,1113.909728,-5.318389,0.368421,0.474789,50.0,20
-2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,esteban-ocon,Esteban Ocon,renault,DNF,7,10,1,14,1113.815351,1106.217301,-7.59805,0.315789,0.46775,50.0,20
-2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,nicholas-latifi,Nicholas Latifi,williams,DNF,6,19,1,15,966.512875,965.388436,-1.124439,0.263158,0.285647,50.0,20
-2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,DNF,5,17,1,16,971.04215,964.398626,-6.643524,0.157895,0.290765,50.0,20
-2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,DNF,5,9,1,17,1160.142735,1141.642749,-18.499987,0.157895,0.527894,50.0,20
-2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,kevin-magnussen,Kevin Magnussen,haas,DNF,5,20,1,18,957.262506,951.39103,-5.871476,0.157895,0.275324,50.0,20
-2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,max-verstappen,Max Verstappen,red-bull,DNF,0,3,1,19,1348.262047,1312.188717,-36.073329,0.026316,0.747782,50.0,20
-2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,pierre-gasly,Pierre Gasly,alphatauri,DNF,0,16,1,20,1151.094134,1126.600357,-24.493777,0.026316,0.516191,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,1027,lewis-hamilton,Lewis Hamilton,mercedes,1,59,1,0,1,1572.582363,1576.899034,4.316671,1.0,0.913667,50.0,20
+2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,1027,valtteri-bottas,Valtteri Bottas,mercedes,2,59,2,0,2,1424.577291,1431.106031,6.52874,0.947368,0.816794,50.0,20
+2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,1027,alexander-albon,Alexander Albon,red-bull,3,59,4,0,3,1189.618659,1206.072546,16.453887,0.894737,0.565659,50.0,20
+2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,1027,daniel-ricciardo,Daniel Ricciardo,renault,4,59,8,0,4,1148.786411,1165.23163,16.445218,0.842105,0.513201,50.0,20
+2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,1027,sergio-perez,Sergio Pérez,racing-point,5,59,7,0,5,1179.642419,1191.4685,11.826082,0.789474,0.552952,50.0,20
+2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,1027,lando-norris,Lando Norris,mclaren,6,59,11,0,6,1165.52373,1175.624135,10.100405,0.736842,0.534834,50.0,20
+2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,1027,daniil-kvyat,Daniil Kvyat,alphatauri,7,59,12,0,7,1078.793353,1091.882476,13.089123,0.684211,0.422428,50.0,20
+2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,1027,charles-leclerc,Charles Leclerc,ferrari,8,59,5,0,8,1188.332028,1191.709711,3.377683,0.631579,0.564025,50.0,20
+2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,1027,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,9,59,13,0,9,1079.221073,1087.01955,7.798477,0.578947,0.422978,50.0,20
+2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,1027,sebastian-vettel,Sebastian Vettel,ferrari,10,59,14,0,10,1218.853301,1215.053795,-3.799506,0.526316,0.602306,50.0,20
+2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,1027,george-russell,George Russell,williams,11,59,18,0,11,914.947272,927.105811,12.158539,0.473684,0.230513,50.0,20
+2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,1027,romain-grosjean,Romain Grosjean,haas,12,59,15,0,12,956.516453,963.844105,7.327653,0.421053,0.2745,50.0,20
+2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,1027,lance-stroll,Lance Stroll,racing-point,DNF,42,6,1,13,1119.228117,1113.909728,-5.318389,0.368421,0.474789,50.0,20
+2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,1027,esteban-ocon,Esteban Ocon,renault,DNF,7,10,1,14,1113.815351,1106.217301,-7.59805,0.315789,0.46775,50.0,20
+2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,1027,nicholas-latifi,Nicholas Latifi,williams,DNF,6,19,1,15,966.512875,965.388436,-1.124439,0.263158,0.285647,50.0,20
+2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,1027,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,DNF,5,17,1,16,971.04215,964.398626,-6.643524,0.157895,0.290765,50.0,20
+2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,1027,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,DNF,5,9,1,17,1160.142735,1141.642749,-18.499987,0.157895,0.527894,50.0,20
+2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,1027,kevin-magnussen,Kevin Magnussen,haas,DNF,5,20,1,18,957.262506,951.39103,-5.871476,0.157895,0.275324,50.0,20
+2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,1027,max-verstappen,Max Verstappen,red-bull,DNF,0,3,1,19,1348.262047,1312.188717,-36.073329,0.026316,0.747782,50.0,20
+2020,9,2020-09-13,tuscany,Formula 1 Gran Premio Della Toscana Ferrari 1000 2020,1027,pierre-gasly,Pierre Gasly,alphatauri,DNF,0,16,1,20,1151.094134,1126.600357,-24.493777,0.026316,0.516191,50.0,20

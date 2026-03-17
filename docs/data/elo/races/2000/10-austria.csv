@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,mika-hakkinen,Mika Häkkinen,mclaren,1,71,1,0,1,1292.159261,1303.399561,11.2403,1.0,0.775194,50.0,22
-2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,david-coulthard,David Coulthard,mclaren,2,71,2,0,2,1229.555662,1241.833272,12.27761,0.952381,0.706829,50.0,22
-2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,rubens-barrichello,Rubens Barrichello,ferrari,3,71,3,0,3,1189.339401,1201.679998,12.340597,0.904762,0.65795,50.0,22
-2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,jacques-villeneuve,Jacques Villeneuve,bar,4,70,7,0,4,1069.426112,1087.440364,18.014252,0.857143,0.496858,50.0,22
-2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,jenson-button,Jenson Button,williams,5,70,18,0,5,1028.159088,1046.65713,18.498041,0.809524,0.439563,50.0,22
-2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,mika-salo,Mika Salo,sauber,6,70,9,0,6,1049.50039,1064.138808,14.638418,0.761905,0.469136,50.0,22
-2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,johnny-herbert,Johnny Herbert,jaguar,7,70,16,0,7,1019.514088,1033.84549,14.331402,0.714286,0.427658,50.0,22
-2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,marc-gene,Marc Gené,minardi,8,70,20,0,8,980.026682,994.64899,14.622308,0.666667,0.37422,50.0,22
-2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,pedro-diniz,Pedro Diniz,sauber,9,70,11,0,9,986.470264,998.282195,11.811931,0.619048,0.382809,50.0,22
-2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,alexander-wurz,Alexander Wurz,benetton,10,70,14,0,10,1051.022058,1056.030905,5.008847,0.571429,0.471252,50.0,22
-2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,luciano-burti,Luciano Burti,jaguar,11,69,PL,0,11,1000.0,1006.139259,6.139259,0.52381,0.401024,50.0,22
-2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,gaston-mazzacane,Gastón Mazzacane,minardi,12,68,22,0,12,999.849522,1003.61802,3.768499,0.47619,0.400821,50.0,22
-2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,ricardo-zonta,Ricardo Zonta,bar,DNF,58,6,1,13,1006.872727,1007.783252,0.910525,0.428571,0.410361,50.0,22
-2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,ralf-schumacher,Ralf Schumacher,williams,DNF,52,19,1,14,1157.116299,1145.340955,-11.775344,0.380952,0.616459,50.0,22
-2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,jean-alesi,Jean Alesi,prost,DNF,41,17,1,15,1017.274794,1011.521822,-5.752972,0.309524,0.424583,50.0,22
-2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,nick-heidfeld,Nick Heidfeld,prost,DNF,41,13,1,16,968.394126,965.92654,-2.467586,0.309524,0.358876,50.0,22
-2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,32,12,1,17,949.070288,944.280172,-4.790116,0.238095,0.333898,50.0,22
-2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,jos-verstappen,Jos Verstappen,arrows,DNF,14,10,1,18,974.384398,965.57067,-8.813728,0.190476,0.366751,50.0,22
-2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,DNF,4,15,1,19,1132.46062,1110.423724,-22.036896,0.142857,0.583595,50.0,22
-2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,0,8,1,20,1174.37915,1144.814247,-29.564903,0.047619,0.638917,50.0,22
-2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,jarno-trulli,Jarno Trulli,jordan,DNF,0,5,1,21,1054.354841,1032.941481,-21.41336,0.047619,0.475886,50.0,22
-2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,michael-schumacher,Michael Schumacher,ferrari,DNF,0,4,1,22,1304.402222,1267.415136,-36.987086,0.047619,0.787361,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,656,mika-hakkinen,Mika Häkkinen,mclaren,1,71,1,0,1,1292.159261,1303.399561,11.2403,1.0,0.775194,50.0,22
+2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,656,david-coulthard,David Coulthard,mclaren,2,71,2,0,2,1229.555662,1241.833272,12.27761,0.952381,0.706829,50.0,22
+2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,656,rubens-barrichello,Rubens Barrichello,ferrari,3,71,3,0,3,1189.339401,1201.679998,12.340597,0.904762,0.65795,50.0,22
+2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,656,jacques-villeneuve,Jacques Villeneuve,bar,4,70,7,0,4,1069.426112,1087.440364,18.014252,0.857143,0.496858,50.0,22
+2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,656,jenson-button,Jenson Button,williams,5,70,18,0,5,1028.159088,1046.65713,18.498041,0.809524,0.439563,50.0,22
+2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,656,mika-salo,Mika Salo,sauber,6,70,9,0,6,1049.50039,1064.138808,14.638418,0.761905,0.469136,50.0,22
+2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,656,johnny-herbert,Johnny Herbert,jaguar,7,70,16,0,7,1019.514088,1033.84549,14.331402,0.714286,0.427658,50.0,22
+2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,656,marc-gene,Marc Gené,minardi,8,70,20,0,8,980.026682,994.64899,14.622308,0.666667,0.37422,50.0,22
+2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,656,pedro-diniz,Pedro Diniz,sauber,9,70,11,0,9,986.470264,998.282195,11.811931,0.619048,0.382809,50.0,22
+2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,656,alexander-wurz,Alexander Wurz,benetton,10,70,14,0,10,1051.022058,1056.030905,5.008847,0.571429,0.471252,50.0,22
+2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,656,luciano-burti,Luciano Burti,jaguar,11,69,PL,0,11,1000.0,1006.139259,6.139259,0.52381,0.401024,50.0,22
+2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,656,gaston-mazzacane,Gastón Mazzacane,minardi,12,68,22,0,12,999.849522,1003.61802,3.768499,0.47619,0.400821,50.0,22
+2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,656,ricardo-zonta,Ricardo Zonta,bar,DNF,58,6,1,13,1006.872727,1007.783252,0.910525,0.428571,0.410361,50.0,22
+2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,656,ralf-schumacher,Ralf Schumacher,williams,DNF,52,19,1,14,1157.116299,1145.340955,-11.775344,0.380952,0.616459,50.0,22
+2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,656,jean-alesi,Jean Alesi,prost,DNF,41,17,1,15,1017.274794,1011.521822,-5.752972,0.309524,0.424583,50.0,22
+2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,656,nick-heidfeld,Nick Heidfeld,prost,DNF,41,13,1,16,968.394126,965.92654,-2.467586,0.309524,0.358876,50.0,22
+2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,656,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,32,12,1,17,949.070288,944.280172,-4.790116,0.238095,0.333898,50.0,22
+2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,656,jos-verstappen,Jos Verstappen,arrows,DNF,14,10,1,18,974.384398,965.57067,-8.813728,0.190476,0.366751,50.0,22
+2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,656,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,DNF,4,15,1,19,1132.46062,1110.423724,-22.036896,0.142857,0.583595,50.0,22
+2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,656,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,0,8,1,20,1174.37915,1144.814247,-29.564903,0.047619,0.638917,50.0,22
+2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,656,jarno-trulli,Jarno Trulli,jordan,DNF,0,5,1,21,1054.354841,1032.941481,-21.41336,0.047619,0.475886,50.0,22
+2000,10,2000-07-16,austria,Grosser A1 Preis von Österreich 2000,656,michael-schumacher,Michael Schumacher,ferrari,DNF,0,4,1,22,1304.402222,1267.415136,-36.987086,0.047619,0.787361,50.0,22

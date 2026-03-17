@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,jim-clark,Jim Clark,lotus,1,32,12,0,1,1076.765975,1099.247891,22.481916,1.0,0.550362,50.0,20
-1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,graham-hill,Graham Hill,brm,2,32,1,0,2,1028.497538,1051.880096,23.382558,0.947368,0.479717,50.0,20
-1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,phil-hill,Phil Hill,ferrari,3,32,4,0,3,1234.277582,1241.151548,6.873965,0.894737,0.757258,50.0,20
-1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,ricardo-rodriguez,Ricardo Rodríguez,ferrari,4,32,7,0,4,983.488674,1004.87865,21.389976,0.842105,0.414306,50.0,20
-1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,john-surtees,John Surtees,lola,5,31,11,0,5,993.24158,1011.298436,18.056855,0.789474,0.428337,50.0,20
-1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,jack-brabham,Jack Brabham,lotus,6,30,15,0,6,1053.7585,1064.761838,11.003338,0.736842,0.516775,50.0,20
-1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,carel-godin-de-beaufort,Carel Godin de Beaufort,porsche,7,30,13,0,7,1014.104779,1025.382805,11.278026,0.684211,0.45865,50.0,20
-1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,maurice-trintignant,Maurice Trintignant,lotus,8,30,16,0,8,1062.090903,1067.221234,5.130331,0.631579,0.528972,50.0,20
-1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,lucien-bianchi,Lucien Bianchi,lotus,9,29,18,0,9,961.745924,971.519755,9.773831,0.578947,0.383471,50.0,20
-1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,jo-siffert,Jo Siffert,lotus,10,29,17,0,10,985.465821,990.924541,5.45872,0.526316,0.417141,50.0,20
-1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,john-campbell-jones,John Campbell-Jones,lotus,11,16,19,0,11,1000.0,1001.778346,1.778346,0.473684,0.438117,50.0,20
-1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,trevor-taylor,Trevor Taylor,lotus,DNF,25,3,1,12,999.732047,997.582454,-2.149593,0.394737,0.437729,50.0,20
-1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,willy-mairesse,Willy Mairesse,ferrari,DNF,25,6,1,13,1010.097548,1007.194267,-2.903281,0.394737,0.452802,50.0,20
-1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,richie-ginther,Richie Ginther,brm,DNF,22,9,1,14,1086.411252,1072.668511,-13.742741,0.289474,0.564329,50.0,20
-1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,tony-maggs,Tony Maggs,cooper,DNF,22,10,1,15,1030.773586,1021.094512,-9.679074,0.289474,0.483055,50.0,20
-1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,bruce-mclaren,Bruce McLaren,cooper,DNF,19,2,1,16,1168.402984,1145.053895,-23.349089,0.210526,0.677508,50.0,20
-1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,masten-gregory,Masten Gregory,lotus,DNF,13,8,1,17,988.777004,975.576714,-13.20029,0.157895,0.421901,50.0,20
-1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,innes-ireland,Innes Ireland,lotus,DNF,9,5,1,18,1059.268859,1038.289784,-20.979075,0.105263,0.524845,50.0,20
-1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,giancarlo-baghetti,Giancarlo Baghetti,ferrari,DNF,4,14,1,19,1035.220825,1013.37341,-21.847415,0.052632,0.48958,50.0,20
-1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,dan-gurney,Dan Gurney,lotus,DNS,,,2,20,1093.926386,1065.16908,-28.757306,0.0,0.575146,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,105,jim-clark,Jim Clark,lotus,1,32,12,0,1,1076.765975,1099.247891,22.481916,1.0,0.550362,50.0,20
+1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,105,graham-hill,Graham Hill,brm,2,32,1,0,2,1028.497538,1051.880096,23.382558,0.947368,0.479717,50.0,20
+1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,105,phil-hill,Phil Hill,ferrari,3,32,4,0,3,1234.277582,1241.151548,6.873965,0.894737,0.757258,50.0,20
+1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,105,ricardo-rodriguez,Ricardo Rodríguez,ferrari,4,32,7,0,4,983.488674,1004.87865,21.389976,0.842105,0.414306,50.0,20
+1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,105,john-surtees,John Surtees,lola,5,31,11,0,5,993.24158,1011.298436,18.056855,0.789474,0.428337,50.0,20
+1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,105,jack-brabham,Jack Brabham,lotus,6,30,15,0,6,1053.7585,1064.761838,11.003338,0.736842,0.516775,50.0,20
+1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,105,carel-godin-de-beaufort,Carel Godin de Beaufort,porsche,7,30,13,0,7,1014.104779,1025.382805,11.278026,0.684211,0.45865,50.0,20
+1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,105,maurice-trintignant,Maurice Trintignant,lotus,8,30,16,0,8,1062.090903,1067.221234,5.130331,0.631579,0.528972,50.0,20
+1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,105,lucien-bianchi,Lucien Bianchi,lotus,9,29,18,0,9,961.745924,971.519755,9.773831,0.578947,0.383471,50.0,20
+1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,105,jo-siffert,Jo Siffert,lotus,10,29,17,0,10,985.465821,990.924541,5.45872,0.526316,0.417141,50.0,20
+1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,105,john-campbell-jones,John Campbell-Jones,lotus,11,16,19,0,11,1000.0,1001.778346,1.778346,0.473684,0.438117,50.0,20
+1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,105,trevor-taylor,Trevor Taylor,lotus,DNF,25,3,1,12,999.732047,997.582454,-2.149593,0.394737,0.437729,50.0,20
+1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,105,willy-mairesse,Willy Mairesse,ferrari,DNF,25,6,1,13,1010.097548,1007.194267,-2.903281,0.394737,0.452802,50.0,20
+1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,105,richie-ginther,Richie Ginther,brm,DNF,22,9,1,14,1086.411252,1072.668511,-13.742741,0.289474,0.564329,50.0,20
+1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,105,tony-maggs,Tony Maggs,cooper,DNF,22,10,1,15,1030.773586,1021.094512,-9.679074,0.289474,0.483055,50.0,20
+1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,105,bruce-mclaren,Bruce McLaren,cooper,DNF,19,2,1,16,1168.402984,1145.053895,-23.349089,0.210526,0.677508,50.0,20
+1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,105,masten-gregory,Masten Gregory,lotus,DNF,13,8,1,17,988.777004,975.576714,-13.20029,0.157895,0.421901,50.0,20
+1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,105,innes-ireland,Innes Ireland,lotus,DNF,9,5,1,18,1059.268859,1038.289784,-20.979075,0.105263,0.524845,50.0,20
+1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,105,giancarlo-baghetti,Giancarlo Baghetti,ferrari,DNF,4,14,1,19,1035.220825,1013.37341,-21.847415,0.052632,0.48958,50.0,20
+1962,3,1962-06-17,belgium,1962 Belgian Grand Prix,105,dan-gurney,Dan Gurney,lotus,DNS,,,2,20,1093.926386,1065.16908,-28.757306,0.0,0.575146,50.0,20

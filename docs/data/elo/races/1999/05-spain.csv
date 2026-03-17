@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,mika-hakkinen,Mika Häkkinen,mclaren,1,65,1,0,1,1223.345751,1238.884124,15.538373,1.0,0.689233,50.0,22
-1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,david-coulthard,David Coulthard,mclaren,2,65,3,0,2,1162.614236,1179.657721,17.043486,0.952381,0.611511,50.0,22
-1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,michael-schumacher,Michael Schumacher,ferrari,3,65,4,0,3,1321.779124,1327.170002,5.390878,0.904762,0.796944,50.0,22
-1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,eddie-irvine,Eddie Irvine,ferrari,4,65,2,0,4,1226.327928,1234.542314,8.214386,0.857143,0.692855,50.0,22
-1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,ralf-schumacher,Ralf Schumacher,williams,5,65,10,0,5,1084.58265,1099.848579,15.265929,0.809524,0.504205,50.0,22
-1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,jarno-trulli,Jarno Trulli,prost,6,64,9,0,6,992.229996,1011.485638,19.255642,0.761905,0.376792,50.0,22
-1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,damon-hill,Damon Hill,jordan,7,64,11,0,7,1084.228104,1094.756933,10.528829,0.714286,0.503709,50.0,22
-1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,mika-salo,Mika Salo,bar,8,64,16,0,8,966.10741,982.315802,16.208392,0.666667,0.342499,50.0,22
-1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,giancarlo-fisichella,Giancarlo Fisichella,benetton,9,64,13,0,9,1175.679189,1175.191496,-0.487693,0.619048,0.628801,50.0,22
-1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,alexander-wurz,Alexander Wurz,benetton,10,64,18,0,10,1095.563538,1098.157119,2.593582,0.571429,0.519557,50.0,22
-1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,pedro-de-la-rosa,Pedro de la Rosa,arrows,11,63,19,0,11,998.758316,1005.672076,6.913761,0.52381,0.385534,50.0,22
-1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,toranosuke-takagi,Toranosuke Takagi,arrows,12,62,20,0,12,1002.481419,1006.76358,4.282161,0.47619,0.390547,50.0,22
-1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,luca-badoer,Luca Badoer,minardi,DNF,50,22,1,13,975.905256,979.5727,3.667443,0.428571,0.355223,50.0,22
-1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,jacques-villeneuve,Jacques Villeneuve,bar,DNF,40,6,1,14,1137.886843,1125.647544,-12.239299,0.333333,0.578119,50.0,22
-1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,johnny-herbert,Johnny Herbert,stewart,DNF,40,14,1,15,999.340528,996.691346,-2.649181,0.333333,0.386317,50.0,22
-1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,pedro-diniz,Pedro Diniz,sauber,DNF,40,12,1,16,962.154979,961.950785,-0.204194,0.333333,0.337417,50.0,22
-1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,DNF,35,8,1,17,1189.553231,1169.1156,-20.437631,0.238095,0.646848,50.0,22
-1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,jean-alesi,Jean Alesi,sauber,DNF,27,5,1,18,1141.801707,1122.152668,-19.649038,0.190476,0.583457,50.0,22
-1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,alex-zanardi,Alex Zanardi,williams,DNF,24,17,1,19,1006.13509,992.31323,-13.821861,0.119048,0.395485,50.0,22
-1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,olivier-panis,Olivier Panis,prost,DNF,24,15,1,20,1043.03897,1026.682703,-16.356268,0.119048,0.446173,50.0,22
-1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,marc-gene,Marc Gené,minardi,DNF,0,21,1,21,1007.278546,989.807816,-17.470731,0.047619,0.397034,50.0,22
-1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,rubens-barrichello,Rubens Barrichello,stewart,DSQ,64,7,2,22,1032.622129,1011.035165,-21.586964,0.0,0.431739,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,635,mika-hakkinen,Mika Häkkinen,mclaren,1,65,1,0,1,1223.345751,1238.884124,15.538373,1.0,0.689233,50.0,22
+1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,635,david-coulthard,David Coulthard,mclaren,2,65,3,0,2,1162.614236,1179.657721,17.043486,0.952381,0.611511,50.0,22
+1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,635,michael-schumacher,Michael Schumacher,ferrari,3,65,4,0,3,1321.779124,1327.170002,5.390878,0.904762,0.796944,50.0,22
+1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,635,eddie-irvine,Eddie Irvine,ferrari,4,65,2,0,4,1226.327928,1234.542314,8.214386,0.857143,0.692855,50.0,22
+1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,635,ralf-schumacher,Ralf Schumacher,williams,5,65,10,0,5,1084.58265,1099.848579,15.265929,0.809524,0.504205,50.0,22
+1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,635,jarno-trulli,Jarno Trulli,prost,6,64,9,0,6,992.229996,1011.485638,19.255642,0.761905,0.376792,50.0,22
+1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,635,damon-hill,Damon Hill,jordan,7,64,11,0,7,1084.228104,1094.756933,10.528829,0.714286,0.503709,50.0,22
+1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,635,mika-salo,Mika Salo,bar,8,64,16,0,8,966.10741,982.315802,16.208392,0.666667,0.342499,50.0,22
+1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,635,giancarlo-fisichella,Giancarlo Fisichella,benetton,9,64,13,0,9,1175.679189,1175.191496,-0.487693,0.619048,0.628801,50.0,22
+1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,635,alexander-wurz,Alexander Wurz,benetton,10,64,18,0,10,1095.563538,1098.157119,2.593582,0.571429,0.519557,50.0,22
+1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,635,pedro-de-la-rosa,Pedro de la Rosa,arrows,11,63,19,0,11,998.758316,1005.672076,6.913761,0.52381,0.385534,50.0,22
+1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,635,toranosuke-takagi,Toranosuke Takagi,arrows,12,62,20,0,12,1002.481419,1006.76358,4.282161,0.47619,0.390547,50.0,22
+1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,635,luca-badoer,Luca Badoer,minardi,DNF,50,22,1,13,975.905256,979.5727,3.667443,0.428571,0.355223,50.0,22
+1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,635,jacques-villeneuve,Jacques Villeneuve,bar,DNF,40,6,1,14,1137.886843,1125.647544,-12.239299,0.333333,0.578119,50.0,22
+1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,635,johnny-herbert,Johnny Herbert,stewart,DNF,40,14,1,15,999.340528,996.691346,-2.649181,0.333333,0.386317,50.0,22
+1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,635,pedro-diniz,Pedro Diniz,sauber,DNF,40,12,1,16,962.154979,961.950785,-0.204194,0.333333,0.337417,50.0,22
+1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,635,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,DNF,35,8,1,17,1189.553231,1169.1156,-20.437631,0.238095,0.646848,50.0,22
+1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,635,jean-alesi,Jean Alesi,sauber,DNF,27,5,1,18,1141.801707,1122.152668,-19.649038,0.190476,0.583457,50.0,22
+1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,635,alex-zanardi,Alex Zanardi,williams,DNF,24,17,1,19,1006.13509,992.31323,-13.821861,0.119048,0.395485,50.0,22
+1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,635,olivier-panis,Olivier Panis,prost,DNF,24,15,1,20,1043.03897,1026.682703,-16.356268,0.119048,0.446173,50.0,22
+1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,635,marc-gene,Marc Gené,minardi,DNF,0,21,1,21,1007.278546,989.807816,-17.470731,0.047619,0.397034,50.0,22
+1999,5,1999-05-30,spain,Gran Premio Marlboro de España 1999,635,rubens-barrichello,Rubens Barrichello,stewart,DSQ,64,7,2,22,1032.622129,1011.035165,-21.586964,0.0,0.431739,50.0,22

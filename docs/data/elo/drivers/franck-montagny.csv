@@ -1,8 +1,8 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-2006-05-07,2006,5,europe,super-aguri,Super Aguri,DNF,29,22,1000.0,993.920122,-6.079878,0.238095,0.359693,50.0
-2006-05-14,2006,6,spain,super-aguri,Super Aguri,DNF,10,22,993.920122,976.307339,-17.612782,0.0,0.352256,50.0
-2006-05-28,2006,7,monaco,super-aguri,Super Aguri,16,75,22,976.307339,974.052705,-2.254635,0.285714,0.330807,50.0
-2006-06-11,2006,8,great-britain,super-aguri,Super Aguri,18,57,22,974.052705,967.164552,-6.888153,0.190476,0.328239,50.0
-2006-06-25,2006,9,canada,super-aguri,Super Aguri,DNF,2,22,967.164552,955.898145,-11.266407,0.095238,0.320566,50.0
-2006-07-02,2006,10,united-states,super-aguri,Super Aguri,DNF,0,22,955.898145,947.662809,-8.235336,0.142857,0.307564,50.0
-2006-07-16,2006,11,france,super-aguri,Super Aguri,16,67,22,947.662809,946.572931,-1.089877,0.285714,0.307512,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+2006-05-07,2006,5,europe,755,super-aguri,Super Aguri,DNF,29,22,1000.0,993.920122,-6.079878,0.238095,0.359693,50.0
+2006-05-14,2006,6,spain,756,super-aguri,Super Aguri,DNF,10,22,993.920122,976.307339,-17.612782,0.0,0.352256,50.0
+2006-05-28,2006,7,monaco,757,super-aguri,Super Aguri,16,75,22,976.307339,974.052705,-2.254635,0.285714,0.330807,50.0
+2006-06-11,2006,8,great-britain,758,super-aguri,Super Aguri,18,57,22,974.052705,967.164552,-6.888153,0.190476,0.328239,50.0
+2006-06-25,2006,9,canada,759,super-aguri,Super Aguri,DNF,2,22,967.164552,955.898145,-11.266407,0.095238,0.320566,50.0
+2006-07-02,2006,10,united-states,760,super-aguri,Super Aguri,DNF,0,22,955.898145,947.662809,-8.235336,0.142857,0.307564,50.0
+2006-07-16,2006,11,france,761,super-aguri,Super Aguri,16,67,22,947.662809,946.572931,-1.089877,0.285714,0.307512,50.0

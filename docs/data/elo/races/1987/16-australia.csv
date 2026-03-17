@@ -1,28 +1,28 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,gerhard-berger,Gerhard Berger,ferrari,1,82,1,0,1,1092.283511,1114.32859,22.04508,1.0,0.559098,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,michele-alboreto,Michele Alboreto,ferrari,2,82,6,0,2,1054.738598,1077.447868,22.70927,0.961538,0.507353,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,thierry-boutsen,Thierry Boutsen,benetton,3,81,5,0,3,1121.97407,1138.169516,16.195445,0.923077,0.599168,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,jonathan-palmer,Jonathan Palmer,tyrrell,4,80,19,0,4,1097.976836,1113.864746,15.88791,0.884615,0.566857,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,yannick-dalmas,Yannick Dalmas,lola,5,79,21,0,5,1016.405481,1036.002826,19.597344,0.846154,0.454207,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,roberto-moreno,Roberto Moreno,ags,6,79,25,0,6,978.516862,998.781974,20.265112,0.807692,0.40239,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,christian-danner,Christian Danner,zakspeed,7,79,24,0,7,963.723759,983.056901,19.333142,0.769231,0.382568,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,andrea-de-cesaris,Andrea de Cesaris,brabham,8,78,10,0,8,917.452818,937.849695,20.396877,0.730769,0.322832,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,riccardo-patrese,Riccardo Patrese,williams,9,76,7,0,9,1008.16067,1020.634277,12.473607,0.692308,0.442836,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,ivan-capelli,Ivan Capelli,march,DNF,58,23,1,10,1001.405969,1011.459143,10.053174,0.634615,0.433552,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,nelson-piquet,Nelson Piquet,williams,DNF,58,3,1,11,1298.78346,1290.411154,-8.372306,0.634615,0.802061,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,alain-prost,Alain Prost,mclaren,DNF,53,2,1,12,1258.679659,1248.423216,-10.256442,0.557692,0.762821,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,eddie-cheever,Eddie Cheever,arrows,DNF,53,11,1,13,1053.599898,1056.195821,2.595924,0.557692,0.505774,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,stefan-johansson,Stefan Johansson,mclaren,DNF,48,8,1,14,1179.342608,1170.702304,-8.640304,0.5,0.672806,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,adrian-campos,Adrián Campos,minardi,DNF,46,26,1,15,926.367458,931.78137,5.413912,0.442308,0.334029,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,teo-fabi,Teo Fabi,benetton,DNF,46,9,1,16,1060.779936,1057.109014,-3.670921,0.442308,0.515726,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,philippe-alliot,Philippe Alliot,lola,DNF,45,17,1,17,1011.661891,1008.509676,-3.152215,0.384615,0.44766,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,rene-arnoux,René Arnoux,ligier,DNF,41,20,1,18,1066.545834,1057.668223,-8.87761,0.346154,0.523706,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,stefano-modena,Stefano Modena,brabham,DNF,31,15,1,19,1000.0,993.803424,-6.196576,0.307692,0.431624,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,piercarlo-ghinzani,Piercarlo Ghinzani,ligier,DNF,26,22,1,20,950.819843,946.004759,-4.815083,0.269231,0.365532,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,satoru-nakajima,Satoru Nakajima,lotus,DNF,22,14,1,21,1052.341262,1038.678325,-13.662936,0.230769,0.504028,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,derek-warwick,Derek Warwick,arrows,DNF,19,12,1,22,1039.092204,1024.425586,-14.666618,0.192308,0.48564,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,martin-brundle,Martin Brundle,zakspeed,DNF,18,16,1,23,1015.255974,1000.317319,-14.938655,0.153846,0.452619,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,philippe-streiff,Philippe Streiff,tyrrell,DNF,6,18,1,24,1116.680051,1092.844229,-23.835822,0.115385,0.592101,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,alessandro-nannini,Alessandro Nannini,minardi,DNF,0,13,1,25,920.146054,907.682342,-12.463712,0.076923,0.326197,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,ayrton-senna,Ayrton Senna,lotus,DSQ,82,4,2,26,1255.773495,1219.706212,-36.067284,0.038462,0.759807,50.0,27
-1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,alex-caffi,Alex Caffi,osella,DNQ,,,2,27,936.543766,919.193455,-17.350311,0.0,0.347006,50.0,27
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,gerhard-berger,Gerhard Berger,ferrari,1,82,1,0,1,1092.283511,1114.32859,22.04508,1.0,0.559098,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,michele-alboreto,Michele Alboreto,ferrari,2,82,6,0,2,1054.738598,1077.447868,22.70927,0.961538,0.507353,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,thierry-boutsen,Thierry Boutsen,benetton,3,81,5,0,3,1121.97407,1138.169516,16.195445,0.923077,0.599168,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,jonathan-palmer,Jonathan Palmer,tyrrell,4,80,19,0,4,1097.976836,1113.864746,15.88791,0.884615,0.566857,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,yannick-dalmas,Yannick Dalmas,lola,5,79,21,0,5,1016.405481,1036.002826,19.597344,0.846154,0.454207,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,roberto-moreno,Roberto Moreno,ags,6,79,25,0,6,978.516862,998.781974,20.265112,0.807692,0.40239,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,christian-danner,Christian Danner,zakspeed,7,79,24,0,7,963.723759,983.056901,19.333142,0.769231,0.382568,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,andrea-de-cesaris,Andrea de Cesaris,brabham,8,78,10,0,8,917.452818,937.849695,20.396877,0.730769,0.322832,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,riccardo-patrese,Riccardo Patrese,williams,9,76,7,0,9,1008.16067,1020.634277,12.473607,0.692308,0.442836,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,ivan-capelli,Ivan Capelli,march,DNF,58,23,1,10,1001.405969,1011.459143,10.053174,0.634615,0.433552,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,nelson-piquet,Nelson Piquet,williams,DNF,58,3,1,11,1298.78346,1290.411154,-8.372306,0.634615,0.802061,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,alain-prost,Alain Prost,mclaren,DNF,53,2,1,12,1258.679659,1248.423216,-10.256442,0.557692,0.762821,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,eddie-cheever,Eddie Cheever,arrows,DNF,53,11,1,13,1053.599898,1056.195821,2.595924,0.557692,0.505774,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,stefan-johansson,Stefan Johansson,mclaren,DNF,48,8,1,14,1179.342608,1170.702304,-8.640304,0.5,0.672806,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,adrian-campos,Adrián Campos,minardi,DNF,46,26,1,15,926.367458,931.78137,5.413912,0.442308,0.334029,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,teo-fabi,Teo Fabi,benetton,DNF,46,9,1,16,1060.779936,1057.109014,-3.670921,0.442308,0.515726,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,philippe-alliot,Philippe Alliot,lola,DNF,45,17,1,17,1011.661891,1008.509676,-3.152215,0.384615,0.44766,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,rene-arnoux,René Arnoux,ligier,DNF,41,20,1,18,1066.545834,1057.668223,-8.87761,0.346154,0.523706,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,stefano-modena,Stefano Modena,brabham,DNF,31,15,1,19,1000.0,993.803424,-6.196576,0.307692,0.431624,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,piercarlo-ghinzani,Piercarlo Ghinzani,ligier,DNF,26,22,1,20,950.819843,946.004759,-4.815083,0.269231,0.365532,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,satoru-nakajima,Satoru Nakajima,lotus,DNF,22,14,1,21,1052.341262,1038.678325,-13.662936,0.230769,0.504028,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,derek-warwick,Derek Warwick,arrows,DNF,19,12,1,22,1039.092204,1024.425586,-14.666618,0.192308,0.48564,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,martin-brundle,Martin Brundle,zakspeed,DNF,18,16,1,23,1015.255974,1000.317319,-14.938655,0.153846,0.452619,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,philippe-streiff,Philippe Streiff,tyrrell,DNF,6,18,1,24,1116.680051,1092.844229,-23.835822,0.115385,0.592101,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,alessandro-nannini,Alessandro Nannini,minardi,DNF,0,13,1,25,920.146054,907.682342,-12.463712,0.076923,0.326197,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,ayrton-senna,Ayrton Senna,lotus,DSQ,82,4,2,26,1255.773495,1219.706212,-36.067284,0.038462,0.759807,50.0,27
+1987,16,1987-11-15,australia,1987 Foster's Australian Grand Prix,452,alex-caffi,Alex Caffi,osella,DNQ,,,2,27,936.543766,919.193455,-17.350311,0.0,0.347006,50.0,27

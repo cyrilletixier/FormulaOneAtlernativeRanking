@@ -1,22 +1,22 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1958,6,1958-07-06,france,Grand Prix de France 1958,mike-hawthorn,Mike Hawthorn,ferrari,1,50,1,0,1,1129.163602,1148.375176,19.211573,1.0,0.615769,50.0,21
-1958,6,1958-07-06,france,Grand Prix de France 1958,stirling-moss,Stirling Moss,vanwall,2,50,6,0,2,1162.312408,1176.799785,14.487378,0.95,0.660252,50.0,21
-1958,6,1958-07-06,france,Grand Prix de France 1958,wolfgang-von-trips,Wolfgang von Trips,ferrari,3,50,21,0,3,1030.81459,1052.048847,21.234257,0.9,0.475315,50.0,21
-1958,6,1958-07-06,france,Grand Prix de France 1958,juan-manuel-fangio,Juan Manuel Fangio,maserati,4,50,8,0,4,1310.545974,1311.812021,1.266046,0.85,0.824679,50.0,21
-1958,6,1958-07-06,france,Grand Prix de France 1958,peter-collins,Peter Collins,ferrari,5,50,4,0,5,1035.928898,1051.792252,15.863353,0.8,0.482733,50.0,21
-1958,6,1958-07-06,france,Grand Prix de France 1958,jack-brabham,Jack Brabham,cooper,6,49,12,0,6,1014.549355,1029.460269,14.910915,0.75,0.451782,50.0,21
-1958,6,1958-07-06,france,Grand Prix de France 1958,phil-hill,Phil Hill,maserati,7,49,13,0,7,1000.0,1013.45675,13.45675,0.7,0.430865,50.0,21
-1958,6,1958-07-06,france,Grand Prix de France 1958,jo-bonnier,Jo Bonnier,maserati,8,48,16,0,8,970.910335,983.925811,13.015476,0.65,0.38969,50.0,21
-1958,6,1958-07-06,france,Grand Prix de France 1958,gerino-gerini,Gerino Gerini,maserati,9,47,15,0,9,1003.335706,1011.55342,8.217714,0.6,0.435646,50.0,21
-1958,6,1958-07-06,france,Grand Prix de France 1958,troy-ruttman,Troy Ruttman,maserati,10,45,18,0,10,990.115696,996.7776,6.661904,0.55,0.416762,50.0,21
-1958,6,1958-07-06,france,Grand Prix de France 1958,roy-salvadori,Roy Salvadori,cooper,11,37,14,0,11,975.657079,980.840323,5.183243,0.5,0.396335,50.0,21
-1958,6,1958-07-06,france,Grand Prix de France 1958,harry-schell,Harry Schell,brm,DNF,41,3,1,12,1095.33997,1088.168135,-7.171834,0.425,0.568437,50.0,21
-1958,6,1958-07-06,france,Grand Prix de France 1958,jean-behra,Jean Behra,brm,DNF,41,9,1,13,1076.161206,1070.361735,-5.799471,0.425,0.540989,50.0,21
-1958,6,1958-07-06,france,Grand Prix de France 1958,stuart-lewis-evans,Stuart Lewis-Evans,vanwall,DNF,35,10,1,14,1014.836609,1009.726799,-5.10981,0.35,0.452196,50.0,21
-1958,6,1958-07-06,france,Grand Prix de France 1958,graham-hill,Graham Hill,lotus,DNF,33,19,1,15,995.979531,989.723703,-6.255828,0.3,0.425117,50.0,21
-1958,6,1958-07-06,france,Grand Prix de France 1958,paco-godia,Paco Godia,maserati,DNF,28,11,1,16,1012.940101,1002.967069,-9.973032,0.25,0.449461,50.0,21
-1958,6,1958-07-06,france,Grand Prix de France 1958,maurice-trintignant,Maurice Trintignant,brm,DNF,23,7,1,17,1066.500745,1050.147996,-16.352748,0.2,0.527055,50.0,21
-1958,6,1958-07-06,france,Grand Prix de France 1958,tony-brooks,Tony Brooks,vanwall,DNF,16,5,1,18,1025.094463,1009.243153,-15.85131,0.15,0.467026,50.0,21
-1958,6,1958-07-06,france,Grand Prix de France 1958,carroll-shelby,Carroll Shelby,maserati,DNF,9,17,1,19,1000.0,982.20675,-17.79325,0.075,0.430865,50.0,21
-1958,6,1958-07-06,france,Grand Prix de France 1958,luigi-musso,Luigi Musso,ferrari,DNF,9,2,1,20,1090.694783,1066.353741,-24.341043,0.075,0.561821,50.0,21
-1958,6,1958-07-06,france,Grand Prix de France 1958,cliff-allison,Cliff Allison,lotus,DNF,6,20,1,21,1045.901218,1021.040935,-24.860283,0.0,0.497206,50.0,21
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1958,6,1958-07-06,france,Grand Prix de France 1958,70,mike-hawthorn,Mike Hawthorn,ferrari,1,50,1,0,1,1129.163602,1148.375176,19.211573,1.0,0.615769,50.0,21
+1958,6,1958-07-06,france,Grand Prix de France 1958,70,stirling-moss,Stirling Moss,vanwall,2,50,6,0,2,1162.312408,1176.799785,14.487378,0.95,0.660252,50.0,21
+1958,6,1958-07-06,france,Grand Prix de France 1958,70,wolfgang-von-trips,Wolfgang von Trips,ferrari,3,50,21,0,3,1030.81459,1052.048847,21.234257,0.9,0.475315,50.0,21
+1958,6,1958-07-06,france,Grand Prix de France 1958,70,juan-manuel-fangio,Juan Manuel Fangio,maserati,4,50,8,0,4,1310.545974,1311.812021,1.266046,0.85,0.824679,50.0,21
+1958,6,1958-07-06,france,Grand Prix de France 1958,70,peter-collins,Peter Collins,ferrari,5,50,4,0,5,1035.928898,1051.792252,15.863353,0.8,0.482733,50.0,21
+1958,6,1958-07-06,france,Grand Prix de France 1958,70,jack-brabham,Jack Brabham,cooper,6,49,12,0,6,1014.549355,1029.460269,14.910915,0.75,0.451782,50.0,21
+1958,6,1958-07-06,france,Grand Prix de France 1958,70,phil-hill,Phil Hill,maserati,7,49,13,0,7,1000.0,1013.45675,13.45675,0.7,0.430865,50.0,21
+1958,6,1958-07-06,france,Grand Prix de France 1958,70,jo-bonnier,Jo Bonnier,maserati,8,48,16,0,8,970.910335,983.925811,13.015476,0.65,0.38969,50.0,21
+1958,6,1958-07-06,france,Grand Prix de France 1958,70,gerino-gerini,Gerino Gerini,maserati,9,47,15,0,9,1003.335706,1011.55342,8.217714,0.6,0.435646,50.0,21
+1958,6,1958-07-06,france,Grand Prix de France 1958,70,troy-ruttman,Troy Ruttman,maserati,10,45,18,0,10,990.115696,996.7776,6.661904,0.55,0.416762,50.0,21
+1958,6,1958-07-06,france,Grand Prix de France 1958,70,roy-salvadori,Roy Salvadori,cooper,11,37,14,0,11,975.657079,980.840323,5.183243,0.5,0.396335,50.0,21
+1958,6,1958-07-06,france,Grand Prix de France 1958,70,harry-schell,Harry Schell,brm,DNF,41,3,1,12,1095.33997,1088.168135,-7.171834,0.425,0.568437,50.0,21
+1958,6,1958-07-06,france,Grand Prix de France 1958,70,jean-behra,Jean Behra,brm,DNF,41,9,1,13,1076.161206,1070.361735,-5.799471,0.425,0.540989,50.0,21
+1958,6,1958-07-06,france,Grand Prix de France 1958,70,stuart-lewis-evans,Stuart Lewis-Evans,vanwall,DNF,35,10,1,14,1014.836609,1009.726799,-5.10981,0.35,0.452196,50.0,21
+1958,6,1958-07-06,france,Grand Prix de France 1958,70,graham-hill,Graham Hill,lotus,DNF,33,19,1,15,995.979531,989.723703,-6.255828,0.3,0.425117,50.0,21
+1958,6,1958-07-06,france,Grand Prix de France 1958,70,paco-godia,Paco Godia,maserati,DNF,28,11,1,16,1012.940101,1002.967069,-9.973032,0.25,0.449461,50.0,21
+1958,6,1958-07-06,france,Grand Prix de France 1958,70,maurice-trintignant,Maurice Trintignant,brm,DNF,23,7,1,17,1066.500745,1050.147996,-16.352748,0.2,0.527055,50.0,21
+1958,6,1958-07-06,france,Grand Prix de France 1958,70,tony-brooks,Tony Brooks,vanwall,DNF,16,5,1,18,1025.094463,1009.243153,-15.85131,0.15,0.467026,50.0,21
+1958,6,1958-07-06,france,Grand Prix de France 1958,70,carroll-shelby,Carroll Shelby,maserati,DNF,9,17,1,19,1000.0,982.20675,-17.79325,0.075,0.430865,50.0,21
+1958,6,1958-07-06,france,Grand Prix de France 1958,70,luigi-musso,Luigi Musso,ferrari,DNF,9,2,1,20,1090.694783,1066.353741,-24.341043,0.075,0.561821,50.0,21
+1958,6,1958-07-06,france,Grand Prix de France 1958,70,cliff-allison,Cliff Allison,lotus,DNF,6,20,1,21,1045.901218,1021.040935,-24.860283,0.0,0.497206,50.0,21

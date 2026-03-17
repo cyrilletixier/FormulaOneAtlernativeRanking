@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,david-coulthard,David Coulthard,mclaren,1,71,7,0,1,1302.532822,1313.174125,10.641304,1.0,0.787174,50.0,22
-2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,michael-schumacher,Michael Schumacher,ferrari,2,71,1,0,2,1311.666723,1319.488015,7.821292,0.952381,0.795955,50.0,22
-2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,rubens-barrichello,Rubens Barrichello,ferrari,3,71,4,0,3,1191.915563,1203.96745,12.051887,0.904762,0.663724,50.0,22
-2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,kimi-raikkonen,Kimi Räikkönen,sauber,4,71,9,0,4,999.08349,1021.795196,22.711707,0.857143,0.402909,50.0,22
-2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,olivier-panis,Olivier Panis,bar,5,71,10,0,5,1069.49943,1084.972973,15.473543,0.809524,0.500053,50.0,22
-2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,jos-verstappen,Jos Verstappen,arrows,6,70,16,0,6,984.445653,1003.38025,18.934597,0.761905,0.383213,50.0,22
-2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,eddie-irvine,Eddie Irvine,jaguar,7,70,13,0,7,1101.307422,1109.818035,8.510613,0.714286,0.544073,50.0,22
-2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,jacques-villeneuve,Jacques Villeneuve,bar,8,70,12,0,8,1108.44474,1114.084549,5.639809,0.666667,0.55387,50.0,22
-2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,nick-heidfeld,Nick Heidfeld,sauber,9,69,6,0,9,1023.473342,1032.613755,9.140412,0.619048,0.436239,50.0,22
-2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,jean-alesi,Jean Alesi,prost,10,69,20,0,10,1027.975926,1034.425064,6.449139,0.571429,0.442446,50.0,22
-2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,luciano-burti,Luciano Burti,prost,11,69,17,0,11,1023.383509,1027.768201,4.384692,0.52381,0.436116,50.0,22
-2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,jenson-button,Jenson Button,benetton,DNF,60,21,1,12,1053.27029,1053.205017,-0.065273,0.47619,0.477496,50.0,22
-2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,pedro-de-la-rosa,Pedro de la Rosa,jaguar,DNF,48,14,1,13,926.244367,932.257179,6.012812,0.428571,0.308315,50.0,22
-2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,41,2,1,14,1009.912205,1008.07788,-1.834324,0.380952,0.417639,50.0,22
-2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,fernando-alonso,Fernando Alonso,minardi,DNF,38,18,1,15,974.805713,972.952349,-1.853364,0.333333,0.370401,50.0,22
-2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,tarso-marques,Tarso Marques,minardi,DNF,25,22,1,16,941.092119,939.037329,-2.05479,0.285714,0.32681,50.0,22
-2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,enrique-bernoldi,Enrique Bernoldi,arrows,DNF,17,15,1,17,956.76816,951.331756,-5.436403,0.238095,0.346823,50.0,22
-2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,ralf-schumacher,Ralf Schumacher,williams,DNF,10,3,1,18,1119.41475,1100.496457,-18.918293,0.190476,0.568842,50.0,22
-2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,3,19,1,19,1051.124462,1034.541589,-16.582873,0.142857,0.474515,50.0,22
-2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,mika-hakkinen,Mika Häkkinen,mclaren,DNF,1,8,1,20,1251.811375,1219.855744,-31.955632,0.095238,0.734351,50.0,22
-2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,DNF,0,11,1,21,1092.590838,1068.368834,-24.222004,0.047619,0.532059,50.0,22
-2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,jarno-trulli,Jarno Trulli,jordan,DSQ,14,5,2,22,1067.285942,1042.437091,-24.848851,0.0,0.496977,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,669,david-coulthard,David Coulthard,mclaren,1,71,7,0,1,1302.532822,1313.174125,10.641304,1.0,0.787174,50.0,22
+2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,669,michael-schumacher,Michael Schumacher,ferrari,2,71,1,0,2,1311.666723,1319.488015,7.821292,0.952381,0.795955,50.0,22
+2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,669,rubens-barrichello,Rubens Barrichello,ferrari,3,71,4,0,3,1191.915563,1203.96745,12.051887,0.904762,0.663724,50.0,22
+2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,669,kimi-raikkonen,Kimi Räikkönen,sauber,4,71,9,0,4,999.08349,1021.795196,22.711707,0.857143,0.402909,50.0,22
+2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,669,olivier-panis,Olivier Panis,bar,5,71,10,0,5,1069.49943,1084.972973,15.473543,0.809524,0.500053,50.0,22
+2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,669,jos-verstappen,Jos Verstappen,arrows,6,70,16,0,6,984.445653,1003.38025,18.934597,0.761905,0.383213,50.0,22
+2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,669,eddie-irvine,Eddie Irvine,jaguar,7,70,13,0,7,1101.307422,1109.818035,8.510613,0.714286,0.544073,50.0,22
+2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,669,jacques-villeneuve,Jacques Villeneuve,bar,8,70,12,0,8,1108.44474,1114.084549,5.639809,0.666667,0.55387,50.0,22
+2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,669,nick-heidfeld,Nick Heidfeld,sauber,9,69,6,0,9,1023.473342,1032.613755,9.140412,0.619048,0.436239,50.0,22
+2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,669,jean-alesi,Jean Alesi,prost,10,69,20,0,10,1027.975926,1034.425064,6.449139,0.571429,0.442446,50.0,22
+2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,669,luciano-burti,Luciano Burti,prost,11,69,17,0,11,1023.383509,1027.768201,4.384692,0.52381,0.436116,50.0,22
+2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,669,jenson-button,Jenson Button,benetton,DNF,60,21,1,12,1053.27029,1053.205017,-0.065273,0.47619,0.477496,50.0,22
+2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,669,pedro-de-la-rosa,Pedro de la Rosa,jaguar,DNF,48,14,1,13,926.244367,932.257179,6.012812,0.428571,0.308315,50.0,22
+2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,669,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,41,2,1,14,1009.912205,1008.07788,-1.834324,0.380952,0.417639,50.0,22
+2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,669,fernando-alonso,Fernando Alonso,minardi,DNF,38,18,1,15,974.805713,972.952349,-1.853364,0.333333,0.370401,50.0,22
+2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,669,tarso-marques,Tarso Marques,minardi,DNF,25,22,1,16,941.092119,939.037329,-2.05479,0.285714,0.32681,50.0,22
+2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,669,enrique-bernoldi,Enrique Bernoldi,arrows,DNF,17,15,1,17,956.76816,951.331756,-5.436403,0.238095,0.346823,50.0,22
+2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,669,ralf-schumacher,Ralf Schumacher,williams,DNF,10,3,1,18,1119.41475,1100.496457,-18.918293,0.190476,0.568842,50.0,22
+2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,669,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,3,19,1,19,1051.124462,1034.541589,-16.582873,0.142857,0.474515,50.0,22
+2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,669,mika-hakkinen,Mika Häkkinen,mclaren,DNF,1,8,1,20,1251.811375,1219.855744,-31.955632,0.095238,0.734351,50.0,22
+2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,669,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,DNF,0,11,1,21,1092.590838,1068.368834,-24.222004,0.047619,0.532059,50.0,22
+2001,6,2001-05-13,austria,Grosser A1 Preis von Österreich 2001,669,jarno-trulli,Jarno Trulli,jordan,DSQ,14,5,2,22,1067.285942,1042.437091,-24.848851,0.0,0.496977,50.0,22

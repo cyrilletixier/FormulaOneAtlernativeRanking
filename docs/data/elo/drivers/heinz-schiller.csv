@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1962-08-05,1962,6,germany,lotus,Lotus,DNF,4,30,1000.0,989.926297,-10.073703,0.258621,0.460095,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1962-08-05,1962,6,germany,108,lotus,Lotus,DNF,4,30,1000.0,989.926297,-10.073703,0.258621,0.460095,50.0

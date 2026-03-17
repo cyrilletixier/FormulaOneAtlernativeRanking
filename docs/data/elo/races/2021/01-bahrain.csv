@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,lewis-hamilton,Lewis Hamilton,mercedes,1,56,2,0,1,1594.415108,1598.018143,3.603035,1.0,0.927939,50.0,20
-2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,max-verstappen,Max Verstappen,red-bull,2,56,1,0,2,1305.804744,1317.481631,11.676887,0.947368,0.713831,50.0,20
-2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,valtteri-bottas,Valtteri Bottas,mercedes,3,56,3,0,3,1382.804362,1388.079269,5.274906,0.894737,0.789239,50.0,20
-2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,lando-norris,Lando Norris,mclaren,4,56,7,0,4,1178.142401,1192.105703,13.963302,0.842105,0.562839,50.0,20
-2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,sergio-perez,Sergio Pérez,red-bull,5,56,PL,0,5,1205.874453,1215.46055,9.586097,0.789474,0.597752,50.0,20
-2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,charles-leclerc,Charles Leclerc,ferrari,6,56,4,0,6,1191.986942,1199.810303,7.82336,0.736842,0.580375,50.0,20
-2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,daniel-ricciardo,Daniel Ricciardo,mclaren,7,56,6,0,7,1225.035037,1228.179786,3.144749,0.684211,0.621316,50.0,20
-2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,8,56,8,0,8,1201.699678,1203.651001,1.951324,0.631579,0.592552,50.0,20
-2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,yuki-tsunoda,Yuki Tsunoda,alphatauri,9,56,13,0,9,1000.0,1012.208462,12.208462,0.578947,0.334778,50.0,20
-2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,lance-stroll,Lance Stroll,aston-martin,10,56,10,0,10,1086.753564,1090.850796,4.097232,0.526316,0.444371,50.0,20
-2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,11,56,14,0,11,1068.331143,1070.989009,2.657867,0.473684,0.420527,50.0,20
-2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,12,55,12,0,12,972.460798,978.408624,5.947826,0.421053,0.302096,50.0,20
-2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,esteban-ocon,Esteban Ocon,alpine,13,55,16,0,13,1125.848093,1119.503962,-6.344131,0.368421,0.495304,50.0,20
-2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,george-russell,George Russell,williams,14,55,15,0,14,937.75244,940.392463,2.640023,0.315789,0.262989,50.0,20
-2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,sebastian-vettel,Sebastian Vettel,aston-martin,15,55,20,0,15,1172.512113,1157.88726,-14.624853,0.263158,0.555655,50.0,20
-2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,mick-schumacher,Mick Schumacher,haas,16,55,18,0,16,1000.0,993.78741,-6.21259,0.210526,0.334778,50.0,20
-2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,pierre-gasly,Pierre Gasly,alphatauri,17,52,5,0,17,1142.19848,1124.264619,-17.933861,0.157895,0.516572,50.0,20
-2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,nicholas-latifi,Nicholas Latifi,williams,18,51,17,0,18,940.803457,932.750395,-8.053062,0.105263,0.266324,50.0,20
-2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,fernando-alonso,Fernando Alonso,alpine,DNF,32,9,1,19,1009.205166,994.537498,-14.667667,0.052632,0.345985,50.0,20
-2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,nikita-mazepin,Nikita Mazepin,haas,DNF,0,19,1,20,1000.0,983.261094,-16.738906,0.0,0.334778,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,1036,lewis-hamilton,Lewis Hamilton,mercedes,1,56,2,0,1,1594.415108,1598.018143,3.603035,1.0,0.927939,50.0,20
+2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,1036,max-verstappen,Max Verstappen,red-bull,2,56,1,0,2,1305.804744,1317.481631,11.676887,0.947368,0.713831,50.0,20
+2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,1036,valtteri-bottas,Valtteri Bottas,mercedes,3,56,3,0,3,1382.804362,1388.079269,5.274906,0.894737,0.789239,50.0,20
+2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,1036,lando-norris,Lando Norris,mclaren,4,56,7,0,4,1178.142401,1192.105703,13.963302,0.842105,0.562839,50.0,20
+2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,1036,sergio-perez,Sergio Pérez,red-bull,5,56,PL,0,5,1205.874453,1215.46055,9.586097,0.789474,0.597752,50.0,20
+2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,1036,charles-leclerc,Charles Leclerc,ferrari,6,56,4,0,6,1191.986942,1199.810303,7.82336,0.736842,0.580375,50.0,20
+2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,1036,daniel-ricciardo,Daniel Ricciardo,mclaren,7,56,6,0,7,1225.035037,1228.179786,3.144749,0.684211,0.621316,50.0,20
+2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,1036,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,8,56,8,0,8,1201.699678,1203.651001,1.951324,0.631579,0.592552,50.0,20
+2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,1036,yuki-tsunoda,Yuki Tsunoda,alphatauri,9,56,13,0,9,1000.0,1012.208462,12.208462,0.578947,0.334778,50.0,20
+2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,1036,lance-stroll,Lance Stroll,aston-martin,10,56,10,0,10,1086.753564,1090.850796,4.097232,0.526316,0.444371,50.0,20
+2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,1036,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,11,56,14,0,11,1068.331143,1070.989009,2.657867,0.473684,0.420527,50.0,20
+2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,1036,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,12,55,12,0,12,972.460798,978.408624,5.947826,0.421053,0.302096,50.0,20
+2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,1036,esteban-ocon,Esteban Ocon,alpine,13,55,16,0,13,1125.848093,1119.503962,-6.344131,0.368421,0.495304,50.0,20
+2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,1036,george-russell,George Russell,williams,14,55,15,0,14,937.75244,940.392463,2.640023,0.315789,0.262989,50.0,20
+2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,1036,sebastian-vettel,Sebastian Vettel,aston-martin,15,55,20,0,15,1172.512113,1157.88726,-14.624853,0.263158,0.555655,50.0,20
+2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,1036,mick-schumacher,Mick Schumacher,haas,16,55,18,0,16,1000.0,993.78741,-6.21259,0.210526,0.334778,50.0,20
+2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,1036,pierre-gasly,Pierre Gasly,alphatauri,17,52,5,0,17,1142.19848,1124.264619,-17.933861,0.157895,0.516572,50.0,20
+2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,1036,nicholas-latifi,Nicholas Latifi,williams,18,51,17,0,18,940.803457,932.750395,-8.053062,0.105263,0.266324,50.0,20
+2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,1036,fernando-alonso,Fernando Alonso,alpine,DNF,32,9,1,19,1009.205166,994.537498,-14.667667,0.052632,0.345985,50.0,20
+2021,1,2021-03-28,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2021,1036,nikita-mazepin,Nikita Mazepin,haas,DNF,0,19,1,20,1000.0,983.261094,-16.738906,0.0,0.334778,50.0,20

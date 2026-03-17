@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,juan-pablo-montoya,Juan Pablo Montoya,mclaren,1,71,2,0,1,1197.372974,1216.204043,18.831069,1.0,0.623379,50.0,20
-2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,kimi-raikkonen,Kimi Räikkönen,mclaren,2,71,5,0,2,1244.692357,1257.882631,13.190274,0.947368,0.683563,50.0,20
-2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,fernando-alonso,Fernando Alonso,renault,3,71,1,0,3,1293.813637,1301.496997,7.68336,0.894737,0.74107,50.0,20
-2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,michael-schumacher,Michael Schumacher,ferrari,4,71,7,0,4,1276.792121,1282.807976,6.015855,0.842105,0.721788,50.0,20
-2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,giancarlo-fisichella,Giancarlo Fisichella,renault,5,71,3,0,5,1132.774313,1145.443097,12.668784,0.789474,0.536098,50.0,20
-2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,rubens-barrichello,Rubens Barrichello,ferrari,6,71,9,0,6,1233.540287,1236.894501,3.354214,0.736842,0.669758,50.0,20
-2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,jenson-button,Jenson Button,bar,7,70,4,0,7,1192.780031,1196.12387,3.343838,0.684211,0.617334,50.0,20
-2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,ralf-schumacher,Ralf Schumacher,toyota,8,70,10,0,8,1186.238114,1187.383491,1.145377,0.631579,0.608671,50.0,20
-2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,christian-klien,Christian Klien,red-bull,9,70,6,0,9,1009.783846,1020.322697,10.538851,0.578947,0.36817,50.0,20
-2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,takuma-sato,Takuma Sato,bar,10,70,19,0,10,1029.631073,1036.224309,6.593235,0.526316,0.394451,50.0,20
-2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,felipe-massa,Felipe Massa,sauber,11,70,8,0,11,1066.585249,1068.038952,1.453703,0.473684,0.44461,50.0,20
-2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,jacques-villeneuve,Jacques Villeneuve,sauber,12,70,PL,0,12,1050.389348,1050.31862,-0.070728,0.421053,0.422467,50.0,20
-2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,jarno-trulli,Jarno Trulli,toyota,13,69,17,0,13,1167.38323,1156.634478,-10.748752,0.368421,0.583396,50.0,20
-2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,christijan-albers,Christijan Albers,minardi,14,69,16,0,14,958.288945,958.922681,0.633736,0.315789,0.303115,50.0,20
-2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,narain-karthikeyan,Narain Karthikeyan,jordan,15,68,15,0,15,954.638324,952.860861,-1.777464,0.263158,0.298707,50.0,20
-2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,tiago-monteiro,Tiago Monteiro,jordan,DNF,55,PL,1,16,1005.684032,998.069627,-7.614406,0.210526,0.362814,50.0,20
-2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,mark-webber,Mark Webber,williams,NC,45,12,1,17,1060.808291,1046.868601,-13.939689,0.157895,0.436689,50.0,20
-2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,robert-doornbos,Robert Doornbos,minardi,DNF,34,18,1,18,969.820412,959.222124,-10.598287,0.105263,0.317229,50.0,20
-2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,antonio-pizzonia,Antônio Pizzonia,williams,DNF,0,13,1,19,1026.036683,1007.869913,-18.16677,0.026316,0.389651,50.0,20
-2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,david-coulthard,David Coulthard,red-bull,DNF,0,14,1,20,1090.096497,1067.560295,-22.536202,0.026316,0.47704,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,748,juan-pablo-montoya,Juan Pablo Montoya,mclaren,1,71,2,0,1,1197.372974,1216.204043,18.831069,1.0,0.623379,50.0,20
+2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,748,kimi-raikkonen,Kimi Räikkönen,mclaren,2,71,5,0,2,1244.692357,1257.882631,13.190274,0.947368,0.683563,50.0,20
+2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,748,fernando-alonso,Fernando Alonso,renault,3,71,1,0,3,1293.813637,1301.496997,7.68336,0.894737,0.74107,50.0,20
+2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,748,michael-schumacher,Michael Schumacher,ferrari,4,71,7,0,4,1276.792121,1282.807976,6.015855,0.842105,0.721788,50.0,20
+2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,748,giancarlo-fisichella,Giancarlo Fisichella,renault,5,71,3,0,5,1132.774313,1145.443097,12.668784,0.789474,0.536098,50.0,20
+2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,748,rubens-barrichello,Rubens Barrichello,ferrari,6,71,9,0,6,1233.540287,1236.894501,3.354214,0.736842,0.669758,50.0,20
+2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,748,jenson-button,Jenson Button,bar,7,70,4,0,7,1192.780031,1196.12387,3.343838,0.684211,0.617334,50.0,20
+2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,748,ralf-schumacher,Ralf Schumacher,toyota,8,70,10,0,8,1186.238114,1187.383491,1.145377,0.631579,0.608671,50.0,20
+2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,748,christian-klien,Christian Klien,red-bull,9,70,6,0,9,1009.783846,1020.322697,10.538851,0.578947,0.36817,50.0,20
+2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,748,takuma-sato,Takuma Sato,bar,10,70,19,0,10,1029.631073,1036.224309,6.593235,0.526316,0.394451,50.0,20
+2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,748,felipe-massa,Felipe Massa,sauber,11,70,8,0,11,1066.585249,1068.038952,1.453703,0.473684,0.44461,50.0,20
+2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,748,jacques-villeneuve,Jacques Villeneuve,sauber,12,70,PL,0,12,1050.389348,1050.31862,-0.070728,0.421053,0.422467,50.0,20
+2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,748,jarno-trulli,Jarno Trulli,toyota,13,69,17,0,13,1167.38323,1156.634478,-10.748752,0.368421,0.583396,50.0,20
+2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,748,christijan-albers,Christijan Albers,minardi,14,69,16,0,14,958.288945,958.922681,0.633736,0.315789,0.303115,50.0,20
+2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,748,narain-karthikeyan,Narain Karthikeyan,jordan,15,68,15,0,15,954.638324,952.860861,-1.777464,0.263158,0.298707,50.0,20
+2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,748,tiago-monteiro,Tiago Monteiro,jordan,DNF,55,PL,1,16,1005.684032,998.069627,-7.614406,0.210526,0.362814,50.0,20
+2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,748,mark-webber,Mark Webber,williams,NC,45,12,1,17,1060.808291,1046.868601,-13.939689,0.157895,0.436689,50.0,20
+2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,748,robert-doornbos,Robert Doornbos,minardi,DNF,34,18,1,18,969.820412,959.222124,-10.598287,0.105263,0.317229,50.0,20
+2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,748,antonio-pizzonia,Antônio Pizzonia,williams,DNF,0,13,1,19,1026.036683,1007.869913,-18.16677,0.026316,0.389651,50.0,20
+2005,17,2005-09-25,brazil,Formula 1 Grande Prêmio do Brasil 2005,748,david-coulthard,David Coulthard,red-bull,DNF,0,14,1,20,1090.096497,1067.560295,-22.536202,0.026316,0.47704,50.0,20

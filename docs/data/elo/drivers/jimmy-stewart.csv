@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1953-07-18,1953,6,great-britain,cooper,Cooper,DNF,79,29,1000.0,1008.648327,8.648327,0.642857,0.469891,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1953-07-18,1953,6,great-britain,29,cooper,Cooper,DNF,79,29,1000.0,1008.648327,8.648327,0.642857,0.469891,50.0

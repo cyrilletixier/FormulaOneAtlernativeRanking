@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,max-verstappen,Max Verstappen,red-bull,1,53,1,0,1,1551.053896,1556.362774,5.308878,1.0,0.893822,50.0,20
-2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,lando-norris,Lando Norris,mclaren,2,53,3,0,2,1236.224223,1253.047486,16.823263,0.947368,0.610903,50.0,20
-2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,oscar-piastri,Oscar Piastri,mclaren,3,53,2,0,3,1064.034672,1088.879593,24.844922,0.894737,0.397838,50.0,20
-2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,charles-leclerc,Charles Leclerc,ferrari,4,53,4,0,4,1293.086299,1301.399532,8.313233,0.842105,0.675841,50.0,20
-2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,lewis-hamilton,Lewis Hamilton,mercedes,5,53,7,0,5,1425.063893,1424.313741,-0.750152,0.789474,0.804477,50.0,20
-2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,6,53,6,0,6,1292.126743,1295.229552,3.10281,0.736842,0.674786,50.0,20
-2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,george-russell,George Russell,mercedes,7,53,8,0,7,1236.591655,1240.235319,3.643663,0.684211,0.611337,50.0,20
-2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,fernando-alonso,Fernando Alonso,aston-martin,8,53,10,0,8,1258.815422,1258.531095,-0.284326,0.631579,0.637265,50.0,20
-2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,esteban-ocon,Esteban Ocon,alpine,9,53,14,0,9,1095.538712,1102.633218,7.094507,0.578947,0.437057,50.0,20
-2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,pierre-gasly,Pierre Gasly,alpine,10,53,12,0,10,1112.517382,1115.9152,3.397819,0.526316,0.458359,50.0,20
-2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,liam-lawson,Liam Lawson,alphatauri,11,52,11,0,11,1022.236144,1028.569529,6.333385,0.473684,0.347017,50.0,20
-2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,yuki-tsunoda,Yuki Tsunoda,alphatauri,12,52,9,0,12,975.855536,982.245491,6.389955,0.421053,0.293254,50.0,20
-2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,guanyu-zhou,Guanyu Zhou,alfa-romeo,13,52,19,0,13,993.488537,996.244713,2.756176,0.368421,0.313298,50.0,20
-2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,nico-hulkenberg,Nico Hülkenberg,haas,14,52,18,0,14,1003.859563,1003.382877,-0.476685,0.315789,0.325323,50.0,20
-2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,kevin-magnussen,Kevin Magnussen,haas,15,52,15,0,15,941.474818,941.841918,0.3671,0.263158,0.255816,50.0,20
-2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,alexander-albon,Alexander Albon,williams,DNF,26,13,1,16,1085.752486,1075.037829,-10.714657,0.210526,0.424819,50.0,20
-2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,logan-sargeant,Logan Sargeant,williams,DNF,22,20,1,17,938.361419,933.629016,-4.732403,0.157895,0.252543,50.0,20
-2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,lance-stroll,Lance Stroll,aston-martin,DNF,20,17,1,18,1083.277591,1067.45419,-15.8234,0.105263,0.421731,50.0,20
-2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,sergio-perez,Sergio Pérez,red-bull,DNF,15,5,1,19,1391.133095,1355.028512,-36.104583,0.052632,0.774723,50.0,20
-2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,valtteri-bottas,Valtteri Bottas,alfa-romeo,DNF,7,16,1,20,1057.505654,1038.01615,-19.489504,0.0,0.38979,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,1095,max-verstappen,Max Verstappen,red-bull,1,53,1,0,1,1551.053896,1556.362774,5.308878,1.0,0.893822,50.0,20
+2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,1095,lando-norris,Lando Norris,mclaren,2,53,3,0,2,1236.224223,1253.047486,16.823263,0.947368,0.610903,50.0,20
+2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,1095,oscar-piastri,Oscar Piastri,mclaren,3,53,2,0,3,1064.034672,1088.879593,24.844922,0.894737,0.397838,50.0,20
+2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,1095,charles-leclerc,Charles Leclerc,ferrari,4,53,4,0,4,1293.086299,1301.399532,8.313233,0.842105,0.675841,50.0,20
+2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,1095,lewis-hamilton,Lewis Hamilton,mercedes,5,53,7,0,5,1425.063893,1424.313741,-0.750152,0.789474,0.804477,50.0,20
+2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,1095,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,6,53,6,0,6,1292.126743,1295.229552,3.10281,0.736842,0.674786,50.0,20
+2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,1095,george-russell,George Russell,mercedes,7,53,8,0,7,1236.591655,1240.235319,3.643663,0.684211,0.611337,50.0,20
+2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,1095,fernando-alonso,Fernando Alonso,aston-martin,8,53,10,0,8,1258.815422,1258.531095,-0.284326,0.631579,0.637265,50.0,20
+2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,1095,esteban-ocon,Esteban Ocon,alpine,9,53,14,0,9,1095.538712,1102.633218,7.094507,0.578947,0.437057,50.0,20
+2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,1095,pierre-gasly,Pierre Gasly,alpine,10,53,12,0,10,1112.517382,1115.9152,3.397819,0.526316,0.458359,50.0,20
+2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,1095,liam-lawson,Liam Lawson,alphatauri,11,52,11,0,11,1022.236144,1028.569529,6.333385,0.473684,0.347017,50.0,20
+2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,1095,yuki-tsunoda,Yuki Tsunoda,alphatauri,12,52,9,0,12,975.855536,982.245491,6.389955,0.421053,0.293254,50.0,20
+2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,1095,guanyu-zhou,Guanyu Zhou,alfa-romeo,13,52,19,0,13,993.488537,996.244713,2.756176,0.368421,0.313298,50.0,20
+2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,1095,nico-hulkenberg,Nico Hülkenberg,haas,14,52,18,0,14,1003.859563,1003.382877,-0.476685,0.315789,0.325323,50.0,20
+2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,1095,kevin-magnussen,Kevin Magnussen,haas,15,52,15,0,15,941.474818,941.841918,0.3671,0.263158,0.255816,50.0,20
+2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,1095,alexander-albon,Alexander Albon,williams,DNF,26,13,1,16,1085.752486,1075.037829,-10.714657,0.210526,0.424819,50.0,20
+2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,1095,logan-sargeant,Logan Sargeant,williams,DNF,22,20,1,17,938.361419,933.629016,-4.732403,0.157895,0.252543,50.0,20
+2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,1095,lance-stroll,Lance Stroll,aston-martin,DNF,20,17,1,18,1083.277591,1067.45419,-15.8234,0.105263,0.421731,50.0,20
+2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,1095,sergio-perez,Sergio Pérez,red-bull,DNF,15,5,1,19,1391.133095,1355.028512,-36.104583,0.052632,0.774723,50.0,20
+2023,16,2023-09-24,japan,Formula 1 Lenovo Japanese Grand Prix 2023,1095,valtteri-bottas,Valtteri Bottas,alfa-romeo,DNF,7,16,1,20,1057.505654,1038.01615,-19.489504,0.0,0.38979,50.0,20

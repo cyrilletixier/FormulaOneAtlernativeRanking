@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,max-verstappen,Max Verstappen,red-bull,1,56,6,0,1,1561.496194,1566.444263,4.948069,1.0,0.901039,50.0,20
-2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,lando-norris,Lando Norris,mclaren,2,56,2,0,2,1266.261762,1281.504547,15.242785,0.947368,0.642513,50.0,20
-2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,3,56,4,0,3,1261.319833,1274.220585,12.900752,0.894737,0.636722,50.0,20
-2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,sergio-perez,Sergio Pérez,red-bull,4,56,9,0,4,1344.310274,1349.988112,5.677838,0.842105,0.728549,50.0,20
-2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,george-russell,George Russell,mercedes,5,56,5,0,5,1251.568536,1259.782565,8.214029,0.789474,0.625193,50.0,20
-2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,pierre-gasly,Pierre Gasly,alpine,6,56,7,0,6,1113.858665,1128.035565,14.1769,0.736842,0.453304,50.0,20
-2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,lance-stroll,Lance Stroll,aston-martin,7,56,PL,0,7,1071.057837,1085.300169,14.242332,0.684211,0.399364,50.0,20
-2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,yuki-tsunoda,Yuki Tsunoda,alphatauri,8,56,11,0,8,980.400192,997.414719,17.014528,0.631579,0.291288,50.0,20
-2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,alexander-albon,Alexander Albon,williams,9,56,15,0,9,1072.908092,1081.771876,8.863784,0.578947,0.401672,50.0,20
-2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,logan-sargeant,Logan Sargeant,williams,10,56,16,0,10,926.52851,941.155064,14.626553,0.526316,0.233785,50.0,20
-2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,nico-hulkenberg,Nico Hülkenberg,haas,11,56,PL,0,11,997.69156,1005.827843,8.136283,0.473684,0.310959,50.0,20
-2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,valtteri-bottas,Valtteri Bottas,alfa-romeo,12,56,13,0,12,1051.317701,1053.623597,2.305896,0.421053,0.374935,50.0,20
-2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,guanyu-zhou,Guanyu Zhou,alfa-romeo,13,55,12,0,13,1009.388577,1011.581847,2.19327,0.368421,0.324556,50.0,20
-2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,kevin-magnussen,Kevin Magnussen,haas,14,55,PL,0,14,944.838433,947.995916,3.157483,0.315789,0.25264,50.0,20
-2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,daniel-ricciardo,Daniel Ricciardo,alphatauri,15,55,14,0,15,1084.896748,1077.220236,-7.676512,0.263158,0.416688,50.0,20
-2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,fernando-alonso,Fernando Alonso,aston-martin,DNF,49,PL,1,16,1263.532797,1242.093145,-21.439652,0.210526,0.639319,50.0,20
-2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,oscar-piastri,Oscar Piastri,mclaren,DNF,10,10,1,17,1114.834546,1100.002105,-14.832441,0.157895,0.454544,50.0,20
-2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,esteban-ocon,Esteban Ocon,alpine,DNF,6,8,1,18,1114.568869,1097.121722,-17.447147,0.105263,0.454206,50.0,20
-2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,charles-leclerc,Charles Leclerc,ferrari,DSQ,56,1,2,19,1306.626226,1273.523757,-33.102469,0.026316,0.688365,50.0,20
-2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,lewis-hamilton,Lewis Hamilton,mercedes,DSQ,56,3,2,20,1386.732889,1349.530607,-37.202283,0.026316,0.770361,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,1097,max-verstappen,Max Verstappen,red-bull,1,56,6,0,1,1561.496194,1566.444263,4.948069,1.0,0.901039,50.0,20
+2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,1097,lando-norris,Lando Norris,mclaren,2,56,2,0,2,1266.261762,1281.504547,15.242785,0.947368,0.642513,50.0,20
+2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,1097,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,3,56,4,0,3,1261.319833,1274.220585,12.900752,0.894737,0.636722,50.0,20
+2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,1097,sergio-perez,Sergio Pérez,red-bull,4,56,9,0,4,1344.310274,1349.988112,5.677838,0.842105,0.728549,50.0,20
+2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,1097,george-russell,George Russell,mercedes,5,56,5,0,5,1251.568536,1259.782565,8.214029,0.789474,0.625193,50.0,20
+2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,1097,pierre-gasly,Pierre Gasly,alpine,6,56,7,0,6,1113.858665,1128.035565,14.1769,0.736842,0.453304,50.0,20
+2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,1097,lance-stroll,Lance Stroll,aston-martin,7,56,PL,0,7,1071.057837,1085.300169,14.242332,0.684211,0.399364,50.0,20
+2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,1097,yuki-tsunoda,Yuki Tsunoda,alphatauri,8,56,11,0,8,980.400192,997.414719,17.014528,0.631579,0.291288,50.0,20
+2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,1097,alexander-albon,Alexander Albon,williams,9,56,15,0,9,1072.908092,1081.771876,8.863784,0.578947,0.401672,50.0,20
+2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,1097,logan-sargeant,Logan Sargeant,williams,10,56,16,0,10,926.52851,941.155064,14.626553,0.526316,0.233785,50.0,20
+2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,1097,nico-hulkenberg,Nico Hülkenberg,haas,11,56,PL,0,11,997.69156,1005.827843,8.136283,0.473684,0.310959,50.0,20
+2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,1097,valtteri-bottas,Valtteri Bottas,alfa-romeo,12,56,13,0,12,1051.317701,1053.623597,2.305896,0.421053,0.374935,50.0,20
+2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,1097,guanyu-zhou,Guanyu Zhou,alfa-romeo,13,55,12,0,13,1009.388577,1011.581847,2.19327,0.368421,0.324556,50.0,20
+2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,1097,kevin-magnussen,Kevin Magnussen,haas,14,55,PL,0,14,944.838433,947.995916,3.157483,0.315789,0.25264,50.0,20
+2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,1097,daniel-ricciardo,Daniel Ricciardo,alphatauri,15,55,14,0,15,1084.896748,1077.220236,-7.676512,0.263158,0.416688,50.0,20
+2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,1097,fernando-alonso,Fernando Alonso,aston-martin,DNF,49,PL,1,16,1263.532797,1242.093145,-21.439652,0.210526,0.639319,50.0,20
+2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,1097,oscar-piastri,Oscar Piastri,mclaren,DNF,10,10,1,17,1114.834546,1100.002105,-14.832441,0.157895,0.454544,50.0,20
+2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,1097,esteban-ocon,Esteban Ocon,alpine,DNF,6,8,1,18,1114.568869,1097.121722,-17.447147,0.105263,0.454206,50.0,20
+2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,1097,charles-leclerc,Charles Leclerc,ferrari,DSQ,56,1,2,19,1306.626226,1273.523757,-33.102469,0.026316,0.688365,50.0,20
+2023,18,2023-10-22,united-states,Formula 1 Lenovo United States Grand Prix 2023,1097,lewis-hamilton,Lewis Hamilton,mercedes,DSQ,56,3,2,20,1386.732889,1349.530607,-37.202283,0.026316,0.770361,50.0,20

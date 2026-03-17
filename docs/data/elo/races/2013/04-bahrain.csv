@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,1,57,2,0,1,1413.086085,1421.735939,8.649854,1.0,0.827003,50.0,22
-2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,kimi-raikkonen,Kimi Räikkönen,lotus-f1,2,57,8,0,2,1341.267192,1350.795354,9.528162,0.952381,0.761818,50.0,22
-2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,3,57,11,0,3,1078.542855,1101.581313,23.038458,0.904762,0.443993,50.0,22
-2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,paul-di-resta,Paul di Resta,force-india,4,57,5,0,4,1115.691951,1133.912077,18.220127,0.857143,0.49274,50.0,22
-2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,5,57,9,0,5,1241.366267,1249.232862,7.866596,0.809524,0.652192,50.0,22
-2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,sergio-perez,Sergio Pérez,mclaren,6,57,12,0,6,1064.347663,1081.169229,16.821566,0.761905,0.425473,50.0,22
-2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,mark-webber,Mark Webber,red-bull,7,57,7,0,7,1266.812711,1268.427932,1.615221,0.714286,0.681981,50.0,22
-2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,fernando-alonso,Fernando Alonso,ferrari,8,57,3,0,8,1357.454836,1351.909682,-5.545153,0.666667,0.77757,50.0,22
-2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,nico-rosberg,Nico Rosberg,mercedes,9,57,1,0,9,1115.785754,1122.094961,6.309207,0.619048,0.492863,50.0,22
-2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,jenson-button,Jenson Button,mclaren,10,57,10,0,10,1267.652207,1262.076425,-5.575781,0.571429,0.682944,50.0,22
-2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,pastor-maldonado,Pastor Maldonado,williams,11,57,17,0,11,995.13012,1004.433356,9.303236,0.52381,0.337745,50.0,22
-2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,nico-hulkenberg,Nico Hülkenberg,sauber,12,57,14,0,12,1113.768622,1113.067406,-0.701215,0.47619,0.490215,50.0,22
-2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,adrian-sutil,Adrian Sutil,force-india,13,57,6,0,13,1093.026968,1091.306845,-1.720122,0.428571,0.462974,50.0,22
-2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,valtteri-bottas,Valtteri Bottas,williams,14,57,15,0,14,1014.336452,1015.308524,0.972071,0.380952,0.361511,50.0,22
-2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,felipe-massa,Felipe Massa,ferrari,15,57,4,0,15,1286.137406,1267.613833,-18.523573,0.333333,0.703805,50.0,22
-2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,daniel-ricciardo,Daniel Ricciardo,toro-rosso,16,56,13,0,16,1052.916079,1046.669353,-6.246726,0.285714,0.410649,50.0,22
-2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,charles-pic,Charles Pic,caterham,17,56,18,0,17,934.322116,932.887247,-1.434869,0.238095,0.266793,50.0,22
-2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,esteban-gutierrez,Esteban Gutiérrez,sauber,18,56,22,0,18,992.77029,985.550919,-7.219371,0.190476,0.334864,50.0,22
-2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,jules-bianchi,Jules Bianchi,marussia,19,56,19,0,19,1003.012605,992.78384,-10.228766,0.142857,0.347432,50.0,22
-2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,max-chilton,Max Chilton,marussia,20,56,21,0,20,987.350429,975.698282,-11.652147,0.095238,0.328281,50.0,22
-2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,giedo-van-der-garde,Giedo van der Garde,caterham,21,55,20,0,21,985.105645,971.208139,-13.897506,0.047619,0.325569,50.0,22
-2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,DNF,16,16,1,22,1038.094353,1018.515086,-19.579267,0.0,0.391585,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,882,sebastian-vettel,Sebastian Vettel,red-bull,1,57,2,0,1,1413.086085,1421.735939,8.649854,1.0,0.827003,50.0,22
+2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,882,kimi-raikkonen,Kimi Räikkönen,lotus-f1,2,57,8,0,2,1341.267192,1350.795354,9.528162,0.952381,0.761818,50.0,22
+2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,882,romain-grosjean,Romain Grosjean,lotus-f1,3,57,11,0,3,1078.542855,1101.581313,23.038458,0.904762,0.443993,50.0,22
+2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,882,paul-di-resta,Paul di Resta,force-india,4,57,5,0,4,1115.691951,1133.912077,18.220127,0.857143,0.49274,50.0,22
+2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,882,lewis-hamilton,Lewis Hamilton,mercedes,5,57,9,0,5,1241.366267,1249.232862,7.866596,0.809524,0.652192,50.0,22
+2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,882,sergio-perez,Sergio Pérez,mclaren,6,57,12,0,6,1064.347663,1081.169229,16.821566,0.761905,0.425473,50.0,22
+2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,882,mark-webber,Mark Webber,red-bull,7,57,7,0,7,1266.812711,1268.427932,1.615221,0.714286,0.681981,50.0,22
+2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,882,fernando-alonso,Fernando Alonso,ferrari,8,57,3,0,8,1357.454836,1351.909682,-5.545153,0.666667,0.77757,50.0,22
+2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,882,nico-rosberg,Nico Rosberg,mercedes,9,57,1,0,9,1115.785754,1122.094961,6.309207,0.619048,0.492863,50.0,22
+2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,882,jenson-button,Jenson Button,mclaren,10,57,10,0,10,1267.652207,1262.076425,-5.575781,0.571429,0.682944,50.0,22
+2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,882,pastor-maldonado,Pastor Maldonado,williams,11,57,17,0,11,995.13012,1004.433356,9.303236,0.52381,0.337745,50.0,22
+2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,882,nico-hulkenberg,Nico Hülkenberg,sauber,12,57,14,0,12,1113.768622,1113.067406,-0.701215,0.47619,0.490215,50.0,22
+2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,882,adrian-sutil,Adrian Sutil,force-india,13,57,6,0,13,1093.026968,1091.306845,-1.720122,0.428571,0.462974,50.0,22
+2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,882,valtteri-bottas,Valtteri Bottas,williams,14,57,15,0,14,1014.336452,1015.308524,0.972071,0.380952,0.361511,50.0,22
+2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,882,felipe-massa,Felipe Massa,ferrari,15,57,4,0,15,1286.137406,1267.613833,-18.523573,0.333333,0.703805,50.0,22
+2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,882,daniel-ricciardo,Daniel Ricciardo,toro-rosso,16,56,13,0,16,1052.916079,1046.669353,-6.246726,0.285714,0.410649,50.0,22
+2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,882,charles-pic,Charles Pic,caterham,17,56,18,0,17,934.322116,932.887247,-1.434869,0.238095,0.266793,50.0,22
+2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,882,esteban-gutierrez,Esteban Gutiérrez,sauber,18,56,22,0,18,992.77029,985.550919,-7.219371,0.190476,0.334864,50.0,22
+2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,882,jules-bianchi,Jules Bianchi,marussia,19,56,19,0,19,1003.012605,992.78384,-10.228766,0.142857,0.347432,50.0,22
+2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,882,max-chilton,Max Chilton,marussia,20,56,21,0,20,987.350429,975.698282,-11.652147,0.095238,0.328281,50.0,22
+2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,882,giedo-van-der-garde,Giedo van der Garde,caterham,21,55,20,0,21,985.105645,971.208139,-13.897506,0.047619,0.325569,50.0,22
+2013,4,2013-04-21,bahrain,2013 Formula 1 Gulf Air Bahrain Grand Prix,882,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,DNF,16,16,1,22,1038.094353,1018.515086,-19.579267,0.0,0.391585,50.0,22

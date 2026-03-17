@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,lewis-hamilton,Lewis Hamilton,mclaren,1,67,1,0,1,1252.01036,1267.515738,15.505378,1.0,0.689892,50.0,20
-2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,nelson-piquet-jr,Nelson Piquet Jr.,renault,2,67,17,0,2,973.266614,1004.216526,30.949912,0.947368,0.32837,50.0,20
-2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,felipe-massa,Felipe Massa,ferrari,3,67,2,0,3,1285.503142,1293.823142,8.32,0.894737,0.728337,50.0,20
-2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,nick-heidfeld,Nick Heidfeld,bmw-sauber,4,67,12,0,4,1238.275195,1246.707593,8.432399,0.842105,0.673457,50.0,20
-2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,heikki-kovalainen,Heikki Kovalainen,mclaren,5,67,3,0,5,1175.270522,1185.044648,9.774126,0.789474,0.593991,50.0,20
-2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,kimi-raikkonen,Kimi Räikkönen,ferrari,6,67,6,0,6,1320.189635,1318.758862,-1.430772,0.736842,0.765458,50.0,20
-2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,robert-kubica,Robert Kubica,bmw-sauber,7,67,7,0,7,1221.802302,1223.348669,1.546367,0.684211,0.653283,50.0,20
-2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,sebastian-vettel,Sebastian Vettel,toro-rosso,8,67,9,0,8,955.069228,971.326597,16.257369,0.631579,0.306432,50.0,20
-2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,jarno-trulli,Jarno Trulli,toyota,9,67,4,0,9,1135.470916,1137.351623,1.880707,0.578947,0.541333,50.0,20
-2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,nico-rosberg,Nico Rosberg,williams,10,67,13,0,10,1076.427538,1079.64509,3.217552,0.526316,0.461965,50.0,20
-2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,fernando-alonso,Fernando Alonso,renault,11,67,5,0,11,1289.567472,1276.610003,-12.957469,0.473684,0.732834,50.0,20
-2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,sebastien-bourdais,Sébastien Bourdais,toro-rosso,12,67,15,0,12,959.638289,965.096974,5.458685,0.421053,0.311879,50.0,20
-2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,david-coulthard,David Coulthard,red-bull,13,67,10,0,13,1045.283933,1042.682908,-2.601025,0.368421,0.420442,50.0,20
-2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,kazuki-nakajima,Kazuki Nakajima,williams,14,67,16,0,14,1029.130724,1024.95982,-4.170903,0.315789,0.399208,50.0,20
-2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,adrian-sutil,Adrian Sutil,force-india,15,67,19,0,15,866.913431,869.539227,2.625796,0.263158,0.210642,50.0,20
-2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,giancarlo-fisichella,Giancarlo Fisichella,force-india,16,67,20,0,16,1035.675928,1025.813239,-9.862689,0.210526,0.40778,50.0,20
-2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,jenson-button,Jenson Button,honda,17,66,14,0,17,1034.844586,1022.404885,-12.439701,0.157895,0.406689,50.0,20
-2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,rubens-barrichello,Rubens Barrichello,honda,DNF,50,18,1,18,1085.653918,1067.199087,-18.454831,0.105263,0.47436,50.0,20
-2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,mark-webber,Mark Webber,red-bull,DNF,40,8,1,19,1092.228472,1070.699767,-21.528705,0.052632,0.483206,50.0,20
-2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,timo-glock,Timo Glock,toyota,DNF,35,11,1,20,1037.702882,1017.180688,-20.522194,0.0,0.410444,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,795,lewis-hamilton,Lewis Hamilton,mclaren,1,67,1,0,1,1252.01036,1267.515738,15.505378,1.0,0.689892,50.0,20
+2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,795,nelson-piquet-jr,Nelson Piquet Jr.,renault,2,67,17,0,2,973.266614,1004.216526,30.949912,0.947368,0.32837,50.0,20
+2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,795,felipe-massa,Felipe Massa,ferrari,3,67,2,0,3,1285.503142,1293.823142,8.32,0.894737,0.728337,50.0,20
+2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,795,nick-heidfeld,Nick Heidfeld,bmw-sauber,4,67,12,0,4,1238.275195,1246.707593,8.432399,0.842105,0.673457,50.0,20
+2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,795,heikki-kovalainen,Heikki Kovalainen,mclaren,5,67,3,0,5,1175.270522,1185.044648,9.774126,0.789474,0.593991,50.0,20
+2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,795,kimi-raikkonen,Kimi Räikkönen,ferrari,6,67,6,0,6,1320.189635,1318.758862,-1.430772,0.736842,0.765458,50.0,20
+2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,795,robert-kubica,Robert Kubica,bmw-sauber,7,67,7,0,7,1221.802302,1223.348669,1.546367,0.684211,0.653283,50.0,20
+2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,795,sebastian-vettel,Sebastian Vettel,toro-rosso,8,67,9,0,8,955.069228,971.326597,16.257369,0.631579,0.306432,50.0,20
+2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,795,jarno-trulli,Jarno Trulli,toyota,9,67,4,0,9,1135.470916,1137.351623,1.880707,0.578947,0.541333,50.0,20
+2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,795,nico-rosberg,Nico Rosberg,williams,10,67,13,0,10,1076.427538,1079.64509,3.217552,0.526316,0.461965,50.0,20
+2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,795,fernando-alonso,Fernando Alonso,renault,11,67,5,0,11,1289.567472,1276.610003,-12.957469,0.473684,0.732834,50.0,20
+2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,795,sebastien-bourdais,Sébastien Bourdais,toro-rosso,12,67,15,0,12,959.638289,965.096974,5.458685,0.421053,0.311879,50.0,20
+2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,795,david-coulthard,David Coulthard,red-bull,13,67,10,0,13,1045.283933,1042.682908,-2.601025,0.368421,0.420442,50.0,20
+2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,795,kazuki-nakajima,Kazuki Nakajima,williams,14,67,16,0,14,1029.130724,1024.95982,-4.170903,0.315789,0.399208,50.0,20
+2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,795,adrian-sutil,Adrian Sutil,force-india,15,67,19,0,15,866.913431,869.539227,2.625796,0.263158,0.210642,50.0,20
+2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,795,giancarlo-fisichella,Giancarlo Fisichella,force-india,16,67,20,0,16,1035.675928,1025.813239,-9.862689,0.210526,0.40778,50.0,20
+2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,795,jenson-button,Jenson Button,honda,17,66,14,0,17,1034.844586,1022.404885,-12.439701,0.157895,0.406689,50.0,20
+2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,795,rubens-barrichello,Rubens Barrichello,honda,DNF,50,18,1,18,1085.653918,1067.199087,-18.454831,0.105263,0.47436,50.0,20
+2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,795,mark-webber,Mark Webber,red-bull,DNF,40,8,1,19,1092.228472,1070.699767,-21.528705,0.052632,0.483206,50.0,20
+2008,10,2008-07-20,germany,Formula 1 Grosser Preis Santander von Deutschland 2008,795,timo-glock,Timo Glock,toyota,DNF,35,11,1,20,1037.702882,1017.180688,-20.522194,0.0,0.410444,50.0,20

@@ -1,15 +1,15 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1968,2,1968-05-12,spain,Gran Premio de España 1968,graham-hill,Graham Hill,lotus,1,90,6,0,1,1118.852781,1140.200588,21.347806,1.0,0.573044,50.0,14
-1968,2,1968-05-12,spain,Gran Premio de España 1968,denny-hulme,Denny Hulme,mclaren,2,90,3,0,2,1193.802456,1206.079997,12.277541,0.923077,0.677526,50.0,14
-1968,2,1968-05-12,spain,Gran Premio de España 1968,brian-redman,Brian Redman,cooper,3,89,13,0,3,963.69319,988.60592,24.91273,0.846154,0.347899,50.0,14
-1968,2,1968-05-12,spain,Gran Premio de España 1968,ludovico-scarfiotti,Ludovico Scarfiotti,cooper,4,89,12,0,4,992.296986,1011.367132,19.070146,0.769231,0.387828,50.0,14
-1968,2,1968-05-12,spain,Gran Premio de España 1968,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,5,81,5,0,5,1039.53617,1051.337137,11.800967,0.692308,0.456288,50.0,14
-1968,2,1968-05-12,spain,Gran Premio de España 1968,bruce-mclaren,Bruce McLaren,mclaren,DNF,77,4,1,6,995.471246,1006.623292,11.152047,0.615385,0.392344,50.0,14
-1968,2,1968-05-12,spain,Gran Premio de España 1968,john-surtees,John Surtees,honda,DNF,74,7,1,7,1168.291322,1163.059144,-5.232178,0.538462,0.643105,50.0,14
-1968,2,1968-05-12,spain,Gran Premio de España 1968,jo-siffert,Jo Siffert,lotus,DNF,62,10,1,8,1061.241389,1059.902532,-1.338857,0.461538,0.488316,50.0,14
-1968,2,1968-05-12,spain,Gran Premio de España 1968,chris-amon,Chris Amon,ferrari,DNF,57,1,1,9,1094.996515,1087.319022,-7.677493,0.384615,0.538165,50.0,14
-1968,2,1968-05-12,spain,Gran Premio de España 1968,piers-courage,Piers Courage,brm,DNF,52,11,1,10,985.205978,981.700771,-3.505208,0.307692,0.377796,50.0,14
-1968,2,1968-05-12,spain,Gran Premio de España 1968,pedro-rodriguez,Pedro Rodríguez,brm,DNF,27,2,1,11,1077.568621,1063.4841,-14.08452,0.230769,0.51246,50.0,14
-1968,2,1968-05-12,spain,Gran Premio de España 1968,jacky-ickx,Jacky Ickx,ferrari,DNF,13,8,1,12,1011.507783,998.431489,-13.076294,0.153846,0.415372,50.0,14
-1968,2,1968-05-12,spain,Gran Premio de España 1968,jochen-rindt,Jochen Rindt,brabham,DNF,10,9,1,13,1062.86306,1042.173533,-20.689527,0.076923,0.490714,50.0,14
-1968,2,1968-05-12,spain,Gran Premio de España 1968,jack-brabham,Jack Brabham,brabham,DNS,,,2,14,1210.414438,1175.45728,-34.957157,0.0,0.699143,50.0,14
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1968,2,1968-05-12,spain,Gran Premio de España 1968,163,graham-hill,Graham Hill,lotus,1,90,6,0,1,1118.852781,1140.200588,21.347806,1.0,0.573044,50.0,14
+1968,2,1968-05-12,spain,Gran Premio de España 1968,163,denny-hulme,Denny Hulme,mclaren,2,90,3,0,2,1193.802456,1206.079997,12.277541,0.923077,0.677526,50.0,14
+1968,2,1968-05-12,spain,Gran Premio de España 1968,163,brian-redman,Brian Redman,cooper,3,89,13,0,3,963.69319,988.60592,24.91273,0.846154,0.347899,50.0,14
+1968,2,1968-05-12,spain,Gran Premio de España 1968,163,ludovico-scarfiotti,Ludovico Scarfiotti,cooper,4,89,12,0,4,992.296986,1011.367132,19.070146,0.769231,0.387828,50.0,14
+1968,2,1968-05-12,spain,Gran Premio de España 1968,163,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,5,81,5,0,5,1039.53617,1051.337137,11.800967,0.692308,0.456288,50.0,14
+1968,2,1968-05-12,spain,Gran Premio de España 1968,163,bruce-mclaren,Bruce McLaren,mclaren,DNF,77,4,1,6,995.471246,1006.623292,11.152047,0.615385,0.392344,50.0,14
+1968,2,1968-05-12,spain,Gran Premio de España 1968,163,john-surtees,John Surtees,honda,DNF,74,7,1,7,1168.291322,1163.059144,-5.232178,0.538462,0.643105,50.0,14
+1968,2,1968-05-12,spain,Gran Premio de España 1968,163,jo-siffert,Jo Siffert,lotus,DNF,62,10,1,8,1061.241389,1059.902532,-1.338857,0.461538,0.488316,50.0,14
+1968,2,1968-05-12,spain,Gran Premio de España 1968,163,chris-amon,Chris Amon,ferrari,DNF,57,1,1,9,1094.996515,1087.319022,-7.677493,0.384615,0.538165,50.0,14
+1968,2,1968-05-12,spain,Gran Premio de España 1968,163,piers-courage,Piers Courage,brm,DNF,52,11,1,10,985.205978,981.700771,-3.505208,0.307692,0.377796,50.0,14
+1968,2,1968-05-12,spain,Gran Premio de España 1968,163,pedro-rodriguez,Pedro Rodríguez,brm,DNF,27,2,1,11,1077.568621,1063.4841,-14.08452,0.230769,0.51246,50.0,14
+1968,2,1968-05-12,spain,Gran Premio de España 1968,163,jacky-ickx,Jacky Ickx,ferrari,DNF,13,8,1,12,1011.507783,998.431489,-13.076294,0.153846,0.415372,50.0,14
+1968,2,1968-05-12,spain,Gran Premio de España 1968,163,jochen-rindt,Jochen Rindt,brabham,DNF,10,9,1,13,1062.86306,1042.173533,-20.689527,0.076923,0.490714,50.0,14
+1968,2,1968-05-12,spain,Gran Premio de España 1968,163,jack-brabham,Jack Brabham,brabham,DNS,,,2,14,1210.414438,1175.45728,-34.957157,0.0,0.699143,50.0,14

@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,michael-schumacher,Michael Schumacher,ferrari,1,60,2,0,1,1253.325997,1268.550747,15.22475,1.0,0.695505,50.0,22
-2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,fernando-alonso,Fernando Alonso,renault,2,60,1,0,2,1358.698767,1365.96908,7.270313,0.952381,0.806975,50.0,22
-2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,felipe-massa,Felipe Massa,ferrari,3,60,3,0,3,1105.427406,1125.559814,20.132408,0.904762,0.502114,50.0,22
-2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,kimi-raikkonen,Kimi Räikkönen,mclaren,4,60,5,0,4,1273.219401,1280.142869,6.923468,0.857143,0.718674,50.0,22
-2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,rubens-barrichello,Rubens Barrichello,honda,5,60,4,0,5,1197.568003,1206.735954,9.167951,0.809524,0.626165,50.0,22
-2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,giancarlo-fisichella,Giancarlo Fisichella,renault,6,60,11,0,6,1185.880514,1193.429003,7.548489,0.761905,0.610935,50.0,22
-2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,nico-rosberg,Nico Rosberg,williams,7,60,22,0,7,994.399537,1012.490378,18.090841,0.714286,0.352469,50.0,22
-2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,jacques-villeneuve,Jacques Villeneuve,bmw-sauber,8,60,9,0,8,1071.189214,1081.770588,10.581375,0.666667,0.455039,50.0,22
-2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,jarno-trulli,Jarno Trulli,toyota,9,59,7,0,9,1070.305855,1078.566793,8.260938,0.619048,0.453829,50.0,22
-2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,nick-heidfeld,Nick Heidfeld,bmw-sauber,10,59,13,0,10,1071.472577,1077.272631,5.800054,0.571429,0.455427,50.0,22
-2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,scott-speed,Scott Speed,toro-rosso,11,59,17,0,11,1010.332078,1017.864952,7.532874,0.52381,0.373152,50.0,22
-2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,tiago-monteiro,Tiago Monteiro,midland,12,59,18,0,12,996.649701,1002.690974,6.041272,0.47619,0.355365,50.0,22
-2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,christijan-albers,Christijan Albers,midland,13,59,16,0,13,941.100609,948.192651,7.092043,0.428571,0.286731,50.0,22
-2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,juan-pablo-montoya,Juan Pablo Montoya,mclaren,DNF,52,8,1,14,1187.698506,1174.889783,-12.808723,0.357143,0.613317,50.0,22
-2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,ralf-schumacher,Ralf Schumacher,toyota,DNF,52,10,1,15,1205.562209,1191.596419,-13.96579,0.357143,0.636459,50.0,22
-2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,takuma-sato,Takuma Sato,super-aguri,DNF,45,20,1,16,994.784321,991.421859,-3.362462,0.285714,0.352964,50.0,22
-2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,franck-montagny,Franck Montagny,super-aguri,DNF,29,21,1,17,1000.0,993.920122,-6.079878,0.238095,0.359693,50.0,22
-2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,christian-klien,Christian Klien,red-bull,DNF,28,15,1,18,1021.843404,1010.760137,-11.083267,0.166667,0.388332,50.0,22
-2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,jenson-button,Jenson Button,honda,DNF,28,6,1,19,1226.1033,1201.316692,-24.786608,0.166667,0.662399,50.0,22
-2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,mark-webber,Mark Webber,williams,DNF,12,19,1,20,1079.453341,1060.896343,-18.556999,0.095238,0.466378,50.0,22
-2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,david-coulthard,David Coulthard,red-bull,DNF,2,12,1,21,1071.542724,1051.147495,-20.395229,0.047619,0.455524,50.0,22
-2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,vitantonio-liuzzi,Vitantonio Liuzzi,toro-rosso,DNF,0,14,1,22,1009.877458,991.249638,-18.62782,0.0,0.372556,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,755,michael-schumacher,Michael Schumacher,ferrari,1,60,2,0,1,1253.325997,1268.550747,15.22475,1.0,0.695505,50.0,22
+2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,755,fernando-alonso,Fernando Alonso,renault,2,60,1,0,2,1358.698767,1365.96908,7.270313,0.952381,0.806975,50.0,22
+2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,755,felipe-massa,Felipe Massa,ferrari,3,60,3,0,3,1105.427406,1125.559814,20.132408,0.904762,0.502114,50.0,22
+2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,755,kimi-raikkonen,Kimi Räikkönen,mclaren,4,60,5,0,4,1273.219401,1280.142869,6.923468,0.857143,0.718674,50.0,22
+2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,755,rubens-barrichello,Rubens Barrichello,honda,5,60,4,0,5,1197.568003,1206.735954,9.167951,0.809524,0.626165,50.0,22
+2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,755,giancarlo-fisichella,Giancarlo Fisichella,renault,6,60,11,0,6,1185.880514,1193.429003,7.548489,0.761905,0.610935,50.0,22
+2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,755,nico-rosberg,Nico Rosberg,williams,7,60,22,0,7,994.399537,1012.490378,18.090841,0.714286,0.352469,50.0,22
+2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,755,jacques-villeneuve,Jacques Villeneuve,bmw-sauber,8,60,9,0,8,1071.189214,1081.770588,10.581375,0.666667,0.455039,50.0,22
+2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,755,jarno-trulli,Jarno Trulli,toyota,9,59,7,0,9,1070.305855,1078.566793,8.260938,0.619048,0.453829,50.0,22
+2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,755,nick-heidfeld,Nick Heidfeld,bmw-sauber,10,59,13,0,10,1071.472577,1077.272631,5.800054,0.571429,0.455427,50.0,22
+2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,755,scott-speed,Scott Speed,toro-rosso,11,59,17,0,11,1010.332078,1017.864952,7.532874,0.52381,0.373152,50.0,22
+2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,755,tiago-monteiro,Tiago Monteiro,midland,12,59,18,0,12,996.649701,1002.690974,6.041272,0.47619,0.355365,50.0,22
+2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,755,christijan-albers,Christijan Albers,midland,13,59,16,0,13,941.100609,948.192651,7.092043,0.428571,0.286731,50.0,22
+2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,755,juan-pablo-montoya,Juan Pablo Montoya,mclaren,DNF,52,8,1,14,1187.698506,1174.889783,-12.808723,0.357143,0.613317,50.0,22
+2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,755,ralf-schumacher,Ralf Schumacher,toyota,DNF,52,10,1,15,1205.562209,1191.596419,-13.96579,0.357143,0.636459,50.0,22
+2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,755,takuma-sato,Takuma Sato,super-aguri,DNF,45,20,1,16,994.784321,991.421859,-3.362462,0.285714,0.352964,50.0,22
+2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,755,franck-montagny,Franck Montagny,super-aguri,DNF,29,21,1,17,1000.0,993.920122,-6.079878,0.238095,0.359693,50.0,22
+2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,755,christian-klien,Christian Klien,red-bull,DNF,28,15,1,18,1021.843404,1010.760137,-11.083267,0.166667,0.388332,50.0,22
+2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,755,jenson-button,Jenson Button,honda,DNF,28,6,1,19,1226.1033,1201.316692,-24.786608,0.166667,0.662399,50.0,22
+2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,755,mark-webber,Mark Webber,williams,DNF,12,19,1,20,1079.453341,1060.896343,-18.556999,0.095238,0.466378,50.0,22
+2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,755,david-coulthard,David Coulthard,red-bull,DNF,2,12,1,21,1071.542724,1051.147495,-20.395229,0.047619,0.455524,50.0,22
+2006,5,2006-05-07,europe,2006 Formula 1 Grand Prix of Europe,755,vitantonio-liuzzi,Vitantonio Liuzzi,toro-rosso,DNF,0,14,1,22,1009.877458,991.249638,-18.62782,0.0,0.372556,50.0,22

@@ -1,24 +1,24 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1960,10,1960-11-20,united-states,1960 United States Grand Prix,stirling-moss,Stirling Moss,lotus,1,75,1,0,1,1095.829759,1116.537682,20.707924,1.0,0.585842,50.0,23
-1960,10,1960-11-20,united-states,1960 United States Grand Prix,innes-ireland,Innes Ireland,lotus,2,75,7,0,2,1059.980925,1080.999337,21.018412,0.954545,0.534177,50.0,23
-1960,10,1960-11-20,united-states,1960 United States Grand Prix,bruce-mclaren,Bruce McLaren,cooper,3,75,10,0,3,1149.4889,1161.951985,12.463086,0.909091,0.659829,50.0,23
-1960,10,1960-11-20,united-states,1960 United States Grand Prix,jack-brabham,Jack Brabham,cooper,4,74,2,0,4,1167.407991,1176.428124,9.020132,0.863636,0.683234,50.0,23
-1960,10,1960-11-20,united-states,1960 United States Grand Prix,jo-bonnier,Jo Bonnier,brm,5,74,4,0,5,993.675691,1012.706358,19.030668,0.818182,0.437568,50.0,23
-1960,10,1960-11-20,united-states,1960 United States Grand Prix,phil-hill,Phil Hill,cooper,6,74,13,0,6,1126.329252,1133.538892,7.20964,0.772727,0.628534,50.0,23
-1960,10,1960-11-20,united-states,1960 United States Grand Prix,jim-hall,Jim Hall,lotus,7,73,12,0,7,1000.0,1014.028201,14.028201,0.727273,0.446709,50.0,23
-1960,10,1960-11-20,united-states,1960 United States Grand Prix,roy-salvadori,Roy Salvadori,cooper,8,73,15,0,8,1004.12098,1015.577799,11.456819,0.681818,0.452682,50.0,23
-1960,10,1960-11-20,united-states,1960 United States Grand Prix,wolfgang-von-trips,Wolfgang von Trips,cooper,9,72,16,0,9,1095.297012,1097.861017,2.564005,0.636364,0.585084,50.0,23
-1960,10,1960-11-20,united-states,1960 United States Grand Prix,chuck-daigh,Chuck Daigh,scarab,10,70,18,0,10,938.22979,949.796268,11.566478,0.590909,0.35958,50.0,23
-1960,10,1960-11-20,united-states,1960 United States Grand Prix,pete-lovely,Pete Lovely,cooper,11,69,20,0,11,983.863583,989.963199,6.099616,0.545455,0.423462,50.0,23
-1960,10,1960-11-20,united-states,1960 United States Grand Prix,olivier-gendebien,Olivier Gendebien,cooper,12,69,8,0,12,1069.426775,1067.031891,-2.394884,0.5,0.547898,50.0,23
-1960,10,1960-11-20,united-states,1960 United States Grand Prix,bob-drake,Bob Drake,maserati,13,68,22,0,13,1000.0,1000.391837,0.391837,0.454545,0.446709,50.0,23
-1960,10,1960-11-20,united-states,1960 United States Grand Prix,henry-taylor,Henry Taylor,cooper,14,68,14,0,14,1024.068857,1020.436684,-3.632173,0.409091,0.481734,50.0,23
-1960,10,1960-11-20,united-states,1960 United States Grand Prix,maurice-trintignant,Maurice Trintignant,cooper,15,66,19,0,15,1079.302296,1069.375554,-9.926741,0.363636,0.562171,50.0,23
-1960,10,1960-11-20,united-states,1960 United States Grand Prix,jim-clark,Jim Clark,lotus,16,61,5,0,16,1046.567017,1036.745353,-9.821664,0.318182,0.514615,50.0,23
-1960,10,1960-11-20,united-states,1960 United States Grand Prix,graham-hill,Graham Hill,brm,DNF,34,11,1,17,964.975861,958.780722,-6.195139,0.272727,0.39663,50.0,23
-1960,10,1960-11-20,united-states,1960 United States Grand Prix,ian-burgess,Ian Burgess,cooper,DNF,29,23,1,18,981.411026,971.777037,-9.633989,0.227273,0.419952,50.0,23
-1960,10,1960-11-20,united-states,1960 United States Grand Prix,brian-naylor,Brian Naylor,jbw,DNF,20,17,1,19,960.635824,950.19996,-10.435865,0.181818,0.390535,50.0,23
-1960,10,1960-11-20,united-states,1960 United States Grand Prix,dan-gurney,Dan Gurney,brm,DNF,18,3,1,20,1028.180237,1010.611379,-17.568858,0.136364,0.487741,50.0,23
-1960,10,1960-11-20,united-states,1960 United States Grand Prix,ron-flockhart,Ron Flockhart,cooper,DNF,11,21,1,21,999.496219,981.742704,-17.753515,0.090909,0.445979,50.0,23
-1960,10,1960-11-20,united-states,1960 United States Grand Prix,tony-brooks,Tony Brooks,cooper,DNF,6,9,1,22,1053.536785,1029.570101,-23.966685,0.045455,0.524788,50.0,23
-1960,10,1960-11-20,united-states,1960 United States Grand Prix,john-surtees,John Surtees,lotus,DNF,3,6,1,23,1025.993749,1001.766447,-24.227303,0.0,0.484546,50.0,23
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1960,10,1960-11-20,united-states,1960 United States Grand Prix,94,stirling-moss,Stirling Moss,lotus,1,75,1,0,1,1095.829759,1116.537682,20.707924,1.0,0.585842,50.0,23
+1960,10,1960-11-20,united-states,1960 United States Grand Prix,94,innes-ireland,Innes Ireland,lotus,2,75,7,0,2,1059.980925,1080.999337,21.018412,0.954545,0.534177,50.0,23
+1960,10,1960-11-20,united-states,1960 United States Grand Prix,94,bruce-mclaren,Bruce McLaren,cooper,3,75,10,0,3,1149.4889,1161.951985,12.463086,0.909091,0.659829,50.0,23
+1960,10,1960-11-20,united-states,1960 United States Grand Prix,94,jack-brabham,Jack Brabham,cooper,4,74,2,0,4,1167.407991,1176.428124,9.020132,0.863636,0.683234,50.0,23
+1960,10,1960-11-20,united-states,1960 United States Grand Prix,94,jo-bonnier,Jo Bonnier,brm,5,74,4,0,5,993.675691,1012.706358,19.030668,0.818182,0.437568,50.0,23
+1960,10,1960-11-20,united-states,1960 United States Grand Prix,94,phil-hill,Phil Hill,cooper,6,74,13,0,6,1126.329252,1133.538892,7.20964,0.772727,0.628534,50.0,23
+1960,10,1960-11-20,united-states,1960 United States Grand Prix,94,jim-hall,Jim Hall,lotus,7,73,12,0,7,1000.0,1014.028201,14.028201,0.727273,0.446709,50.0,23
+1960,10,1960-11-20,united-states,1960 United States Grand Prix,94,roy-salvadori,Roy Salvadori,cooper,8,73,15,0,8,1004.12098,1015.577799,11.456819,0.681818,0.452682,50.0,23
+1960,10,1960-11-20,united-states,1960 United States Grand Prix,94,wolfgang-von-trips,Wolfgang von Trips,cooper,9,72,16,0,9,1095.297012,1097.861017,2.564005,0.636364,0.585084,50.0,23
+1960,10,1960-11-20,united-states,1960 United States Grand Prix,94,chuck-daigh,Chuck Daigh,scarab,10,70,18,0,10,938.22979,949.796268,11.566478,0.590909,0.35958,50.0,23
+1960,10,1960-11-20,united-states,1960 United States Grand Prix,94,pete-lovely,Pete Lovely,cooper,11,69,20,0,11,983.863583,989.963199,6.099616,0.545455,0.423462,50.0,23
+1960,10,1960-11-20,united-states,1960 United States Grand Prix,94,olivier-gendebien,Olivier Gendebien,cooper,12,69,8,0,12,1069.426775,1067.031891,-2.394884,0.5,0.547898,50.0,23
+1960,10,1960-11-20,united-states,1960 United States Grand Prix,94,bob-drake,Bob Drake,maserati,13,68,22,0,13,1000.0,1000.391837,0.391837,0.454545,0.446709,50.0,23
+1960,10,1960-11-20,united-states,1960 United States Grand Prix,94,henry-taylor,Henry Taylor,cooper,14,68,14,0,14,1024.068857,1020.436684,-3.632173,0.409091,0.481734,50.0,23
+1960,10,1960-11-20,united-states,1960 United States Grand Prix,94,maurice-trintignant,Maurice Trintignant,cooper,15,66,19,0,15,1079.302296,1069.375554,-9.926741,0.363636,0.562171,50.0,23
+1960,10,1960-11-20,united-states,1960 United States Grand Prix,94,jim-clark,Jim Clark,lotus,16,61,5,0,16,1046.567017,1036.745353,-9.821664,0.318182,0.514615,50.0,23
+1960,10,1960-11-20,united-states,1960 United States Grand Prix,94,graham-hill,Graham Hill,brm,DNF,34,11,1,17,964.975861,958.780722,-6.195139,0.272727,0.39663,50.0,23
+1960,10,1960-11-20,united-states,1960 United States Grand Prix,94,ian-burgess,Ian Burgess,cooper,DNF,29,23,1,18,981.411026,971.777037,-9.633989,0.227273,0.419952,50.0,23
+1960,10,1960-11-20,united-states,1960 United States Grand Prix,94,brian-naylor,Brian Naylor,jbw,DNF,20,17,1,19,960.635824,950.19996,-10.435865,0.181818,0.390535,50.0,23
+1960,10,1960-11-20,united-states,1960 United States Grand Prix,94,dan-gurney,Dan Gurney,brm,DNF,18,3,1,20,1028.180237,1010.611379,-17.568858,0.136364,0.487741,50.0,23
+1960,10,1960-11-20,united-states,1960 United States Grand Prix,94,ron-flockhart,Ron Flockhart,cooper,DNF,11,21,1,21,999.496219,981.742704,-17.753515,0.090909,0.445979,50.0,23
+1960,10,1960-11-20,united-states,1960 United States Grand Prix,94,tony-brooks,Tony Brooks,cooper,DNF,6,9,1,22,1053.536785,1029.570101,-23.966685,0.045455,0.524788,50.0,23
+1960,10,1960-11-20,united-states,1960 United States Grand Prix,94,john-surtees,John Surtees,lotus,DNF,3,6,1,23,1025.993749,1001.766447,-24.227303,0.0,0.484546,50.0,23

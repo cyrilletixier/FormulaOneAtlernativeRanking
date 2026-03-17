@@ -1,28 +1,28 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,alain-prost,Alain Prost,mclaren,1,31,1,0,1,1244.12648,1257.219714,13.093234,1.0,0.738135,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,ayrton-senna,Ayrton Senna,toleman,2,31,13,0,2,1002.963234,1030.039212,27.075979,0.961538,0.420019,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,rene-arnoux,René Arnoux,ferrari,3,31,3,0,3,1205.3872,1216.896752,11.509551,0.923077,0.692886,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,keke-rosberg,Keke Rosberg,williams,4,31,10,0,4,1184.897308,1195.752114,10.854806,0.884615,0.667519,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,elio-de-angelis,Elio de Angelis,lotus,5,31,11,0,5,1106.600244,1120.723685,14.123441,0.846154,0.563685,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,michele-alboreto,Michele Alboreto,ferrari,6,30,4,0,6,1083.050419,1096.880806,13.830387,0.807692,0.531085,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,piercarlo-ghinzani,Piercarlo Ghinzani,osella,7,30,19,0,7,891.389748,915.943129,24.55338,0.769231,0.278163,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,jacques-laffite,Jacques Laffite,williams,8,30,16,0,8,1053.243808,1065.305504,12.061695,0.730769,0.489535,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,riccardo-patrese,Riccardo Patrese,alfa-romeo,DNF,24,14,1,9,1058.926305,1068.668646,9.742341,0.692308,0.497461,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,niki-lauda,Niki Lauda,mclaren,DNF,23,8,1,10,1100.095332,1105.051826,4.956494,0.653846,0.554716,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,22,12,1,11,955.678901,968.595335,12.916435,0.615385,0.357056,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,nigel-mansell,Nigel Mansell,lotus,DNF,15,2,1,12,1090.648854,1092.413048,1.764194,0.576923,0.541639,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,nelson-piquet,Nelson Piquet,brabham,DNF,14,9,1,13,1170.829717,1165.273007,-5.55671,0.538462,0.649596,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,francois-hesnault,François Hesnault,ligier,DNF,12,17,1,14,973.854103,979.810905,5.956803,0.5,0.380864,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,corrado-fabi,Corrado Fabi,brabham,DNF,9,15,1,15,935.324441,941.845953,6.521512,0.461538,0.331108,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,johnny-cecotto,Johnny Cecotto,toleman,DNF,1,18,1,16,966.617997,969.205897,2.5879,0.423077,0.371319,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,andrea-de-cesaris,Andrea de Cesaris,ligier,DNF,0,7,1,17,1124.335851,1112.246309,-12.089543,0.346154,0.587945,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,derek-warwick,Derek Warwick,renault,DNF,0,5,1,18,1109.406524,1098.337035,-11.069489,0.346154,0.567544,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,patrick-tambay,Patrick Tambay,renault,DNF,0,6,1,19,1155.635162,1141.451816,-14.183346,0.346154,0.629821,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,eddie-cheever,Eddie Cheever,alfa-romeo,DNQ,,,2,20,1112.002525,1092.101026,-19.901499,0.173077,0.571107,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,jonathan-palmer,Jonathan Palmer,ram,DNQ,,,2,21,1038.135683,1023.364642,-14.771042,0.173077,0.468498,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,marc-surer,Marc Surer,arrows,DNQ,,,2,22,1129.022018,1107.960942,-21.061075,0.173077,0.594298,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,mauro-baldi,Mauro Baldi,spirit,DNQ,,,2,23,1046.499146,1031.146229,-15.352918,0.173077,0.480135,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,philippe-alliot,Philippe Alliot,ram,DNQ,,,2,24,970.349437,960.191757,-10.15768,0.173077,0.376231,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,thierry-boutsen,Thierry Boutsen,arrows,DNQ,,,2,25,1098.188572,1079.238351,-18.95022,0.173077,0.552081,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,martin-brundle,Martin Brundle,tyrrell,DSQ,,,2,26,913.110544,898.883229,-14.227315,0.019231,0.303777,50.0,27
-1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,stefan-bellof,Stefan Bellof,tyrrell,DSQ,,,2,27,913.110544,898.883229,-14.227315,0.019231,0.303777,50.0,27
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,alain-prost,Alain Prost,mclaren,1,31,1,0,1,1244.12648,1257.219714,13.093234,1.0,0.738135,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,ayrton-senna,Ayrton Senna,toleman,2,31,13,0,2,1002.963234,1030.039212,27.075979,0.961538,0.420019,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,rene-arnoux,René Arnoux,ferrari,3,31,3,0,3,1205.3872,1216.896752,11.509551,0.923077,0.692886,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,keke-rosberg,Keke Rosberg,williams,4,31,10,0,4,1184.897308,1195.752114,10.854806,0.884615,0.667519,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,elio-de-angelis,Elio de Angelis,lotus,5,31,11,0,5,1106.600244,1120.723685,14.123441,0.846154,0.563685,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,michele-alboreto,Michele Alboreto,ferrari,6,30,4,0,6,1083.050419,1096.880806,13.830387,0.807692,0.531085,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,piercarlo-ghinzani,Piercarlo Ghinzani,osella,7,30,19,0,7,891.389748,915.943129,24.55338,0.769231,0.278163,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,jacques-laffite,Jacques Laffite,williams,8,30,16,0,8,1053.243808,1065.305504,12.061695,0.730769,0.489535,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,riccardo-patrese,Riccardo Patrese,alfa-romeo,DNF,24,14,1,9,1058.926305,1068.668646,9.742341,0.692308,0.497461,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,niki-lauda,Niki Lauda,mclaren,DNF,23,8,1,10,1100.095332,1105.051826,4.956494,0.653846,0.554716,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,22,12,1,11,955.678901,968.595335,12.916435,0.615385,0.357056,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,nigel-mansell,Nigel Mansell,lotus,DNF,15,2,1,12,1090.648854,1092.413048,1.764194,0.576923,0.541639,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,nelson-piquet,Nelson Piquet,brabham,DNF,14,9,1,13,1170.829717,1165.273007,-5.55671,0.538462,0.649596,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,francois-hesnault,François Hesnault,ligier,DNF,12,17,1,14,973.854103,979.810905,5.956803,0.5,0.380864,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,corrado-fabi,Corrado Fabi,brabham,DNF,9,15,1,15,935.324441,941.845953,6.521512,0.461538,0.331108,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,johnny-cecotto,Johnny Cecotto,toleman,DNF,1,18,1,16,966.617997,969.205897,2.5879,0.423077,0.371319,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,andrea-de-cesaris,Andrea de Cesaris,ligier,DNF,0,7,1,17,1124.335851,1112.246309,-12.089543,0.346154,0.587945,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,derek-warwick,Derek Warwick,renault,DNF,0,5,1,18,1109.406524,1098.337035,-11.069489,0.346154,0.567544,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,patrick-tambay,Patrick Tambay,renault,DNF,0,6,1,19,1155.635162,1141.451816,-14.183346,0.346154,0.629821,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,eddie-cheever,Eddie Cheever,alfa-romeo,DNQ,,,2,20,1112.002525,1092.101026,-19.901499,0.173077,0.571107,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,jonathan-palmer,Jonathan Palmer,ram,DNQ,,,2,21,1038.135683,1023.364642,-14.771042,0.173077,0.468498,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,marc-surer,Marc Surer,arrows,DNQ,,,2,22,1129.022018,1107.960942,-21.061075,0.173077,0.594298,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,mauro-baldi,Mauro Baldi,spirit,DNQ,,,2,23,1046.499146,1031.146229,-15.352918,0.173077,0.480135,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,philippe-alliot,Philippe Alliot,ram,DNQ,,,2,24,970.349437,960.191757,-10.15768,0.173077,0.376231,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,thierry-boutsen,Thierry Boutsen,arrows,DNQ,,,2,25,1098.188572,1079.238351,-18.95022,0.173077,0.552081,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,martin-brundle,Martin Brundle,tyrrell,DSQ,,,2,26,913.110544,898.883229,-14.227315,0.019231,0.303777,50.0,27
+1984,6,1984-06-03,monaco,Grand Prix de Monaco 1984,394,stefan-bellof,Stefan Bellof,tyrrell,DSQ,,,2,27,913.110544,898.883229,-14.227315,0.019231,0.303777,50.0,27

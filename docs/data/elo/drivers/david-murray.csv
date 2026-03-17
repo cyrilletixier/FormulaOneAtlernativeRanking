@@ -1,6 +1,6 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1950-05-13,1950,1,great-britain,maserati,Maserati,DNF,44,23,1000.0,990.909091,-9.090909,0.318182,0.5,50.0
-1950-09-03,1950,7,italy,maserati,Maserati,DNF,56,27,990.909091,1001.66873,10.759639,0.692308,0.477115,50.0
-1951-07-14,1951,5,great-britain,maserati,Maserati,DNF,45,20,1001.66873,982.838443,-18.830287,0.105263,0.481869,50.0
-1951-07-29,1951,6,germany,maserati,Maserati,DNS,,23,982.838443,959.524671,-23.313772,0.0,0.466275,50.0
-1952-07-19,1952,5,great-britain,cooper,Cooper,DNF,14,32,959.524671,944.17005,-15.354621,0.129032,0.436125,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1950-05-13,1950,1,great-britain,1,maserati,Maserati,DNF,44,23,1000.0,990.909091,-9.090909,0.318182,0.5,50.0
+1950-09-03,1950,7,italy,7,maserati,Maserati,DNF,56,27,990.909091,1001.66873,10.759639,0.692308,0.477115,50.0
+1951-07-14,1951,5,great-britain,12,maserati,Maserati,DNF,45,20,1001.66873,982.838443,-18.830287,0.105263,0.481869,50.0
+1951-07-29,1951,6,germany,13,maserati,Maserati,DNS,,23,982.838443,959.524671,-23.313772,0.0,0.466275,50.0
+1952-07-19,1952,5,great-britain,20,cooper,Cooper,DNF,14,32,959.524671,944.17005,-15.354621,0.129032,0.436125,50.0

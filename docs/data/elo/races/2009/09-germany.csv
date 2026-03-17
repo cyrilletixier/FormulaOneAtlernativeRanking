@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,mark-webber,Mark Webber,red-bull,1,60,1,0,1,1182.736228,1202.546186,19.809959,1.0,0.603801,50.0,20
-2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,sebastian-vettel,Sebastian Vettel,red-bull,2,60,4,0,2,1160.683976,1179.358286,18.67431,0.947368,0.573882,50.0,20
-2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,felipe-massa,Felipe Massa,ferrari,3,60,8,0,3,1240.93008,1251.691261,10.761181,0.894737,0.679513,50.0,20
-2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,nico-rosberg,Nico Rosberg,williams,4,60,15,0,4,1141.665712,1156.38344,14.717728,0.842105,0.547751,50.0,20
-2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,jenson-button,Jenson Button,brawn,5,60,3,0,5,1191.505106,1200.201514,8.696408,0.789474,0.615546,50.0,20
-2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,rubens-barrichello,Rubens Barrichello,brawn,6,60,2,0,6,1127.248212,1137.699535,10.451323,0.736842,0.527816,50.0,20
-2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,fernando-alonso,Fernando Alonso,renault,7,60,12,0,7,1251.607228,1251.181351,-0.425877,0.684211,0.692728,50.0,20
-2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,heikki-kovalainen,Heikki Kovalainen,mclaren,8,60,6,0,8,1063.466485,1073.057263,9.590778,0.631579,0.439763,50.0,20
-2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,timo-glock,Timo Glock,toyota,9,60,20,0,9,1146.298976,1147.539447,1.240471,0.578947,0.554138,50.0,20
-2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,nick-heidfeld,Nick Heidfeld,bmw-sauber,10,60,11,0,10,1175.803689,1172.396989,-3.406699,0.526316,0.59445,50.0,20
-2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,giancarlo-fisichella,Giancarlo Fisichella,force-india,11,60,18,0,11,964.767061,972.864607,8.097545,0.473684,0.311733,50.0,20
-2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,kazuki-nakajima,Kazuki Nakajima,williams,12,60,13,0,12,983.251984,987.582923,4.330939,0.421053,0.334434,50.0,20
-2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,nelson-piquet-jr,Nelson Piquet Jr.,renault,13,60,10,0,13,987.616302,989.042611,1.426309,0.368421,0.339895,50.0,20
-2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,robert-kubica,Robert Kubica,bmw-sauber,14,60,16,0,14,1130.646241,1119.809691,-10.836551,0.315789,0.53252,50.0,20
-2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,adrian-sutil,Adrian Sutil,force-india,15,60,7,0,15,854.75109,858.231487,3.480397,0.263158,0.19355,50.0,20
-2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,sebastien-buemi,Sébastien Buemi,toro-rosso,16,60,17,0,16,964.479855,959.436856,-5.042999,0.210526,0.311386,50.0,20
-2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,jarno-trulli,Jarno Trulli,toyota,17,60,14,0,17,1129.746871,1111.077831,-18.66904,0.157895,0.531276,50.0,20
-2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,lewis-hamilton,Lewis Hamilton,mclaren,18,59,5,0,18,1208.442305,1181.809024,-26.633281,0.105263,0.637929,50.0,20
-2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,34,9,1,19,1211.777988,1182.295316,-29.482672,0.052632,0.642285,50.0,20
-2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,sebastien-bourdais,Sébastien Bourdais,toro-rosso,DNF,18,19,1,20,984.190121,967.409892,-16.780229,0.0,0.335605,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,812,mark-webber,Mark Webber,red-bull,1,60,1,0,1,1182.736228,1202.546186,19.809959,1.0,0.603801,50.0,20
+2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,812,sebastian-vettel,Sebastian Vettel,red-bull,2,60,4,0,2,1160.683976,1179.358286,18.67431,0.947368,0.573882,50.0,20
+2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,812,felipe-massa,Felipe Massa,ferrari,3,60,8,0,3,1240.93008,1251.691261,10.761181,0.894737,0.679513,50.0,20
+2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,812,nico-rosberg,Nico Rosberg,williams,4,60,15,0,4,1141.665712,1156.38344,14.717728,0.842105,0.547751,50.0,20
+2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,812,jenson-button,Jenson Button,brawn,5,60,3,0,5,1191.505106,1200.201514,8.696408,0.789474,0.615546,50.0,20
+2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,812,rubens-barrichello,Rubens Barrichello,brawn,6,60,2,0,6,1127.248212,1137.699535,10.451323,0.736842,0.527816,50.0,20
+2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,812,fernando-alonso,Fernando Alonso,renault,7,60,12,0,7,1251.607228,1251.181351,-0.425877,0.684211,0.692728,50.0,20
+2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,812,heikki-kovalainen,Heikki Kovalainen,mclaren,8,60,6,0,8,1063.466485,1073.057263,9.590778,0.631579,0.439763,50.0,20
+2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,812,timo-glock,Timo Glock,toyota,9,60,20,0,9,1146.298976,1147.539447,1.240471,0.578947,0.554138,50.0,20
+2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,812,nick-heidfeld,Nick Heidfeld,bmw-sauber,10,60,11,0,10,1175.803689,1172.396989,-3.406699,0.526316,0.59445,50.0,20
+2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,812,giancarlo-fisichella,Giancarlo Fisichella,force-india,11,60,18,0,11,964.767061,972.864607,8.097545,0.473684,0.311733,50.0,20
+2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,812,kazuki-nakajima,Kazuki Nakajima,williams,12,60,13,0,12,983.251984,987.582923,4.330939,0.421053,0.334434,50.0,20
+2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,812,nelson-piquet-jr,Nelson Piquet Jr.,renault,13,60,10,0,13,987.616302,989.042611,1.426309,0.368421,0.339895,50.0,20
+2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,812,robert-kubica,Robert Kubica,bmw-sauber,14,60,16,0,14,1130.646241,1119.809691,-10.836551,0.315789,0.53252,50.0,20
+2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,812,adrian-sutil,Adrian Sutil,force-india,15,60,7,0,15,854.75109,858.231487,3.480397,0.263158,0.19355,50.0,20
+2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,812,sebastien-buemi,Sébastien Buemi,toro-rosso,16,60,17,0,16,964.479855,959.436856,-5.042999,0.210526,0.311386,50.0,20
+2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,812,jarno-trulli,Jarno Trulli,toyota,17,60,14,0,17,1129.746871,1111.077831,-18.66904,0.157895,0.531276,50.0,20
+2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,812,lewis-hamilton,Lewis Hamilton,mclaren,18,59,5,0,18,1208.442305,1181.809024,-26.633281,0.105263,0.637929,50.0,20
+2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,812,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,34,9,1,19,1211.777988,1182.295316,-29.482672,0.052632,0.642285,50.0,20
+2009,9,2009-07-12,germany,Formula 1 Grosser Preis Santander von Deutschland 2009,812,sebastien-bourdais,Sébastien Bourdais,toro-rosso,DNF,18,19,1,20,984.190121,967.409892,-16.780229,0.0,0.335605,50.0,20

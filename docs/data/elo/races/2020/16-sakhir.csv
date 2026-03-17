@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,sergio-perez,Sergio Pérez,racing-point,1,87,5,0,1,1218.664996,1236.940288,18.275292,1.0,0.634494,50.0,20
-2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,esteban-ocon,Esteban Ocon,renault,2,87,11,0,2,1096.771736,1120.489655,23.71792,0.947368,0.47301,50.0,20
-2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,lance-stroll,Lance Stroll,racing-point,3,87,10,0,3,1057.799624,1081.490841,23.691216,0.894737,0.420913,50.0,20
-2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,4,87,8,0,4,1180.315291,1193.173587,12.858296,0.842105,0.584939,50.0,20
-2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,daniel-ricciardo,Daniel Ricciardo,renault,5,87,7,0,5,1212.772606,1220.895866,8.12326,0.789474,0.627008,50.0,20
-2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,alexander-albon,Alexander Albon,red-bull,6,87,12,0,6,1186.238645,1193.445214,7.206569,0.736842,0.592711,50.0,20
-2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,daniil-kvyat,Daniil Kvyat,alphatauri,7,87,6,0,7,1094.456999,1105.172802,10.715802,0.684211,0.469894,50.0,20
-2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,valtteri-bottas,Valtteri Bottas,mercedes,8,87,1,0,8,1383.190027,1374.032351,-9.157676,0.631579,0.814732,50.0,20
-2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,george-russell,George Russell,mercedes,9,87,2,0,9,920.787554,937.051978,16.264424,0.578947,0.253659,50.0,20
-2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,lando-norris,Lando Norris,mclaren,10,87,19,0,10,1167.244601,1165.176929,-2.067672,0.526316,0.567669,50.0,20
-2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,pierre-gasly,Pierre Gasly,alphatauri,11,87,9,0,11,1137.906931,1135.168793,-2.738137,0.473684,0.528447,50.0,20
-2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,sebastian-vettel,Sebastian Vettel,ferrari,12,87,13,0,12,1193.539549,1184.480377,-9.059172,0.421053,0.602236,50.0,20
-2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,13,87,14,0,13,973.854771,976.558743,2.703971,0.368421,0.314342,50.0,20
-2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,14,87,18,0,14,1073.745382,1067.429005,-6.316377,0.315789,0.442117,50.0,20
-2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,kevin-magnussen,Kevin Magnussen,haas,15,87,15,0,15,940.323727,939.718438,-0.605289,0.263158,0.275264,50.0,20
-2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,jack-aitken,Jack Aitken,williams,16,87,17,0,16,1000.0,993.207808,-6.792192,0.210526,0.34637,50.0,20
-2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,pietro-fittipaldi,Pietro Fittipaldi,haas,17,87,20,0,17,1000.0,990.576229,-9.423771,0.157895,0.34637,50.0,20
-2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,nicholas-latifi,Nicholas Latifi,williams,DNF,52,16,1,18,955.183948,945.832886,-9.351062,0.105263,0.292284,50.0,20
-2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,charles-leclerc,Charles Leclerc,ferrari,DNF,0,4,1,19,1233.835448,1202.475479,-31.359969,0.026316,0.653515,50.0,20
-2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,max-verstappen,Max Verstappen,red-bull,DNF,0,3,1,20,1326.698902,1290.013466,-36.685436,0.026316,0.760025,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,1034,sergio-perez,Sergio Pérez,racing-point,1,87,5,0,1,1218.664996,1236.940288,18.275292,1.0,0.634494,50.0,20
+2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,1034,esteban-ocon,Esteban Ocon,renault,2,87,11,0,2,1096.771736,1120.489655,23.71792,0.947368,0.47301,50.0,20
+2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,1034,lance-stroll,Lance Stroll,racing-point,3,87,10,0,3,1057.799624,1081.490841,23.691216,0.894737,0.420913,50.0,20
+2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,1034,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,4,87,8,0,4,1180.315291,1193.173587,12.858296,0.842105,0.584939,50.0,20
+2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,1034,daniel-ricciardo,Daniel Ricciardo,renault,5,87,7,0,5,1212.772606,1220.895866,8.12326,0.789474,0.627008,50.0,20
+2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,1034,alexander-albon,Alexander Albon,red-bull,6,87,12,0,6,1186.238645,1193.445214,7.206569,0.736842,0.592711,50.0,20
+2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,1034,daniil-kvyat,Daniil Kvyat,alphatauri,7,87,6,0,7,1094.456999,1105.172802,10.715802,0.684211,0.469894,50.0,20
+2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,1034,valtteri-bottas,Valtteri Bottas,mercedes,8,87,1,0,8,1383.190027,1374.032351,-9.157676,0.631579,0.814732,50.0,20
+2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,1034,george-russell,George Russell,mercedes,9,87,2,0,9,920.787554,937.051978,16.264424,0.578947,0.253659,50.0,20
+2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,1034,lando-norris,Lando Norris,mclaren,10,87,19,0,10,1167.244601,1165.176929,-2.067672,0.526316,0.567669,50.0,20
+2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,1034,pierre-gasly,Pierre Gasly,alphatauri,11,87,9,0,11,1137.906931,1135.168793,-2.738137,0.473684,0.528447,50.0,20
+2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,1034,sebastian-vettel,Sebastian Vettel,ferrari,12,87,13,0,12,1193.539549,1184.480377,-9.059172,0.421053,0.602236,50.0,20
+2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,1034,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,13,87,14,0,13,973.854771,976.558743,2.703971,0.368421,0.314342,50.0,20
+2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,1034,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,14,87,18,0,14,1073.745382,1067.429005,-6.316377,0.315789,0.442117,50.0,20
+2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,1034,kevin-magnussen,Kevin Magnussen,haas,15,87,15,0,15,940.323727,939.718438,-0.605289,0.263158,0.275264,50.0,20
+2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,1034,jack-aitken,Jack Aitken,williams,16,87,17,0,16,1000.0,993.207808,-6.792192,0.210526,0.34637,50.0,20
+2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,1034,pietro-fittipaldi,Pietro Fittipaldi,haas,17,87,20,0,17,1000.0,990.576229,-9.423771,0.157895,0.34637,50.0,20
+2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,1034,nicholas-latifi,Nicholas Latifi,williams,DNF,52,16,1,18,955.183948,945.832886,-9.351062,0.105263,0.292284,50.0,20
+2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,1034,charles-leclerc,Charles Leclerc,ferrari,DNF,0,4,1,19,1233.835448,1202.475479,-31.359969,0.026316,0.653515,50.0,20
+2020,16,2020-12-06,sakhir,Formula 1 Rolex Sakhir Grand Prix 2020,1034,max-verstappen,Max Verstappen,red-bull,DNF,0,3,1,20,1326.698902,1290.013466,-36.685436,0.026316,0.760025,50.0,20

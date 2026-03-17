@@ -1,9 +1,9 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1950-05-30,1950,3,indianapolis,kurtis-kraft,Kurtis Kraft,30,42,34,1000.0,978.030303,-21.969697,0.060606,0.5,50.0
-1951-05-30,1951,2,indianapolis,kurtis-kraft,Kurtis Kraft,12,135,34,978.030303,986.581863,8.55156,0.636364,0.465332,50.0
-1952-05-30,1952,2,indianapolis,kurtis-kraft,Kurtis Kraft,3,200,33,986.581863,1009.622845,23.040982,0.9375,0.47668,50.0
-1953-05-30,1953,2,indianapolis,kurtis-kraft,Kurtis Kraft,3,200,37,1009.622845,1030.586139,20.963294,0.930556,0.51129,50.0
-1954-05-31,1954,2,indianapolis,kurtis-kraft,Kurtis Kraft,11,,42,1030.586139,1036.510521,5.924382,0.658537,0.540049,50.0
-1955-05-30,1955,3,indianapolis,kurtis-kraft,Kurtis Kraft,19,134,35,1036.510521,1029.878831,-6.63169,0.411765,0.544399,50.0
-1956-05-30,1956,3,indianapolis,kurtis-kraft,Kurtis Kraft,2,200,34,1029.878831,1051.088413,21.209582,0.969697,0.545505,50.0
-1957-05-30,1957,3,indianapolis,epperly,Epperly,1,200,33,1051.088413,1072.355214,21.266801,1.0,0.574664,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1950-05-30,1950,3,indianapolis,3,kurtis-kraft,Kurtis Kraft,30,42,34,1000.0,978.030303,-21.969697,0.060606,0.5,50.0
+1951-05-30,1951,2,indianapolis,9,kurtis-kraft,Kurtis Kraft,12,135,34,978.030303,986.581863,8.55156,0.636364,0.465332,50.0
+1952-05-30,1952,2,indianapolis,17,kurtis-kraft,Kurtis Kraft,3,200,33,986.581863,1009.622845,23.040982,0.9375,0.47668,50.0
+1953-05-30,1953,2,indianapolis,25,kurtis-kraft,Kurtis Kraft,3,200,37,1009.622845,1030.586139,20.963294,0.930556,0.51129,50.0
+1954-05-31,1954,2,indianapolis,34,kurtis-kraft,Kurtis Kraft,11,,42,1030.586139,1036.510521,5.924382,0.658537,0.540049,50.0
+1955-05-30,1955,3,indianapolis,44,kurtis-kraft,Kurtis Kraft,19,134,35,1036.510521,1029.878831,-6.63169,0.411765,0.544399,50.0
+1956-05-30,1956,3,indianapolis,51,kurtis-kraft,Kurtis Kraft,2,200,34,1029.878831,1051.088413,21.209582,0.969697,0.545505,50.0
+1957-05-30,1957,3,indianapolis,59,epperly,Epperly,1,200,33,1051.088413,1072.355214,21.266801,1.0,0.574664,50.0

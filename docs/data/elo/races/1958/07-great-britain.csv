@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,peter-collins,Peter Collins,ferrari,1,75,6,0,1,1051.792252,1075.332158,23.539906,1.0,0.529202,50.0,20
-1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,mike-hawthorn,Mike Hawthorn,ferrari,2,75,4,0,2,1148.375176,1162.425019,14.049843,0.947368,0.666372,50.0,20
-1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,roy-salvadori,Roy Salvadori,cooper,3,75,3,0,3,980.840323,1004.350433,23.510111,0.894737,0.424535,50.0,20
-1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,stuart-lewis-evans,Stuart Lewis-Evans,vanwall,4,75,7,0,4,1009.726799,1028.486055,18.759256,0.842105,0.46692,50.0,20
-1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,harry-schell,Harry Schell,brm,5,75,2,0,5,1088.168135,1098.52044,10.352305,0.789474,0.582428,50.0,20
-1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,jack-brabham,Jack Brabham,cooper,6,75,10,0,6,1029.460269,1041.495537,12.035268,0.736842,0.496137,50.0,20
-1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,tony-brooks,Tony Brooks,vanwall,7,74,9,0,7,1009.243153,1020.143395,10.900242,0.684211,0.466206,50.0,20
-1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,maurice-trintignant,Maurice Trintignant,cooper,8,73,12,0,8,1050.147996,1055.388314,5.240318,0.631579,0.526773,50.0,20
-1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,carroll-shelby,Carroll Shelby,maserati,9,72,15,0,9,982.20675,989.827983,7.621234,0.578947,0.426523,50.0,20
-1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,wolfgang-von-trips,Wolfgang von Trips,ferrari,DNF,59,11,1,10,1052.048847,1051.885593,-0.163254,0.526316,0.529581,50.0,20
-1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,jo-bonnier,Jo Bonnier,maserati,DNF,49,13,1,11,983.925811,986.158686,2.232875,0.473684,0.429027,50.0,20
-1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,gerino-gerini,Gerino Gerini,maserati,DNF,43,18,1,12,1011.55342,1009.125078,-2.428342,0.421053,0.469619,50.0,20
-1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,ian-burgess,Ian Burgess,cooper,DNF,40,16,1,13,1000.0,995.792235,-4.207765,0.368421,0.452576,50.0,20
-1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,stirling-moss,Stirling Moss,vanwall,DNF,25,1,1,14,1176.799785,1157.426063,-19.373723,0.315789,0.703264,50.0,20
-1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,cliff-allison,Cliff Allison,lotus,DNF,21,5,1,15,1021.040935,1010.015829,-11.025106,0.263158,0.48366,50.0,20
-1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,alan-stacey,Alan Stacey,lotus,DNF,19,20,1,16,1000.0,985.265919,-14.734081,0.157895,0.452576,50.0,20
-1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,ivor-bueb,Ivor Bueb,connaught,DNF,19,17,1,17,1000.665745,985.88267,-14.783075,0.157895,0.453556,50.0,20
-1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,jean-behra,Jean Behra,brm,DNF,19,8,1,18,1070.361735,1050.430404,-19.931331,0.157895,0.556521,50.0,20
-1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,graham-hill,Graham Hill,lotus,DNF,17,14,1,19,989.723703,970.480565,-19.243138,0.052632,0.437494,50.0,20
-1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,jack-fairman,Jack Fairman,connaught,DNF,7,19,1,20,996.22822,973.876678,-22.351543,0.0,0.447031,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,71,peter-collins,Peter Collins,ferrari,1,75,6,0,1,1051.792252,1075.332158,23.539906,1.0,0.529202,50.0,20
+1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,71,mike-hawthorn,Mike Hawthorn,ferrari,2,75,4,0,2,1148.375176,1162.425019,14.049843,0.947368,0.666372,50.0,20
+1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,71,roy-salvadori,Roy Salvadori,cooper,3,75,3,0,3,980.840323,1004.350433,23.510111,0.894737,0.424535,50.0,20
+1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,71,stuart-lewis-evans,Stuart Lewis-Evans,vanwall,4,75,7,0,4,1009.726799,1028.486055,18.759256,0.842105,0.46692,50.0,20
+1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,71,harry-schell,Harry Schell,brm,5,75,2,0,5,1088.168135,1098.52044,10.352305,0.789474,0.582428,50.0,20
+1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,71,jack-brabham,Jack Brabham,cooper,6,75,10,0,6,1029.460269,1041.495537,12.035268,0.736842,0.496137,50.0,20
+1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,71,tony-brooks,Tony Brooks,vanwall,7,74,9,0,7,1009.243153,1020.143395,10.900242,0.684211,0.466206,50.0,20
+1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,71,maurice-trintignant,Maurice Trintignant,cooper,8,73,12,0,8,1050.147996,1055.388314,5.240318,0.631579,0.526773,50.0,20
+1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,71,carroll-shelby,Carroll Shelby,maserati,9,72,15,0,9,982.20675,989.827983,7.621234,0.578947,0.426523,50.0,20
+1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,71,wolfgang-von-trips,Wolfgang von Trips,ferrari,DNF,59,11,1,10,1052.048847,1051.885593,-0.163254,0.526316,0.529581,50.0,20
+1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,71,jo-bonnier,Jo Bonnier,maserati,DNF,49,13,1,11,983.925811,986.158686,2.232875,0.473684,0.429027,50.0,20
+1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,71,gerino-gerini,Gerino Gerini,maserati,DNF,43,18,1,12,1011.55342,1009.125078,-2.428342,0.421053,0.469619,50.0,20
+1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,71,ian-burgess,Ian Burgess,cooper,DNF,40,16,1,13,1000.0,995.792235,-4.207765,0.368421,0.452576,50.0,20
+1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,71,stirling-moss,Stirling Moss,vanwall,DNF,25,1,1,14,1176.799785,1157.426063,-19.373723,0.315789,0.703264,50.0,20
+1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,71,cliff-allison,Cliff Allison,lotus,DNF,21,5,1,15,1021.040935,1010.015829,-11.025106,0.263158,0.48366,50.0,20
+1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,71,alan-stacey,Alan Stacey,lotus,DNF,19,20,1,16,1000.0,985.265919,-14.734081,0.157895,0.452576,50.0,20
+1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,71,ivor-bueb,Ivor Bueb,connaught,DNF,19,17,1,17,1000.665745,985.88267,-14.783075,0.157895,0.453556,50.0,20
+1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,71,jean-behra,Jean Behra,brm,DNF,19,8,1,18,1070.361735,1050.430404,-19.931331,0.157895,0.556521,50.0,20
+1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,71,graham-hill,Graham Hill,lotus,DNF,17,14,1,19,989.723703,970.480565,-19.243138,0.052632,0.437494,50.0,20
+1958,7,1958-07-19,great-britain,1958 RAC British Grand Prix,71,jack-fairman,Jack Fairman,connaught,DNF,7,19,1,20,996.22822,973.876678,-22.351543,0.0,0.447031,50.0,20

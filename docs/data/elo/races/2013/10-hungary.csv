@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,lewis-hamilton,Lewis Hamilton,mercedes,1,70,1,0,1,1278.015986,1293.484415,15.468429,1.0,0.690631,50.0,22
-2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,kimi-raikkonen,Kimi Räikkönen,lotus-f1,2,70,6,0,2,1354.215514,1363.328503,9.112989,0.952381,0.770121,50.0,22
-2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,sebastian-vettel,Sebastian Vettel,red-bull,3,70,2,0,3,1406.781411,1411.138479,4.357068,0.904762,0.817621,50.0,22
-2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,mark-webber,Mark Webber,red-bull,4,70,10,0,4,1305.179687,1312.021199,6.841512,0.857143,0.720313,50.0,22
-2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,fernando-alonso,Fernando Alonso,ferrari,5,70,5,0,5,1378.099346,1378.951271,0.851925,0.809524,0.792485,50.0,22
-2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,romain-grosjean,Romain Grosjean,lotus-f1,6,70,3,0,6,1077.793482,1093.727752,15.93427,0.761905,0.443219,50.0,22
-2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,jenson-button,Jenson Button,mclaren,7,70,13,0,7,1249.463437,1252.277588,2.81415,0.714286,0.658003,50.0,22
-2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,felipe-massa,Felipe Massa,ferrari,8,70,7,0,8,1219.164285,1221.398695,2.234411,0.666667,0.621978,50.0,22
-2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,sergio-perez,Sergio Pérez,mclaren,9,69,9,0,9,1078.887729,1087.609208,8.721479,0.619048,0.444618,50.0,22
-2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,pastor-maldonado,Pastor Maldonado,williams,10,69,15,0,10,999.407514,1010.708465,11.300951,0.571429,0.34541,50.0,22
-2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,nico-hulkenberg,Nico Hülkenberg,sauber,11,69,12,0,11,1097.198889,1099.985245,2.786357,0.52381,0.468082,50.0,22
-2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,12,69,14,0,12,1006.686359,1012.785228,6.098869,0.47619,0.354213,50.0,22
-2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,daniel-ricciardo,Daniel Ricciardo,toro-rosso,13,69,8,0,13,1057.267432,1057.841202,0.57377,0.428571,0.417096,50.0,22
-2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,giedo-van-der-garde,Giedo van der Garde,caterham,14,68,20,0,14,936.210131,941.626397,5.416265,0.380952,0.272627,50.0,22
-2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,charles-pic,Charles Pic,caterham,15,68,19,0,15,918.543792,922.527239,3.983447,0.333333,0.253664,50.0,22
-2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,jules-bianchi,Jules Bianchi,marussia,16,67,21,0,16,957.800437,957.252282,-0.548154,0.285714,0.296677,50.0,22
-2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,max-chilton,Max Chilton,marussia,17,67,22,0,17,951.53743,948.961884,-2.575545,0.238095,0.289606,50.0,22
-2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,paul-di-resta,Paul di Resta,force-india,18,66,18,0,18,1159.646045,1141.76849,-17.877555,0.190476,0.548027,50.0,22
-2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,nico-rosberg,Nico Rosberg,mercedes,19,64,4,0,19,1195.424163,1172.921622,-22.502541,0.142857,0.592908,50.0,22
-2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,valtteri-bottas,Valtteri Bottas,williams,DNF,42,16,1,20,1018.980611,1005.280405,-13.700206,0.095238,0.369242,50.0,22
-2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,esteban-gutierrez,Esteban Gutiérrez,sauber,DNF,28,17,1,21,992.238905,977.779179,-14.459726,0.047619,0.336814,50.0,22
-2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,adrian-sutil,Adrian Sutil,force-india,DNF,19,11,1,22,1119.436019,1094.603855,-24.832163,0.0,0.496643,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,888,lewis-hamilton,Lewis Hamilton,mercedes,1,70,1,0,1,1278.015986,1293.484415,15.468429,1.0,0.690631,50.0,22
+2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,888,kimi-raikkonen,Kimi Räikkönen,lotus-f1,2,70,6,0,2,1354.215514,1363.328503,9.112989,0.952381,0.770121,50.0,22
+2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,888,sebastian-vettel,Sebastian Vettel,red-bull,3,70,2,0,3,1406.781411,1411.138479,4.357068,0.904762,0.817621,50.0,22
+2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,888,mark-webber,Mark Webber,red-bull,4,70,10,0,4,1305.179687,1312.021199,6.841512,0.857143,0.720313,50.0,22
+2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,888,fernando-alonso,Fernando Alonso,ferrari,5,70,5,0,5,1378.099346,1378.951271,0.851925,0.809524,0.792485,50.0,22
+2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,888,romain-grosjean,Romain Grosjean,lotus-f1,6,70,3,0,6,1077.793482,1093.727752,15.93427,0.761905,0.443219,50.0,22
+2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,888,jenson-button,Jenson Button,mclaren,7,70,13,0,7,1249.463437,1252.277588,2.81415,0.714286,0.658003,50.0,22
+2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,888,felipe-massa,Felipe Massa,ferrari,8,70,7,0,8,1219.164285,1221.398695,2.234411,0.666667,0.621978,50.0,22
+2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,888,sergio-perez,Sergio Pérez,mclaren,9,69,9,0,9,1078.887729,1087.609208,8.721479,0.619048,0.444618,50.0,22
+2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,888,pastor-maldonado,Pastor Maldonado,williams,10,69,15,0,10,999.407514,1010.708465,11.300951,0.571429,0.34541,50.0,22
+2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,888,nico-hulkenberg,Nico Hülkenberg,sauber,11,69,12,0,11,1097.198889,1099.985245,2.786357,0.52381,0.468082,50.0,22
+2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,888,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,12,69,14,0,12,1006.686359,1012.785228,6.098869,0.47619,0.354213,50.0,22
+2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,888,daniel-ricciardo,Daniel Ricciardo,toro-rosso,13,69,8,0,13,1057.267432,1057.841202,0.57377,0.428571,0.417096,50.0,22
+2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,888,giedo-van-der-garde,Giedo van der Garde,caterham,14,68,20,0,14,936.210131,941.626397,5.416265,0.380952,0.272627,50.0,22
+2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,888,charles-pic,Charles Pic,caterham,15,68,19,0,15,918.543792,922.527239,3.983447,0.333333,0.253664,50.0,22
+2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,888,jules-bianchi,Jules Bianchi,marussia,16,67,21,0,16,957.800437,957.252282,-0.548154,0.285714,0.296677,50.0,22
+2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,888,max-chilton,Max Chilton,marussia,17,67,22,0,17,951.53743,948.961884,-2.575545,0.238095,0.289606,50.0,22
+2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,888,paul-di-resta,Paul di Resta,force-india,18,66,18,0,18,1159.646045,1141.76849,-17.877555,0.190476,0.548027,50.0,22
+2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,888,nico-rosberg,Nico Rosberg,mercedes,19,64,4,0,19,1195.424163,1172.921622,-22.502541,0.142857,0.592908,50.0,22
+2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,888,valtteri-bottas,Valtteri Bottas,williams,DNF,42,16,1,20,1018.980611,1005.280405,-13.700206,0.095238,0.369242,50.0,22
+2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,888,esteban-gutierrez,Esteban Gutiérrez,sauber,DNF,28,17,1,21,992.238905,977.779179,-14.459726,0.047619,0.336814,50.0,22
+2013,10,2013-07-28,hungary,Formula 1 Magyar Nagydíj 2013,888,adrian-sutil,Adrian Sutil,force-india,DNF,19,11,1,22,1119.436019,1094.603855,-24.832163,0.0,0.496643,50.0,22

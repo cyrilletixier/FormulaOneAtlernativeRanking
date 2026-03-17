@@ -1,4 +1,4 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1959-07-18,1959,5,great-britain,lotus,Lotus,DNF,19,30,1000.0,991.374176,-8.625824,0.310345,0.482861,50.0
-1960-07-03,1960,6,france,lotus,Lotus,DNS,,23,991.374176,971.239985,-20.134191,0.045455,0.448138,50.0
-1960-07-16,1960,7,great-britain,lotus,Lotus,12,72,25,971.239985,976.980155,5.74017,0.541667,0.426863,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1959-07-18,1959,5,great-britain,80,lotus,Lotus,DNF,19,30,1000.0,991.374176,-8.625824,0.310345,0.482861,50.0
+1960-07-03,1960,6,france,90,lotus,Lotus,DNS,,23,991.374176,971.239985,-20.134191,0.045455,0.448138,50.0
+1960-07-16,1960,7,great-britain,91,lotus,Lotus,12,72,25,971.239985,976.980155,5.74017,0.541667,0.426863,50.0

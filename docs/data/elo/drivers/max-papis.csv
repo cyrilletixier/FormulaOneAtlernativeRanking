@@ -1,8 +1,8 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1995-07-16,1995,8,great-britain,footwork,Footwork,DNF,28,24,1000.0,996.567788,-3.432212,0.347826,0.41647,50.0
-1995-07-30,1995,9,germany,footwork,Footwork,DNF,0,24,996.567788,977.259632,-19.308156,0.021739,0.407902,50.0
-1995-08-13,1995,10,hungary,footwork,Footwork,DNF,45,24,977.259632,971.354481,-5.905152,0.26087,0.378973,50.0
-1995-08-27,1995,11,belgium,footwork,Footwork,DNF,20,24,971.354481,961.472661,-9.88182,0.173913,0.371549,50.0
-1995-09-10,1995,12,italy,footwork,Footwork,7,52,24,961.472661,980.492861,19.0202,0.73913,0.358726,50.0
-1995-09-24,1995,13,portugal,footwork,Footwork,DNF,0,24,980.492861,962.542799,-17.950062,0.021739,0.38074,50.0
-1995-10-01,1995,14,europe,footwork,Footwork,12,64,24,962.542799,970.654914,8.112114,0.521739,0.359497,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1995-07-16,1995,8,great-britain,572,footwork,Footwork,DNF,28,24,1000.0,996.567788,-3.432212,0.347826,0.41647,50.0
+1995-07-30,1995,9,germany,573,footwork,Footwork,DNF,0,24,996.567788,977.259632,-19.308156,0.021739,0.407902,50.0
+1995-08-13,1995,10,hungary,574,footwork,Footwork,DNF,45,24,977.259632,971.354481,-5.905152,0.26087,0.378973,50.0
+1995-08-27,1995,11,belgium,575,footwork,Footwork,DNF,20,24,971.354481,961.472661,-9.88182,0.173913,0.371549,50.0
+1995-09-10,1995,12,italy,576,footwork,Footwork,7,52,24,961.472661,980.492861,19.0202,0.73913,0.358726,50.0
+1995-09-24,1995,13,portugal,577,footwork,Footwork,DNF,0,24,980.492861,962.542799,-17.950062,0.021739,0.38074,50.0
+1995-10-01,1995,14,europe,578,footwork,Footwork,12,64,24,962.542799,970.654914,8.112114,0.521739,0.359497,50.0

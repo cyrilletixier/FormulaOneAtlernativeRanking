@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,fernando-alonso,Fernando Alonso,renault,1,56,1,0,1,1308.832519,1321.045374,12.212855,1.0,0.755743,50.0,20
-2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,kimi-raikkonen,Kimi Räikkönen,mclaren,2,56,3,0,2,1272.967371,1284.543902,11.576531,0.947368,0.715838,50.0,20
-2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,ralf-schumacher,Ralf Schumacher,toyota,3,56,9,0,3,1188.482772,1202.67291,14.190138,0.894737,0.610934,50.0,20
-2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,renault,4,56,2,0,4,1165.142128,1178.251088,13.10896,0.842105,0.579926,50.0,20
-2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,christian-klien,Christian Klien,red-bull,5,56,14,0,5,1030.108785,1049.770063,19.661278,0.789474,0.396248,50.0,20
-2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,felipe-massa,Felipe Massa,sauber,6,56,11,0,6,1071.987642,1086.192348,14.204706,0.736842,0.452748,50.0,20
-2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,mark-webber,Mark Webber,williams,7,56,10,0,7,1068.042627,1079.884776,11.84215,0.684211,0.447368,50.0,20
-2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,jenson-button,Jenson Button,bar,8,56,4,0,8,1204.545231,1204.531324,-0.013906,0.631579,0.631857,50.0,20
-2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,david-coulthard,David Coulthard,red-bull,9,56,7,0,9,1082.067941,1087.688765,5.620824,0.578947,0.466531,50.0,20
-2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,jacques-villeneuve,Jacques Villeneuve,sauber,10,56,16,0,10,1050.207246,1055.36442,5.157174,0.526316,0.423172,50.0,20
-2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,tiago-monteiro,Tiago Monteiro,jordan,11,56,19,0,11,998.77717,1004.69704,5.91987,0.473684,0.355287,50.0,20
-2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,rubens-barrichello,Rubens Barrichello,ferrari,12,56,8,0,12,1226.935871,1214.971715,-11.964157,0.421053,0.660336,50.0,20
-2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,antonio-pizzonia,Antônio Pizzonia,williams,13,55,13,0,13,994.78659,995.698775,0.912184,0.368421,0.350177,50.0,20
-2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,robert-doornbos,Robert Doornbos,minardi,14,55,20,0,14,959.722435,960.184743,0.462309,0.315789,0.306543,50.0,20
-2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,jarno-trulli,Jarno Trulli,toyota,15,55,12,0,15,1136.101527,1122.229201,-13.872326,0.263158,0.540604,50.0,20
-2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,christijan-albers,Christijan Albers,minardi,16,51,PL,0,16,954.177936,949.710686,-4.46725,0.210526,0.299871,50.0,20
-2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,takuma-sato,Takuma Sato,bar,DNF,34,17,1,17,1016.007572,1005.020324,-10.987248,0.157895,0.37764,50.0,20
-2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,narain-karthikeyan,Narain Karthikeyan,jordan,DNF,28,PL,1,18,951.112058,941.564674,-9.547384,0.105263,0.296211,50.0,20
-2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,juan-pablo-montoya,Juan Pablo Montoya,mclaren,DNF,24,5,1,19,1186.489526,1158.705495,-27.784031,0.052632,0.608312,50.0,20
-2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,michael-schumacher,Michael Schumacher,ferrari,DNF,22,PL,1,20,1280.654818,1244.422142,-36.232676,0.0,0.724654,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,750,fernando-alonso,Fernando Alonso,renault,1,56,1,0,1,1308.832519,1321.045374,12.212855,1.0,0.755743,50.0,20
+2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,750,kimi-raikkonen,Kimi Räikkönen,mclaren,2,56,3,0,2,1272.967371,1284.543902,11.576531,0.947368,0.715838,50.0,20
+2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,750,ralf-schumacher,Ralf Schumacher,toyota,3,56,9,0,3,1188.482772,1202.67291,14.190138,0.894737,0.610934,50.0,20
+2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,750,giancarlo-fisichella,Giancarlo Fisichella,renault,4,56,2,0,4,1165.142128,1178.251088,13.10896,0.842105,0.579926,50.0,20
+2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,750,christian-klien,Christian Klien,red-bull,5,56,14,0,5,1030.108785,1049.770063,19.661278,0.789474,0.396248,50.0,20
+2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,750,felipe-massa,Felipe Massa,sauber,6,56,11,0,6,1071.987642,1086.192348,14.204706,0.736842,0.452748,50.0,20
+2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,750,mark-webber,Mark Webber,williams,7,56,10,0,7,1068.042627,1079.884776,11.84215,0.684211,0.447368,50.0,20
+2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,750,jenson-button,Jenson Button,bar,8,56,4,0,8,1204.545231,1204.531324,-0.013906,0.631579,0.631857,50.0,20
+2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,750,david-coulthard,David Coulthard,red-bull,9,56,7,0,9,1082.067941,1087.688765,5.620824,0.578947,0.466531,50.0,20
+2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,750,jacques-villeneuve,Jacques Villeneuve,sauber,10,56,16,0,10,1050.207246,1055.36442,5.157174,0.526316,0.423172,50.0,20
+2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,750,tiago-monteiro,Tiago Monteiro,jordan,11,56,19,0,11,998.77717,1004.69704,5.91987,0.473684,0.355287,50.0,20
+2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,750,rubens-barrichello,Rubens Barrichello,ferrari,12,56,8,0,12,1226.935871,1214.971715,-11.964157,0.421053,0.660336,50.0,20
+2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,750,antonio-pizzonia,Antônio Pizzonia,williams,13,55,13,0,13,994.78659,995.698775,0.912184,0.368421,0.350177,50.0,20
+2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,750,robert-doornbos,Robert Doornbos,minardi,14,55,20,0,14,959.722435,960.184743,0.462309,0.315789,0.306543,50.0,20
+2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,750,jarno-trulli,Jarno Trulli,toyota,15,55,12,0,15,1136.101527,1122.229201,-13.872326,0.263158,0.540604,50.0,20
+2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,750,christijan-albers,Christijan Albers,minardi,16,51,PL,0,16,954.177936,949.710686,-4.46725,0.210526,0.299871,50.0,20
+2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,750,takuma-sato,Takuma Sato,bar,DNF,34,17,1,17,1016.007572,1005.020324,-10.987248,0.157895,0.37764,50.0,20
+2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,750,narain-karthikeyan,Narain Karthikeyan,jordan,DNF,28,PL,1,18,951.112058,941.564674,-9.547384,0.105263,0.296211,50.0,20
+2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,750,juan-pablo-montoya,Juan Pablo Montoya,mclaren,DNF,24,5,1,19,1186.489526,1158.705495,-27.784031,0.052632,0.608312,50.0,20
+2005,19,2005-10-16,china,2005 Formula 1 Sinopec Chinese Grand Prix,750,michael-schumacher,Michael Schumacher,ferrari,DNF,22,PL,1,20,1280.654818,1244.422142,-36.232676,0.0,0.724654,50.0,20

@@ -1,18 +1,18 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1969,11,1969-10-19,mexico,Gran Premio de México 1969,denny-hulme,Denny Hulme,mclaren,1,65,4,0,1,1119.007119,1139.675872,20.668753,1.0,0.586625,50.0,17
-1969,11,1969-10-19,mexico,Gran Premio de México 1969,jacky-ickx,Jacky Ickx,brabham,2,65,2,0,2,1132.430435,1149.018778,16.588343,0.9375,0.605733,50.0,17
-1969,11,1969-10-19,mexico,Gran Premio de México 1969,jack-brabham,Jack Brabham,brabham,3,65,1,0,3,1075.502083,1093.082085,17.580003,0.875,0.5234,50.0,17
-1969,11,1969-10-19,mexico,Gran Premio de México 1969,jackie-stewart,Jackie Stewart,matra,4,65,3,0,4,1210.151717,1215.288788,5.137072,0.8125,0.709759,50.0,17
-1969,11,1969-10-19,mexico,Gran Premio de México 1969,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,5,65,8,0,5,1109.484458,1118.337953,8.853495,0.75,0.57293,50.0,17
-1969,11,1969-10-19,mexico,Gran Premio de México 1969,jackie-oliver,Jackie Oliver,brm,6,63,12,0,6,938.672589,956.62945,17.956861,0.6875,0.328363,50.0,17
-1969,11,1969-10-19,mexico,Gran Premio de México 1969,pedro-rodriguez,Pedro Rodríguez,ferrari,7,63,15,0,7,1096.111442,1099.684458,3.573016,0.625,0.55354,50.0,17
-1969,11,1969-10-19,mexico,Gran Premio de México 1969,johnny-servoz-gavin,Johnny Servoz-Gavin,matra,8,63,14,0,8,1033.435937,1038.479498,5.043561,0.5625,0.461629,50.0,17
-1969,11,1969-10-19,mexico,Gran Premio de México 1969,pete-lovely,Pete Lovely,lotus,9,62,16,0,9,994.705778,999.42618,4.720402,0.5,0.405592,50.0,17
-1969,11,1969-10-19,mexico,Gran Premio de México 1969,piers-courage,Piers Courage,brabham,10,61,9,0,10,1049.956852,1047.538913,-2.417939,0.4375,0.485859,50.0,17
-1969,11,1969-10-19,mexico,Gran Premio de México 1969,silvio-moser,Silvio Moser,brabham,11,60,13,0,11,950.624493,952.158282,1.533789,0.375,0.344324,50.0,17
-1969,11,1969-10-19,mexico,Gran Premio de México 1969,john-surtees,John Surtees,brm,DNF,53,10,1,12,1035.833112,1028.201246,-7.631866,0.3125,0.465137,50.0,17
-1969,11,1969-10-19,mexico,Gran Premio de México 1969,jochen-rindt,Jochen Rindt,lotus,DNF,21,6,1,13,1075.656309,1061.974995,-13.681314,0.25,0.523626,50.0,17
-1969,11,1969-10-19,mexico,Gran Premio de México 1969,george-eaton,George Eaton,brm,DNF,6,17,1,14,1002.999387,991.501373,-11.498015,0.1875,0.41746,50.0,17
-1969,11,1969-10-19,mexico,Gran Premio de México 1969,jo-siffert,Jo Siffert,lotus,DNF,4,5,1,15,1084.013475,1063.469685,-20.543791,0.125,0.535876,50.0,17
-1969,11,1969-10-19,mexico,Gran Premio de México 1969,john-miles,John Miles,lotus,DNF,3,11,1,16,973.998952,958.304484,-15.694469,0.0625,0.376389,50.0,17
-1969,11,1969-10-19,mexico,Gran Premio de México 1969,bruce-mclaren,Bruce McLaren,mclaren,DNS,,7,2,17,1131.034609,1100.846707,-30.187902,0.0,0.603758,50.0,17
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1969,11,1969-10-19,mexico,Gran Premio de México 1969,184,denny-hulme,Denny Hulme,mclaren,1,65,4,0,1,1119.007119,1139.675872,20.668753,1.0,0.586625,50.0,17
+1969,11,1969-10-19,mexico,Gran Premio de México 1969,184,jacky-ickx,Jacky Ickx,brabham,2,65,2,0,2,1132.430435,1149.018778,16.588343,0.9375,0.605733,50.0,17
+1969,11,1969-10-19,mexico,Gran Premio de México 1969,184,jack-brabham,Jack Brabham,brabham,3,65,1,0,3,1075.502083,1093.082085,17.580003,0.875,0.5234,50.0,17
+1969,11,1969-10-19,mexico,Gran Premio de México 1969,184,jackie-stewart,Jackie Stewart,matra,4,65,3,0,4,1210.151717,1215.288788,5.137072,0.8125,0.709759,50.0,17
+1969,11,1969-10-19,mexico,Gran Premio de México 1969,184,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,5,65,8,0,5,1109.484458,1118.337953,8.853495,0.75,0.57293,50.0,17
+1969,11,1969-10-19,mexico,Gran Premio de México 1969,184,jackie-oliver,Jackie Oliver,brm,6,63,12,0,6,938.672589,956.62945,17.956861,0.6875,0.328363,50.0,17
+1969,11,1969-10-19,mexico,Gran Premio de México 1969,184,pedro-rodriguez,Pedro Rodríguez,ferrari,7,63,15,0,7,1096.111442,1099.684458,3.573016,0.625,0.55354,50.0,17
+1969,11,1969-10-19,mexico,Gran Premio de México 1969,184,johnny-servoz-gavin,Johnny Servoz-Gavin,matra,8,63,14,0,8,1033.435937,1038.479498,5.043561,0.5625,0.461629,50.0,17
+1969,11,1969-10-19,mexico,Gran Premio de México 1969,184,pete-lovely,Pete Lovely,lotus,9,62,16,0,9,994.705778,999.42618,4.720402,0.5,0.405592,50.0,17
+1969,11,1969-10-19,mexico,Gran Premio de México 1969,184,piers-courage,Piers Courage,brabham,10,61,9,0,10,1049.956852,1047.538913,-2.417939,0.4375,0.485859,50.0,17
+1969,11,1969-10-19,mexico,Gran Premio de México 1969,184,silvio-moser,Silvio Moser,brabham,11,60,13,0,11,950.624493,952.158282,1.533789,0.375,0.344324,50.0,17
+1969,11,1969-10-19,mexico,Gran Premio de México 1969,184,john-surtees,John Surtees,brm,DNF,53,10,1,12,1035.833112,1028.201246,-7.631866,0.3125,0.465137,50.0,17
+1969,11,1969-10-19,mexico,Gran Premio de México 1969,184,jochen-rindt,Jochen Rindt,lotus,DNF,21,6,1,13,1075.656309,1061.974995,-13.681314,0.25,0.523626,50.0,17
+1969,11,1969-10-19,mexico,Gran Premio de México 1969,184,george-eaton,George Eaton,brm,DNF,6,17,1,14,1002.999387,991.501373,-11.498015,0.1875,0.41746,50.0,17
+1969,11,1969-10-19,mexico,Gran Premio de México 1969,184,jo-siffert,Jo Siffert,lotus,DNF,4,5,1,15,1084.013475,1063.469685,-20.543791,0.125,0.535876,50.0,17
+1969,11,1969-10-19,mexico,Gran Premio de México 1969,184,john-miles,John Miles,lotus,DNF,3,11,1,16,973.998952,958.304484,-15.694469,0.0625,0.376389,50.0,17
+1969,11,1969-10-19,mexico,Gran Premio de México 1969,184,bruce-mclaren,Bruce McLaren,mclaren,DNS,,7,2,17,1131.034609,1100.846707,-30.187902,0.0,0.603758,50.0,17

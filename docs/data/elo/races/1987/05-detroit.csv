@@ -1,27 +1,27 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,ayrton-senna,Ayrton Senna,lotus,1,63,2,0,1,1158.232784,1176.366419,18.133635,1.0,0.637327,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,nelson-piquet,Nelson Piquet,williams,2,63,3,0,2,1217.581227,1230.049243,12.468016,0.96,0.71064,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,alain-prost,Alain Prost,mclaren,3,63,5,0,3,1281.955173,1288.928302,6.973129,0.92,0.780537,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,gerhard-berger,Gerhard Berger,ferrari,4,63,12,0,4,1089.76862,1106.502429,16.733809,0.88,0.545324,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,nigel-mansell,Nigel Mansell,williams,5,62,1,0,5,1217.032106,1223.532234,6.500128,0.84,0.709997,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,eddie-cheever,Eddie Cheever,arrows,6,60,6,0,6,1004.994352,1023.602606,18.608255,0.8,0.427835,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,stefan-johansson,Stefan Johansson,mclaren,7,60,11,0,7,1178.789732,1183.611856,4.822125,0.76,0.663558,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,christian-danner,Christian Danner,zakspeed,8,60,16,0,8,1009.049634,1023.379816,14.330183,0.72,0.433396,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,riccardo-patrese,Riccardo Patrese,brabham,9,60,9,0,9,1003.274375,1016.000348,12.725973,0.68,0.425481,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,rene-arnoux,René Arnoux,ligier,10,60,21,0,10,1167.254239,1166.807376,-0.446863,0.64,0.648937,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,jonathan-palmer,Jonathan Palmer,tyrrell,11,60,13,0,11,1021.359742,1028.841882,7.482139,0.6,0.450357,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,pascal-fabre,Pascal Fabre,ags,12,58,26,0,12,1023.509794,1028.843297,5.333502,0.56,0.45333,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,thierry-boutsen,Thierry Boutsen,benetton,DNF,52,4,1,13,1089.002737,1087.789398,-1.213339,0.52,0.544267,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,piercarlo-ghinzani,Piercarlo Ghinzani,ligier,NC,51,23,1,14,881.035003,891.529985,10.494982,0.48,0.2701,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,philippe-streiff,Philippe Streiff,tyrrell,DNF,44,14,1,15,1060.491312,1057.255519,-3.235793,0.44,0.504716,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,philippe-alliot,Philippe Alliot,lola,DNF,38,20,1,16,991.265846,990.809601,-0.456246,0.4,0.409125,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,michele-alboreto,Michele Alboreto,ferrari,DNF,25,7,1,17,1126.309674,1114.551581,-11.758093,0.36,0.595162,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,alessandro-nannini,Alessandro Nannini,minardi,DNF,22,18,1,18,893.490183,895.265182,1.774999,0.32,0.2845,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,martin-brundle,Martin Brundle,zakspeed,DNF,16,15,1,19,1094.026611,1080.46695,-13.559662,0.28,0.551193,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,derek-warwick,Derek Warwick,arrows,DNF,12,10,1,20,1010.7273,1000.942241,-9.785058,0.24,0.435701,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,ivan-capelli,Ivan Capelli,march,DNF,9,22,1,21,994.119325,983.469449,-10.649876,0.2,0.412998,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,teo-fabi,Teo Fabi,benetton,DNF,6,8,1,22,1016.690051,1002.494519,-14.195532,0.16,0.443911,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,alex-caffi,Alex Caffi,osella,DNF,3,19,1,23,998.487838,983.540668,-14.94717,0.12,0.418943,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,andrea-de-cesaris,Andrea de Cesaris,brabham,DNF,2,17,1,24,981.712456,965.900971,-15.811484,0.08,0.39623,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,adrian-campos,Adrián Campos,minardi,DNF,1,25,1,25,941.06303,925.919778,-15.143252,0.04,0.342865,50.0,26
-1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,satoru-nakajima,Satoru Nakajima,lotus,DNF,0,24,1,26,1059.667937,1034.489431,-25.178506,0.0,0.50357,50.0,26
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,ayrton-senna,Ayrton Senna,lotus,1,63,2,0,1,1158.232784,1176.366419,18.133635,1.0,0.637327,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,nelson-piquet,Nelson Piquet,williams,2,63,3,0,2,1217.581227,1230.049243,12.468016,0.96,0.71064,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,alain-prost,Alain Prost,mclaren,3,63,5,0,3,1281.955173,1288.928302,6.973129,0.92,0.780537,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,gerhard-berger,Gerhard Berger,ferrari,4,63,12,0,4,1089.76862,1106.502429,16.733809,0.88,0.545324,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,nigel-mansell,Nigel Mansell,williams,5,62,1,0,5,1217.032106,1223.532234,6.500128,0.84,0.709997,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,eddie-cheever,Eddie Cheever,arrows,6,60,6,0,6,1004.994352,1023.602606,18.608255,0.8,0.427835,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,stefan-johansson,Stefan Johansson,mclaren,7,60,11,0,7,1178.789732,1183.611856,4.822125,0.76,0.663558,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,christian-danner,Christian Danner,zakspeed,8,60,16,0,8,1009.049634,1023.379816,14.330183,0.72,0.433396,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,riccardo-patrese,Riccardo Patrese,brabham,9,60,9,0,9,1003.274375,1016.000348,12.725973,0.68,0.425481,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,rene-arnoux,René Arnoux,ligier,10,60,21,0,10,1167.254239,1166.807376,-0.446863,0.64,0.648937,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,jonathan-palmer,Jonathan Palmer,tyrrell,11,60,13,0,11,1021.359742,1028.841882,7.482139,0.6,0.450357,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,pascal-fabre,Pascal Fabre,ags,12,58,26,0,12,1023.509794,1028.843297,5.333502,0.56,0.45333,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,thierry-boutsen,Thierry Boutsen,benetton,DNF,52,4,1,13,1089.002737,1087.789398,-1.213339,0.52,0.544267,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,piercarlo-ghinzani,Piercarlo Ghinzani,ligier,NC,51,23,1,14,881.035003,891.529985,10.494982,0.48,0.2701,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,philippe-streiff,Philippe Streiff,tyrrell,DNF,44,14,1,15,1060.491312,1057.255519,-3.235793,0.44,0.504716,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,philippe-alliot,Philippe Alliot,lola,DNF,38,20,1,16,991.265846,990.809601,-0.456246,0.4,0.409125,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,michele-alboreto,Michele Alboreto,ferrari,DNF,25,7,1,17,1126.309674,1114.551581,-11.758093,0.36,0.595162,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,alessandro-nannini,Alessandro Nannini,minardi,DNF,22,18,1,18,893.490183,895.265182,1.774999,0.32,0.2845,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,martin-brundle,Martin Brundle,zakspeed,DNF,16,15,1,19,1094.026611,1080.46695,-13.559662,0.28,0.551193,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,derek-warwick,Derek Warwick,arrows,DNF,12,10,1,20,1010.7273,1000.942241,-9.785058,0.24,0.435701,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,ivan-capelli,Ivan Capelli,march,DNF,9,22,1,21,994.119325,983.469449,-10.649876,0.2,0.412998,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,teo-fabi,Teo Fabi,benetton,DNF,6,8,1,22,1016.690051,1002.494519,-14.195532,0.16,0.443911,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,alex-caffi,Alex Caffi,osella,DNF,3,19,1,23,998.487838,983.540668,-14.94717,0.12,0.418943,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,andrea-de-cesaris,Andrea de Cesaris,brabham,DNF,2,17,1,24,981.712456,965.900971,-15.811484,0.08,0.39623,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,adrian-campos,Adrián Campos,minardi,DNF,1,25,1,25,941.06303,925.919778,-15.143252,0.04,0.342865,50.0,26
+1987,5,1987-06-21,detroit,1987 Detroit Grand Prix,441,satoru-nakajima,Satoru Nakajima,lotus,DNF,0,24,1,26,1059.667937,1034.489431,-25.178506,0.0,0.50357,50.0,26

@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,michael-schumacher,Michael Schumacher,ferrari,1,62,1,0,1,1416.273266,1422.614504,6.341238,1.0,0.873175,50.0,20
-2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,kimi-raikkonen,Kimi Räikkönen,mclaren,2,62,6,0,2,1123.899389,1143.192113,19.292724,0.947368,0.561514,50.0,20
-2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,rubens-barrichello,Rubens Barrichello,ferrari,3,62,3,0,3,1231.132461,1240.900953,9.768492,0.894737,0.699367,50.0,20
-2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,ralf-schumacher,Ralf Schumacher,williams,4,62,2,0,4,1189.724439,1199.398986,9.674547,0.842105,0.648614,50.0,20
-2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,david-coulthard,David Coulthard,mclaren,5,62,12,0,5,1221.112001,1226.21416,5.102159,0.789474,0.68743,50.0,20
-2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,fernando-alonso,Fernando Alonso,renault,6,62,8,0,6,1019.23979,1035.258107,16.018317,0.736842,0.416476,50.0,20
-2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,juan-pablo-montoya,Juan Pablo Montoya,williams,7,62,4,0,7,1155.487458,1159.492115,4.004657,0.684211,0.604117,50.0,20
-2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,jenson-button,Jenson Button,bar,8,61,9,0,8,1081.404736,1087.845803,6.441067,0.631579,0.502758,50.0,20
-2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,olivier-panis,Olivier Panis,toyota,9,61,10,0,9,986.473026,996.812247,10.339221,0.578947,0.372163,50.0,20
-2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,nick-heidfeld,Nick Heidfeld,sauber,10,61,11,0,10,1079.053913,1080.395584,1.341671,0.526316,0.499482,50.0,20
-2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,11,61,14,0,11,1040.006354,1041.434681,1.428326,0.473684,0.445118,50.0,20
-2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,cristiano-da-matta,Cristiano da Matta,toyota,12,61,13,0,12,997.942697,999.619266,1.676568,0.421053,0.387521,50.0,20
-2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,jarno-trulli,Jarno Trulli,renault,13,61,16,0,13,1102.043721,1093.893167,-8.150555,0.368421,0.531432,50.0,20
-2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,antonio-pizzonia,Antônio Pizzonia,jaguar,14,60,15,0,14,987.5607,984.669609,-2.891091,0.315789,0.373611,50.0,20
-2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,giancarlo-fisichella,Giancarlo Fisichella,jordan,15,57,17,0,15,1060.928455,1050.375666,-10.552789,0.263158,0.474214,50.0,20
-2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,mark-webber,Mark Webber,jaguar,DNF,54,5,1,16,955.579351,949.513437,-6.065914,0.210526,0.331845,50.0,20
-2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,ralph-firman,Ralph Firman,jordan,DNF,51,PL,1,17,978.368458,968.191782,-10.176676,0.157895,0.361428,50.0,20
-2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,jos-verstappen,Jos Verstappen,minardi,DNF,38,PL,1,18,1012.786611,997.667284,-15.119326,0.105263,0.40765,50.0,20
-2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,justin-wilson,Justin Wilson,minardi,DNF,23,PL,1,19,969.018775,954.19145,-14.827325,0.052632,0.349178,50.0,20
-2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,jacques-villeneuve,Jacques Villeneuve,bar,DNF,19,7,1,20,1059.990319,1036.345006,-23.645313,0.0,0.472906,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,701,michael-schumacher,Michael Schumacher,ferrari,1,62,1,0,1,1416.273266,1422.614504,6.341238,1.0,0.873175,50.0,20
+2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,701,kimi-raikkonen,Kimi Räikkönen,mclaren,2,62,6,0,2,1123.899389,1143.192113,19.292724,0.947368,0.561514,50.0,20
+2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,701,rubens-barrichello,Rubens Barrichello,ferrari,3,62,3,0,3,1231.132461,1240.900953,9.768492,0.894737,0.699367,50.0,20
+2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,701,ralf-schumacher,Ralf Schumacher,williams,4,62,2,0,4,1189.724439,1199.398986,9.674547,0.842105,0.648614,50.0,20
+2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,701,david-coulthard,David Coulthard,mclaren,5,62,12,0,5,1221.112001,1226.21416,5.102159,0.789474,0.68743,50.0,20
+2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,701,fernando-alonso,Fernando Alonso,renault,6,62,8,0,6,1019.23979,1035.258107,16.018317,0.736842,0.416476,50.0,20
+2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,701,juan-pablo-montoya,Juan Pablo Montoya,williams,7,62,4,0,7,1155.487458,1159.492115,4.004657,0.684211,0.604117,50.0,20
+2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,701,jenson-button,Jenson Button,bar,8,61,9,0,8,1081.404736,1087.845803,6.441067,0.631579,0.502758,50.0,20
+2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,701,olivier-panis,Olivier Panis,toyota,9,61,10,0,9,986.473026,996.812247,10.339221,0.578947,0.372163,50.0,20
+2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,701,nick-heidfeld,Nick Heidfeld,sauber,10,61,11,0,10,1079.053913,1080.395584,1.341671,0.526316,0.499482,50.0,20
+2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,701,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,11,61,14,0,11,1040.006354,1041.434681,1.428326,0.473684,0.445118,50.0,20
+2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,701,cristiano-da-matta,Cristiano da Matta,toyota,12,61,13,0,12,997.942697,999.619266,1.676568,0.421053,0.387521,50.0,20
+2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,701,jarno-trulli,Jarno Trulli,renault,13,61,16,0,13,1102.043721,1093.893167,-8.150555,0.368421,0.531432,50.0,20
+2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,701,antonio-pizzonia,Antônio Pizzonia,jaguar,14,60,15,0,14,987.5607,984.669609,-2.891091,0.315789,0.373611,50.0,20
+2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,701,giancarlo-fisichella,Giancarlo Fisichella,jordan,15,57,17,0,15,1060.928455,1050.375666,-10.552789,0.263158,0.474214,50.0,20
+2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,701,mark-webber,Mark Webber,jaguar,DNF,54,5,1,16,955.579351,949.513437,-6.065914,0.210526,0.331845,50.0,20
+2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,701,ralph-firman,Ralph Firman,jordan,DNF,51,PL,1,17,978.368458,968.191782,-10.176676,0.157895,0.361428,50.0,20
+2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,701,jos-verstappen,Jos Verstappen,minardi,DNF,38,PL,1,18,1012.786611,997.667284,-15.119326,0.105263,0.40765,50.0,20
+2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,701,justin-wilson,Justin Wilson,minardi,DNF,23,PL,1,19,969.018775,954.19145,-14.827325,0.052632,0.349178,50.0,20
+2003,4,2003-04-20,san-marino,Gran Premio Foster's di San Marino 2003,701,jacques-villeneuve,Jacques Villeneuve,bar,DNF,19,7,1,20,1059.990319,1036.345006,-23.645313,0.0,0.472906,50.0,20

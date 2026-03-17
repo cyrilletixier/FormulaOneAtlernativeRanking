@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,1,55,1,0,1,1481.091081,1488.280379,7.189298,1.0,0.856214,50.0,22
-2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,nico-rosberg,Nico Rosberg,mercedes,2,55,2,0,2,1477.02439,1481.976358,4.951968,0.952381,0.853342,50.0,22
-2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,3,55,5,0,3,1336.494114,1345.119224,8.62511,0.904762,0.73226,50.0,22
-2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,max-verstappen,Max Verstappen,red-bull,4,55,6,0,4,1258.081714,1268.566162,10.484448,0.857143,0.647454,50.0,22
-2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,5,55,3,0,5,1362.214163,1364.813179,2.599016,0.809524,0.757543,50.0,22
-2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,6,55,4,0,6,1256.987258,1262.772679,5.785422,0.761905,0.646196,50.0,22
-2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,7,55,7,0,7,1140.880133,1151.351818,10.471685,0.714286,0.504852,50.0,22
-2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,sergio-perez,Sergio Pérez,force-india,8,55,8,0,8,1244.56058,1246.304273,1.743693,0.666667,0.631793,50.0,22
-2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,felipe-massa,Felipe Massa,williams,9,55,10,0,9,1139.248965,1145.061653,5.812688,0.619048,0.502794,50.0,22
-2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,fernando-alonso,Fernando Alonso,mclaren,10,55,9,0,10,1127.648889,1131.813419,4.164531,0.571429,0.488138,50.0,22
-2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,romain-grosjean,Romain Grosjean,haas,11,55,14,0,11,1029.308955,1037.241445,7.93249,0.52381,0.36516,50.0,22
-2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,esteban-gutierrez,Esteban Gutiérrez,haas,12,55,13,0,12,976.659093,985.31532,8.656227,0.47619,0.303066,50.0,22
-2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,esteban-ocon,Esteban Ocon,manor,13,54,20,0,13,963.462614,970.481049,7.018435,0.428571,0.288203,50.0,22
-2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,pascal-wehrlein,Pascal Wehrlein,manor,14,54,16,0,14,924.191973,930.939719,6.747746,0.380952,0.245997,50.0,22
-2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,15,54,22,0,15,973.442724,975.138679,1.695955,0.333333,0.299414,50.0,22
-2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,felipe-nasr,Felipe Nasr,sauber,16,54,19,0,16,992.455179,990.678031,-1.777148,0.285714,0.321257,50.0,22
-2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,jolyon-palmer,Jolyon Palmer,renault,17,54,15,0,17,985.804436,982.031836,-3.772601,0.238095,0.313547,50.0,22
-2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,41,21,1,18,1099.215965,1086.13111,-13.084855,0.190476,0.452173,50.0,22
-2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,daniil-kvyat,Daniil Kvyat,toro-rosso,DNF,14,17,1,19,1067.519007,1054.04637,-13.472637,0.142857,0.41231,50.0,22
-2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,jenson-button,Jenson Button,mclaren,DNF,12,12,1,20,1064.880398,1049.191551,-15.688846,0.095238,0.409015,50.0,22
-2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,valtteri-bottas,Valtteri Bottas,williams,DNF,6,11,1,21,1215.904708,1188.396992,-27.507716,0.047619,0.597773,50.0,22
-2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,kevin-magnussen,Kevin Magnussen,renault,DNF,5,18,1,22,1034.512481,1015.937571,-18.57491,0.0,0.371498,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,956,lewis-hamilton,Lewis Hamilton,mercedes,1,55,1,0,1,1481.091081,1488.280379,7.189298,1.0,0.856214,50.0,22
+2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,956,nico-rosberg,Nico Rosberg,mercedes,2,55,2,0,2,1477.02439,1481.976358,4.951968,0.952381,0.853342,50.0,22
+2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,956,sebastian-vettel,Sebastian Vettel,ferrari,3,55,5,0,3,1336.494114,1345.119224,8.62511,0.904762,0.73226,50.0,22
+2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,956,max-verstappen,Max Verstappen,red-bull,4,55,6,0,4,1258.081714,1268.566162,10.484448,0.857143,0.647454,50.0,22
+2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,956,daniel-ricciardo,Daniel Ricciardo,red-bull,5,55,3,0,5,1362.214163,1364.813179,2.599016,0.809524,0.757543,50.0,22
+2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,956,kimi-raikkonen,Kimi Räikkönen,ferrari,6,55,4,0,6,1256.987258,1262.772679,5.785422,0.761905,0.646196,50.0,22
+2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,956,nico-hulkenberg,Nico Hülkenberg,force-india,7,55,7,0,7,1140.880133,1151.351818,10.471685,0.714286,0.504852,50.0,22
+2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,956,sergio-perez,Sergio Pérez,force-india,8,55,8,0,8,1244.56058,1246.304273,1.743693,0.666667,0.631793,50.0,22
+2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,956,felipe-massa,Felipe Massa,williams,9,55,10,0,9,1139.248965,1145.061653,5.812688,0.619048,0.502794,50.0,22
+2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,956,fernando-alonso,Fernando Alonso,mclaren,10,55,9,0,10,1127.648889,1131.813419,4.164531,0.571429,0.488138,50.0,22
+2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,956,romain-grosjean,Romain Grosjean,haas,11,55,14,0,11,1029.308955,1037.241445,7.93249,0.52381,0.36516,50.0,22
+2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,956,esteban-gutierrez,Esteban Gutiérrez,haas,12,55,13,0,12,976.659093,985.31532,8.656227,0.47619,0.303066,50.0,22
+2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,956,esteban-ocon,Esteban Ocon,manor,13,54,20,0,13,963.462614,970.481049,7.018435,0.428571,0.288203,50.0,22
+2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,956,pascal-wehrlein,Pascal Wehrlein,manor,14,54,16,0,14,924.191973,930.939719,6.747746,0.380952,0.245997,50.0,22
+2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,956,marcus-ericsson,Marcus Ericsson,sauber,15,54,22,0,15,973.442724,975.138679,1.695955,0.333333,0.299414,50.0,22
+2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,956,felipe-nasr,Felipe Nasr,sauber,16,54,19,0,16,992.455179,990.678031,-1.777148,0.285714,0.321257,50.0,22
+2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,956,jolyon-palmer,Jolyon Palmer,renault,17,54,15,0,17,985.804436,982.031836,-3.772601,0.238095,0.313547,50.0,22
+2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,956,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,41,21,1,18,1099.215965,1086.13111,-13.084855,0.190476,0.452173,50.0,22
+2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,956,daniil-kvyat,Daniil Kvyat,toro-rosso,DNF,14,17,1,19,1067.519007,1054.04637,-13.472637,0.142857,0.41231,50.0,22
+2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,956,jenson-button,Jenson Button,mclaren,DNF,12,12,1,20,1064.880398,1049.191551,-15.688846,0.095238,0.409015,50.0,22
+2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,956,valtteri-bottas,Valtteri Bottas,williams,DNF,6,11,1,21,1215.904708,1188.396992,-27.507716,0.047619,0.597773,50.0,22
+2016,21,2016-11-27,abu-dhabi,2016 Formula 1 Etihad Airways Abu Dhabi Grand Prix,956,kevin-magnussen,Kevin Magnussen,renault,DNF,5,18,1,22,1034.512481,1015.937571,-18.57491,0.0,0.371498,50.0,22

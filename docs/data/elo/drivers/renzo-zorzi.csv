@@ -1,8 +1,8 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1975-09-07,1975,13,italy,frank-williams-racing-cars,Frank Williams Racing Cars,14,46,28,1000.0,1004.478024,4.478024,0.518519,0.428958,50.0
-1976-01-25,1976,1,brazil,wolf-williams,Wolf-Williams,9,39,22,1004.478024,1015.09512,10.617096,0.619048,0.406706,50.0
-1977-01-09,1977,1,argentina,shadow,Shadow,DNF,2,21,1015.09512,997.679424,-17.415696,0.05,0.398314,50.0
-1977-01-23,1977,2,brazil,shadow,Shadow,6,39,22,997.679424,1016.619327,18.939904,0.761905,0.383107,50.0
-1977-03-05,1977,3,south-africa,shadow,Shadow,DNF,21,23,1016.619327,998.505774,-18.113554,0.045455,0.407726,50.0
-1977-04-03,1977,4,united-states-west,shadow,Shadow,DNF,27,22,998.505774,991.522381,-6.983393,0.238095,0.377763,50.0
-1977-05-08,1977,5,spain,shadow,Shadow,DNF,25,31,991.522381,990.776557,-0.745824,0.4,0.414916,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1975-09-07,1975,13,italy,263,frank-williams-racing-cars,Frank Williams Racing Cars,14,46,28,1000.0,1004.478024,4.478024,0.518519,0.428958,50.0
+1976-01-25,1976,1,brazil,265,wolf-williams,Wolf-Williams,9,39,22,1004.478024,1015.09512,10.617096,0.619048,0.406706,50.0
+1977-01-09,1977,1,argentina,281,shadow,Shadow,DNF,2,21,1015.09512,997.679424,-17.415696,0.05,0.398314,50.0
+1977-01-23,1977,2,brazil,282,shadow,Shadow,6,39,22,997.679424,1016.619327,18.939904,0.761905,0.383107,50.0
+1977-03-05,1977,3,south-africa,283,shadow,Shadow,DNF,21,23,1016.619327,998.505774,-18.113554,0.045455,0.407726,50.0
+1977-04-03,1977,4,united-states-west,284,shadow,Shadow,DNF,27,22,998.505774,991.522381,-6.983393,0.238095,0.377763,50.0
+1977-05-08,1977,5,spain,285,shadow,Shadow,DNF,25,31,991.522381,990.776557,-0.745824,0.4,0.414916,50.0

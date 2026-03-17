@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,max-verstappen,Max Verstappen,red-bull,1,50,2,0,1,1575.755568,1580.217034,4.461466,1.0,0.910771,50.0,20
-2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,charles-leclerc,Charles Leclerc,ferrari,2,50,1,0,2,1252.286732,1268.252678,15.965946,0.947368,0.628049,50.0,20
-2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,sergio-perez,Sergio Pérez,red-bull,3,50,11,0,3,1320.374385,1329.80456,9.430174,0.894737,0.706133,50.0,20
-2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,esteban-ocon,Esteban Ocon,alpine,4,50,16,0,4,1106.316448,1126.268012,19.951564,0.842105,0.443074,50.0,20
-2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,lance-stroll,Lance Stroll,aston-martin,5,50,19,0,5,1091.860426,1110.107321,18.246895,0.789474,0.424536,50.0,20
-2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,6,50,12,0,6,1287.267054,1290.650189,3.383135,0.736842,0.669179,50.0,20
-2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,lewis-hamilton,Lewis Hamilton,mercedes,7,50,10,0,7,1354.316663,1351.439692,-2.87697,0.684211,0.74175,50.0,20
-2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,george-russell,George Russell,mercedes,8,50,3,0,8,1245.832258,1246.398451,0.566193,0.631579,0.620255,50.0,20
-2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,fernando-alonso,Fernando Alonso,aston-martin,9,50,9,0,9,1232.136501,1230.907397,-1.229104,0.578947,0.603529,50.0,20
-2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,oscar-piastri,Oscar Piastri,mclaren,10,50,18,0,10,1103.239127,1107.598964,4.359836,0.526316,0.439119,50.0,20
-2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,pierre-gasly,Pierre Gasly,alpine,11,50,4,0,11,1138.819393,1138.253425,-0.565968,0.473684,0.485004,50.0,20
-2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,alexander-albon,Alexander Albon,williams,12,50,5,0,12,1072.957026,1073.98497,1.027944,0.421053,0.400494,50.0,20
-2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,kevin-magnussen,Kevin Magnussen,haas,13,50,8,0,13,929.728685,936.431794,6.703109,0.368421,0.234359,50.0,20
-2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,daniel-ricciardo,Daniel Ricciardo,alphatauri,14,50,14,0,14,1088.366712,1083.152531,-5.214181,0.315789,0.420073,50.0,20
-2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,guanyu-zhou,Guanyu Zhou,alfa-romeo,15,50,17,0,15,1002.761325,1000.18713,-2.574195,0.263158,0.314642,50.0,20
-2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,logan-sargeant,Logan Sargeant,williams,16,50,6,0,16,950.806381,948.514518,-2.291863,0.210526,0.256364,50.0,20
-2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,valtteri-bottas,Valtteri Bottas,alfa-romeo,17,50,7,0,17,1040.016646,1029.941538,-10.075108,0.157895,0.359397,50.0,20
-2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,yuki-tsunoda,Yuki Tsunoda,alphatauri,18,46,20,0,18,1016.215884,1004.951216,-11.264667,0.105263,0.330557,50.0,20
-2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,nico-hulkenberg,Nico Hülkenberg,haas,19,45,13,0,19,1013.300667,999.578104,-13.722563,0.052632,0.327083,50.0,20
-2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,lando-norris,Lando Norris,mclaren,DNF,2,15,1,20,1301.78036,1267.498716,-34.281644,0.0,0.685633,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,1100,max-verstappen,Max Verstappen,red-bull,1,50,2,0,1,1575.755568,1580.217034,4.461466,1.0,0.910771,50.0,20
+2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,1100,charles-leclerc,Charles Leclerc,ferrari,2,50,1,0,2,1252.286732,1268.252678,15.965946,0.947368,0.628049,50.0,20
+2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,1100,sergio-perez,Sergio Pérez,red-bull,3,50,11,0,3,1320.374385,1329.80456,9.430174,0.894737,0.706133,50.0,20
+2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,1100,esteban-ocon,Esteban Ocon,alpine,4,50,16,0,4,1106.316448,1126.268012,19.951564,0.842105,0.443074,50.0,20
+2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,1100,lance-stroll,Lance Stroll,aston-martin,5,50,19,0,5,1091.860426,1110.107321,18.246895,0.789474,0.424536,50.0,20
+2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,1100,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,6,50,12,0,6,1287.267054,1290.650189,3.383135,0.736842,0.669179,50.0,20
+2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,1100,lewis-hamilton,Lewis Hamilton,mercedes,7,50,10,0,7,1354.316663,1351.439692,-2.87697,0.684211,0.74175,50.0,20
+2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,1100,george-russell,George Russell,mercedes,8,50,3,0,8,1245.832258,1246.398451,0.566193,0.631579,0.620255,50.0,20
+2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,1100,fernando-alonso,Fernando Alonso,aston-martin,9,50,9,0,9,1232.136501,1230.907397,-1.229104,0.578947,0.603529,50.0,20
+2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,1100,oscar-piastri,Oscar Piastri,mclaren,10,50,18,0,10,1103.239127,1107.598964,4.359836,0.526316,0.439119,50.0,20
+2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,1100,pierre-gasly,Pierre Gasly,alpine,11,50,4,0,11,1138.819393,1138.253425,-0.565968,0.473684,0.485004,50.0,20
+2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,1100,alexander-albon,Alexander Albon,williams,12,50,5,0,12,1072.957026,1073.98497,1.027944,0.421053,0.400494,50.0,20
+2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,1100,kevin-magnussen,Kevin Magnussen,haas,13,50,8,0,13,929.728685,936.431794,6.703109,0.368421,0.234359,50.0,20
+2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,1100,daniel-ricciardo,Daniel Ricciardo,alphatauri,14,50,14,0,14,1088.366712,1083.152531,-5.214181,0.315789,0.420073,50.0,20
+2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,1100,guanyu-zhou,Guanyu Zhou,alfa-romeo,15,50,17,0,15,1002.761325,1000.18713,-2.574195,0.263158,0.314642,50.0,20
+2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,1100,logan-sargeant,Logan Sargeant,williams,16,50,6,0,16,950.806381,948.514518,-2.291863,0.210526,0.256364,50.0,20
+2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,1100,valtteri-bottas,Valtteri Bottas,alfa-romeo,17,50,7,0,17,1040.016646,1029.941538,-10.075108,0.157895,0.359397,50.0,20
+2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,1100,yuki-tsunoda,Yuki Tsunoda,alphatauri,18,46,20,0,18,1016.215884,1004.951216,-11.264667,0.105263,0.330557,50.0,20
+2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,1100,nico-hulkenberg,Nico Hülkenberg,haas,19,45,13,0,19,1013.300667,999.578104,-13.722563,0.052632,0.327083,50.0,20
+2023,21,2023-11-18,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2023,1100,lando-norris,Lando Norris,mclaren,DNF,2,15,1,20,1301.78036,1267.498716,-34.281644,0.0,0.685633,50.0,20

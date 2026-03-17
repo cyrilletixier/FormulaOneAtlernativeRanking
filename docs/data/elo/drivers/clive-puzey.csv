@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1965-01-01,1965,1,south-africa,lotus,Lotus,DNPQ,,28,1000.0,989.190489,-10.809511,0.222222,0.438412,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1965-01-01,1965,1,south-africa,132,lotus,Lotus,DNPQ,,28,1000.0,989.190489,-10.809511,0.222222,0.438412,50.0

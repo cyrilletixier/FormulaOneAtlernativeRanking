@@ -1,5 +1,5 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1981-03-15,1981,1,united-states-west,osella,Osella,DNQ,,29,1000.0,983.412618,-16.587382,0.071429,0.403176,50.0
-1981-03-29,1981,2,brazil,osella,Osella,DNQ,,31,983.412618,969.203102,-14.209516,0.1,0.38419,50.0
-1981-04-12,1981,3,argentina,osella,Osella,DNQ,,29,969.203102,954.497844,-14.705258,0.071429,0.365534,50.0
-1981-05-03,1981,4,san-marino,osella,Osella,DNF,0,30,954.497844,946.894554,-7.60329,0.206897,0.358962,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1981-03-15,1981,1,united-states-west,343,osella,Osella,DNQ,,29,1000.0,983.412618,-16.587382,0.071429,0.403176,50.0
+1981-03-29,1981,2,brazil,344,osella,Osella,DNQ,,31,983.412618,969.203102,-14.209516,0.1,0.38419,50.0
+1981-04-12,1981,3,argentina,345,osella,Osella,DNQ,,29,969.203102,954.497844,-14.705258,0.071429,0.365534,50.0
+1981-05-03,1981,4,san-marino,346,osella,Osella,DNF,0,30,954.497844,946.894554,-7.60329,0.206897,0.358962,50.0

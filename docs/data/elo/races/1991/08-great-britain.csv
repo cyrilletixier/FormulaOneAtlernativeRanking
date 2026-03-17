@@ -1,35 +1,35 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,nigel-mansell,Nigel Mansell,williams,1,59,1,0,1,1234.052405,1248.521926,14.469521,1.0,0.71061,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,gerhard-berger,Gerhard Berger,mclaren,2,59,4,0,2,1172.054923,1188.696844,16.641922,0.969697,0.636859,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,alain-prost,Alain Prost,ferrari,3,59,5,0,3,1298.800647,1306.854261,8.053614,0.939394,0.778322,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,ayrton-senna,Ayrton Senna,mclaren,4,58,2,0,4,1327.363436,1332.578213,5.214777,0.909091,0.804795,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,nelson-piquet,Nelson Piquet,benetton,5,58,8,0,5,1251.581019,1259.022661,7.441642,0.878788,0.729955,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,bertrand-gachot,Bertrand Gachot,jordan,6,58,17,0,6,953.457218,978.402881,24.945664,0.848485,0.349572,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,stefano-modena,Stefano Modena,tyrrell,7,58,10,0,7,1110.790875,1123.815565,13.02469,0.818182,0.557688,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,satoru-nakajima,Satoru Nakajima,tyrrell,8,58,15,0,8,1074.869358,1088.782323,13.912966,0.787879,0.509619,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,pierluigi-martini,Pierluigi Martini,minardi,9,58,23,0,9,1123.308208,1132.475631,9.167423,0.757576,0.574227,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,emanuele-pirro,Emanuele Pirro,dallara,10,57,18,0,10,1033.220368,1046.905495,13.685127,0.727273,0.45357,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,gianni-morbidelli,Gianni Morbidelli,minardi,11,57,20,0,11,1021.249053,1034.219517,12.970465,0.69697,0.43756,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,mika-hakkinen,Mika Häkkinen,lotus,12,57,25,0,12,1044.158261,1054.078633,9.920372,0.666667,0.468259,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,jj-lehto,JJ Lehto,dallara,13,56,11,0,13,1025.761477,1035.400405,9.638928,0.636364,0.443585,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,johnny-herbert,Johnny Herbert,lotus,14,55,24,0,14,1037.416683,1044.759713,7.34303,0.606061,0.4592,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,mark-blundell,Mark Blundell,brabham,DNF,52,12,1,15,1017.498441,1024.658149,7.159708,0.575758,0.432563,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,andrea-de-cesaris,Andrea de Cesaris,jordan,DNF,41,13,1,16,1076.283805,1077.980386,1.696581,0.545455,0.511523,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,jean-alesi,Jean Alesi,ferrari,DNF,31,6,1,17,1148.922123,1144.302521,-4.619601,0.515152,0.607544,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,aguri-suzuki,Aguri Suzuki,lola,DNF,29,22,1,18,1031.257656,1032.195512,0.937856,0.469697,0.45094,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,thierry-boutsen,Thierry Boutsen,ligier,DNF,29,19,1,19,1232.233649,1220.290428,-11.943221,0.469697,0.708561,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,martin-brundle,Martin Brundle,brabham,DNF,28,14,1,20,1086.615776,1081.557473,-5.058303,0.424242,0.525408,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,michele-alboreto,Michele Alboreto,footwork,DNF,25,26,1,21,1009.194826,1007.814836,-1.37999,0.393939,0.421539,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,mauricio-gugelmin,Maurício Gugelmin,leyton-house,DNF,24,9,1,22,1072.268915,1065.144792,-7.124122,0.363636,0.506119,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,eric-bernard,Éric Bernard,lola,DNF,21,21,1,23,1097.679684,1086.577447,-11.102237,0.318182,0.540227,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,roberto-moreno,Roberto Moreno,benetton,DNF,21,7,1,24,1020.845204,1014.903201,-5.942003,0.318182,0.437022,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,ivan-capelli,Ivan Capelli,leyton-house,DNF,16,16,1,25,1052.49066,1042.153315,-10.337345,0.272727,0.479474,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,riccardo-patrese,Riccardo Patrese,williams,DNF,1,3,1,26,1267.837181,1242.596538,-25.240644,0.242424,0.747237,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,eric-van-de-poele,Eric van de Poele,modena,DNPQ,,,1,27,951.830827,942.787146,-9.043681,0.166667,0.34754,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,nicola-larini,Nicola Larini,modena,DNPQ,,,1,28,1012.821486,999.837463,-12.984023,0.166667,0.426347,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,olivier-grouillard,Olivier Grouillard,fondmetal,DNPQ,,,1,29,933.967182,926.023169,-7.944013,0.166667,0.325547,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,pedro-chaves,Pedro Chaves,coloni,DNPQ,,,1,30,930.288318,922.566967,-7.721352,0.166667,0.321094,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,erik-comas,Érik Comas,ligier,DNQ,,,2,31,1032.003639,1011.679399,-20.32424,0.045455,0.451939,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,fabrizio-barbazza,Fabrizio Barbazza,ags,DNQ,,,2,32,920.294815,907.110719,-13.184097,0.045455,0.309136,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,gabriele-tarquini,Gabriele Tarquini,ags,DNQ,,,2,33,857.044515,847.377978,-9.666537,0.045455,0.238785,50.0,34
-1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,stefan-johansson,Stefan Johansson,footwork,DNQ,,,2,34,910.507161,897.898285,-12.608876,0.045455,0.297632,50.0,34
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,nigel-mansell,Nigel Mansell,williams,1,59,1,0,1,1234.052405,1248.521926,14.469521,1.0,0.71061,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,gerhard-berger,Gerhard Berger,mclaren,2,59,4,0,2,1172.054923,1188.696844,16.641922,0.969697,0.636859,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,alain-prost,Alain Prost,ferrari,3,59,5,0,3,1298.800647,1306.854261,8.053614,0.939394,0.778322,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,ayrton-senna,Ayrton Senna,mclaren,4,58,2,0,4,1327.363436,1332.578213,5.214777,0.909091,0.804795,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,nelson-piquet,Nelson Piquet,benetton,5,58,8,0,5,1251.581019,1259.022661,7.441642,0.878788,0.729955,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,bertrand-gachot,Bertrand Gachot,jordan,6,58,17,0,6,953.457218,978.402881,24.945664,0.848485,0.349572,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,stefano-modena,Stefano Modena,tyrrell,7,58,10,0,7,1110.790875,1123.815565,13.02469,0.818182,0.557688,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,satoru-nakajima,Satoru Nakajima,tyrrell,8,58,15,0,8,1074.869358,1088.782323,13.912966,0.787879,0.509619,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,pierluigi-martini,Pierluigi Martini,minardi,9,58,23,0,9,1123.308208,1132.475631,9.167423,0.757576,0.574227,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,emanuele-pirro,Emanuele Pirro,dallara,10,57,18,0,10,1033.220368,1046.905495,13.685127,0.727273,0.45357,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,gianni-morbidelli,Gianni Morbidelli,minardi,11,57,20,0,11,1021.249053,1034.219517,12.970465,0.69697,0.43756,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,mika-hakkinen,Mika Häkkinen,lotus,12,57,25,0,12,1044.158261,1054.078633,9.920372,0.666667,0.468259,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,jj-lehto,JJ Lehto,dallara,13,56,11,0,13,1025.761477,1035.400405,9.638928,0.636364,0.443585,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,johnny-herbert,Johnny Herbert,lotus,14,55,24,0,14,1037.416683,1044.759713,7.34303,0.606061,0.4592,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,mark-blundell,Mark Blundell,brabham,DNF,52,12,1,15,1017.498441,1024.658149,7.159708,0.575758,0.432563,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,andrea-de-cesaris,Andrea de Cesaris,jordan,DNF,41,13,1,16,1076.283805,1077.980386,1.696581,0.545455,0.511523,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,jean-alesi,Jean Alesi,ferrari,DNF,31,6,1,17,1148.922123,1144.302521,-4.619601,0.515152,0.607544,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,aguri-suzuki,Aguri Suzuki,lola,DNF,29,22,1,18,1031.257656,1032.195512,0.937856,0.469697,0.45094,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,thierry-boutsen,Thierry Boutsen,ligier,DNF,29,19,1,19,1232.233649,1220.290428,-11.943221,0.469697,0.708561,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,martin-brundle,Martin Brundle,brabham,DNF,28,14,1,20,1086.615776,1081.557473,-5.058303,0.424242,0.525408,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,michele-alboreto,Michele Alboreto,footwork,DNF,25,26,1,21,1009.194826,1007.814836,-1.37999,0.393939,0.421539,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,mauricio-gugelmin,Maurício Gugelmin,leyton-house,DNF,24,9,1,22,1072.268915,1065.144792,-7.124122,0.363636,0.506119,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,eric-bernard,Éric Bernard,lola,DNF,21,21,1,23,1097.679684,1086.577447,-11.102237,0.318182,0.540227,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,roberto-moreno,Roberto Moreno,benetton,DNF,21,7,1,24,1020.845204,1014.903201,-5.942003,0.318182,0.437022,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,ivan-capelli,Ivan Capelli,leyton-house,DNF,16,16,1,25,1052.49066,1042.153315,-10.337345,0.272727,0.479474,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,riccardo-patrese,Riccardo Patrese,williams,DNF,1,3,1,26,1267.837181,1242.596538,-25.240644,0.242424,0.747237,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,eric-van-de-poele,Eric van de Poele,modena,DNPQ,,,1,27,951.830827,942.787146,-9.043681,0.166667,0.34754,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,nicola-larini,Nicola Larini,modena,DNPQ,,,1,28,1012.821486,999.837463,-12.984023,0.166667,0.426347,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,olivier-grouillard,Olivier Grouillard,fondmetal,DNPQ,,,1,29,933.967182,926.023169,-7.944013,0.166667,0.325547,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,pedro-chaves,Pedro Chaves,coloni,DNPQ,,,1,30,930.288318,922.566967,-7.721352,0.166667,0.321094,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,erik-comas,Érik Comas,ligier,DNQ,,,2,31,1032.003639,1011.679399,-20.32424,0.045455,0.451939,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,fabrizio-barbazza,Fabrizio Barbazza,ags,DNQ,,,2,32,920.294815,907.110719,-13.184097,0.045455,0.309136,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,gabriele-tarquini,Gabriele Tarquini,ags,DNQ,,,2,33,857.044515,847.377978,-9.666537,0.045455,0.238785,50.0,34
+1991,8,1991-07-14,great-britain,1991 Foster's British Grand Prix,508,stefan-johansson,Stefan Johansson,footwork,DNQ,,,2,34,910.507161,897.898285,-12.608876,0.045455,0.297632,50.0,34

@@ -1,26 +1,26 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,nigel-mansell,Nigel Mansell,williams,1,43,5,0,1,1119.309342,1141.206136,21.896795,1.0,0.562064,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,ayrton-senna,Ayrton Senna,lotus,2,43,4,0,2,1180.595025,1196.292557,15.697533,0.958333,0.644383,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,stefan-johansson,Stefan Johansson,ferrari,3,43,11,0,3,1103.218477,1122.063481,18.845004,0.916667,0.539767,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,michele-alboreto,Michele Alboreto,ferrari,4,43,9,0,4,1134.352378,1148.966655,14.614277,0.875,0.582714,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,jacques-laffite,Jacques Laffite,ligier,5,43,17,0,5,1112.831847,1126.843015,14.011167,0.833333,0.55311,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,alain-prost,Alain Prost,mclaren,6,43,3,0,6,1300.359217,1300.781448,0.42223,0.791667,0.783222,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,teo-fabi,Teo Fabi,benetton,7,42,6,0,7,1012.219416,1029.054537,16.83512,0.75,0.413298,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,riccardo-patrese,Riccardo Patrese,brabham,8,42,15,0,8,1010.810265,1025.658021,14.847757,0.708333,0.411378,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,marc-surer,Marc Surer,arrows,9,41,21,0,9,1090.481691,1097.714375,7.232684,0.666667,0.522013,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,gerhard-berger,Gerhard Berger,benetton,10,41,2,0,10,1122.588525,1125.509329,2.920804,0.625,0.566584,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,alan-jones,Alan Jones,lola,11,40,16,0,11,1079.399323,1083.239812,3.840489,0.583333,0.506524,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,philippe-streiff,Philippe Streiff,tyrrell,12,40,18,0,12,1073.964758,1076.101998,2.137239,0.541667,0.498922,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,jonathan-palmer,Jonathan Palmer,zakspeed,NC,37,20,1,13,937.060451,946.299589,9.239138,0.5,0.315217,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,andrea-de-cesaris,Andrea de Cesaris,minardi,DNF,35,19,1,14,970.193462,975.248492,5.05503,0.458333,0.357233,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,huub-rothengatter,Huub Rothengatter,zakspeed,DNF,25,23,1,15,985.419636,986.349519,0.929883,0.395833,0.377236,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,martin-brundle,Martin Brundle,tyrrell,DNF,25,12,1,16,1064.018455,1059.559525,-4.45893,0.395833,0.485012,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,alessandro-nannini,Alessandro Nannini,minardi,DNF,24,22,1,17,944.526648,944.96898,0.442332,0.333333,0.324487,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,rene-arnoux,René Arnoux,ligier,DNF,23,7,1,18,1211.500736,1191.90878,-19.591955,0.291667,0.683506,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,nelson-piquet,Nelson Piquet,williams,DNF,16,1,1,19,1151.601497,1133.797408,-17.804089,0.25,0.606082,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,johnny-dumfries,Johnny Dumfries,lotus,DNF,7,13,1,20,996.876576,986.625013,-10.251563,0.1875,0.392531,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,thierry-boutsen,Thierry Boutsen,arrows,DNF,7,14,1,21,1165.778929,1143.904889,-21.874039,0.1875,0.624981,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,keke-rosberg,Keke Rosberg,mclaren,DNF,6,8,1,22,1172.956794,1147.485407,-25.471386,0.125,0.634428,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNF,3,24,1,23,890.106658,881.275856,-8.830802,0.083333,0.259949,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,christian-danner,Christian Danner,osella,DNF,2,25,1,24,978.043731,961.752228,-16.291503,0.041667,0.367497,50.0,25
-1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,patrick-tambay,Patrick Tambay,lola,DNF,0,10,1,25,1066.058703,1041.66549,-24.393214,0.0,0.487864,50.0,25
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,nigel-mansell,Nigel Mansell,williams,1,43,5,0,1,1119.309342,1141.206136,21.896795,1.0,0.562064,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,ayrton-senna,Ayrton Senna,lotus,2,43,4,0,2,1180.595025,1196.292557,15.697533,0.958333,0.644383,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,stefan-johansson,Stefan Johansson,ferrari,3,43,11,0,3,1103.218477,1122.063481,18.845004,0.916667,0.539767,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,michele-alboreto,Michele Alboreto,ferrari,4,43,9,0,4,1134.352378,1148.966655,14.614277,0.875,0.582714,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,jacques-laffite,Jacques Laffite,ligier,5,43,17,0,5,1112.831847,1126.843015,14.011167,0.833333,0.55311,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,alain-prost,Alain Prost,mclaren,6,43,3,0,6,1300.359217,1300.781448,0.42223,0.791667,0.783222,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,teo-fabi,Teo Fabi,benetton,7,42,6,0,7,1012.219416,1029.054537,16.83512,0.75,0.413298,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,riccardo-patrese,Riccardo Patrese,brabham,8,42,15,0,8,1010.810265,1025.658021,14.847757,0.708333,0.411378,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,marc-surer,Marc Surer,arrows,9,41,21,0,9,1090.481691,1097.714375,7.232684,0.666667,0.522013,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,gerhard-berger,Gerhard Berger,benetton,10,41,2,0,10,1122.588525,1125.509329,2.920804,0.625,0.566584,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,alan-jones,Alan Jones,lola,11,40,16,0,11,1079.399323,1083.239812,3.840489,0.583333,0.506524,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,philippe-streiff,Philippe Streiff,tyrrell,12,40,18,0,12,1073.964758,1076.101998,2.137239,0.541667,0.498922,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,jonathan-palmer,Jonathan Palmer,zakspeed,NC,37,20,1,13,937.060451,946.299589,9.239138,0.5,0.315217,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,andrea-de-cesaris,Andrea de Cesaris,minardi,DNF,35,19,1,14,970.193462,975.248492,5.05503,0.458333,0.357233,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,huub-rothengatter,Huub Rothengatter,zakspeed,DNF,25,23,1,15,985.419636,986.349519,0.929883,0.395833,0.377236,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,martin-brundle,Martin Brundle,tyrrell,DNF,25,12,1,16,1064.018455,1059.559525,-4.45893,0.395833,0.485012,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,alessandro-nannini,Alessandro Nannini,minardi,DNF,24,22,1,17,944.526648,944.96898,0.442332,0.333333,0.324487,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,rene-arnoux,René Arnoux,ligier,DNF,23,7,1,18,1211.500736,1191.90878,-19.591955,0.291667,0.683506,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,nelson-piquet,Nelson Piquet,williams,DNF,16,1,1,19,1151.601497,1133.797408,-17.804089,0.25,0.606082,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,johnny-dumfries,Johnny Dumfries,lotus,DNF,7,13,1,20,996.876576,986.625013,-10.251563,0.1875,0.392531,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,thierry-boutsen,Thierry Boutsen,arrows,DNF,7,14,1,21,1165.778929,1143.904889,-21.874039,0.1875,0.624981,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,keke-rosberg,Keke Rosberg,mclaren,DNF,6,8,1,22,1172.956794,1147.485407,-25.471386,0.125,0.634428,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNF,3,24,1,23,890.106658,881.275856,-8.830802,0.083333,0.259949,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,christian-danner,Christian Danner,osella,DNF,2,25,1,24,978.043731,961.752228,-16.291503,0.041667,0.367497,50.0,25
+1986,5,1986-05-25,belgium,1986 Belgian Grand Prix,425,patrick-tambay,Patrick Tambay,lola,DNF,0,10,1,25,1066.058703,1041.66549,-24.393214,0.0,0.487864,50.0,25

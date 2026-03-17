@@ -1,6 +1,6 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1961-09-10,1961,7,italy,de-tomaso,De Tomaso,DNF,13,34,1000.0,1001.251786,1.251786,0.484848,0.459813,50.0
-1962-06-03,1962,2,monaco,lotus,Lotus,DNQ,,22,1001.251786,986.626882,-14.624904,0.142857,0.435355,50.0
-1962-08-05,1962,6,germany,porsche,Porsche,15,14,30,986.626882,990.443188,3.816306,0.517241,0.440915,50.0
-1962-09-16,1962,7,italy,lotus,Lotus,9,84,30,990.443188,1004.50256,14.059371,0.724138,0.442951,50.0
-1965-09-12,1965,8,italy,ferrari,Ferrari,12,58,23,1004.50256,1008.63022,4.12766,0.5,0.417447,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1961-09-10,1961,7,italy,101,de-tomaso,De Tomaso,DNF,13,34,1000.0,1001.251786,1.251786,0.484848,0.459813,50.0
+1962-06-03,1962,2,monaco,104,lotus,Lotus,DNQ,,22,1001.251786,986.626882,-14.624904,0.142857,0.435355,50.0
+1962-08-05,1962,6,germany,108,porsche,Porsche,15,14,30,986.626882,990.443188,3.816306,0.517241,0.440915,50.0
+1962-09-16,1962,7,italy,109,lotus,Lotus,9,84,30,990.443188,1004.50256,14.059371,0.724138,0.442951,50.0
+1965-09-12,1965,8,italy,139,ferrari,Ferrari,12,58,23,1004.50256,1008.63022,4.12766,0.5,0.417447,50.0

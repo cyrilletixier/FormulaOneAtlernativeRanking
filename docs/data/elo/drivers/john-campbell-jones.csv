@@ -1,3 +1,3 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1962-06-17,1962,3,belgium,lotus,Lotus,11,16,20,1000.0,1001.778346,1.778346,0.473684,0.438117,50.0
-1963-07-20,1963,5,great-britain,lola,Lola,13,74,23,1001.778346,1002.844664,1.066318,0.454545,0.433219,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1962-06-17,1962,3,belgium,105,lotus,Lotus,11,16,20,1000.0,1001.778346,1.778346,0.473684,0.438117,50.0
+1963-07-20,1963,5,great-britain,116,lola,Lola,13,74,23,1001.778346,1002.844664,1.066318,0.454545,0.433219,50.0

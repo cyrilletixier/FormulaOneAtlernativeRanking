@@ -1,28 +1,28 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1979,5,1979-04-29,spain,Gran Premio de España 1979,patrick-depailler,Patrick Depailler,ligier,1,75,2,0,1,1163.83634,1183.494574,19.658234,1.0,0.606835,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,carlos-reutemann,Carlos Reutemann,lotus,2,75,8,0,2,1242.498355,1255.214618,12.716263,0.961538,0.707213,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,mario-andretti,Mario Andretti,lotus,3,75,4,0,3,1208.987256,1221.842397,12.85514,0.923077,0.665974,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,jody-scheckter,Jody Scheckter,ferrari,4,75,5,0,4,1228.441763,1238.16114,9.719376,0.884615,0.690228,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,jean-pierre-jarier,Jean-Pierre Jarier,tyrrell,5,75,12,0,5,1051.089509,1070.879794,19.790285,0.846154,0.450348,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,didier-pironi,Didier Pironi,tyrrell,6,75,10,0,6,1062.345378,1079.428758,17.08338,0.807692,0.466025,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,gilles-villeneuve,Gilles Villeneuve,ferrari,7,75,3,0,7,1191.75355,1198.023565,6.270015,0.769231,0.64383,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,jochen-mass,Jochen Mass,arrows,8,75,17,0,8,1101.499312,1111.995094,10.495782,0.730769,0.520854,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,rene-arnoux,René Arnoux,renault,9,74,11,0,9,1001.220704,1016.721091,15.500388,0.692308,0.3823,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,riccardo-patrese,Riccardo Patrese,arrows,10,74,16,0,10,1100.67389,1107.3813,6.70741,0.653846,0.519698,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,emerson-fittipaldi,Emerson Fittipaldi,fittipaldi,11,74,19,0,11,1138.037482,1140.223261,2.185779,0.615385,0.571669,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,jan-lammers,Jan Lammers,shadow,12,73,24,0,12,1000.142824,1009.945755,9.802931,0.576923,0.380864,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,patrick-tambay,Patrick Tambay,mclaren,13,72,20,0,13,1101.107788,1102.015592,0.907804,0.538462,0.520305,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,hans-joachim-stuck,Hans-Joachim Stuck,ats-wheels,14,69,21,0,14,993.432814,999.834308,6.401494,0.5,0.37197,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,niki-lauda,Niki Lauda,brabham,DNF,63,6,1,15,1152.633628,1146.127422,-6.506205,0.461538,0.591663,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,hector-rebaque,Héctor Rebaque,lotus,DNF,58,23,1,16,948.875626,954.277925,5.402299,0.423077,0.315031,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,alan-jones,Alan Jones,williams,DNF,54,13,1,17,1156.473057,1145.859776,-10.613281,0.384615,0.596881,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,elio-de-angelis,Elio de Angelis,shadow,DNF,52,22,1,18,1032.724665,1028.783846,-3.940819,0.346154,0.42497,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,clay-regazzoni,Clay Regazzoni,williams,DNF,32,14,1,19,1052.245788,1045.032655,-7.213133,0.307692,0.451955,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,james-hunt,James Hunt,wolf,DNF,26,15,1,20,1102.113439,1089.489314,-12.624125,0.269231,0.521713,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,jean-pierre-jabouille,Jean-Pierre Jabouille,renault,DNF,21,9,1,21,1019.299922,1009.545282,-9.75464,0.211538,0.406631,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,john-watson,John Watson,mclaren,DNF,21,18,1,22,1156.451387,1137.18573,-19.265657,0.211538,0.596852,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,jacques-laffite,Jacques Laffite,ligier,DNF,15,1,1,23,1204.851975,1178.547028,-26.304947,0.134615,0.660714,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,nelson-piquet,Nelson Piquet,brabham,DNF,15,7,1,24,1040.086574,1025.061933,-15.024641,0.134615,0.435108,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,arturo-merzario,Arturo Merzario,merzario,DNQ,,,2,25,867.491363,858.256219,-9.235144,0.038462,0.223164,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,derek-daly,Derek Daly,ensign,DNQ,,,2,26,1011.834379,993.931033,-17.903346,0.038462,0.396528,50.0,27
-1979,5,1979-04-29,spain,Gran Premio de España 1979,gianfranco-brancatelli,Gianfranco Brancatelli,kauhsen,DNQ,,,2,27,1000.0,982.889358,-17.110642,0.038462,0.380674,50.0,27
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,patrick-depailler,Patrick Depailler,ligier,1,75,2,0,1,1163.83634,1183.494574,19.658234,1.0,0.606835,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,carlos-reutemann,Carlos Reutemann,lotus,2,75,8,0,2,1242.498355,1255.214618,12.716263,0.961538,0.707213,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,mario-andretti,Mario Andretti,lotus,3,75,4,0,3,1208.987256,1221.842397,12.85514,0.923077,0.665974,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,jody-scheckter,Jody Scheckter,ferrari,4,75,5,0,4,1228.441763,1238.16114,9.719376,0.884615,0.690228,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,jean-pierre-jarier,Jean-Pierre Jarier,tyrrell,5,75,12,0,5,1051.089509,1070.879794,19.790285,0.846154,0.450348,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,didier-pironi,Didier Pironi,tyrrell,6,75,10,0,6,1062.345378,1079.428758,17.08338,0.807692,0.466025,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,gilles-villeneuve,Gilles Villeneuve,ferrari,7,75,3,0,7,1191.75355,1198.023565,6.270015,0.769231,0.64383,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,jochen-mass,Jochen Mass,arrows,8,75,17,0,8,1101.499312,1111.995094,10.495782,0.730769,0.520854,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,rene-arnoux,René Arnoux,renault,9,74,11,0,9,1001.220704,1016.721091,15.500388,0.692308,0.3823,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,riccardo-patrese,Riccardo Patrese,arrows,10,74,16,0,10,1100.67389,1107.3813,6.70741,0.653846,0.519698,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,emerson-fittipaldi,Emerson Fittipaldi,fittipaldi,11,74,19,0,11,1138.037482,1140.223261,2.185779,0.615385,0.571669,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,jan-lammers,Jan Lammers,shadow,12,73,24,0,12,1000.142824,1009.945755,9.802931,0.576923,0.380864,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,patrick-tambay,Patrick Tambay,mclaren,13,72,20,0,13,1101.107788,1102.015592,0.907804,0.538462,0.520305,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,hans-joachim-stuck,Hans-Joachim Stuck,ats-wheels,14,69,21,0,14,993.432814,999.834308,6.401494,0.5,0.37197,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,niki-lauda,Niki Lauda,brabham,DNF,63,6,1,15,1152.633628,1146.127422,-6.506205,0.461538,0.591663,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,hector-rebaque,Héctor Rebaque,lotus,DNF,58,23,1,16,948.875626,954.277925,5.402299,0.423077,0.315031,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,alan-jones,Alan Jones,williams,DNF,54,13,1,17,1156.473057,1145.859776,-10.613281,0.384615,0.596881,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,elio-de-angelis,Elio de Angelis,shadow,DNF,52,22,1,18,1032.724665,1028.783846,-3.940819,0.346154,0.42497,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,clay-regazzoni,Clay Regazzoni,williams,DNF,32,14,1,19,1052.245788,1045.032655,-7.213133,0.307692,0.451955,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,james-hunt,James Hunt,wolf,DNF,26,15,1,20,1102.113439,1089.489314,-12.624125,0.269231,0.521713,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,jean-pierre-jabouille,Jean-Pierre Jabouille,renault,DNF,21,9,1,21,1019.299922,1009.545282,-9.75464,0.211538,0.406631,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,john-watson,John Watson,mclaren,DNF,21,18,1,22,1156.451387,1137.18573,-19.265657,0.211538,0.596852,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,jacques-laffite,Jacques Laffite,ligier,DNF,15,1,1,23,1204.851975,1178.547028,-26.304947,0.134615,0.660714,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,nelson-piquet,Nelson Piquet,brabham,DNF,15,7,1,24,1040.086574,1025.061933,-15.024641,0.134615,0.435108,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,arturo-merzario,Arturo Merzario,merzario,DNQ,,,2,25,867.491363,858.256219,-9.235144,0.038462,0.223164,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,derek-daly,Derek Daly,ensign,DNQ,,,2,26,1011.834379,993.931033,-17.903346,0.038462,0.396528,50.0,27
+1979,5,1979-04-29,spain,Gran Premio de España 1979,318,gianfranco-brancatelli,Gianfranco Brancatelli,kauhsen,DNQ,,,2,27,1000.0,982.889358,-17.110642,0.038462,0.380674,50.0,27

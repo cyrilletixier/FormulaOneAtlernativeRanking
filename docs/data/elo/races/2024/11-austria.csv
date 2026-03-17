@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,george-russell,George Russell,mercedes,1,71,3,0,1,1287.313348,1304.12001,16.806661,1.0,0.663867,50.0,20
-2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,oscar-piastri,Oscar Piastri,mclaren,2,71,7,0,2,1220.603254,1238.665177,18.061923,0.947368,0.58613,50.0,20
-2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,3,71,4,0,3,1305.137291,1315.693806,10.556515,0.894737,0.683607,50.0,20
-2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,lewis-hamilton,Lewis Hamilton,mercedes,4,71,5,0,4,1316.233555,1323.557019,7.323464,0.842105,0.695636,50.0,20
-2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,max-verstappen,Max Verstappen,red-bull,5,71,1,0,5,1567.083722,1561.475252,-5.60847,0.789474,0.901643,50.0,20
-2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,nico-hulkenberg,Nico Hülkenberg,haas,6,71,9,0,6,1040.611751,1059.195044,18.583292,0.736842,0.365176,50.0,20
-2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,sergio-perez,Sergio Pérez,red-bull,7,71,8,0,7,1306.746648,1306.688977,-0.057671,0.684211,0.685364,50.0,20
-2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,kevin-magnussen,Kevin Magnussen,haas,8,71,12,0,8,948.179912,966.704632,18.52472,0.631579,0.261085,50.0,20
-2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,daniel-ricciardo,Daniel Ricciardo,rb,9,71,11,0,9,1046.364544,1056.709512,10.344968,0.578947,0.372048,50.0,20
-2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,pierre-gasly,Pierre Gasly,alpine,10,71,13,0,10,1088.751517,1093.888135,5.136618,0.526316,0.423583,50.0,20
-2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,charles-leclerc,Charles Leclerc,ferrari,11,71,6,0,11,1330.787309,1318.916853,-11.870456,0.473684,0.711093,50.0,20
-2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,esteban-ocon,Esteban Ocon,alpine,12,71,10,0,12,1080.68121,1081.050348,0.369137,0.421053,0.41367,50.0,20
-2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,lance-stroll,Lance Stroll,aston-martin,13,70,17,0,13,1095.726315,1092.538384,-3.18793,0.368421,0.43218,50.0,20
-2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,yuki-tsunoda,Yuki Tsunoda,rb,14,70,14,0,14,1042.658106,1040.066749,-2.591357,0.315789,0.367617,50.0,20
-2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,alexander-albon,Alexander Albon,williams,15,70,16,0,15,1012.536343,1009.084423,-3.45192,0.263158,0.332196,50.0,20
-2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,valtteri-bottas,Valtteri Bottas,kick-sauber,16,70,18,0,16,969.124028,965.478479,-3.645549,0.210526,0.283437,50.0,20
-2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,guanyu-zhou,Guanyu Zhou,kick-sauber,17,70,PL,0,17,976.538262,969.855795,-6.682467,0.157895,0.291544,50.0,20
-2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,fernando-alonso,Fernando Alonso,aston-martin,18,70,15,0,18,1214.594814,1190.913626,-23.681188,0.105263,0.578887,50.0,20
-2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,logan-sargeant,Logan Sargeant,williams,19,69,19,0,19,892.690621,885.011759,-7.678862,0.052632,0.206209,50.0,20
-2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,lando-norris,Lando Norris,mclaren,20,64,2,0,20,1364.116874,1326.865446,-37.251428,0.0,0.745029,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,1112,george-russell,George Russell,mercedes,1,71,3,0,1,1287.313348,1304.12001,16.806661,1.0,0.663867,50.0,20
+2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,1112,oscar-piastri,Oscar Piastri,mclaren,2,71,7,0,2,1220.603254,1238.665177,18.061923,0.947368,0.58613,50.0,20
+2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,1112,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,3,71,4,0,3,1305.137291,1315.693806,10.556515,0.894737,0.683607,50.0,20
+2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,1112,lewis-hamilton,Lewis Hamilton,mercedes,4,71,5,0,4,1316.233555,1323.557019,7.323464,0.842105,0.695636,50.0,20
+2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,1112,max-verstappen,Max Verstappen,red-bull,5,71,1,0,5,1567.083722,1561.475252,-5.60847,0.789474,0.901643,50.0,20
+2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,1112,nico-hulkenberg,Nico Hülkenberg,haas,6,71,9,0,6,1040.611751,1059.195044,18.583292,0.736842,0.365176,50.0,20
+2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,1112,sergio-perez,Sergio Pérez,red-bull,7,71,8,0,7,1306.746648,1306.688977,-0.057671,0.684211,0.685364,50.0,20
+2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,1112,kevin-magnussen,Kevin Magnussen,haas,8,71,12,0,8,948.179912,966.704632,18.52472,0.631579,0.261085,50.0,20
+2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,1112,daniel-ricciardo,Daniel Ricciardo,rb,9,71,11,0,9,1046.364544,1056.709512,10.344968,0.578947,0.372048,50.0,20
+2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,1112,pierre-gasly,Pierre Gasly,alpine,10,71,13,0,10,1088.751517,1093.888135,5.136618,0.526316,0.423583,50.0,20
+2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,1112,charles-leclerc,Charles Leclerc,ferrari,11,71,6,0,11,1330.787309,1318.916853,-11.870456,0.473684,0.711093,50.0,20
+2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,1112,esteban-ocon,Esteban Ocon,alpine,12,71,10,0,12,1080.68121,1081.050348,0.369137,0.421053,0.41367,50.0,20
+2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,1112,lance-stroll,Lance Stroll,aston-martin,13,70,17,0,13,1095.726315,1092.538384,-3.18793,0.368421,0.43218,50.0,20
+2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,1112,yuki-tsunoda,Yuki Tsunoda,rb,14,70,14,0,14,1042.658106,1040.066749,-2.591357,0.315789,0.367617,50.0,20
+2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,1112,alexander-albon,Alexander Albon,williams,15,70,16,0,15,1012.536343,1009.084423,-3.45192,0.263158,0.332196,50.0,20
+2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,1112,valtteri-bottas,Valtteri Bottas,kick-sauber,16,70,18,0,16,969.124028,965.478479,-3.645549,0.210526,0.283437,50.0,20
+2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,1112,guanyu-zhou,Guanyu Zhou,kick-sauber,17,70,PL,0,17,976.538262,969.855795,-6.682467,0.157895,0.291544,50.0,20
+2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,1112,fernando-alonso,Fernando Alonso,aston-martin,18,70,15,0,18,1214.594814,1190.913626,-23.681188,0.105263,0.578887,50.0,20
+2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,1112,logan-sargeant,Logan Sargeant,williams,19,69,19,0,19,892.690621,885.011759,-7.678862,0.052632,0.206209,50.0,20
+2024,11,2024-06-30,austria,Formula 1 Qatar Airways Austrian Grand Prix 2024,1112,lando-norris,Lando Norris,mclaren,20,64,2,0,20,1364.116874,1326.865446,-37.251428,0.0,0.745029,50.0,20

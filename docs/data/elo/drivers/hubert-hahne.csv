@@ -1,6 +1,6 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1966-08-07,1966,6,germany,matra,Matra,9,14,30,1000.0,1014.756127,14.756127,0.724138,0.429015,50.0
-1967-08-06,1967,7,germany,lola,Lola,DNF,6,26,1014.756127,1010.235046,-4.521081,0.36,0.450422,50.0
-1968-08-04,1968,8,germany,lola,Lola,10,14,21,1010.235046,1015.876866,5.64182,0.55,0.437164,50.0
-1969-08-03,1969,7,germany,bmw,BMW,DNS,,26,1015.876866,996.610034,-19.266833,0.08,0.465337,50.0
-1970-08-02,1970,8,germany,march,March,DNQ,,25,996.610034,978.094627,-18.515406,0.0625,0.432808,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1966-08-07,1966,6,germany,147,matra,Matra,9,14,30,1000.0,1014.756127,14.756127,0.724138,0.429015,50.0
+1967-08-06,1967,7,germany,157,lola,Lola,DNF,6,26,1014.756127,1010.235046,-4.521081,0.36,0.450422,50.0
+1968-08-04,1968,8,germany,169,lola,Lola,10,14,21,1010.235046,1015.876866,5.64182,0.55,0.437164,50.0
+1969-08-03,1969,7,germany,180,bmw,BMW,DNS,,26,1015.876866,996.610034,-19.266833,0.08,0.465337,50.0
+1970-08-02,1970,8,germany,192,march,March,DNQ,,25,996.610034,978.094627,-18.515406,0.0625,0.432808,50.0

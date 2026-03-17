@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,lewis-hamilton,Lewis Hamilton,mercedes,1,53,1,0,1,1465.21102,1472.686293,7.475273,1.0,0.850495,50.0,20
-2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,sebastian-vettel,Sebastian Vettel,ferrari,2,53,3,0,2,1399.11123,1406.647208,7.535978,0.947368,0.796649,50.0,20
-2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,felipe-massa,Felipe Massa,williams,3,53,5,0,3,1262.065488,1274.079497,12.014009,0.894737,0.654457,50.0,20
-2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,valtteri-bottas,Valtteri Bottas,williams,4,53,6,0,4,1243.357462,1253.849591,10.492129,0.842105,0.632263,50.0,20
-2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,kimi-raikkonen,Kimi Räikkönen,ferrari,5,53,2,0,5,1216.927099,1226.399292,9.472193,0.789474,0.60003,50.0,20
-2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,sergio-perez,Sergio Pérez,force-india,6,53,7,0,6,1135.88402,1147.886675,12.002655,0.736842,0.496789,50.0,20
-2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,nico-hulkenberg,Nico Hülkenberg,force-india,7,52,9,0,7,1105.02214,1116.395669,11.373529,0.684211,0.45674,50.0,20
-2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,daniel-ricciardo,Daniel Ricciardo,red-bull,8,52,19,0,8,1211.630835,1213.53672,1.905885,0.631579,0.593461,50.0,20
-2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,marcus-ericsson,Marcus Ericsson,sauber,9,52,12,0,9,991.0053,1004.25107,13.245771,0.578947,0.314032,50.0,20
-2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,daniil-kvyat,Daniil Kvyat,red-bull,10,52,18,0,10,1118.086874,1120.718144,2.63127,0.526316,0.47369,50.0,20
-2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,11,52,17,0,11,1007.495096,1014.495122,7.000026,0.473684,0.333684,50.0,20
-2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,max-verstappen,Max Verstappen,toro-rosso,12,52,20,0,12,1040.948182,1043.260142,2.31196,0.421053,0.374813,50.0,20
-2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,felipe-nasr,Felipe Nasr,sauber,13,52,11,0,13,1041.727852,1041.359439,-0.368414,0.368421,0.375789,50.0,20
-2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,jenson-button,Jenson Button,mclaren,14,52,15,0,14,1103.445631,1096.50027,-6.945361,0.315789,0.454697,50.0,20
-2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,will-stevens,Will Stevens,marussia,15,51,13,0,15,939.294766,939.665608,0.370842,0.263158,0.255741,50.0,20
-2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,roberto-merhi,Roberto Merhi,marussia,16,51,14,0,16,962.212975,958.694202,-3.518773,0.210526,0.280902,50.0,20
-2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,nico-rosberg,Nico Rosberg,mercedes,17,50,4,0,17,1422.488676,1389.5418,-32.946876,0.157895,0.816832,50.0,20
-2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,fernando-alonso,Fernando Alonso,mclaren,18,47,16,0,18,1153.506802,1132.790018,-20.716784,0.105263,0.519599,50.0,20
-2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,pastor-maldonado,Pastor Maldonado,lotus-f1,DNF,1,10,1,19,958.735471,946.20068,-12.534792,0.026316,0.277012,50.0,20
-2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,romain-grosjean,Romain Grosjean,lotus-f1,DNF,1,8,1,20,1093.888474,1073.087954,-20.80052,0.026316,0.442326,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,928,lewis-hamilton,Lewis Hamilton,mercedes,1,53,1,0,1,1465.21102,1472.686293,7.475273,1.0,0.850495,50.0,20
+2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,928,sebastian-vettel,Sebastian Vettel,ferrari,2,53,3,0,2,1399.11123,1406.647208,7.535978,0.947368,0.796649,50.0,20
+2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,928,felipe-massa,Felipe Massa,williams,3,53,5,0,3,1262.065488,1274.079497,12.014009,0.894737,0.654457,50.0,20
+2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,928,valtteri-bottas,Valtteri Bottas,williams,4,53,6,0,4,1243.357462,1253.849591,10.492129,0.842105,0.632263,50.0,20
+2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,928,kimi-raikkonen,Kimi Räikkönen,ferrari,5,53,2,0,5,1216.927099,1226.399292,9.472193,0.789474,0.60003,50.0,20
+2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,928,sergio-perez,Sergio Pérez,force-india,6,53,7,0,6,1135.88402,1147.886675,12.002655,0.736842,0.496789,50.0,20
+2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,928,nico-hulkenberg,Nico Hülkenberg,force-india,7,52,9,0,7,1105.02214,1116.395669,11.373529,0.684211,0.45674,50.0,20
+2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,928,daniel-ricciardo,Daniel Ricciardo,red-bull,8,52,19,0,8,1211.630835,1213.53672,1.905885,0.631579,0.593461,50.0,20
+2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,928,marcus-ericsson,Marcus Ericsson,sauber,9,52,12,0,9,991.0053,1004.25107,13.245771,0.578947,0.314032,50.0,20
+2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,928,daniil-kvyat,Daniil Kvyat,red-bull,10,52,18,0,10,1118.086874,1120.718144,2.63127,0.526316,0.47369,50.0,20
+2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,928,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,11,52,17,0,11,1007.495096,1014.495122,7.000026,0.473684,0.333684,50.0,20
+2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,928,max-verstappen,Max Verstappen,toro-rosso,12,52,20,0,12,1040.948182,1043.260142,2.31196,0.421053,0.374813,50.0,20
+2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,928,felipe-nasr,Felipe Nasr,sauber,13,52,11,0,13,1041.727852,1041.359439,-0.368414,0.368421,0.375789,50.0,20
+2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,928,jenson-button,Jenson Button,mclaren,14,52,15,0,14,1103.445631,1096.50027,-6.945361,0.315789,0.454697,50.0,20
+2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,928,will-stevens,Will Stevens,marussia,15,51,13,0,15,939.294766,939.665608,0.370842,0.263158,0.255741,50.0,20
+2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,928,roberto-merhi,Roberto Merhi,marussia,16,51,14,0,16,962.212975,958.694202,-3.518773,0.210526,0.280902,50.0,20
+2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,928,nico-rosberg,Nico Rosberg,mercedes,17,50,4,0,17,1422.488676,1389.5418,-32.946876,0.157895,0.816832,50.0,20
+2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,928,fernando-alonso,Fernando Alonso,mclaren,18,47,16,0,18,1153.506802,1132.790018,-20.716784,0.105263,0.519599,50.0,20
+2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,928,pastor-maldonado,Pastor Maldonado,lotus-f1,DNF,1,10,1,19,958.735471,946.20068,-12.534792,0.026316,0.277012,50.0,20
+2015,12,2015-09-06,italy,Formula 1 Gran Premio d'Italia 2015,928,romain-grosjean,Romain Grosjean,lotus-f1,DNF,1,8,1,20,1093.888474,1073.087954,-20.80052,0.026316,0.442326,50.0,20

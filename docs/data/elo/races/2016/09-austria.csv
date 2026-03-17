@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,lewis-hamilton,Lewis Hamilton,mercedes,1,71,1,0,1,1450.024953,1457.854068,7.829115,1.0,0.843418,50.0,22
-2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,max-verstappen,Max Verstappen,red-bull,2,71,8,0,2,1146.717412,1168.606537,21.889125,0.952381,0.514598,50.0,22
-2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,kimi-raikkonen,Kimi Räikkönen,ferrari,3,71,4,0,3,1252.172131,1265.040142,12.86801,0.904762,0.647402,50.0,22
-2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,nico-rosberg,Nico Rosberg,mercedes,4,71,6,0,4,1407.419626,1409.842561,2.422936,0.857143,0.808684,50.0,22
-2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,daniel-ricciardo,Daniel Ricciardo,red-bull,5,71,5,0,5,1270.306877,1277.344903,7.038025,0.809524,0.668763,50.0,22
-2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,jenson-button,Jenson Button,mclaren,6,71,3,0,6,1076.954958,1093.869936,16.914979,0.761905,0.423605,50.0,22
-2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,romain-grosjean,Romain Grosjean,haas,7,71,13,0,7,1091.858004,1105.424959,13.566955,0.714286,0.442947,50.0,22
-2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,8,71,15,0,8,1073.632867,1086.000608,12.367741,0.666667,0.419312,50.0,22
-2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,valtteri-bottas,Valtteri Bottas,williams,9,70,7,0,9,1263.225376,1261.153312,-2.072064,0.619048,0.660489,50.0,22
-2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,pascal-wehrlein,Pascal Wehrlein,manor,10,70,12,0,10,976.875679,990.457482,13.581803,0.571429,0.299793,50.0,22
-2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,esteban-gutierrez,Esteban Gutiérrez,haas,11,70,11,0,11,980.864481,991.833429,10.968949,0.52381,0.304431,50.0,22
-2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,jolyon-palmer,Jolyon Palmer,renault,12,70,19,0,12,964.901761,974.408302,9.506541,0.47619,0.28606,50.0,22
-2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,felipe-nasr,Felipe Nasr,sauber,13,70,21,0,13,1016.087303,1020.184342,4.097039,0.428571,0.346631,50.0,22
-2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,kevin-magnussen,Kevin Magnussen,renault,14,70,17,0,14,1079.238769,1076.958342,-2.280427,0.380952,0.426561,50.0,22
-2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,marcus-ericsson,Marcus Ericsson,sauber,15,70,18,0,15,998.346088,998.757337,0.411249,0.333333,0.325108,50.0,22
-2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,rio-haryanto,Rio Haryanto,manor,16,70,20,0,16,950.808167,951.579938,0.771771,0.285714,0.270279,50.0,22
-2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,sergio-perez,Sergio Pérez,force-india,17,69,16,0,17,1214.058549,1195.921755,-18.136794,0.238095,0.600831,50.0,22
-2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,fernando-alonso,Fernando Alonso,mclaren,18,64,14,0,18,1072.564276,1061.191462,-11.372813,0.190476,0.417932,50.0,22
-2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,nico-hulkenberg,Nico Hülkenberg,force-india,19,64,2,0,19,1112.898456,1096.521005,-16.377451,0.142857,0.470406,50.0,22
-2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,felipe-massa,Felipe Massa,williams,20,63,PL,0,20,1198.136452,1173.857856,-24.278596,0.095238,0.58081,50.0,22
-2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,sebastian-vettel,Sebastian Vettel,ferrari,DNF,26,9,1,21,1371.633513,1335.204502,-36.429011,0.047619,0.776199,50.0,22
-2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,daniil-kvyat,Daniil Kvyat,toro-rosso,DNF,2,PL,1,22,1109.330157,1086.043076,-23.287082,0.0,0.465742,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,944,lewis-hamilton,Lewis Hamilton,mercedes,1,71,1,0,1,1450.024953,1457.854068,7.829115,1.0,0.843418,50.0,22
+2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,944,max-verstappen,Max Verstappen,red-bull,2,71,8,0,2,1146.717412,1168.606537,21.889125,0.952381,0.514598,50.0,22
+2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,944,kimi-raikkonen,Kimi Räikkönen,ferrari,3,71,4,0,3,1252.172131,1265.040142,12.86801,0.904762,0.647402,50.0,22
+2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,944,nico-rosberg,Nico Rosberg,mercedes,4,71,6,0,4,1407.419626,1409.842561,2.422936,0.857143,0.808684,50.0,22
+2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,944,daniel-ricciardo,Daniel Ricciardo,red-bull,5,71,5,0,5,1270.306877,1277.344903,7.038025,0.809524,0.668763,50.0,22
+2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,944,jenson-button,Jenson Button,mclaren,6,71,3,0,6,1076.954958,1093.869936,16.914979,0.761905,0.423605,50.0,22
+2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,944,romain-grosjean,Romain Grosjean,haas,7,71,13,0,7,1091.858004,1105.424959,13.566955,0.714286,0.442947,50.0,22
+2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,944,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,8,71,15,0,8,1073.632867,1086.000608,12.367741,0.666667,0.419312,50.0,22
+2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,944,valtteri-bottas,Valtteri Bottas,williams,9,70,7,0,9,1263.225376,1261.153312,-2.072064,0.619048,0.660489,50.0,22
+2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,944,pascal-wehrlein,Pascal Wehrlein,manor,10,70,12,0,10,976.875679,990.457482,13.581803,0.571429,0.299793,50.0,22
+2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,944,esteban-gutierrez,Esteban Gutiérrez,haas,11,70,11,0,11,980.864481,991.833429,10.968949,0.52381,0.304431,50.0,22
+2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,944,jolyon-palmer,Jolyon Palmer,renault,12,70,19,0,12,964.901761,974.408302,9.506541,0.47619,0.28606,50.0,22
+2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,944,felipe-nasr,Felipe Nasr,sauber,13,70,21,0,13,1016.087303,1020.184342,4.097039,0.428571,0.346631,50.0,22
+2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,944,kevin-magnussen,Kevin Magnussen,renault,14,70,17,0,14,1079.238769,1076.958342,-2.280427,0.380952,0.426561,50.0,22
+2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,944,marcus-ericsson,Marcus Ericsson,sauber,15,70,18,0,15,998.346088,998.757337,0.411249,0.333333,0.325108,50.0,22
+2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,944,rio-haryanto,Rio Haryanto,manor,16,70,20,0,16,950.808167,951.579938,0.771771,0.285714,0.270279,50.0,22
+2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,944,sergio-perez,Sergio Pérez,force-india,17,69,16,0,17,1214.058549,1195.921755,-18.136794,0.238095,0.600831,50.0,22
+2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,944,fernando-alonso,Fernando Alonso,mclaren,18,64,14,0,18,1072.564276,1061.191462,-11.372813,0.190476,0.417932,50.0,22
+2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,944,nico-hulkenberg,Nico Hülkenberg,force-india,19,64,2,0,19,1112.898456,1096.521005,-16.377451,0.142857,0.470406,50.0,22
+2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,944,felipe-massa,Felipe Massa,williams,20,63,PL,0,20,1198.136452,1173.857856,-24.278596,0.095238,0.58081,50.0,22
+2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,944,sebastian-vettel,Sebastian Vettel,ferrari,DNF,26,9,1,21,1371.633513,1335.204502,-36.429011,0.047619,0.776199,50.0,22
+2016,9,2016-07-03,austria,Formula 1 Pirelli Grosser Preis von Österreich 2016,944,daniil-kvyat,Daniil Kvyat,toro-rosso,DNF,2,PL,1,22,1109.330157,1086.043076,-23.287082,0.0,0.465742,50.0,22

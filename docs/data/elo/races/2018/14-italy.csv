@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,lewis-hamilton,Lewis Hamilton,mercedes,1,53,3,0,1,1511.249393,1516.824592,5.575199,1.0,0.888496,50.0,20
-2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,kimi-raikkonen,Kimi Räikkönen,ferrari,2,53,1,0,2,1294.144278,1306.189663,12.045386,0.947368,0.706461,50.0,20
-2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,valtteri-bottas,Valtteri Bottas,mercedes,3,53,4,0,3,1351.74844,1358.243974,6.495534,0.894737,0.764826,50.0,20
-2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,sebastian-vettel,Sebastian Vettel,ferrari,4,53,2,0,4,1405.877183,1407.328094,1.450911,0.842105,0.813087,50.0,20
-2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,max-verstappen,Max Verstappen,red-bull,5,53,5,0,5,1230.529249,1238.282849,7.7536,0.789474,0.634402,50.0,20
-2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,esteban-ocon,Esteban Ocon,force-india,6,53,8,0,6,1128.724675,1140.211113,11.486438,0.736842,0.507113,50.0,20
-2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,sergio-perez,Sergio Pérez,force-india,7,53,14,0,7,1171.786634,1177.88548,6.098846,0.684211,0.562234,50.0,20
-2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,carlos-sainz-jr,Carlos Sainz Jr.,renault,8,53,7,0,8,1098.736709,1106.904154,8.167445,0.631579,0.46823,50.0,20
-2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,lance-stroll,Lance Stroll,williams,9,52,10,0,9,991.929114,1004.238661,12.309547,0.578947,0.332756,50.0,20
-2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,sergey-sirotkin,Sergey Sirotkin,williams,10,52,12,0,10,949.481659,961.651111,12.169453,0.526316,0.282927,50.0,20
-2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,charles-leclerc,Charles Leclerc,sauber,11,52,15,0,11,979.534315,987.324892,7.790577,0.473684,0.317873,50.0,20
-2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,stoffel-vandoorne,Stoffel Vandoorne,mclaren,12,52,17,0,12,1007.716619,1011.166257,3.449638,0.421053,0.35206,50.0,20
-2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,nico-hulkenberg,Nico Hülkenberg,renault,13,52,20,0,13,1080.94087,1077.104702,-3.836168,0.368421,0.445144,50.0,20
-2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,pierre-gasly,Pierre Gasly,toro-rosso,14,52,9,0,14,1032.525229,1029.161804,-3.363425,0.315789,0.383058,50.0,20
-2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,marcus-ericsson,Marcus Ericsson,sauber,15,52,18,0,15,983.924198,980.926342,-2.997856,0.263158,0.323115,50.0,20
-2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,kevin-magnussen,Kevin Magnussen,haas,16,52,11,0,16,1114.434507,1100.530551,-13.903956,0.210526,0.488605,50.0,20
-2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,daniel-ricciardo,Daniel Ricciardo,red-bull,DNF,23,19,1,17,1205.264905,1182.963973,-22.300932,0.157895,0.603913,50.0,20
-2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,fernando-alonso,Fernando Alonso,mclaren,DNF,9,13,1,18,1059.142449,1043.55544,-15.587009,0.105263,0.417003,50.0,20
-2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,brendon-hartley,Brendon Hartley,toro-rosso,DNF,0,16,1,19,951.706229,940.065136,-11.641094,0.052632,0.285453,50.0,20
-2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,romain-grosjean,Romain Grosjean,haas,DSQ,53,6,2,20,1063.991082,1042.828951,-21.162131,0.0,0.423243,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,990,lewis-hamilton,Lewis Hamilton,mercedes,1,53,3,0,1,1511.249393,1516.824592,5.575199,1.0,0.888496,50.0,20
+2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,990,kimi-raikkonen,Kimi Räikkönen,ferrari,2,53,1,0,2,1294.144278,1306.189663,12.045386,0.947368,0.706461,50.0,20
+2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,990,valtteri-bottas,Valtteri Bottas,mercedes,3,53,4,0,3,1351.74844,1358.243974,6.495534,0.894737,0.764826,50.0,20
+2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,990,sebastian-vettel,Sebastian Vettel,ferrari,4,53,2,0,4,1405.877183,1407.328094,1.450911,0.842105,0.813087,50.0,20
+2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,990,max-verstappen,Max Verstappen,red-bull,5,53,5,0,5,1230.529249,1238.282849,7.7536,0.789474,0.634402,50.0,20
+2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,990,esteban-ocon,Esteban Ocon,force-india,6,53,8,0,6,1128.724675,1140.211113,11.486438,0.736842,0.507113,50.0,20
+2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,990,sergio-perez,Sergio Pérez,force-india,7,53,14,0,7,1171.786634,1177.88548,6.098846,0.684211,0.562234,50.0,20
+2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,990,carlos-sainz-jr,Carlos Sainz Jr.,renault,8,53,7,0,8,1098.736709,1106.904154,8.167445,0.631579,0.46823,50.0,20
+2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,990,lance-stroll,Lance Stroll,williams,9,52,10,0,9,991.929114,1004.238661,12.309547,0.578947,0.332756,50.0,20
+2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,990,sergey-sirotkin,Sergey Sirotkin,williams,10,52,12,0,10,949.481659,961.651111,12.169453,0.526316,0.282927,50.0,20
+2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,990,charles-leclerc,Charles Leclerc,sauber,11,52,15,0,11,979.534315,987.324892,7.790577,0.473684,0.317873,50.0,20
+2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,990,stoffel-vandoorne,Stoffel Vandoorne,mclaren,12,52,17,0,12,1007.716619,1011.166257,3.449638,0.421053,0.35206,50.0,20
+2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,990,nico-hulkenberg,Nico Hülkenberg,renault,13,52,20,0,13,1080.94087,1077.104702,-3.836168,0.368421,0.445144,50.0,20
+2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,990,pierre-gasly,Pierre Gasly,toro-rosso,14,52,9,0,14,1032.525229,1029.161804,-3.363425,0.315789,0.383058,50.0,20
+2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,990,marcus-ericsson,Marcus Ericsson,sauber,15,52,18,0,15,983.924198,980.926342,-2.997856,0.263158,0.323115,50.0,20
+2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,990,kevin-magnussen,Kevin Magnussen,haas,16,52,11,0,16,1114.434507,1100.530551,-13.903956,0.210526,0.488605,50.0,20
+2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,990,daniel-ricciardo,Daniel Ricciardo,red-bull,DNF,23,19,1,17,1205.264905,1182.963973,-22.300932,0.157895,0.603913,50.0,20
+2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,990,fernando-alonso,Fernando Alonso,mclaren,DNF,9,13,1,18,1059.142449,1043.55544,-15.587009,0.105263,0.417003,50.0,20
+2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,990,brendon-hartley,Brendon Hartley,toro-rosso,DNF,0,16,1,19,951.706229,940.065136,-11.641094,0.052632,0.285453,50.0,20
+2018,14,2018-09-02,italy,Formula 1 Gran Premio Heineken d'Italia 2018,990,romain-grosjean,Romain Grosjean,haas,DSQ,53,6,2,20,1063.991082,1042.828951,-21.162131,0.0,0.423243,50.0,20

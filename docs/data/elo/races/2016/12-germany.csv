@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,lewis-hamilton,Lewis Hamilton,mercedes,1,67,2,0,1,1472.578733,1479.644793,7.06606,1.0,0.858679,50.0,22
-2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,daniel-ricciardo,Daniel Ricciardo,red-bull,2,67,3,0,2,1297.177039,1309.867329,12.69029,0.952381,0.698575,50.0,22
-2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,max-verstappen,Max Verstappen,red-bull,3,67,4,0,3,1201.066827,1217.081821,16.014994,0.904762,0.584462,50.0,22
-2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,nico-rosberg,Nico Rosberg,mercedes,4,67,1,0,4,1421.351434,1423.248286,1.896851,0.857143,0.819206,50.0,22
-2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,sebastian-vettel,Sebastian Vettel,ferrari,5,67,6,0,5,1335.249133,1338.766553,3.51742,0.809524,0.739175,50.0,22
-2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,kimi-raikkonen,Kimi Räikkönen,ferrari,6,67,5,0,6,1276.866211,1281.174748,4.308537,0.761905,0.675734,50.0,22
-2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,nico-hulkenberg,Nico Hülkenberg,force-india,7,67,8,0,7,1115.051703,1127.07438,12.022678,0.714286,0.473832,50.0,22
-2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,jenson-button,Jenson Button,mclaren,8,66,12,0,8,1073.037107,1085.398341,12.361234,0.666667,0.419442,50.0,22
-2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,valtteri-bottas,Valtteri Bottas,williams,9,66,7,0,9,1246.118671,1245.08343,-1.035242,0.619048,0.639752,50.0,22
-2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,sergio-perez,Sergio Pérez,force-india,10,66,9,0,10,1201.795193,1201.097817,-0.697376,0.571429,0.585376,50.0,22
-2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,esteban-gutierrez,Esteban Gutiérrez,haas,11,66,11,0,11,995.956645,1005.970035,10.01339,0.52381,0.323542,50.0,22
-2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,fernando-alonso,Fernando Alonso,mclaren,12,66,13,0,12,1077.9499,1080.471417,2.521517,0.47619,0.42576,50.0,22
-2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,romain-grosjean,Romain Grosjean,haas,13,66,20,0,13,1084.370221,1084.096835,-0.273387,0.428571,0.434039,50.0,22
-2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,14,66,15,0,14,1108.398761,1104.187223,-4.211539,0.380952,0.465183,50.0,22
-2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,daniil-kvyat,Daniil Kvyat,toro-rosso,15,66,18,0,15,1084.936604,1079.864741,-5.071863,0.333333,0.434771,50.0,22
-2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,kevin-magnussen,Kevin Magnussen,renault,16,66,16,0,16,1063.788189,1057.694226,-6.093962,0.285714,0.407594,50.0,22
-2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,pascal-wehrlein,Pascal Wehrlein,manor,17,65,17,0,17,967.001978,964.415281,-2.586696,0.238095,0.289829,50.0,22
-2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,marcus-ericsson,Marcus Ericsson,sauber,18,65,22,0,18,974.212071,968.832112,-5.379959,0.190476,0.298075,50.0,22
-2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,jolyon-palmer,Jolyon Palmer,renault,19,65,14,0,19,978.406554,970.403439,-8.003115,0.142857,0.302919,50.0,22
-2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,rio-haryanto,Rio Haryanto,manor,20,65,19,0,20,934.400261,926.467034,-7.933227,0.095238,0.253903,50.0,22
-2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,felipe-nasr,Felipe Nasr,sauber,DNF,57,21,1,21,1013.686552,998.822021,-14.864531,0.047619,0.34491,50.0,22
-2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,felipe-massa,Felipe Massa,williams,DNF,36,10,1,22,1154.656063,1128.393991,-26.262072,0.0,0.525241,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,947,lewis-hamilton,Lewis Hamilton,mercedes,1,67,2,0,1,1472.578733,1479.644793,7.06606,1.0,0.858679,50.0,22
+2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,947,daniel-ricciardo,Daniel Ricciardo,red-bull,2,67,3,0,2,1297.177039,1309.867329,12.69029,0.952381,0.698575,50.0,22
+2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,947,max-verstappen,Max Verstappen,red-bull,3,67,4,0,3,1201.066827,1217.081821,16.014994,0.904762,0.584462,50.0,22
+2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,947,nico-rosberg,Nico Rosberg,mercedes,4,67,1,0,4,1421.351434,1423.248286,1.896851,0.857143,0.819206,50.0,22
+2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,947,sebastian-vettel,Sebastian Vettel,ferrari,5,67,6,0,5,1335.249133,1338.766553,3.51742,0.809524,0.739175,50.0,22
+2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,947,kimi-raikkonen,Kimi Räikkönen,ferrari,6,67,5,0,6,1276.866211,1281.174748,4.308537,0.761905,0.675734,50.0,22
+2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,947,nico-hulkenberg,Nico Hülkenberg,force-india,7,67,8,0,7,1115.051703,1127.07438,12.022678,0.714286,0.473832,50.0,22
+2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,947,jenson-button,Jenson Button,mclaren,8,66,12,0,8,1073.037107,1085.398341,12.361234,0.666667,0.419442,50.0,22
+2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,947,valtteri-bottas,Valtteri Bottas,williams,9,66,7,0,9,1246.118671,1245.08343,-1.035242,0.619048,0.639752,50.0,22
+2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,947,sergio-perez,Sergio Pérez,force-india,10,66,9,0,10,1201.795193,1201.097817,-0.697376,0.571429,0.585376,50.0,22
+2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,947,esteban-gutierrez,Esteban Gutiérrez,haas,11,66,11,0,11,995.956645,1005.970035,10.01339,0.52381,0.323542,50.0,22
+2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,947,fernando-alonso,Fernando Alonso,mclaren,12,66,13,0,12,1077.9499,1080.471417,2.521517,0.47619,0.42576,50.0,22
+2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,947,romain-grosjean,Romain Grosjean,haas,13,66,20,0,13,1084.370221,1084.096835,-0.273387,0.428571,0.434039,50.0,22
+2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,947,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,14,66,15,0,14,1108.398761,1104.187223,-4.211539,0.380952,0.465183,50.0,22
+2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,947,daniil-kvyat,Daniil Kvyat,toro-rosso,15,66,18,0,15,1084.936604,1079.864741,-5.071863,0.333333,0.434771,50.0,22
+2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,947,kevin-magnussen,Kevin Magnussen,renault,16,66,16,0,16,1063.788189,1057.694226,-6.093962,0.285714,0.407594,50.0,22
+2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,947,pascal-wehrlein,Pascal Wehrlein,manor,17,65,17,0,17,967.001978,964.415281,-2.586696,0.238095,0.289829,50.0,22
+2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,947,marcus-ericsson,Marcus Ericsson,sauber,18,65,22,0,18,974.212071,968.832112,-5.379959,0.190476,0.298075,50.0,22
+2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,947,jolyon-palmer,Jolyon Palmer,renault,19,65,14,0,19,978.406554,970.403439,-8.003115,0.142857,0.302919,50.0,22
+2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,947,rio-haryanto,Rio Haryanto,manor,20,65,19,0,20,934.400261,926.467034,-7.933227,0.095238,0.253903,50.0,22
+2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,947,felipe-nasr,Felipe Nasr,sauber,DNF,57,21,1,21,1013.686552,998.822021,-14.864531,0.047619,0.34491,50.0,22
+2016,12,2016-07-31,germany,Formula 1 Grosser Preis von Deutschland 2016,947,felipe-massa,Felipe Massa,williams,DNF,36,10,1,22,1154.656063,1128.393991,-26.262072,0.0,0.525241,50.0,22

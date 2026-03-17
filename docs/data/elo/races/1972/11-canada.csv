@@ -1,26 +1,26 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,jackie-stewart,Jackie Stewart,tyrrell,1,80,5,0,1,1179.592525,1195.402923,15.810398,1.0,0.683792,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,peter-revson,Peter Revson,mclaren,2,80,1,0,2,1075.316749,1096.085933,20.769184,0.958333,0.54295,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,denny-hulme,Denny Hulme,mclaren,3,80,2,0,3,1161.255237,1174.067711,12.812474,0.916667,0.660417,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,carlos-reutemann,Carlos Reutemann,brabham,4,80,9,0,4,978.356879,1001.830752,23.473873,0.875,0.405523,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,clay-regazzoni,Clay Regazzoni,ferrari,5,80,7,0,5,1058.847389,1074.537629,15.69024,0.833333,0.519529,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,chris-amon,Chris Amon,matra,6,79,10,0,6,1129.225345,1137.912007,8.686662,0.791667,0.617933,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,tim-schenken,Tim Schenken,surtees,7,79,13,0,7,991.164305,1007.495985,16.33168,0.75,0.423366,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,graham-hill,Graham Hill,brabham,8,79,17,0,8,1072.379671,1080.857181,8.47751,0.708333,0.538783,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,carlos-pace,Carlos Pace,march,9,78,18,0,9,993.319182,1005.333184,12.014002,0.666667,0.426387,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,howden-ganley,Howden Ganley,brm,10,78,14,0,10,1035.662654,1042.591,6.928346,0.625,0.486433,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,emerson-fittipaldi,Emerson Fittipaldi,lotus,11,78,4,0,11,1205.797101,1199.173342,-6.623758,0.583333,0.715809,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,jacky-ickx,Jacky Ickx,ferrari,12,77,8,0,12,1112.807924,1110.117519,-2.690404,0.541667,0.595475,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,henri-pescarolo,Henri Pescarolo,march,13,73,21,0,13,957.245255,963.415863,6.170608,0.5,0.376588,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,reine-wisell,Reine Wisell,lotus,DNF,65,16,1,14,991.249244,992.991643,1.742399,0.458333,0.423485,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,mike-beuttler,Mike Beuttler,march,NC,59,24,1,15,979.209692,979.707797,0.498105,0.416667,0.406705,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,francois-cevert,François Cevert,tyrrell,DNF,51,6,1,16,1096.059281,1086.199908,-9.859373,0.375,0.572187,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,peter-gethin,Peter Gethin,brm,DNF,25,12,1,17,977.447293,973.900818,-3.546475,0.333333,0.404263,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,skip-barber,Skip Barber,march,NC,24,22,1,18,977.394774,971.7686,-5.626173,0.291667,0.40419,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,jean-pierre-beltoise,Jean-Pierre Beltoise,brm,DNF,21,20,1,19,1103.635175,1086.997043,-16.638132,0.25,0.582763,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,bill-brack,Bill Brack,brm,DNF,20,23,1,20,999.578622,988.236011,-11.342611,0.208333,0.435186,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,wilson-fittipaldi,Wilson Fittipaldi,brabham,DNF,5,11,1,21,1025.485584,1010.223055,-15.262529,0.166667,0.471917,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,andrea-de-adamich,Andrea de Adamich,surtees,DNF,2,15,1,22,976.374994,962.486034,-13.888959,0.125,0.402779,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,niki-lauda,Niki Lauda,march,DSQ,64,19,2,23,995.861111,978.53001,-17.331101,0.083333,0.429955,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,ronnie-peterson,Ronnie Peterson,march,DSQ,61,3,2,24,1161.841179,1130.865735,-30.975444,0.041667,0.661176,50.0,25
-1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,derek-bell,Derek Bell,tecno,DNS,,,2,25,908.1478,892.527281,-15.620519,0.0,0.31241,50.0,25
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,jackie-stewart,Jackie Stewart,tyrrell,1,80,5,0,1,1179.592525,1195.402923,15.810398,1.0,0.683792,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,peter-revson,Peter Revson,mclaren,2,80,1,0,2,1075.316749,1096.085933,20.769184,0.958333,0.54295,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,denny-hulme,Denny Hulme,mclaren,3,80,2,0,3,1161.255237,1174.067711,12.812474,0.916667,0.660417,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,carlos-reutemann,Carlos Reutemann,brabham,4,80,9,0,4,978.356879,1001.830752,23.473873,0.875,0.405523,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,clay-regazzoni,Clay Regazzoni,ferrari,5,80,7,0,5,1058.847389,1074.537629,15.69024,0.833333,0.519529,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,chris-amon,Chris Amon,matra,6,79,10,0,6,1129.225345,1137.912007,8.686662,0.791667,0.617933,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,tim-schenken,Tim Schenken,surtees,7,79,13,0,7,991.164305,1007.495985,16.33168,0.75,0.423366,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,graham-hill,Graham Hill,brabham,8,79,17,0,8,1072.379671,1080.857181,8.47751,0.708333,0.538783,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,carlos-pace,Carlos Pace,march,9,78,18,0,9,993.319182,1005.333184,12.014002,0.666667,0.426387,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,howden-ganley,Howden Ganley,brm,10,78,14,0,10,1035.662654,1042.591,6.928346,0.625,0.486433,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,emerson-fittipaldi,Emerson Fittipaldi,lotus,11,78,4,0,11,1205.797101,1199.173342,-6.623758,0.583333,0.715809,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,jacky-ickx,Jacky Ickx,ferrari,12,77,8,0,12,1112.807924,1110.117519,-2.690404,0.541667,0.595475,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,henri-pescarolo,Henri Pescarolo,march,13,73,21,0,13,957.245255,963.415863,6.170608,0.5,0.376588,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,reine-wisell,Reine Wisell,lotus,DNF,65,16,1,14,991.249244,992.991643,1.742399,0.458333,0.423485,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,mike-beuttler,Mike Beuttler,march,NC,59,24,1,15,979.209692,979.707797,0.498105,0.416667,0.406705,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,francois-cevert,François Cevert,tyrrell,DNF,51,6,1,16,1096.059281,1086.199908,-9.859373,0.375,0.572187,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,peter-gethin,Peter Gethin,brm,DNF,25,12,1,17,977.447293,973.900818,-3.546475,0.333333,0.404263,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,skip-barber,Skip Barber,march,NC,24,22,1,18,977.394774,971.7686,-5.626173,0.291667,0.40419,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,jean-pierre-beltoise,Jean-Pierre Beltoise,brm,DNF,21,20,1,19,1103.635175,1086.997043,-16.638132,0.25,0.582763,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,bill-brack,Bill Brack,brm,DNF,20,23,1,20,999.578622,988.236011,-11.342611,0.208333,0.435186,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,wilson-fittipaldi,Wilson Fittipaldi,brabham,DNF,5,11,1,21,1025.485584,1010.223055,-15.262529,0.166667,0.471917,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,andrea-de-adamich,Andrea de Adamich,surtees,DNF,2,15,1,22,976.374994,962.486034,-13.888959,0.125,0.402779,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,niki-lauda,Niki Lauda,march,DSQ,64,19,2,23,995.861111,978.53001,-17.331101,0.083333,0.429955,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,ronnie-peterson,Ronnie Peterson,march,DSQ,61,3,2,24,1161.841179,1130.865735,-30.975444,0.041667,0.661176,50.0,25
+1972,11,1972-09-24,canada,Labatt's Canadian Grand Prix 1972,219,derek-bell,Derek Bell,tecno,DNS,,,2,25,908.1478,892.527281,-15.620519,0.0,0.31241,50.0,25

@@ -1,25 +1,25 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,lewis-hamilton,Lewis Hamilton,mclaren,1,69,1,0,1,1254.224555,1269.828723,15.604168,1.0,0.687917,50.0,24
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,kimi-raikkonen,Kimi Räikkönen,lotus-f1,2,69,5,0,2,1283.130075,1295.024516,11.894441,0.956522,0.718633,50.0,24
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,romain-grosjean,Romain Grosjean,lotus-f1,3,69,2,0,3,1015.325785,1040.995305,25.66952,0.913043,0.399653,50.0,24
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,sebastian-vettel,Sebastian Vettel,red-bull,4,69,3,0,4,1374.729402,1377.945531,3.216129,0.869565,0.805243,50.0,24
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,fernando-alonso,Fernando Alonso,ferrari,5,69,6,0,5,1409.173114,1408.816398,-0.356716,0.826087,0.833221,50.0,24
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,jenson-button,Jenson Button,mclaren,6,69,4,0,6,1286.592485,1289.61238,3.019895,0.782609,0.722211,50.0,24
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,bruno-senna,Bruno Senna,williams,7,69,9,0,7,999.902969,1017.815392,17.912423,0.73913,0.380882,50.0,24
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,mark-webber,Mark Webber,red-bull,8,69,11,0,8,1375.638317,1370.120219,-5.518098,0.695652,0.806014,50.0,24
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,felipe-massa,Felipe Massa,ferrari,9,69,7,0,9,1186.204138,1188.293669,2.089531,0.652174,0.610383,50.0,24
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,nico-rosberg,Nico Rosberg,mercedes,10,69,13,0,10,1237.77333,1234.718329,-3.055001,0.608696,0.669796,50.0,24
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,nico-hulkenberg,Nico Hülkenberg,force-india,11,69,10,0,11,1093.191295,1096.631063,3.439768,0.565217,0.496422,50.0,24
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,paul-di-resta,Paul di Resta,force-india,12,69,12,0,12,1119.427851,1119.059608,-0.368243,0.521739,0.529104,50.0,24
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,pastor-maldonado,Pastor Maldonado,williams,13,69,8,0,13,992.912265,998.202852,5.290587,0.478261,0.372449,50.0,24
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,sergio-perez,Sergio Pérez,sauber,14,69,14,0,14,1097.456633,1094.10835,-3.348283,0.434783,0.501748,50.0,24
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,daniel-ricciardo,Daniel Ricciardo,toro-rosso,15,68,18,0,15,988.973707,990.152868,1.179161,0.391304,0.367721,50.0,24
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,16,68,16,0,16,1016.480935,1013.818873,-2.662062,0.347826,0.401067,50.0,24
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,heikki-kovalainen,Heikki Kovalainen,caterham,17,68,19,0,17,940.145584,939.823982,-0.321602,0.304348,0.31078,50.0,24
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,kamui-kobayashi,Kamui Kobayashi,sauber,18,67,15,0,18,1082.752311,1071.626968,-11.125342,0.26087,0.483376,50.0,24
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,vitaly-petrov,Vitaly Petrov,caterham,19,67,20,0,19,993.107398,985.342772,-7.764626,0.217391,0.372684,50.0,24
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,charles-pic,Charles Pic,marussia,20,67,21,0,20,933.49606,927.026461,-6.469599,0.173913,0.303305,50.0,24
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,timo-glock,Timo Glock,marussia,21,66,22,0,21,867.796427,862.620271,-5.176155,0.130435,0.233958,50.0,24
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,pedro-de-la-rosa,Pedro de la Rosa,hrt,22,66,23,0,22,915.529374,905.702299,-9.827075,0.086957,0.283498,50.0,24
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,narain-karthikeyan,Narain Karthikeyan,hrt,DNF,60,24,1,23,840.53212,832.311562,-8.220558,0.043478,0.207889,50.0,24
-2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,michael-schumacher,Michael Schumacher,mercedes,DNF,58,17,1,24,1097.694549,1072.592286,-25.102263,0.0,0.502045,50.0,24
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,lewis-hamilton,Lewis Hamilton,mclaren,1,69,1,0,1,1254.224555,1269.828723,15.604168,1.0,0.687917,50.0,24
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,kimi-raikkonen,Kimi Räikkönen,lotus-f1,2,69,5,0,2,1283.130075,1295.024516,11.894441,0.956522,0.718633,50.0,24
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,romain-grosjean,Romain Grosjean,lotus-f1,3,69,2,0,3,1015.325785,1040.995305,25.66952,0.913043,0.399653,50.0,24
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,sebastian-vettel,Sebastian Vettel,red-bull,4,69,3,0,4,1374.729402,1377.945531,3.216129,0.869565,0.805243,50.0,24
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,fernando-alonso,Fernando Alonso,ferrari,5,69,6,0,5,1409.173114,1408.816398,-0.356716,0.826087,0.833221,50.0,24
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,jenson-button,Jenson Button,mclaren,6,69,4,0,6,1286.592485,1289.61238,3.019895,0.782609,0.722211,50.0,24
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,bruno-senna,Bruno Senna,williams,7,69,9,0,7,999.902969,1017.815392,17.912423,0.73913,0.380882,50.0,24
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,mark-webber,Mark Webber,red-bull,8,69,11,0,8,1375.638317,1370.120219,-5.518098,0.695652,0.806014,50.0,24
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,felipe-massa,Felipe Massa,ferrari,9,69,7,0,9,1186.204138,1188.293669,2.089531,0.652174,0.610383,50.0,24
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,nico-rosberg,Nico Rosberg,mercedes,10,69,13,0,10,1237.77333,1234.718329,-3.055001,0.608696,0.669796,50.0,24
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,nico-hulkenberg,Nico Hülkenberg,force-india,11,69,10,0,11,1093.191295,1096.631063,3.439768,0.565217,0.496422,50.0,24
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,paul-di-resta,Paul di Resta,force-india,12,69,12,0,12,1119.427851,1119.059608,-0.368243,0.521739,0.529104,50.0,24
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,pastor-maldonado,Pastor Maldonado,williams,13,69,8,0,13,992.912265,998.202852,5.290587,0.478261,0.372449,50.0,24
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,sergio-perez,Sergio Pérez,sauber,14,69,14,0,14,1097.456633,1094.10835,-3.348283,0.434783,0.501748,50.0,24
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,daniel-ricciardo,Daniel Ricciardo,toro-rosso,15,68,18,0,15,988.973707,990.152868,1.179161,0.391304,0.367721,50.0,24
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,16,68,16,0,16,1016.480935,1013.818873,-2.662062,0.347826,0.401067,50.0,24
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,heikki-kovalainen,Heikki Kovalainen,caterham,17,68,19,0,17,940.145584,939.823982,-0.321602,0.304348,0.31078,50.0,24
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,kamui-kobayashi,Kamui Kobayashi,sauber,18,67,15,0,18,1082.752311,1071.626968,-11.125342,0.26087,0.483376,50.0,24
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,vitaly-petrov,Vitaly Petrov,caterham,19,67,20,0,19,993.107398,985.342772,-7.764626,0.217391,0.372684,50.0,24
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,charles-pic,Charles Pic,marussia,20,67,21,0,20,933.49606,927.026461,-6.469599,0.173913,0.303305,50.0,24
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,timo-glock,Timo Glock,marussia,21,66,22,0,21,867.796427,862.620271,-5.176155,0.130435,0.233958,50.0,24
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,pedro-de-la-rosa,Pedro de la Rosa,hrt,22,66,23,0,22,915.529374,905.702299,-9.827075,0.086957,0.283498,50.0,24
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,narain-karthikeyan,Narain Karthikeyan,hrt,DNF,60,24,1,23,840.53212,832.311562,-8.220558,0.043478,0.207889,50.0,24
+2012,11,2012-07-29,hungary,Formula 1 Eni Magyar Nagydij 2012,869,michael-schumacher,Michael Schumacher,mercedes,DNF,58,17,1,24,1097.694549,1072.592286,-25.102263,0.0,0.502045,50.0,24

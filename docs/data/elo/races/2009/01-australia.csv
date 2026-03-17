@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,jenson-button,Jenson Button,brawn,1,58,1,0,1,1008.202781,1039.519776,31.316996,1.0,0.37366,50.0,20
-2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,rubens-barrichello,Rubens Barrichello,brawn,2,58,2,0,2,998.710311,1027.996365,29.286054,0.947368,0.361647,50.0,20
-2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,jarno-trulli,Jarno Trulli,toyota,3,58,PL,0,3,1107.568832,1127.085149,19.516317,0.894737,0.50441,50.0,20
-2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,timo-glock,Timo Glock,toyota,4,58,PL,0,4,1091.001547,1108.992463,17.990916,0.842105,0.482287,50.0,20
-2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,fernando-alonso,Fernando Alonso,renault,5,58,10,0,5,1306.654255,1308.626096,1.971841,0.789474,0.750037,50.0,20
-2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,nico-rosberg,Nico Rosberg,williams,6,58,5,0,6,1081.329772,1094.702644,13.372872,0.736842,0.469385,50.0,20
-2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,sebastien-buemi,Sébastien Buemi,toro-rosso,7,58,13,0,7,1000.0,1016.046933,16.046933,0.684211,0.363272,50.0,20
-2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,sebastien-bourdais,Sébastien Bourdais,toro-rosso,8,58,17,0,8,986.111992,1000.395363,14.28337,0.631579,0.345912,50.0,20
-2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,adrian-sutil,Adrian Sutil,force-india,9,58,16,0,9,842.368481,861.838493,19.470012,0.578947,0.189547,50.0,20
-2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,nick-heidfeld,Nick Heidfeld,bmw-sauber,10,58,9,0,10,1246.524612,1238.716792,-7.80782,0.526316,0.682472,50.0,20
-2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,force-india,11,58,15,0,11,958.461465,966.529774,8.068309,0.473684,0.312318,50.0,20
-2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,mark-webber,Mark Webber,red-bull,12,57,8,0,12,1079.793882,1077.47962,-2.314262,0.421053,0.467338,50.0,20
-2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,13,56,3,0,13,1092.049534,1086.286287,-5.763247,0.368421,0.483686,50.0,20
-2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,robert-kubica,Robert Kubica,bmw-sauber,14,55,4,0,14,1243.236564,1225.097911,-18.138653,0.315789,0.678563,50.0,20
-2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,15,55,7,0,15,1265.128294,1243.076376,-22.051918,0.263158,0.704196,50.0,20
-2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,felipe-massa,Felipe Massa,ferrari,DNF,45,6,1,16,1298.65452,1272.105444,-26.549076,0.210526,0.741508,50.0,20
-2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,nelson-piquet-jr,Nelson Piquet Jr.,renault,DNF,24,14,1,17,1013.514244,1002.387197,-11.127046,0.157895,0.380436,50.0,20
-2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,kazuki-nakajima,Kazuki Nakajima,williams,DNF,17,11,1,18,1011.624537,997.986654,-13.637883,0.105263,0.378021,50.0,20
-2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,heikki-kovalainen,Heikki Kovalainen,mclaren,DNF,0,12,1,19,1173.050195,1146.136703,-26.913493,0.052632,0.590901,50.0,20
-2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,DSQ,58,18,2,20,1297.629695,1260.609472,-37.020223,0.0,0.740404,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,804,jenson-button,Jenson Button,brawn,1,58,1,0,1,1008.202781,1039.519776,31.316996,1.0,0.37366,50.0,20
+2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,804,rubens-barrichello,Rubens Barrichello,brawn,2,58,2,0,2,998.710311,1027.996365,29.286054,0.947368,0.361647,50.0,20
+2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,804,jarno-trulli,Jarno Trulli,toyota,3,58,PL,0,3,1107.568832,1127.085149,19.516317,0.894737,0.50441,50.0,20
+2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,804,timo-glock,Timo Glock,toyota,4,58,PL,0,4,1091.001547,1108.992463,17.990916,0.842105,0.482287,50.0,20
+2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,804,fernando-alonso,Fernando Alonso,renault,5,58,10,0,5,1306.654255,1308.626096,1.971841,0.789474,0.750037,50.0,20
+2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,804,nico-rosberg,Nico Rosberg,williams,6,58,5,0,6,1081.329772,1094.702644,13.372872,0.736842,0.469385,50.0,20
+2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,804,sebastien-buemi,Sébastien Buemi,toro-rosso,7,58,13,0,7,1000.0,1016.046933,16.046933,0.684211,0.363272,50.0,20
+2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,804,sebastien-bourdais,Sébastien Bourdais,toro-rosso,8,58,17,0,8,986.111992,1000.395363,14.28337,0.631579,0.345912,50.0,20
+2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,804,adrian-sutil,Adrian Sutil,force-india,9,58,16,0,9,842.368481,861.838493,19.470012,0.578947,0.189547,50.0,20
+2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,804,nick-heidfeld,Nick Heidfeld,bmw-sauber,10,58,9,0,10,1246.524612,1238.716792,-7.80782,0.526316,0.682472,50.0,20
+2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,804,giancarlo-fisichella,Giancarlo Fisichella,force-india,11,58,15,0,11,958.461465,966.529774,8.068309,0.473684,0.312318,50.0,20
+2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,804,mark-webber,Mark Webber,red-bull,12,57,8,0,12,1079.793882,1077.47962,-2.314262,0.421053,0.467338,50.0,20
+2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,804,sebastian-vettel,Sebastian Vettel,red-bull,13,56,3,0,13,1092.049534,1086.286287,-5.763247,0.368421,0.483686,50.0,20
+2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,804,robert-kubica,Robert Kubica,bmw-sauber,14,55,4,0,14,1243.236564,1225.097911,-18.138653,0.315789,0.678563,50.0,20
+2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,804,kimi-raikkonen,Kimi Räikkönen,ferrari,15,55,7,0,15,1265.128294,1243.076376,-22.051918,0.263158,0.704196,50.0,20
+2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,804,felipe-massa,Felipe Massa,ferrari,DNF,45,6,1,16,1298.65452,1272.105444,-26.549076,0.210526,0.741508,50.0,20
+2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,804,nelson-piquet-jr,Nelson Piquet Jr.,renault,DNF,24,14,1,17,1013.514244,1002.387197,-11.127046,0.157895,0.380436,50.0,20
+2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,804,kazuki-nakajima,Kazuki Nakajima,williams,DNF,17,11,1,18,1011.624537,997.986654,-13.637883,0.105263,0.378021,50.0,20
+2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,804,heikki-kovalainen,Heikki Kovalainen,mclaren,DNF,0,12,1,19,1173.050195,1146.136703,-26.913493,0.052632,0.590901,50.0,20
+2009,1,2009-03-29,australia,2009 Formula 1 ING Australian Grand Prix,804,lewis-hamilton,Lewis Hamilton,mclaren,DSQ,58,18,2,20,1297.629695,1260.609472,-37.020223,0.0,0.740404,50.0,20

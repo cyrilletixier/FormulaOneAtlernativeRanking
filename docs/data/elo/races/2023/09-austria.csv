@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,max-verstappen,Max Verstappen,red-bull,1,71,1,0,1,1522.438932,1528.405928,5.966995,1.0,0.88066,50.0,20
-2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,charles-leclerc,Charles Leclerc,ferrari,2,71,2,0,2,1287.075062,1300.805092,13.73003,0.947368,0.672768,50.0,20
-2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,sergio-perez,Sergio Pérez,red-bull,3,71,15,0,3,1363.908455,1370.979466,7.071011,0.894737,0.753317,50.0,20
-2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,lando-norris,Lando Norris,mclaren,4,71,4,0,4,1146.738552,1163.684603,16.946051,0.842105,0.503184,50.0,20
-2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,fernando-alonso,Fernando Alonso,aston-martin,5,71,7,0,5,1253.246657,1261.019373,7.772717,0.789474,0.634019,50.0,20
-2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,6,71,3,0,6,1291.195999,1294.169967,2.973967,0.736842,0.677363,50.0,20
-2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,george-russell,George Russell,mercedes,7,71,11,0,7,1255.251606,1257.643924,2.392318,0.684211,0.636364,50.0,20
-2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,lewis-hamilton,Lewis Hamilton,mercedes,8,71,5,0,8,1427.545444,1418.575745,-8.969699,0.631579,0.810973,50.0,20
-2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,lance-stroll,Lance Stroll,aston-martin,9,71,6,0,9,1108.730324,1114.928772,6.198448,0.578947,0.454978,50.0,20
-2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,pierre-gasly,Pierre Gasly,alpine,10,71,9,0,10,1117.341491,1120.362247,3.020756,0.526316,0.465901,50.0,20
-2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,alexander-albon,Alexander Albon,williams,11,71,10,0,11,1037.493927,1042.879928,5.386001,0.473684,0.365964,50.0,20
-2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,guanyu-zhou,Guanyu Zhou,alfa-romeo,12,70,17,0,12,998.009717,1003.123048,5.113331,0.421053,0.318786,50.0,20
-2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,logan-sargeant,Logan Sargeant,williams,13,70,18,0,13,937.547632,943.390173,5.842541,0.368421,0.25157,50.0,20
-2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,esteban-ocon,Esteban Ocon,alpine,14,70,12,0,14,1185.216727,1173.428233,-11.788494,0.315789,0.551559,50.0,20
-2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,valtteri-bottas,Valtteri Bottas,alfa-romeo,15,70,PL,0,15,1070.884412,1063.679271,-7.205141,0.263158,0.407261,50.0,20
-2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,oscar-piastri,Oscar Piastri,mclaren,16,70,13,0,16,1013.516737,1007.190199,-6.326538,0.210526,0.337057,50.0,20
-2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,nyck-de-vries,Nyck de Vries,alphatauri,17,70,PL,0,17,978.008768,971.113851,-6.894917,0.157895,0.295793,50.0,20
-2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,kevin-magnussen,Kevin Magnussen,haas,18,70,PL,0,18,958.885646,950.424565,-8.461081,0.105263,0.274485,50.0,20
-2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,yuki-tsunoda,Yuki Tsunoda,alphatauri,19,70,16,0,19,1020.531075,1005.890829,-14.640246,0.052632,0.345436,50.0,20
-2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,nico-hulkenberg,Nico Hülkenberg,haas,DNF,12,8,1,20,1034.701535,1016.573484,-18.128051,0.0,0.362561,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,1088,max-verstappen,Max Verstappen,red-bull,1,71,1,0,1,1522.438932,1528.405928,5.966995,1.0,0.88066,50.0,20
+2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,1088,charles-leclerc,Charles Leclerc,ferrari,2,71,2,0,2,1287.075062,1300.805092,13.73003,0.947368,0.672768,50.0,20
+2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,1088,sergio-perez,Sergio Pérez,red-bull,3,71,15,0,3,1363.908455,1370.979466,7.071011,0.894737,0.753317,50.0,20
+2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,1088,lando-norris,Lando Norris,mclaren,4,71,4,0,4,1146.738552,1163.684603,16.946051,0.842105,0.503184,50.0,20
+2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,1088,fernando-alonso,Fernando Alonso,aston-martin,5,71,7,0,5,1253.246657,1261.019373,7.772717,0.789474,0.634019,50.0,20
+2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,1088,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,6,71,3,0,6,1291.195999,1294.169967,2.973967,0.736842,0.677363,50.0,20
+2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,1088,george-russell,George Russell,mercedes,7,71,11,0,7,1255.251606,1257.643924,2.392318,0.684211,0.636364,50.0,20
+2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,1088,lewis-hamilton,Lewis Hamilton,mercedes,8,71,5,0,8,1427.545444,1418.575745,-8.969699,0.631579,0.810973,50.0,20
+2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,1088,lance-stroll,Lance Stroll,aston-martin,9,71,6,0,9,1108.730324,1114.928772,6.198448,0.578947,0.454978,50.0,20
+2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,1088,pierre-gasly,Pierre Gasly,alpine,10,71,9,0,10,1117.341491,1120.362247,3.020756,0.526316,0.465901,50.0,20
+2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,1088,alexander-albon,Alexander Albon,williams,11,71,10,0,11,1037.493927,1042.879928,5.386001,0.473684,0.365964,50.0,20
+2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,1088,guanyu-zhou,Guanyu Zhou,alfa-romeo,12,70,17,0,12,998.009717,1003.123048,5.113331,0.421053,0.318786,50.0,20
+2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,1088,logan-sargeant,Logan Sargeant,williams,13,70,18,0,13,937.547632,943.390173,5.842541,0.368421,0.25157,50.0,20
+2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,1088,esteban-ocon,Esteban Ocon,alpine,14,70,12,0,14,1185.216727,1173.428233,-11.788494,0.315789,0.551559,50.0,20
+2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,1088,valtteri-bottas,Valtteri Bottas,alfa-romeo,15,70,PL,0,15,1070.884412,1063.679271,-7.205141,0.263158,0.407261,50.0,20
+2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,1088,oscar-piastri,Oscar Piastri,mclaren,16,70,13,0,16,1013.516737,1007.190199,-6.326538,0.210526,0.337057,50.0,20
+2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,1088,nyck-de-vries,Nyck de Vries,alphatauri,17,70,PL,0,17,978.008768,971.113851,-6.894917,0.157895,0.295793,50.0,20
+2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,1088,kevin-magnussen,Kevin Magnussen,haas,18,70,PL,0,18,958.885646,950.424565,-8.461081,0.105263,0.274485,50.0,20
+2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,1088,yuki-tsunoda,Yuki Tsunoda,alphatauri,19,70,16,0,19,1020.531075,1005.890829,-14.640246,0.052632,0.345436,50.0,20
+2023,9,2023-07-02,austria,Formula 1 Rolex Grosser Preis von Österreich 2023,1088,nico-hulkenberg,Nico Hülkenberg,haas,DNF,12,8,1,20,1034.701535,1016.573484,-18.128051,0.0,0.362561,50.0,20

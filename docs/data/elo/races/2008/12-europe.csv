@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,felipe-massa,Felipe Massa,ferrari,1,57,1,0,1,1264.845395,1279.617595,14.7722,1.0,0.704556,50.0,20
-2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,lewis-hamilton,Lewis Hamilton,mclaren,2,57,2,0,2,1271.587803,1283.341518,11.753714,0.947368,0.712294,50.0,20
-2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,robert-kubica,Robert Kubica,bmw-sauber,3,57,3,0,3,1222.156854,1234.220678,12.063825,0.894737,0.65346,50.0,20
-2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,heikki-kovalainen,Heikki Kovalainen,mclaren,4,57,5,0,4,1204.691604,1215.215581,10.523976,0.842105,0.631626,50.0,20
-2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,jarno-trulli,Jarno Trulli,toyota,5,57,7,0,5,1144.342984,1156.159636,11.816652,0.789474,0.553141,50.0,20
-2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,sebastian-vettel,Sebastian Vettel,toro-rosso,6,57,6,0,6,954.999659,976.505302,21.505643,0.736842,0.306729,50.0,20
-2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,timo-glock,Timo Glock,toyota,7,57,13,0,7,1045.333476,1058.506478,13.173002,0.684211,0.42075,50.0,20
-2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,nico-rosberg,Nico Rosberg,williams,8,57,9,0,8,1072.087974,1080.850768,8.762794,0.631579,0.456323,50.0,20
-2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,nick-heidfeld,Nick Heidfeld,bmw-sauber,9,57,8,0,9,1238.837676,1234.093235,-4.744441,0.578947,0.673836,50.0,20
-2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,sebastien-bourdais,Sébastien Bourdais,toro-rosso,10,57,10,0,10,954.412008,965.426185,11.014177,0.526316,0.306032,50.0,20
-2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,nelson-piquet-jr,Nelson Piquet Jr.,renault,11,57,15,0,11,1022.67585,1026.80554,4.12969,0.473684,0.39109,50.0,20
-2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,mark-webber,Mark Webber,red-bull,12,56,14,0,12,1076.900135,1074.814587,-2.085548,0.421053,0.462764,50.0,20
-2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,jenson-button,Jenson Button,honda,13,56,16,0,13,1023.90322,1022.69012,-1.2131,0.368421,0.392683,50.0,20
-2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,giancarlo-fisichella,Giancarlo Fisichella,force-india,14,56,18,0,14,1019.195019,1015.655317,-3.539702,0.315789,0.386584,50.0,20
-2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,kazuki-nakajima,Kazuki Nakajima,williams,15,56,11,0,15,1023.660362,1017.199868,-6.460494,0.263158,0.392368,50.0,20
-2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,rubens-barrichello,Rubens Barrichello,honda,16,56,PL,0,16,1055.212598,1044.047413,-11.165185,0.210526,0.43383,50.0,20
-2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,david-coulthard,David Coulthard,red-bull,17,56,17,0,17,1045.484082,1032.331354,-13.152728,0.157895,0.420949,50.0,20
-2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,45,4,1,18,1325.302958,1292.053247,-33.249711,0.105263,0.770257,50.0,20
-2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,adrian-sutil,Adrian Sutil,force-india,DNF,41,PL,1,19,861.49894,853.841166,-7.657774,0.052632,0.205787,50.0,20
-2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,fernando-alonso,Fernando Alonso,renault,DNF,0,12,1,20,1282.79649,1246.549499,-36.246991,0.0,0.72494,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,797,felipe-massa,Felipe Massa,ferrari,1,57,1,0,1,1264.845395,1279.617595,14.7722,1.0,0.704556,50.0,20
+2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,797,lewis-hamilton,Lewis Hamilton,mclaren,2,57,2,0,2,1271.587803,1283.341518,11.753714,0.947368,0.712294,50.0,20
+2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,797,robert-kubica,Robert Kubica,bmw-sauber,3,57,3,0,3,1222.156854,1234.220678,12.063825,0.894737,0.65346,50.0,20
+2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,797,heikki-kovalainen,Heikki Kovalainen,mclaren,4,57,5,0,4,1204.691604,1215.215581,10.523976,0.842105,0.631626,50.0,20
+2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,797,jarno-trulli,Jarno Trulli,toyota,5,57,7,0,5,1144.342984,1156.159636,11.816652,0.789474,0.553141,50.0,20
+2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,797,sebastian-vettel,Sebastian Vettel,toro-rosso,6,57,6,0,6,954.999659,976.505302,21.505643,0.736842,0.306729,50.0,20
+2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,797,timo-glock,Timo Glock,toyota,7,57,13,0,7,1045.333476,1058.506478,13.173002,0.684211,0.42075,50.0,20
+2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,797,nico-rosberg,Nico Rosberg,williams,8,57,9,0,8,1072.087974,1080.850768,8.762794,0.631579,0.456323,50.0,20
+2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,797,nick-heidfeld,Nick Heidfeld,bmw-sauber,9,57,8,0,9,1238.837676,1234.093235,-4.744441,0.578947,0.673836,50.0,20
+2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,797,sebastien-bourdais,Sébastien Bourdais,toro-rosso,10,57,10,0,10,954.412008,965.426185,11.014177,0.526316,0.306032,50.0,20
+2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,797,nelson-piquet-jr,Nelson Piquet Jr.,renault,11,57,15,0,11,1022.67585,1026.80554,4.12969,0.473684,0.39109,50.0,20
+2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,797,mark-webber,Mark Webber,red-bull,12,56,14,0,12,1076.900135,1074.814587,-2.085548,0.421053,0.462764,50.0,20
+2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,797,jenson-button,Jenson Button,honda,13,56,16,0,13,1023.90322,1022.69012,-1.2131,0.368421,0.392683,50.0,20
+2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,797,giancarlo-fisichella,Giancarlo Fisichella,force-india,14,56,18,0,14,1019.195019,1015.655317,-3.539702,0.315789,0.386584,50.0,20
+2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,797,kazuki-nakajima,Kazuki Nakajima,williams,15,56,11,0,15,1023.660362,1017.199868,-6.460494,0.263158,0.392368,50.0,20
+2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,797,rubens-barrichello,Rubens Barrichello,honda,16,56,PL,0,16,1055.212598,1044.047413,-11.165185,0.210526,0.43383,50.0,20
+2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,797,david-coulthard,David Coulthard,red-bull,17,56,17,0,17,1045.484082,1032.331354,-13.152728,0.157895,0.420949,50.0,20
+2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,797,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,45,4,1,18,1325.302958,1292.053247,-33.249711,0.105263,0.770257,50.0,20
+2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,797,adrian-sutil,Adrian Sutil,force-india,DNF,41,PL,1,19,861.49894,853.841166,-7.657774,0.052632,0.205787,50.0,20
+2008,12,2008-08-24,europe,2008 Formula 1 Telefónica Grand Prix of Europe,797,fernando-alonso,Fernando Alonso,renault,DNF,0,12,1,20,1282.79649,1246.549499,-36.246991,0.0,0.72494,50.0,20

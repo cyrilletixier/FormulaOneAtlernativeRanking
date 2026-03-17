@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,1,58,5,0,1,1511.606032,1517.41546,5.809428,1.0,0.883811,50.0,20
-2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,2,58,3,0,2,1332.407821,1342.817021,10.4092,0.947368,0.739184,50.0,20
-2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,valtteri-bottas,Valtteri Bottas,mercedes,3,58,6,0,3,1317.60058,1326.127803,8.527223,0.894737,0.724192,50.0,20
-2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,4,58,10,0,4,1080.552596,1100.657504,20.104908,0.842105,0.440007,50.0,20
-2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,sergio-perez,Sergio Pérez,force-india,5,58,12,0,5,1208.067025,1217.49731,9.430285,0.789474,0.600868,50.0,20
-2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,jolyon-palmer,Jolyon Palmer,renault,6,58,11,0,6,953.00513,975.624215,22.619085,0.736842,0.28446,50.0,20
-2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,stoffel-vandoorne,Stoffel Vandoorne,mclaren,7,58,9,0,7,983.39209,1001.626256,18.234166,0.684211,0.319527,50.0,20
-2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,lance-stroll,Lance Stroll,williams,8,58,18,0,8,1035.207009,1047.655209,12.4482,0.631579,0.382615,50.0,20
-2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,romain-grosjean,Romain Grosjean,haas,9,58,15,0,9,1051.307544,1060.113232,8.805688,0.578947,0.402834,50.0,20
-2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,esteban-ocon,Esteban Ocon,force-india,10,58,14,0,10,1119.887478,1121.684478,1.797,0.526316,0.490376,50.0,20
-2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,felipe-massa,Felipe Massa,williams,11,58,17,0,11,1133.040534,1131.365679,-1.674855,0.473684,0.507181,50.0,20
-2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,pascal-wehrlein,Pascal Wehrlein,sauber,12,56,19,0,12,935.019774,942.84525,7.825477,0.421053,0.264543,50.0,20
-2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,kevin-magnussen,Kevin Magnussen,haas,DNF,50,16,1,13,1025.697866,1025.579552,-0.118314,0.368421,0.370787,50.0,20
-2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,nico-hulkenberg,Nico Hülkenberg,renault,DNF,48,7,1,14,1118.403269,1109.768923,-8.634346,0.315789,0.488476,50.0,20
-2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,DNF,35,20,1,15,954.286884,953.149536,-1.137348,0.263158,0.285905,50.0,20
-2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,daniil-kvyat,Daniil Kvyat,toro-rosso,DNF,10,13,1,16,1025.241296,1017.25652,-7.984777,0.210526,0.370222,50.0,20
-2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,fernando-alonso,Fernando Alonso,mclaren,DNF,8,8,1,17,1030.131362,1019.211591,-10.919771,0.157895,0.37629,50.0,20
-2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,0,4,1,18,1299.40518,1266.778045,-32.627135,0.052632,0.705174,50.0,20
-2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,max-verstappen,Max Verstappen,red-bull,DNF,0,2,1,19,1158.72331,1134.366478,-24.356832,0.052632,0.539768,50.0,20
-2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,DNF,0,1,1,20,1426.593376,1388.036095,-38.557281,0.052632,0.823777,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,970,lewis-hamilton,Lewis Hamilton,mercedes,1,58,5,0,1,1511.606032,1517.41546,5.809428,1.0,0.883811,50.0,20
+2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,970,daniel-ricciardo,Daniel Ricciardo,red-bull,2,58,3,0,2,1332.407821,1342.817021,10.4092,0.947368,0.739184,50.0,20
+2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,970,valtteri-bottas,Valtteri Bottas,mercedes,3,58,6,0,3,1317.60058,1326.127803,8.527223,0.894737,0.724192,50.0,20
+2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,970,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,4,58,10,0,4,1080.552596,1100.657504,20.104908,0.842105,0.440007,50.0,20
+2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,970,sergio-perez,Sergio Pérez,force-india,5,58,12,0,5,1208.067025,1217.49731,9.430285,0.789474,0.600868,50.0,20
+2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,970,jolyon-palmer,Jolyon Palmer,renault,6,58,11,0,6,953.00513,975.624215,22.619085,0.736842,0.28446,50.0,20
+2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,970,stoffel-vandoorne,Stoffel Vandoorne,mclaren,7,58,9,0,7,983.39209,1001.626256,18.234166,0.684211,0.319527,50.0,20
+2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,970,lance-stroll,Lance Stroll,williams,8,58,18,0,8,1035.207009,1047.655209,12.4482,0.631579,0.382615,50.0,20
+2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,970,romain-grosjean,Romain Grosjean,haas,9,58,15,0,9,1051.307544,1060.113232,8.805688,0.578947,0.402834,50.0,20
+2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,970,esteban-ocon,Esteban Ocon,force-india,10,58,14,0,10,1119.887478,1121.684478,1.797,0.526316,0.490376,50.0,20
+2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,970,felipe-massa,Felipe Massa,williams,11,58,17,0,11,1133.040534,1131.365679,-1.674855,0.473684,0.507181,50.0,20
+2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,970,pascal-wehrlein,Pascal Wehrlein,sauber,12,56,19,0,12,935.019774,942.84525,7.825477,0.421053,0.264543,50.0,20
+2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,970,kevin-magnussen,Kevin Magnussen,haas,DNF,50,16,1,13,1025.697866,1025.579552,-0.118314,0.368421,0.370787,50.0,20
+2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,970,nico-hulkenberg,Nico Hülkenberg,renault,DNF,48,7,1,14,1118.403269,1109.768923,-8.634346,0.315789,0.488476,50.0,20
+2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,970,marcus-ericsson,Marcus Ericsson,sauber,DNF,35,20,1,15,954.286884,953.149536,-1.137348,0.263158,0.285905,50.0,20
+2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,970,daniil-kvyat,Daniil Kvyat,toro-rosso,DNF,10,13,1,16,1025.241296,1017.25652,-7.984777,0.210526,0.370222,50.0,20
+2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,970,fernando-alonso,Fernando Alonso,mclaren,DNF,8,8,1,17,1030.131362,1019.211591,-10.919771,0.157895,0.37629,50.0,20
+2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,970,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,0,4,1,18,1299.40518,1266.778045,-32.627135,0.052632,0.705174,50.0,20
+2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,970,max-verstappen,Max Verstappen,red-bull,DNF,0,2,1,19,1158.72331,1134.366478,-24.356832,0.052632,0.539768,50.0,20
+2017,14,2017-09-17,singapore,2017 Formula 1 Singapore Airlines Singapore Grand Prix,970,sebastian-vettel,Sebastian Vettel,ferrari,DNF,0,1,1,20,1426.593376,1388.036095,-38.557281,0.052632,0.823777,50.0,20

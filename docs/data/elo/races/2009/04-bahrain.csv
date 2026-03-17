@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,jenson-button,Jenson Button,brawn,1,57,4,0,1,1091.158588,1117.173615,26.015027,1.0,0.479699,50.0,20
-2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,2,57,3,0,2,1102.727033,1125.309358,22.582326,0.947368,0.495722,50.0,20
-2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,jarno-trulli,Jarno Trulli,toyota,3,57,1,0,3,1115.100761,1134.193997,19.093235,0.894737,0.512872,50.0,20
-2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,4,57,5,0,4,1261.421275,1268.254139,6.832863,0.842105,0.705448,50.0,20
-2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,rubens-barrichello,Rubens Barrichello,brawn,5,57,6,0,5,1068.683727,1085.721996,17.038269,0.789474,0.448708,50.0,20
-2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,6,57,10,0,6,1218.124249,1222.376973,4.252724,0.736842,0.651788,50.0,20
-2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,timo-glock,Timo Glock,toyota,7,57,2,0,7,1136.055027,1143.17297,7.117942,0.684211,0.541852,50.0,20
-2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,fernando-alonso,Fernando Alonso,renault,8,57,7,0,8,1286.330494,1281.188331,-5.142163,0.631579,0.734422,50.0,20
-2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,nico-rosberg,Nico Rosberg,williams,9,57,9,0,9,1090.347222,1095.365747,5.018525,0.578947,0.478577,50.0,20
-2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,nelson-piquet-jr,Nelson Piquet Jr.,renault,10,57,15,0,10,995.078778,1003.863897,8.785119,0.526316,0.350613,50.0,20
-2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,mark-webber,Mark Webber,red-bull,11,57,18,0,11,1114.511975,1112.593373,-1.918602,0.473684,0.512056,50.0,20
-2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,heikki-kovalainen,Heikki Kovalainen,mclaren,12,57,11,0,12,1131.895604,1126.142655,-5.752949,0.421053,0.536112,50.0,20
-2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,sebastien-bourdais,Sébastien Bourdais,toro-rosso,13,57,20,0,13,1013.877503,1013.550528,-0.326975,0.368421,0.374961,50.0,20
-2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,felipe-massa,Felipe Massa,ferrari,14,56,8,0,14,1232.44608,1214.737525,-17.708555,0.315789,0.669961,50.0,20
-2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,force-india,15,56,17,0,15,956.482898,954.504904,-1.977994,0.263158,0.302718,50.0,20
-2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,adrian-sutil,Adrian Sutil,force-india,16,56,19,0,16,857.471448,858.191426,0.719979,0.210526,0.196127,50.0,20
-2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,sebastien-buemi,Sébastien Buemi,toro-rosso,17,56,16,0,17,1020.69763,1009.395652,-11.301978,0.157895,0.383934,50.0,20
-2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,robert-kubica,Robert Kubica,bmw-sauber,18,56,13,0,18,1182.127459,1157.161913,-24.965546,0.105263,0.604574,50.0,20
-2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,nick-heidfeld,Nick Heidfeld,bmw-sauber,19,56,14,0,19,1238.653838,1207.399749,-31.254089,0.052632,0.677713,50.0,20
-2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,kazuki-nakajima,Kazuki Nakajima,williams,DNF,48,12,1,20,988.423921,971.316763,-17.107157,0.0,0.342143,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,807,jenson-button,Jenson Button,brawn,1,57,4,0,1,1091.158588,1117.173615,26.015027,1.0,0.479699,50.0,20
+2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,807,sebastian-vettel,Sebastian Vettel,red-bull,2,57,3,0,2,1102.727033,1125.309358,22.582326,0.947368,0.495722,50.0,20
+2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,807,jarno-trulli,Jarno Trulli,toyota,3,57,1,0,3,1115.100761,1134.193997,19.093235,0.894737,0.512872,50.0,20
+2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,807,lewis-hamilton,Lewis Hamilton,mclaren,4,57,5,0,4,1261.421275,1268.254139,6.832863,0.842105,0.705448,50.0,20
+2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,807,rubens-barrichello,Rubens Barrichello,brawn,5,57,6,0,5,1068.683727,1085.721996,17.038269,0.789474,0.448708,50.0,20
+2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,807,kimi-raikkonen,Kimi Räikkönen,ferrari,6,57,10,0,6,1218.124249,1222.376973,4.252724,0.736842,0.651788,50.0,20
+2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,807,timo-glock,Timo Glock,toyota,7,57,2,0,7,1136.055027,1143.17297,7.117942,0.684211,0.541852,50.0,20
+2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,807,fernando-alonso,Fernando Alonso,renault,8,57,7,0,8,1286.330494,1281.188331,-5.142163,0.631579,0.734422,50.0,20
+2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,807,nico-rosberg,Nico Rosberg,williams,9,57,9,0,9,1090.347222,1095.365747,5.018525,0.578947,0.478577,50.0,20
+2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,807,nelson-piquet-jr,Nelson Piquet Jr.,renault,10,57,15,0,10,995.078778,1003.863897,8.785119,0.526316,0.350613,50.0,20
+2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,807,mark-webber,Mark Webber,red-bull,11,57,18,0,11,1114.511975,1112.593373,-1.918602,0.473684,0.512056,50.0,20
+2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,807,heikki-kovalainen,Heikki Kovalainen,mclaren,12,57,11,0,12,1131.895604,1126.142655,-5.752949,0.421053,0.536112,50.0,20
+2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,807,sebastien-bourdais,Sébastien Bourdais,toro-rosso,13,57,20,0,13,1013.877503,1013.550528,-0.326975,0.368421,0.374961,50.0,20
+2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,807,felipe-massa,Felipe Massa,ferrari,14,56,8,0,14,1232.44608,1214.737525,-17.708555,0.315789,0.669961,50.0,20
+2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,807,giancarlo-fisichella,Giancarlo Fisichella,force-india,15,56,17,0,15,956.482898,954.504904,-1.977994,0.263158,0.302718,50.0,20
+2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,807,adrian-sutil,Adrian Sutil,force-india,16,56,19,0,16,857.471448,858.191426,0.719979,0.210526,0.196127,50.0,20
+2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,807,sebastien-buemi,Sébastien Buemi,toro-rosso,17,56,16,0,17,1020.69763,1009.395652,-11.301978,0.157895,0.383934,50.0,20
+2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,807,robert-kubica,Robert Kubica,bmw-sauber,18,56,13,0,18,1182.127459,1157.161913,-24.965546,0.105263,0.604574,50.0,20
+2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,807,nick-heidfeld,Nick Heidfeld,bmw-sauber,19,56,14,0,19,1238.653838,1207.399749,-31.254089,0.052632,0.677713,50.0,20
+2009,4,2009-04-26,bahrain,2009 Formula 1 Gulf Air Bahrain Grand Prix,807,kazuki-nakajima,Kazuki Nakajima,williams,DNF,48,12,1,20,988.423921,971.316763,-17.107157,0.0,0.342143,50.0,20

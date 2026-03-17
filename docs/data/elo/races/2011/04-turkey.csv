@@ -1,25 +1,25 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,1,58,1,0,1,1328.220698,1339.352409,11.131711,1.0,0.777366,50.0,24
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,mark-webber,Mark Webber,red-bull,2,58,2,0,2,1288.355148,1299.327855,10.972708,0.956522,0.737068,50.0,24
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,fernando-alonso,Fernando Alonso,ferrari,3,58,5,0,3,1299.188327,1307.421567,8.23324,0.913043,0.748379,50.0,24
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,4,58,4,0,4,1286.120498,1292.863664,6.743166,0.869565,0.734702,50.0,24
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,nico-rosberg,Nico Rosberg,mercedes,5,58,3,0,5,1181.319865,1191.982218,10.662353,0.826087,0.61284,50.0,24
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,jenson-button,Jenson Button,mclaren,6,58,6,0,6,1297.892047,1299.670528,1.778481,0.782609,0.747039,50.0,24
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,nick-heidfeld,Nick Heidfeld,renault,7,58,9,0,7,1144.220726,1152.890606,8.66988,0.73913,0.565733,50.0,24
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,vitaly-petrov,Vitaly Petrov,renault,8,58,7,0,8,1074.614722,1085.65705,11.042328,0.695652,0.474806,50.0,24
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,sebastien-buemi,Sébastien Buemi,toro-rosso,9,58,16,0,9,1033.881669,1045.410919,11.529249,0.652174,0.421589,50.0,24
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,kamui-kobayashi,Kamui Kobayashi,sauber,10,58,24,0,10,1053.578717,1061.651873,8.073156,0.608696,0.447233,50.0,24
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,felipe-massa,Felipe Massa,ferrari,11,58,10,0,11,1241.692782,1235.679247,-6.013535,0.565217,0.685488,50.0,24
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,michael-schumacher,Michael Schumacher,mercedes,12,58,8,0,12,1197.354187,1191.806773,-5.547415,0.521739,0.632687,50.0,24
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,adrian-sutil,Adrian Sutil,force-india,13,57,12,0,13,1056.011523,1057.403869,1.392346,0.478261,0.450414,50.0,24
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,sergio-perez,Sergio Pérez,sauber,14,57,15,0,14,970.181263,974.863226,4.681963,0.434783,0.341143,50.0,24
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,rubens-barrichello,Rubens Barrichello,williams,15,57,11,0,15,1117.089884,1110.129039,-6.960846,0.391304,0.530521,50.0,24
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,jaime-alguersuari,Jaime Alguersuari,toro-rosso,16,57,17,0,16,1022.730663,1019.762485,-2.968178,0.347826,0.40719,50.0,24
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,pastor-maldonado,Pastor Maldonado,williams,17,57,14,0,17,965.027503,963.501247,-1.526256,0.304348,0.334873,50.0,24
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,jarno-trulli,Jarno Trulli,lotus-racing,18,57,19,0,18,924.739617,923.40812,-1.331497,0.26087,0.2875,50.0,24
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,heikki-kovalainen,Heikki Kovalainen,lotus-racing,19,56,18,0,19,987.998769,980.711469,-7.2873,0.217391,0.363137,50.0,24
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,jerome-dambrosio,Jérôme d'Ambrosio,virgin,20,56,23,0,20,983.416892,974.240696,-9.176196,0.173913,0.357437,50.0,24
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,narain-karthikeyan,Narain Karthikeyan,hrt,21,55,22,0,21,916.224948,908.851652,-7.373296,0.130435,0.277901,50.0,24
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,vitantonio-liuzzi,Vitantonio Liuzzi,hrt,22,53,20,0,22,965.2177,952.810347,-12.407353,0.086957,0.335104,50.0,24
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,paul-di-resta,Paul di Resta,force-india,DNF,44,13,1,23,1029.634518,1011.00379,-18.630727,0.043478,0.416093,50.0,24
-2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,timo-glock,Timo Glock,virgin,DNS,,21,2,24,947.391617,931.703635,-15.687982,0.0,0.31376,50.0,24
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,sebastian-vettel,Sebastian Vettel,red-bull,1,58,1,0,1,1328.220698,1339.352409,11.131711,1.0,0.777366,50.0,24
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,mark-webber,Mark Webber,red-bull,2,58,2,0,2,1288.355148,1299.327855,10.972708,0.956522,0.737068,50.0,24
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,fernando-alonso,Fernando Alonso,ferrari,3,58,5,0,3,1299.188327,1307.421567,8.23324,0.913043,0.748379,50.0,24
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,lewis-hamilton,Lewis Hamilton,mclaren,4,58,4,0,4,1286.120498,1292.863664,6.743166,0.869565,0.734702,50.0,24
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,nico-rosberg,Nico Rosberg,mercedes,5,58,3,0,5,1181.319865,1191.982218,10.662353,0.826087,0.61284,50.0,24
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,jenson-button,Jenson Button,mclaren,6,58,6,0,6,1297.892047,1299.670528,1.778481,0.782609,0.747039,50.0,24
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,nick-heidfeld,Nick Heidfeld,renault,7,58,9,0,7,1144.220726,1152.890606,8.66988,0.73913,0.565733,50.0,24
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,vitaly-petrov,Vitaly Petrov,renault,8,58,7,0,8,1074.614722,1085.65705,11.042328,0.695652,0.474806,50.0,24
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,sebastien-buemi,Sébastien Buemi,toro-rosso,9,58,16,0,9,1033.881669,1045.410919,11.529249,0.652174,0.421589,50.0,24
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,kamui-kobayashi,Kamui Kobayashi,sauber,10,58,24,0,10,1053.578717,1061.651873,8.073156,0.608696,0.447233,50.0,24
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,felipe-massa,Felipe Massa,ferrari,11,58,10,0,11,1241.692782,1235.679247,-6.013535,0.565217,0.685488,50.0,24
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,michael-schumacher,Michael Schumacher,mercedes,12,58,8,0,12,1197.354187,1191.806773,-5.547415,0.521739,0.632687,50.0,24
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,adrian-sutil,Adrian Sutil,force-india,13,57,12,0,13,1056.011523,1057.403869,1.392346,0.478261,0.450414,50.0,24
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,sergio-perez,Sergio Pérez,sauber,14,57,15,0,14,970.181263,974.863226,4.681963,0.434783,0.341143,50.0,24
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,rubens-barrichello,Rubens Barrichello,williams,15,57,11,0,15,1117.089884,1110.129039,-6.960846,0.391304,0.530521,50.0,24
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,jaime-alguersuari,Jaime Alguersuari,toro-rosso,16,57,17,0,16,1022.730663,1019.762485,-2.968178,0.347826,0.40719,50.0,24
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,pastor-maldonado,Pastor Maldonado,williams,17,57,14,0,17,965.027503,963.501247,-1.526256,0.304348,0.334873,50.0,24
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,jarno-trulli,Jarno Trulli,lotus-racing,18,57,19,0,18,924.739617,923.40812,-1.331497,0.26087,0.2875,50.0,24
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,heikki-kovalainen,Heikki Kovalainen,lotus-racing,19,56,18,0,19,987.998769,980.711469,-7.2873,0.217391,0.363137,50.0,24
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,jerome-dambrosio,Jérôme d'Ambrosio,virgin,20,56,23,0,20,983.416892,974.240696,-9.176196,0.173913,0.357437,50.0,24
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,narain-karthikeyan,Narain Karthikeyan,hrt,21,55,22,0,21,916.224948,908.851652,-7.373296,0.130435,0.277901,50.0,24
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,vitantonio-liuzzi,Vitantonio Liuzzi,hrt,22,53,20,0,22,965.2177,952.810347,-12.407353,0.086957,0.335104,50.0,24
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,paul-di-resta,Paul di Resta,force-india,DNF,44,13,1,23,1029.634518,1011.00379,-18.630727,0.043478,0.416093,50.0,24
+2011,4,2011-05-08,turkey,2011 Formula 1 DHL Turkish Grand Prix,843,timo-glock,Timo Glock,virgin,DNS,,21,2,24,947.391617,931.703635,-15.687982,0.0,0.31376,50.0,24

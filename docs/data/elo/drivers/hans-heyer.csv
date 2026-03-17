@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1977-07-31,1977,11,germany,penske,Penske,DSQ,9,30,1000.0,987.828456,-12.171544,0.172414,0.415845,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1977-07-31,1977,11,germany,291,penske,Penske,DSQ,9,30,1000.0,987.828456,-12.171544,0.172414,0.415845,50.0

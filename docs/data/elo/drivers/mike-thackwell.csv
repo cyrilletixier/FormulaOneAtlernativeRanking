@@ -1,6 +1,6 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1980-08-31,1980,11,netherlands,arrows,Arrows,DNQ,,29,1000.0,984.828035,-15.171965,0.089286,0.392725,50.0
-1980-09-28,1980,13,canada,tyrrell,Tyrrell,DNF,0,28,984.828035,974.853579,-9.974457,0.166667,0.366156,50.0
-1980-10-05,1980,14,united-states,tyrrell,Tyrrell,DNQ,,27,974.853579,960.064946,-14.788633,0.057692,0.353465,50.0
-1984-06-17,1984,7,canada,ram,RAM,DNF,29,27,960.064946,953.202313,-6.862633,0.230769,0.368022,50.0
-1984-08-05,1984,11,germany,tyrrell,Tyrrell,DSQ,,27,953.202313,937.030161,-16.172152,0.019231,0.342674,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1980-08-31,1980,11,netherlands,339,arrows,Arrows,DNQ,,29,1000.0,984.828035,-15.171965,0.089286,0.392725,50.0
+1980-09-28,1980,13,canada,341,tyrrell,Tyrrell,DNF,0,28,984.828035,974.853579,-9.974457,0.166667,0.366156,50.0
+1980-10-05,1980,14,united-states,342,tyrrell,Tyrrell,DNQ,,27,974.853579,960.064946,-14.788633,0.057692,0.353465,50.0
+1984-06-17,1984,7,canada,395,ram,RAM,DNF,29,27,960.064946,953.202313,-6.862633,0.230769,0.368022,50.0
+1984-08-05,1984,11,germany,399,tyrrell,Tyrrell,DSQ,,27,953.202313,937.030161,-16.172152,0.019231,0.342674,50.0

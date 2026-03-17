@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,michael-schumacher,Michael Schumacher,ferrari,1,57,1,0,1,1426.574706,1432.875576,6.30087,1.0,0.873983,50.0,20
-2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,rubens-barrichello,Rubens Barrichello,ferrari,2,57,2,0,2,1226.536429,1239.743408,13.206978,0.947368,0.683229,50.0,20
-2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,jenson-button,Jenson Button,bar,3,57,6,0,3,1098.343006,1117.373219,19.030213,0.894737,0.514133,50.0,20
-2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,jarno-trulli,Jarno Trulli,renault,4,57,7,0,4,1113.967382,1129.28361,15.316228,0.842105,0.535781,50.0,20
-2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,takuma-sato,Takuma Sato,bar,5,57,5,0,5,1038.04914,1056.005279,17.95614,0.789474,0.430351,50.0,20
-2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,fernando-alonso,Fernando Alonso,renault,6,57,16,0,6,1101.887233,1112.776642,10.889409,0.736842,0.519054,50.0,20
-2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,ralf-schumacher,Ralf Schumacher,williams,7,57,4,0,7,1170.933267,1174.50106,3.567793,0.684211,0.612855,50.0,20
-2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,mark-webber,Mark Webber,jaguar,8,56,14,0,8,996.403381,1009.292258,12.888877,0.631579,0.373801,50.0,20
-2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,olivier-panis,Olivier Panis,toyota,9,56,8,0,9,995.031839,1005.38042,10.348582,0.578947,0.371976,50.0,20
-2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,cristiano-da-matta,Cristiano da Matta,toyota,10,56,9,0,10,1057.697549,1061.13553,3.437982,0.526316,0.457556,50.0,20
-2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,sauber,11,56,11,0,11,1001.202899,1005.876527,4.673628,0.473684,0.380212,50.0,20
-2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,felipe-massa,Felipe Massa,sauber,12,56,13,0,12,1026.170784,1026.521727,0.350943,0.421053,0.414034,50.0,20
-2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,juan-pablo-montoya,Juan Pablo Montoya,williams,13,56,3,0,13,1244.595472,1227.78195,-16.813521,0.368421,0.704691,50.0,20
-2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,christian-klien,Christian Klien,jaguar,14,56,12,0,14,1011.88434,1007.944301,-3.940039,0.315789,0.39459,50.0,20
-2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,nick-heidfeld,Nick Heidfeld,jordan,15,56,18,0,15,1047.994921,1038.948069,-9.046852,0.263158,0.444095,50.0,20
-2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,giorgio-pantano,Giorgio Pantano,jordan,16,55,15,0,16,996.623527,988.445107,-8.17842,0.210526,0.374095,50.0,20
-2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,gianmaria-bruni,Gianmaria Bruni,minardi,17,52,PL,0,17,986.621277,976.473843,-10.147434,0.157895,0.360843,50.0,20
-2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,david-coulthard,David Coulthard,mclaren,DNF,50,10,1,18,1192.147988,1165.391124,-26.756863,0.105263,0.6404,50.0,20
-2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,zsolt-baumgartner,Zsolt Baumgartner,minardi,DNF,44,20,1,19,972.275757,957.800998,-14.474759,0.052632,0.342127,50.0,20
-2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,7,19,1,20,1140.543355,1111.933601,-28.609754,0.0,0.572195,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,716,michael-schumacher,Michael Schumacher,ferrari,1,57,1,0,1,1426.574706,1432.875576,6.30087,1.0,0.873983,50.0,20
+2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,716,rubens-barrichello,Rubens Barrichello,ferrari,2,57,2,0,2,1226.536429,1239.743408,13.206978,0.947368,0.683229,50.0,20
+2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,716,jenson-button,Jenson Button,bar,3,57,6,0,3,1098.343006,1117.373219,19.030213,0.894737,0.514133,50.0,20
+2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,716,jarno-trulli,Jarno Trulli,renault,4,57,7,0,4,1113.967382,1129.28361,15.316228,0.842105,0.535781,50.0,20
+2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,716,takuma-sato,Takuma Sato,bar,5,57,5,0,5,1038.04914,1056.005279,17.95614,0.789474,0.430351,50.0,20
+2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,716,fernando-alonso,Fernando Alonso,renault,6,57,16,0,6,1101.887233,1112.776642,10.889409,0.736842,0.519054,50.0,20
+2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,716,ralf-schumacher,Ralf Schumacher,williams,7,57,4,0,7,1170.933267,1174.50106,3.567793,0.684211,0.612855,50.0,20
+2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,716,mark-webber,Mark Webber,jaguar,8,56,14,0,8,996.403381,1009.292258,12.888877,0.631579,0.373801,50.0,20
+2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,716,olivier-panis,Olivier Panis,toyota,9,56,8,0,9,995.031839,1005.38042,10.348582,0.578947,0.371976,50.0,20
+2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,716,cristiano-da-matta,Cristiano da Matta,toyota,10,56,9,0,10,1057.697549,1061.13553,3.437982,0.526316,0.457556,50.0,20
+2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,716,giancarlo-fisichella,Giancarlo Fisichella,sauber,11,56,11,0,11,1001.202899,1005.876527,4.673628,0.473684,0.380212,50.0,20
+2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,716,felipe-massa,Felipe Massa,sauber,12,56,13,0,12,1026.170784,1026.521727,0.350943,0.421053,0.414034,50.0,20
+2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,716,juan-pablo-montoya,Juan Pablo Montoya,williams,13,56,3,0,13,1244.595472,1227.78195,-16.813521,0.368421,0.704691,50.0,20
+2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,716,christian-klien,Christian Klien,jaguar,14,56,12,0,14,1011.88434,1007.944301,-3.940039,0.315789,0.39459,50.0,20
+2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,716,nick-heidfeld,Nick Heidfeld,jordan,15,56,18,0,15,1047.994921,1038.948069,-9.046852,0.263158,0.444095,50.0,20
+2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,716,giorgio-pantano,Giorgio Pantano,jordan,16,55,15,0,16,996.623527,988.445107,-8.17842,0.210526,0.374095,50.0,20
+2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,716,gianmaria-bruni,Gianmaria Bruni,minardi,17,52,PL,0,17,986.621277,976.473843,-10.147434,0.157895,0.360843,50.0,20
+2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,716,david-coulthard,David Coulthard,mclaren,DNF,50,10,1,18,1192.147988,1165.391124,-26.756863,0.105263,0.6404,50.0,20
+2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,716,zsolt-baumgartner,Zsolt Baumgartner,minardi,DNF,44,20,1,19,972.275757,957.800998,-14.474759,0.052632,0.342127,50.0,20
+2004,3,2004-04-04,bahrain,2004 Gulf Air Bahrain Grand Prix,716,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,7,19,1,20,1140.543355,1111.933601,-28.609754,0.0,0.572195,50.0,20

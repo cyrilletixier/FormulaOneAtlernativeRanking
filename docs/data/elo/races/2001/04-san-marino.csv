@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,ralf-schumacher,Ralf Schumacher,williams,1,62,3,0,1,1120.667276,1142.230681,21.563405,1.0,0.568732,50.0,22
-2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,david-coulthard,David Coulthard,mclaren,2,62,1,0,2,1292.448053,1301.308435,8.860382,0.952381,0.775173,50.0,22
-2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,rubens-barrichello,Rubens Barrichello,ferrari,3,62,6,0,3,1203.077325,1214.540894,11.463569,0.904762,0.675491,50.0,22
-2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,mika-hakkinen,Mika Häkkinen,mclaren,4,62,2,0,4,1251.611077,1257.864605,6.253528,0.857143,0.732072,50.0,22
-2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,jarno-trulli,Jarno Trulli,jordan,5,62,5,0,5,1029.631329,1047.947904,18.316575,0.809524,0.443192,50.0,22
-2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,6,61,9,0,6,1109.438663,1119.861249,10.422587,0.761905,0.553453,50.0,22
-2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,nick-heidfeld,Nick Heidfeld,sauber,7,61,12,0,7,989.751974,1006.021821,16.269847,0.714286,0.388889,50.0,22
-2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,olivier-panis,Olivier Panis,bar,8,61,8,0,8,1048.101956,1057.999048,9.897092,0.666667,0.468725,50.0,22
-2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,jean-alesi,Jean Alesi,prost,9,61,14,0,9,1011.003814,1021.074047,10.070234,0.619048,0.417643,50.0,22
-2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,enrique-bernoldi,Enrique Bernoldi,arrows,10,60,16,0,10,959.116344,970.262707,11.146362,0.571429,0.348501,50.0,22
-2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,luciano-burti,Luciano Burti,jaguar,11,60,15,0,11,1013.566815,1018.700187,5.133372,0.52381,0.421142,50.0,22
-2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,jenson-button,Jenson Button,benetton,12,60,21,0,12,1061.588679,1061.026918,-0.561761,0.47619,0.487426,50.0,22
-2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,tarso-marques,Tarso Marques,minardi,DNF,50,22,1,13,937.979459,943.328984,5.349524,0.428571,0.321581,50.0,22
-2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,48,7,1,14,981.09487,981.275845,0.180975,0.380952,0.377333,50.0,22
-2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,eddie-irvine,Eddie Irvine,jaguar,DNF,42,13,1,15,1132.864557,1120.272281,-12.592275,0.333333,0.585179,50.0,22
-2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,31,19,1,16,1066.596716,1056.163842,-10.432874,0.285714,0.494372,50.0,22
-2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,jacques-villeneuve,Jacques Villeneuve,bar,DNF,30,11,1,17,1105.071595,1089.602351,-15.469244,0.238095,0.54748,50.0,22
-2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,gaston-mazzacane,Gastón Mazzacane,prost,DNF,28,20,1,18,987.466854,977.699231,-9.767624,0.190476,0.385829,50.0,22
-2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,michael-schumacher,Michael Schumacher,ferrari,DNF,24,4,1,19,1334.502493,1300.898492,-33.604,0.142857,0.814937,50.0,22
-2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,kimi-raikkonen,Kimi Räikkönen,sauber,DNF,17,10,1,20,1000.377221,984.978997,-15.398225,0.095238,0.403203,50.0,22
-2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,jos-verstappen,Jos Verstappen,arrows,DNF,6,17,1,21,997.055936,979.501191,-17.554744,0.047619,0.398714,50.0,22
-2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,fernando-alonso,Fernando Alonso,minardi,DNF,5,18,1,22,991.276516,971.729811,-19.546705,0.0,0.390934,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,667,ralf-schumacher,Ralf Schumacher,williams,1,62,3,0,1,1120.667276,1142.230681,21.563405,1.0,0.568732,50.0,22
+2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,667,david-coulthard,David Coulthard,mclaren,2,62,1,0,2,1292.448053,1301.308435,8.860382,0.952381,0.775173,50.0,22
+2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,667,rubens-barrichello,Rubens Barrichello,ferrari,3,62,6,0,3,1203.077325,1214.540894,11.463569,0.904762,0.675491,50.0,22
+2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,667,mika-hakkinen,Mika Häkkinen,mclaren,4,62,2,0,4,1251.611077,1257.864605,6.253528,0.857143,0.732072,50.0,22
+2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,667,jarno-trulli,Jarno Trulli,jordan,5,62,5,0,5,1029.631329,1047.947904,18.316575,0.809524,0.443192,50.0,22
+2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,667,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,6,61,9,0,6,1109.438663,1119.861249,10.422587,0.761905,0.553453,50.0,22
+2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,667,nick-heidfeld,Nick Heidfeld,sauber,7,61,12,0,7,989.751974,1006.021821,16.269847,0.714286,0.388889,50.0,22
+2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,667,olivier-panis,Olivier Panis,bar,8,61,8,0,8,1048.101956,1057.999048,9.897092,0.666667,0.468725,50.0,22
+2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,667,jean-alesi,Jean Alesi,prost,9,61,14,0,9,1011.003814,1021.074047,10.070234,0.619048,0.417643,50.0,22
+2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,667,enrique-bernoldi,Enrique Bernoldi,arrows,10,60,16,0,10,959.116344,970.262707,11.146362,0.571429,0.348501,50.0,22
+2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,667,luciano-burti,Luciano Burti,jaguar,11,60,15,0,11,1013.566815,1018.700187,5.133372,0.52381,0.421142,50.0,22
+2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,667,jenson-button,Jenson Button,benetton,12,60,21,0,12,1061.588679,1061.026918,-0.561761,0.47619,0.487426,50.0,22
+2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,667,tarso-marques,Tarso Marques,minardi,DNF,50,22,1,13,937.979459,943.328984,5.349524,0.428571,0.321581,50.0,22
+2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,667,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,48,7,1,14,981.09487,981.275845,0.180975,0.380952,0.377333,50.0,22
+2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,667,eddie-irvine,Eddie Irvine,jaguar,DNF,42,13,1,15,1132.864557,1120.272281,-12.592275,0.333333,0.585179,50.0,22
+2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,667,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,31,19,1,16,1066.596716,1056.163842,-10.432874,0.285714,0.494372,50.0,22
+2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,667,jacques-villeneuve,Jacques Villeneuve,bar,DNF,30,11,1,17,1105.071595,1089.602351,-15.469244,0.238095,0.54748,50.0,22
+2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,667,gaston-mazzacane,Gastón Mazzacane,prost,DNF,28,20,1,18,987.466854,977.699231,-9.767624,0.190476,0.385829,50.0,22
+2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,667,michael-schumacher,Michael Schumacher,ferrari,DNF,24,4,1,19,1334.502493,1300.898492,-33.604,0.142857,0.814937,50.0,22
+2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,667,kimi-raikkonen,Kimi Räikkönen,sauber,DNF,17,10,1,20,1000.377221,984.978997,-15.398225,0.095238,0.403203,50.0,22
+2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,667,jos-verstappen,Jos Verstappen,arrows,DNF,6,17,1,21,997.055936,979.501191,-17.554744,0.047619,0.398714,50.0,22
+2001,4,2001-04-15,san-marino,Gran Premio Warsteiner di San Marino 2001,667,fernando-alonso,Fernando Alonso,minardi,DNF,5,18,1,22,991.276516,971.729811,-19.546705,0.0,0.390934,50.0,22

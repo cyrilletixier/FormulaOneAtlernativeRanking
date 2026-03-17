@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,1,56,2,0,1,1317.938533,1329.045788,11.107255,1.0,0.777855,50.0,22
-2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,robert-kubica,Robert Kubica,bmw-sauber,2,56,4,0,2,1142.205564,1161.178643,18.973079,0.952381,0.572919,50.0,22
-2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,heikki-kovalainen,Heikki Kovalainen,mclaren,3,56,8,0,3,1145.222795,1161.616618,16.393823,0.904762,0.576885,50.0,22
-2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,jarno-trulli,Jarno Trulli,toyota,4,56,3,0,4,1059.645328,1079.394277,19.748949,0.857143,0.462164,50.0,22
-2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,5,56,9,0,5,1244.522509,1250.004357,5.481848,0.809524,0.699887,50.0,22
-2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,nick-heidfeld,Nick Heidfeld,bmw-sauber,6,56,5,0,6,1227.926369,1231.993293,4.066924,0.761905,0.680566,50.0,22
-2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,mark-webber,Mark Webber,red-bull,7,56,6,0,7,992.562545,1009.619917,17.057373,0.714286,0.373138,50.0,22
-2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,fernando-alonso,Fernando Alonso,renault,8,56,7,0,8,1384.430717,1375.916359,-8.514358,0.666667,0.836954,50.0,22
-2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,david-coulthard,David Coulthard,red-bull,9,56,12,0,9,1051.544416,1059.934415,8.389999,0.619048,0.451248,50.0,22
-2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,jenson-button,Jenson Button,honda,10,56,11,0,10,1060.141491,1065.571263,5.429771,0.571429,0.462833,50.0,22
-2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,nelson-piquet-jr,Nelson Piquet Jr.,renault,11,56,13,0,11,1004.667183,1011.413312,6.746129,0.52381,0.388887,50.0,22
-2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,force-india,12,55,17,0,12,1123.714047,1120.102481,-3.611566,0.47619,0.548422,50.0,22
-2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,rubens-barrichello,Rubens Barrichello,honda,13,55,14,0,13,1051.991785,1050.827864,-1.163922,0.428571,0.45185,50.0,22
-2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,nico-rosberg,Nico Rosberg,williams,14,55,16,0,14,1090.273145,1084.144502,-6.128643,0.380952,0.503525,50.0,22
-2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,anthony-davidson,Anthony Davidson,super-aguri,15,55,21,0,15,927.848167,929.867552,2.019385,0.333333,0.292946,50.0,22
-2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,takuma-sato,Takuma Sato,super-aguri,16,54,19,0,16,979.08068,975.574687,-3.505992,0.285714,0.355834,50.0,22
-2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,kazuki-nakajima,Kazuki Nakajima,williams,17,54,22,0,17,1027.540892,1018.490898,-9.049993,0.238095,0.419095,50.0,22
-2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,sebastian-vettel,Sebastian Vettel,toro-rosso,DNF,39,15,1,18,966.549706,959.073303,-7.476404,0.190476,0.340004,50.0,22
-2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,felipe-massa,Felipe Massa,ferrari,DNF,30,1,1,19,1266.483703,1237.399794,-29.083909,0.142857,0.724535,50.0,22
-2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,adrian-sutil,Adrian Sutil,force-india,DNF,5,20,1,20,921.241097,911.741831,-9.499266,0.095238,0.285223,50.0,22
-2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,timo-glock,Timo Glock,toyota,DNF,1,10,1,21,1006.040159,988.886878,-17.15328,0.047619,0.390685,50.0,22
-2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,sebastien-bourdais,Sébastien Bourdais,toro-rosso,DNF,0,18,1,22,1016.571945,996.344742,-20.227203,0.0,0.404544,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,787,kimi-raikkonen,Kimi Räikkönen,ferrari,1,56,2,0,1,1317.938533,1329.045788,11.107255,1.0,0.777855,50.0,22
+2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,787,robert-kubica,Robert Kubica,bmw-sauber,2,56,4,0,2,1142.205564,1161.178643,18.973079,0.952381,0.572919,50.0,22
+2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,787,heikki-kovalainen,Heikki Kovalainen,mclaren,3,56,8,0,3,1145.222795,1161.616618,16.393823,0.904762,0.576885,50.0,22
+2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,787,jarno-trulli,Jarno Trulli,toyota,4,56,3,0,4,1059.645328,1079.394277,19.748949,0.857143,0.462164,50.0,22
+2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,787,lewis-hamilton,Lewis Hamilton,mclaren,5,56,9,0,5,1244.522509,1250.004357,5.481848,0.809524,0.699887,50.0,22
+2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,787,nick-heidfeld,Nick Heidfeld,bmw-sauber,6,56,5,0,6,1227.926369,1231.993293,4.066924,0.761905,0.680566,50.0,22
+2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,787,mark-webber,Mark Webber,red-bull,7,56,6,0,7,992.562545,1009.619917,17.057373,0.714286,0.373138,50.0,22
+2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,787,fernando-alonso,Fernando Alonso,renault,8,56,7,0,8,1384.430717,1375.916359,-8.514358,0.666667,0.836954,50.0,22
+2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,787,david-coulthard,David Coulthard,red-bull,9,56,12,0,9,1051.544416,1059.934415,8.389999,0.619048,0.451248,50.0,22
+2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,787,jenson-button,Jenson Button,honda,10,56,11,0,10,1060.141491,1065.571263,5.429771,0.571429,0.462833,50.0,22
+2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,787,nelson-piquet-jr,Nelson Piquet Jr.,renault,11,56,13,0,11,1004.667183,1011.413312,6.746129,0.52381,0.388887,50.0,22
+2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,787,giancarlo-fisichella,Giancarlo Fisichella,force-india,12,55,17,0,12,1123.714047,1120.102481,-3.611566,0.47619,0.548422,50.0,22
+2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,787,rubens-barrichello,Rubens Barrichello,honda,13,55,14,0,13,1051.991785,1050.827864,-1.163922,0.428571,0.45185,50.0,22
+2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,787,nico-rosberg,Nico Rosberg,williams,14,55,16,0,14,1090.273145,1084.144502,-6.128643,0.380952,0.503525,50.0,22
+2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,787,anthony-davidson,Anthony Davidson,super-aguri,15,55,21,0,15,927.848167,929.867552,2.019385,0.333333,0.292946,50.0,22
+2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,787,takuma-sato,Takuma Sato,super-aguri,16,54,19,0,16,979.08068,975.574687,-3.505992,0.285714,0.355834,50.0,22
+2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,787,kazuki-nakajima,Kazuki Nakajima,williams,17,54,22,0,17,1027.540892,1018.490898,-9.049993,0.238095,0.419095,50.0,22
+2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,787,sebastian-vettel,Sebastian Vettel,toro-rosso,DNF,39,15,1,18,966.549706,959.073303,-7.476404,0.190476,0.340004,50.0,22
+2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,787,felipe-massa,Felipe Massa,ferrari,DNF,30,1,1,19,1266.483703,1237.399794,-29.083909,0.142857,0.724535,50.0,22
+2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,787,adrian-sutil,Adrian Sutil,force-india,DNF,5,20,1,20,921.241097,911.741831,-9.499266,0.095238,0.285223,50.0,22
+2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,787,timo-glock,Timo Glock,toyota,DNF,1,10,1,21,1006.040159,988.886878,-17.15328,0.047619,0.390685,50.0,22
+2008,2,2008-03-23,malaysia,2008 Formula 1 Petronas Malaysian Grand Prix,787,sebastien-bourdais,Sébastien Bourdais,toro-rosso,DNF,0,18,1,22,1016.571945,996.344742,-20.227203,0.0,0.404544,50.0,22

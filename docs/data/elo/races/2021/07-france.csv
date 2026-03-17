@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,max-verstappen,Max Verstappen,red-bull,1,53,1,0,1,1330.795864,1344.004096,13.208232,1.0,0.735835,50.0,20
-2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,lewis-hamilton,Lewis Hamilton,mercedes,2,53,2,0,2,1560.655885,1562.409382,1.753496,0.947368,0.912298,50.0,20
-2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,sergio-perez,Sergio Pérez,red-bull,3,53,4,0,3,1258.702578,1270.611058,11.90848,0.894737,0.656567,50.0,20
-2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,valtteri-bottas,Valtteri Bottas,mercedes,4,53,3,0,4,1314.233542,1320.412464,6.178922,0.842105,0.718527,50.0,20
-2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,lando-norris,Lando Norris,mclaren,5,53,8,0,5,1240.809814,1248.510225,7.700411,0.789474,0.635465,50.0,20
-2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,daniel-ricciardo,Daniel Ricciardo,mclaren,6,53,10,0,6,1224.189707,1230.259462,6.069755,0.736842,0.615447,50.0,20
-2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,pierre-gasly,Pierre Gasly,alphatauri,7,53,6,0,7,1165.969269,1173.035247,7.065978,0.684211,0.542891,50.0,20
-2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,fernando-alonso,Fernando Alonso,alpine,8,53,9,0,8,1029.168244,1042.27724,13.108995,0.631579,0.369399,50.0,20
-2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,sebastian-vettel,Sebastian Vettel,aston-martin,9,53,12,0,9,1165.649058,1167.472214,1.823156,0.578947,0.542484,50.0,20
-2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,lance-stroll,Lance Stroll,aston-martin,10,53,19,0,10,1081.969872,1086.511819,4.541947,0.526316,0.435477,50.0,20
-2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,11,53,5,0,11,1228.944873,1221.56845,-7.376422,0.473684,0.621213,50.0,20
-2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,george-russell,George Russell,williams,12,52,14,0,12,929.069152,937.390683,8.321531,0.421053,0.254622,50.0,20
-2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,yuki-tsunoda,Yuki Tsunoda,alphatauri,13,52,PL,0,13,1005.66108,1007.034317,1.373237,0.368421,0.340956,50.0,20
-2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,esteban-ocon,Esteban Ocon,alpine,14,52,11,0,14,1115.166479,1107.060399,-8.10608,0.315789,0.477911,50.0,20
-2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,15,52,13,0,15,999.211435,995.704874,-3.506561,0.263158,0.333289,50.0,20
-2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,charles-leclerc,Charles Leclerc,ferrari,16,52,7,0,16,1212.103945,1192.596972,-19.506974,0.210526,0.600666,50.0,20
-2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,17,52,17,0,17,1058.533347,1046.135664,-12.397682,0.157895,0.405848,50.0,20
-2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,nicholas-latifi,Nicholas Latifi,williams,18,52,16,0,18,910.982662,904.44801,-6.534651,0.105263,0.235956,50.0,20
-2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,mick-schumacher,Mick Schumacher,haas,19,52,15,0,19,963.325864,951.363376,-11.962488,0.052632,0.291881,50.0,20
-2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,nikita-mazepin,Nikita Mazepin,haas,20,52,18,0,20,946.485308,932.822027,-13.663281,0.0,0.273266,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,1042,max-verstappen,Max Verstappen,red-bull,1,53,1,0,1,1330.795864,1344.004096,13.208232,1.0,0.735835,50.0,20
+2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,1042,lewis-hamilton,Lewis Hamilton,mercedes,2,53,2,0,2,1560.655885,1562.409382,1.753496,0.947368,0.912298,50.0,20
+2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,1042,sergio-perez,Sergio Pérez,red-bull,3,53,4,0,3,1258.702578,1270.611058,11.90848,0.894737,0.656567,50.0,20
+2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,1042,valtteri-bottas,Valtteri Bottas,mercedes,4,53,3,0,4,1314.233542,1320.412464,6.178922,0.842105,0.718527,50.0,20
+2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,1042,lando-norris,Lando Norris,mclaren,5,53,8,0,5,1240.809814,1248.510225,7.700411,0.789474,0.635465,50.0,20
+2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,1042,daniel-ricciardo,Daniel Ricciardo,mclaren,6,53,10,0,6,1224.189707,1230.259462,6.069755,0.736842,0.615447,50.0,20
+2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,1042,pierre-gasly,Pierre Gasly,alphatauri,7,53,6,0,7,1165.969269,1173.035247,7.065978,0.684211,0.542891,50.0,20
+2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,1042,fernando-alonso,Fernando Alonso,alpine,8,53,9,0,8,1029.168244,1042.27724,13.108995,0.631579,0.369399,50.0,20
+2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,1042,sebastian-vettel,Sebastian Vettel,aston-martin,9,53,12,0,9,1165.649058,1167.472214,1.823156,0.578947,0.542484,50.0,20
+2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,1042,lance-stroll,Lance Stroll,aston-martin,10,53,19,0,10,1081.969872,1086.511819,4.541947,0.526316,0.435477,50.0,20
+2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,1042,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,11,53,5,0,11,1228.944873,1221.56845,-7.376422,0.473684,0.621213,50.0,20
+2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,1042,george-russell,George Russell,williams,12,52,14,0,12,929.069152,937.390683,8.321531,0.421053,0.254622,50.0,20
+2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,1042,yuki-tsunoda,Yuki Tsunoda,alphatauri,13,52,PL,0,13,1005.66108,1007.034317,1.373237,0.368421,0.340956,50.0,20
+2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,1042,esteban-ocon,Esteban Ocon,alpine,14,52,11,0,14,1115.166479,1107.060399,-8.10608,0.315789,0.477911,50.0,20
+2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,1042,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,15,52,13,0,15,999.211435,995.704874,-3.506561,0.263158,0.333289,50.0,20
+2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,1042,charles-leclerc,Charles Leclerc,ferrari,16,52,7,0,16,1212.103945,1192.596972,-19.506974,0.210526,0.600666,50.0,20
+2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,1042,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,17,52,17,0,17,1058.533347,1046.135664,-12.397682,0.157895,0.405848,50.0,20
+2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,1042,nicholas-latifi,Nicholas Latifi,williams,18,52,16,0,18,910.982662,904.44801,-6.534651,0.105263,0.235956,50.0,20
+2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,1042,mick-schumacher,Mick Schumacher,haas,19,52,15,0,19,963.325864,951.363376,-11.962488,0.052632,0.291881,50.0,20
+2021,7,2021-06-20,france,Formula 1 Emirates Grand Prix de France 2021,1042,nikita-mazepin,Nikita Mazepin,haas,20,52,18,0,20,946.485308,932.822027,-13.663281,0.0,0.273266,50.0,20

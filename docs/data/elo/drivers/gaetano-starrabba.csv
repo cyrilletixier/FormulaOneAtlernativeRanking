@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1961-09-10,1961,7,italy,lotus,Lotus,DNF,19,34,1000.0,1005.797241,5.797241,0.575758,0.459813,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1961-09-10,1961,7,italy,101,lotus,Lotus,DNF,19,34,1000.0,1005.797241,5.797241,0.575758,0.459813,50.0

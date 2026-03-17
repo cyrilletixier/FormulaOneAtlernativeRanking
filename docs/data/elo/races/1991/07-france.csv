@@ -1,35 +1,35 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,nigel-mansell,Nigel Mansell,williams,1,72,4,0,1,1218.751264,1234.052405,15.301141,1.0,0.693977,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,alain-prost,Alain Prost,ferrari,2,72,2,0,2,1288.795957,1298.800647,10.00469,0.969697,0.769603,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,ayrton-senna,Ayrton Senna,mclaren,3,72,3,0,3,1320.374732,1327.363436,6.988703,0.939394,0.79962,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,jean-alesi,Jean Alesi,ferrari,4,72,6,0,4,1132.819418,1148.922123,16.102704,0.909091,0.587037,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,riccardo-patrese,Riccardo Patrese,williams,5,71,1,0,5,1260.946706,1267.837181,6.890475,0.878788,0.740978,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,andrea-de-cesaris,Andrea de Cesaris,jordan,6,71,13,0,6,1058.210069,1076.283805,18.073736,0.848485,0.48701,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,mauricio-gugelmin,Maurício Gugelmin,leyton-house,7,70,9,0,7,1055.528776,1072.268915,16.740139,0.818182,0.483379,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,nelson-piquet,Nelson Piquet,benetton,8,70,7,0,8,1248.568567,1251.581019,3.012452,0.787879,0.72763,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,pierluigi-martini,Pierluigi Martini,minardi,9,70,12,0,9,1113.504562,1123.308208,9.803646,0.757576,0.561503,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,johnny-herbert,Johnny Herbert,lotus,10,70,20,0,10,1023.029459,1037.416683,14.387224,0.727273,0.439528,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,erik-comas,Érik Comas,ligier,11,70,14,0,11,1018.851668,1032.003639,13.151971,0.69697,0.43393,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,thierry-boutsen,Thierry Boutsen,ligier,12,69,16,0,12,1234.500794,1232.233649,-2.267145,0.666667,0.71201,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,roberto-moreno,Roberto Moreno,benetton,DNF,63,8,1,13,1010.142191,1020.845204,10.703013,0.636364,0.422303,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,stefano-modena,Stefano Modena,tyrrell,DNF,57,11,1,14,1108.209923,1110.790875,2.580952,0.606061,0.554442,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,olivier-grouillard,Olivier Grouillard,fondmetal,DNF,47,21,1,15,920.607231,933.967182,13.359951,0.575758,0.308559,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,eric-bernard,Éric Bernard,lola,DNF,43,23,1,16,1097.40524,1097.679684,0.274443,0.545455,0.539966,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,jj-lehto,JJ Lehto,dallara,DNF,39,26,1,17,1021.904912,1025.761477,3.856565,0.515152,0.43802,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,mark-blundell,Mark Blundell,brabham,DNF,36,17,1,18,1014.67324,1017.498441,2.825202,0.484848,0.428344,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,aguri-suzuki,Aguri Suzuki,lola,DNF,32,22,1,19,1031.045431,1031.257656,0.212225,0.454545,0.450301,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,michele-alboreto,Michele Alboreto,footwork,DNF,31,25,1,20,1009.023431,1009.194826,0.171395,0.424242,0.420815,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,martin-brundle,Martin Brundle,brabham,DNF,21,24,1,21,1093.665697,1086.615776,-7.04992,0.393939,0.534938,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,satoru-nakajima,Satoru Nakajima,tyrrell,DNF,12,18,1,22,1082.694851,1074.869358,-7.825493,0.363636,0.520146,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,gianni-morbidelli,Gianni Morbidelli,minardi,DNF,8,10,1,23,1026.812777,1021.249053,-5.563724,0.333333,0.444608,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,ivan-capelli,Ivan Capelli,leyton-house,DNF,7,15,1,24,1061.942407,1052.49066,-9.451747,0.30303,0.492065,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,gerhard-berger,Gerhard Berger,mclaren,DNF,6,5,1,25,1191.493562,1172.054923,-19.43864,0.272727,0.6615,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,bertrand-gachot,Bertrand Gachot,jordan,DNF,0,19,1,26,959.131649,953.457218,-5.674431,0.242424,0.355913,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,emanuele-pirro,Emanuele Pirro,dallara,DNPQ,,,1,27,1048.586109,1033.220368,-15.365741,0.166667,0.473981,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,eric-van-de-poele,Eric van de Poele,modena,DNPQ,,,1,28,961.439315,951.830827,-9.608487,0.166667,0.358836,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,nicola-larini,Nicola Larini,modena,DNPQ,,,1,29,1026.711756,1012.821486,-13.89027,0.166667,0.444472,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,pedro-chaves,Pedro Chaves,coloni,DNPQ,,,1,30,938.462348,930.288318,-8.174029,0.166667,0.330147,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,fabrizio-barbazza,Fabrizio Barbazza,ags,DNQ,,,2,31,934.273269,920.294815,-13.978454,0.045455,0.325024,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,gabriele-tarquini,Gabriele Tarquini,ags,DNQ,,,2,32,867.187143,857.044515,-10.142628,0.045455,0.248307,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,mika-hakkinen,Mika Häkkinen,lotus,DNQ,,,2,33,1066.819031,1044.158261,-22.660769,0.045455,0.49867,50.0,34
-1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,stefan-johansson,Stefan Johansson,footwork,DNQ,,,2,34,923.856309,910.507161,-13.349148,0.045455,0.312437,50.0,34
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,nigel-mansell,Nigel Mansell,williams,1,72,4,0,1,1218.751264,1234.052405,15.301141,1.0,0.693977,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,alain-prost,Alain Prost,ferrari,2,72,2,0,2,1288.795957,1298.800647,10.00469,0.969697,0.769603,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,ayrton-senna,Ayrton Senna,mclaren,3,72,3,0,3,1320.374732,1327.363436,6.988703,0.939394,0.79962,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,jean-alesi,Jean Alesi,ferrari,4,72,6,0,4,1132.819418,1148.922123,16.102704,0.909091,0.587037,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,riccardo-patrese,Riccardo Patrese,williams,5,71,1,0,5,1260.946706,1267.837181,6.890475,0.878788,0.740978,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,andrea-de-cesaris,Andrea de Cesaris,jordan,6,71,13,0,6,1058.210069,1076.283805,18.073736,0.848485,0.48701,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,mauricio-gugelmin,Maurício Gugelmin,leyton-house,7,70,9,0,7,1055.528776,1072.268915,16.740139,0.818182,0.483379,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,nelson-piquet,Nelson Piquet,benetton,8,70,7,0,8,1248.568567,1251.581019,3.012452,0.787879,0.72763,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,pierluigi-martini,Pierluigi Martini,minardi,9,70,12,0,9,1113.504562,1123.308208,9.803646,0.757576,0.561503,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,johnny-herbert,Johnny Herbert,lotus,10,70,20,0,10,1023.029459,1037.416683,14.387224,0.727273,0.439528,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,erik-comas,Érik Comas,ligier,11,70,14,0,11,1018.851668,1032.003639,13.151971,0.69697,0.43393,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,thierry-boutsen,Thierry Boutsen,ligier,12,69,16,0,12,1234.500794,1232.233649,-2.267145,0.666667,0.71201,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,roberto-moreno,Roberto Moreno,benetton,DNF,63,8,1,13,1010.142191,1020.845204,10.703013,0.636364,0.422303,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,stefano-modena,Stefano Modena,tyrrell,DNF,57,11,1,14,1108.209923,1110.790875,2.580952,0.606061,0.554442,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,olivier-grouillard,Olivier Grouillard,fondmetal,DNF,47,21,1,15,920.607231,933.967182,13.359951,0.575758,0.308559,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,eric-bernard,Éric Bernard,lola,DNF,43,23,1,16,1097.40524,1097.679684,0.274443,0.545455,0.539966,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,jj-lehto,JJ Lehto,dallara,DNF,39,26,1,17,1021.904912,1025.761477,3.856565,0.515152,0.43802,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,mark-blundell,Mark Blundell,brabham,DNF,36,17,1,18,1014.67324,1017.498441,2.825202,0.484848,0.428344,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,aguri-suzuki,Aguri Suzuki,lola,DNF,32,22,1,19,1031.045431,1031.257656,0.212225,0.454545,0.450301,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,michele-alboreto,Michele Alboreto,footwork,DNF,31,25,1,20,1009.023431,1009.194826,0.171395,0.424242,0.420815,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,martin-brundle,Martin Brundle,brabham,DNF,21,24,1,21,1093.665697,1086.615776,-7.04992,0.393939,0.534938,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,satoru-nakajima,Satoru Nakajima,tyrrell,DNF,12,18,1,22,1082.694851,1074.869358,-7.825493,0.363636,0.520146,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,gianni-morbidelli,Gianni Morbidelli,minardi,DNF,8,10,1,23,1026.812777,1021.249053,-5.563724,0.333333,0.444608,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,ivan-capelli,Ivan Capelli,leyton-house,DNF,7,15,1,24,1061.942407,1052.49066,-9.451747,0.30303,0.492065,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,gerhard-berger,Gerhard Berger,mclaren,DNF,6,5,1,25,1191.493562,1172.054923,-19.43864,0.272727,0.6615,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,bertrand-gachot,Bertrand Gachot,jordan,DNF,0,19,1,26,959.131649,953.457218,-5.674431,0.242424,0.355913,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,emanuele-pirro,Emanuele Pirro,dallara,DNPQ,,,1,27,1048.586109,1033.220368,-15.365741,0.166667,0.473981,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,eric-van-de-poele,Eric van de Poele,modena,DNPQ,,,1,28,961.439315,951.830827,-9.608487,0.166667,0.358836,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,nicola-larini,Nicola Larini,modena,DNPQ,,,1,29,1026.711756,1012.821486,-13.89027,0.166667,0.444472,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,pedro-chaves,Pedro Chaves,coloni,DNPQ,,,1,30,938.462348,930.288318,-8.174029,0.166667,0.330147,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,fabrizio-barbazza,Fabrizio Barbazza,ags,DNQ,,,2,31,934.273269,920.294815,-13.978454,0.045455,0.325024,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,gabriele-tarquini,Gabriele Tarquini,ags,DNQ,,,2,32,867.187143,857.044515,-10.142628,0.045455,0.248307,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,mika-hakkinen,Mika Häkkinen,lotus,DNQ,,,2,33,1066.819031,1044.158261,-22.660769,0.045455,0.49867,50.0,34
+1991,7,1991-07-07,france,Rhone Poulenc Grand Prix de France 1991,507,stefan-johansson,Stefan Johansson,footwork,DNQ,,,2,34,923.856309,910.507161,-13.349148,0.045455,0.312437,50.0,34

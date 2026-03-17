@@ -1,27 +1,27 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,alan-jones,Alan Jones,williams,1,54,2,0,1,1164.92612,1183.885021,18.958901,1.0,0.620822,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,gilles-villeneuve,Gilles Villeneuve,ferrari,2,54,5,0,2,1210.408268,1224.454187,14.045919,0.96,0.679082,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,jacques-laffite,Jacques Laffite,ligier,3,54,8,0,3,1200.436256,1213.103697,12.667441,0.92,0.666651,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,jody-scheckter,Jody Scheckter,ferrari,4,54,9,0,4,1280.552579,1286.559138,6.00656,0.88,0.759869,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,clay-regazzoni,Clay Regazzoni,williams,5,54,6,0,5,1122.107252,1135.955781,13.848529,0.84,0.563029,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,rene-arnoux,René Arnoux,renault,6,53,1,0,6,1050.901344,1067.689377,16.788033,0.8,0.464239,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,didier-pironi,Didier Pironi,tyrrell,7,53,10,0,7,1100.994829,1112.300662,11.305833,0.76,0.533883,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,derek-daly,Derek Daly,tyrrell,8,53,11,0,8,964.545972,983.133292,18.58732,0.72,0.348254,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,john-watson,John Watson,mclaren,9,53,16,0,9,1188.274532,1189.713705,1.439173,0.68,0.651217,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,patrick-tambay,Patrick Tambay,mclaren,10,53,14,0,10,1080.459531,1087.192633,6.733102,0.64,0.505338,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,niki-lauda,Niki Lauda,brabham,DNF,45,4,1,11,1084.09952,1088.579289,4.479769,0.6,0.510405,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,patrick-gaillard,Patrick Gaillard,ensign,DNF,42,24,1,12,973.24086,983.268345,10.027485,0.56,0.35945,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,elio-de-angelis,Elio de Angelis,shadow,DNF,34,22,1,13,1025.710885,1029.234519,3.523633,0.5,0.429527,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,riccardo-patrese,Riccardo Patrese,arrows,DNF,34,13,1,14,1101.147167,1099.442438,-1.704729,0.5,0.534095,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,nelson-piquet,Nelson Piquet,brabham,DNF,32,7,1,15,1022.387111,1023.13783,0.750719,0.44,0.424986,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,hans-joachim-stuck,Hans-Joachim Stuck,ats-wheels,DNF,28,18,1,16,969.549983,971.815963,2.26598,0.4,0.35468,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,jacky-ickx,Jacky Ickx,ligier,DNF,26,21,1,17,1029.030685,1025.326985,-3.7037,0.36,0.434074,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,carlos-reutemann,Carlos Reutemann,lotus,DNF,22,17,1,18,1231.395195,1212.168964,-19.226232,0.32,0.704525,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,jean-pierre-jabouille,Jean-Pierre Jabouille,renault,DNF,16,3,1,19,1022.374749,1015.126312,-7.248437,0.28,0.424969,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,emerson-fittipaldi,Emerson Fittipaldi,fittipaldi,DNF,15,19,1,20,1085.412088,1070.800526,-14.611562,0.22,0.512231,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,keke-rosberg,Keke Rosberg,wolf,DNF,15,12,1,21,1008.39359,999.093944,-9.299646,0.22,0.405993,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,jan-lammers,Jan Lammers,shadow,DNF,3,23,1,22,1026.255802,1012.742155,-13.513647,0.16,0.430273,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,jochen-mass,Jochen Mass,arrows,DNF,1,20,1,23,1109.73079,1088.431889,-21.298901,0.12,0.545978,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,mario-andretti,Mario Andretti,lotus,DNF,0,15,1,24,1135.123164,1110.082045,-25.041119,0.08,0.580822,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,arturo-merzario,Arturo Merzario,merzario,DNQ,,,2,25,824.49488,815.873635,-8.621245,0.02,0.192425,50.0,26
-1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,hector-rebaque,Héctor Rebaque,lotus,DNQ,,,2,26,976.116582,958.957399,-17.159183,0.02,0.363184,50.0,26
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,alan-jones,Alan Jones,williams,1,54,2,0,1,1164.92612,1183.885021,18.958901,1.0,0.620822,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,gilles-villeneuve,Gilles Villeneuve,ferrari,2,54,5,0,2,1210.408268,1224.454187,14.045919,0.96,0.679082,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,jacques-laffite,Jacques Laffite,ligier,3,54,8,0,3,1200.436256,1213.103697,12.667441,0.92,0.666651,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,jody-scheckter,Jody Scheckter,ferrari,4,54,9,0,4,1280.552579,1286.559138,6.00656,0.88,0.759869,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,clay-regazzoni,Clay Regazzoni,williams,5,54,6,0,5,1122.107252,1135.955781,13.848529,0.84,0.563029,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,rene-arnoux,René Arnoux,renault,6,53,1,0,6,1050.901344,1067.689377,16.788033,0.8,0.464239,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,didier-pironi,Didier Pironi,tyrrell,7,53,10,0,7,1100.994829,1112.300662,11.305833,0.76,0.533883,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,derek-daly,Derek Daly,tyrrell,8,53,11,0,8,964.545972,983.133292,18.58732,0.72,0.348254,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,john-watson,John Watson,mclaren,9,53,16,0,9,1188.274532,1189.713705,1.439173,0.68,0.651217,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,patrick-tambay,Patrick Tambay,mclaren,10,53,14,0,10,1080.459531,1087.192633,6.733102,0.64,0.505338,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,niki-lauda,Niki Lauda,brabham,DNF,45,4,1,11,1084.09952,1088.579289,4.479769,0.6,0.510405,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,patrick-gaillard,Patrick Gaillard,ensign,DNF,42,24,1,12,973.24086,983.268345,10.027485,0.56,0.35945,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,elio-de-angelis,Elio de Angelis,shadow,DNF,34,22,1,13,1025.710885,1029.234519,3.523633,0.5,0.429527,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,riccardo-patrese,Riccardo Patrese,arrows,DNF,34,13,1,14,1101.147167,1099.442438,-1.704729,0.5,0.534095,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,nelson-piquet,Nelson Piquet,brabham,DNF,32,7,1,15,1022.387111,1023.13783,0.750719,0.44,0.424986,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,hans-joachim-stuck,Hans-Joachim Stuck,ats-wheels,DNF,28,18,1,16,969.549983,971.815963,2.26598,0.4,0.35468,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,jacky-ickx,Jacky Ickx,ligier,DNF,26,21,1,17,1029.030685,1025.326985,-3.7037,0.36,0.434074,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,carlos-reutemann,Carlos Reutemann,lotus,DNF,22,17,1,18,1231.395195,1212.168964,-19.226232,0.32,0.704525,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,jean-pierre-jabouille,Jean-Pierre Jabouille,renault,DNF,16,3,1,19,1022.374749,1015.126312,-7.248437,0.28,0.424969,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,emerson-fittipaldi,Emerson Fittipaldi,fittipaldi,DNF,15,19,1,20,1085.412088,1070.800526,-14.611562,0.22,0.512231,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,keke-rosberg,Keke Rosberg,wolf,DNF,15,12,1,21,1008.39359,999.093944,-9.299646,0.22,0.405993,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,jan-lammers,Jan Lammers,shadow,DNF,3,23,1,22,1026.255802,1012.742155,-13.513647,0.16,0.430273,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,jochen-mass,Jochen Mass,arrows,DNF,1,20,1,23,1109.73079,1088.431889,-21.298901,0.12,0.545978,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,mario-andretti,Mario Andretti,lotus,DNF,0,15,1,24,1135.123164,1110.082045,-25.041119,0.08,0.580822,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,arturo-merzario,Arturo Merzario,merzario,DNQ,,,2,25,824.49488,815.873635,-8.621245,0.02,0.192425,50.0,26
+1979,11,1979-08-12,austria,Grosser Preis von Österreich 1979,324,hector-rebaque,Héctor Rebaque,lotus,DNQ,,,2,26,976.116582,958.957399,-17.159183,0.02,0.363184,50.0,26

@@ -1,4 +1,4 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1950-05-13,1950,1,great-britain,era,ERA,7,67,23,1000.0,1011.363636,11.363636,0.727273,0.5,50.0
-1950-05-21,1950,2,monaco,era,ERA,DNF,0,21,1011.363636,1000.71823,-10.645406,0.3,0.512908,50.0
-1950-09-03,1950,7,italy,era,ERA,DNF,51,27,1000.71823,1008.825843,8.107613,0.653846,0.491694,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1950-05-13,1950,1,great-britain,1,era,ERA,7,67,23,1000.0,1011.363636,11.363636,0.727273,0.5,50.0
+1950-05-21,1950,2,monaco,2,era,ERA,DNF,0,21,1011.363636,1000.71823,-10.645406,0.3,0.512908,50.0
+1950-09-03,1950,7,italy,7,era,ERA,DNF,51,27,1000.71823,1008.825843,8.107613,0.653846,0.491694,50.0

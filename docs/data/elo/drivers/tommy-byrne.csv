@@ -1,6 +1,6 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1982-08-08,1982,12,germany,theodore,Theodore,DNQ,,30,1000.0,984.255036,-15.744964,0.103448,0.418348,50.0
-1982-08-15,1982,13,austria,theodore,Theodore,DNF,28,29,984.255036,993.630848,9.375812,0.589286,0.401769,50.0
-1982-08-29,1982,14,switzerland,theodore,Theodore,DNQ,,29,993.630848,976.458417,-17.172431,0.071429,0.414877,50.0
-1982-09-12,1982,15,italy,theodore,Theodore,DNQ,,30,976.458417,959.611285,-16.847132,0.051724,0.388667,50.0
-1982-09-25,1982,16,caesars-palace,theodore,Theodore,DNF,39,30,959.611285,965.422395,5.81111,0.482759,0.366536,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1982-08-08,1982,12,germany,369,theodore,Theodore,DNQ,,30,1000.0,984.255036,-15.744964,0.103448,0.418348,50.0
+1982-08-15,1982,13,austria,370,theodore,Theodore,DNF,28,29,984.255036,993.630848,9.375812,0.589286,0.401769,50.0
+1982-08-29,1982,14,switzerland,371,theodore,Theodore,DNQ,,29,993.630848,976.458417,-17.172431,0.071429,0.414877,50.0
+1982-09-12,1982,15,italy,372,theodore,Theodore,DNQ,,30,976.458417,959.611285,-16.847132,0.051724,0.388667,50.0
+1982-09-25,1982,16,caesars-palace,373,theodore,Theodore,DNF,39,30,959.611285,965.422395,5.81111,0.482759,0.366536,50.0

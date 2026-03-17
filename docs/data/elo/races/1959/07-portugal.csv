@@ -1,17 +1,17 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,stirling-moss,Stirling Moss,cooper,1,62,1,0,1,1096.173197,1117.137679,20.964482,1.0,0.58071,50.0,16
-1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,masten-gregory,Masten Gregory,cooper,2,61,3,0,2,1054.925618,1075.640299,20.714681,0.933333,0.51904,50.0,16
-1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,dan-gurney,Dan Gurney,ferrari,3,61,6,0,3,1021.173269,1041.100295,19.927025,0.866667,0.468126,50.0,16
-1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,maurice-trintignant,Maurice Trintignant,cooper,4,60,4,0,4,1079.784427,1091.965813,12.181387,0.8,0.556372,50.0,16
-1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,harry-schell,Harry Schell,brm,5,59,9,0,5,1091.606121,1099.574916,7.968795,0.733333,0.573957,50.0,16
-1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,roy-salvadori,Roy Salvadori,aston-martin,6,59,12,0,6,1045.717301,1053.793396,8.076095,0.666667,0.505145,50.0,16
-1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,ron-flockhart,Ron Flockhart,brm,7,59,11,0,7,974.369162,984.436528,10.067366,0.6,0.398653,50.0,16
-1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,carroll-shelby,Carroll Shelby,aston-martin,8,58,13,0,8,991.391284,996.875716,5.484433,0.533333,0.423645,50.0,16
-1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,tony-brooks,Tony Brooks,ferrari,9,57,10,0,9,1071.816758,1067.927661,-3.889097,0.466667,0.544449,50.0,16
-1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,mario-de-araujo-cabral,Mário de Araújo Cabral,cooper,10,56,14,0,10,1000.0,998.178952,-1.821048,0.4,0.436421,50.0,16
-1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,bruce-mclaren,Bruce McLaren,cooper,DNF,38,8,1,11,1069.686918,1059.290917,-10.396001,0.333333,0.541253,50.0,16
-1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,jack-brabham,Jack Brabham,cooper,DNF,23,2,1,12,1083.695377,1068.918443,-14.776934,0.266667,0.562205,50.0,16
-1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,jo-bonnier,Jo Bonnier,brm,DNF,10,5,1,13,1002.868316,990.833574,-12.034742,0.2,0.440695,50.0,16
-1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,graham-hill,Graham Hill,lotus,DNF,5,15,1,14,979.303113,964.010347,-15.292765,0.1,0.405855,50.0,16
-1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,phil-hill,Phil Hill,ferrari,DNF,5,7,1,15,1114.927047,1089.519746,-25.407301,0.1,0.608146,50.0,16
-1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,innes-ireland,Innes Ireland,lotus,DNF,3,16,1,16,999.265276,977.498901,-21.766374,0.0,0.435327,50.0,16
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,82,stirling-moss,Stirling Moss,cooper,1,62,1,0,1,1096.173197,1117.137679,20.964482,1.0,0.58071,50.0,16
+1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,82,masten-gregory,Masten Gregory,cooper,2,61,3,0,2,1054.925618,1075.640299,20.714681,0.933333,0.51904,50.0,16
+1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,82,dan-gurney,Dan Gurney,ferrari,3,61,6,0,3,1021.173269,1041.100295,19.927025,0.866667,0.468126,50.0,16
+1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,82,maurice-trintignant,Maurice Trintignant,cooper,4,60,4,0,4,1079.784427,1091.965813,12.181387,0.8,0.556372,50.0,16
+1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,82,harry-schell,Harry Schell,brm,5,59,9,0,5,1091.606121,1099.574916,7.968795,0.733333,0.573957,50.0,16
+1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,82,roy-salvadori,Roy Salvadori,aston-martin,6,59,12,0,6,1045.717301,1053.793396,8.076095,0.666667,0.505145,50.0,16
+1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,82,ron-flockhart,Ron Flockhart,brm,7,59,11,0,7,974.369162,984.436528,10.067366,0.6,0.398653,50.0,16
+1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,82,carroll-shelby,Carroll Shelby,aston-martin,8,58,13,0,8,991.391284,996.875716,5.484433,0.533333,0.423645,50.0,16
+1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,82,tony-brooks,Tony Brooks,ferrari,9,57,10,0,9,1071.816758,1067.927661,-3.889097,0.466667,0.544449,50.0,16
+1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,82,mario-de-araujo-cabral,Mário de Araújo Cabral,cooper,10,56,14,0,10,1000.0,998.178952,-1.821048,0.4,0.436421,50.0,16
+1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,82,bruce-mclaren,Bruce McLaren,cooper,DNF,38,8,1,11,1069.686918,1059.290917,-10.396001,0.333333,0.541253,50.0,16
+1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,82,jack-brabham,Jack Brabham,cooper,DNF,23,2,1,12,1083.695377,1068.918443,-14.776934,0.266667,0.562205,50.0,16
+1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,82,jo-bonnier,Jo Bonnier,brm,DNF,10,5,1,13,1002.868316,990.833574,-12.034742,0.2,0.440695,50.0,16
+1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,82,graham-hill,Graham Hill,lotus,DNF,5,15,1,14,979.303113,964.010347,-15.292765,0.1,0.405855,50.0,16
+1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,82,phil-hill,Phil Hill,ferrari,DNF,5,7,1,15,1114.927047,1089.519746,-25.407301,0.1,0.608146,50.0,16
+1959,7,1959-08-23,portugal,Grande Prémio de Portugal 1959,82,innes-ireland,Innes Ireland,lotus,DNF,3,16,1,16,999.265276,977.498901,-21.766374,0.0,0.435327,50.0,16

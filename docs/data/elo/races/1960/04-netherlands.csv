@@ -1,22 +1,22 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,jack-brabham,Jack Brabham,cooper,1,75,2,0,1,1070.439527,1093.035818,22.596291,1.0,0.548074,50.0,21
-1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,innes-ireland,Innes Ireland,lotus,2,75,3,0,2,1005.478189,1030.36813,24.889941,0.95,0.452201,50.0,21
-1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,graham-hill,Graham Hill,brm,3,75,5,0,3,955.875076,981.839521,25.964444,0.9,0.380711,50.0,21
-1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,stirling-moss,Stirling Moss,lotus,4,75,1,0,4,1145.134126,1154.92821,9.794084,0.85,0.654118,50.0,21
-1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,wolfgang-von-trips,Wolfgang von Trips,ferrari,5,74,15,0,5,1054.17569,1067.969422,13.793732,0.8,0.524125,50.0,21
-1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,richie-ginther,Richie Ginther,ferrari,6,74,12,0,6,1016.543596,1030.619248,14.075652,0.75,0.468487,50.0,21
-1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,henry-taylor,Henry Taylor,cooper,7,70,14,0,7,1008.615555,1020.775008,12.159453,0.7,0.456811,50.0,21
-1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,carel-godin-de-beaufort,Carel Godin de Beaufort,cooper,8,69,17,0,8,991.688417,1002.586718,10.898301,0.65,0.432034,50.0,21
-1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,alan-stacey,Alan Stacey,lotus,DNF,57,8,1,9,975.10305,984.700895,9.597845,0.6,0.408043,50.0,21
-1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,jo-bonnier,Jo Bonnier,brm,DNF,54,4,1,10,1029.431077,1031.304771,1.873693,0.525,0.487526,50.0,21
-1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,phil-hill,Phil Hill,ferrari,DNF,54,13,1,11,1113.33696,1109.08474,-4.25222,0.525,0.610044,50.0,21
-1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,jim-clark,Jim Clark,lotus,DNF,42,11,1,12,1000.0,1000.291518,0.291518,0.45,0.44417,50.0,21
-1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,maurice-trintignant,Maurice Trintignant,cooper,DNF,39,16,1,13,1112.317025,1101.88703,-10.429996,0.4,0.6086,50.0,21
-1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,dan-gurney,Dan Gurney,brm,DNF,11,6,1,14,1061.588121,1052.33518,-9.252941,0.35,0.535059,50.0,21
-1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,chris-bristow,Chris Bristow,cooper,DNF,9,7,1,15,1010.501556,1002.522295,-7.979261,0.3,0.459585,50.0,21
-1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,bruce-mclaren,Bruce McLaren,cooper,DNF,8,9,1,16,1107.113457,1089.553237,-17.56022,0.25,0.601204,50.0,21
-1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,tony-brooks,Tony Brooks,cooper,DNF,4,10,1,17,1075.21811,1057.464249,-17.753862,0.2,0.555077,50.0,21
-1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,chuck-daigh,Chuck Daigh,scarab,DNS,,,2,18,985.293596,967.906354,-17.387242,0.075,0.422745,50.0,21
-1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,lance-reventlow,Lance Reventlow,scarab,DNS,,,2,19,985.293596,967.906354,-17.387242,0.075,0.422745,50.0,21
-1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,masten-gregory,Masten Gregory,cooper,DNS,,,2,20,1049.116701,1027.034174,-22.082528,0.075,0.516651,50.0,21
-1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,roy-salvadori,Roy Salvadori,aston-martin,DNS,,,2,21,1045.96412,1024.114678,-21.849442,0.075,0.511989,50.0,21
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,88,jack-brabham,Jack Brabham,cooper,1,75,2,0,1,1070.439527,1093.035818,22.596291,1.0,0.548074,50.0,21
+1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,88,innes-ireland,Innes Ireland,lotus,2,75,3,0,2,1005.478189,1030.36813,24.889941,0.95,0.452201,50.0,21
+1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,88,graham-hill,Graham Hill,brm,3,75,5,0,3,955.875076,981.839521,25.964444,0.9,0.380711,50.0,21
+1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,88,stirling-moss,Stirling Moss,lotus,4,75,1,0,4,1145.134126,1154.92821,9.794084,0.85,0.654118,50.0,21
+1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,88,wolfgang-von-trips,Wolfgang von Trips,ferrari,5,74,15,0,5,1054.17569,1067.969422,13.793732,0.8,0.524125,50.0,21
+1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,88,richie-ginther,Richie Ginther,ferrari,6,74,12,0,6,1016.543596,1030.619248,14.075652,0.75,0.468487,50.0,21
+1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,88,henry-taylor,Henry Taylor,cooper,7,70,14,0,7,1008.615555,1020.775008,12.159453,0.7,0.456811,50.0,21
+1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,88,carel-godin-de-beaufort,Carel Godin de Beaufort,cooper,8,69,17,0,8,991.688417,1002.586718,10.898301,0.65,0.432034,50.0,21
+1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,88,alan-stacey,Alan Stacey,lotus,DNF,57,8,1,9,975.10305,984.700895,9.597845,0.6,0.408043,50.0,21
+1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,88,jo-bonnier,Jo Bonnier,brm,DNF,54,4,1,10,1029.431077,1031.304771,1.873693,0.525,0.487526,50.0,21
+1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,88,phil-hill,Phil Hill,ferrari,DNF,54,13,1,11,1113.33696,1109.08474,-4.25222,0.525,0.610044,50.0,21
+1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,88,jim-clark,Jim Clark,lotus,DNF,42,11,1,12,1000.0,1000.291518,0.291518,0.45,0.44417,50.0,21
+1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,88,maurice-trintignant,Maurice Trintignant,cooper,DNF,39,16,1,13,1112.317025,1101.88703,-10.429996,0.4,0.6086,50.0,21
+1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,88,dan-gurney,Dan Gurney,brm,DNF,11,6,1,14,1061.588121,1052.33518,-9.252941,0.35,0.535059,50.0,21
+1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,88,chris-bristow,Chris Bristow,cooper,DNF,9,7,1,15,1010.501556,1002.522295,-7.979261,0.3,0.459585,50.0,21
+1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,88,bruce-mclaren,Bruce McLaren,cooper,DNF,8,9,1,16,1107.113457,1089.553237,-17.56022,0.25,0.601204,50.0,21
+1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,88,tony-brooks,Tony Brooks,cooper,DNF,4,10,1,17,1075.21811,1057.464249,-17.753862,0.2,0.555077,50.0,21
+1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,88,chuck-daigh,Chuck Daigh,scarab,DNS,,,2,18,985.293596,967.906354,-17.387242,0.075,0.422745,50.0,21
+1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,88,lance-reventlow,Lance Reventlow,scarab,DNS,,,2,19,985.293596,967.906354,-17.387242,0.075,0.422745,50.0,21
+1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,88,masten-gregory,Masten Gregory,cooper,DNS,,,2,20,1049.116701,1027.034174,-22.082528,0.075,0.516651,50.0,21
+1960,4,1960-06-06,netherlands,Grote Prijs van Nederland 1960,88,roy-salvadori,Roy Salvadori,aston-martin,DNS,,,2,21,1045.96412,1024.114678,-21.849442,0.075,0.511989,50.0,21

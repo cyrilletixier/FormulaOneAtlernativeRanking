@@ -1,26 +1,26 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,jody-scheckter,Jody Scheckter,ferrari,1,76,1,0,1,1253.005744,1267.802312,14.796568,1.0,0.704069,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,clay-regazzoni,Clay Regazzoni,williams,2,76,16,0,2,1030.246996,1058.135594,27.888598,0.958333,0.400561,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,carlos-reutemann,Carlos Reutemann,lotus,3,76,11,0,3,1263.502023,1273.505077,10.003053,0.916667,0.716606,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,john-watson,John Watson,mclaren,4,76,14,0,4,1149.319783,1164.677992,15.358209,0.875,0.567836,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,patrick-depailler,Patrick Depailler,ligier,5,74,3,0,5,1181.402799,1192.471621,11.068823,0.833333,0.611957,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,jochen-mass,Jochen Mass,arrows,6,69,8,0,6,1098.094642,1112.89703,14.802389,0.791667,0.495619,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,nelson-piquet,Nelson Piquet,brabham,7,68,18,0,7,1025.537428,1043.331201,17.793773,0.75,0.394125,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,jean-pierre-jabouille,Jean-Pierre Jabouille,renault,8,68,20,0,8,999.960688,1017.389306,17.428617,0.708333,0.359761,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,jacques-laffite,Jacques Laffite,ligier,DNF,55,5,1,9,1195.299043,1197.101637,1.802595,0.666667,0.630615,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,gilles-villeneuve,Gilles Villeneuve,ferrari,DNF,54,2,1,10,1204.248465,1203.375703,-0.872762,0.625,0.642455,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,alan-jones,Alan Jones,williams,DNF,43,9,1,11,1142.585112,1143.830315,1.245203,0.583333,0.558429,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,jean-pierre-jarier,Jean-Pierre Jarier,tyrrell,DNF,34,6,1,12,1078.370431,1082.069048,3.698617,0.541667,0.467694,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,hans-joachim-stuck,Hans-Joachim Stuck,ats-wheels,DNF,30,12,1,13,1017.750999,1023.573394,5.822395,0.5,0.383552,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,didier-pironi,Didier Pironi,tyrrell,DNF,21,7,1,14,1101.136697,1096.973488,-4.16321,0.416667,0.499931,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,mario-andretti,Mario Andretti,lotus,DNF,21,13,1,15,1211.752505,1199.972443,-11.780063,0.416667,0.652268,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,niki-lauda,Niki Lauda,brabham,DNF,21,4,1,16,1138.204867,1131.423666,-6.781201,0.416667,0.552291,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,emerson-fittipaldi,Emerson Fittipaldi,fittipaldi,DNF,17,17,1,17,1146.593338,1135.058375,-11.534963,0.333333,0.564033,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,rene-arnoux,René Arnoux,renault,DNF,8,19,1,18,1014.985673,1010.578031,-4.407642,0.291667,0.37982,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,james-hunt,James Hunt,wolf,DNF,4,10,1,19,1091.975051,1079.086067,-12.888984,0.229167,0.486946,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,riccardo-patrese,Riccardo Patrese,arrows,DNF,4,15,1,20,1123.431934,1108.315703,-15.116231,0.229167,0.531491,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,gianfranco-brancatelli,Gianfranco Brancatelli,merzario,DNPQ,,,1,21,967.662061,960.090104,-7.571957,0.166667,0.318106,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,derek-daly,Derek Daly,ensign,DNQ,,,2,22,977.979724,964.545972,-13.433753,0.0625,0.331175,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,elio-de-angelis,Elio de Angelis,shadow,DNQ,,,2,23,1023.449536,1007.010494,-16.439041,0.0625,0.391281,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,jan-lammers,Jan Lammers,shadow,DNQ,,,2,24,1023.482381,1007.041106,-16.441276,0.0625,0.391326,50.0,25
-1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,patrick-tambay,Patrick Tambay,mclaren,DNQ,,,2,25,1078.625806,1058.348049,-20.277757,0.0625,0.468055,50.0,25
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,jody-scheckter,Jody Scheckter,ferrari,1,76,1,0,1,1253.005744,1267.802312,14.796568,1.0,0.704069,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,clay-regazzoni,Clay Regazzoni,williams,2,76,16,0,2,1030.246996,1058.135594,27.888598,0.958333,0.400561,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,carlos-reutemann,Carlos Reutemann,lotus,3,76,11,0,3,1263.502023,1273.505077,10.003053,0.916667,0.716606,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,john-watson,John Watson,mclaren,4,76,14,0,4,1149.319783,1164.677992,15.358209,0.875,0.567836,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,patrick-depailler,Patrick Depailler,ligier,5,74,3,0,5,1181.402799,1192.471621,11.068823,0.833333,0.611957,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,jochen-mass,Jochen Mass,arrows,6,69,8,0,6,1098.094642,1112.89703,14.802389,0.791667,0.495619,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,nelson-piquet,Nelson Piquet,brabham,7,68,18,0,7,1025.537428,1043.331201,17.793773,0.75,0.394125,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,jean-pierre-jabouille,Jean-Pierre Jabouille,renault,8,68,20,0,8,999.960688,1017.389306,17.428617,0.708333,0.359761,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,jacques-laffite,Jacques Laffite,ligier,DNF,55,5,1,9,1195.299043,1197.101637,1.802595,0.666667,0.630615,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,gilles-villeneuve,Gilles Villeneuve,ferrari,DNF,54,2,1,10,1204.248465,1203.375703,-0.872762,0.625,0.642455,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,alan-jones,Alan Jones,williams,DNF,43,9,1,11,1142.585112,1143.830315,1.245203,0.583333,0.558429,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,jean-pierre-jarier,Jean-Pierre Jarier,tyrrell,DNF,34,6,1,12,1078.370431,1082.069048,3.698617,0.541667,0.467694,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,hans-joachim-stuck,Hans-Joachim Stuck,ats-wheels,DNF,30,12,1,13,1017.750999,1023.573394,5.822395,0.5,0.383552,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,didier-pironi,Didier Pironi,tyrrell,DNF,21,7,1,14,1101.136697,1096.973488,-4.16321,0.416667,0.499931,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,mario-andretti,Mario Andretti,lotus,DNF,21,13,1,15,1211.752505,1199.972443,-11.780063,0.416667,0.652268,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,niki-lauda,Niki Lauda,brabham,DNF,21,4,1,16,1138.204867,1131.423666,-6.781201,0.416667,0.552291,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,emerson-fittipaldi,Emerson Fittipaldi,fittipaldi,DNF,17,17,1,17,1146.593338,1135.058375,-11.534963,0.333333,0.564033,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,rene-arnoux,René Arnoux,renault,DNF,8,19,1,18,1014.985673,1010.578031,-4.407642,0.291667,0.37982,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,james-hunt,James Hunt,wolf,DNF,4,10,1,19,1091.975051,1079.086067,-12.888984,0.229167,0.486946,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,riccardo-patrese,Riccardo Patrese,arrows,DNF,4,15,1,20,1123.431934,1108.315703,-15.116231,0.229167,0.531491,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,gianfranco-brancatelli,Gianfranco Brancatelli,merzario,DNPQ,,,1,21,967.662061,960.090104,-7.571957,0.166667,0.318106,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,derek-daly,Derek Daly,ensign,DNQ,,,2,22,977.979724,964.545972,-13.433753,0.0625,0.331175,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,elio-de-angelis,Elio de Angelis,shadow,DNQ,,,2,23,1023.449536,1007.010494,-16.439041,0.0625,0.391281,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,jan-lammers,Jan Lammers,shadow,DNQ,,,2,24,1023.482381,1007.041106,-16.441276,0.0625,0.391326,50.0,25
+1979,7,1979-05-27,monaco,Grand Prix de Monaco 1979,320,patrick-tambay,Patrick Tambay,mclaren,DNQ,,,2,25,1078.625806,1058.348049,-20.277757,0.0625,0.468055,50.0,25

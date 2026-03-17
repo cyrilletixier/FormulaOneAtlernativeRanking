@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,max-verstappen,Max Verstappen,red-bull,1,71,2,0,1,1362.912816,1374.850894,11.938079,1.0,0.761238,50.0,20
-2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,charles-leclerc,Charles Leclerc,ferrari,2,71,1,0,2,1153.233506,1174.073163,20.839657,0.947368,0.530575,50.0,20
-2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,valtteri-bottas,Valtteri Bottas,mercedes,3,71,3,0,3,1435.207584,1438.868858,3.661274,0.894737,0.821511,50.0,20
-2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,sebastian-vettel,Sebastian Vettel,ferrari,4,71,9,0,4,1441.729011,1442.512436,0.783425,0.842105,0.826437,50.0,20
-2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,lewis-hamilton,Lewis Hamilton,mercedes,5,71,4,0,5,1574.70677,1568.710436,-5.996334,0.789474,0.9094,50.0,20
-2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,lando-norris,Lando Norris,mclaren,6,70,5,0,6,1009.56063,1028.971664,19.411034,0.736842,0.348621,50.0,20
-2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,pierre-gasly,Pierre Gasly,red-bull,7,70,8,0,7,1091.894585,1103.47695,11.582365,0.684211,0.452563,50.0,20
-2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,8,70,19,0,8,1109.432038,1117.260441,7.828402,0.631579,0.475011,50.0,20
-2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,9,70,6,0,9,1231.313067,1229.009272,-2.303795,0.578947,0.625023,50.0,20
-2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,10,70,7,0,10,974.988365,985.95043,10.962066,0.526316,0.307074,50.0,20
-2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,sergio-perez,Sergio Pérez,racing-point,11,70,13,0,11,1132.478415,1130.943551,-1.534864,0.473684,0.504381,50.0,20
-2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,daniel-ricciardo,Daniel Ricciardo,renault,12,70,12,0,12,1139.517048,1134.90476,-4.612288,0.421053,0.513298,50.0,20
-2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,nico-hulkenberg,Nico Hülkenberg,renault,13,70,15,0,13,1055.391974,1053.51541,-1.876565,0.368421,0.405952,50.0,20
-2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,lance-stroll,Lance Stroll,racing-point,14,70,14,0,14,1004.458993,1003.129462,-1.329531,0.315789,0.34238,50.0,20
-2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,alexander-albon,Alexander Albon,toro-rosso,15,70,18,0,15,1022.064985,1017.020055,-5.04493,0.263158,0.364056,50.0,20
-2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,romain-grosjean,Romain Grosjean,haas,16,70,11,0,16,1007.966668,1001.159599,-6.807069,0.210526,0.346668,50.0,20
-2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,daniil-kvyat,Daniil Kvyat,toro-rosso,17,70,16,0,17,1036.863404,1025.631001,-11.232403,0.157895,0.382543,50.0,20
-2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,george-russell,George Russell,williams,18,69,PL,0,18,955.704033,946.728468,-8.975565,0.105263,0.284774,50.0,20
-2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,kevin-magnussen,Kevin Magnussen,haas,19,69,10,0,19,1046.009472,1028.937706,-17.071766,0.052632,0.394067,50.0,20
-2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,robert-kubica,Robert Kubica,williams,20,68,17,0,20,1054.187851,1033.966658,-20.221193,0.0,0.404424,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,1006,max-verstappen,Max Verstappen,red-bull,1,71,2,0,1,1362.912816,1374.850894,11.938079,1.0,0.761238,50.0,20
+2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,1006,charles-leclerc,Charles Leclerc,ferrari,2,71,1,0,2,1153.233506,1174.073163,20.839657,0.947368,0.530575,50.0,20
+2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,1006,valtteri-bottas,Valtteri Bottas,mercedes,3,71,3,0,3,1435.207584,1438.868858,3.661274,0.894737,0.821511,50.0,20
+2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,1006,sebastian-vettel,Sebastian Vettel,ferrari,4,71,9,0,4,1441.729011,1442.512436,0.783425,0.842105,0.826437,50.0,20
+2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,1006,lewis-hamilton,Lewis Hamilton,mercedes,5,71,4,0,5,1574.70677,1568.710436,-5.996334,0.789474,0.9094,50.0,20
+2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,1006,lando-norris,Lando Norris,mclaren,6,70,5,0,6,1009.56063,1028.971664,19.411034,0.736842,0.348621,50.0,20
+2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,1006,pierre-gasly,Pierre Gasly,red-bull,7,70,8,0,7,1091.894585,1103.47695,11.582365,0.684211,0.452563,50.0,20
+2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,1006,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,8,70,19,0,8,1109.432038,1117.260441,7.828402,0.631579,0.475011,50.0,20
+2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,1006,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,9,70,6,0,9,1231.313067,1229.009272,-2.303795,0.578947,0.625023,50.0,20
+2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,1006,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,10,70,7,0,10,974.988365,985.95043,10.962066,0.526316,0.307074,50.0,20
+2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,1006,sergio-perez,Sergio Pérez,racing-point,11,70,13,0,11,1132.478415,1130.943551,-1.534864,0.473684,0.504381,50.0,20
+2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,1006,daniel-ricciardo,Daniel Ricciardo,renault,12,70,12,0,12,1139.517048,1134.90476,-4.612288,0.421053,0.513298,50.0,20
+2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,1006,nico-hulkenberg,Nico Hülkenberg,renault,13,70,15,0,13,1055.391974,1053.51541,-1.876565,0.368421,0.405952,50.0,20
+2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,1006,lance-stroll,Lance Stroll,racing-point,14,70,14,0,14,1004.458993,1003.129462,-1.329531,0.315789,0.34238,50.0,20
+2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,1006,alexander-albon,Alexander Albon,toro-rosso,15,70,18,0,15,1022.064985,1017.020055,-5.04493,0.263158,0.364056,50.0,20
+2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,1006,romain-grosjean,Romain Grosjean,haas,16,70,11,0,16,1007.966668,1001.159599,-6.807069,0.210526,0.346668,50.0,20
+2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,1006,daniil-kvyat,Daniil Kvyat,toro-rosso,17,70,16,0,17,1036.863404,1025.631001,-11.232403,0.157895,0.382543,50.0,20
+2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,1006,george-russell,George Russell,williams,18,69,PL,0,18,955.704033,946.728468,-8.975565,0.105263,0.284774,50.0,20
+2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,1006,kevin-magnussen,Kevin Magnussen,haas,19,69,10,0,19,1046.009472,1028.937706,-17.071766,0.052632,0.394067,50.0,20
+2019,9,2019-06-30,austria,Formula 1 myWorld Grosser Preis von Österreich 2019,1006,robert-kubica,Robert Kubica,williams,20,68,17,0,20,1054.187851,1033.966658,-20.221193,0.0,0.404424,50.0,20

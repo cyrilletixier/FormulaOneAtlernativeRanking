@@ -1,3 +1,3 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1952-08-03,1952,6,germany,nacke,Nacke,DNF,5,34,1000.0,1001.095695,1.095695,0.515152,0.493238,50.0
-1953-08-02,1953,7,germany,afm,AFM,DNF,2,35,1001.095695,986.089155,-15.00654,0.176471,0.476601,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1952-08-03,1952,6,germany,21,nacke,Nacke,DNF,5,34,1000.0,1001.095695,1.095695,0.515152,0.493238,50.0
+1953-08-02,1953,7,germany,30,afm,AFM,DNF,2,35,1001.095695,986.089155,-15.00654,0.176471,0.476601,50.0

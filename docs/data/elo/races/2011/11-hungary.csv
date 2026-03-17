@@ -1,25 +1,25 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,jenson-button,Jenson Button,mclaren,1,70,3,0,1,1265.691076,1280.405892,14.714816,1.0,0.705704,50.0,24
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,sebastian-vettel,Sebastian Vettel,red-bull,2,70,1,0,2,1386.880019,1393.560255,6.680236,0.956522,0.822917,50.0,24
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,fernando-alonso,Fernando Alonso,ferrari,3,70,5,0,3,1321.213495,1328.689971,7.476476,0.913043,0.763514,50.0,24
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,lewis-hamilton,Lewis Hamilton,mclaren,4,70,2,0,4,1296.992186,1303.515165,6.522979,0.869565,0.739106,50.0,24
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,mark-webber,Mark Webber,red-bull,5,70,6,0,5,1340.547876,1342.749721,2.201845,0.826087,0.78205,50.0,24
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,felipe-massa,Felipe Massa,ferrari,6,70,4,0,6,1217.757386,1224.343314,6.585927,0.782609,0.65089,50.0,24
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,paul-di-resta,Paul di Resta,force-india,7,69,11,0,7,1021.657563,1038.506527,16.848964,0.73913,0.402151,50.0,24
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,sebastien-buemi,Sébastien Buemi,toro-rosso,8,69,23,0,8,1044.59216,1057.801878,13.209718,0.695652,0.431458,50.0,24
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,nico-rosberg,Nico Rosberg,mercedes,9,69,7,0,9,1210.07477,1210.596469,0.521699,0.652174,0.64174,50.0,24
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,jaime-alguersuari,Jaime Alguersuari,toro-rosso,10,69,16,0,10,1049.549351,1058.092218,8.542867,0.608696,0.437838,50.0,24
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,kamui-kobayashi,Kamui Kobayashi,sauber,11,69,13,0,11,1080.625748,1084.983917,4.358169,0.565217,0.478054,50.0,24
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,vitaly-petrov,Vitaly Petrov,renault,12,69,12,0,12,1095.457501,1096.679587,1.222086,0.521739,0.497297,50.0,24
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,rubens-barrichello,Rubens Barrichello,williams,13,68,15,0,13,1087.410128,1086.980309,-0.42982,0.478261,0.486857,50.0,24
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,adrian-sutil,Adrian Sutil,force-india,14,68,8,0,14,1087.105829,1084.521839,-2.58399,0.434783,0.486462,50.0,24
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,sergio-perez,Sergio Pérez,sauber,15,68,10,0,15,1011.459121,1011.561252,0.102131,0.391304,0.389262,50.0,24
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,pastor-maldonado,Pastor Maldonado,williams,16,68,17,0,16,964.798221,965.595327,0.797106,0.347826,0.331884,50.0,24
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,timo-glock,Timo Glock,virgin,17,66,20,0,17,918.390842,919.691868,1.301027,0.304348,0.278327,50.0,24
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,daniel-ricciardo,Daniel Ricciardo,hrt,18,66,22,0,18,984.854249,980.088581,-4.765668,0.26087,0.356183,50.0,24
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,jerome-dambrosio,Jérôme d'Ambrosio,virgin,19,65,24,0,19,955.837357,950.645208,-5.192149,0.217391,0.321234,50.0,24
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,vitantonio-liuzzi,Vitantonio Liuzzi,hrt,20,65,21,0,20,924.153439,918.611602,-5.541836,0.173913,0.28475,50.0,24
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,heikki-kovalainen,Heikki Kovalainen,lotus-racing,DNF,55,18,1,21,936.710309,928.283097,-8.427212,0.130435,0.298979,50.0,24
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,michael-schumacher,Michael Schumacher,mercedes,DNF,26,9,1,22,1178.978626,1153.134779,-25.843847,0.086957,0.603833,50.0,24
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,nick-heidfeld,Nick Heidfeld,renault,DNF,23,14,1,23,1124.057761,1099.517706,-24.540055,0.043478,0.534279,50.0,24
-2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,jarno-trulli,Jarno Trulli,lotus-racing,DNF,17,19,1,24,915.58857,901.827101,-13.761468,0.0,0.275229,50.0,24
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,jenson-button,Jenson Button,mclaren,1,70,3,0,1,1265.691076,1280.405892,14.714816,1.0,0.705704,50.0,24
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,sebastian-vettel,Sebastian Vettel,red-bull,2,70,1,0,2,1386.880019,1393.560255,6.680236,0.956522,0.822917,50.0,24
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,fernando-alonso,Fernando Alonso,ferrari,3,70,5,0,3,1321.213495,1328.689971,7.476476,0.913043,0.763514,50.0,24
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,lewis-hamilton,Lewis Hamilton,mclaren,4,70,2,0,4,1296.992186,1303.515165,6.522979,0.869565,0.739106,50.0,24
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,mark-webber,Mark Webber,red-bull,5,70,6,0,5,1340.547876,1342.749721,2.201845,0.826087,0.78205,50.0,24
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,felipe-massa,Felipe Massa,ferrari,6,70,4,0,6,1217.757386,1224.343314,6.585927,0.782609,0.65089,50.0,24
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,paul-di-resta,Paul di Resta,force-india,7,69,11,0,7,1021.657563,1038.506527,16.848964,0.73913,0.402151,50.0,24
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,sebastien-buemi,Sébastien Buemi,toro-rosso,8,69,23,0,8,1044.59216,1057.801878,13.209718,0.695652,0.431458,50.0,24
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,nico-rosberg,Nico Rosberg,mercedes,9,69,7,0,9,1210.07477,1210.596469,0.521699,0.652174,0.64174,50.0,24
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,jaime-alguersuari,Jaime Alguersuari,toro-rosso,10,69,16,0,10,1049.549351,1058.092218,8.542867,0.608696,0.437838,50.0,24
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,kamui-kobayashi,Kamui Kobayashi,sauber,11,69,13,0,11,1080.625748,1084.983917,4.358169,0.565217,0.478054,50.0,24
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,vitaly-petrov,Vitaly Petrov,renault,12,69,12,0,12,1095.457501,1096.679587,1.222086,0.521739,0.497297,50.0,24
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,rubens-barrichello,Rubens Barrichello,williams,13,68,15,0,13,1087.410128,1086.980309,-0.42982,0.478261,0.486857,50.0,24
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,adrian-sutil,Adrian Sutil,force-india,14,68,8,0,14,1087.105829,1084.521839,-2.58399,0.434783,0.486462,50.0,24
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,sergio-perez,Sergio Pérez,sauber,15,68,10,0,15,1011.459121,1011.561252,0.102131,0.391304,0.389262,50.0,24
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,pastor-maldonado,Pastor Maldonado,williams,16,68,17,0,16,964.798221,965.595327,0.797106,0.347826,0.331884,50.0,24
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,timo-glock,Timo Glock,virgin,17,66,20,0,17,918.390842,919.691868,1.301027,0.304348,0.278327,50.0,24
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,daniel-ricciardo,Daniel Ricciardo,hrt,18,66,22,0,18,984.854249,980.088581,-4.765668,0.26087,0.356183,50.0,24
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,jerome-dambrosio,Jérôme d'Ambrosio,virgin,19,65,24,0,19,955.837357,950.645208,-5.192149,0.217391,0.321234,50.0,24
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,vitantonio-liuzzi,Vitantonio Liuzzi,hrt,20,65,21,0,20,924.153439,918.611602,-5.541836,0.173913,0.28475,50.0,24
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,heikki-kovalainen,Heikki Kovalainen,lotus-racing,DNF,55,18,1,21,936.710309,928.283097,-8.427212,0.130435,0.298979,50.0,24
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,michael-schumacher,Michael Schumacher,mercedes,DNF,26,9,1,22,1178.978626,1153.134779,-25.843847,0.086957,0.603833,50.0,24
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,nick-heidfeld,Nick Heidfeld,renault,DNF,23,14,1,23,1124.057761,1099.517706,-24.540055,0.043478,0.534279,50.0,24
+2011,11,2011-07-31,hungary,Formula 1 Eni Magyar Nagydíj 2011,850,jarno-trulli,Jarno Trulli,lotus-racing,DNF,17,19,1,24,915.58857,901.827101,-13.761468,0.0,0.275229,50.0,24

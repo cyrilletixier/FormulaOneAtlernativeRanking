@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,1,44,2,0,1,1396.097722,1405.877183,9.779461,1.0,0.804411,50.0,20
-2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,2,44,1,0,2,1508.202263,1511.249393,3.047131,0.947368,0.886426,50.0,20
-2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,max-verstappen,Max Verstappen,red-bull,3,44,7,0,3,1216.659432,1230.529249,13.869817,0.894737,0.617341,50.0,20
-2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,valtteri-bottas,Valtteri Bottas,mercedes,4,44,17,0,4,1347.6641,1351.74844,4.08434,0.842105,0.760418,50.0,20
-2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,sergio-perez,Sergio Pérez,force-india,5,44,4,0,5,1159.638783,1171.786634,12.147851,0.789474,0.546517,50.0,20
-2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,esteban-ocon,Esteban Ocon,force-india,6,44,3,0,6,1116.433509,1128.724675,12.291166,0.736842,0.491019,50.0,20
-2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,romain-grosjean,Romain Grosjean,haas,7,44,5,0,7,1050.048663,1063.991082,13.94242,0.684211,0.405362,50.0,20
-2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,kevin-magnussen,Kevin Magnussen,haas,8,44,9,0,8,1106.781818,1114.434507,7.652689,0.631579,0.478525,50.0,20
-2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,pierre-gasly,Pierre Gasly,toro-rosso,9,44,10,0,9,1022.07853,1032.525229,10.4467,0.578947,0.370013,50.0,20
-2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,10,43,13,0,10,973.133443,983.924198,10.790755,0.526316,0.310501,50.0,20
-2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,renault,11,43,19,0,11,1098.438414,1098.736709,0.298295,0.473684,0.467718,50.0,20
-2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,sergey-sirotkin,Sergey Sirotkin,williams,12,43,15,0,12,942.177578,949.481659,7.30408,0.421053,0.274971,50.0,20
-2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,lance-stroll,Lance Stroll,williams,13,43,16,0,13,990.040464,991.929114,1.88865,0.368421,0.330648,50.0,20
-2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,brendon-hartley,Brendon Hartley,toro-rosso,14,43,11,0,14,950.111579,951.706229,1.594651,0.315789,0.283896,50.0,20
-2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,stoffel-vandoorne,Stoffel Vandoorne,mclaren,15,43,20,0,15,1012.461317,1007.716619,-4.744698,0.263158,0.358052,50.0,20
-2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,DNF,28,8,1,16,1226.176647,1205.264905,-20.911742,0.210526,0.628761,50.0,20
-2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,8,6,1,17,1323.055075,1294.144278,-28.910798,0.157895,0.736111,50.0,20
-2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,charles-leclerc,Charles Leclerc,sauber,DNF,0,12,1,18,993.653441,979.534315,-14.119126,0.052632,0.335014,50.0,20
-2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,fernando-alonso,Fernando Alonso,mclaren,DNF,0,14,1,19,1078.61422,1059.142449,-19.47177,0.052632,0.442067,50.0,20
-2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,nico-hulkenberg,Nico Hülkenberg,renault,DNF,0,18,1,20,1101.920741,1080.94087,-20.979871,0.052632,0.472229,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,989,sebastian-vettel,Sebastian Vettel,ferrari,1,44,2,0,1,1396.097722,1405.877183,9.779461,1.0,0.804411,50.0,20
+2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,989,lewis-hamilton,Lewis Hamilton,mercedes,2,44,1,0,2,1508.202263,1511.249393,3.047131,0.947368,0.886426,50.0,20
+2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,989,max-verstappen,Max Verstappen,red-bull,3,44,7,0,3,1216.659432,1230.529249,13.869817,0.894737,0.617341,50.0,20
+2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,989,valtteri-bottas,Valtteri Bottas,mercedes,4,44,17,0,4,1347.6641,1351.74844,4.08434,0.842105,0.760418,50.0,20
+2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,989,sergio-perez,Sergio Pérez,force-india,5,44,4,0,5,1159.638783,1171.786634,12.147851,0.789474,0.546517,50.0,20
+2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,989,esteban-ocon,Esteban Ocon,force-india,6,44,3,0,6,1116.433509,1128.724675,12.291166,0.736842,0.491019,50.0,20
+2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,989,romain-grosjean,Romain Grosjean,haas,7,44,5,0,7,1050.048663,1063.991082,13.94242,0.684211,0.405362,50.0,20
+2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,989,kevin-magnussen,Kevin Magnussen,haas,8,44,9,0,8,1106.781818,1114.434507,7.652689,0.631579,0.478525,50.0,20
+2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,989,pierre-gasly,Pierre Gasly,toro-rosso,9,44,10,0,9,1022.07853,1032.525229,10.4467,0.578947,0.370013,50.0,20
+2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,989,marcus-ericsson,Marcus Ericsson,sauber,10,43,13,0,10,973.133443,983.924198,10.790755,0.526316,0.310501,50.0,20
+2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,989,carlos-sainz-jr,Carlos Sainz Jr.,renault,11,43,19,0,11,1098.438414,1098.736709,0.298295,0.473684,0.467718,50.0,20
+2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,989,sergey-sirotkin,Sergey Sirotkin,williams,12,43,15,0,12,942.177578,949.481659,7.30408,0.421053,0.274971,50.0,20
+2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,989,lance-stroll,Lance Stroll,williams,13,43,16,0,13,990.040464,991.929114,1.88865,0.368421,0.330648,50.0,20
+2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,989,brendon-hartley,Brendon Hartley,toro-rosso,14,43,11,0,14,950.111579,951.706229,1.594651,0.315789,0.283896,50.0,20
+2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,989,stoffel-vandoorne,Stoffel Vandoorne,mclaren,15,43,20,0,15,1012.461317,1007.716619,-4.744698,0.263158,0.358052,50.0,20
+2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,989,daniel-ricciardo,Daniel Ricciardo,red-bull,DNF,28,8,1,16,1226.176647,1205.264905,-20.911742,0.210526,0.628761,50.0,20
+2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,989,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,8,6,1,17,1323.055075,1294.144278,-28.910798,0.157895,0.736111,50.0,20
+2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,989,charles-leclerc,Charles Leclerc,sauber,DNF,0,12,1,18,993.653441,979.534315,-14.119126,0.052632,0.335014,50.0,20
+2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,989,fernando-alonso,Fernando Alonso,mclaren,DNF,0,14,1,19,1078.61422,1059.142449,-19.47177,0.052632,0.442067,50.0,20
+2018,13,2018-08-26,belgium,Formula 1 2018 Johnnie Walker Belgian Grand Prix,989,nico-hulkenberg,Nico Hülkenberg,renault,DNF,0,18,1,20,1101.920741,1080.94087,-20.979871,0.052632,0.472229,50.0,20

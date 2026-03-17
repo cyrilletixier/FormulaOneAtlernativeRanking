@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,oscar-piastri,Oscar Piastri,mclaren,1,57,1,0,1,1345.906921,1359.470396,13.563475,1.0,0.728731,50.0,20
-2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,george-russell,George Russell,mercedes,2,57,3,0,2,1344.634318,1355.629853,10.995536,0.947368,0.727458,50.0,20
-2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,lando-norris,Lando Norris,mclaren,3,57,6,0,3,1424.778414,1429.441054,4.66264,0.894737,0.801484,50.0,20
-2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,charles-leclerc,Charles Leclerc,ferrari,4,57,2,0,4,1362.047475,1366.922294,4.874818,0.842105,0.744609,50.0,20
-2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,lewis-hamilton,Lewis Hamilton,ferrari,5,57,9,0,5,1281.068694,1287.531532,6.462838,0.789474,0.660217,50.0,20
-2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,max-verstappen,Max Verstappen,red-bull,6,57,7,0,6,1547.304877,1539.673272,-7.631605,0.736842,0.889474,50.0,20
-2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,pierre-gasly,Pierre Gasly,alpine,7,57,4,0,7,1075.756052,1089.44752,13.691468,0.684211,0.410381,50.0,20
-2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,esteban-ocon,Esteban Ocon,haas,8,57,14,0,8,1044.456159,1057.456722,13.000563,0.631579,0.371568,50.0,20
-2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,yuki-tsunoda,Yuki Tsunoda,red-bull,9,57,10,0,9,1029.282175,1040.576526,11.294351,0.578947,0.35306,50.0,20
-2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,oliver-bearman,Oliver Bearman,haas,10,57,20,0,10,1050.891435,1058.232946,7.341511,0.526316,0.379486,50.0,20
-2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,kimi-antonelli,Kimi Antonelli,mercedes,11,57,5,0,11,1063.65425,1067.573918,3.919668,0.473684,0.395291,50.0,20
-2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,alexander-albon,Alexander Albon,williams,12,57,15,0,12,1043.692355,1046.213463,2.521108,0.421053,0.37063,50.0,20
-2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,isack-hadjar,Isack Hadjar,racing-bulls,13,57,12,0,13,1011.090414,1012.950087,1.859673,0.368421,0.331228,50.0,20
-2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,jack-doohan,Jack Doohan,alpine,14,57,11,0,14,985.318337,986.052493,0.734157,0.315789,0.301106,50.0,20
-2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,fernando-alonso,Fernando Alonso,aston-martin,15,57,13,0,15,1134.524616,1123.46744,-11.057176,0.263158,0.484301,50.0,20
-2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,liam-lawson,Liam Lawson,racing-bulls,16,57,17,0,16,1008.315485,1002.445002,-5.870483,0.210526,0.327936,50.0,20
-2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,lance-stroll,Lance Stroll,aston-martin,17,57,19,0,17,1037.451739,1027.196753,-10.254986,0.157895,0.362994,50.0,20
-2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,18,57,18,0,18,981.715851,972.129914,-9.585937,0.105263,0.296982,50.0,20
-2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,carlos-sainz-jr,Carlos Sainz Jr.,williams,DNF,45,8,1,19,1275.647871,1245.570942,-30.076929,0.052632,0.65417,50.0,20
-2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,nico-hulkenberg,Nico Hülkenberg,kick-sauber,DSQ,,16,2,20,1074.566261,1054.12157,-20.44469,0.0,0.408894,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,1129,oscar-piastri,Oscar Piastri,mclaren,1,57,1,0,1,1345.906921,1359.470396,13.563475,1.0,0.728731,50.0,20
+2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,1129,george-russell,George Russell,mercedes,2,57,3,0,2,1344.634318,1355.629853,10.995536,0.947368,0.727458,50.0,20
+2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,1129,lando-norris,Lando Norris,mclaren,3,57,6,0,3,1424.778414,1429.441054,4.66264,0.894737,0.801484,50.0,20
+2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,1129,charles-leclerc,Charles Leclerc,ferrari,4,57,2,0,4,1362.047475,1366.922294,4.874818,0.842105,0.744609,50.0,20
+2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,1129,lewis-hamilton,Lewis Hamilton,ferrari,5,57,9,0,5,1281.068694,1287.531532,6.462838,0.789474,0.660217,50.0,20
+2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,1129,max-verstappen,Max Verstappen,red-bull,6,57,7,0,6,1547.304877,1539.673272,-7.631605,0.736842,0.889474,50.0,20
+2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,1129,pierre-gasly,Pierre Gasly,alpine,7,57,4,0,7,1075.756052,1089.44752,13.691468,0.684211,0.410381,50.0,20
+2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,1129,esteban-ocon,Esteban Ocon,haas,8,57,14,0,8,1044.456159,1057.456722,13.000563,0.631579,0.371568,50.0,20
+2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,1129,yuki-tsunoda,Yuki Tsunoda,red-bull,9,57,10,0,9,1029.282175,1040.576526,11.294351,0.578947,0.35306,50.0,20
+2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,1129,oliver-bearman,Oliver Bearman,haas,10,57,20,0,10,1050.891435,1058.232946,7.341511,0.526316,0.379486,50.0,20
+2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,1129,kimi-antonelli,Kimi Antonelli,mercedes,11,57,5,0,11,1063.65425,1067.573918,3.919668,0.473684,0.395291,50.0,20
+2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,1129,alexander-albon,Alexander Albon,williams,12,57,15,0,12,1043.692355,1046.213463,2.521108,0.421053,0.37063,50.0,20
+2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,1129,isack-hadjar,Isack Hadjar,racing-bulls,13,57,12,0,13,1011.090414,1012.950087,1.859673,0.368421,0.331228,50.0,20
+2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,1129,jack-doohan,Jack Doohan,alpine,14,57,11,0,14,985.318337,986.052493,0.734157,0.315789,0.301106,50.0,20
+2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,1129,fernando-alonso,Fernando Alonso,aston-martin,15,57,13,0,15,1134.524616,1123.46744,-11.057176,0.263158,0.484301,50.0,20
+2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,1129,liam-lawson,Liam Lawson,racing-bulls,16,57,17,0,16,1008.315485,1002.445002,-5.870483,0.210526,0.327936,50.0,20
+2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,1129,lance-stroll,Lance Stroll,aston-martin,17,57,19,0,17,1037.451739,1027.196753,-10.254986,0.157895,0.362994,50.0,20
+2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,1129,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,18,57,18,0,18,981.715851,972.129914,-9.585937,0.105263,0.296982,50.0,20
+2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,1129,carlos-sainz-jr,Carlos Sainz Jr.,williams,DNF,45,8,1,19,1275.647871,1245.570942,-30.076929,0.052632,0.65417,50.0,20
+2025,4,2025-04-13,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2025,1129,nico-hulkenberg,Nico Hülkenberg,kick-sauber,DSQ,,16,2,20,1074.566261,1054.12157,-20.44469,0.0,0.408894,50.0,20

@@ -96,6 +96,91 @@ def build_cache_value(
     }
 
 
+def process_one_race(
+    *,
+    yaml_dir: str,
+    meta,
+    career_race_number: int,
+    ratings: Dict[str, float],
+    driver_rows: Dict[str, List[dict]],
+    races_by_year: Dict[int, List[dict]],
+    driver_id_to_name: Dict[str, str],
+    constructor_id_to_name: Dict[str, str],
+    output_root: str,
+    k: float,
+    initial_elo: float,
+) -> None:
+    race_data = load_race_data(yaml_dir, meta)
+    entries = dedupe_best_by_driver(race_data.entries)
+    ranked = rank_entries(entries)
+
+    for re in ranked:
+        ratings.setdefault(re.entry.driver_id, initial_elo)
+
+    elo_rows, _ = compute_course_update(ranked, ratings, k=k)
+
+    race_filename = f"{meta.round:02d}-{meta.grand_prix_id or meta.race_dir_name}.csv"
+    race_out = (
+        f"{output_root}/races/{meta.year}/{meta.round:02d}-"
+        f"{meta.grand_prix_id or meta.race_dir_name}.csv"
+    )
+    write_race_csv(
+        race_out,
+        meta={
+            "year": meta.year,
+            "round": meta.round,
+            "date": meta.date,
+            "grandPrixId": meta.grand_prix_id,
+            "officialName": meta.official_name,
+            "careerRaceNumber": career_race_number,
+        },
+        ranked_entries=ranked,
+        driver_id_to_name=driver_id_to_name,
+        elo_rows=elo_rows,
+        k_used=k,
+    )
+
+    races_by_year[meta.year].append(
+        {
+            "year": meta.year,
+            "round": meta.round,
+            "date": meta.date,
+            "grandPrixId": meta.grand_prix_id,
+            "officialName": meta.official_name,
+            "file": race_filename,
+            "careerRaceNumber": career_race_number,
+        }
+    )
+
+    n = len(ranked)
+    for re in ranked:
+        d = re.entry.driver_id
+        er = elo_rows.get(d)
+        if er is None:
+            continue
+        constructor_id = re.entry.constructor_id or ""
+        driver_rows[d].append(
+            {
+                "date": meta.date,
+                "year": meta.year,
+                "round": meta.round,
+                "grandPrixId": meta.grand_prix_id,
+                "careerRaceNumber": career_race_number,
+                "constructorId": constructor_id,
+                "constructorName": constructor_id_to_name.get(constructor_id, constructor_id) if constructor_id else "",
+                "positionRaw": re.entry.position_raw,
+                "laps": "" if re.entry.laps is None else re.entry.laps,
+                "nParticipants": n,
+                "eloBefore": round(er.elo_before, 6),
+                "eloAfter": round(er.elo_after, 6),
+                "eloDelta": round(er.elo_delta, 6),
+                "actualScore": round(er.actual_score, 6),
+                "expectedScore": round(er.expected_score, 6),
+                "kUsed": k,
+            }
+        )
+
+
 def generate_all(
     *,
     yaml_dir: str,
@@ -110,73 +195,22 @@ def generate_all(
     driver_rows: Dict[str, List[dict]] = defaultdict(list)
     races_by_year: Dict[int, List[dict]] = defaultdict(list)
 
+    career_race_number = 0
     for meta in races:
-        race_data = load_race_data(yaml_dir, meta)
-        entries = dedupe_best_by_driver(race_data.entries)
-        ranked = rank_entries(entries)
-
-        for re in ranked:
-            ratings.setdefault(re.entry.driver_id, initial_elo)
-
-        elo_rows, ratings = compute_course_update(ranked, ratings, k=k)
-
-        race_filename = f"{meta.round:02d}-{meta.grand_prix_id or meta.race_dir_name}.csv"
-        race_out = (
-            f"{output_root}/races/{meta.year}/{meta.round:02d}-"
-            f"{meta.grand_prix_id or meta.race_dir_name}.csv"
-        )
-        write_race_csv(
-            race_out,
-            meta={
-                "year": meta.year,
-                "round": meta.round,
-                "date": meta.date,
-                "grandPrixId": meta.grand_prix_id,
-                "officialName": meta.official_name,
-            },
-            ranked_entries=ranked,
+        career_race_number += 1
+        process_one_race(
+            yaml_dir=yaml_dir,
+            meta=meta,
+            career_race_number=career_race_number,
+            ratings=ratings,
+            driver_rows=driver_rows,
+            races_by_year=races_by_year,
             driver_id_to_name=driver_id_to_name,
-            elo_rows=elo_rows,
-            k_used=k,
+            constructor_id_to_name=constructor_id_to_name,
+            output_root=output_root,
+            k=k,
+            initial_elo=initial_elo,
         )
-
-        races_by_year[meta.year].append(
-            {
-                "year": meta.year,
-                "round": meta.round,
-                "date": meta.date,
-                "grandPrixId": meta.grand_prix_id,
-                "officialName": meta.official_name,
-                "file": race_filename,
-            }
-        )
-
-        n = len(ranked)
-        for re in ranked:
-            d = re.entry.driver_id
-            er = elo_rows.get(d)
-            if er is None:
-                continue
-            constructor_id = re.entry.constructor_id or ""
-            driver_rows[d].append(
-                {
-                    "date": meta.date,
-                    "year": meta.year,
-                    "round": meta.round,
-                    "grandPrixId": meta.grand_prix_id,
-                    "constructorId": constructor_id,
-                    "constructorName": constructor_id_to_name.get(constructor_id, constructor_id) if constructor_id else "",
-                    "positionRaw": re.entry.position_raw,
-                    "laps": "" if re.entry.laps is None else re.entry.laps,
-                    "nParticipants": n,
-                    "eloBefore": round(er.elo_before, 6),
-                    "eloAfter": round(er.elo_after, 6),
-                    "eloDelta": round(er.elo_delta, 6),
-                    "actualScore": round(er.actual_score, 6),
-                    "expectedScore": round(er.expected_score, 6),
-                    "kUsed": k,
-                }
-            )
 
     drivers_out_dir = f"{output_root}/drivers"
     os.makedirs(drivers_out_dir, exist_ok=True)
@@ -187,6 +221,7 @@ def generate_all(
     index_payload = {
         "k": k,
         "initialElo": initial_elo,
+        "totalRaces": career_race_number,
         "drivers": [
             {
                 "id": driver_id,

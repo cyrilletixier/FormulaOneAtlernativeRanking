@@ -1,26 +1,26 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,jochen-rindt,Jochen Rindt,lotus,1,50,2,0,1,1130.697389,1149.635334,18.937946,1.0,0.621241,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,jacky-ickx,Jacky Ickx,ferrari,2,50,1,0,2,1079.215637,1099.63275,20.417113,0.958333,0.549991,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,denny-hulme,Denny Hulme,mclaren,3,50,16,0,3,1182.662814,1194.059057,11.396243,0.916667,0.688742,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,emerson-fittipaldi,Emerson Fittipaldi,lotus,4,50,13,0,4,1013.721358,1034.624497,20.90314,0.875,0.456937,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,rolf-stommelen,Rolf Stommelen,brabham,5,49,11,0,5,985.536032,1006.336216,20.800185,0.833333,0.41733,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,henri-pescarolo,Henri Pescarolo,matra,6,49,5,0,6,1080.343696,1092.347908,12.004212,0.791667,0.551582,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,francois-cevert,François Cevert,march,7,49,14,0,7,1020.725396,1034.881964,14.156568,0.75,0.466869,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,jo-siffert,Jo Siffert,march,8,47,4,0,8,1031.328507,1042.648045,11.319538,0.708333,0.481943,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,john-surtees,John Surtees,surtees,9,46,15,0,9,1041.542453,1050.05139,8.508938,0.666667,0.496488,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,graham-hill,Graham Hill,lotus,DNF,37,20,1,10,1160.813367,1159.011365,-1.802002,0.625,0.66104,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,chris-amon,Chris Amon,march,DNF,34,6,1,11,1073.900376,1075.943002,2.042626,0.583333,0.542481,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,clay-regazzoni,Clay Regazzoni,ferrari,DNF,30,3,1,12,1041.861035,1044.097281,2.236246,0.541667,0.496942,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,john-miles,John Miles,lotus,DNF,24,10,1,13,973.833459,978.777284,4.943825,0.5,0.401124,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,jackie-stewart,Jackie Stewart,march,DNF,20,7,1,14,1200.580174,1187.965993,-12.614181,0.458333,0.710617,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,mario-andretti,Mario Andretti,march,DNF,15,9,1,15,950.700524,953.05104,2.350516,0.416667,0.369656,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,ronnie-peterson,Ronnie Peterson,march,DNF,11,19,1,16,1027.901825,1022.798474,-5.103352,0.375,0.477067,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,pedro-rodriguez,Pedro Rodríguez,brm,DNF,7,8,1,17,1100.946163,1088.590335,-12.355828,0.333333,0.58045,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,jackie-oliver,Jackie Oliver,brm,DNF,5,18,1,18,935.765317,932.857567,-2.90775,0.291667,0.349822,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,jack-brabham,Jack Brabham,brabham,DNF,4,12,1,19,1158.161352,1136.739362,-21.421991,0.229167,0.657606,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,DNF,4,21,1,20,1120.057146,1101.175574,-18.881573,0.229167,0.606798,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,peter-gethin,Peter Gethin,mclaren,DNF,3,17,1,21,990.884128,977.978005,-12.906124,0.166667,0.424789,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,andrea-de-adamich,Andrea de Adamich,mclaren,DNQ,,,2,22,929.182694,915.246879,-13.935815,0.0625,0.341216,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,brian-redman,Brian Redman,de-tomaso,DNQ,,,2,23,962.230575,946.093728,-16.136847,0.0625,0.385237,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,hubert-hahne,Hubert Hahne,march,DNQ,,,2,24,996.610034,978.094627,-18.515406,0.0625,0.432808,50.0,25
-1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,silvio-moser,Silvio Moser,bellasi,DNQ,,,2,25,921.45177,908.015543,-13.436227,0.0625,0.331225,50.0,25
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,jochen-rindt,Jochen Rindt,lotus,1,50,2,0,1,1130.697389,1149.635334,18.937946,1.0,0.621241,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,jacky-ickx,Jacky Ickx,ferrari,2,50,1,0,2,1079.215637,1099.63275,20.417113,0.958333,0.549991,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,denny-hulme,Denny Hulme,mclaren,3,50,16,0,3,1182.662814,1194.059057,11.396243,0.916667,0.688742,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,emerson-fittipaldi,Emerson Fittipaldi,lotus,4,50,13,0,4,1013.721358,1034.624497,20.90314,0.875,0.456937,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,rolf-stommelen,Rolf Stommelen,brabham,5,49,11,0,5,985.536032,1006.336216,20.800185,0.833333,0.41733,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,henri-pescarolo,Henri Pescarolo,matra,6,49,5,0,6,1080.343696,1092.347908,12.004212,0.791667,0.551582,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,francois-cevert,François Cevert,march,7,49,14,0,7,1020.725396,1034.881964,14.156568,0.75,0.466869,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,jo-siffert,Jo Siffert,march,8,47,4,0,8,1031.328507,1042.648045,11.319538,0.708333,0.481943,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,john-surtees,John Surtees,surtees,9,46,15,0,9,1041.542453,1050.05139,8.508938,0.666667,0.496488,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,graham-hill,Graham Hill,lotus,DNF,37,20,1,10,1160.813367,1159.011365,-1.802002,0.625,0.66104,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,chris-amon,Chris Amon,march,DNF,34,6,1,11,1073.900376,1075.943002,2.042626,0.583333,0.542481,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,clay-regazzoni,Clay Regazzoni,ferrari,DNF,30,3,1,12,1041.861035,1044.097281,2.236246,0.541667,0.496942,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,john-miles,John Miles,lotus,DNF,24,10,1,13,973.833459,978.777284,4.943825,0.5,0.401124,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,jackie-stewart,Jackie Stewart,march,DNF,20,7,1,14,1200.580174,1187.965993,-12.614181,0.458333,0.710617,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,mario-andretti,Mario Andretti,march,DNF,15,9,1,15,950.700524,953.05104,2.350516,0.416667,0.369656,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,ronnie-peterson,Ronnie Peterson,march,DNF,11,19,1,16,1027.901825,1022.798474,-5.103352,0.375,0.477067,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,pedro-rodriguez,Pedro Rodríguez,brm,DNF,7,8,1,17,1100.946163,1088.590335,-12.355828,0.333333,0.58045,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,jackie-oliver,Jackie Oliver,brm,DNF,5,18,1,18,935.765317,932.857567,-2.90775,0.291667,0.349822,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,jack-brabham,Jack Brabham,brabham,DNF,4,12,1,19,1158.161352,1136.739362,-21.421991,0.229167,0.657606,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,DNF,4,21,1,20,1120.057146,1101.175574,-18.881573,0.229167,0.606798,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,peter-gethin,Peter Gethin,mclaren,DNF,3,17,1,21,990.884128,977.978005,-12.906124,0.166667,0.424789,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,andrea-de-adamich,Andrea de Adamich,mclaren,DNQ,,,2,22,929.182694,915.246879,-13.935815,0.0625,0.341216,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,brian-redman,Brian Redman,de-tomaso,DNQ,,,2,23,962.230575,946.093728,-16.136847,0.0625,0.385237,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,hubert-hahne,Hubert Hahne,march,DNQ,,,2,24,996.610034,978.094627,-18.515406,0.0625,0.432808,50.0,25
+1970,8,1970-08-02,germany,Grosser Preis von Deutschland 1970,192,silvio-moser,Silvio Moser,bellasi,DNQ,,,2,25,921.45177,908.015543,-13.436227,0.0625,0.331225,50.0,25

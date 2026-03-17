@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,max-verstappen,Max Verstappen,red-bull,1,53,1,0,1,1479.557381,1487.334044,7.776663,1.0,0.844467,50.0,20
-2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,lando-norris,Lando Norris,mclaren,2,53,2,0,2,1424.520189,1431.844443,7.324254,0.947368,0.800883,50.0,20
-2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,oscar-piastri,Oscar Piastri,mclaren,3,53,3,0,3,1454.111391,1457.593994,3.482603,0.894737,0.825085,50.0,20
-2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,charles-leclerc,Charles Leclerc,ferrari,4,53,4,0,4,1348.115118,1353.705624,5.590506,0.842105,0.730295,50.0,20
-2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,george-russell,George Russell,mercedes,5,53,5,0,5,1374.635342,1376.304396,1.669054,0.789474,0.756093,50.0,20
-2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,lewis-hamilton,Lewis Hamilton,ferrari,6,53,10,0,6,1273.308509,1277.619932,4.311423,0.736842,0.650614,50.0,20
-2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,alexander-albon,Alexander Albon,williams,7,53,14,0,7,1091.645822,1104.473163,12.827342,0.684211,0.427664,50.0,20
-2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,8,53,7,0,8,1001.664067,1017.410138,15.746072,0.631579,0.316658,50.0,20
-2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,kimi-antonelli,Kimi Antonelli,mercedes,9,53,6,0,9,1041.73877,1052.43161,10.69284,0.578947,0.365091,50.0,20
-2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,isack-hadjar,Isack Hadjar,racing-bulls,10,53,PL,0,10,1066.048082,1072.59622,6.548139,0.526316,0.395353,50.0,20
-2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,carlos-sainz-jr,Carlos Sainz Jr.,williams,11,53,13,0,11,1146.872092,1145.666621,-1.205471,0.473684,0.497794,50.0,20
-2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,oliver-bearman,Oliver Bearman,haas,12,53,11,0,12,1047.094028,1049.561112,2.467084,0.421053,0.371711,50.0,20
-2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,yuki-tsunoda,Yuki Tsunoda,red-bull,13,53,9,0,13,1027.157009,1028.21687,1.059862,0.368421,0.347224,50.0,20
-2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,liam-lawson,Liam Lawson,racing-bulls,14,53,18,0,14,1044.007537,1041.402424,-2.605113,0.315789,0.367892,50.0,20
-2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,esteban-ocon,Esteban Ocon,haas,15,52,15,0,15,1052.889502,1047.102041,-5.787461,0.263158,0.378907,50.0,20
-2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,pierre-gasly,Pierre Gasly,alpine,16,52,PL,0,16,1045.835565,1037.854252,-7.981314,0.210526,0.370153,50.0,20
-2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,franco-colapinto,Franco Colapinto,alpine,17,52,17,0,17,967.21607,961.258648,-5.957422,0.157895,0.277043,50.0,20
-2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,lance-stroll,Lance Stroll,aston-martin,18,52,16,0,18,1037.711742,1024.968299,-12.743443,0.105263,0.360132,50.0,20
-2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,fernando-alonso,Fernando Alonso,aston-martin,DNF,24,8,1,19,1138.202644,1116.493502,-21.709142,0.052632,0.486814,50.0,20
-2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,nico-hulkenberg,Nico Hülkenberg,kick-sauber,DNS,,,2,20,1093.589916,1072.083443,-21.506473,0.0,0.430129,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,1141,max-verstappen,Max Verstappen,red-bull,1,53,1,0,1,1479.557381,1487.334044,7.776663,1.0,0.844467,50.0,20
+2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,1141,lando-norris,Lando Norris,mclaren,2,53,2,0,2,1424.520189,1431.844443,7.324254,0.947368,0.800883,50.0,20
+2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,1141,oscar-piastri,Oscar Piastri,mclaren,3,53,3,0,3,1454.111391,1457.593994,3.482603,0.894737,0.825085,50.0,20
+2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,1141,charles-leclerc,Charles Leclerc,ferrari,4,53,4,0,4,1348.115118,1353.705624,5.590506,0.842105,0.730295,50.0,20
+2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,1141,george-russell,George Russell,mercedes,5,53,5,0,5,1374.635342,1376.304396,1.669054,0.789474,0.756093,50.0,20
+2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,1141,lewis-hamilton,Lewis Hamilton,ferrari,6,53,10,0,6,1273.308509,1277.619932,4.311423,0.736842,0.650614,50.0,20
+2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,1141,alexander-albon,Alexander Albon,williams,7,53,14,0,7,1091.645822,1104.473163,12.827342,0.684211,0.427664,50.0,20
+2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,1141,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,8,53,7,0,8,1001.664067,1017.410138,15.746072,0.631579,0.316658,50.0,20
+2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,1141,kimi-antonelli,Kimi Antonelli,mercedes,9,53,6,0,9,1041.73877,1052.43161,10.69284,0.578947,0.365091,50.0,20
+2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,1141,isack-hadjar,Isack Hadjar,racing-bulls,10,53,PL,0,10,1066.048082,1072.59622,6.548139,0.526316,0.395353,50.0,20
+2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,1141,carlos-sainz-jr,Carlos Sainz Jr.,williams,11,53,13,0,11,1146.872092,1145.666621,-1.205471,0.473684,0.497794,50.0,20
+2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,1141,oliver-bearman,Oliver Bearman,haas,12,53,11,0,12,1047.094028,1049.561112,2.467084,0.421053,0.371711,50.0,20
+2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,1141,yuki-tsunoda,Yuki Tsunoda,red-bull,13,53,9,0,13,1027.157009,1028.21687,1.059862,0.368421,0.347224,50.0,20
+2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,1141,liam-lawson,Liam Lawson,racing-bulls,14,53,18,0,14,1044.007537,1041.402424,-2.605113,0.315789,0.367892,50.0,20
+2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,1141,esteban-ocon,Esteban Ocon,haas,15,52,15,0,15,1052.889502,1047.102041,-5.787461,0.263158,0.378907,50.0,20
+2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,1141,pierre-gasly,Pierre Gasly,alpine,16,52,PL,0,16,1045.835565,1037.854252,-7.981314,0.210526,0.370153,50.0,20
+2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,1141,franco-colapinto,Franco Colapinto,alpine,17,52,17,0,17,967.21607,961.258648,-5.957422,0.157895,0.277043,50.0,20
+2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,1141,lance-stroll,Lance Stroll,aston-martin,18,52,16,0,18,1037.711742,1024.968299,-12.743443,0.105263,0.360132,50.0,20
+2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,1141,fernando-alonso,Fernando Alonso,aston-martin,DNF,24,8,1,19,1138.202644,1116.493502,-21.709142,0.052632,0.486814,50.0,20
+2025,16,2025-09-07,italy,Formula 1 Pirelli Gran Premio d'Italia 2025,1141,nico-hulkenberg,Nico Hülkenberg,kick-sauber,DNS,,,2,20,1093.589916,1072.083443,-21.506473,0.0,0.430129,50.0,20

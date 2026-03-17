@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,tony-brooks,Tony Brooks,vanwall,1,24,5,0,1,997.426898,1025.094463,27.667565,1.0,0.446649,50.0,20
-1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,mike-hawthorn,Mike Hawthorn,ferrari,2,24,1,0,2,1112.516084,1129.163602,16.647518,0.947368,0.614418,50.0,20
-1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,stuart-lewis-evans,Stuart Lewis-Evans,vanwall,3,24,11,0,3,992.038868,1014.836609,22.797741,0.894737,0.438782,50.0,20
-1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,cliff-allison,Cliff Allison,lotus,4,24,12,0,4,1028.406545,1045.901218,17.494672,0.842105,0.492212,50.0,20
-1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,harry-schell,Harry Schell,brm,5,23,7,0,5,1084.596059,1095.33997,10.743911,0.789474,0.574595,50.0,20
-1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,olivier-gendebien,Olivier Gendebien,ferrari,6,23,6,0,6,994.183575,1008.930159,14.746584,0.736842,0.44191,50.0,20
-1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,maurice-trintignant,Maurice Trintignant,maserati,7,23,16,0,7,1059.166892,1066.500745,7.333853,0.684211,0.537533,50.0,20
-1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,roy-salvadori,Roy Salvadori,cooper,8,23,13,0,8,963.994773,975.657079,11.662306,0.631579,0.398333,50.0,20
-1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,jo-bonnier,Jo Bonnier,maserati,9,22,14,0,9,961.717644,970.910335,9.192691,0.578947,0.395094,50.0,20
-1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,maria-teresa-de-filippis,Maria Teresa de Filippis,maserati,10,22,19,0,10,986.755125,991.516271,4.761146,0.526316,0.431093,50.0,20
-1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,paco-godia,Paco Godia,maserati,DNF,22,18,1,11,1012.709558,1012.940101,0.230543,0.473684,0.469073,50.0,20
-1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,jack-brabham,Jack Brabham,cooper,DNF,16,8,1,12,1017.287432,1014.549355,-2.738077,0.421053,0.475814,50.0,20
-1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,graham-hill,Graham Hill,lotus,DNF,12,15,1,13,1000.085417,995.979531,-4.105886,0.368421,0.450539,50.0,20
-1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,jean-behra,Jean Behra,brm,DNF,5,10,1,14,1092.28699,1076.161206,-16.125784,0.263158,0.585674,50.0,20
-1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,luigi-musso,Luigi Musso,ferrari,DNF,5,2,1,15,1107.935096,1090.694783,-17.240313,0.263158,0.607964,50.0,20
-1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,peter-collins,Peter Collins,ferrari,DNF,5,4,1,16,1048.892354,1035.928898,-12.963456,0.263158,0.522427,50.0,20
-1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,wolfgang-seidel,Wolfgang Seidel,maserati,DNF,4,17,1,17,1002.719409,987.894248,-14.825161,0.157895,0.454398,50.0,20
-1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,masten-gregory,Masten Gregory,maserati,DNF,0,9,1,18,1040.477903,1018.924048,-21.553856,0.078947,0.510024,50.0,20
-1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,stirling-moss,Stirling Moss,vanwall,DNF,0,3,1,19,1194.483761,1162.312408,-32.171354,0.078947,0.722374,50.0,20
-1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,ken-kavanagh,Ken Kavanagh,maserati,DNS,,,2,20,986.755125,965.200481,-21.554644,0.0,0.431093,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,69,tony-brooks,Tony Brooks,vanwall,1,24,5,0,1,997.426898,1025.094463,27.667565,1.0,0.446649,50.0,20
+1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,69,mike-hawthorn,Mike Hawthorn,ferrari,2,24,1,0,2,1112.516084,1129.163602,16.647518,0.947368,0.614418,50.0,20
+1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,69,stuart-lewis-evans,Stuart Lewis-Evans,vanwall,3,24,11,0,3,992.038868,1014.836609,22.797741,0.894737,0.438782,50.0,20
+1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,69,cliff-allison,Cliff Allison,lotus,4,24,12,0,4,1028.406545,1045.901218,17.494672,0.842105,0.492212,50.0,20
+1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,69,harry-schell,Harry Schell,brm,5,23,7,0,5,1084.596059,1095.33997,10.743911,0.789474,0.574595,50.0,20
+1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,69,olivier-gendebien,Olivier Gendebien,ferrari,6,23,6,0,6,994.183575,1008.930159,14.746584,0.736842,0.44191,50.0,20
+1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,69,maurice-trintignant,Maurice Trintignant,maserati,7,23,16,0,7,1059.166892,1066.500745,7.333853,0.684211,0.537533,50.0,20
+1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,69,roy-salvadori,Roy Salvadori,cooper,8,23,13,0,8,963.994773,975.657079,11.662306,0.631579,0.398333,50.0,20
+1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,69,jo-bonnier,Jo Bonnier,maserati,9,22,14,0,9,961.717644,970.910335,9.192691,0.578947,0.395094,50.0,20
+1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,69,maria-teresa-de-filippis,Maria Teresa de Filippis,maserati,10,22,19,0,10,986.755125,991.516271,4.761146,0.526316,0.431093,50.0,20
+1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,69,paco-godia,Paco Godia,maserati,DNF,22,18,1,11,1012.709558,1012.940101,0.230543,0.473684,0.469073,50.0,20
+1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,69,jack-brabham,Jack Brabham,cooper,DNF,16,8,1,12,1017.287432,1014.549355,-2.738077,0.421053,0.475814,50.0,20
+1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,69,graham-hill,Graham Hill,lotus,DNF,12,15,1,13,1000.085417,995.979531,-4.105886,0.368421,0.450539,50.0,20
+1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,69,jean-behra,Jean Behra,brm,DNF,5,10,1,14,1092.28699,1076.161206,-16.125784,0.263158,0.585674,50.0,20
+1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,69,luigi-musso,Luigi Musso,ferrari,DNF,5,2,1,15,1107.935096,1090.694783,-17.240313,0.263158,0.607964,50.0,20
+1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,69,peter-collins,Peter Collins,ferrari,DNF,5,4,1,16,1048.892354,1035.928898,-12.963456,0.263158,0.522427,50.0,20
+1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,69,wolfgang-seidel,Wolfgang Seidel,maserati,DNF,4,17,1,17,1002.719409,987.894248,-14.825161,0.157895,0.454398,50.0,20
+1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,69,masten-gregory,Masten Gregory,maserati,DNF,0,9,1,18,1040.477903,1018.924048,-21.553856,0.078947,0.510024,50.0,20
+1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,69,stirling-moss,Stirling Moss,vanwall,DNF,0,3,1,19,1194.483761,1162.312408,-32.171354,0.078947,0.722374,50.0,20
+1958,5,1958-06-15,belgium,1958 Belgian Grand Prix,69,ken-kavanagh,Ken Kavanagh,maserati,DNS,,,2,20,986.755125,965.200481,-21.554644,0.0,0.431093,50.0,20

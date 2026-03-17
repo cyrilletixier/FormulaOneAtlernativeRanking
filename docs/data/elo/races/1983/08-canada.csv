@@ -1,29 +1,29 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,rene-arnoux,René Arnoux,ferrari,1,70,1,0,1,1122.712935,1143.573617,20.860682,1.0,0.582786,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,eddie-cheever,Eddie Cheever,renault,2,70,6,0,2,1080.06185,1102.018733,21.956883,0.962963,0.523825,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,patrick-tambay,Patrick Tambay,ferrari,3,70,4,0,3,1130.432795,1147.064983,16.632187,0.925926,0.593282,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,keke-rosberg,Keke Rosberg,williams,4,70,9,0,4,1200.14542,1210.398711,10.253291,0.888889,0.683823,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,alain-prost,Alain Prost,renault,5,69,2,0,5,1239.117373,1245.210483,6.09311,0.851852,0.72999,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,john-watson,John Watson,mclaren,6,69,20,0,6,1171.701872,1180.045222,8.34335,0.814815,0.647948,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,thierry-boutsen,Thierry Boutsen,arrows,7,69,15,0,7,1005.651939,1023.521709,17.86977,0.777778,0.420382,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,michele-alboreto,Michele Alboreto,tyrrell,8,68,17,0,8,1129.42377,1136.865088,7.441318,0.740741,0.591914,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,manfred-winkelhock,Manfred Winkelhock,ats-wheels,9,67,7,0,9,960.783431,977.952141,17.16871,0.703704,0.36033,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,mauro-baldi,Mauro Baldi,alfa-romeo,10,67,26,0,10,1027.555921,1038.36101,10.805088,0.666667,0.450565,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,riccardo-patrese,Riccardo Patrese,brabham,DNF,56,5,1,11,1032.025165,1040.668227,8.643062,0.62963,0.456768,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,derek-warwick,Derek Warwick,toleman,DNF,47,12,1,12,947.240784,959.728134,12.48735,0.592593,0.342846,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,bruno-giacomelli,Bruno Giacomelli,toleman,DNF,43,10,1,13,1059.332344,1061.441223,2.108879,0.537037,0.494859,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,nigel-mansell,Nigel Mansell,lotus,DNF,43,18,1,14,1074.143796,1075.21749,1.073694,0.537037,0.515563,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,DNF,42,8,1,15,1044.224049,1044.610395,0.386346,0.481481,0.473755,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,jacques-laffite,Jacques Laffite,williams,DNF,37,13,1,16,1180.112218,1169.398033,-10.714185,0.444444,0.658728,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,raul-boesel,Raul Boesel,ligier,DNF,32,24,1,17,1014.051766,1012.826773,-1.224994,0.407407,0.431907,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,roberto-guerrero,Roberto Guerrero,theodore,DNF,27,21,1,18,935.720905,937.826576,2.105671,0.37037,0.328257,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,corrado-fabi,Corrado Fabi,osella,DNF,26,25,1,19,936.963191,937.139011,0.17582,0.333333,0.329817,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,johnny-cecotto,Johnny Cecotto,theodore,DNF,17,23,1,20,1026.966312,1019.293754,-7.672558,0.296296,0.449747,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,nelson-piquet,Nelson Piquet,brabham,DNF,15,3,1,21,1201.760701,1180.433239,-21.327462,0.259259,0.685808,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,niki-lauda,Niki Lauda,mclaren,DNF,11,19,1,22,1103.054626,1086.376823,-16.677803,0.222222,0.555778,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,elio-de-angelis,Elio de Angelis,lotus,DNF,1,11,1,23,1100.846494,1081.543647,-19.302847,0.166667,0.552724,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,marc-surer,Marc Surer,arrows,DNF,1,14,1,24,1168.700825,1144.83074,-23.870086,0.166667,0.644068,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,jean-pierre-jarier,Jean-Pierre Jarier,ligier,DNF,0,16,1,25,980.664401,966.891019,-13.773381,0.111111,0.386579,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,danny-sullivan,Danny Sullivan,tyrrell,DSQ,68,22,2,26,1037.356395,1017.850936,-19.505459,0.074074,0.464183,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,jacques-villeneuve-sr,"Jacques Villeneuve, Sr.",ram,DNQ,,,2,27,969.680293,952.006418,-17.673876,0.018519,0.371996,50.0,28
-1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNQ,,,2,28,888.656472,875.99391,-12.662562,0.018519,0.27177,50.0,28
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,rene-arnoux,René Arnoux,ferrari,1,70,1,0,1,1122.712935,1143.573617,20.860682,1.0,0.582786,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,eddie-cheever,Eddie Cheever,renault,2,70,6,0,2,1080.06185,1102.018733,21.956883,0.962963,0.523825,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,patrick-tambay,Patrick Tambay,ferrari,3,70,4,0,3,1130.432795,1147.064983,16.632187,0.925926,0.593282,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,keke-rosberg,Keke Rosberg,williams,4,70,9,0,4,1200.14542,1210.398711,10.253291,0.888889,0.683823,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,alain-prost,Alain Prost,renault,5,69,2,0,5,1239.117373,1245.210483,6.09311,0.851852,0.72999,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,john-watson,John Watson,mclaren,6,69,20,0,6,1171.701872,1180.045222,8.34335,0.814815,0.647948,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,thierry-boutsen,Thierry Boutsen,arrows,7,69,15,0,7,1005.651939,1023.521709,17.86977,0.777778,0.420382,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,michele-alboreto,Michele Alboreto,tyrrell,8,68,17,0,8,1129.42377,1136.865088,7.441318,0.740741,0.591914,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,manfred-winkelhock,Manfred Winkelhock,ats-wheels,9,67,7,0,9,960.783431,977.952141,17.16871,0.703704,0.36033,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,mauro-baldi,Mauro Baldi,alfa-romeo,10,67,26,0,10,1027.555921,1038.36101,10.805088,0.666667,0.450565,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,riccardo-patrese,Riccardo Patrese,brabham,DNF,56,5,1,11,1032.025165,1040.668227,8.643062,0.62963,0.456768,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,derek-warwick,Derek Warwick,toleman,DNF,47,12,1,12,947.240784,959.728134,12.48735,0.592593,0.342846,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,bruno-giacomelli,Bruno Giacomelli,toleman,DNF,43,10,1,13,1059.332344,1061.441223,2.108879,0.537037,0.494859,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,nigel-mansell,Nigel Mansell,lotus,DNF,43,18,1,14,1074.143796,1075.21749,1.073694,0.537037,0.515563,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,DNF,42,8,1,15,1044.224049,1044.610395,0.386346,0.481481,0.473755,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,jacques-laffite,Jacques Laffite,williams,DNF,37,13,1,16,1180.112218,1169.398033,-10.714185,0.444444,0.658728,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,raul-boesel,Raul Boesel,ligier,DNF,32,24,1,17,1014.051766,1012.826773,-1.224994,0.407407,0.431907,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,roberto-guerrero,Roberto Guerrero,theodore,DNF,27,21,1,18,935.720905,937.826576,2.105671,0.37037,0.328257,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,corrado-fabi,Corrado Fabi,osella,DNF,26,25,1,19,936.963191,937.139011,0.17582,0.333333,0.329817,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,johnny-cecotto,Johnny Cecotto,theodore,DNF,17,23,1,20,1026.966312,1019.293754,-7.672558,0.296296,0.449747,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,nelson-piquet,Nelson Piquet,brabham,DNF,15,3,1,21,1201.760701,1180.433239,-21.327462,0.259259,0.685808,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,niki-lauda,Niki Lauda,mclaren,DNF,11,19,1,22,1103.054626,1086.376823,-16.677803,0.222222,0.555778,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,elio-de-angelis,Elio de Angelis,lotus,DNF,1,11,1,23,1100.846494,1081.543647,-19.302847,0.166667,0.552724,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,marc-surer,Marc Surer,arrows,DNF,1,14,1,24,1168.700825,1144.83074,-23.870086,0.166667,0.644068,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,jean-pierre-jarier,Jean-Pierre Jarier,ligier,DNF,0,16,1,25,980.664401,966.891019,-13.773381,0.111111,0.386579,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,danny-sullivan,Danny Sullivan,tyrrell,DSQ,68,22,2,26,1037.356395,1017.850936,-19.505459,0.074074,0.464183,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,jacques-villeneuve-sr,"Jacques Villeneuve, Sr.",ram,DNQ,,,2,27,969.680293,952.006418,-17.673876,0.018519,0.371996,50.0,28
+1983,8,1983-06-12,canada,Grand Prix Labatt du Canada 1983,381,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNQ,,,2,28,888.656472,875.99391,-12.662562,0.018519,0.27177,50.0,28

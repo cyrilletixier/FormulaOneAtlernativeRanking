@@ -1,27 +1,27 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,gerhard-berger,Gerhard Berger,mclaren,1,81,4,0,1,1237.164393,1252.983536,15.819144,1.0,0.683617,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,michael-schumacher,Michael Schumacher,benetton,2,81,5,0,2,1186.16088,1203.17062,17.009739,0.96,0.619805,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,martin-brundle,Martin Brundle,benetton,3,81,8,0,3,1226.303839,1238.781708,12.477869,0.92,0.670443,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,jean-alesi,Jean Alesi,ferrari,4,80,6,0,4,1118.341152,1135.878513,17.537361,0.88,0.529253,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,thierry-boutsen,Thierry Boutsen,ligier,5,80,22,0,5,1103.42113,1119.977231,16.556101,0.84,0.508878,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,stefano-modena,Stefano Modena,jordan,6,80,15,0,6,1028.046702,1047.720584,19.673882,0.8,0.406522,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,mika-hakkinen,Mika Häkkinen,lotus,7,80,10,0,7,1114.325939,1126.137094,11.811154,0.76,0.523777,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,aguri-suzuki,Aguri Suzuki,footwork,8,79,18,0,8,1028.011338,1043.687575,15.676237,0.72,0.406475,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,christian-fittipaldi,Christian Fittipaldi,minardi,9,79,17,0,9,1009.778217,1024.658538,14.88032,0.68,0.382394,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,gianni-morbidelli,Gianni Morbidelli,minardi,10,79,16,0,10,1060.96519,1070.42157,9.45638,0.64,0.450872,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,nicola-larini,Nicola Larini,ferrari,11,79,19,0,11,952.552153,967.039949,14.487796,0.6,0.310244,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,jan-lammers,Jan Lammers,march,12,78,25,0,12,878.401844,895.030184,16.62834,0.56,0.227433,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,johnny-herbert,Johnny Herbert,lotus,13,77,12,0,13,1014.106741,1020.703152,6.596411,0.52,0.388072,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,jj-lehto,JJ Lehto,dallara,DNF,70,24,1,14,1124.394198,1121.519501,-2.874696,0.48,0.537494,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,emanuele-naspetti,Emanuele Naspetti,march,DNF,55,23,1,15,1026.383309,1028.167885,1.784576,0.44,0.404308,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,bertrand-gachot,Bertrand Gachot,venturi,DNF,51,21,1,16,981.258842,983.974045,2.715203,0.4,0.345696,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,riccardo-patrese,Riccardo Patrese,williams,DNF,50,3,1,17,1304.774557,1284.796028,-19.978529,0.36,0.759571,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,ukyo-katayama,Ukyo Katayama,venturi,DNF,35,26,1,18,1032.306764,1027.696455,-4.610309,0.32,0.412206,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,andrea-de-cesaris,Andrea de Cesaris,tyrrell,DNF,29,7,1,19,1157.101934,1142.022715,-15.079219,0.28,0.581584,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,ayrton-senna,Ayrton Senna,mclaren,DNF,18,2,1,20,1284.930858,1259.009204,-25.921655,0.22,0.738433,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,nigel-mansell,Nigel Mansell,williams,DNF,18,1,1,21,1319.997453,1292.242812,-27.754641,0.22,0.775093,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,mauricio-gugelmin,Maurício Gugelmin,jordan,DNF,7,20,1,22,1049.098739,1035.359586,-13.739153,0.16,0.434783,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,erik-comas,Érik Comas,ligier,DNF,4,9,1,23,1089.717323,1071.210994,-18.506329,0.12,0.490127,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,michele-alboreto,Michele Alboreto,footwork,DNF,0,11,1,24,1137.281158,1111.53276,-25.748398,0.04,0.554968,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,olivier-grouillard,Olivier Grouillard,tyrrell,DNF,0,13,1,25,972.791129,958.03765,-14.753479,0.04,0.33507,50.0,26
-1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,pierluigi-martini,Pierluigi Martini,dallara,DNF,0,14,1,26,1113.670218,1089.526116,-24.144103,0.04,0.522882,50.0,26
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,gerhard-berger,Gerhard Berger,mclaren,1,81,4,0,1,1237.164393,1252.983536,15.819144,1.0,0.683617,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,michael-schumacher,Michael Schumacher,benetton,2,81,5,0,2,1186.16088,1203.17062,17.009739,0.96,0.619805,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,martin-brundle,Martin Brundle,benetton,3,81,8,0,3,1226.303839,1238.781708,12.477869,0.92,0.670443,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,jean-alesi,Jean Alesi,ferrari,4,80,6,0,4,1118.341152,1135.878513,17.537361,0.88,0.529253,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,thierry-boutsen,Thierry Boutsen,ligier,5,80,22,0,5,1103.42113,1119.977231,16.556101,0.84,0.508878,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,stefano-modena,Stefano Modena,jordan,6,80,15,0,6,1028.046702,1047.720584,19.673882,0.8,0.406522,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,mika-hakkinen,Mika Häkkinen,lotus,7,80,10,0,7,1114.325939,1126.137094,11.811154,0.76,0.523777,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,aguri-suzuki,Aguri Suzuki,footwork,8,79,18,0,8,1028.011338,1043.687575,15.676237,0.72,0.406475,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,christian-fittipaldi,Christian Fittipaldi,minardi,9,79,17,0,9,1009.778217,1024.658538,14.88032,0.68,0.382394,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,gianni-morbidelli,Gianni Morbidelli,minardi,10,79,16,0,10,1060.96519,1070.42157,9.45638,0.64,0.450872,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,nicola-larini,Nicola Larini,ferrari,11,79,19,0,11,952.552153,967.039949,14.487796,0.6,0.310244,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,jan-lammers,Jan Lammers,march,12,78,25,0,12,878.401844,895.030184,16.62834,0.56,0.227433,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,johnny-herbert,Johnny Herbert,lotus,13,77,12,0,13,1014.106741,1020.703152,6.596411,0.52,0.388072,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,jj-lehto,JJ Lehto,dallara,DNF,70,24,1,14,1124.394198,1121.519501,-2.874696,0.48,0.537494,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,emanuele-naspetti,Emanuele Naspetti,march,DNF,55,23,1,15,1026.383309,1028.167885,1.784576,0.44,0.404308,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,bertrand-gachot,Bertrand Gachot,venturi,DNF,51,21,1,16,981.258842,983.974045,2.715203,0.4,0.345696,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,riccardo-patrese,Riccardo Patrese,williams,DNF,50,3,1,17,1304.774557,1284.796028,-19.978529,0.36,0.759571,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,ukyo-katayama,Ukyo Katayama,venturi,DNF,35,26,1,18,1032.306764,1027.696455,-4.610309,0.32,0.412206,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,andrea-de-cesaris,Andrea de Cesaris,tyrrell,DNF,29,7,1,19,1157.101934,1142.022715,-15.079219,0.28,0.581584,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,ayrton-senna,Ayrton Senna,mclaren,DNF,18,2,1,20,1284.930858,1259.009204,-25.921655,0.22,0.738433,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,nigel-mansell,Nigel Mansell,williams,DNF,18,1,1,21,1319.997453,1292.242812,-27.754641,0.22,0.775093,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,mauricio-gugelmin,Maurício Gugelmin,jordan,DNF,7,20,1,22,1049.098739,1035.359586,-13.739153,0.16,0.434783,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,erik-comas,Érik Comas,ligier,DNF,4,9,1,23,1089.717323,1071.210994,-18.506329,0.12,0.490127,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,michele-alboreto,Michele Alboreto,footwork,DNF,0,11,1,24,1137.281158,1111.53276,-25.748398,0.04,0.554968,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,olivier-grouillard,Olivier Grouillard,tyrrell,DNF,0,13,1,25,972.791129,958.03765,-14.753479,0.04,0.33507,50.0,26
+1992,16,1992-11-08,australia,1992 Foster's Australian Grand Prix,532,pierluigi-martini,Pierluigi Martini,dallara,DNF,0,14,1,26,1113.670218,1089.526116,-24.144103,0.04,0.522882,50.0,26

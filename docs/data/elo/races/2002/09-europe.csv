@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,rubens-barrichello,Rubens Barrichello,ferrari,1,60,4,0,1,1191.936639,1208.539711,16.603072,1.0,0.667939,50.0,22
-2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,michael-schumacher,Michael Schumacher,ferrari,2,60,3,0,2,1414.690798,1418.355822,3.665024,0.952381,0.87908,50.0,22
-2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,kimi-raikkonen,Kimi Räikkönen,mclaren,3,60,6,0,3,1008.588859,1032.764507,24.175648,0.904762,0.421249,50.0,22
-2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,ralf-schumacher,Ralf Schumacher,williams,4,60,2,0,4,1208.609402,1217.061144,8.451742,0.857143,0.688108,50.0,22
-2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,jenson-button,Jenson Button,renault,5,60,8,0,5,1067.275364,1082.628862,15.353498,0.809524,0.502454,50.0,22
-2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,felipe-massa,Felipe Massa,sauber,6,59,11,0,6,1026.627624,1042.41944,15.791816,0.761905,0.446068,50.0,22
-2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,nick-heidfeld,Nick Heidfeld,sauber,7,59,9,0,7,1061.751928,1072.72685,10.974923,0.714286,0.494787,50.0,22
-2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,jarno-trulli,Jarno Trulli,renault,8,59,7,0,8,1056.828746,1065.764571,8.935826,0.666667,0.48795,50.0,22
-2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,olivier-panis,Olivier Panis,bar,9,59,12,0,9,998.041648,1008.651006,10.609359,0.619048,0.40686,50.0,22
-2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,enrique-bernoldi,Enrique Bernoldi,arrows,10,59,21,0,10,914.130271,927.791667,13.661396,0.571429,0.298201,50.0,22
-2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,pedro-de-la-rosa,Pedro de la Rosa,jaguar,11,59,16,0,11,968.704401,976.518791,7.81439,0.52381,0.367522,50.0,22
-2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,jacques-villeneuve,Jacques Villeneuve,bar,12,59,19,0,12,1087.643534,1084.921223,-2.72231,0.47619,0.530637,50.0,22
-2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,heinz-harald-frentzen,Heinz-Harald Frentzen,arrows,13,59,15,0,13,1047.988166,1045.633167,-2.354999,0.428571,0.475671,50.0,22
-2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,allan-mcnish,Allan McNish,toyota,14,59,13,0,14,978.208756,978.249401,0.040645,0.380952,0.380139,50.0,22
-2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,mark-webber,Mark Webber,minardi,15,58,20,0,15,1017.815537,1012.786423,-5.029114,0.333333,0.433916,50.0,22
-2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,takuma-sato,Takuma Sato,jordan,16,58,14,0,16,985.132247,979.947379,-5.184868,0.285714,0.389412,50.0,22
-2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,mika-salo,Mika Salo,toyota,DNF,51,10,1,17,1078.240486,1064.262823,-13.977663,0.238095,0.517649,50.0,22
-2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,alex-yoong,Alex Yoong,minardi,DNF,48,22,1,18,946.294743,938.900845,-7.393898,0.190476,0.338354,50.0,22
-2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,eddie-irvine,Eddie Irvine,jaguar,DNF,41,17,1,19,1026.446413,1011.298367,-15.148046,0.142857,0.445818,50.0,22
-2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,david-coulthard,David Coulthard,mclaren,DNF,27,5,1,20,1270.115772,1235.848618,-34.267154,0.071429,0.756772,50.0,22
-2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,27,1,1,21,1128.197041,1102.476388,-25.720653,0.071429,0.585842,50.0,22
-2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,26,18,1,22,1055.11708,1030.838446,-24.278634,0.0,0.485573,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,689,rubens-barrichello,Rubens Barrichello,ferrari,1,60,4,0,1,1191.936639,1208.539711,16.603072,1.0,0.667939,50.0,22
+2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,689,michael-schumacher,Michael Schumacher,ferrari,2,60,3,0,2,1414.690798,1418.355822,3.665024,0.952381,0.87908,50.0,22
+2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,689,kimi-raikkonen,Kimi Räikkönen,mclaren,3,60,6,0,3,1008.588859,1032.764507,24.175648,0.904762,0.421249,50.0,22
+2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,689,ralf-schumacher,Ralf Schumacher,williams,4,60,2,0,4,1208.609402,1217.061144,8.451742,0.857143,0.688108,50.0,22
+2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,689,jenson-button,Jenson Button,renault,5,60,8,0,5,1067.275364,1082.628862,15.353498,0.809524,0.502454,50.0,22
+2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,689,felipe-massa,Felipe Massa,sauber,6,59,11,0,6,1026.627624,1042.41944,15.791816,0.761905,0.446068,50.0,22
+2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,689,nick-heidfeld,Nick Heidfeld,sauber,7,59,9,0,7,1061.751928,1072.72685,10.974923,0.714286,0.494787,50.0,22
+2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,689,jarno-trulli,Jarno Trulli,renault,8,59,7,0,8,1056.828746,1065.764571,8.935826,0.666667,0.48795,50.0,22
+2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,689,olivier-panis,Olivier Panis,bar,9,59,12,0,9,998.041648,1008.651006,10.609359,0.619048,0.40686,50.0,22
+2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,689,enrique-bernoldi,Enrique Bernoldi,arrows,10,59,21,0,10,914.130271,927.791667,13.661396,0.571429,0.298201,50.0,22
+2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,689,pedro-de-la-rosa,Pedro de la Rosa,jaguar,11,59,16,0,11,968.704401,976.518791,7.81439,0.52381,0.367522,50.0,22
+2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,689,jacques-villeneuve,Jacques Villeneuve,bar,12,59,19,0,12,1087.643534,1084.921223,-2.72231,0.47619,0.530637,50.0,22
+2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,689,heinz-harald-frentzen,Heinz-Harald Frentzen,arrows,13,59,15,0,13,1047.988166,1045.633167,-2.354999,0.428571,0.475671,50.0,22
+2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,689,allan-mcnish,Allan McNish,toyota,14,59,13,0,14,978.208756,978.249401,0.040645,0.380952,0.380139,50.0,22
+2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,689,mark-webber,Mark Webber,minardi,15,58,20,0,15,1017.815537,1012.786423,-5.029114,0.333333,0.433916,50.0,22
+2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,689,takuma-sato,Takuma Sato,jordan,16,58,14,0,16,985.132247,979.947379,-5.184868,0.285714,0.389412,50.0,22
+2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,689,mika-salo,Mika Salo,toyota,DNF,51,10,1,17,1078.240486,1064.262823,-13.977663,0.238095,0.517649,50.0,22
+2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,689,alex-yoong,Alex Yoong,minardi,DNF,48,22,1,18,946.294743,938.900845,-7.393898,0.190476,0.338354,50.0,22
+2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,689,eddie-irvine,Eddie Irvine,jaguar,DNF,41,17,1,19,1026.446413,1011.298367,-15.148046,0.142857,0.445818,50.0,22
+2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,689,david-coulthard,David Coulthard,mclaren,DNF,27,5,1,20,1270.115772,1235.848618,-34.267154,0.071429,0.756772,50.0,22
+2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,689,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,27,1,1,21,1128.197041,1102.476388,-25.720653,0.071429,0.585842,50.0,22
+2002,9,2002-06-23,europe,2002 Allianz Grand Prix of Europe,689,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,26,18,1,22,1055.11708,1030.838446,-24.278634,0.0,0.485573,50.0,22

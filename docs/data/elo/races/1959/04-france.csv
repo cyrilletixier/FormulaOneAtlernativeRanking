@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1959,4,1959-07-05,france,Grand Prix de France 1959,tony-brooks,Tony Brooks,ferrari,1,50,1,0,1,1042.175031,1065.870621,23.69559,1.0,0.526088,50.0,22
-1959,4,1959-07-05,france,Grand Prix de France 1959,phil-hill,Phil Hill,ferrari,2,50,3,0,2,1082.209041,1100.581746,18.372705,0.952381,0.584927,50.0,22
-1959,4,1959-07-05,france,Grand Prix de France 1959,jack-brabham,Jack Brabham,cooper,3,50,2,0,3,1055.409846,1073.363572,17.953726,0.904762,0.545687,50.0,22
-1959,4,1959-07-05,france,Grand Prix de France 1959,olivier-gendebien,Olivier Gendebien,ferrari,4,50,11,0,4,981.866289,1002.890378,21.02409,0.857143,0.436661,50.0,22
-1959,4,1959-07-05,france,Grand Prix de France 1959,bruce-mclaren,Bruce McLaren,cooper,5,50,10,0,5,1035.158638,1049.851616,14.692979,0.809524,0.515664,50.0,22
-1959,4,1959-07-05,france,Grand Prix de France 1959,ron-flockhart,Ron Flockhart,brm,6,50,13,0,6,954.067415,972.345673,18.278258,0.761905,0.39634,50.0,22
-1959,4,1959-07-05,france,Grand Prix de France 1959,harry-schell,Harry Schell,brm,7,47,9,0,7,1065.943161,1073.597595,7.654433,0.714286,0.561197,50.0,22
-1959,4,1959-07-05,france,Grand Prix de France 1959,giorgio-scarlatti,Giorgio Scarlatti,maserati,8,41,21,0,8,994.926503,1005.465001,10.538498,0.666667,0.455897,50.0,22
-1959,4,1959-07-05,france,Grand Prix de France 1959,carel-godin-de-beaufort,Carel Godin de Beaufort,maserati,9,40,20,0,9,982.624736,991.688417,9.06368,0.619048,0.437774,50.0,22
-1959,4,1959-07-05,france,Grand Prix de France 1959,fritz-dorey,Fritz d'Orey,maserati,10,40,18,0,10,1000.0,1005.401242,5.401242,0.571429,0.463404,50.0,22
-1959,4,1959-07-05,france,Grand Prix de France 1959,maurice-trintignant,Maurice Trintignant,cooper,11,36,8,0,11,1051.58067,1050.769765,-0.810905,0.52381,0.540028,50.0,22
-1959,4,1959-07-05,france,Grand Prix de France 1959,jean-behra,Jean Behra,ferrari,DNF,31,5,1,12,1045.851778,1043.084163,-2.767615,0.47619,0.531543,50.0,22
-1959,4,1959-07-05,france,Grand Prix de France 1959,roy-salvadori,Roy Salvadori,cooper,DNF,20,16,1,13,1035.097556,1030.747457,-4.3501,0.428571,0.515573,50.0,22
-1959,4,1959-07-05,france,Grand Prix de France 1959,dan-gurney,Dan Gurney,ferrari,DNF,19,12,1,14,1000.0,995.877432,-4.122568,0.380952,0.463404,50.0,22
-1959,4,1959-07-05,france,Grand Prix de France 1959,innes-ireland,Innes Ireland,lotus,DNF,14,15,1,15,1017.121382,1009.346633,-7.774749,0.333333,0.488828,50.0,22
-1959,4,1959-07-05,france,Grand Prix de France 1959,ian-burgess,Ian Burgess,cooper,DNF,13,19,1,16,1010.857978,1001.167923,-9.690055,0.285714,0.479515,50.0,22
-1959,4,1959-07-05,france,Grand Prix de France 1959,masten-gregory,Masten Gregory,cooper,DNF,8,7,1,17,1063.32846,1047.365418,-15.963042,0.238095,0.557356,50.0,22
-1959,4,1959-07-05,france,Grand Prix de France 1959,colin-davis,Colin Davis,cooper,DNF,7,17,1,18,1000.0,985.163146,-14.836854,0.166667,0.463404,50.0,22
-1959,4,1959-07-05,france,Grand Prix de France 1959,graham-hill,Graham Hill,lotus,DNF,7,14,1,19,983.8018,970.160016,-13.641784,0.166667,0.439502,50.0,22
-1959,4,1959-07-05,france,Grand Prix de France 1959,jo-bonnier,Jo Bonnier,brm,DNF,6,6,1,20,1007.861476,988.870181,-18.991295,0.095238,0.475064,50.0,22
-1959,4,1959-07-05,france,Grand Prix de France 1959,stirling-moss,Stirling Moss,brm,DSQ,42,4,2,21,1134.747285,1104.191238,-30.556047,0.047619,0.65874,50.0,22
-1959,4,1959-07-05,france,Grand Prix de France 1959,asdrubal-fontes-bayardo,Asdrúbal Fontes Bayardo,maserati,DNS,,,2,22,1000.0,976.829813,-23.170187,0.0,0.463404,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1959,4,1959-07-05,france,Grand Prix de France 1959,79,tony-brooks,Tony Brooks,ferrari,1,50,1,0,1,1042.175031,1065.870621,23.69559,1.0,0.526088,50.0,22
+1959,4,1959-07-05,france,Grand Prix de France 1959,79,phil-hill,Phil Hill,ferrari,2,50,3,0,2,1082.209041,1100.581746,18.372705,0.952381,0.584927,50.0,22
+1959,4,1959-07-05,france,Grand Prix de France 1959,79,jack-brabham,Jack Brabham,cooper,3,50,2,0,3,1055.409846,1073.363572,17.953726,0.904762,0.545687,50.0,22
+1959,4,1959-07-05,france,Grand Prix de France 1959,79,olivier-gendebien,Olivier Gendebien,ferrari,4,50,11,0,4,981.866289,1002.890378,21.02409,0.857143,0.436661,50.0,22
+1959,4,1959-07-05,france,Grand Prix de France 1959,79,bruce-mclaren,Bruce McLaren,cooper,5,50,10,0,5,1035.158638,1049.851616,14.692979,0.809524,0.515664,50.0,22
+1959,4,1959-07-05,france,Grand Prix de France 1959,79,ron-flockhart,Ron Flockhart,brm,6,50,13,0,6,954.067415,972.345673,18.278258,0.761905,0.39634,50.0,22
+1959,4,1959-07-05,france,Grand Prix de France 1959,79,harry-schell,Harry Schell,brm,7,47,9,0,7,1065.943161,1073.597595,7.654433,0.714286,0.561197,50.0,22
+1959,4,1959-07-05,france,Grand Prix de France 1959,79,giorgio-scarlatti,Giorgio Scarlatti,maserati,8,41,21,0,8,994.926503,1005.465001,10.538498,0.666667,0.455897,50.0,22
+1959,4,1959-07-05,france,Grand Prix de France 1959,79,carel-godin-de-beaufort,Carel Godin de Beaufort,maserati,9,40,20,0,9,982.624736,991.688417,9.06368,0.619048,0.437774,50.0,22
+1959,4,1959-07-05,france,Grand Prix de France 1959,79,fritz-dorey,Fritz d'Orey,maserati,10,40,18,0,10,1000.0,1005.401242,5.401242,0.571429,0.463404,50.0,22
+1959,4,1959-07-05,france,Grand Prix de France 1959,79,maurice-trintignant,Maurice Trintignant,cooper,11,36,8,0,11,1051.58067,1050.769765,-0.810905,0.52381,0.540028,50.0,22
+1959,4,1959-07-05,france,Grand Prix de France 1959,79,jean-behra,Jean Behra,ferrari,DNF,31,5,1,12,1045.851778,1043.084163,-2.767615,0.47619,0.531543,50.0,22
+1959,4,1959-07-05,france,Grand Prix de France 1959,79,roy-salvadori,Roy Salvadori,cooper,DNF,20,16,1,13,1035.097556,1030.747457,-4.3501,0.428571,0.515573,50.0,22
+1959,4,1959-07-05,france,Grand Prix de France 1959,79,dan-gurney,Dan Gurney,ferrari,DNF,19,12,1,14,1000.0,995.877432,-4.122568,0.380952,0.463404,50.0,22
+1959,4,1959-07-05,france,Grand Prix de France 1959,79,innes-ireland,Innes Ireland,lotus,DNF,14,15,1,15,1017.121382,1009.346633,-7.774749,0.333333,0.488828,50.0,22
+1959,4,1959-07-05,france,Grand Prix de France 1959,79,ian-burgess,Ian Burgess,cooper,DNF,13,19,1,16,1010.857978,1001.167923,-9.690055,0.285714,0.479515,50.0,22
+1959,4,1959-07-05,france,Grand Prix de France 1959,79,masten-gregory,Masten Gregory,cooper,DNF,8,7,1,17,1063.32846,1047.365418,-15.963042,0.238095,0.557356,50.0,22
+1959,4,1959-07-05,france,Grand Prix de France 1959,79,colin-davis,Colin Davis,cooper,DNF,7,17,1,18,1000.0,985.163146,-14.836854,0.166667,0.463404,50.0,22
+1959,4,1959-07-05,france,Grand Prix de France 1959,79,graham-hill,Graham Hill,lotus,DNF,7,14,1,19,983.8018,970.160016,-13.641784,0.166667,0.439502,50.0,22
+1959,4,1959-07-05,france,Grand Prix de France 1959,79,jo-bonnier,Jo Bonnier,brm,DNF,6,6,1,20,1007.861476,988.870181,-18.991295,0.095238,0.475064,50.0,22
+1959,4,1959-07-05,france,Grand Prix de France 1959,79,stirling-moss,Stirling Moss,brm,DSQ,42,4,2,21,1134.747285,1104.191238,-30.556047,0.047619,0.65874,50.0,22
+1959,4,1959-07-05,france,Grand Prix de France 1959,79,asdrubal-fontes-bayardo,Asdrúbal Fontes Bayardo,maserati,DNS,,,2,22,1000.0,976.829813,-23.170187,0.0,0.463404,50.0,22

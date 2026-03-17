@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,lewis-hamilton,Lewis Hamilton,mercedes,1,66,1,0,1,1499.66471,1505.703734,6.039024,1.0,0.87922,50.0,20
-2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,sebastian-vettel,Sebastian Vettel,ferrari,2,66,2,0,2,1385.887479,1393.6738,7.786321,0.947368,0.791642,50.0,20
-2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,daniel-ricciardo,Daniel Ricciardo,red-bull,3,66,6,0,3,1311.499158,1320.286791,8.787633,0.894737,0.718984,50.0,20
-2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,sergio-perez,Sergio Pérez,force-india,4,65,8,0,4,1251.25158,1260.747898,9.496318,0.842105,0.652179,50.0,20
-2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,esteban-ocon,Esteban Ocon,force-india,5,65,10,0,5,1019.593144,1040.90344,21.310296,0.789474,0.363268,50.0,20
-2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,nico-hulkenberg,Nico Hülkenberg,renault,6,65,13,0,6,1151.934456,1162.236919,10.302463,0.736842,0.530793,50.0,20
-2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,7,65,12,0,7,1096.253292,1107.47682,11.223529,0.684211,0.45974,50.0,20
-2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,pascal-wehrlein,Pascal Wehrlein,sauber,8,65,15,0,8,938.571242,956.705053,18.133812,0.631579,0.268903,50.0,20
-2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,daniil-kvyat,Daniil Kvyat,toro-rosso,9,65,19,0,9,1052.242209,1060.997289,8.755079,0.578947,0.403846,50.0,20
-2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,romain-grosjean,Romain Grosjean,haas,10,65,14,0,10,1022.087795,1030.087119,7.999324,0.526316,0.366329,50.0,20
-2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,marcus-ericsson,Marcus Ericsson,sauber,11,64,16,0,11,960.580507,969.594057,9.01355,0.473684,0.293413,50.0,20
-2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,fernando-alonso,Fernando Alonso,mclaren,12,64,7,0,12,1077.389143,1076.658,-0.731143,0.421053,0.435675,50.0,20
-2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,felipe-massa,Felipe Massa,williams,13,64,9,0,13,1158.048474,1149.54295,-8.505524,0.368421,0.538532,50.0,20
-2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,kevin-magnussen,Kevin Magnussen,haas,14,64,11,0,14,1010.719333,1008.886877,-1.832455,0.315789,0.352439,50.0,20
-2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,jolyon-palmer,Jolyon Palmer,renault,15,64,17,0,15,964.232622,962.511988,-1.720634,0.263158,0.297571,50.0,20
-2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,lance-stroll,Lance Stroll,williams,16,64,18,0,16,979.646862,974.404179,-5.242683,0.210526,0.31538,50.0,20
-2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,valtteri-bottas,Valtteri Bottas,mercedes,DNF,38,3,1,17,1244.910082,1220.56527,-24.344812,0.157895,0.644791,50.0,20
-2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,stoffel-vandoorne,Stoffel Vandoorne,mclaren,DNF,32,20,1,18,983.736147,972.990671,-10.745476,0.105263,0.320173,50.0,20
-2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,max-verstappen,Max Verstappen,red-bull,DNF,1,5,1,19,1262.569329,1231.940529,-30.6288,0.052632,0.665208,50.0,20
-2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,0,4,1,20,1295.531627,1260.435804,-35.095822,0.0,0.701916,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,961,lewis-hamilton,Lewis Hamilton,mercedes,1,66,1,0,1,1499.66471,1505.703734,6.039024,1.0,0.87922,50.0,20
+2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,961,sebastian-vettel,Sebastian Vettel,ferrari,2,66,2,0,2,1385.887479,1393.6738,7.786321,0.947368,0.791642,50.0,20
+2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,961,daniel-ricciardo,Daniel Ricciardo,red-bull,3,66,6,0,3,1311.499158,1320.286791,8.787633,0.894737,0.718984,50.0,20
+2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,961,sergio-perez,Sergio Pérez,force-india,4,65,8,0,4,1251.25158,1260.747898,9.496318,0.842105,0.652179,50.0,20
+2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,961,esteban-ocon,Esteban Ocon,force-india,5,65,10,0,5,1019.593144,1040.90344,21.310296,0.789474,0.363268,50.0,20
+2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,961,nico-hulkenberg,Nico Hülkenberg,renault,6,65,13,0,6,1151.934456,1162.236919,10.302463,0.736842,0.530793,50.0,20
+2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,961,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,7,65,12,0,7,1096.253292,1107.47682,11.223529,0.684211,0.45974,50.0,20
+2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,961,pascal-wehrlein,Pascal Wehrlein,sauber,8,65,15,0,8,938.571242,956.705053,18.133812,0.631579,0.268903,50.0,20
+2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,961,daniil-kvyat,Daniil Kvyat,toro-rosso,9,65,19,0,9,1052.242209,1060.997289,8.755079,0.578947,0.403846,50.0,20
+2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,961,romain-grosjean,Romain Grosjean,haas,10,65,14,0,10,1022.087795,1030.087119,7.999324,0.526316,0.366329,50.0,20
+2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,961,marcus-ericsson,Marcus Ericsson,sauber,11,64,16,0,11,960.580507,969.594057,9.01355,0.473684,0.293413,50.0,20
+2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,961,fernando-alonso,Fernando Alonso,mclaren,12,64,7,0,12,1077.389143,1076.658,-0.731143,0.421053,0.435675,50.0,20
+2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,961,felipe-massa,Felipe Massa,williams,13,64,9,0,13,1158.048474,1149.54295,-8.505524,0.368421,0.538532,50.0,20
+2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,961,kevin-magnussen,Kevin Magnussen,haas,14,64,11,0,14,1010.719333,1008.886877,-1.832455,0.315789,0.352439,50.0,20
+2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,961,jolyon-palmer,Jolyon Palmer,renault,15,64,17,0,15,964.232622,962.511988,-1.720634,0.263158,0.297571,50.0,20
+2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,961,lance-stroll,Lance Stroll,williams,16,64,18,0,16,979.646862,974.404179,-5.242683,0.210526,0.31538,50.0,20
+2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,961,valtteri-bottas,Valtteri Bottas,mercedes,DNF,38,3,1,17,1244.910082,1220.56527,-24.344812,0.157895,0.644791,50.0,20
+2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,961,stoffel-vandoorne,Stoffel Vandoorne,mclaren,DNF,32,20,1,18,983.736147,972.990671,-10.745476,0.105263,0.320173,50.0,20
+2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,961,max-verstappen,Max Verstappen,red-bull,DNF,1,5,1,19,1262.569329,1231.940529,-30.6288,0.052632,0.665208,50.0,20
+2017,5,2017-05-14,spain,Formula 1 Gran Premio de España Pirelli 2017,961,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,0,4,1,20,1295.531627,1260.435804,-35.095822,0.0,0.701916,50.0,20

@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,michael-schumacher,Michael Schumacher,ferrari,1,44,1,0,1,1438.712051,1444.441041,5.728989,1.0,0.88542,50.0,20
-2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,rubens-barrichello,Rubens Barrichello,ferrari,2,44,3,0,2,1213.558613,1227.099001,13.540388,0.947368,0.676561,50.0,20
-2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,juan-pablo-montoya,Juan Pablo Montoya,williams,3,44,5,0,3,1145.935436,1161.159738,15.224302,0.894737,0.590251,50.0,20
-2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,david-coulthard,David Coulthard,mclaren,4,44,6,0,4,1246.365015,1252.717703,6.352689,0.842105,0.715051,50.0,20
-2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,ralf-schumacher,Ralf Schumacher,williams,5,44,4,0,5,1241.054258,1245.078352,4.024094,0.789474,0.708992,50.0,20
-2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,eddie-irvine,Eddie Irvine,jaguar,6,44,8,0,6,990.756721,1008.718455,17.961734,0.736842,0.377607,50.0,20
-2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,mika-salo,Mika Salo,toyota,7,44,9,0,7,1038.71551,1050.78061,12.0651,0.684211,0.442909,50.0,20
-2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,jacques-villeneuve,Jacques Villeneuve,bar,8,44,12,0,8,1051.242331,1059.808859,8.566528,0.631579,0.460248,50.0,20
-2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,allan-mcnish,Allan McNish,toyota,9,43,13,0,9,958.765957,970.928012,12.162055,0.578947,0.335706,50.0,20
-2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,nick-heidfeld,Nick Heidfeld,sauber,10,43,18,0,10,1107.911616,1107.291036,-0.620579,0.526316,0.538727,50.0,20
-2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,takuma-sato,Takuma Sato,jordan,11,43,16,0,11,994.922124,999.447349,4.525226,0.473684,0.38318,50.0,20
-2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,olivier-panis,Olivier Panis,bar,12,39,15,0,12,1015.512323,1016.013094,0.500771,0.421053,0.411037,50.0,20
-2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,38,14,1,13,1045.695656,1041.488574,-4.207082,0.368421,0.452563,50.0,20
-2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,felipe-massa,Felipe Massa,sauber,DNF,37,17,1,14,1067.008918,1057.375911,-9.633007,0.289474,0.482134,50.0,20
-2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,jaguar,DNF,37,11,1,15,978.063749,974.498348,-3.565401,0.289474,0.360782,50.0,20
-2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,jarno-trulli,Jarno Trulli,renault,DNF,35,7,1,16,1055.737673,1041.623993,-14.113679,0.184211,0.466484,50.0,20
-2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,35,2,1,17,1076.085216,1060.558896,-15.52632,0.184211,0.494737,50.0,20
-2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,anthony-davidson,Anthony Davidson,minardi,DNF,17,20,1,18,988.435556,974.973078,-13.462478,0.105263,0.374513,50.0,20
-2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,jenson-button,Jenson Button,renault,DNF,10,10,1,19,1057.828362,1036.990654,-20.837709,0.052632,0.469386,50.0,20
-2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,mark-webber,Mark Webber,minardi,DNF,4,19,1,20,987.834358,969.148737,-18.68562,0.0,0.373712,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,694,michael-schumacher,Michael Schumacher,ferrari,1,44,1,0,1,1438.712051,1444.441041,5.728989,1.0,0.88542,50.0,20
+2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,694,rubens-barrichello,Rubens Barrichello,ferrari,2,44,3,0,2,1213.558613,1227.099001,13.540388,0.947368,0.676561,50.0,20
+2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,694,juan-pablo-montoya,Juan Pablo Montoya,williams,3,44,5,0,3,1145.935436,1161.159738,15.224302,0.894737,0.590251,50.0,20
+2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,694,david-coulthard,David Coulthard,mclaren,4,44,6,0,4,1246.365015,1252.717703,6.352689,0.842105,0.715051,50.0,20
+2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,694,ralf-schumacher,Ralf Schumacher,williams,5,44,4,0,5,1241.054258,1245.078352,4.024094,0.789474,0.708992,50.0,20
+2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,694,eddie-irvine,Eddie Irvine,jaguar,6,44,8,0,6,990.756721,1008.718455,17.961734,0.736842,0.377607,50.0,20
+2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,694,mika-salo,Mika Salo,toyota,7,44,9,0,7,1038.71551,1050.78061,12.0651,0.684211,0.442909,50.0,20
+2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,694,jacques-villeneuve,Jacques Villeneuve,bar,8,44,12,0,8,1051.242331,1059.808859,8.566528,0.631579,0.460248,50.0,20
+2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,694,allan-mcnish,Allan McNish,toyota,9,43,13,0,9,958.765957,970.928012,12.162055,0.578947,0.335706,50.0,20
+2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,694,nick-heidfeld,Nick Heidfeld,sauber,10,43,18,0,10,1107.911616,1107.291036,-0.620579,0.526316,0.538727,50.0,20
+2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,694,takuma-sato,Takuma Sato,jordan,11,43,16,0,11,994.922124,999.447349,4.525226,0.473684,0.38318,50.0,20
+2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,694,olivier-panis,Olivier Panis,bar,12,39,15,0,12,1015.512323,1016.013094,0.500771,0.421053,0.411037,50.0,20
+2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,694,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,38,14,1,13,1045.695656,1041.488574,-4.207082,0.368421,0.452563,50.0,20
+2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,694,felipe-massa,Felipe Massa,sauber,DNF,37,17,1,14,1067.008918,1057.375911,-9.633007,0.289474,0.482134,50.0,20
+2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,694,pedro-de-la-rosa,Pedro de la Rosa,jaguar,DNF,37,11,1,15,978.063749,974.498348,-3.565401,0.289474,0.360782,50.0,20
+2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,694,jarno-trulli,Jarno Trulli,renault,DNF,35,7,1,16,1055.737673,1041.623993,-14.113679,0.184211,0.466484,50.0,20
+2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,694,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,35,2,1,17,1076.085216,1060.558896,-15.52632,0.184211,0.494737,50.0,20
+2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,694,anthony-davidson,Anthony Davidson,minardi,DNF,17,20,1,18,988.435556,974.973078,-13.462478,0.105263,0.374513,50.0,20
+2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,694,jenson-button,Jenson Button,renault,DNF,10,10,1,19,1057.828362,1036.990654,-20.837709,0.052632,0.469386,50.0,20
+2002,14,2002-09-01,belgium,2002 Foster's Belgian Grand Prix,694,mark-webber,Mark Webber,minardi,DNF,4,19,1,20,987.834358,969.148737,-18.68562,0.0,0.373712,50.0,20

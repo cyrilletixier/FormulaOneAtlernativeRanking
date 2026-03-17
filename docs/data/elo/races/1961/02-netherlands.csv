@@ -1,18 +1,18 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,wolfgang-von-trips,Wolfgang von Trips,ferrari,1,75,2,0,1,1111.808662,1132.095873,20.28721,1.0,0.594256,50.0,17
-1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,phil-hill,Phil Hill,ferrari,2,75,1,0,2,1147.452718,1162.121169,14.668451,0.9375,0.644131,50.0,17
-1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,jim-clark,Jim Clark,lotus,3,75,10,0,3,1040.167009,1059.434719,19.26771,0.875,0.489646,50.0,17
-1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,stirling-moss,Stirling Moss,lotus,4,75,4,0,4,1136.64736,1145.810021,9.16266,0.8125,0.629247,50.0,17
-1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,richie-ginther,Richie Ginther,ferrari,5,75,3,0,5,1052.73232,1064.823583,12.091263,0.75,0.508175,50.0,17
-1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,jack-brabham,Jack Brabham,cooper,6,75,7,0,6,1157.449062,1158.939469,1.490407,0.6875,0.657692,50.0,17
-1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,john-surtees,John Surtees,cooper,7,75,9,0,7,1005.243742,1014.574663,9.330921,0.625,0.438382,50.0,17
-1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,graham-hill,Graham Hill,brm,8,75,5,0,8,952.808609,962.749871,9.941262,0.5625,0.363675,50.0,17
-1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,tony-brooks,Tony Brooks,brm,9,74,8,0,9,1026.018836,1027.578459,1.559623,0.5,0.468808,50.0,17
-1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,dan-gurney,Dan Gurney,porsche,10,74,6,0,10,1028.446538,1026.702598,-1.743941,0.4375,0.472379,50.0,17
-1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,jo-bonnier,Jo Bonnier,porsche,11,73,11,0,11,1012.888917,1009.161694,-3.727224,0.375,0.449544,50.0,17
-1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,bruce-mclaren,Bruce McLaren,cooper,12,73,13,0,12,1166.426941,1148.567595,-17.859346,0.3125,0.669687,50.0,17
-1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,trevor-taylor,Trevor Taylor,lotus,13,73,14,0,13,980.16728,972.558527,-7.608753,0.25,0.402175,50.0,17
-1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,carel-godin-de-beaufort,Carel Godin de Beaufort,porsche,14,72,15,0,14,1002.586718,990.236043,-12.350674,0.1875,0.434513,50.0,17
-1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,hans-herrmann,Hans Herrmann,porsche,15,72,12,0,15,1013.414202,997.148547,-16.265654,0.125,0.450313,50.0,17
-1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,ian-burgess,Ian Burgess,lotus,DNS,,,2,16,971.777037,953.827553,-17.949485,0.03125,0.39024,50.0,17
-1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,masten-gregory,Masten Gregory,cooper,DNS,,,2,17,1004.390417,984.095986,-20.294431,0.03125,0.437139,50.0,17
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,96,wolfgang-von-trips,Wolfgang von Trips,ferrari,1,75,2,0,1,1111.808662,1132.095873,20.28721,1.0,0.594256,50.0,17
+1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,96,phil-hill,Phil Hill,ferrari,2,75,1,0,2,1147.452718,1162.121169,14.668451,0.9375,0.644131,50.0,17
+1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,96,jim-clark,Jim Clark,lotus,3,75,10,0,3,1040.167009,1059.434719,19.26771,0.875,0.489646,50.0,17
+1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,96,stirling-moss,Stirling Moss,lotus,4,75,4,0,4,1136.64736,1145.810021,9.16266,0.8125,0.629247,50.0,17
+1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,96,richie-ginther,Richie Ginther,ferrari,5,75,3,0,5,1052.73232,1064.823583,12.091263,0.75,0.508175,50.0,17
+1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,96,jack-brabham,Jack Brabham,cooper,6,75,7,0,6,1157.449062,1158.939469,1.490407,0.6875,0.657692,50.0,17
+1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,96,john-surtees,John Surtees,cooper,7,75,9,0,7,1005.243742,1014.574663,9.330921,0.625,0.438382,50.0,17
+1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,96,graham-hill,Graham Hill,brm,8,75,5,0,8,952.808609,962.749871,9.941262,0.5625,0.363675,50.0,17
+1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,96,tony-brooks,Tony Brooks,brm,9,74,8,0,9,1026.018836,1027.578459,1.559623,0.5,0.468808,50.0,17
+1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,96,dan-gurney,Dan Gurney,porsche,10,74,6,0,10,1028.446538,1026.702598,-1.743941,0.4375,0.472379,50.0,17
+1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,96,jo-bonnier,Jo Bonnier,porsche,11,73,11,0,11,1012.888917,1009.161694,-3.727224,0.375,0.449544,50.0,17
+1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,96,bruce-mclaren,Bruce McLaren,cooper,12,73,13,0,12,1166.426941,1148.567595,-17.859346,0.3125,0.669687,50.0,17
+1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,96,trevor-taylor,Trevor Taylor,lotus,13,73,14,0,13,980.16728,972.558527,-7.608753,0.25,0.402175,50.0,17
+1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,96,carel-godin-de-beaufort,Carel Godin de Beaufort,porsche,14,72,15,0,14,1002.586718,990.236043,-12.350674,0.1875,0.434513,50.0,17
+1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,96,hans-herrmann,Hans Herrmann,porsche,15,72,12,0,15,1013.414202,997.148547,-16.265654,0.125,0.450313,50.0,17
+1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,96,ian-burgess,Ian Burgess,lotus,DNS,,,2,16,971.777037,953.827553,-17.949485,0.03125,0.39024,50.0,17
+1961,2,1961-05-22,netherlands,Grote Prijs van Nederland 1961,96,masten-gregory,Masten Gregory,cooper,DNS,,,2,17,1004.390417,984.095986,-20.294431,0.03125,0.437139,50.0,17

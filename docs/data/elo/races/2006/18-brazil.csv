@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,felipe-massa,Felipe Massa,ferrari,1,71,1,0,1,1224.448147,1240.955666,16.507519,1.0,0.66985,50.0,22
-2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,fernando-alonso,Fernando Alonso,renault,2,71,4,0,2,1368.522566,1375.18113,6.658564,0.952381,0.81921,50.0,22
-2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,jenson-button,Jenson Button,honda,3,71,14,0,3,1223.981475,1235.754985,11.77351,0.904762,0.669292,50.0,22
-2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,michael-schumacher,Michael Schumacher,ferrari,4,71,10,0,4,1324.866317,1328.76483,3.898514,0.857143,0.779173,50.0,22
-2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,kimi-raikkonen,Kimi Räikkönen,mclaren,5,71,2,0,5,1201.652449,1210.021381,8.368931,0.809524,0.642145,50.0,22
-2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,giancarlo-fisichella,Giancarlo Fisichella,renault,6,71,6,0,6,1261.59158,1264.042707,2.451127,0.761905,0.712882,50.0,22
-2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,rubens-barrichello,Rubens Barrichello,honda,7,71,5,0,7,1180.834333,1185.743316,4.908982,0.714286,0.616106,50.0,22
-2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,pedro-de-la-rosa,Pedro de la Rosa,mclaren,8,71,12,0,8,1043.197174,1054.794916,11.597742,0.666667,0.434712,50.0,22
-2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,robert-kubica,Robert Kubica,bmw-sauber,9,71,9,0,9,1027.321039,1037.583765,10.262726,0.619048,0.413793,50.0,22
-2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,takuma-sato,Takuma Sato,super-aguri,10,70,19,0,10,940.196268,953.546432,13.350165,0.571429,0.304425,50.0,22
-2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,scott-speed,Scott Speed,toro-rosso,11,70,16,0,11,1007.888428,1014.654267,6.765839,0.52381,0.388493,50.0,22
-2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,robert-doornbos,Robert Doornbos,red-bull,12,70,22,0,12,972.118285,978.770787,6.652502,0.47619,0.34314,50.0,22
-2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,vitantonio-liuzzi,Vitantonio Liuzzi,toro-rosso,13,70,15,0,13,1018.628783,1019.935903,1.307121,0.428571,0.402429,50.0,22
-2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,christijan-albers,Christijan Albers,midland,14,70,17,0,14,932.267807,936.559663,4.291856,0.380952,0.295115,50.0,22
-2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,tiago-monteiro,Tiago Monteiro,midland,15,69,21,0,15,942.841554,944.130216,1.288662,0.333333,0.30756,50.0,22
-2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,sakon-yamamoto,Sakon Yamamoto,super-aguri,16,69,20,0,16,943.852955,942.700551,-1.152404,0.285714,0.308762,50.0,22
-2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,nick-heidfeld,Nick Heidfeld,bmw-sauber,17,63,8,0,17,1130.861264,1115.196963,-15.664301,0.238095,0.551381,50.0,22
-2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,david-coulthard,David Coulthard,red-bull,DNF,14,18,1,18,1086.819182,1071.702167,-15.117015,0.190476,0.492816,50.0,22
-2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,jarno-trulli,Jarno Trulli,toyota,DNF,10,3,1,19,1108.767338,1089.805408,-18.96193,0.142857,0.522096,50.0,22
-2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,ralf-schumacher,Ralf Schumacher,toyota,DNF,9,7,1,20,1141.346957,1117.850467,-23.49649,0.095238,0.565168,50.0,22
-2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,mark-webber,Mark Webber,williams,DNF,1,11,1,21,1016.107757,998.53137,-17.576387,0.047619,0.399147,50.0,22
-2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,nico-rosberg,Nico Rosberg,williams,DNF,0,13,1,22,987.409057,969.293825,-18.115232,0.0,0.362305,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,768,felipe-massa,Felipe Massa,ferrari,1,71,1,0,1,1224.448147,1240.955666,16.507519,1.0,0.66985,50.0,22
+2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,768,fernando-alonso,Fernando Alonso,renault,2,71,4,0,2,1368.522566,1375.18113,6.658564,0.952381,0.81921,50.0,22
+2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,768,jenson-button,Jenson Button,honda,3,71,14,0,3,1223.981475,1235.754985,11.77351,0.904762,0.669292,50.0,22
+2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,768,michael-schumacher,Michael Schumacher,ferrari,4,71,10,0,4,1324.866317,1328.76483,3.898514,0.857143,0.779173,50.0,22
+2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,768,kimi-raikkonen,Kimi Räikkönen,mclaren,5,71,2,0,5,1201.652449,1210.021381,8.368931,0.809524,0.642145,50.0,22
+2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,768,giancarlo-fisichella,Giancarlo Fisichella,renault,6,71,6,0,6,1261.59158,1264.042707,2.451127,0.761905,0.712882,50.0,22
+2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,768,rubens-barrichello,Rubens Barrichello,honda,7,71,5,0,7,1180.834333,1185.743316,4.908982,0.714286,0.616106,50.0,22
+2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,768,pedro-de-la-rosa,Pedro de la Rosa,mclaren,8,71,12,0,8,1043.197174,1054.794916,11.597742,0.666667,0.434712,50.0,22
+2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,768,robert-kubica,Robert Kubica,bmw-sauber,9,71,9,0,9,1027.321039,1037.583765,10.262726,0.619048,0.413793,50.0,22
+2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,768,takuma-sato,Takuma Sato,super-aguri,10,70,19,0,10,940.196268,953.546432,13.350165,0.571429,0.304425,50.0,22
+2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,768,scott-speed,Scott Speed,toro-rosso,11,70,16,0,11,1007.888428,1014.654267,6.765839,0.52381,0.388493,50.0,22
+2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,768,robert-doornbos,Robert Doornbos,red-bull,12,70,22,0,12,972.118285,978.770787,6.652502,0.47619,0.34314,50.0,22
+2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,768,vitantonio-liuzzi,Vitantonio Liuzzi,toro-rosso,13,70,15,0,13,1018.628783,1019.935903,1.307121,0.428571,0.402429,50.0,22
+2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,768,christijan-albers,Christijan Albers,midland,14,70,17,0,14,932.267807,936.559663,4.291856,0.380952,0.295115,50.0,22
+2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,768,tiago-monteiro,Tiago Monteiro,midland,15,69,21,0,15,942.841554,944.130216,1.288662,0.333333,0.30756,50.0,22
+2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,768,sakon-yamamoto,Sakon Yamamoto,super-aguri,16,69,20,0,16,943.852955,942.700551,-1.152404,0.285714,0.308762,50.0,22
+2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,768,nick-heidfeld,Nick Heidfeld,bmw-sauber,17,63,8,0,17,1130.861264,1115.196963,-15.664301,0.238095,0.551381,50.0,22
+2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,768,david-coulthard,David Coulthard,red-bull,DNF,14,18,1,18,1086.819182,1071.702167,-15.117015,0.190476,0.492816,50.0,22
+2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,768,jarno-trulli,Jarno Trulli,toyota,DNF,10,3,1,19,1108.767338,1089.805408,-18.96193,0.142857,0.522096,50.0,22
+2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,768,ralf-schumacher,Ralf Schumacher,toyota,DNF,9,7,1,20,1141.346957,1117.850467,-23.49649,0.095238,0.565168,50.0,22
+2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,768,mark-webber,Mark Webber,williams,DNF,1,11,1,21,1016.107757,998.53137,-17.576387,0.047619,0.399147,50.0,22
+2006,18,2006-10-22,brazil,Formula 1 Grande Prêmio do Brasil 2006,768,nico-rosberg,Nico Rosberg,williams,DNF,0,13,1,22,987.409057,969.293825,-18.115232,0.0,0.362305,50.0,22

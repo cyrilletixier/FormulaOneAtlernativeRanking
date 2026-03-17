@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1957-07-07,1957,4,france,cooper,Cooper,7,68,15,1000.0,1003.882667,3.882667,0.535714,0.458061,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1957-07-07,1957,4,france,60,cooper,Cooper,7,68,15,1000.0,1003.882667,3.882667,0.535714,0.458061,50.0

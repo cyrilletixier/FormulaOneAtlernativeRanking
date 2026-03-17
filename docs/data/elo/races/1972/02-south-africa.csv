@@ -1,28 +1,28 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,denny-hulme,Denny Hulme,mclaren,1,79,5,0,1,1117.529101,1136.954891,19.42579,1.0,0.611484,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,emerson-fittipaldi,Emerson Fittipaldi,lotus,2,79,3,0,2,1090.007337,1109.429012,19.421675,0.961538,0.573105,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,peter-revson,Peter Revson,mclaren,3,79,12,0,3,947.402306,975.022911,27.620605,0.923077,0.370665,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,mario-andretti,Mario Andretti,ferrari,4,79,6,0,4,954.368636,979.591369,25.222734,0.884615,0.380161,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,ronnie-peterson,Ronnie Peterson,march,5,79,9,0,5,1149.436961,1159.022943,9.585982,0.846154,0.654434,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,graham-hill,Graham Hill,brabham,6,78,14,0,6,1035.484303,1051.116856,15.632553,0.807692,0.495041,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,niki-lauda,Niki Lauda,march,7,78,21,0,7,994.895134,1011.515633,16.620499,0.769231,0.436821,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,jacky-ickx,Jacky Ickx,ferrari,8,78,7,0,8,1117.353685,1123.329994,5.976309,0.730769,0.611243,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,francois-cevert,François Cevert,tyrrell,9,78,8,0,9,1099.752828,1105.02768,5.274853,0.692308,0.586811,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,david-walker,David Walker,lotus,10,78,19,0,10,969.900465,982.511925,12.61146,0.653846,0.401617,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,henri-pescarolo,Henri Pescarolo,march,11,77,22,0,11,1054.834007,1059.457793,4.623787,0.615385,0.522909,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,clay-regazzoni,Clay Regazzoni,ferrari,12,77,2,0,12,1088.278856,1088.591874,0.313018,0.576923,0.570663,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,rolf-stommelen,Rolf Stommelen,eifelland,13,77,25,0,13,1013.727264,1017.463663,3.7364,0.538462,0.463734,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,helmut-marko,Helmut Marko,brm,14,76,23,0,14,993.341826,996.611158,3.269332,0.5,0.434613,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,chris-amon,Chris Amon,matra,15,76,13,0,15,1090.481134,1084.869365,-5.611769,0.461538,0.573774,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,john-love,John Love,surtees,16,73,26,0,16,1010.814314,1008.990392,-1.823922,0.423077,0.459555,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,carlos-pace,Carlos Pace,march,17,73,24,0,17,1000.0,997.026255,-2.973745,0.384615,0.44409,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,howden-ganley,Howden Ganley,brm,NC,70,16,1,18,1023.275333,1016.710213,-6.56512,0.346154,0.477456,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,andrea-de-adamich,Andrea de Adamich,surtees,NC,69,20,1,19,940.721703,938.024296,-2.697407,0.307692,0.36164,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,peter-gethin,Peter Gethin,brm,NC,65,18,1,20,1032.035951,1020.993883,-11.042068,0.269231,0.490072,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,jean-pierre-beltoise,Jean-Pierre Beltoise,brm,DNF,60,11,1,21,1129.63727,1109.775468,-19.861803,0.230769,0.628005,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,jackie-stewart,Jackie Stewart,tyrrell,DNF,45,1,1,22,1214.267021,1187.151197,-27.115824,0.192308,0.734624,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,mike-hailwood,Mike Hailwood,surtees,DNF,28,4,1,23,1015.957749,1000.303268,-15.654481,0.153846,0.466936,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,carlos-reutemann,Carlos Reutemann,brabham,DNF,27,15,1,24,1013.640435,996.229219,-17.411216,0.115385,0.463609,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,tim-schenken,Tim Schenken,surtees,DNF,9,10,1,25,1022.840479,1002.845107,-19.995372,0.076923,0.476831,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,dave-charlton,Dave Charlton,lotus,DNF,2,17,1,26,943.969012,927.591256,-16.377756,0.038462,0.366017,50.0,27
-1972,2,1972-03-04,south-africa,South African Grand Prix 1972,william-ferguson,William Ferguson,brabham,DNS,,,2,27,1000.0,977.795486,-22.204514,0.0,0.44409,50.0,27
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,denny-hulme,Denny Hulme,mclaren,1,79,5,0,1,1117.529101,1136.954891,19.42579,1.0,0.611484,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,emerson-fittipaldi,Emerson Fittipaldi,lotus,2,79,3,0,2,1090.007337,1109.429012,19.421675,0.961538,0.573105,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,peter-revson,Peter Revson,mclaren,3,79,12,0,3,947.402306,975.022911,27.620605,0.923077,0.370665,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,mario-andretti,Mario Andretti,ferrari,4,79,6,0,4,954.368636,979.591369,25.222734,0.884615,0.380161,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,ronnie-peterson,Ronnie Peterson,march,5,79,9,0,5,1149.436961,1159.022943,9.585982,0.846154,0.654434,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,graham-hill,Graham Hill,brabham,6,78,14,0,6,1035.484303,1051.116856,15.632553,0.807692,0.495041,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,niki-lauda,Niki Lauda,march,7,78,21,0,7,994.895134,1011.515633,16.620499,0.769231,0.436821,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,jacky-ickx,Jacky Ickx,ferrari,8,78,7,0,8,1117.353685,1123.329994,5.976309,0.730769,0.611243,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,francois-cevert,François Cevert,tyrrell,9,78,8,0,9,1099.752828,1105.02768,5.274853,0.692308,0.586811,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,david-walker,David Walker,lotus,10,78,19,0,10,969.900465,982.511925,12.61146,0.653846,0.401617,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,henri-pescarolo,Henri Pescarolo,march,11,77,22,0,11,1054.834007,1059.457793,4.623787,0.615385,0.522909,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,clay-regazzoni,Clay Regazzoni,ferrari,12,77,2,0,12,1088.278856,1088.591874,0.313018,0.576923,0.570663,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,rolf-stommelen,Rolf Stommelen,eifelland,13,77,25,0,13,1013.727264,1017.463663,3.7364,0.538462,0.463734,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,helmut-marko,Helmut Marko,brm,14,76,23,0,14,993.341826,996.611158,3.269332,0.5,0.434613,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,chris-amon,Chris Amon,matra,15,76,13,0,15,1090.481134,1084.869365,-5.611769,0.461538,0.573774,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,john-love,John Love,surtees,16,73,26,0,16,1010.814314,1008.990392,-1.823922,0.423077,0.459555,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,carlos-pace,Carlos Pace,march,17,73,24,0,17,1000.0,997.026255,-2.973745,0.384615,0.44409,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,howden-ganley,Howden Ganley,brm,NC,70,16,1,18,1023.275333,1016.710213,-6.56512,0.346154,0.477456,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,andrea-de-adamich,Andrea de Adamich,surtees,NC,69,20,1,19,940.721703,938.024296,-2.697407,0.307692,0.36164,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,peter-gethin,Peter Gethin,brm,NC,65,18,1,20,1032.035951,1020.993883,-11.042068,0.269231,0.490072,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,jean-pierre-beltoise,Jean-Pierre Beltoise,brm,DNF,60,11,1,21,1129.63727,1109.775468,-19.861803,0.230769,0.628005,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,jackie-stewart,Jackie Stewart,tyrrell,DNF,45,1,1,22,1214.267021,1187.151197,-27.115824,0.192308,0.734624,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,mike-hailwood,Mike Hailwood,surtees,DNF,28,4,1,23,1015.957749,1000.303268,-15.654481,0.153846,0.466936,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,carlos-reutemann,Carlos Reutemann,brabham,DNF,27,15,1,24,1013.640435,996.229219,-17.411216,0.115385,0.463609,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,tim-schenken,Tim Schenken,surtees,DNF,9,10,1,25,1022.840479,1002.845107,-19.995372,0.076923,0.476831,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,dave-charlton,Dave Charlton,lotus,DNF,2,17,1,26,943.969012,927.591256,-16.377756,0.038462,0.366017,50.0,27
+1972,2,1972-03-04,south-africa,South African Grand Prix 1972,210,william-ferguson,William Ferguson,brabham,DNS,,,2,27,1000.0,977.795486,-22.204514,0.0,0.44409,50.0,27

@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,lando-norris,Lando Norris,mclaren,1,70,1,0,1,1425.017406,1435.184823,10.167416,1.0,0.796652,50.0,20
-2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,oscar-piastri,Oscar Piastri,mclaren,2,70,3,0,2,1412.069829,1420.15948,8.089651,0.947368,0.785575,50.0,20
-2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,charles-leclerc,Charles Leclerc,ferrari,3,70,2,0,3,1388.291924,1394.808192,6.516268,0.894737,0.764411,50.0,20
-2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,lewis-hamilton,Lewis Hamilton,ferrari,4,70,4,0,4,1307.061603,1314.944399,7.882796,0.842105,0.684449,50.0,20
-2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,george-russell,George Russell,mercedes,5,70,5,0,5,1368.648971,1370.81566,2.166689,0.789474,0.74614,50.0,20
-2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,liam-lawson,Liam Lawson,racing-bulls,6,70,6,0,6,1006.718537,1027.204283,20.485746,0.736842,0.327127,50.0,20
-2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,fernando-alonso,Fernando Alonso,aston-martin,7,69,11,0,7,1113.123879,1124.485254,11.361375,0.684211,0.456983,50.0,20
-2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,8,69,8,0,8,959.29338,977.208848,17.915468,0.631579,0.27327,50.0,20
-2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,nico-hulkenberg,Nico Hülkenberg,kick-sauber,9,69,20,0,9,1072.28834,1080.918538,8.630198,0.578947,0.406343,50.0,20
-2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,esteban-ocon,Esteban Ocon,haas,10,69,17,0,10,1054.220465,1061.329111,7.108646,0.526316,0.384143,50.0,20
-2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,oliver-bearman,Oliver Bearman,haas,11,69,15,0,11,1029.526162,1035.500176,5.974013,0.473684,0.354204,50.0,20
-2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,isack-hadjar,Isack Hadjar,racing-bulls,12,69,13,0,12,1063.524652,1064.799766,1.275114,0.421053,0.39555,50.0,20
-2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,pierre-gasly,Pierre Gasly,alpine,13,69,10,0,13,1051.599244,1050.973292,-0.625952,0.368421,0.38094,50.0,20
-2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,lance-stroll,Lance Stroll,aston-martin,14,69,16,0,14,982.652895,983.475798,0.822903,0.315789,0.299331,50.0,20
-2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,franco-colapinto,Franco Colapinto,alpine,15,69,14,0,15,995.74158,993.182476,-2.559105,0.263158,0.31434,50.0,20
-2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,yuki-tsunoda,Yuki Tsunoda,red-bull,16,68,18,0,16,1035.229259,1027.702188,-7.527071,0.210526,0.361068,50.0,20
-2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,alexander-albon,Alexander Albon,williams,DNF,15,12,1,17,1062.041463,1050.249796,-11.791667,0.157895,0.393728,50.0,20
-2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,kimi-antonelli,Kimi Antonelli,mercedes,DNF,0,9,1,18,1076.223495,1059.610737,-16.612758,0.078947,0.411203,50.0,20
-2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,max-verstappen,Max Verstappen,red-bull,DNF,0,7,1,19,1530.404358,1490.61489,-39.789468,0.078947,0.874737,50.0,20
-2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,carlos-sainz-jr,Carlos Sainz Jr.,williams,DNS,,,2,20,1222.243332,1192.753068,-29.490264,0.0,0.589805,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,1136,lando-norris,Lando Norris,mclaren,1,70,1,0,1,1425.017406,1435.184823,10.167416,1.0,0.796652,50.0,20
+2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,1136,oscar-piastri,Oscar Piastri,mclaren,2,70,3,0,2,1412.069829,1420.15948,8.089651,0.947368,0.785575,50.0,20
+2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,1136,charles-leclerc,Charles Leclerc,ferrari,3,70,2,0,3,1388.291924,1394.808192,6.516268,0.894737,0.764411,50.0,20
+2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,1136,lewis-hamilton,Lewis Hamilton,ferrari,4,70,4,0,4,1307.061603,1314.944399,7.882796,0.842105,0.684449,50.0,20
+2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,1136,george-russell,George Russell,mercedes,5,70,5,0,5,1368.648971,1370.81566,2.166689,0.789474,0.74614,50.0,20
+2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,1136,liam-lawson,Liam Lawson,racing-bulls,6,70,6,0,6,1006.718537,1027.204283,20.485746,0.736842,0.327127,50.0,20
+2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,1136,fernando-alonso,Fernando Alonso,aston-martin,7,69,11,0,7,1113.123879,1124.485254,11.361375,0.684211,0.456983,50.0,20
+2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,1136,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,8,69,8,0,8,959.29338,977.208848,17.915468,0.631579,0.27327,50.0,20
+2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,1136,nico-hulkenberg,Nico Hülkenberg,kick-sauber,9,69,20,0,9,1072.28834,1080.918538,8.630198,0.578947,0.406343,50.0,20
+2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,1136,esteban-ocon,Esteban Ocon,haas,10,69,17,0,10,1054.220465,1061.329111,7.108646,0.526316,0.384143,50.0,20
+2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,1136,oliver-bearman,Oliver Bearman,haas,11,69,15,0,11,1029.526162,1035.500176,5.974013,0.473684,0.354204,50.0,20
+2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,1136,isack-hadjar,Isack Hadjar,racing-bulls,12,69,13,0,12,1063.524652,1064.799766,1.275114,0.421053,0.39555,50.0,20
+2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,1136,pierre-gasly,Pierre Gasly,alpine,13,69,10,0,13,1051.599244,1050.973292,-0.625952,0.368421,0.38094,50.0,20
+2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,1136,lance-stroll,Lance Stroll,aston-martin,14,69,16,0,14,982.652895,983.475798,0.822903,0.315789,0.299331,50.0,20
+2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,1136,franco-colapinto,Franco Colapinto,alpine,15,69,14,0,15,995.74158,993.182476,-2.559105,0.263158,0.31434,50.0,20
+2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,1136,yuki-tsunoda,Yuki Tsunoda,red-bull,16,68,18,0,16,1035.229259,1027.702188,-7.527071,0.210526,0.361068,50.0,20
+2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,1136,alexander-albon,Alexander Albon,williams,DNF,15,12,1,17,1062.041463,1050.249796,-11.791667,0.157895,0.393728,50.0,20
+2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,1136,kimi-antonelli,Kimi Antonelli,mercedes,DNF,0,9,1,18,1076.223495,1059.610737,-16.612758,0.078947,0.411203,50.0,20
+2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,1136,max-verstappen,Max Verstappen,red-bull,DNF,0,7,1,19,1530.404358,1490.61489,-39.789468,0.078947,0.874737,50.0,20
+2025,11,2025-06-29,austria,Formula 1 MSC Cruises Austrian Grand Prix 2025,1136,carlos-sainz-jr,Carlos Sainz Jr.,williams,DNS,,,2,20,1222.243332,1192.753068,-29.490264,0.0,0.589805,50.0,20

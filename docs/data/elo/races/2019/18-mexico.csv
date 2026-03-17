@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,lewis-hamilton,Lewis Hamilton,mercedes,1,71,3,0,1,1564.239521,1568.859011,4.61949,1.0,0.90761,50.0,20
-2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,sebastian-vettel,Sebastian Vettel,ferrari,2,71,2,0,2,1385.957566,1394.13921,8.181644,0.947368,0.783736,50.0,20
-2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,valtteri-bottas,Valtteri Bottas,mercedes,3,71,6,0,3,1434.60071,1438.138354,3.537644,0.894737,0.823984,50.0,20
-2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,charles-leclerc,Charles Leclerc,ferrari,4,71,1,0,4,1260.114819,1269.383512,9.268693,0.842105,0.656731,50.0,20
-2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,alexander-albon,Alexander Albon,red-bull,5,71,5,0,5,1131.887329,1146.355955,14.468626,0.789474,0.500101,50.0,20
-2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,max-verstappen,Max Verstappen,red-bull,6,71,4,0,6,1328.310075,1328.67487,0.364796,0.736842,0.729546,50.0,20
-2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,sergio-perez,Sergio Pérez,racing-point,7,71,11,0,7,1114.56894,1124.887288,10.318349,0.684211,0.477844,50.0,20
-2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,daniel-ricciardo,Daniel Ricciardo,renault,8,71,13,0,8,1071.594959,1082.045763,10.450804,0.631579,0.422563,50.0,20
-2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,pierre-gasly,Pierre Gasly,toro-rosso,9,70,10,0,9,1136.015732,1139.693535,3.677803,0.578947,0.505391,50.0,20
-2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,nico-hulkenberg,Nico Hülkenberg,renault,10,70,12,0,10,1071.396569,1076.596919,5.20035,0.526316,0.422309,50.0,20
-2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,daniil-kvyat,Daniil Kvyat,toro-rosso,11,70,9,0,11,1051.960292,1055.768075,3.807783,0.473684,0.397529,50.0,20
-2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,lance-stroll,Lance Stroll,racing-point,12,70,16,0,12,1045.070791,1046.682931,1.61214,0.421053,0.38881,50.0,20
-2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,13,70,7,0,13,1134.808745,1128.037524,-6.771221,0.368421,0.503845,50.0,20
-2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,14,70,15,0,14,981.987593,982.200793,0.2132,0.315789,0.311525,50.0,20
-2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,kevin-magnussen,Kevin Magnussen,haas,15,69,17,0,15,1012.036816,1007.811081,-4.225736,0.263158,0.347673,50.0,20
-2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,george-russell,George Russell,williams,16,69,19,0,16,933.69866,931.381644,-2.317016,0.210526,0.256867,50.0,20
-2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,romain-grosjean,Romain Grosjean,haas,17,69,18,0,17,979.568401,972.02916,-7.539241,0.157895,0.30868,50.0,20
-2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,robert-kubica,Robert Kubica,williams,18,69,20,0,18,980.098033,969.896104,-10.201928,0.105263,0.309302,50.0,20
-2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,DNF,58,14,1,19,1149.326809,1125.838979,-23.487831,0.052632,0.522388,50.0,20
-2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,lando-norris,Lando Norris,mclaren,DNF,48,8,1,20,1072.378856,1051.200507,-21.178348,0.0,0.423567,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,1015,lewis-hamilton,Lewis Hamilton,mercedes,1,71,3,0,1,1564.239521,1568.859011,4.61949,1.0,0.90761,50.0,20
+2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,1015,sebastian-vettel,Sebastian Vettel,ferrari,2,71,2,0,2,1385.957566,1394.13921,8.181644,0.947368,0.783736,50.0,20
+2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,1015,valtteri-bottas,Valtteri Bottas,mercedes,3,71,6,0,3,1434.60071,1438.138354,3.537644,0.894737,0.823984,50.0,20
+2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,1015,charles-leclerc,Charles Leclerc,ferrari,4,71,1,0,4,1260.114819,1269.383512,9.268693,0.842105,0.656731,50.0,20
+2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,1015,alexander-albon,Alexander Albon,red-bull,5,71,5,0,5,1131.887329,1146.355955,14.468626,0.789474,0.500101,50.0,20
+2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,1015,max-verstappen,Max Verstappen,red-bull,6,71,4,0,6,1328.310075,1328.67487,0.364796,0.736842,0.729546,50.0,20
+2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,1015,sergio-perez,Sergio Pérez,racing-point,7,71,11,0,7,1114.56894,1124.887288,10.318349,0.684211,0.477844,50.0,20
+2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,1015,daniel-ricciardo,Daniel Ricciardo,renault,8,71,13,0,8,1071.594959,1082.045763,10.450804,0.631579,0.422563,50.0,20
+2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,1015,pierre-gasly,Pierre Gasly,toro-rosso,9,70,10,0,9,1136.015732,1139.693535,3.677803,0.578947,0.505391,50.0,20
+2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,1015,nico-hulkenberg,Nico Hülkenberg,renault,10,70,12,0,10,1071.396569,1076.596919,5.20035,0.526316,0.422309,50.0,20
+2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,1015,daniil-kvyat,Daniil Kvyat,toro-rosso,11,70,9,0,11,1051.960292,1055.768075,3.807783,0.473684,0.397529,50.0,20
+2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,1015,lance-stroll,Lance Stroll,racing-point,12,70,16,0,12,1045.070791,1046.682931,1.61214,0.421053,0.38881,50.0,20
+2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,1015,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,13,70,7,0,13,1134.808745,1128.037524,-6.771221,0.368421,0.503845,50.0,20
+2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,1015,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,14,70,15,0,14,981.987593,982.200793,0.2132,0.315789,0.311525,50.0,20
+2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,1015,kevin-magnussen,Kevin Magnussen,haas,15,69,17,0,15,1012.036816,1007.811081,-4.225736,0.263158,0.347673,50.0,20
+2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,1015,george-russell,George Russell,williams,16,69,19,0,16,933.69866,931.381644,-2.317016,0.210526,0.256867,50.0,20
+2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,1015,romain-grosjean,Romain Grosjean,haas,17,69,18,0,17,979.568401,972.02916,-7.539241,0.157895,0.30868,50.0,20
+2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,1015,robert-kubica,Robert Kubica,williams,18,69,20,0,18,980.098033,969.896104,-10.201928,0.105263,0.309302,50.0,20
+2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,1015,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,DNF,58,14,1,19,1149.326809,1125.838979,-23.487831,0.052632,0.522388,50.0,20
+2019,18,2019-10-27,mexico,Formula 1 Gran Premio de México 2019,1015,lando-norris,Lando Norris,mclaren,DNF,48,8,1,20,1072.378856,1051.200507,-21.178348,0.0,0.423567,50.0,20

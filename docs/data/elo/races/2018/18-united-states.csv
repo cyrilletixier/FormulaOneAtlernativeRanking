@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,1,56,2,0,1,1318.83299,1332.3722,13.53921,1.0,0.729216,50.0,20
-2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,max-verstappen,Max Verstappen,red-bull,2,56,18,0,2,1271.24415,1284.642871,13.398721,0.947368,0.679394,50.0,20
-2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,3,56,1,0,3,1532.883161,1532.792946,-0.090215,0.894737,0.896541,50.0,20
-2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,4,56,5,0,4,1411.284815,1412.735948,1.451133,0.842105,0.813083,50.0,20
-2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,valtteri-bottas,Valtteri Bottas,mercedes,5,56,3,0,5,1378.939233,1379.125393,0.18616,0.789474,0.78575,50.0,20
-2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,nico-hulkenberg,Nico Hülkenberg,renault,6,56,7,0,6,1060.359391,1076.087493,15.728102,0.736842,0.42228,50.0,20
-2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,renault,7,56,11,0,7,1100.73796,1111.264595,10.526635,0.684211,0.473678,50.0,20
-2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,sergio-perez,Sergio Pérez,force-india,8,56,10,0,8,1165.667697,1169.467728,3.800031,0.631579,0.555578,50.0,20
-2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,brendon-hartley,Brendon Hartley,toro-rosso,9,55,20,0,9,927.83106,943.591959,15.760899,0.578947,0.263729,50.0,20
-2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,10,55,16,0,10,994.811369,1004.084395,9.273026,0.526316,0.340855,50.0,20
-2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,stoffel-vandoorne,Stoffel Vandoorne,mclaren,11,55,17,0,11,1002.222494,1008.414903,6.192408,0.473684,0.349836,50.0,20
-2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,pierre-gasly,Pierre Gasly,toro-rosso,12,55,19,0,12,1016.634189,1019.311994,2.677806,0.421053,0.367497,50.0,20
-2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,sergey-sirotkin,Sergey Sirotkin,williams,13,55,14,0,13,937.137095,941.861004,4.723909,0.368421,0.273943,50.0,20
-2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,lance-stroll,Lance Stroll,williams,14,54,15,0,14,989.066486,988.158686,-0.9078,0.315789,0.333945,50.0,20
-2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,charles-leclerc,Charles Leclerc,sauber,DNF,31,9,1,15,1003.792998,999.363473,-4.429525,0.263158,0.351748,50.0,20
-2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,DNF,8,4,1,16,1210.777387,1190.784269,-19.993118,0.210526,0.610389,50.0,20
-2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,romain-grosjean,Romain Grosjean,haas,DNF,2,8,1,17,1052.125668,1039.427382,-12.698285,0.157895,0.41186,50.0,20
-2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,fernando-alonso,Fernando Alonso,mclaren,DNF,1,13,1,18,1048.00266,1032.932964,-15.069696,0.105263,0.406657,50.0,20
-2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,esteban-ocon,Esteban Ocon,force-india,DSQ,56,6,2,19,1122.70636,1098.941029,-23.765331,0.026316,0.501622,50.0,20
-2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,kevin-magnussen,Kevin Magnussen,haas,DSQ,56,12,2,20,1068.330575,1048.026505,-20.30407,0.026316,0.432397,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,994,kimi-raikkonen,Kimi Räikkönen,ferrari,1,56,2,0,1,1318.83299,1332.3722,13.53921,1.0,0.729216,50.0,20
+2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,994,max-verstappen,Max Verstappen,red-bull,2,56,18,0,2,1271.24415,1284.642871,13.398721,0.947368,0.679394,50.0,20
+2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,994,lewis-hamilton,Lewis Hamilton,mercedes,3,56,1,0,3,1532.883161,1532.792946,-0.090215,0.894737,0.896541,50.0,20
+2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,994,sebastian-vettel,Sebastian Vettel,ferrari,4,56,5,0,4,1411.284815,1412.735948,1.451133,0.842105,0.813083,50.0,20
+2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,994,valtteri-bottas,Valtteri Bottas,mercedes,5,56,3,0,5,1378.939233,1379.125393,0.18616,0.789474,0.78575,50.0,20
+2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,994,nico-hulkenberg,Nico Hülkenberg,renault,6,56,7,0,6,1060.359391,1076.087493,15.728102,0.736842,0.42228,50.0,20
+2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,994,carlos-sainz-jr,Carlos Sainz Jr.,renault,7,56,11,0,7,1100.73796,1111.264595,10.526635,0.684211,0.473678,50.0,20
+2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,994,sergio-perez,Sergio Pérez,force-india,8,56,10,0,8,1165.667697,1169.467728,3.800031,0.631579,0.555578,50.0,20
+2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,994,brendon-hartley,Brendon Hartley,toro-rosso,9,55,20,0,9,927.83106,943.591959,15.760899,0.578947,0.263729,50.0,20
+2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,994,marcus-ericsson,Marcus Ericsson,sauber,10,55,16,0,10,994.811369,1004.084395,9.273026,0.526316,0.340855,50.0,20
+2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,994,stoffel-vandoorne,Stoffel Vandoorne,mclaren,11,55,17,0,11,1002.222494,1008.414903,6.192408,0.473684,0.349836,50.0,20
+2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,994,pierre-gasly,Pierre Gasly,toro-rosso,12,55,19,0,12,1016.634189,1019.311994,2.677806,0.421053,0.367497,50.0,20
+2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,994,sergey-sirotkin,Sergey Sirotkin,williams,13,55,14,0,13,937.137095,941.861004,4.723909,0.368421,0.273943,50.0,20
+2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,994,lance-stroll,Lance Stroll,williams,14,54,15,0,14,989.066486,988.158686,-0.9078,0.315789,0.333945,50.0,20
+2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,994,charles-leclerc,Charles Leclerc,sauber,DNF,31,9,1,15,1003.792998,999.363473,-4.429525,0.263158,0.351748,50.0,20
+2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,994,daniel-ricciardo,Daniel Ricciardo,red-bull,DNF,8,4,1,16,1210.777387,1190.784269,-19.993118,0.210526,0.610389,50.0,20
+2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,994,romain-grosjean,Romain Grosjean,haas,DNF,2,8,1,17,1052.125668,1039.427382,-12.698285,0.157895,0.41186,50.0,20
+2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,994,fernando-alonso,Fernando Alonso,mclaren,DNF,1,13,1,18,1048.00266,1032.932964,-15.069696,0.105263,0.406657,50.0,20
+2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,994,esteban-ocon,Esteban Ocon,force-india,DSQ,56,6,2,19,1122.70636,1098.941029,-23.765331,0.026316,0.501622,50.0,20
+2018,18,2018-10-21,united-states,Formula 1 Pirelli 2018 United States Grand Prix,994,kevin-magnussen,Kevin Magnussen,haas,DSQ,56,12,2,20,1068.330575,1048.026505,-20.30407,0.026316,0.432397,50.0,20

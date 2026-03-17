@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,george-russell,George Russell,mercedes,1,70,1,0,1,1355.300775,1368.648971,13.348196,1.0,0.733036,50.0,20
-2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,max-verstappen,Max Verstappen,red-bull,2,70,2,0,2,1526.610009,1530.404358,3.794349,0.947368,0.871481,50.0,20
-2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,kimi-antonelli,Kimi Antonelli,mercedes,3,70,4,0,3,1050.508274,1076.223495,25.715221,0.894737,0.380432,50.0,20
-2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,oscar-piastri,Oscar Piastri,mclaren,4,70,3,0,4,1409.086778,1412.069829,2.983052,0.842105,0.782444,50.0,20
-2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,charles-leclerc,Charles Leclerc,ferrari,5,70,8,0,5,1386.95578,1388.291924,1.336144,0.789474,0.762751,50.0,20
-2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,lewis-hamilton,Lewis Hamilton,ferrari,6,70,5,0,6,1304.294665,1307.061603,2.766938,0.736842,0.681503,50.0,20
-2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,fernando-alonso,Fernando Alonso,aston-martin,7,70,6,0,7,1101.05121,1113.123879,12.072669,0.684211,0.442757,50.0,20
-2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,nico-hulkenberg,Nico Hülkenberg,kick-sauber,8,70,11,0,8,1060.331842,1072.28834,11.956498,0.631579,0.392449,50.0,20
-2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,esteban-ocon,Esteban Ocon,haas,9,69,14,0,9,1043.892087,1054.220465,10.328377,0.578947,0.37238,50.0,20
-2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,carlos-sainz-jr,Carlos Sainz Jr.,williams,10,69,16,0,10,1225.634879,1222.243332,-3.391547,0.526316,0.594147,50.0,20
-2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,oliver-bearman,Oliver Bearman,haas,11,69,13,0,11,1023.215595,1029.526162,6.310567,0.473684,0.347473,50.0,20
-2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,yuki-tsunoda,Yuki Tsunoda,red-bull,12,69,18,0,12,1032.081656,1035.229259,3.147602,0.421053,0.358101,50.0,20
-2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,franco-colapinto,Franco Colapinto,alpine,13,69,10,0,13,992.91449,995.74158,2.82709,0.368421,0.311879,50.0,20
-2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,14,69,15,0,14,957.084817,959.29338,2.208563,0.315789,0.271618,50.0,20
-2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,pierre-gasly,Pierre Gasly,alpine,15,69,PL,0,15,1057.915719,1051.599244,-6.316475,0.263158,0.389487,50.0,20
-2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,isack-hadjar,Isack Hadjar,racing-bulls,16,69,12,0,16,1073.426244,1063.524652,-9.901592,0.210526,0.408558,50.0,20
-2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,lance-stroll,Lance Stroll,aston-martin,17,69,17,0,17,990.195591,982.652895,-7.542696,0.157895,0.308749,50.0,20
-2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,lando-norris,Lando Norris,mclaren,18,66,7,0,18,1461.006284,1425.017406,-35.988878,0.105263,0.825041,50.0,20
-2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,liam-lawson,Liam Lawson,racing-bulls,DNF,53,PL,1,19,1021.349297,1006.718537,-14.63076,0.052632,0.345247,50.0,20
-2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,alexander-albon,Alexander Albon,williams,DNF,46,9,1,20,1083.064781,1062.041463,-21.023318,0.0,0.420466,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,1135,george-russell,George Russell,mercedes,1,70,1,0,1,1355.300775,1368.648971,13.348196,1.0,0.733036,50.0,20
+2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,1135,max-verstappen,Max Verstappen,red-bull,2,70,2,0,2,1526.610009,1530.404358,3.794349,0.947368,0.871481,50.0,20
+2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,1135,kimi-antonelli,Kimi Antonelli,mercedes,3,70,4,0,3,1050.508274,1076.223495,25.715221,0.894737,0.380432,50.0,20
+2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,1135,oscar-piastri,Oscar Piastri,mclaren,4,70,3,0,4,1409.086778,1412.069829,2.983052,0.842105,0.782444,50.0,20
+2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,1135,charles-leclerc,Charles Leclerc,ferrari,5,70,8,0,5,1386.95578,1388.291924,1.336144,0.789474,0.762751,50.0,20
+2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,1135,lewis-hamilton,Lewis Hamilton,ferrari,6,70,5,0,6,1304.294665,1307.061603,2.766938,0.736842,0.681503,50.0,20
+2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,1135,fernando-alonso,Fernando Alonso,aston-martin,7,70,6,0,7,1101.05121,1113.123879,12.072669,0.684211,0.442757,50.0,20
+2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,1135,nico-hulkenberg,Nico Hülkenberg,kick-sauber,8,70,11,0,8,1060.331842,1072.28834,11.956498,0.631579,0.392449,50.0,20
+2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,1135,esteban-ocon,Esteban Ocon,haas,9,69,14,0,9,1043.892087,1054.220465,10.328377,0.578947,0.37238,50.0,20
+2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,1135,carlos-sainz-jr,Carlos Sainz Jr.,williams,10,69,16,0,10,1225.634879,1222.243332,-3.391547,0.526316,0.594147,50.0,20
+2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,1135,oliver-bearman,Oliver Bearman,haas,11,69,13,0,11,1023.215595,1029.526162,6.310567,0.473684,0.347473,50.0,20
+2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,1135,yuki-tsunoda,Yuki Tsunoda,red-bull,12,69,18,0,12,1032.081656,1035.229259,3.147602,0.421053,0.358101,50.0,20
+2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,1135,franco-colapinto,Franco Colapinto,alpine,13,69,10,0,13,992.91449,995.74158,2.82709,0.368421,0.311879,50.0,20
+2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,1135,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,14,69,15,0,14,957.084817,959.29338,2.208563,0.315789,0.271618,50.0,20
+2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,1135,pierre-gasly,Pierre Gasly,alpine,15,69,PL,0,15,1057.915719,1051.599244,-6.316475,0.263158,0.389487,50.0,20
+2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,1135,isack-hadjar,Isack Hadjar,racing-bulls,16,69,12,0,16,1073.426244,1063.524652,-9.901592,0.210526,0.408558,50.0,20
+2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,1135,lance-stroll,Lance Stroll,aston-martin,17,69,17,0,17,990.195591,982.652895,-7.542696,0.157895,0.308749,50.0,20
+2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,1135,lando-norris,Lando Norris,mclaren,18,66,7,0,18,1461.006284,1425.017406,-35.988878,0.105263,0.825041,50.0,20
+2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,1135,liam-lawson,Liam Lawson,racing-bulls,DNF,53,PL,1,19,1021.349297,1006.718537,-14.63076,0.052632,0.345247,50.0,20
+2025,10,2025-06-15,canada,Formula 1 Pirelli Grand Prix du Canada 2025,1135,alexander-albon,Alexander Albon,williams,DNF,46,9,1,20,1083.064781,1062.041463,-21.023318,0.0,0.420466,50.0,20

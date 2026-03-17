@@ -1,4 +1,4 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1956-09-02,1956,8,italy,connaught,Connaught,DNF,6,26,1000.0,983.896933,-16.103067,0.14,0.462061,50.0
-1957-05-19,1957,2,monaco,cooper,Cooper,DNQ,,21,983.896933,966.034296,-17.862637,0.1,0.457253,50.0
-1957-07-20,1957,5,great-britain,brm,BRM,DNF,44,19,966.034296,956.67423,-9.360066,0.222222,0.409424,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1956-09-02,1956,8,italy,56,connaught,Connaught,DNF,6,26,1000.0,983.896933,-16.103067,0.14,0.462061,50.0
+1957-05-19,1957,2,monaco,58,cooper,Cooper,DNQ,,21,983.896933,966.034296,-17.862637,0.1,0.457253,50.0
+1957-07-20,1957,5,great-britain,61,brm,BRM,DNF,44,19,966.034296,956.67423,-9.360066,0.222222,0.409424,50.0

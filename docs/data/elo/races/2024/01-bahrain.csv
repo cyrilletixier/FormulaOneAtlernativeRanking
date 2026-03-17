@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,max-verstappen,Max Verstappen,red-bull,1,57,1,0,1,1584.575277,1588.849794,4.274517,1.0,0.91451,50.0,20
-2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,sergio-perez,Sergio Pérez,red-bull,2,57,5,0,2,1336.107606,1347.374017,11.266412,0.947368,0.72204,50.0,20
-2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,3,57,4,0,3,1262.272174,1275.049572,12.777398,0.894737,0.639189,50.0,20
-2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,charles-leclerc,Charles Leclerc,ferrari,4,57,2,0,4,1283.278939,1292.196731,8.917792,0.842105,0.663749,50.0,20
-2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,george-russell,George Russell,mercedes,5,57,3,0,5,1260.099052,1267.742305,7.643254,0.789474,0.636609,50.0,20
-2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,lando-norris,Lando Norris,mclaren,6,57,7,0,6,1274.67469,1278.828011,4.153321,0.736842,0.653776,50.0,20
-2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,lewis-hamilton,Lewis Hamilton,mercedes,7,57,9,0,7,1343.456945,1341.181854,-2.275092,0.684211,0.729712,50.0,20
-2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,oscar-piastri,Oscar Piastri,mclaren,8,57,8,0,8,1122.206479,1130.61473,8.408252,0.631579,0.463414,50.0,20
-2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,fernando-alonso,Fernando Alonso,aston-martin,9,57,6,0,9,1235.027531,1233.657031,-1.370499,0.578947,0.606357,50.0,20
-2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,lance-stroll,Lance Stroll,aston-martin,10,57,12,0,10,1114.027412,1117.697054,3.669642,0.526316,0.452923,50.0,20
-2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,guanyu-zhou,Guanyu Zhou,kick-sauber,11,56,17,0,11,992.488595,1000.998003,8.509407,0.473684,0.303496,50.0,20
-2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,kevin-magnussen,Kevin Magnussen,haas,12,56,15,0,12,924.35173,933.902301,9.550571,0.421053,0.230041,50.0,20
-2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,daniel-ricciardo,Daniel Ricciardo,rb,13,56,14,0,13,1086.164026,1083.715611,-2.448414,0.368421,0.417389,50.0,20
-2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,yuki-tsunoda,Yuki Tsunoda,rb,14,56,11,0,14,1020.658483,1019.623751,-1.034732,0.315789,0.336484,50.0,20
-2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,alexander-albon,Alexander Albon,williams,15,56,13,0,15,1069.682287,1063.009836,-6.672451,0.263158,0.396607,50.0,20
-2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,nico-hulkenberg,Nico Hülkenberg,haas,16,56,10,0,16,997.178176,992.259801,-4.918375,0.210526,0.308894,50.0,20
-2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,esteban-ocon,Esteban Ocon,alpine,17,56,19,0,17,1123.884673,1108.500988,-15.383685,0.157895,0.465568,50.0,20
-2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,pierre-gasly,Pierre Gasly,alpine,18,56,20,0,18,1132.465638,1113.89921,-18.566428,0.105263,0.476592,50.0,20
-2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,valtteri-bottas,Valtteri Bottas,kick-sauber,19,56,16,0,19,1015.210624,1001.342062,-13.868562,0.052632,0.330003,50.0,20
-2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,logan-sargeant,Logan Sargeant,williams,20,55,18,0,20,946.327905,933.695577,-12.632328,0.0,0.252647,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,1102,max-verstappen,Max Verstappen,red-bull,1,57,1,0,1,1584.575277,1588.849794,4.274517,1.0,0.91451,50.0,20
+2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,1102,sergio-perez,Sergio Pérez,red-bull,2,57,5,0,2,1336.107606,1347.374017,11.266412,0.947368,0.72204,50.0,20
+2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,1102,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,3,57,4,0,3,1262.272174,1275.049572,12.777398,0.894737,0.639189,50.0,20
+2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,1102,charles-leclerc,Charles Leclerc,ferrari,4,57,2,0,4,1283.278939,1292.196731,8.917792,0.842105,0.663749,50.0,20
+2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,1102,george-russell,George Russell,mercedes,5,57,3,0,5,1260.099052,1267.742305,7.643254,0.789474,0.636609,50.0,20
+2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,1102,lando-norris,Lando Norris,mclaren,6,57,7,0,6,1274.67469,1278.828011,4.153321,0.736842,0.653776,50.0,20
+2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,1102,lewis-hamilton,Lewis Hamilton,mercedes,7,57,9,0,7,1343.456945,1341.181854,-2.275092,0.684211,0.729712,50.0,20
+2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,1102,oscar-piastri,Oscar Piastri,mclaren,8,57,8,0,8,1122.206479,1130.61473,8.408252,0.631579,0.463414,50.0,20
+2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,1102,fernando-alonso,Fernando Alonso,aston-martin,9,57,6,0,9,1235.027531,1233.657031,-1.370499,0.578947,0.606357,50.0,20
+2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,1102,lance-stroll,Lance Stroll,aston-martin,10,57,12,0,10,1114.027412,1117.697054,3.669642,0.526316,0.452923,50.0,20
+2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,1102,guanyu-zhou,Guanyu Zhou,kick-sauber,11,56,17,0,11,992.488595,1000.998003,8.509407,0.473684,0.303496,50.0,20
+2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,1102,kevin-magnussen,Kevin Magnussen,haas,12,56,15,0,12,924.35173,933.902301,9.550571,0.421053,0.230041,50.0,20
+2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,1102,daniel-ricciardo,Daniel Ricciardo,rb,13,56,14,0,13,1086.164026,1083.715611,-2.448414,0.368421,0.417389,50.0,20
+2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,1102,yuki-tsunoda,Yuki Tsunoda,rb,14,56,11,0,14,1020.658483,1019.623751,-1.034732,0.315789,0.336484,50.0,20
+2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,1102,alexander-albon,Alexander Albon,williams,15,56,13,0,15,1069.682287,1063.009836,-6.672451,0.263158,0.396607,50.0,20
+2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,1102,nico-hulkenberg,Nico Hülkenberg,haas,16,56,10,0,16,997.178176,992.259801,-4.918375,0.210526,0.308894,50.0,20
+2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,1102,esteban-ocon,Esteban Ocon,alpine,17,56,19,0,17,1123.884673,1108.500988,-15.383685,0.157895,0.465568,50.0,20
+2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,1102,pierre-gasly,Pierre Gasly,alpine,18,56,20,0,18,1132.465638,1113.89921,-18.566428,0.105263,0.476592,50.0,20
+2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,1102,valtteri-bottas,Valtteri Bottas,kick-sauber,19,56,16,0,19,1015.210624,1001.342062,-13.868562,0.052632,0.330003,50.0,20
+2024,1,2024-03-02,bahrain,Formula 1 Gulf Air Bahrain Grand Prix 2024,1102,logan-sargeant,Logan Sargeant,williams,20,55,18,0,20,946.327905,933.695577,-12.632328,0.0,0.252647,50.0,20

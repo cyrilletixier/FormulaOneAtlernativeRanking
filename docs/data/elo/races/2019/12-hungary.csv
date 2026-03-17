@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,lewis-hamilton,Lewis Hamilton,mercedes,1,70,3,0,1,1556.941864,1561.81786,4.875996,1.0,0.90248,50.0,20
-2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,max-verstappen,Max Verstappen,red-bull,2,70,1,0,2,1387.19412,1395.359356,8.165236,0.947368,0.784064,50.0,20
-2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,sebastian-vettel,Sebastian Vettel,ferrari,3,70,5,0,3,1418.991288,1423.198009,4.206721,0.894737,0.810602,50.0,20
-2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,charles-leclerc,Charles Leclerc,ferrari,4,70,4,0,4,1170.097564,1184.679941,14.582377,0.842105,0.550458,50.0,20
-2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,5,69,8,0,5,1144.317362,1157.893211,13.575849,0.789474,0.517957,50.0,20
-2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,pierre-gasly,Pierre Gasly,red-bull,6,69,6,0,6,1113.472755,1126.390474,12.917719,0.736842,0.478488,50.0,20
-2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,7,69,10,0,7,1219.47683,1223.153777,3.676947,0.684211,0.610672,50.0,20
-2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,valtteri-bottas,Valtteri Bottas,mercedes,8,69,2,0,8,1416.815911,1407.952222,-8.863688,0.631579,0.808853,50.0,20
-2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,lando-norris,Lando Norris,mclaren,9,69,7,0,9,1020.3158,1031.280789,10.964989,0.578947,0.359648,50.0,20
-2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,alexander-albon,Alexander Albon,toro-rosso,10,69,12,0,10,1038.908172,1046.076724,7.168551,0.526316,0.382945,50.0,20
-2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,sergio-perez,Sergio Pérez,racing-point,11,69,16,0,11,1089.734184,1091.022251,1.288067,0.473684,0.447923,50.0,20
-2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,nico-hulkenberg,Nico Hülkenberg,renault,12,69,11,0,12,1049.606773,1050.834501,1.227729,0.421053,0.396498,50.0,20
-2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,kevin-magnussen,Kevin Magnussen,haas,13,69,14,0,13,1024.377194,1024.562989,0.185795,0.368421,0.364705,50.0,20
-2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,daniel-ricciardo,Daniel Ricciardo,renault,14,69,20,0,14,1120.496392,1111.910257,-8.586135,0.315789,0.487512,50.0,20
-2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,daniil-kvyat,Daniil Kvyat,toro-rosso,15,68,13,0,15,1061.786821,1054.343256,-7.443565,0.263158,0.412029,50.0,20
-2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,george-russell,George Russell,williams,16,68,15,0,16,958.553796,954.795243,-3.758553,0.210526,0.285697,50.0,20
-2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,lance-stroll,Lance Stroll,racing-point,17,68,18,0,17,1029.455772,1018.797742,-10.658029,0.157895,0.371055,50.0,20
-2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,18,68,17,0,18,978.211038,968.046988,-10.164051,0.105263,0.308544,50.0,20
-2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,robert-kubica,Robert Kubica,williams,19,67,19,0,19,1035.888673,1019.563382,-16.325291,0.052632,0.379137,50.0,20
-2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,romain-grosjean,Romain Grosjean,haas,DNF,49,9,1,20,1004.978906,987.942242,-17.036664,0.0,0.340733,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,1009,lewis-hamilton,Lewis Hamilton,mercedes,1,70,3,0,1,1556.941864,1561.81786,4.875996,1.0,0.90248,50.0,20
+2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,1009,max-verstappen,Max Verstappen,red-bull,2,70,1,0,2,1387.19412,1395.359356,8.165236,0.947368,0.784064,50.0,20
+2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,1009,sebastian-vettel,Sebastian Vettel,ferrari,3,70,5,0,3,1418.991288,1423.198009,4.206721,0.894737,0.810602,50.0,20
+2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,1009,charles-leclerc,Charles Leclerc,ferrari,4,70,4,0,4,1170.097564,1184.679941,14.582377,0.842105,0.550458,50.0,20
+2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,1009,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,5,69,8,0,5,1144.317362,1157.893211,13.575849,0.789474,0.517957,50.0,20
+2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,1009,pierre-gasly,Pierre Gasly,red-bull,6,69,6,0,6,1113.472755,1126.390474,12.917719,0.736842,0.478488,50.0,20
+2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,1009,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,7,69,10,0,7,1219.47683,1223.153777,3.676947,0.684211,0.610672,50.0,20
+2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,1009,valtteri-bottas,Valtteri Bottas,mercedes,8,69,2,0,8,1416.815911,1407.952222,-8.863688,0.631579,0.808853,50.0,20
+2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,1009,lando-norris,Lando Norris,mclaren,9,69,7,0,9,1020.3158,1031.280789,10.964989,0.578947,0.359648,50.0,20
+2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,1009,alexander-albon,Alexander Albon,toro-rosso,10,69,12,0,10,1038.908172,1046.076724,7.168551,0.526316,0.382945,50.0,20
+2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,1009,sergio-perez,Sergio Pérez,racing-point,11,69,16,0,11,1089.734184,1091.022251,1.288067,0.473684,0.447923,50.0,20
+2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,1009,nico-hulkenberg,Nico Hülkenberg,renault,12,69,11,0,12,1049.606773,1050.834501,1.227729,0.421053,0.396498,50.0,20
+2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,1009,kevin-magnussen,Kevin Magnussen,haas,13,69,14,0,13,1024.377194,1024.562989,0.185795,0.368421,0.364705,50.0,20
+2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,1009,daniel-ricciardo,Daniel Ricciardo,renault,14,69,20,0,14,1120.496392,1111.910257,-8.586135,0.315789,0.487512,50.0,20
+2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,1009,daniil-kvyat,Daniil Kvyat,toro-rosso,15,68,13,0,15,1061.786821,1054.343256,-7.443565,0.263158,0.412029,50.0,20
+2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,1009,george-russell,George Russell,williams,16,68,15,0,16,958.553796,954.795243,-3.758553,0.210526,0.285697,50.0,20
+2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,1009,lance-stroll,Lance Stroll,racing-point,17,68,18,0,17,1029.455772,1018.797742,-10.658029,0.157895,0.371055,50.0,20
+2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,1009,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,18,68,17,0,18,978.211038,968.046988,-10.164051,0.105263,0.308544,50.0,20
+2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,1009,robert-kubica,Robert Kubica,williams,19,67,19,0,19,1035.888673,1019.563382,-16.325291,0.052632,0.379137,50.0,20
+2019,12,2019-08-04,hungary,Formula 1 Rolex Magyar Nagydíj 2019,1009,romain-grosjean,Romain Grosjean,haas,DNF,49,9,1,20,1004.978906,987.942242,-17.036664,0.0,0.340733,50.0,20

@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1999-04-11,1999,2,brazil,minardi,Minardi,DNF,31,22,1000.0,995.148666,-4.851334,0.285714,0.382741,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1999-04-11,1999,2,brazil,632,minardi,Minardi,DNF,31,22,1000.0,995.148666,-4.851334,0.285714,0.382741,50.0

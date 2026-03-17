@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,1,55,1,0,1,1437.073706,1445.12397,8.050264,1.0,0.838995,50.0,22
-2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,kimi-raikkonen,Kimi Räikkönen,lotus-f1,2,55,9,0,2,1324.638955,1335.345818,10.706862,0.952381,0.738244,50.0,22
-2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,3,55,3,0,3,1091.23504,1113.383602,22.148563,0.904762,0.461791,50.0,22
-2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,nico-hulkenberg,Nico Hülkenberg,sauber,4,55,7,0,4,1121.19349,1139.06304,17.86955,0.857143,0.499752,50.0,22
-2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,5,55,2,0,5,1303.331667,1308.000623,4.668956,0.809524,0.716145,50.0,22
-2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,fernando-alonso,Fernando Alonso,ferrari,6,55,5,0,6,1401.964801,1399.533768,-2.431033,0.761905,0.810525,50.0,22
-2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,nico-rosberg,Nico Rosberg,mercedes,7,55,4,0,7,1209.63629,1214.868354,5.232064,0.714286,0.609644,50.0,22
-2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,jenson-button,Jenson Button,mclaren,8,55,11,0,8,1255.248549,1255.421366,0.172817,0.666667,0.66321,50.0,22
-2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,felipe-massa,Felipe Massa,ferrari,9,55,6,0,9,1243.207522,1241.692164,-1.515358,0.619048,0.649355,50.0,22
-2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,sergio-perez,Sergio Pérez,mclaren,10,55,10,0,10,1101.987158,1106.787936,4.800778,0.571429,0.475413,50.0,22
-2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,esteban-gutierrez,Esteban Gutiérrez,sauber,11,55,8,0,11,993.256548,1002.413746,9.157198,0.52381,0.340666,50.0,22
-2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,valtteri-bottas,Valtteri Bottas,williams,12,55,17,0,12,1007.165639,1013.110364,5.944725,0.47619,0.357296,50.0,22
-2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,pastor-maldonado,Pastor Maldonado,williams,13,55,18,0,13,1014.461941,1017.584564,3.122623,0.428571,0.366119,50.0,22
-2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,charles-pic,Charles Pic,caterham,14,55,19,0,14,904.057807,911.018841,6.961034,0.380952,0.241732,50.0,22
-2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,giedo-van-der-garde,Giedo van der Garde,caterham,15,55,20,0,15,937.941701,940.731934,2.790232,0.333333,0.277529,50.0,22
-2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,jules-bianchi,Jules Bianchi,marussia,16,55,22,0,16,939.845045,940.150272,0.305226,0.285714,0.27961,50.0,22
-2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,max-chilton,Max Chilton,marussia,17,55,21,0,17,930.86487,929.276915,-1.587955,0.238095,0.269854,50.0,22
-2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,18,53,16,0,18,1003.883998,995.740348,-8.14365,0.190476,0.353349,50.0,22
-2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,daniel-ricciardo,Daniel Ricciardo,toro-rosso,19,52,12,0,19,1057.447171,1043.629932,-13.817239,0.142857,0.419202,50.0,22
-2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,adrian-sutil,Adrian Sutil,force-india,20,50,14,0,20,1098.220616,1079.450547,-18.770069,0.095238,0.470639,50.0,22
-2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,mark-webber,Mark Webber,red-bull,DNF,36,13,1,21,1304.541835,1271.05162,-33.490215,0.047619,0.717423,50.0,22
-2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,paul-di-resta,Paul di Resta,force-india,DNF,24,15,1,22,1076.774254,1054.598881,-22.175373,0.0,0.443507,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,892,sebastian-vettel,Sebastian Vettel,red-bull,1,55,1,0,1,1437.073706,1445.12397,8.050264,1.0,0.838995,50.0,22
+2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,892,kimi-raikkonen,Kimi Räikkönen,lotus-f1,2,55,9,0,2,1324.638955,1335.345818,10.706862,0.952381,0.738244,50.0,22
+2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,892,romain-grosjean,Romain Grosjean,lotus-f1,3,55,3,0,3,1091.23504,1113.383602,22.148563,0.904762,0.461791,50.0,22
+2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,892,nico-hulkenberg,Nico Hülkenberg,sauber,4,55,7,0,4,1121.19349,1139.06304,17.86955,0.857143,0.499752,50.0,22
+2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,892,lewis-hamilton,Lewis Hamilton,mercedes,5,55,2,0,5,1303.331667,1308.000623,4.668956,0.809524,0.716145,50.0,22
+2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,892,fernando-alonso,Fernando Alonso,ferrari,6,55,5,0,6,1401.964801,1399.533768,-2.431033,0.761905,0.810525,50.0,22
+2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,892,nico-rosberg,Nico Rosberg,mercedes,7,55,4,0,7,1209.63629,1214.868354,5.232064,0.714286,0.609644,50.0,22
+2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,892,jenson-button,Jenson Button,mclaren,8,55,11,0,8,1255.248549,1255.421366,0.172817,0.666667,0.66321,50.0,22
+2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,892,felipe-massa,Felipe Massa,ferrari,9,55,6,0,9,1243.207522,1241.692164,-1.515358,0.619048,0.649355,50.0,22
+2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,892,sergio-perez,Sergio Pérez,mclaren,10,55,10,0,10,1101.987158,1106.787936,4.800778,0.571429,0.475413,50.0,22
+2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,892,esteban-gutierrez,Esteban Gutiérrez,sauber,11,55,8,0,11,993.256548,1002.413746,9.157198,0.52381,0.340666,50.0,22
+2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,892,valtteri-bottas,Valtteri Bottas,williams,12,55,17,0,12,1007.165639,1013.110364,5.944725,0.47619,0.357296,50.0,22
+2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,892,pastor-maldonado,Pastor Maldonado,williams,13,55,18,0,13,1014.461941,1017.584564,3.122623,0.428571,0.366119,50.0,22
+2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,892,charles-pic,Charles Pic,caterham,14,55,19,0,14,904.057807,911.018841,6.961034,0.380952,0.241732,50.0,22
+2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,892,giedo-van-der-garde,Giedo van der Garde,caterham,15,55,20,0,15,937.941701,940.731934,2.790232,0.333333,0.277529,50.0,22
+2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,892,jules-bianchi,Jules Bianchi,marussia,16,55,22,0,16,939.845045,940.150272,0.305226,0.285714,0.27961,50.0,22
+2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,892,max-chilton,Max Chilton,marussia,17,55,21,0,17,930.86487,929.276915,-1.587955,0.238095,0.269854,50.0,22
+2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,892,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,18,53,16,0,18,1003.883998,995.740348,-8.14365,0.190476,0.353349,50.0,22
+2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,892,daniel-ricciardo,Daniel Ricciardo,toro-rosso,19,52,12,0,19,1057.447171,1043.629932,-13.817239,0.142857,0.419202,50.0,22
+2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,892,adrian-sutil,Adrian Sutil,force-india,20,50,14,0,20,1098.220616,1079.450547,-18.770069,0.095238,0.470639,50.0,22
+2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,892,mark-webber,Mark Webber,red-bull,DNF,36,13,1,21,1304.541835,1271.05162,-33.490215,0.047619,0.717423,50.0,22
+2013,14,2013-10-06,korea,2013 Formula 1 Korean Grand Prix,892,paul-di-resta,Paul di Resta,force-india,DNF,24,15,1,22,1076.774254,1054.598881,-22.175373,0.0,0.443507,50.0,22

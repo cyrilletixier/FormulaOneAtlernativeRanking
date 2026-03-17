@@ -1,18 +1,18 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,jim-clark,Jim Clark,lotus,1,90,8,0,1,1138.033421,1158.311086,20.277665,1.0,0.594447,50.0,17
-1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,jack-brabham,Jack Brabham,brabham,2,90,3,0,2,1150.718575,1166.962508,16.243933,0.9375,0.612621,50.0,17
-1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,denny-hulme,Denny Hulme,brabham,3,90,7,0,3,1117.126803,1132.675693,15.54889,0.875,0.564022,50.0,17
-1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,chris-amon,Chris Amon,ferrari,4,90,9,0,4,956.740892,980.786777,24.045886,0.8125,0.331582,50.0,17
-1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,mike-parkes,Mike Parkes,ferrari,5,89,10,0,5,1025.421867,1041.505762,16.083895,0.75,0.428322,50.0,17
-1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,ludovico-scarfiotti,Ludovico Scarfiotti,ferrari,6,89,15,0,6,1022.250913,1035.441202,13.190289,0.6875,0.423694,50.0,17
-1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,chris-irwin,Chris Irwin,lotus,7,88,13,0,7,1013.978606,1024.644753,10.666147,0.625,0.411677,50.0,17
-1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,mike-spence,Mike Spence,brm,8,87,12,0,8,1065.942747,1069.658918,3.716171,0.5625,0.488177,50.0,17
-1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,bob-anderson,Bob Anderson,brabham,9,86,17,0,9,994.847317,1000.634858,5.787541,0.5,0.384249,50.0,17
-1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,jo-siffert,Jo Siffert,cooper,10,83,16,0,10,1063.321069,1060.982126,-2.338943,0.4375,0.484279,50.0,17
-1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,john-surtees,John Surtees,honda,DNF,73,6,1,11,1155.444408,1143.228075,-12.216334,0.375,0.619327,50.0,17
-1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,jackie-stewart,Jackie Stewart,brm,DNF,51,11,1,12,1051.352073,1043.651494,-7.700579,0.3125,0.466512,50.0,17
-1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,jochen-rindt,Jochen Rindt,cooper,DNF,41,4,1,13,1090.023996,1076.324703,-13.699293,0.25,0.523986,50.0,17
-1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,pedro-rodriguez,Pedro Rodríguez,cooper,DNF,39,5,1,14,1067.809602,1052.636957,-15.172645,0.1875,0.490953,50.0,17
-1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,graham-hill,Graham Hill,lotus,DNF,11,1,1,15,1168.588885,1142.950524,-25.638361,0.125,0.637767,50.0,17
-1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,dan-gurney,Dan Gurney,eagle,DNF,8,2,1,16,1099.945324,1076.135522,-23.809802,0.0625,0.538696,50.0,17
-1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,bruce-mclaren,Bruce McLaren,mclaren,DNF,1,14,1,17,1073.682415,1048.697955,-24.984461,0.0,0.499689,50.0,17
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,153,jim-clark,Jim Clark,lotus,1,90,8,0,1,1138.033421,1158.311086,20.277665,1.0,0.594447,50.0,17
+1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,153,jack-brabham,Jack Brabham,brabham,2,90,3,0,2,1150.718575,1166.962508,16.243933,0.9375,0.612621,50.0,17
+1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,153,denny-hulme,Denny Hulme,brabham,3,90,7,0,3,1117.126803,1132.675693,15.54889,0.875,0.564022,50.0,17
+1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,153,chris-amon,Chris Amon,ferrari,4,90,9,0,4,956.740892,980.786777,24.045886,0.8125,0.331582,50.0,17
+1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,153,mike-parkes,Mike Parkes,ferrari,5,89,10,0,5,1025.421867,1041.505762,16.083895,0.75,0.428322,50.0,17
+1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,153,ludovico-scarfiotti,Ludovico Scarfiotti,ferrari,6,89,15,0,6,1022.250913,1035.441202,13.190289,0.6875,0.423694,50.0,17
+1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,153,chris-irwin,Chris Irwin,lotus,7,88,13,0,7,1013.978606,1024.644753,10.666147,0.625,0.411677,50.0,17
+1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,153,mike-spence,Mike Spence,brm,8,87,12,0,8,1065.942747,1069.658918,3.716171,0.5625,0.488177,50.0,17
+1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,153,bob-anderson,Bob Anderson,brabham,9,86,17,0,9,994.847317,1000.634858,5.787541,0.5,0.384249,50.0,17
+1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,153,jo-siffert,Jo Siffert,cooper,10,83,16,0,10,1063.321069,1060.982126,-2.338943,0.4375,0.484279,50.0,17
+1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,153,john-surtees,John Surtees,honda,DNF,73,6,1,11,1155.444408,1143.228075,-12.216334,0.375,0.619327,50.0,17
+1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,153,jackie-stewart,Jackie Stewart,brm,DNF,51,11,1,12,1051.352073,1043.651494,-7.700579,0.3125,0.466512,50.0,17
+1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,153,jochen-rindt,Jochen Rindt,cooper,DNF,41,4,1,13,1090.023996,1076.324703,-13.699293,0.25,0.523986,50.0,17
+1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,153,pedro-rodriguez,Pedro Rodríguez,cooper,DNF,39,5,1,14,1067.809602,1052.636957,-15.172645,0.1875,0.490953,50.0,17
+1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,153,graham-hill,Graham Hill,lotus,DNF,11,1,1,15,1168.588885,1142.950524,-25.638361,0.125,0.637767,50.0,17
+1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,153,dan-gurney,Dan Gurney,eagle,DNF,8,2,1,16,1099.945324,1076.135522,-23.809802,0.0625,0.538696,50.0,17
+1967,3,1967-06-04,netherlands,Grote Prijs van Nederland 1967,153,bruce-mclaren,Bruce McLaren,mclaren,DNF,1,14,1,17,1073.682415,1048.697955,-24.984461,0.0,0.499689,50.0,17

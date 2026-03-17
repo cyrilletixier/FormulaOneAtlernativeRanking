@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,lewis-hamilton,Lewis Hamilton,mercedes,1,70,1,0,1,1502.370376,1508.202263,5.831886,1.0,0.883362,50.0,20
-2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,sebastian-vettel,Sebastian Vettel,ferrari,2,70,4,0,2,1388.641608,1396.097722,7.456114,0.947368,0.798246,50.0,20
-2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,kimi-raikkonen,Kimi Räikkönen,ferrari,3,70,3,0,3,1314.69643,1323.055075,8.358646,0.894737,0.727564,50.0,20
-2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,daniel-ricciardo,Daniel Ricciardo,red-bull,4,70,12,0,4,1214.809798,1226.176647,11.366849,0.842105,0.614768,50.0,20
-2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,valtteri-bottas,Valtteri Bottas,mercedes,5,70,2,0,5,1346.144103,1347.6641,1.519997,0.789474,0.759074,50.0,20
-2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,pierre-gasly,Pierre Gasly,toro-rosso,6,70,6,0,6,1002.499648,1022.07853,19.578882,0.736842,0.345264,50.0,20
-2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,kevin-magnussen,Kevin Magnussen,haas,7,69,9,0,7,1095.757089,1106.781818,11.024729,0.684211,0.463716,50.0,20
-2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,fernando-alonso,Fernando Alonso,mclaren,8,69,11,0,8,1068.456657,1078.61422,10.157563,0.631579,0.428428,50.0,20
-2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,carlos-sainz-jr,Carlos Sainz Jr.,renault,9,69,5,0,9,1092.463503,1098.438414,5.974911,0.578947,0.459449,50.0,20
-2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,romain-grosjean,Romain Grosjean,haas,10,69,10,0,10,1043.560889,1050.048663,6.487773,0.526316,0.39656,50.0,20
-2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,brendon-hartley,Brendon Hartley,toro-rosso,11,69,8,0,11,940.032715,950.111579,10.078864,0.473684,0.272107,50.0,20
-2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,nico-hulkenberg,Nico Hülkenberg,renault,12,69,13,0,12,1104.628738,1101.920741,-2.707997,0.421053,0.475213,50.0,20
-2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,esteban-ocon,Esteban Ocon,force-india,13,69,17,0,13,1122.959823,1116.433509,-6.526314,0.368421,0.498947,50.0,20
-2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,sergio-perez,Sergio Pérez,force-india,14,69,18,0,14,1171.931428,1159.638783,-12.292645,0.315789,0.561642,50.0,20
-2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,marcus-ericsson,Marcus Ericsson,sauber,15,68,14,0,15,975.622086,973.133443,-2.488643,0.263158,0.312931,50.0,20
-2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,sergey-sirotkin,Sergey Sirotkin,williams,16,68,19,0,16,945.565633,942.177578,-3.388055,0.210526,0.278287,50.0,20
-2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,lance-stroll,Lance Stroll,williams,17,68,PL,0,17,999.207932,990.040464,-9.167468,0.157895,0.341244,50.0,20
-2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,stoffel-vandoorne,Stoffel Vandoorne,mclaren,DNF,49,15,1,18,1025.912053,1012.461317,-13.450736,0.105263,0.374278,50.0,20
-2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,max-verstappen,Max Verstappen,red-bull,DNF,5,7,1,19,1246.659014,1216.659432,-29.999582,0.052632,0.652623,50.0,20
-2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,charles-leclerc,Charles Leclerc,sauber,DNF,0,16,1,20,1011.468214,993.653441,-17.814773,0.0,0.356295,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,988,lewis-hamilton,Lewis Hamilton,mercedes,1,70,1,0,1,1502.370376,1508.202263,5.831886,1.0,0.883362,50.0,20
+2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,988,sebastian-vettel,Sebastian Vettel,ferrari,2,70,4,0,2,1388.641608,1396.097722,7.456114,0.947368,0.798246,50.0,20
+2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,988,kimi-raikkonen,Kimi Räikkönen,ferrari,3,70,3,0,3,1314.69643,1323.055075,8.358646,0.894737,0.727564,50.0,20
+2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,988,daniel-ricciardo,Daniel Ricciardo,red-bull,4,70,12,0,4,1214.809798,1226.176647,11.366849,0.842105,0.614768,50.0,20
+2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,988,valtteri-bottas,Valtteri Bottas,mercedes,5,70,2,0,5,1346.144103,1347.6641,1.519997,0.789474,0.759074,50.0,20
+2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,988,pierre-gasly,Pierre Gasly,toro-rosso,6,70,6,0,6,1002.499648,1022.07853,19.578882,0.736842,0.345264,50.0,20
+2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,988,kevin-magnussen,Kevin Magnussen,haas,7,69,9,0,7,1095.757089,1106.781818,11.024729,0.684211,0.463716,50.0,20
+2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,988,fernando-alonso,Fernando Alonso,mclaren,8,69,11,0,8,1068.456657,1078.61422,10.157563,0.631579,0.428428,50.0,20
+2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,988,carlos-sainz-jr,Carlos Sainz Jr.,renault,9,69,5,0,9,1092.463503,1098.438414,5.974911,0.578947,0.459449,50.0,20
+2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,988,romain-grosjean,Romain Grosjean,haas,10,69,10,0,10,1043.560889,1050.048663,6.487773,0.526316,0.39656,50.0,20
+2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,988,brendon-hartley,Brendon Hartley,toro-rosso,11,69,8,0,11,940.032715,950.111579,10.078864,0.473684,0.272107,50.0,20
+2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,988,nico-hulkenberg,Nico Hülkenberg,renault,12,69,13,0,12,1104.628738,1101.920741,-2.707997,0.421053,0.475213,50.0,20
+2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,988,esteban-ocon,Esteban Ocon,force-india,13,69,17,0,13,1122.959823,1116.433509,-6.526314,0.368421,0.498947,50.0,20
+2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,988,sergio-perez,Sergio Pérez,force-india,14,69,18,0,14,1171.931428,1159.638783,-12.292645,0.315789,0.561642,50.0,20
+2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,988,marcus-ericsson,Marcus Ericsson,sauber,15,68,14,0,15,975.622086,973.133443,-2.488643,0.263158,0.312931,50.0,20
+2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,988,sergey-sirotkin,Sergey Sirotkin,williams,16,68,19,0,16,945.565633,942.177578,-3.388055,0.210526,0.278287,50.0,20
+2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,988,lance-stroll,Lance Stroll,williams,17,68,PL,0,17,999.207932,990.040464,-9.167468,0.157895,0.341244,50.0,20
+2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,988,stoffel-vandoorne,Stoffel Vandoorne,mclaren,DNF,49,15,1,18,1025.912053,1012.461317,-13.450736,0.105263,0.374278,50.0,20
+2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,988,max-verstappen,Max Verstappen,red-bull,DNF,5,7,1,19,1246.659014,1216.659432,-29.999582,0.052632,0.652623,50.0,20
+2018,12,2018-07-29,hungary,Formula 1 Rolex Magyar Nagydíj 2018,988,charles-leclerc,Charles Leclerc,sauber,DNF,0,16,1,20,1011.468214,993.653441,-17.814773,0.0,0.356295,50.0,20

@@ -1,6 +1,6 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1954-05-31,1954,2,indianapolis,stevens,Stevens,18,193,42,1000.0,992.923427,-7.076573,0.353659,0.49519,50.0
-1955-05-30,1955,3,indianapolis,kurtis-kraft,Kurtis Kraft,30,53,35,992.923427,973.320904,-19.602523,0.088235,0.480286,50.0
-1956-05-30,1956,3,indianapolis,kurtis-kraft,Kurtis Kraft,23,160,34,973.320904,966.121429,-7.199475,0.318182,0.462171,50.0
-1957-05-30,1957,3,indianapolis,kurtis-kraft,Kurtis Kraft,29,51,33,966.121429,949.889278,-16.232151,0.125,0.449643,50.0
-1958-05-30,1958,4,indianapolis,watson,Watson,28,0,33,949.889278,936.456877,-13.432401,0.15625,0.424898,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1954-05-31,1954,2,indianapolis,34,stevens,Stevens,18,193,42,1000.0,992.923427,-7.076573,0.353659,0.49519,50.0
+1955-05-30,1955,3,indianapolis,44,kurtis-kraft,Kurtis Kraft,30,53,35,992.923427,973.320904,-19.602523,0.088235,0.480286,50.0
+1956-05-30,1956,3,indianapolis,51,kurtis-kraft,Kurtis Kraft,23,160,34,973.320904,966.121429,-7.199475,0.318182,0.462171,50.0
+1957-05-30,1957,3,indianapolis,59,kurtis-kraft,Kurtis Kraft,29,51,33,966.121429,949.889278,-16.232151,0.125,0.449643,50.0
+1958-05-30,1958,4,indianapolis,68,watson,Watson,28,0,33,949.889278,936.456877,-13.432401,0.15625,0.424898,50.0

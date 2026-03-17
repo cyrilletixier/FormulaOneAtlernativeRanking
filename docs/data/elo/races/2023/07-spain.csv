@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,max-verstappen,Max Verstappen,red-bull,1,66,1,0,1,1510.041968,1516.311636,6.269668,1.0,0.874607,50.0,20
-2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,lewis-hamilton,Lewis Hamilton,mercedes,2,66,4,0,2,1415.989438,1423.208724,7.219286,0.947368,0.802983,50.0,20
-2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,george-russell,George Russell,mercedes,3,66,12,0,3,1274.469396,1286.233851,11.764455,0.894737,0.659448,50.0,20
-2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,sergio-perez,Sergio Pérez,red-bull,4,66,11,0,4,1360.267539,1364.806289,4.538749,0.842105,0.75133,50.0,20
-2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,5,66,2,0,5,1279.043174,1285.282726,6.239552,0.789474,0.664683,50.0,20
-2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,lance-stroll,Lance Stroll,aston-martin,6,66,5,0,6,1086.557798,1102.103976,15.546178,0.736842,0.425919,50.0,20
-2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,fernando-alonso,Fernando Alonso,aston-martin,7,66,8,0,7,1232.923353,1236.611577,3.688224,0.684211,0.610446,50.0,20
-2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,esteban-ocon,Esteban Ocon,alpine,8,66,6,0,8,1176.400747,1180.956856,4.55611,0.631579,0.540457,50.0,20
-2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,guanyu-zhou,Guanyu Zhou,alfa-romeo,9,66,13,0,9,990.180559,1003.730838,13.550279,0.578947,0.307942,50.0,20
-2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,pierre-gasly,Pierre Gasly,alpine,10,66,10,0,10,1116.628517,1119.730831,3.102314,0.526316,0.46427,50.0,20
-2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,charles-leclerc,Charles Leclerc,ferrari,11,66,PL,0,11,1288.194299,1278.125896,-10.068403,0.473684,0.675052,50.0,20
-2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,yuki-tsunoda,Yuki Tsunoda,alphatauri,12,66,15,0,12,1018.075579,1022.082986,4.007407,0.421053,0.340904,50.0,20
-2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,oscar-piastri,Oscar Piastri,mclaren,13,65,9,0,13,1004.012947,1006.227323,2.214377,0.368421,0.324134,50.0,20
-2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,nyck-de-vries,Nyck de Vries,alphatauri,14,65,14,0,14,987.535238,988.080602,0.545364,0.315789,0.304882,50.0,20
-2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,nico-hulkenberg,Nico Hülkenberg,haas,15,65,7,0,15,1045.536512,1039.972992,-5.56352,0.263158,0.374428,50.0,20
-2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,alexander-albon,Alexander Albon,williams,16,65,18,0,16,1027.627965,1020.531377,-7.096587,0.210526,0.352458,50.0,20
-2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,lando-norris,Lando Norris,mclaren,17,65,3,0,17,1172.836432,1153.933548,-18.902884,0.157895,0.535952,50.0,20
-2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,kevin-magnussen,Kevin Magnussen,haas,18,65,17,0,18,974.242197,965.020442,-9.221755,0.105263,0.289698,50.0,20
-2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,valtteri-bottas,Valtteri Bottas,alfa-romeo,19,65,16,0,19,1082.954486,1064.518705,-18.435781,0.052632,0.421347,50.0,20
-2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,logan-sargeant,Logan Sargeant,williams,20,65,PL,0,20,964.750556,950.797524,-13.953032,0.0,0.279061,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,1086,max-verstappen,Max Verstappen,red-bull,1,66,1,0,1,1510.041968,1516.311636,6.269668,1.0,0.874607,50.0,20
+2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,1086,lewis-hamilton,Lewis Hamilton,mercedes,2,66,4,0,2,1415.989438,1423.208724,7.219286,0.947368,0.802983,50.0,20
+2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,1086,george-russell,George Russell,mercedes,3,66,12,0,3,1274.469396,1286.233851,11.764455,0.894737,0.659448,50.0,20
+2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,1086,sergio-perez,Sergio Pérez,red-bull,4,66,11,0,4,1360.267539,1364.806289,4.538749,0.842105,0.75133,50.0,20
+2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,1086,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,5,66,2,0,5,1279.043174,1285.282726,6.239552,0.789474,0.664683,50.0,20
+2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,1086,lance-stroll,Lance Stroll,aston-martin,6,66,5,0,6,1086.557798,1102.103976,15.546178,0.736842,0.425919,50.0,20
+2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,1086,fernando-alonso,Fernando Alonso,aston-martin,7,66,8,0,7,1232.923353,1236.611577,3.688224,0.684211,0.610446,50.0,20
+2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,1086,esteban-ocon,Esteban Ocon,alpine,8,66,6,0,8,1176.400747,1180.956856,4.55611,0.631579,0.540457,50.0,20
+2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,1086,guanyu-zhou,Guanyu Zhou,alfa-romeo,9,66,13,0,9,990.180559,1003.730838,13.550279,0.578947,0.307942,50.0,20
+2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,1086,pierre-gasly,Pierre Gasly,alpine,10,66,10,0,10,1116.628517,1119.730831,3.102314,0.526316,0.46427,50.0,20
+2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,1086,charles-leclerc,Charles Leclerc,ferrari,11,66,PL,0,11,1288.194299,1278.125896,-10.068403,0.473684,0.675052,50.0,20
+2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,1086,yuki-tsunoda,Yuki Tsunoda,alphatauri,12,66,15,0,12,1018.075579,1022.082986,4.007407,0.421053,0.340904,50.0,20
+2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,1086,oscar-piastri,Oscar Piastri,mclaren,13,65,9,0,13,1004.012947,1006.227323,2.214377,0.368421,0.324134,50.0,20
+2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,1086,nyck-de-vries,Nyck de Vries,alphatauri,14,65,14,0,14,987.535238,988.080602,0.545364,0.315789,0.304882,50.0,20
+2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,1086,nico-hulkenberg,Nico Hülkenberg,haas,15,65,7,0,15,1045.536512,1039.972992,-5.56352,0.263158,0.374428,50.0,20
+2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,1086,alexander-albon,Alexander Albon,williams,16,65,18,0,16,1027.627965,1020.531377,-7.096587,0.210526,0.352458,50.0,20
+2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,1086,lando-norris,Lando Norris,mclaren,17,65,3,0,17,1172.836432,1153.933548,-18.902884,0.157895,0.535952,50.0,20
+2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,1086,kevin-magnussen,Kevin Magnussen,haas,18,65,17,0,18,974.242197,965.020442,-9.221755,0.105263,0.289698,50.0,20
+2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,1086,valtteri-bottas,Valtteri Bottas,alfa-romeo,19,65,16,0,19,1082.954486,1064.518705,-18.435781,0.052632,0.421347,50.0,20
+2023,7,2023-06-04,spain,Formula 1 AWS Gran Premio de España 2023,1086,logan-sargeant,Logan Sargeant,williams,20,65,PL,0,20,964.750556,950.797524,-13.953032,0.0,0.279061,50.0,20

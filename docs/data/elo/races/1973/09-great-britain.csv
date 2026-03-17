@@ -1,30 +1,30 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,peter-revson,Peter Revson,mclaren,1,67,3,0,1,1110.635263,1131.24112,20.605857,1.0,0.587883,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,ronnie-peterson,Ronnie Peterson,lotus,2,67,1,0,2,1138.130041,1155.094967,16.964926,0.964286,0.624987,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,denny-hulme,Denny Hulme,mclaren,3,67,2,0,3,1228.121599,1237.760336,9.638737,0.928571,0.735797,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,james-hunt,James Hunt,march,4,67,11,0,4,1029.416639,1050.35808,20.941441,0.892857,0.474028,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,francois-cevert,François Cevert,tyrrell,5,67,7,0,5,1187.509643,1195.960471,8.450828,0.857143,0.688126,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,carlos-reutemann,Carlos Reutemann,brabham,6,67,8,0,6,1034.653749,1051.65366,16.999911,0.821429,0.48143,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,clay-regazzoni,Clay Regazzoni,brm,7,67,10,0,7,1064.426611,1077.536742,13.110131,0.785714,0.523512,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,jacky-ickx,Jacky Ickx,ferrari,8,67,19,0,8,1101.091465,1109.853659,8.762194,0.75,0.574756,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,howden-ganley,Howden Ganley,iso-marlboro,9,66,18,0,9,1025.42369,1037.718493,12.294803,0.714286,0.46839,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,jackie-stewart,Jackie Stewart,tyrrell,10,66,4,0,10,1255.112548,1250.789094,-4.323454,0.678571,0.765041,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,mike-beuttler,Mike Beuttler,march,11,65,24,0,11,1000.971389,1011.412732,10.441343,0.642857,0.43403,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,niki-lauda,Niki Lauda,brm,12,63,9,0,12,992.024508,1001.303193,9.278685,0.607143,0.421569,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,rikky-von-opel,Rikky von Opel,ensign,13,61,21,0,13,999.098113,1006.098784,7.000671,0.571429,0.431415,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,wilson-fittipaldi,Wilson Fittipaldi,brabham,DNF,44,13,1,14,989.101132,995.011122,5.90999,0.535714,0.417514,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,emerson-fittipaldi,Emerson Fittipaldi,lotus,DNF,36,5,1,15,1208.565877,1197.004515,-11.561362,0.482143,0.71337,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,john-watson,John Watson,brabham,DNF,36,23,1,16,1000.0,1002.473452,2.473452,0.482143,0.432674,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,graham-hill,Graham Hill,shadow,DNF,24,27,1,17,1059.772323,1055.353641,-4.418682,0.428571,0.516945,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,chris-amon,Chris Amon,tecno,DNF,6,29,1,18,1115.927019,1105.814314,-10.112705,0.392857,0.595111,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,andrea-de-adamich,Andrea de Adamich,brabham,DNF,0,20,1,19,981.966517,971.405027,-10.56149,0.196429,0.407658,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,carlos-pace,Carlos Pace,surtees,DNF,0,15,1,20,986.519077,975.643463,-10.875613,0.196429,0.413941,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,george-follmer,George Follmer,shadow,DNF,0,25,1,21,982.877645,972.253385,-10.62426,0.196429,0.408914,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,graham-mcrae,Graham McRae,iso-marlboro,DNF,0,28,1,22,1000.0,988.187738,-11.812262,0.196429,0.432674,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,jackie-oliver,Jackie Oliver,shadow,DNF,0,26,1,23,929.370215,922.325575,-7.04464,0.196429,0.337321,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,jean-pierre-beltoise,Jean-Pierre Beltoise,brm,DNF,0,17,1,24,1040.613718,1025.942173,-14.671545,0.196429,0.489859,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,jochen-mass,Jochen Mass,surtees,DNF,0,14,1,25,1000.0,988.187738,-11.812262,0.196429,0.432674,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,jody-scheckter,Jody Scheckter,mclaren,DNF,0,6,1,26,1018.108929,1005.026574,-13.082355,0.196429,0.458076,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,mike-hailwood,Mike Hailwood,surtees,DNF,0,12,1,27,960.844563,951.72271,-9.121853,0.196429,0.378866,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,roger-williamson,Roger Williamson,march,DNF,0,22,1,28,1000.0,988.187738,-11.812262,0.196429,0.432674,50.0,29
-1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,david-purley,David Purley,march,DNS,,16,2,29,991.444831,970.406609,-21.038222,0.0,0.420764,50.0,29
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,peter-revson,Peter Revson,mclaren,1,67,3,0,1,1110.635263,1131.24112,20.605857,1.0,0.587883,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,ronnie-peterson,Ronnie Peterson,lotus,2,67,1,0,2,1138.130041,1155.094967,16.964926,0.964286,0.624987,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,denny-hulme,Denny Hulme,mclaren,3,67,2,0,3,1228.121599,1237.760336,9.638737,0.928571,0.735797,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,james-hunt,James Hunt,march,4,67,11,0,4,1029.416639,1050.35808,20.941441,0.892857,0.474028,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,francois-cevert,François Cevert,tyrrell,5,67,7,0,5,1187.509643,1195.960471,8.450828,0.857143,0.688126,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,carlos-reutemann,Carlos Reutemann,brabham,6,67,8,0,6,1034.653749,1051.65366,16.999911,0.821429,0.48143,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,clay-regazzoni,Clay Regazzoni,brm,7,67,10,0,7,1064.426611,1077.536742,13.110131,0.785714,0.523512,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,jacky-ickx,Jacky Ickx,ferrari,8,67,19,0,8,1101.091465,1109.853659,8.762194,0.75,0.574756,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,howden-ganley,Howden Ganley,iso-marlboro,9,66,18,0,9,1025.42369,1037.718493,12.294803,0.714286,0.46839,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,jackie-stewart,Jackie Stewart,tyrrell,10,66,4,0,10,1255.112548,1250.789094,-4.323454,0.678571,0.765041,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,mike-beuttler,Mike Beuttler,march,11,65,24,0,11,1000.971389,1011.412732,10.441343,0.642857,0.43403,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,niki-lauda,Niki Lauda,brm,12,63,9,0,12,992.024508,1001.303193,9.278685,0.607143,0.421569,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,rikky-von-opel,Rikky von Opel,ensign,13,61,21,0,13,999.098113,1006.098784,7.000671,0.571429,0.431415,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,wilson-fittipaldi,Wilson Fittipaldi,brabham,DNF,44,13,1,14,989.101132,995.011122,5.90999,0.535714,0.417514,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,emerson-fittipaldi,Emerson Fittipaldi,lotus,DNF,36,5,1,15,1208.565877,1197.004515,-11.561362,0.482143,0.71337,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,john-watson,John Watson,brabham,DNF,36,23,1,16,1000.0,1002.473452,2.473452,0.482143,0.432674,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,graham-hill,Graham Hill,shadow,DNF,24,27,1,17,1059.772323,1055.353641,-4.418682,0.428571,0.516945,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,chris-amon,Chris Amon,tecno,DNF,6,29,1,18,1115.927019,1105.814314,-10.112705,0.392857,0.595111,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,andrea-de-adamich,Andrea de Adamich,brabham,DNF,0,20,1,19,981.966517,971.405027,-10.56149,0.196429,0.407658,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,carlos-pace,Carlos Pace,surtees,DNF,0,15,1,20,986.519077,975.643463,-10.875613,0.196429,0.413941,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,george-follmer,George Follmer,shadow,DNF,0,25,1,21,982.877645,972.253385,-10.62426,0.196429,0.408914,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,graham-mcrae,Graham McRae,iso-marlboro,DNF,0,28,1,22,1000.0,988.187738,-11.812262,0.196429,0.432674,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,jackie-oliver,Jackie Oliver,shadow,DNF,0,26,1,23,929.370215,922.325575,-7.04464,0.196429,0.337321,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,jean-pierre-beltoise,Jean-Pierre Beltoise,brm,DNF,0,17,1,24,1040.613718,1025.942173,-14.671545,0.196429,0.489859,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,jochen-mass,Jochen Mass,surtees,DNF,0,14,1,25,1000.0,988.187738,-11.812262,0.196429,0.432674,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,jody-scheckter,Jody Scheckter,mclaren,DNF,0,6,1,26,1018.108929,1005.026574,-13.082355,0.196429,0.458076,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,mike-hailwood,Mike Hailwood,surtees,DNF,0,12,1,27,960.844563,951.72271,-9.121853,0.196429,0.378866,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,roger-williamson,Roger Williamson,march,DNF,0,22,1,28,1000.0,988.187738,-11.812262,0.196429,0.432674,50.0,29
+1973,9,1973-07-14,great-britain,1973 John Player British Grand Prix,229,david-purley,David Purley,march,DNS,,16,2,29,991.444831,970.406609,-21.038222,0.0,0.420764,50.0,29

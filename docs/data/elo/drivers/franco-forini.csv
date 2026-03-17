@@ -1,4 +1,4 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1987-09-06,1987,11,italy,osella,Osella,DNF,27,28,1000.0,992.425475,-7.574525,0.277778,0.429268,50.0
-1987-09-20,1987,12,portugal,osella,Osella,DNF,32,27,992.425475,988.947608,-3.477867,0.346154,0.415711,50.0
-1987-09-27,1987,13,spain,osella,Osella,DNQ,,28,988.947608,969.130947,-19.816662,0.018519,0.414852,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1987-09-06,1987,11,italy,447,osella,Osella,DNF,27,28,1000.0,992.425475,-7.574525,0.277778,0.429268,50.0
+1987-09-20,1987,12,portugal,448,osella,Osella,DNF,32,27,992.425475,988.947608,-3.477867,0.346154,0.415711,50.0
+1987-09-27,1987,13,spain,449,osella,Osella,DNQ,,28,988.947608,969.130947,-19.816662,0.018519,0.414852,50.0

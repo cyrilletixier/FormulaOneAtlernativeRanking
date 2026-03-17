@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,alberto-ascari,Alberto Ascari,ferrari,1,36,1,0,1,1080.124972,1100.093897,19.968925,1.0,0.600622,50.0,22
-1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,nino-farina,Nino Farina,ferrari,2,36,2,0,2,1087.15591,1104.238714,17.082805,0.952381,0.610725,50.0,22
-1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,robert-manzon,Robert Manzon,gordini,3,36,4,0,3,988.517689,1010.520241,22.002552,0.904762,0.464711,50.0,22
-1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,mike-hawthorn,Mike Hawthorn,cooper,4,35,6,0,4,1000.0,1018.763764,18.763764,0.857143,0.481868,50.0,22
-1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,paul-frere,Paul Frère,hwm,5,34,8,0,5,1000.0,1016.382811,16.382811,0.809524,0.481868,50.0,22
-1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,alan-brown,Alan Brown,cooper,6,34,9,0,6,1015.557849,1028.394711,12.836862,0.761905,0.505168,50.0,22
-1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,charles-de-tornaco,Charles de Tornaco,ferrari,7,33,13,0,7,1000.0,1011.620907,11.620907,0.714286,0.481868,50.0,22
-1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,johnny-claes,Johnny Claes,gordini,8,33,19,0,8,977.005224,987.959365,10.954141,0.666667,0.447584,50.0,22
-1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,eric-brandon,Eric Brandon,cooper,9,33,12,0,9,1008.414992,1014.644006,6.229014,0.619048,0.494467,50.0,22
-1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,birabongse-bhanudej,Birabongse Bhanudej,gordini,10,32,18,0,10,988.48086,993.819492,5.338632,0.571429,0.464656,50.0,22
-1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,lance-macklin,Lance Macklin,hwm,11,32,14,0,11,997.700706,999.969793,2.269087,0.52381,0.478428,50.0,22
-1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,roger-laurent,Roger Laurent,hwm,12,32,20,0,12,1000.0,999.716145,-0.283855,0.47619,0.481868,50.0,22
-1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,arthur-legat,Arthur Legat,veritas,13,31,21,0,13,1000.0,997.335192,-2.664808,0.428571,0.481868,50.0,22
-1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,robert-obrien,Robert O'Brien,simca-gordini,14,30,22,0,14,1000.0,994.95424,-5.04576,0.380952,0.481868,50.0,22
-1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,tony-gaze,Tony Gaze,hwm,15,30,16,0,15,1000.0,992.573288,-7.426712,0.333333,0.481868,50.0,22
-1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,robin-montgomerie-charrington,Robin Montgomerie-Charrington,aston-butterworth,DNF,17,15,1,16,1000.0,990.192335,-9.807665,0.285714,0.481868,50.0,22
-1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,jean-behra,Jean Behra,gordini,DNF,13,5,1,17,1020.319754,1005.419091,-14.900663,0.214286,0.512299,50.0,22
-1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,piero-taruffi,Piero Taruffi,ferrari,DNF,13,3,1,18,1044.945437,1028.207427,-16.738011,0.214286,0.549046,50.0,22
-1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,ken-wharton,Ken Wharton,frazer-nash,DNF,10,7,1,19,1017.938801,999.644975,-18.293826,0.142857,0.508734,50.0,22
-1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,louis-rosier,Louis Rosier,ferrari,DNF,6,17,1,20,1048.931154,1025.945189,-22.985965,0.095238,0.554957,50.0,22
-1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,peter-collins,Peter Collins,hwm,DNF,3,11,1,21,988.176896,967.347718,-20.829178,0.047619,0.464203,50.0,22
-1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,stirling-moss,Stirling Moss,era,DNF,0,10,1,22,1005.072493,980.599438,-24.473055,0.0,0.489461,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,18,alberto-ascari,Alberto Ascari,ferrari,1,36,1,0,1,1080.124972,1100.093897,19.968925,1.0,0.600622,50.0,22
+1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,18,nino-farina,Nino Farina,ferrari,2,36,2,0,2,1087.15591,1104.238714,17.082805,0.952381,0.610725,50.0,22
+1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,18,robert-manzon,Robert Manzon,gordini,3,36,4,0,3,988.517689,1010.520241,22.002552,0.904762,0.464711,50.0,22
+1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,18,mike-hawthorn,Mike Hawthorn,cooper,4,35,6,0,4,1000.0,1018.763764,18.763764,0.857143,0.481868,50.0,22
+1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,18,paul-frere,Paul Frère,hwm,5,34,8,0,5,1000.0,1016.382811,16.382811,0.809524,0.481868,50.0,22
+1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,18,alan-brown,Alan Brown,cooper,6,34,9,0,6,1015.557849,1028.394711,12.836862,0.761905,0.505168,50.0,22
+1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,18,charles-de-tornaco,Charles de Tornaco,ferrari,7,33,13,0,7,1000.0,1011.620907,11.620907,0.714286,0.481868,50.0,22
+1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,18,johnny-claes,Johnny Claes,gordini,8,33,19,0,8,977.005224,987.959365,10.954141,0.666667,0.447584,50.0,22
+1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,18,eric-brandon,Eric Brandon,cooper,9,33,12,0,9,1008.414992,1014.644006,6.229014,0.619048,0.494467,50.0,22
+1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,18,birabongse-bhanudej,Birabongse Bhanudej,gordini,10,32,18,0,10,988.48086,993.819492,5.338632,0.571429,0.464656,50.0,22
+1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,18,lance-macklin,Lance Macklin,hwm,11,32,14,0,11,997.700706,999.969793,2.269087,0.52381,0.478428,50.0,22
+1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,18,roger-laurent,Roger Laurent,hwm,12,32,20,0,12,1000.0,999.716145,-0.283855,0.47619,0.481868,50.0,22
+1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,18,arthur-legat,Arthur Legat,veritas,13,31,21,0,13,1000.0,997.335192,-2.664808,0.428571,0.481868,50.0,22
+1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,18,robert-obrien,Robert O'Brien,simca-gordini,14,30,22,0,14,1000.0,994.95424,-5.04576,0.380952,0.481868,50.0,22
+1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,18,tony-gaze,Tony Gaze,hwm,15,30,16,0,15,1000.0,992.573288,-7.426712,0.333333,0.481868,50.0,22
+1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,18,robin-montgomerie-charrington,Robin Montgomerie-Charrington,aston-butterworth,DNF,17,15,1,16,1000.0,990.192335,-9.807665,0.285714,0.481868,50.0,22
+1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,18,jean-behra,Jean Behra,gordini,DNF,13,5,1,17,1020.319754,1005.419091,-14.900663,0.214286,0.512299,50.0,22
+1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,18,piero-taruffi,Piero Taruffi,ferrari,DNF,13,3,1,18,1044.945437,1028.207427,-16.738011,0.214286,0.549046,50.0,22
+1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,18,ken-wharton,Ken Wharton,frazer-nash,DNF,10,7,1,19,1017.938801,999.644975,-18.293826,0.142857,0.508734,50.0,22
+1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,18,louis-rosier,Louis Rosier,ferrari,DNF,6,17,1,20,1048.931154,1025.945189,-22.985965,0.095238,0.554957,50.0,22
+1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,18,peter-collins,Peter Collins,hwm,DNF,3,11,1,21,988.176896,967.347718,-20.829178,0.047619,0.464203,50.0,22
+1952,3,1952-06-22,belgium,1952 Belgian Grand Prix,18,stirling-moss,Stirling Moss,era,DNF,0,10,1,22,1005.072493,980.599438,-24.473055,0.0,0.489461,50.0,22

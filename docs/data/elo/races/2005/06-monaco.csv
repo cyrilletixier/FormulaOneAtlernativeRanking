@@ -1,19 +1,19 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,kimi-raikkonen,Kimi Räikkönen,mclaren,1,78,1,0,1,1160.648252,1181.90498,21.256728,1.0,0.574865,50.0,18
-2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,nick-heidfeld,Nick Heidfeld,williams,2,78,6,0,2,1018.770414,1046.831725,28.06131,0.941176,0.37995,50.0,18
-2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,mark-webber,Mark Webber,williams,3,78,3,0,3,1065.059893,1087.040742,21.980849,0.882353,0.442736,50.0,18
-2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,fernando-alonso,Fernando Alonso,renault,4,78,2,0,4,1249.553693,1256.217305,6.663612,0.823529,0.690257,50.0,18
-2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,juan-pablo-montoya,Juan Pablo Montoya,mclaren,5,78,16,0,5,1228.995174,1233.991021,4.995847,0.764706,0.664789,50.0,18
-2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,ralf-schumacher,Ralf Schumacher,toyota,6,78,18,0,6,1162.714149,1169.124526,6.410376,0.705882,0.577675,50.0,18
-2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,michael-schumacher,Michael Schumacher,ferrari,7,78,8,0,7,1334.438525,1327.54392,-6.894605,0.647059,0.784951,50.0,18
-2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,rubens-barrichello,Rubens Barrichello,ferrari,8,78,10,0,8,1247.064262,1242.115024,-4.949237,0.588235,0.68722,50.0,18
-2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,felipe-massa,Felipe Massa,sauber,9,77,11,0,9,1085.107081,1088.054757,2.947676,0.529412,0.470458,50.0,18
-2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,jarno-trulli,Jarno Trulli,toyota,10,77,5,0,10,1187.884056,1180.837726,-7.046329,0.470588,0.611515,50.0,18
-2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,jacques-villeneuve,Jacques Villeneuve,sauber,11,77,9,0,11,1031.554851,1032.290281,0.73543,0.411765,0.397056,50.0,18
-2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,giancarlo-fisichella,Giancarlo Fisichella,renault,12,77,4,0,12,1097.801951,1091.044721,-6.757229,0.352941,0.488086,50.0,18
-2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,tiago-monteiro,Tiago Monteiro,jordan,13,75,15,0,13,1003.047269,999.791597,-3.255672,0.294118,0.359231,50.0,18
-2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,christijan-albers,Christijan Albers,minardi,14,73,14,0,14,971.733616,967.536933,-4.196683,0.235294,0.319228,50.0,18
-2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,vitantonio-liuzzi,Vitantonio Liuzzi,red-bull,DNF,59,12,1,15,994.566155,985.978691,-8.587465,0.176471,0.34822,50.0,18
-2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,patrick-friesacher,Patrick Friesacher,minardi,DNF,29,13,1,16,956.816415,947.656007,-9.160408,0.117647,0.300855,50.0,18
-2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,david-coulthard,David Coulthard,red-bull,DNF,23,7,1,17,1153.884185,1128.543434,-25.340751,0.058824,0.565639,50.0,18
-2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,narain-karthikeyan,Narain Karthikeyan,jordan,DNF,18,17,1,18,986.033079,969.169631,-16.863448,0.0,0.337269,50.0,18
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,737,kimi-raikkonen,Kimi Räikkönen,mclaren,1,78,1,0,1,1160.648252,1181.90498,21.256728,1.0,0.574865,50.0,18
+2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,737,nick-heidfeld,Nick Heidfeld,williams,2,78,6,0,2,1018.770414,1046.831725,28.06131,0.941176,0.37995,50.0,18
+2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,737,mark-webber,Mark Webber,williams,3,78,3,0,3,1065.059893,1087.040742,21.980849,0.882353,0.442736,50.0,18
+2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,737,fernando-alonso,Fernando Alonso,renault,4,78,2,0,4,1249.553693,1256.217305,6.663612,0.823529,0.690257,50.0,18
+2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,737,juan-pablo-montoya,Juan Pablo Montoya,mclaren,5,78,16,0,5,1228.995174,1233.991021,4.995847,0.764706,0.664789,50.0,18
+2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,737,ralf-schumacher,Ralf Schumacher,toyota,6,78,18,0,6,1162.714149,1169.124526,6.410376,0.705882,0.577675,50.0,18
+2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,737,michael-schumacher,Michael Schumacher,ferrari,7,78,8,0,7,1334.438525,1327.54392,-6.894605,0.647059,0.784951,50.0,18
+2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,737,rubens-barrichello,Rubens Barrichello,ferrari,8,78,10,0,8,1247.064262,1242.115024,-4.949237,0.588235,0.68722,50.0,18
+2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,737,felipe-massa,Felipe Massa,sauber,9,77,11,0,9,1085.107081,1088.054757,2.947676,0.529412,0.470458,50.0,18
+2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,737,jarno-trulli,Jarno Trulli,toyota,10,77,5,0,10,1187.884056,1180.837726,-7.046329,0.470588,0.611515,50.0,18
+2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,737,jacques-villeneuve,Jacques Villeneuve,sauber,11,77,9,0,11,1031.554851,1032.290281,0.73543,0.411765,0.397056,50.0,18
+2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,737,giancarlo-fisichella,Giancarlo Fisichella,renault,12,77,4,0,12,1097.801951,1091.044721,-6.757229,0.352941,0.488086,50.0,18
+2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,737,tiago-monteiro,Tiago Monteiro,jordan,13,75,15,0,13,1003.047269,999.791597,-3.255672,0.294118,0.359231,50.0,18
+2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,737,christijan-albers,Christijan Albers,minardi,14,73,14,0,14,971.733616,967.536933,-4.196683,0.235294,0.319228,50.0,18
+2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,737,vitantonio-liuzzi,Vitantonio Liuzzi,red-bull,DNF,59,12,1,15,994.566155,985.978691,-8.587465,0.176471,0.34822,50.0,18
+2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,737,patrick-friesacher,Patrick Friesacher,minardi,DNF,29,13,1,16,956.816415,947.656007,-9.160408,0.117647,0.300855,50.0,18
+2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,737,david-coulthard,David Coulthard,red-bull,DNF,23,7,1,17,1153.884185,1128.543434,-25.340751,0.058824,0.565639,50.0,18
+2005,6,2005-05-22,monaco,Formula 1 Grand Prix de Monaco 2005,737,narain-karthikeyan,Narain Karthikeyan,jordan,DNF,18,17,1,18,986.033079,969.169631,-16.863448,0.0,0.337269,50.0,18

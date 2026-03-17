@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,max-verstappen,Max Verstappen,red-bull,1,57,1,0,1,1556.362774,1561.496194,5.13342,1.0,0.897332,50.0,20
-2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,oscar-piastri,Oscar Piastri,mclaren,2,57,6,0,2,1088.879593,1114.834546,25.954953,0.947368,0.428269,50.0,20
-2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,lando-norris,Lando Norris,mclaren,3,57,10,0,3,1253.047486,1266.261762,13.214276,0.894737,0.630451,50.0,20
-2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,george-russell,George Russell,mercedes,4,57,2,0,4,1240.235319,1251.568536,11.333217,0.842105,0.615441,50.0,20
-2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,charles-leclerc,Charles Leclerc,ferrari,5,57,5,0,5,1301.399532,1306.626226,5.226693,0.789474,0.68494,50.0,20
-2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,fernando-alonso,Fernando Alonso,aston-martin,6,57,4,0,6,1258.531095,1263.532797,5.001701,0.736842,0.636808,50.0,20
-2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,esteban-ocon,Esteban Ocon,alpine,7,57,8,0,7,1102.633218,1114.568869,11.935651,0.684211,0.445498,50.0,20
-2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,valtteri-bottas,Valtteri Bottas,alfa-romeo,8,57,9,0,8,1038.01615,1051.317701,13.301551,0.631579,0.365548,50.0,20
-2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,guanyu-zhou,Guanyu Zhou,alfa-romeo,9,57,19,0,9,996.244713,1009.388577,13.143864,0.578947,0.31607,50.0,20
-2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,sergio-perez,Sergio Pérez,red-bull,10,57,20,0,10,1355.028512,1344.310274,-10.718238,0.526316,0.740681,50.0,20
-2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,lance-stroll,Lance Stroll,aston-martin,11,57,16,0,11,1067.45419,1071.057837,3.603647,0.473684,0.401611,50.0,20
-2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,pierre-gasly,Pierre Gasly,alpine,12,57,7,0,12,1115.9152,1113.858665,-2.056536,0.421053,0.462183,50.0,20
-2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,alexander-albon,Alexander Albon,williams,13,57,13,0,13,1075.037829,1072.908092,-2.129737,0.368421,0.411016,50.0,20
-2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,kevin-magnussen,Kevin Magnussen,haas,14,56,18,0,14,941.841918,944.838433,2.996515,0.315789,0.255859,50.0,20
-2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,yuki-tsunoda,Yuki Tsunoda,alphatauri,15,56,11,0,15,982.245491,980.400192,-1.845299,0.263158,0.300064,50.0,20
-2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,nico-hulkenberg,Nico Hülkenberg,haas,16,56,12,0,16,1003.382877,997.69156,-5.691318,0.210526,0.324353,50.0,20
-2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,liam-lawson,Liam Lawson,alphatauri,17,56,17,0,17,1028.569529,1018.756244,-9.813284,0.157895,0.35416,50.0,20
-2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,logan-sargeant,Logan Sargeant,williams,DNF,40,15,1,18,933.629016,926.52851,-7.100506,0.105263,0.247273,50.0,20
-2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,lewis-hamilton,Lewis Hamilton,mercedes,DNF,0,3,1,19,1424.313741,1386.732889,-37.580851,0.052632,0.804249,50.0,20
-2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,DNS,,,2,20,1295.229552,1261.319833,-33.909719,0.0,0.678194,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,1096,max-verstappen,Max Verstappen,red-bull,1,57,1,0,1,1556.362774,1561.496194,5.13342,1.0,0.897332,50.0,20
+2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,1096,oscar-piastri,Oscar Piastri,mclaren,2,57,6,0,2,1088.879593,1114.834546,25.954953,0.947368,0.428269,50.0,20
+2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,1096,lando-norris,Lando Norris,mclaren,3,57,10,0,3,1253.047486,1266.261762,13.214276,0.894737,0.630451,50.0,20
+2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,1096,george-russell,George Russell,mercedes,4,57,2,0,4,1240.235319,1251.568536,11.333217,0.842105,0.615441,50.0,20
+2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,1096,charles-leclerc,Charles Leclerc,ferrari,5,57,5,0,5,1301.399532,1306.626226,5.226693,0.789474,0.68494,50.0,20
+2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,1096,fernando-alonso,Fernando Alonso,aston-martin,6,57,4,0,6,1258.531095,1263.532797,5.001701,0.736842,0.636808,50.0,20
+2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,1096,esteban-ocon,Esteban Ocon,alpine,7,57,8,0,7,1102.633218,1114.568869,11.935651,0.684211,0.445498,50.0,20
+2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,1096,valtteri-bottas,Valtteri Bottas,alfa-romeo,8,57,9,0,8,1038.01615,1051.317701,13.301551,0.631579,0.365548,50.0,20
+2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,1096,guanyu-zhou,Guanyu Zhou,alfa-romeo,9,57,19,0,9,996.244713,1009.388577,13.143864,0.578947,0.31607,50.0,20
+2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,1096,sergio-perez,Sergio Pérez,red-bull,10,57,20,0,10,1355.028512,1344.310274,-10.718238,0.526316,0.740681,50.0,20
+2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,1096,lance-stroll,Lance Stroll,aston-martin,11,57,16,0,11,1067.45419,1071.057837,3.603647,0.473684,0.401611,50.0,20
+2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,1096,pierre-gasly,Pierre Gasly,alpine,12,57,7,0,12,1115.9152,1113.858665,-2.056536,0.421053,0.462183,50.0,20
+2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,1096,alexander-albon,Alexander Albon,williams,13,57,13,0,13,1075.037829,1072.908092,-2.129737,0.368421,0.411016,50.0,20
+2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,1096,kevin-magnussen,Kevin Magnussen,haas,14,56,18,0,14,941.841918,944.838433,2.996515,0.315789,0.255859,50.0,20
+2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,1096,yuki-tsunoda,Yuki Tsunoda,alphatauri,15,56,11,0,15,982.245491,980.400192,-1.845299,0.263158,0.300064,50.0,20
+2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,1096,nico-hulkenberg,Nico Hülkenberg,haas,16,56,12,0,16,1003.382877,997.69156,-5.691318,0.210526,0.324353,50.0,20
+2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,1096,liam-lawson,Liam Lawson,alphatauri,17,56,17,0,17,1028.569529,1018.756244,-9.813284,0.157895,0.35416,50.0,20
+2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,1096,logan-sargeant,Logan Sargeant,williams,DNF,40,15,1,18,933.629016,926.52851,-7.100506,0.105263,0.247273,50.0,20
+2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,1096,lewis-hamilton,Lewis Hamilton,mercedes,DNF,0,3,1,19,1424.313741,1386.732889,-37.580851,0.052632,0.804249,50.0,20
+2023,17,2023-10-08,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2023,1096,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,DNS,,,2,20,1295.229552,1261.319833,-33.909719,0.0,0.678194,50.0,20

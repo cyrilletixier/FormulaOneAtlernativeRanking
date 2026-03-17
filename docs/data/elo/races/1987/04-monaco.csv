@@ -1,27 +1,27 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,ayrton-senna,Ayrton Senna,lotus,1,78,2,0,1,1138.826248,1158.232784,19.406536,1.0,0.611869,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,nelson-piquet,Nelson Piquet,williams,2,78,3,0,2,1204.316029,1217.581227,13.265198,0.96,0.694696,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,michele-alboreto,Michele Alboreto,ferrari,3,78,5,0,3,1108.892774,1126.309674,17.4169,0.92,0.571662,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,gerhard-berger,Gerhard Berger,ferrari,4,77,8,0,4,1071.800904,1089.76862,17.967716,0.88,0.520646,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,jonathan-palmer,Jonathan Palmer,tyrrell,5,76,15,0,5,1000.46032,1021.359742,20.899422,0.84,0.422012,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,ivan-capelli,Ivan Capelli,march,6,76,19,0,6,973.395402,994.119325,20.723923,0.8,0.385522,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,martin-brundle,Martin Brundle,zakspeed,7,76,14,0,7,1082.821347,1094.026611,11.205265,0.76,0.535895,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,teo-fabi,Teo Fabi,benetton,8,76,12,0,8,1001.888008,1016.690051,14.802043,0.72,0.423959,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,alain-prost,Alain Prost,mclaren,9,75,4,0,9,1287.221105,1281.955173,-5.265931,0.68,0.785319,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,satoru-nakajima,Satoru Nakajima,lotus,10,75,17,0,10,1052.350158,1059.667937,7.317778,0.64,0.493644,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,rene-arnoux,René Arnoux,ligier,11,74,22,0,11,1169.861739,1167.254239,-2.607499,0.6,0.65215,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,piercarlo-ghinzani,Piercarlo Ghinzani,ligier,12,74,20,0,12,865.706043,881.035003,15.32896,0.56,0.253421,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,pascal-fabre,Pascal Fabre,ags,13,71,24,0,13,1019.946942,1023.509794,3.562853,0.52,0.448743,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,eddie-cheever,Eddie Cheever,arrows,DNF,59,6,1,14,1002.214599,1004.994352,2.779753,0.48,0.424405,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,derek-warwick,Derek Warwick,arrows,DNF,58,11,1,15,1010.515687,1010.7273,0.211613,0.44,0.435768,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,stefan-johansson,Stefan Johansson,mclaren,DNF,57,7,1,16,1192.829448,1178.789732,-14.039717,0.4,0.680794,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,philippe-alliot,Philippe Alliot,lola,DNF,42,18,1,17,993.921742,991.265846,-2.655896,0.36,0.413118,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,riccardo-patrese,Riccardo Patrese,brabham,DNF,41,10,1,18,1008.955776,1003.274375,-5.681401,0.32,0.433628,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,alex-caffi,Alex Caffi,osella,DNF,39,16,1,19,1005.964355,998.487838,-7.476517,0.28,0.42953,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,andrea-de-cesaris,Andrea de Cesaris,brabham,DNF,38,21,1,20,990.110184,981.712456,-8.397729,0.24,0.407955,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,nigel-mansell,Nigel Mansell,williams,DNF,29,1,1,21,1244.050137,1217.032106,-27.018031,0.2,0.740361,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,alessandro-nannini,Alessandro Nannini,minardi,DNF,21,13,1,22,900.131276,893.490183,-6.641093,0.16,0.292822,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,philippe-streiff,Philippe Streiff,tyrrell,DNF,9,23,1,23,1081.172128,1060.491312,-20.680816,0.12,0.533616,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,thierry-boutsen,Thierry Boutsen,benetton,DNF,5,9,1,24,1113.927747,1089.002737,-24.92501,0.08,0.5785,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,christian-danner,Christian Danner,zakspeed,EX,,,1,25,1030.1948,1009.049634,-21.145166,0.04,0.462903,50.0,26
-1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,adrian-campos,Adrián Campos,minardi,DNS,,,2,26,959.416187,941.06303,-18.353156,0.0,0.367063,50.0,26
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,ayrton-senna,Ayrton Senna,lotus,1,78,2,0,1,1138.826248,1158.232784,19.406536,1.0,0.611869,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,nelson-piquet,Nelson Piquet,williams,2,78,3,0,2,1204.316029,1217.581227,13.265198,0.96,0.694696,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,michele-alboreto,Michele Alboreto,ferrari,3,78,5,0,3,1108.892774,1126.309674,17.4169,0.92,0.571662,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,gerhard-berger,Gerhard Berger,ferrari,4,77,8,0,4,1071.800904,1089.76862,17.967716,0.88,0.520646,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,jonathan-palmer,Jonathan Palmer,tyrrell,5,76,15,0,5,1000.46032,1021.359742,20.899422,0.84,0.422012,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,ivan-capelli,Ivan Capelli,march,6,76,19,0,6,973.395402,994.119325,20.723923,0.8,0.385522,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,martin-brundle,Martin Brundle,zakspeed,7,76,14,0,7,1082.821347,1094.026611,11.205265,0.76,0.535895,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,teo-fabi,Teo Fabi,benetton,8,76,12,0,8,1001.888008,1016.690051,14.802043,0.72,0.423959,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,alain-prost,Alain Prost,mclaren,9,75,4,0,9,1287.221105,1281.955173,-5.265931,0.68,0.785319,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,satoru-nakajima,Satoru Nakajima,lotus,10,75,17,0,10,1052.350158,1059.667937,7.317778,0.64,0.493644,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,rene-arnoux,René Arnoux,ligier,11,74,22,0,11,1169.861739,1167.254239,-2.607499,0.6,0.65215,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,piercarlo-ghinzani,Piercarlo Ghinzani,ligier,12,74,20,0,12,865.706043,881.035003,15.32896,0.56,0.253421,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,pascal-fabre,Pascal Fabre,ags,13,71,24,0,13,1019.946942,1023.509794,3.562853,0.52,0.448743,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,eddie-cheever,Eddie Cheever,arrows,DNF,59,6,1,14,1002.214599,1004.994352,2.779753,0.48,0.424405,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,derek-warwick,Derek Warwick,arrows,DNF,58,11,1,15,1010.515687,1010.7273,0.211613,0.44,0.435768,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,stefan-johansson,Stefan Johansson,mclaren,DNF,57,7,1,16,1192.829448,1178.789732,-14.039717,0.4,0.680794,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,philippe-alliot,Philippe Alliot,lola,DNF,42,18,1,17,993.921742,991.265846,-2.655896,0.36,0.413118,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,riccardo-patrese,Riccardo Patrese,brabham,DNF,41,10,1,18,1008.955776,1003.274375,-5.681401,0.32,0.433628,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,alex-caffi,Alex Caffi,osella,DNF,39,16,1,19,1005.964355,998.487838,-7.476517,0.28,0.42953,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,andrea-de-cesaris,Andrea de Cesaris,brabham,DNF,38,21,1,20,990.110184,981.712456,-8.397729,0.24,0.407955,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,nigel-mansell,Nigel Mansell,williams,DNF,29,1,1,21,1244.050137,1217.032106,-27.018031,0.2,0.740361,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,alessandro-nannini,Alessandro Nannini,minardi,DNF,21,13,1,22,900.131276,893.490183,-6.641093,0.16,0.292822,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,philippe-streiff,Philippe Streiff,tyrrell,DNF,9,23,1,23,1081.172128,1060.491312,-20.680816,0.12,0.533616,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,thierry-boutsen,Thierry Boutsen,benetton,DNF,5,9,1,24,1113.927747,1089.002737,-24.92501,0.08,0.5785,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,christian-danner,Christian Danner,zakspeed,EX,,,1,25,1030.1948,1009.049634,-21.145166,0.04,0.462903,50.0,26
+1987,4,1987-05-31,monaco,Grand Prix de Monaco 1987,440,adrian-campos,Adrián Campos,minardi,DNS,,,2,26,959.416187,941.06303,-18.353156,0.0,0.367063,50.0,26

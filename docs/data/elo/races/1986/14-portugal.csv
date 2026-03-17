@@ -1,28 +1,28 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,nigel-mansell,Nigel Mansell,williams,1,70,2,0,1,1234.203463,1247.932028,13.728565,1.0,0.725429,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,alain-prost,Alain Prost,mclaren,2,70,3,0,2,1269.833443,1279.704434,9.870991,0.961538,0.764119,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,nelson-piquet,Nelson Piquet,williams,3,70,6,0,3,1215.904772,1226.842986,10.938214,0.923077,0.704313,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,ayrton-senna,Ayrton Senna,lotus,4,69,1,0,4,1157.049098,1169.7092,12.660102,0.884615,0.631413,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,michele-alboreto,Michele Alboreto,ferrari,5,69,13,0,5,1137.771743,1149.771125,11.999382,0.846154,0.606166,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,stefan-johansson,Stefan Johansson,ferrari,6,69,8,0,6,1127.209416,1137.988508,10.779091,0.807692,0.59211,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,rene-arnoux,René Arnoux,ligier,7,69,10,0,7,1198.77978,1203.049236,4.269456,0.769231,0.683842,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,teo-fabi,Teo Fabi,benetton,8,68,5,0,8,994.085552,1010.116112,16.03056,0.730769,0.410158,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,johnny-dumfries,Johnny Dumfries,lotus,9,68,15,0,9,1009.49513,1022.561016,13.065886,0.692308,0.43099,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,thierry-boutsen,Thierry Boutsen,arrows,10,67,21,0,10,1113.587759,1117.590659,4.002901,0.653846,0.573788,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,christian-danner,Christian Danner,arrows,11,67,22,0,11,993.834429,1004.112631,10.278202,0.615385,0.409821,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,jonathan-palmer,Jonathan Palmer,zakspeed,12,67,20,0,12,980.5493,989.791657,9.242357,0.576923,0.392076,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,allen-berg,Allen Berg,osella,13,63,27,0,13,946.946729,956.453266,9.506538,0.538462,0.348331,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,riccardo-patrese,Riccardo Patrese,brabham,DNF,62,9,1,14,996.858205,1001.163781,4.305576,0.5,0.413888,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,patrick-tambay,Patrick Tambay,lola,NC,62,14,1,15,1056.724827,1055.01007,-1.714757,0.461538,0.495834,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,alessandro-nannini,Alessandro Nannini,minardi,DNF,60,18,1,16,918.607819,924.110493,5.502674,0.423077,0.313023,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,gerhard-berger,Gerhard Berger,benetton,DNF,44,4,1,17,1099.745125,1091.226774,-8.51835,0.384615,0.554982,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,andrea-de-cesaris,Andrea de Cesaris,minardi,DNF,43,16,1,18,957.683603,956.885853,-0.79775,0.346154,0.362109,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,derek-warwick,Derek Warwick,brabham,DNF,41,12,1,19,1040.71802,1031.453204,-9.264816,0.288462,0.473758,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,keke-rosberg,Keke Rosberg,mclaren,DNF,41,7,1,20,1150.314098,1133.604318,-16.709781,0.288462,0.622657,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,philippe-alliot,Philippe Alliot,ligier,DNF,39,11,1,21,925.089215,920.580008,-4.509207,0.230769,0.320953,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,philippe-streiff,Philippe Streiff,tyrrell,DNF,28,23,1,22,1075.796122,1059.304726,-16.491395,0.192308,0.522136,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,martin-brundle,Martin Brundle,tyrrell,DNF,18,19,1,23,1079.592321,1060.916582,-18.675739,0.153846,0.527361,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,alan-jones,Alan Jones,lola,DNF,10,17,1,24,1088.457251,1067.24951,-21.207742,0.115385,0.539539,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,huub-rothengatter,Huub Rothengatter,zakspeed,DNF,9,26,1,25,963.336985,948.711,-14.625985,0.076923,0.369443,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNF,8,24,1,26,873.63622,862.525233,-11.110987,0.038462,0.260681,50.0,27
-1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,ivan-capelli,Ivan Capelli,ags,DNF,6,25,1,27,1024.214123,1001.660139,-22.553984,0.0,0.45108,50.0,27
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,nigel-mansell,Nigel Mansell,williams,1,70,2,0,1,1234.203463,1247.932028,13.728565,1.0,0.725429,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,alain-prost,Alain Prost,mclaren,2,70,3,0,2,1269.833443,1279.704434,9.870991,0.961538,0.764119,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,nelson-piquet,Nelson Piquet,williams,3,70,6,0,3,1215.904772,1226.842986,10.938214,0.923077,0.704313,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,ayrton-senna,Ayrton Senna,lotus,4,69,1,0,4,1157.049098,1169.7092,12.660102,0.884615,0.631413,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,michele-alboreto,Michele Alboreto,ferrari,5,69,13,0,5,1137.771743,1149.771125,11.999382,0.846154,0.606166,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,stefan-johansson,Stefan Johansson,ferrari,6,69,8,0,6,1127.209416,1137.988508,10.779091,0.807692,0.59211,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,rene-arnoux,René Arnoux,ligier,7,69,10,0,7,1198.77978,1203.049236,4.269456,0.769231,0.683842,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,teo-fabi,Teo Fabi,benetton,8,68,5,0,8,994.085552,1010.116112,16.03056,0.730769,0.410158,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,johnny-dumfries,Johnny Dumfries,lotus,9,68,15,0,9,1009.49513,1022.561016,13.065886,0.692308,0.43099,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,thierry-boutsen,Thierry Boutsen,arrows,10,67,21,0,10,1113.587759,1117.590659,4.002901,0.653846,0.573788,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,christian-danner,Christian Danner,arrows,11,67,22,0,11,993.834429,1004.112631,10.278202,0.615385,0.409821,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,jonathan-palmer,Jonathan Palmer,zakspeed,12,67,20,0,12,980.5493,989.791657,9.242357,0.576923,0.392076,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,allen-berg,Allen Berg,osella,13,63,27,0,13,946.946729,956.453266,9.506538,0.538462,0.348331,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,riccardo-patrese,Riccardo Patrese,brabham,DNF,62,9,1,14,996.858205,1001.163781,4.305576,0.5,0.413888,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,patrick-tambay,Patrick Tambay,lola,NC,62,14,1,15,1056.724827,1055.01007,-1.714757,0.461538,0.495834,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,alessandro-nannini,Alessandro Nannini,minardi,DNF,60,18,1,16,918.607819,924.110493,5.502674,0.423077,0.313023,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,gerhard-berger,Gerhard Berger,benetton,DNF,44,4,1,17,1099.745125,1091.226774,-8.51835,0.384615,0.554982,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,andrea-de-cesaris,Andrea de Cesaris,minardi,DNF,43,16,1,18,957.683603,956.885853,-0.79775,0.346154,0.362109,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,derek-warwick,Derek Warwick,brabham,DNF,41,12,1,19,1040.71802,1031.453204,-9.264816,0.288462,0.473758,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,keke-rosberg,Keke Rosberg,mclaren,DNF,41,7,1,20,1150.314098,1133.604318,-16.709781,0.288462,0.622657,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,philippe-alliot,Philippe Alliot,ligier,DNF,39,11,1,21,925.089215,920.580008,-4.509207,0.230769,0.320953,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,philippe-streiff,Philippe Streiff,tyrrell,DNF,28,23,1,22,1075.796122,1059.304726,-16.491395,0.192308,0.522136,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,martin-brundle,Martin Brundle,tyrrell,DNF,18,19,1,23,1079.592321,1060.916582,-18.675739,0.153846,0.527361,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,alan-jones,Alan Jones,lola,DNF,10,17,1,24,1088.457251,1067.24951,-21.207742,0.115385,0.539539,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,huub-rothengatter,Huub Rothengatter,zakspeed,DNF,9,26,1,25,963.336985,948.711,-14.625985,0.076923,0.369443,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNF,8,24,1,26,873.63622,862.525233,-11.110987,0.038462,0.260681,50.0,27
+1986,14,1986-09-21,portugal,Grande Prémio de Portugal 1986,434,ivan-capelli,Ivan Capelli,ags,DNF,6,25,1,27,1024.214123,1001.660139,-22.553984,0.0,0.45108,50.0,27

@@ -1,32 +1,32 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,carlos-reutemann,Carlos Reutemann,williams,1,54,1,0,1,1305.896579,1316.261688,10.365109,1.0,0.792698,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,jacques-laffite,Jacques Laffite,ligier,2,54,9,0,2,1188.086843,1203.232336,15.145493,0.966667,0.663757,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,nigel-mansell,Nigel Mansell,lotus,3,54,10,0,3,983.010388,1010.22929,27.218902,0.933333,0.388955,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,gilles-villeneuve,Gilles Villeneuve,ferrari,4,54,7,0,4,1178.898653,1191.281986,12.383334,0.9,0.652333,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,elio-de-angelis,Elio de Angelis,lotus,5,54,14,0,5,1114.165694,1129.108208,14.942514,0.866667,0.567816,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,eddie-cheever,Eddie Cheever,tyrrell,6,54,8,0,6,968.187002,991.381364,23.194362,0.833333,0.369446,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,john-watson,John Watson,mclaren,7,54,5,0,7,1130.25821,1140.789101,10.530891,0.8,0.589382,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,didier-pironi,Didier Pironi,ferrari,8,54,3,0,8,1161.204013,1168.043197,6.839184,0.766667,0.629883,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,9,54,17,0,9,1042.607168,1055.784281,13.177113,0.733333,0.469791,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,mario-andretti,Mario Andretti,alfa-romeo,10,53,18,0,10,1093.943971,1101.926049,7.982078,0.7,0.540358,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,marc-surer,Marc Surer,ensign,11,52,15,0,11,1065.451567,1073.722391,8.270823,0.666667,0.50125,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,michele-alboreto,Michele Alboreto,tyrrell,12,52,19,0,12,1002.317275,1013.24401,10.926735,0.633333,0.414799,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,piercarlo-ghinzani,Piercarlo Ghinzani,osella,13,50,24,0,13,1000.0,1009.416277,9.416277,0.6,0.411674,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,hector-rebaque,Héctor Rebaque,brabham,DNF,39,21,1,14,1026.811505,1032.739299,5.927794,0.566667,0.448111,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,jean-pierre-jabouille,Jean-Pierre Jabouille,ligier,DNF,35,16,1,15,1000.03806,1006.11844,6.080381,0.533333,0.411726,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,chico-serra,Chico Serra,fittipaldi,DNF,29,20,1,16,992.140423,997.08435,4.943927,0.5,0.401121,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,beppe-gabbiani,Beppe Gabbiani,osella,DNF,22,22,1,17,947.370776,953.571763,6.200987,0.466667,0.342647,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,alan-jones,Alan Jones,williams,DNF,19,6,1,18,1315.47304,1297.060402,-18.412638,0.433333,0.801586,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,andrea-de-cesaris,Andrea de Cesaris,mclaren,DNF,11,23,1,19,1007.727446,1006.621775,-1.105671,0.4,0.422113,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,keke-rosberg,Keke Rosberg,fittipaldi,DNF,10,11,1,20,1037.735896,1032.081186,-5.65471,0.35,0.463094,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,nelson-piquet,Nelson Piquet,brabham,DNF,10,2,1,21,1237.85126,1219.229125,-18.622135,0.35,0.722443,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,alain-prost,Alain Prost,renault,DNF,2,12,1,22,1055.097284,1045.74792,-9.349365,0.3,0.486987,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,riccardo-patrese,Riccardo Patrese,arrows,DNF,0,4,1,23,1138.526013,1121.009048,-17.516966,0.25,0.600339,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,siegfried-stohr,Siegfried Stohr,arrows,DNF,0,13,1,24,984.686567,977.627524,-7.059043,0.25,0.391181,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,brian-henton,Brian Henton,toleman,DNQ,,,2,25,919.571978,909.164239,-10.407739,0.1,0.308155,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,derek-daly,Derek Daly,march,DNQ,,,2,26,972.498223,958.743893,-13.754331,0.1,0.375087,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,derek-warwick,Derek Warwick,toleman,DNQ,,,2,27,983.351758,968.881346,-14.470412,0.1,0.389408,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,eliseo-salazar,Eliseo Salazar,march,DNQ,,,2,28,962.411795,949.314972,-13.096823,0.1,0.361936,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,patrick-tambay,Patrick Tambay,theodore,DNQ,,,2,29,1081.996858,1060.796805,-21.200053,0.1,0.524001,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,rene-arnoux,René Arnoux,renault,DNQ,,,2,30,1165.167777,1138.419721,-26.748056,0.1,0.634961,50.0,31
-1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,slim-borgudd,Slim Borgudd,ats-wheels,DNQ,,,2,31,1008.351758,992.203793,-16.147965,0.1,0.422959,50.0,31
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,carlos-reutemann,Carlos Reutemann,williams,1,54,1,0,1,1305.896579,1316.261688,10.365109,1.0,0.792698,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,jacques-laffite,Jacques Laffite,ligier,2,54,9,0,2,1188.086843,1203.232336,15.145493,0.966667,0.663757,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,nigel-mansell,Nigel Mansell,lotus,3,54,10,0,3,983.010388,1010.22929,27.218902,0.933333,0.388955,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,gilles-villeneuve,Gilles Villeneuve,ferrari,4,54,7,0,4,1178.898653,1191.281986,12.383334,0.9,0.652333,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,elio-de-angelis,Elio de Angelis,lotus,5,54,14,0,5,1114.165694,1129.108208,14.942514,0.866667,0.567816,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,eddie-cheever,Eddie Cheever,tyrrell,6,54,8,0,6,968.187002,991.381364,23.194362,0.833333,0.369446,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,john-watson,John Watson,mclaren,7,54,5,0,7,1130.25821,1140.789101,10.530891,0.8,0.589382,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,didier-pironi,Didier Pironi,ferrari,8,54,3,0,8,1161.204013,1168.043197,6.839184,0.766667,0.629883,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,9,54,17,0,9,1042.607168,1055.784281,13.177113,0.733333,0.469791,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,mario-andretti,Mario Andretti,alfa-romeo,10,53,18,0,10,1093.943971,1101.926049,7.982078,0.7,0.540358,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,marc-surer,Marc Surer,ensign,11,52,15,0,11,1065.451567,1073.722391,8.270823,0.666667,0.50125,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,michele-alboreto,Michele Alboreto,tyrrell,12,52,19,0,12,1002.317275,1013.24401,10.926735,0.633333,0.414799,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,piercarlo-ghinzani,Piercarlo Ghinzani,osella,13,50,24,0,13,1000.0,1009.416277,9.416277,0.6,0.411674,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,hector-rebaque,Héctor Rebaque,brabham,DNF,39,21,1,14,1026.811505,1032.739299,5.927794,0.566667,0.448111,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,jean-pierre-jabouille,Jean-Pierre Jabouille,ligier,DNF,35,16,1,15,1000.03806,1006.11844,6.080381,0.533333,0.411726,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,chico-serra,Chico Serra,fittipaldi,DNF,29,20,1,16,992.140423,997.08435,4.943927,0.5,0.401121,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,beppe-gabbiani,Beppe Gabbiani,osella,DNF,22,22,1,17,947.370776,953.571763,6.200987,0.466667,0.342647,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,alan-jones,Alan Jones,williams,DNF,19,6,1,18,1315.47304,1297.060402,-18.412638,0.433333,0.801586,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,andrea-de-cesaris,Andrea de Cesaris,mclaren,DNF,11,23,1,19,1007.727446,1006.621775,-1.105671,0.4,0.422113,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,keke-rosberg,Keke Rosberg,fittipaldi,DNF,10,11,1,20,1037.735896,1032.081186,-5.65471,0.35,0.463094,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,nelson-piquet,Nelson Piquet,brabham,DNF,10,2,1,21,1237.85126,1219.229125,-18.622135,0.35,0.722443,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,alain-prost,Alain Prost,renault,DNF,2,12,1,22,1055.097284,1045.74792,-9.349365,0.3,0.486987,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,riccardo-patrese,Riccardo Patrese,arrows,DNF,0,4,1,23,1138.526013,1121.009048,-17.516966,0.25,0.600339,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,siegfried-stohr,Siegfried Stohr,arrows,DNF,0,13,1,24,984.686567,977.627524,-7.059043,0.25,0.391181,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,brian-henton,Brian Henton,toleman,DNQ,,,2,25,919.571978,909.164239,-10.407739,0.1,0.308155,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,derek-daly,Derek Daly,march,DNQ,,,2,26,972.498223,958.743893,-13.754331,0.1,0.375087,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,derek-warwick,Derek Warwick,toleman,DNQ,,,2,27,983.351758,968.881346,-14.470412,0.1,0.389408,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,eliseo-salazar,Eliseo Salazar,march,DNQ,,,2,28,962.411795,949.314972,-13.096823,0.1,0.361936,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,patrick-tambay,Patrick Tambay,theodore,DNQ,,,2,29,1081.996858,1060.796805,-21.200053,0.1,0.524001,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,rene-arnoux,René Arnoux,renault,DNQ,,,2,30,1165.167777,1138.419721,-26.748056,0.1,0.634961,50.0,31
+1981,5,1981-05-17,belgium,1981 Belgian Grand Prix,347,slim-borgudd,Slim Borgudd,ats-wheels,DNQ,,,2,31,1008.351758,992.203793,-16.147965,0.1,0.422959,50.0,31

@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,michael-schumacher,Michael Schumacher,ferrari,1,62,1,0,1,1384.346382,1391.257417,6.911036,1.0,0.861779,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,rubens-barrichello,Rubens Barrichello,ferrari,2,62,2,0,2,1175.531693,1190.717837,15.186144,0.952381,0.648658,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,ralf-schumacher,Ralf Schumacher,williams,3,62,3,0,3,1180.610851,1193.091105,12.480253,0.904762,0.655157,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,juan-pablo-montoya,Juan Pablo Montoya,williams,4,62,4,0,4,1116.98132,1131.315393,14.334074,0.857143,0.570461,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,jenson-button,Jenson Button,renault,5,62,9,0,5,1063.859328,1079.528017,15.668689,0.809524,0.49615,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,david-coulthard,David Coulthard,mclaren,6,61,6,0,6,1233.500973,1235.62668,2.125707,0.761905,0.719391,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,jacques-villeneuve,Jacques Villeneuve,bar,7,61,10,0,7,1124.899328,1131.546926,6.647598,0.714286,0.581334,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,felipe-massa,Felipe Massa,sauber,8,61,11,0,8,1004.168709,1016.881036,12.712327,0.666667,0.41242,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,jarno-trulli,Jarno Trulli,renault,9,61,8,0,9,1004.023857,1014.365245,10.341388,0.619048,0.41222,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,nick-heidfeld,Nick Heidfeld,sauber,10,61,7,0,10,1039.223267,1044.724669,5.501402,0.571429,0.461401,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,mark-webber,Mark Webber,minardi,11,60,19,0,11,1019.845965,1024.325748,4.479782,0.52381,0.434214,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,enrique-bernoldi,Enrique Bernoldi,arrows,DNF,50,20,1,12,923.005367,931.551837,8.54647,0.47619,0.305261,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,eddie-irvine,Eddie Irvine,jaguar,DNF,45,18,1,13,1046.187638,1044.055526,-2.132113,0.428571,0.471214,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,44,5,1,14,1032.56275,1027.818268,-4.744482,0.357143,0.452033,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,olivier-panis,Olivier Panis,bar,DNF,44,12,1,15,1000.366366,997.86497,-2.501395,0.357143,0.407171,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,pedro-de-la-rosa,Pedro de la Rosa,jaguar,DNF,30,21,1,16,1014.010912,1006.992801,-7.01811,0.285714,0.426076,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,mika-salo,Mika Salo,toyota,DNF,26,16,1,17,1108.999827,1092.933049,-16.066779,0.238095,0.559431,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,heinz-harald-frentzen,Heinz-Harald Frentzen,arrows,DNF,25,13,1,18,1027.711938,1014.974563,-12.737375,0.190476,0.445224,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,19,15,1,19,1022.549407,1007.792614,-14.756793,0.142857,0.437993,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,takuma-sato,Takuma Sato,jordan,DNF,5,14,1,20,1025.532855,1008.186283,-17.346571,0.095238,0.44217,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,allan-mcnish,Allan McNish,toyota,DNF,0,17,1,21,999.572496,981.649608,-17.922888,0.047619,0.406077,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,alex-yoong,Alex Yoong,minardi,DNQ,,,2,22,990.894223,971.18586,-19.708363,0.0,0.394167,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,michael-schumacher,Michael Schumacher,ferrari,1,62,1,0,1,1384.346382,1391.257417,6.911036,1.0,0.861779,50.0,22
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,rubens-barrichello,Rubens Barrichello,ferrari,2,62,2,0,2,1175.531693,1190.717837,15.186144,0.952381,0.648658,50.0,22
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,ralf-schumacher,Ralf Schumacher,williams,3,62,3,0,3,1180.610851,1193.091105,12.480253,0.904762,0.655157,50.0,22
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,juan-pablo-montoya,Juan Pablo Montoya,williams,4,62,4,0,4,1116.98132,1131.315393,14.334074,0.857143,0.570461,50.0,22
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,jenson-button,Jenson Button,renault,5,62,9,0,5,1063.859328,1079.528017,15.668689,0.809524,0.49615,50.0,22
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,david-coulthard,David Coulthard,mclaren,6,61,6,0,6,1233.500973,1235.62668,2.125707,0.761905,0.719391,50.0,22
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,jacques-villeneuve,Jacques Villeneuve,bar,7,61,10,0,7,1124.899328,1131.546926,6.647598,0.714286,0.581334,50.0,22
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,felipe-massa,Felipe Massa,sauber,8,61,11,0,8,1004.168709,1016.881036,12.712327,0.666667,0.41242,50.0,22
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,jarno-trulli,Jarno Trulli,renault,9,61,8,0,9,1004.023857,1014.365245,10.341388,0.619048,0.41222,50.0,22
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,nick-heidfeld,Nick Heidfeld,sauber,10,61,7,0,10,1039.223267,1044.724669,5.501402,0.571429,0.461401,50.0,22
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,mark-webber,Mark Webber,minardi,11,60,19,0,11,1019.845965,1024.325748,4.479782,0.52381,0.434214,50.0,22
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,enrique-bernoldi,Enrique Bernoldi,arrows,DNF,50,20,1,12,923.005367,931.551837,8.54647,0.47619,0.305261,50.0,22
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,eddie-irvine,Eddie Irvine,jaguar,DNF,45,18,1,13,1046.187638,1044.055526,-2.132113,0.428571,0.471214,50.0,22
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,44,5,1,14,1032.56275,1027.818268,-4.744482,0.357143,0.452033,50.0,22
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,olivier-panis,Olivier Panis,bar,DNF,44,12,1,15,1000.366366,997.86497,-2.501395,0.357143,0.407171,50.0,22
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,pedro-de-la-rosa,Pedro de la Rosa,jaguar,DNF,30,21,1,16,1014.010912,1006.992801,-7.01811,0.285714,0.426076,50.0,22
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,mika-salo,Mika Salo,toyota,DNF,26,16,1,17,1108.999827,1092.933049,-16.066779,0.238095,0.559431,50.0,22
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,heinz-harald-frentzen,Heinz-Harald Frentzen,arrows,DNF,25,13,1,18,1027.711938,1014.974563,-12.737375,0.190476,0.445224,50.0,22
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,19,15,1,19,1022.549407,1007.792614,-14.756793,0.142857,0.437993,50.0,22
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,takuma-sato,Takuma Sato,jordan,DNF,5,14,1,20,1025.532855,1008.186283,-17.346571,0.095238,0.44217,50.0,22
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,allan-mcnish,Allan McNish,toyota,DNF,0,17,1,21,999.572496,981.649608,-17.922888,0.047619,0.406077,50.0,22
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,alex-yoong,Alex Yoong,minardi,DNQ,,,2,22,990.894223,971.18586,-19.708363,0.0,0.394167,50.0,22

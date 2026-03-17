@@ -1,27 +1,27 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,alan-jones,Alan Jones,williams,1,45,2,0,1,1144.540728,1164.92612,20.385391,1.0,0.592292,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,clay-regazzoni,Clay Regazzoni,williams,2,45,6,0,2,1100.703634,1122.107252,21.403618,0.96,0.531928,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,jacques-laffite,Jacques Laffite,ligier,3,45,3,0,3,1186.852893,1200.436256,13.583364,0.92,0.648333,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,jody-scheckter,Jody Scheckter,ferrari,4,45,5,0,4,1274.170675,1280.552579,6.381904,0.88,0.752362,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,john-watson,John Watson,mclaren,5,45,12,0,5,1178.125228,1188.274532,10.149303,0.84,0.637014,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,jochen-mass,Jochen Mass,arrows,6,44,18,0,6,1095.999343,1109.73079,13.731447,0.8,0.525371,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,geoff-lees,Geoff Lees,tyrrell,7,44,16,0,7,982.782679,1002.295348,19.512669,0.76,0.369747,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,gilles-villeneuve,Gilles Villeneuve,ferrari,8,44,9,0,8,1208.176442,1210.408268,2.231826,0.72,0.675363,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,didier-pironi,Didier Pironi,tyrrell,9,44,8,0,9,1093.058215,1100.994829,7.936615,0.68,0.521268,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,jan-lammers,Jan Lammers,shadow,10,44,20,0,10,1014.894349,1026.255802,11.361453,0.64,0.412771,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,elio-de-angelis,Elio de Angelis,shadow,11,43,21,0,11,1016.455786,1025.710885,9.255099,0.6,0.414898,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,nelson-piquet,Nelson Piquet,brabham,12,42,4,0,12,1015.035249,1022.387111,7.351862,0.56,0.412963,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,riccardo-patrese,Riccardo Patrese,arrows,DNF,34,19,1,13,1101.821373,1101.147167,-0.674205,0.52,0.533484,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,patrick-tambay,Patrick Tambay,mclaren,DNF,30,15,1,14,1081.731798,1080.459531,-1.272268,0.48,0.505445,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,keke-rosberg,Keke Rosberg,wolf,DNF,29,17,1,15,1006.460191,1008.39359,1.933399,0.44,0.401332,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,niki-lauda,Niki Lauda,brabham,DNF,27,7,1,16,1089.945636,1084.09952,-5.846116,0.4,0.516922,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,jacky-ickx,Jacky Ickx,ligier,DNF,24,14,1,17,1032.90362,1029.030685,-3.872936,0.36,0.437459,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,hector-rebaque,Héctor Rebaque,lotus,DNF,22,24,1,18,978.310618,976.116582,-2.194036,0.32,0.363881,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,mario-andretti,Mario Andretti,lotus,DNF,16,11,1,19,1151.186798,1135.123164,-16.063635,0.28,0.601273,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,rene-arnoux,René Arnoux,renault,DNF,9,10,1,20,1062.854541,1050.901344,-11.953197,0.24,0.479064,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,jean-pierre-jabouille,Jean-Pierre Jabouille,renault,DNF,7,1,1,21,1034.347294,1022.374749,-11.972546,0.2,0.439451,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,emerson-fittipaldi,Emerson Fittipaldi,fittipaldi,DNF,4,22,1,22,1104.25568,1085.412088,-18.843592,0.16,0.536872,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,carlos-reutemann,Carlos Reutemann,lotus,DNF,1,13,1,23,1262.365335,1231.395195,-30.97014,0.12,0.739403,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,hans-joachim-stuck,Hans-Joachim Stuck,ats-wheels,DNF,0,23,1,24,984.125729,969.549983,-14.575746,0.08,0.371515,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,arturo-merzario,Arturo Merzario,merzario,DNQ,,,2,25,833.424492,824.49488,-8.929612,0.02,0.198592,50.0,26
-1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,patrick-gaillard,Patrick Gaillard,ensign,DNQ,,,2,26,991.290782,973.24086,-18.049922,0.02,0.380998,50.0,26
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,alan-jones,Alan Jones,williams,1,45,2,0,1,1144.540728,1164.92612,20.385391,1.0,0.592292,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,clay-regazzoni,Clay Regazzoni,williams,2,45,6,0,2,1100.703634,1122.107252,21.403618,0.96,0.531928,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,jacques-laffite,Jacques Laffite,ligier,3,45,3,0,3,1186.852893,1200.436256,13.583364,0.92,0.648333,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,jody-scheckter,Jody Scheckter,ferrari,4,45,5,0,4,1274.170675,1280.552579,6.381904,0.88,0.752362,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,john-watson,John Watson,mclaren,5,45,12,0,5,1178.125228,1188.274532,10.149303,0.84,0.637014,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,jochen-mass,Jochen Mass,arrows,6,44,18,0,6,1095.999343,1109.73079,13.731447,0.8,0.525371,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,geoff-lees,Geoff Lees,tyrrell,7,44,16,0,7,982.782679,1002.295348,19.512669,0.76,0.369747,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,gilles-villeneuve,Gilles Villeneuve,ferrari,8,44,9,0,8,1208.176442,1210.408268,2.231826,0.72,0.675363,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,didier-pironi,Didier Pironi,tyrrell,9,44,8,0,9,1093.058215,1100.994829,7.936615,0.68,0.521268,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,jan-lammers,Jan Lammers,shadow,10,44,20,0,10,1014.894349,1026.255802,11.361453,0.64,0.412771,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,elio-de-angelis,Elio de Angelis,shadow,11,43,21,0,11,1016.455786,1025.710885,9.255099,0.6,0.414898,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,nelson-piquet,Nelson Piquet,brabham,12,42,4,0,12,1015.035249,1022.387111,7.351862,0.56,0.412963,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,riccardo-patrese,Riccardo Patrese,arrows,DNF,34,19,1,13,1101.821373,1101.147167,-0.674205,0.52,0.533484,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,patrick-tambay,Patrick Tambay,mclaren,DNF,30,15,1,14,1081.731798,1080.459531,-1.272268,0.48,0.505445,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,keke-rosberg,Keke Rosberg,wolf,DNF,29,17,1,15,1006.460191,1008.39359,1.933399,0.44,0.401332,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,niki-lauda,Niki Lauda,brabham,DNF,27,7,1,16,1089.945636,1084.09952,-5.846116,0.4,0.516922,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,jacky-ickx,Jacky Ickx,ligier,DNF,24,14,1,17,1032.90362,1029.030685,-3.872936,0.36,0.437459,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,hector-rebaque,Héctor Rebaque,lotus,DNF,22,24,1,18,978.310618,976.116582,-2.194036,0.32,0.363881,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,mario-andretti,Mario Andretti,lotus,DNF,16,11,1,19,1151.186798,1135.123164,-16.063635,0.28,0.601273,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,rene-arnoux,René Arnoux,renault,DNF,9,10,1,20,1062.854541,1050.901344,-11.953197,0.24,0.479064,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,jean-pierre-jabouille,Jean-Pierre Jabouille,renault,DNF,7,1,1,21,1034.347294,1022.374749,-11.972546,0.2,0.439451,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,emerson-fittipaldi,Emerson Fittipaldi,fittipaldi,DNF,4,22,1,22,1104.25568,1085.412088,-18.843592,0.16,0.536872,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,carlos-reutemann,Carlos Reutemann,lotus,DNF,1,13,1,23,1262.365335,1231.395195,-30.97014,0.12,0.739403,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,hans-joachim-stuck,Hans-Joachim Stuck,ats-wheels,DNF,0,23,1,24,984.125729,969.549983,-14.575746,0.08,0.371515,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,arturo-merzario,Arturo Merzario,merzario,DNQ,,,2,25,833.424492,824.49488,-8.929612,0.02,0.198592,50.0,26
+1979,10,1979-07-29,germany,Grosser Preis von Deutschland 1979,323,patrick-gaillard,Patrick Gaillard,ensign,DNQ,,,2,26,991.290782,973.24086,-18.049922,0.02,0.380998,50.0,26

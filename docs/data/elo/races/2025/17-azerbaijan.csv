@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,max-verstappen,Max Verstappen,red-bull,1,51,1,0,1,1487.334044,1494.891184,7.55714,1.0,0.848857,50.0,20
-2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,george-russell,George Russell,mercedes,2,51,5,0,2,1376.304396,1385.832474,9.528078,0.947368,0.756807,50.0,20
-2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,carlos-sainz-jr,Carlos Sainz Jr.,williams,3,51,2,0,3,1145.666621,1165.547417,19.880796,0.894737,0.497121,50.0,20
-2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,kimi-antonelli,Kimi Antonelli,mercedes,4,51,4,0,4,1052.43161,1075.558182,23.126572,0.842105,0.379574,50.0,20
-2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,liam-lawson,Liam Lawson,racing-bulls,5,51,3,0,5,1041.402424,1062.579439,21.177015,0.789474,0.365933,50.0,20
-2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,yuki-tsunoda,Yuki Tsunoda,red-bull,6,51,6,0,6,1028.21687,1047.569455,19.352585,0.736842,0.34979,50.0,20
-2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,lando-norris,Lando Norris,mclaren,7,51,7,0,7,1431.844443,1425.759506,-6.084937,0.684211,0.805909,50.0,20
-2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,lewis-hamilton,Lewis Hamilton,ferrari,8,51,12,0,8,1277.619932,1276.433018,-1.186915,0.631579,0.655317,50.0,20
-2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,charles-leclerc,Charles Leclerc,ferrari,9,51,10,0,9,1353.705624,1345.896862,-7.808762,0.578947,0.735123,50.0,20
-2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,isack-hadjar,Isack Hadjar,racing-bulls,10,51,8,0,10,1072.59622,1078.673572,6.077351,0.526316,0.404769,50.0,20
-2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,11,51,13,0,11,1017.410138,1024.258604,6.848465,0.473684,0.336715,50.0,20
-2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,oliver-bearman,Oliver Bearman,haas,12,51,15,0,12,1049.561112,1051.8131,2.251989,0.421053,0.376013,50.0,20
-2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,alexander-albon,Alexander Albon,williams,13,51,19,0,13,1104.473163,1100.643336,-3.829827,0.368421,0.445018,50.0,20
-2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,esteban-ocon,Esteban Ocon,haas,14,51,20,0,14,1047.102041,1044.243106,-2.858935,0.315789,0.372968,50.0,20
-2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,fernando-alonso,Fernando Alonso,aston-martin,15,51,11,0,15,1116.493502,1106.639066,-9.854436,0.263158,0.460247,50.0,20
-2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,nico-hulkenberg,Nico Hülkenberg,kick-sauber,16,51,17,0,16,1072.083443,1062.403522,-9.67992,0.210526,0.404125,50.0,20
-2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,lance-stroll,Lance Stroll,aston-martin,17,51,14,0,17,1024.968299,1015.570826,-9.397473,0.157895,0.345844,50.0,20
-2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,pierre-gasly,Pierre Gasly,alpine,18,50,18,0,18,1037.854252,1025.038881,-12.815371,0.105263,0.361571,50.0,20
-2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,franco-colapinto,Franco Colapinto,alpine,19,50,16,0,19,961.258648,950.305492,-10.953157,0.052632,0.271695,50.0,20
-2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,oscar-piastri,Oscar Piastri,mclaren,DNF,0,9,1,20,1457.593994,1416.263735,-41.33026,0.0,0.826605,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,1142,max-verstappen,Max Verstappen,red-bull,1,51,1,0,1,1487.334044,1494.891184,7.55714,1.0,0.848857,50.0,20
+2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,1142,george-russell,George Russell,mercedes,2,51,5,0,2,1376.304396,1385.832474,9.528078,0.947368,0.756807,50.0,20
+2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,1142,carlos-sainz-jr,Carlos Sainz Jr.,williams,3,51,2,0,3,1145.666621,1165.547417,19.880796,0.894737,0.497121,50.0,20
+2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,1142,kimi-antonelli,Kimi Antonelli,mercedes,4,51,4,0,4,1052.43161,1075.558182,23.126572,0.842105,0.379574,50.0,20
+2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,1142,liam-lawson,Liam Lawson,racing-bulls,5,51,3,0,5,1041.402424,1062.579439,21.177015,0.789474,0.365933,50.0,20
+2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,1142,yuki-tsunoda,Yuki Tsunoda,red-bull,6,51,6,0,6,1028.21687,1047.569455,19.352585,0.736842,0.34979,50.0,20
+2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,1142,lando-norris,Lando Norris,mclaren,7,51,7,0,7,1431.844443,1425.759506,-6.084937,0.684211,0.805909,50.0,20
+2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,1142,lewis-hamilton,Lewis Hamilton,ferrari,8,51,12,0,8,1277.619932,1276.433018,-1.186915,0.631579,0.655317,50.0,20
+2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,1142,charles-leclerc,Charles Leclerc,ferrari,9,51,10,0,9,1353.705624,1345.896862,-7.808762,0.578947,0.735123,50.0,20
+2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,1142,isack-hadjar,Isack Hadjar,racing-bulls,10,51,8,0,10,1072.59622,1078.673572,6.077351,0.526316,0.404769,50.0,20
+2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,1142,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,11,51,13,0,11,1017.410138,1024.258604,6.848465,0.473684,0.336715,50.0,20
+2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,1142,oliver-bearman,Oliver Bearman,haas,12,51,15,0,12,1049.561112,1051.8131,2.251989,0.421053,0.376013,50.0,20
+2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,1142,alexander-albon,Alexander Albon,williams,13,51,19,0,13,1104.473163,1100.643336,-3.829827,0.368421,0.445018,50.0,20
+2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,1142,esteban-ocon,Esteban Ocon,haas,14,51,20,0,14,1047.102041,1044.243106,-2.858935,0.315789,0.372968,50.0,20
+2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,1142,fernando-alonso,Fernando Alonso,aston-martin,15,51,11,0,15,1116.493502,1106.639066,-9.854436,0.263158,0.460247,50.0,20
+2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,1142,nico-hulkenberg,Nico Hülkenberg,kick-sauber,16,51,17,0,16,1072.083443,1062.403522,-9.67992,0.210526,0.404125,50.0,20
+2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,1142,lance-stroll,Lance Stroll,aston-martin,17,51,14,0,17,1024.968299,1015.570826,-9.397473,0.157895,0.345844,50.0,20
+2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,1142,pierre-gasly,Pierre Gasly,alpine,18,50,18,0,18,1037.854252,1025.038881,-12.815371,0.105263,0.361571,50.0,20
+2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,1142,franco-colapinto,Franco Colapinto,alpine,19,50,16,0,19,961.258648,950.305492,-10.953157,0.052632,0.271695,50.0,20
+2025,17,2025-09-21,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2025,1142,oscar-piastri,Oscar Piastri,mclaren,DNF,0,9,1,20,1457.593994,1416.263735,-41.33026,0.0,0.826605,50.0,20

@@ -1,29 +1,29 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,patrick-tambay,Patrick Tambay,ferrari,1,60,3,0,1,1105.642173,1127.54067,21.898497,1.0,0.56203,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,alain-prost,Alain Prost,renault,2,60,4,0,2,1199.709739,1213.545481,13.835742,0.962963,0.686248,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,rene-arnoux,René Arnoux,ferrari,3,59,1,0,3,1140.916747,1156.701124,15.784377,0.925926,0.610238,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,keke-rosberg,Keke Rosberg,williams,4,59,11,0,4,1143.072966,1156.860711,13.787745,0.888889,0.613134,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,john-watson,John Watson,mclaren,5,59,24,0,5,1201.745676,1209.90058,8.154904,0.851852,0.688754,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,marc-surer,Marc Surer,arrows,6,59,12,0,6,1163.355463,1172.095696,8.740233,0.814815,0.64001,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,jacques-laffite,Jacques Laffite,williams,7,59,16,0,7,1149.588416,1157.385262,7.796846,0.777778,0.621841,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,chico-serra,Chico Serra,arrows,8,58,20,0,8,962.895016,981.686786,18.791771,0.740741,0.364905,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,raul-boesel,Raul Boesel,ligier,9,58,25,0,9,979.612846,995.442783,15.829937,0.703704,0.387105,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,mauro-baldi,Mauro Baldi,alfa-romeo,10,57,10,0,10,1007.619594,1019.693437,12.073843,0.666667,0.42519,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,manfred-winkelhock,Manfred Winkelhock,ats-wheels,11,57,7,0,11,956.920192,970.547347,13.627155,0.62963,0.357087,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,nigel-mansell,Nigel Mansell,lotus,12,56,15,0,12,1066.603668,1070.858293,4.254625,0.592593,0.5075,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,riccardo-patrese,Riccardo Patrese,brabham,DNF,54,5,1,13,1051.818639,1055.259081,3.440442,0.555556,0.486747,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,DNF,45,8,1,14,1048.958437,1050.747631,1.789193,0.518519,0.482735,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,elio-de-angelis,Elio de Angelis,lotus,DNF,43,9,1,15,1117.570479,1112.720144,-4.850335,0.481481,0.578488,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,nelson-piquet,Nelson Piquet,brabham,DNF,41,2,1,16,1173.851856,1163.392329,-10.459527,0.444444,0.653635,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,jean-pierre-jarier,Jean-Pierre Jarier,ligier,DNF,39,19,1,17,986.34047,986.902815,0.562345,0.407407,0.396161,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,danny-sullivan,Danny Sullivan,tyrrell,DNF,37,22,1,18,1019.983329,1016.387947,-3.595383,0.37037,0.442278,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,derek-warwick,Derek Warwick,toleman,DNF,27,14,1,19,912.299627,913.917736,1.618109,0.333333,0.300971,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,bruno-giacomelli,Bruno Giacomelli,toleman,DNF,20,17,1,20,1065.869669,1054.435068,-11.434601,0.277778,0.50647,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,corrado-fabi,Corrado Fabi,osella,DNF,20,26,1,21,976.875201,971.592135,-5.283066,0.277778,0.383439,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,johnny-cecotto,Johnny Cecotto,theodore,DNF,11,23,1,22,1038.075835,1024.88646,-13.189375,0.203704,0.467491,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,niki-lauda,Niki Lauda,mclaren,DNF,11,18,1,23,1154.500553,1133.26771,-21.232843,0.203704,0.628361,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,michele-alboreto,Michele Alboreto,tyrrell,DNF,10,13,1,24,1146.787654,1123.289755,-23.497899,0.148148,0.618106,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,roberto-guerrero,Roberto Guerrero,theodore,DNF,3,21,1,25,938.613623,927.491554,-11.122069,0.111111,0.333552,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,eddie-cheever,Eddie Cheever,renault,DNF,1,6,1,26,1108.235595,1083.65832,-24.577275,0.074074,0.56562,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,eliseo-salazar,Eliseo Salazar,ram,DNQ,,,2,27,957.833474,940.845525,-16.987949,0.018519,0.358277,50.0,28
-1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNQ,,,2,28,938.67272,922.917277,-15.755443,0.018519,0.333627,50.0,28
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,patrick-tambay,Patrick Tambay,ferrari,1,60,3,0,1,1105.642173,1127.54067,21.898497,1.0,0.56203,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,alain-prost,Alain Prost,renault,2,60,4,0,2,1199.709739,1213.545481,13.835742,0.962963,0.686248,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,rene-arnoux,René Arnoux,ferrari,3,59,1,0,3,1140.916747,1156.701124,15.784377,0.925926,0.610238,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,keke-rosberg,Keke Rosberg,williams,4,59,11,0,4,1143.072966,1156.860711,13.787745,0.888889,0.613134,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,john-watson,John Watson,mclaren,5,59,24,0,5,1201.745676,1209.90058,8.154904,0.851852,0.688754,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,marc-surer,Marc Surer,arrows,6,59,12,0,6,1163.355463,1172.095696,8.740233,0.814815,0.64001,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,jacques-laffite,Jacques Laffite,williams,7,59,16,0,7,1149.588416,1157.385262,7.796846,0.777778,0.621841,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,chico-serra,Chico Serra,arrows,8,58,20,0,8,962.895016,981.686786,18.791771,0.740741,0.364905,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,raul-boesel,Raul Boesel,ligier,9,58,25,0,9,979.612846,995.442783,15.829937,0.703704,0.387105,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,mauro-baldi,Mauro Baldi,alfa-romeo,10,57,10,0,10,1007.619594,1019.693437,12.073843,0.666667,0.42519,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,manfred-winkelhock,Manfred Winkelhock,ats-wheels,11,57,7,0,11,956.920192,970.547347,13.627155,0.62963,0.357087,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,nigel-mansell,Nigel Mansell,lotus,12,56,15,0,12,1066.603668,1070.858293,4.254625,0.592593,0.5075,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,riccardo-patrese,Riccardo Patrese,brabham,DNF,54,5,1,13,1051.818639,1055.259081,3.440442,0.555556,0.486747,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,DNF,45,8,1,14,1048.958437,1050.747631,1.789193,0.518519,0.482735,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,elio-de-angelis,Elio de Angelis,lotus,DNF,43,9,1,15,1117.570479,1112.720144,-4.850335,0.481481,0.578488,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,nelson-piquet,Nelson Piquet,brabham,DNF,41,2,1,16,1173.851856,1163.392329,-10.459527,0.444444,0.653635,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,jean-pierre-jarier,Jean-Pierre Jarier,ligier,DNF,39,19,1,17,986.34047,986.902815,0.562345,0.407407,0.396161,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,danny-sullivan,Danny Sullivan,tyrrell,DNF,37,22,1,18,1019.983329,1016.387947,-3.595383,0.37037,0.442278,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,derek-warwick,Derek Warwick,toleman,DNF,27,14,1,19,912.299627,913.917736,1.618109,0.333333,0.300971,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,bruno-giacomelli,Bruno Giacomelli,toleman,DNF,20,17,1,20,1065.869669,1054.435068,-11.434601,0.277778,0.50647,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,corrado-fabi,Corrado Fabi,osella,DNF,20,26,1,21,976.875201,971.592135,-5.283066,0.277778,0.383439,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,johnny-cecotto,Johnny Cecotto,theodore,DNF,11,23,1,22,1038.075835,1024.88646,-13.189375,0.203704,0.467491,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,niki-lauda,Niki Lauda,mclaren,DNF,11,18,1,23,1154.500553,1133.26771,-21.232843,0.203704,0.628361,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,michele-alboreto,Michele Alboreto,tyrrell,DNF,10,13,1,24,1146.787654,1123.289755,-23.497899,0.148148,0.618106,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,roberto-guerrero,Roberto Guerrero,theodore,DNF,3,21,1,25,938.613623,927.491554,-11.122069,0.111111,0.333552,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,eddie-cheever,Eddie Cheever,renault,DNF,1,6,1,26,1108.235595,1083.65832,-24.577275,0.074074,0.56562,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,eliseo-salazar,Eliseo Salazar,ram,DNQ,,,2,27,957.833474,940.845525,-16.987949,0.018519,0.358277,50.0,28
+1983,4,1983-05-01,san-marino,Gran Premio di San Marino 1983,377,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNQ,,,2,28,938.67272,922.917277,-15.755443,0.018519,0.333627,50.0,28

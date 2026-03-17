@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,lewis-hamilton,Lewis Hamilton,mercedes,1,78,1,0,1,1560.611696,1565.418429,4.806733,1.0,0.903865,50.0,20
-2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,sebastian-vettel,Sebastian Vettel,ferrari,2,78,4,0,2,1431.192408,1437.577403,6.384995,0.947368,0.819669,50.0,20
-2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,valtteri-bottas,Valtteri Bottas,mercedes,3,78,2,0,3,1423.407002,1427.465752,4.058749,0.894737,0.813562,50.0,20
-2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,max-verstappen,Max Verstappen,red-bull,4,78,3,0,4,1352.62601,1357.111236,4.485226,0.842105,0.752401,50.0,20
-2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,pierre-gasly,Pierre Gasly,red-bull,5,78,8,0,5,1059.024613,1078.041076,19.016463,0.789474,0.409144,50.0,20
-2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,6,78,9,0,6,1079.407697,1094.488641,15.080943,0.736842,0.435223,50.0,20
-2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,daniil-kvyat,Daniil Kvyat,toro-rosso,7,78,7,0,7,1016.445912,1032.87809,16.432178,0.684211,0.355567,50.0,20
-2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,alexander-albon,Alexander Albon,toro-rosso,8,78,10,0,8,1031.432727,1044.299926,12.867199,0.631579,0.374235,50.0,20
-2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,daniel-ricciardo,Daniel Ricciardo,renault,9,78,6,0,9,1125.579807,1129.804222,4.224415,0.578947,0.494459,50.0,20
-2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,romain-grosjean,Romain Grosjean,haas,10,78,13,0,10,1020.924973,1029.184763,8.25979,0.526316,0.36112,50.0,20
-2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,lando-norris,Lando Norris,mclaren,11,78,12,0,11,1008.540452,1014.933357,6.392905,0.473684,0.345826,50.0,20
-2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,sergio-perez,Sergio Pérez,racing-point,12,77,16,0,12,1146.652795,1141.642402,-5.010393,0.421053,0.52126,50.0,20
-2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,nico-hulkenberg,Nico Hülkenberg,renault,13,77,11,0,13,1027.626995,1027.574475,-0.05252,0.368421,0.369471,50.0,20
-2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,kevin-magnussen,Kevin Magnussen,haas,14,77,5,0,14,1077.860812,1071.988336,-5.872476,0.315789,0.433239,50.0,20
-2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,george-russell,George Russell,williams,15,77,19,0,15,974.661305,972.563878,-2.097427,0.263158,0.305106,50.0,20
-2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,lance-stroll,Lance Stroll,racing-point,16,77,17,0,16,996.272247,990.254745,-6.017502,0.210526,0.330876,50.0,20
-2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,17,77,14,0,17,1272.898725,1247.220102,-25.678623,0.157895,0.671467,50.0,20
-2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,robert-kubica,Robert Kubica,williams,18,77,20,0,18,1105.305677,1087.144694,-18.160983,0.105263,0.468483,50.0,20
-2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,19,76,18,0,19,990.60381,977.033206,-13.570604,0.052632,0.324044,50.0,20
-2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,charles-leclerc,Charles Leclerc,ferrari,DNF,16,15,1,20,1138.545551,1112.996481,-25.549069,0.0,0.510981,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,1003,lewis-hamilton,Lewis Hamilton,mercedes,1,78,1,0,1,1560.611696,1565.418429,4.806733,1.0,0.903865,50.0,20
+2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,1003,sebastian-vettel,Sebastian Vettel,ferrari,2,78,4,0,2,1431.192408,1437.577403,6.384995,0.947368,0.819669,50.0,20
+2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,1003,valtteri-bottas,Valtteri Bottas,mercedes,3,78,2,0,3,1423.407002,1427.465752,4.058749,0.894737,0.813562,50.0,20
+2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,1003,max-verstappen,Max Verstappen,red-bull,4,78,3,0,4,1352.62601,1357.111236,4.485226,0.842105,0.752401,50.0,20
+2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,1003,pierre-gasly,Pierre Gasly,red-bull,5,78,8,0,5,1059.024613,1078.041076,19.016463,0.789474,0.409144,50.0,20
+2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,1003,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,6,78,9,0,6,1079.407697,1094.488641,15.080943,0.736842,0.435223,50.0,20
+2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,1003,daniil-kvyat,Daniil Kvyat,toro-rosso,7,78,7,0,7,1016.445912,1032.87809,16.432178,0.684211,0.355567,50.0,20
+2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,1003,alexander-albon,Alexander Albon,toro-rosso,8,78,10,0,8,1031.432727,1044.299926,12.867199,0.631579,0.374235,50.0,20
+2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,1003,daniel-ricciardo,Daniel Ricciardo,renault,9,78,6,0,9,1125.579807,1129.804222,4.224415,0.578947,0.494459,50.0,20
+2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,1003,romain-grosjean,Romain Grosjean,haas,10,78,13,0,10,1020.924973,1029.184763,8.25979,0.526316,0.36112,50.0,20
+2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,1003,lando-norris,Lando Norris,mclaren,11,78,12,0,11,1008.540452,1014.933357,6.392905,0.473684,0.345826,50.0,20
+2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,1003,sergio-perez,Sergio Pérez,racing-point,12,77,16,0,12,1146.652795,1141.642402,-5.010393,0.421053,0.52126,50.0,20
+2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,1003,nico-hulkenberg,Nico Hülkenberg,renault,13,77,11,0,13,1027.626995,1027.574475,-0.05252,0.368421,0.369471,50.0,20
+2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,1003,kevin-magnussen,Kevin Magnussen,haas,14,77,5,0,14,1077.860812,1071.988336,-5.872476,0.315789,0.433239,50.0,20
+2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,1003,george-russell,George Russell,williams,15,77,19,0,15,974.661305,972.563878,-2.097427,0.263158,0.305106,50.0,20
+2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,1003,lance-stroll,Lance Stroll,racing-point,16,77,17,0,16,996.272247,990.254745,-6.017502,0.210526,0.330876,50.0,20
+2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,1003,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,17,77,14,0,17,1272.898725,1247.220102,-25.678623,0.157895,0.671467,50.0,20
+2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,1003,robert-kubica,Robert Kubica,williams,18,77,20,0,18,1105.305677,1087.144694,-18.160983,0.105263,0.468483,50.0,20
+2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,1003,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,19,76,18,0,19,990.60381,977.033206,-13.570604,0.052632,0.324044,50.0,20
+2019,6,2019-05-26,monaco,Formula 1 Grand Prix de Monaco 2019,1003,charles-leclerc,Charles Leclerc,ferrari,DNF,16,15,1,20,1138.545551,1112.996481,-25.549069,0.0,0.510981,50.0,20

@@ -1,27 +1,27 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,peter-revson,Peter Revson,mclaren,1,80,2,0,1,1135.692084,1154.64294,18.950856,1.0,0.620983,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,emerson-fittipaldi,Emerson Fittipaldi,lotus,2,80,5,0,2,1185.231443,1199.007768,13.776325,0.96,0.684473,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,jackie-oliver,Jackie Oliver,shadow,3,80,14,0,3,937.063287,965.710459,28.647172,0.92,0.347057,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,jean-pierre-beltoise,Jean-Pierre Beltoise,brm,4,80,16,0,4,1046.471669,1065.588122,19.116453,0.88,0.497671,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,jackie-stewart,Jackie Stewart,tyrrell,5,79,9,0,5,1288.446923,1290.569253,2.12233,0.84,0.797553,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,howden-ganley,Howden Ganley,iso-marlboro,6,79,22,0,6,1022.585169,1039.385942,16.800773,0.8,0.463985,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,james-hunt,James Hunt,march,7,78,15,0,7,1028.88981,1043.246554,14.356744,0.76,0.472865,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,carlos-reutemann,Carlos Reutemann,brabham,8,78,4,0,8,1064.399169,1074.252292,9.853122,0.72,0.522938,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,mike-hailwood,Mike Hailwood,surtees,9,78,12,0,9,991.28535,1004.274134,12.988784,0.68,0.420224,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,chris-amon,Chris Amon,tyrrell,10,77,11,0,10,1065.948953,1071.693112,5.744158,0.64,0.525117,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,wilson-fittipaldi,Wilson Fittipaldi,brabham,11,77,10,0,11,993.367731,1002.212146,8.844416,0.6,0.423112,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,rolf-stommelen,Rolf Stommelen,brabham,12,76,18,0,12,1014.784382,1020.133447,5.349064,0.56,0.453019,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,denny-hulme,Denny Hulme,mclaren,13,75,7,0,13,1195.365187,1186.524844,-8.840343,0.52,0.696807,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,tim-schenken,Tim Schenken,iso-marlboro,14,75,24,0,14,989.428844,992.546154,3.11731,0.48,0.417654,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,arturo-merzario,Arturo Merzario,ferrari,15,75,20,0,15,1061.603975,1057.653754,-3.950221,0.44,0.519004,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,graham-hill,Graham Hill,shadow,16,73,17,0,16,1046.566891,1041.676626,-4.890266,0.4,0.497805,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,george-follmer,George Follmer,shadow,17,73,13,0,17,982.38791,979.990985,-2.396925,0.36,0.407938,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,carlos-pace,Carlos Pace,surtees,18,72,19,0,18,1026.052581,1018.609228,-7.443352,0.32,0.468867,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,jean-pierre-jarier,Jean-Pierre Jarier,march,NC,71,23,1,19,976.066936,970.103644,-5.963292,0.28,0.399266,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,rikky-von-opel,Rikky von Opel,ensign,NC,68,26,1,20,973.631304,965.834429,-7.796875,0.24,0.395938,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,niki-lauda,Niki Lauda,brm,DNF,62,8,1,21,962.061354,953.049395,-9.011959,0.2,0.380239,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,francois-cevert,François Cevert,tyrrell,DNF,32,6,1,22,1203.583068,1175.251727,-28.33134,0.14,0.706627,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,jody-scheckter,Jody Scheckter,mclaren,DNF,32,3,1,23,1005.026574,990.059083,-14.967491,0.14,0.43935,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,mike-beuttler,Mike Beuttler,march,DNF,20,21,1,24,972.323798,956.616097,-15.707701,0.08,0.394154,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,ronnie-peterson,Ronnie Peterson,lotus,DNF,16,1,1,25,1161.653535,1130.909688,-30.743847,0.04,0.654877,50.0,26
-1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,peter-gethin,Peter Gethin,brm,DNF,5,25,1,26,971.093474,951.469578,-19.623896,0.0,0.392478,50.0,26
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,peter-revson,Peter Revson,mclaren,1,80,2,0,1,1135.692084,1154.64294,18.950856,1.0,0.620983,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,emerson-fittipaldi,Emerson Fittipaldi,lotus,2,80,5,0,2,1185.231443,1199.007768,13.776325,0.96,0.684473,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,jackie-oliver,Jackie Oliver,shadow,3,80,14,0,3,937.063287,965.710459,28.647172,0.92,0.347057,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,jean-pierre-beltoise,Jean-Pierre Beltoise,brm,4,80,16,0,4,1046.471669,1065.588122,19.116453,0.88,0.497671,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,jackie-stewart,Jackie Stewart,tyrrell,5,79,9,0,5,1288.446923,1290.569253,2.12233,0.84,0.797553,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,howden-ganley,Howden Ganley,iso-marlboro,6,79,22,0,6,1022.585169,1039.385942,16.800773,0.8,0.463985,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,james-hunt,James Hunt,march,7,78,15,0,7,1028.88981,1043.246554,14.356744,0.76,0.472865,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,carlos-reutemann,Carlos Reutemann,brabham,8,78,4,0,8,1064.399169,1074.252292,9.853122,0.72,0.522938,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,mike-hailwood,Mike Hailwood,surtees,9,78,12,0,9,991.28535,1004.274134,12.988784,0.68,0.420224,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,chris-amon,Chris Amon,tyrrell,10,77,11,0,10,1065.948953,1071.693112,5.744158,0.64,0.525117,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,wilson-fittipaldi,Wilson Fittipaldi,brabham,11,77,10,0,11,993.367731,1002.212146,8.844416,0.6,0.423112,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,rolf-stommelen,Rolf Stommelen,brabham,12,76,18,0,12,1014.784382,1020.133447,5.349064,0.56,0.453019,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,denny-hulme,Denny Hulme,mclaren,13,75,7,0,13,1195.365187,1186.524844,-8.840343,0.52,0.696807,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,tim-schenken,Tim Schenken,iso-marlboro,14,75,24,0,14,989.428844,992.546154,3.11731,0.48,0.417654,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,arturo-merzario,Arturo Merzario,ferrari,15,75,20,0,15,1061.603975,1057.653754,-3.950221,0.44,0.519004,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,graham-hill,Graham Hill,shadow,16,73,17,0,16,1046.566891,1041.676626,-4.890266,0.4,0.497805,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,george-follmer,George Follmer,shadow,17,73,13,0,17,982.38791,979.990985,-2.396925,0.36,0.407938,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,carlos-pace,Carlos Pace,surtees,18,72,19,0,18,1026.052581,1018.609228,-7.443352,0.32,0.468867,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,jean-pierre-jarier,Jean-Pierre Jarier,march,NC,71,23,1,19,976.066936,970.103644,-5.963292,0.28,0.399266,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,rikky-von-opel,Rikky von Opel,ensign,NC,68,26,1,20,973.631304,965.834429,-7.796875,0.24,0.395938,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,niki-lauda,Niki Lauda,brm,DNF,62,8,1,21,962.061354,953.049395,-9.011959,0.2,0.380239,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,francois-cevert,François Cevert,tyrrell,DNF,32,6,1,22,1203.583068,1175.251727,-28.33134,0.14,0.706627,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,jody-scheckter,Jody Scheckter,mclaren,DNF,32,3,1,23,1005.026574,990.059083,-14.967491,0.14,0.43935,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,mike-beuttler,Mike Beuttler,march,DNF,20,21,1,24,972.323798,956.616097,-15.707701,0.08,0.394154,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,ronnie-peterson,Ronnie Peterson,lotus,DNF,16,1,1,25,1161.653535,1130.909688,-30.743847,0.04,0.654877,50.0,26
+1973,14,1973-09-23,canada,Labatt's Canadian Grand Prix 1973,234,peter-gethin,Peter Gethin,brm,DNF,5,25,1,26,971.093474,951.469578,-19.623896,0.0,0.392478,50.0,26

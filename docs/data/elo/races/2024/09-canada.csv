@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,max-verstappen,Max Verstappen,red-bull,1,70,2,0,1,1556.900172,1562.103635,5.203462,1.0,0.895931,50.0,20
-2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,lando-norris,Lando Norris,mclaren,2,70,3,0,2,1342.346228,1353.552093,11.205865,0.947368,0.723251,50.0,20
-2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,george-russell,George Russell,mercedes,3,70,1,0,3,1265.140778,1277.926321,12.785543,0.894737,0.639026,50.0,20
-2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,lewis-hamilton,Lewis Hamilton,mercedes,4,70,7,0,4,1297.442953,1305.776964,8.334011,0.842105,0.675425,50.0,20
-2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,oscar-piastri,Oscar Piastri,mclaren,5,70,4,0,5,1204.283617,1215.411582,11.127965,0.789474,0.566914,50.0,20
-2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,fernando-alonso,Fernando Alonso,aston-martin,6,70,6,0,6,1215.186451,1223.023144,7.836693,0.736842,0.580108,50.0,20
-2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,lance-stroll,Lance Stroll,aston-martin,7,70,9,0,7,1088.894297,1101.891563,12.997266,0.684211,0.424265,50.0,20
-2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,daniel-ricciardo,Daniel Ricciardo,rb,8,70,5,0,8,1038.677113,1052.094992,13.417879,0.631579,0.363221,50.0,20
-2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,pierre-gasly,Pierre Gasly,alpine,9,70,15,0,9,1071.632335,1080.426516,8.794181,0.578947,0.403064,50.0,20
-2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,esteban-ocon,Esteban Ocon,alpine,10,70,18,0,10,1068.261962,1074.630412,6.36845,0.526316,0.398947,50.0,20
-2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,nico-hulkenberg,Nico Hülkenberg,haas,11,70,17,0,11,1028.65669,1034.774789,6.118099,0.473684,0.351322,50.0,20
-2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,kevin-magnussen,Kevin Magnussen,haas,12,70,14,0,12,945.387312,953.534585,8.147273,0.421053,0.258107,50.0,20
-2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,valtteri-bottas,Valtteri Bottas,kick-sauber,13,70,PL,0,13,968.617485,972.891982,4.274496,0.368421,0.282931,50.0,20
-2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,yuki-tsunoda,Yuki Tsunoda,rb,14,70,8,0,14,1063.205828,1059.355969,-3.849858,0.315789,0.392787,50.0,20
-2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,guanyu-zhou,Guanyu Zhou,kick-sauber,15,69,PL,0,15,973.647637,972.383585,-1.264052,0.263158,0.288439,50.0,20
-2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,alexander-albon,Alexander Albon,williams,DNF,52,10,1,16,1033.132479,1024.511859,-8.62062,0.184211,0.356623,50.0,20
-2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,DNF,52,12,1,17,1328.628846,1302.388743,-26.240102,0.184211,0.709013,50.0,20
-2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,sergio-perez,Sergio Pérez,red-bull,DNF,51,16,1,18,1340.463459,1309.660761,-30.802698,0.105263,0.721317,50.0,20
-2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,charles-leclerc,Charles Leclerc,ferrari,DNF,40,11,1,19,1361.207521,1326.726177,-34.481344,0.052632,0.742258,50.0,20
-2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,logan-sargeant,Logan Sargeant,williams,DNF,23,13,1,20,914.766261,903.413751,-11.352509,0.0,0.22705,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,1110,max-verstappen,Max Verstappen,red-bull,1,70,2,0,1,1556.900172,1562.103635,5.203462,1.0,0.895931,50.0,20
+2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,1110,lando-norris,Lando Norris,mclaren,2,70,3,0,2,1342.346228,1353.552093,11.205865,0.947368,0.723251,50.0,20
+2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,1110,george-russell,George Russell,mercedes,3,70,1,0,3,1265.140778,1277.926321,12.785543,0.894737,0.639026,50.0,20
+2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,1110,lewis-hamilton,Lewis Hamilton,mercedes,4,70,7,0,4,1297.442953,1305.776964,8.334011,0.842105,0.675425,50.0,20
+2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,1110,oscar-piastri,Oscar Piastri,mclaren,5,70,4,0,5,1204.283617,1215.411582,11.127965,0.789474,0.566914,50.0,20
+2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,1110,fernando-alonso,Fernando Alonso,aston-martin,6,70,6,0,6,1215.186451,1223.023144,7.836693,0.736842,0.580108,50.0,20
+2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,1110,lance-stroll,Lance Stroll,aston-martin,7,70,9,0,7,1088.894297,1101.891563,12.997266,0.684211,0.424265,50.0,20
+2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,1110,daniel-ricciardo,Daniel Ricciardo,rb,8,70,5,0,8,1038.677113,1052.094992,13.417879,0.631579,0.363221,50.0,20
+2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,1110,pierre-gasly,Pierre Gasly,alpine,9,70,15,0,9,1071.632335,1080.426516,8.794181,0.578947,0.403064,50.0,20
+2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,1110,esteban-ocon,Esteban Ocon,alpine,10,70,18,0,10,1068.261962,1074.630412,6.36845,0.526316,0.398947,50.0,20
+2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,1110,nico-hulkenberg,Nico Hülkenberg,haas,11,70,17,0,11,1028.65669,1034.774789,6.118099,0.473684,0.351322,50.0,20
+2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,1110,kevin-magnussen,Kevin Magnussen,haas,12,70,14,0,12,945.387312,953.534585,8.147273,0.421053,0.258107,50.0,20
+2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,1110,valtteri-bottas,Valtteri Bottas,kick-sauber,13,70,PL,0,13,968.617485,972.891982,4.274496,0.368421,0.282931,50.0,20
+2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,1110,yuki-tsunoda,Yuki Tsunoda,rb,14,70,8,0,14,1063.205828,1059.355969,-3.849858,0.315789,0.392787,50.0,20
+2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,1110,guanyu-zhou,Guanyu Zhou,kick-sauber,15,69,PL,0,15,973.647637,972.383585,-1.264052,0.263158,0.288439,50.0,20
+2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,1110,alexander-albon,Alexander Albon,williams,DNF,52,10,1,16,1033.132479,1024.511859,-8.62062,0.184211,0.356623,50.0,20
+2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,1110,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,DNF,52,12,1,17,1328.628846,1302.388743,-26.240102,0.184211,0.709013,50.0,20
+2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,1110,sergio-perez,Sergio Pérez,red-bull,DNF,51,16,1,18,1340.463459,1309.660761,-30.802698,0.105263,0.721317,50.0,20
+2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,1110,charles-leclerc,Charles Leclerc,ferrari,DNF,40,11,1,19,1361.207521,1326.726177,-34.481344,0.052632,0.742258,50.0,20
+2024,9,2024-06-09,canada,Formula 1 Grand Prix du Canada 2024,1110,logan-sargeant,Logan Sargeant,williams,DNF,23,13,1,20,914.766261,903.413751,-11.352509,0.0,0.22705,50.0,20

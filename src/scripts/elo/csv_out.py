@@ -30,6 +30,7 @@ def write_race_csv(
         "date",
         "grandPrixId",
         "officialName",
+        "careerRaceNumber",
         "driverId",
         "driverName",
         "constructorId",

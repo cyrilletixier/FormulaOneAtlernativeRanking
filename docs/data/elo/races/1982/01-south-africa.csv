@@ -1,31 +1,31 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,alain-prost,Alain Prost,renault,1,77,5,0,1,1149.698037,1169.030122,19.332086,1.0,0.613358,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,carlos-reutemann,Carlos Reutemann,williams,2,77,8,0,2,1286.45881,1296.081924,9.623114,0.965517,0.773055,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,rene-arnoux,René Arnoux,renault,3,77,1,0,3,1128.876859,1146.132668,17.255809,0.931034,0.585918,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,niki-lauda,Niki Lauda,mclaren,4,77,13,0,4,1094.972059,1112.786817,17.814758,0.896552,0.540257,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,keke-rosberg,Keke Rosberg,williams,5,77,7,0,5,977.631308,1001.65601,24.024702,0.862069,0.381575,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,john-watson,John Watson,mclaren,6,77,9,0,6,1223.101122,1229.265368,6.164246,0.827586,0.704301,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,michele-alboreto,Michele Alboreto,tyrrell,7,76,10,0,7,1029.091243,1046.231413,17.14017,0.793103,0.4503,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,elio-de-angelis,Elio de Angelis,lotus,8,76,15,0,8,1171.300777,1177.173545,5.872768,0.758621,0.641165,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,eliseo-salazar,Eliseo Salazar,ats-wheels,9,75,12,0,9,986.096287,1002.669475,16.573187,0.724138,0.392674,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,manfred-winkelhock,Manfred Winkelhock,ats-wheels,10,75,20,0,10,983.201748,998.241118,15.03937,0.689655,0.388868,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,11,74,19,0,11,1119.895854,1123.958314,4.06246,0.655172,0.573923,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,jochen-mass,Jochen Mass,march,12,74,22,0,12,1065.368086,1071.410781,6.042695,0.62069,0.499836,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,13,73,16,0,13,1029.825542,1036.571,6.745458,0.586207,0.451298,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,derek-daly,Derek Daly,theodore,14,73,24,0,14,1003.031648,1009.860178,6.82853,0.551724,0.415154,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,raul-boesel,Raul Boesel,march,15,72,21,0,15,1000.0,1005.306813,5.306813,0.517241,0.411105,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,slim-borgudd,Slim Borgudd,tyrrell,16,72,23,0,16,990.096722,994.337004,4.240282,0.482759,0.397953,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,chico-serra,Chico Serra,fittipaldi,17,72,25,0,17,902.733466,910.704915,7.971449,0.448276,0.288847,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,didier-pironi,Didier Pironi,ferrari,18,71,6,0,18,1152.921321,1142.733296,-10.188025,0.413793,0.617554,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,jacques-laffite,Jacques Laffite,ligier,DNF,54,11,1,19,1240.862556,1223.598497,-17.264059,0.37931,0.724592,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,derek-warwick,Derek Warwick,toleman,DNF,43,14,1,20,889.934757,893.46582,3.531063,0.344828,0.274206,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,riccardo-patrese,Riccardo Patrese,brabham,DNF,18,4,1,21,1084.381174,1073.606957,-10.774217,0.310345,0.525829,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,eddie-cheever,Eddie Cheever,ligier,DNF,11,17,1,22,1046.968313,1037.028178,-9.940135,0.275862,0.474665,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,gilles-villeneuve,Gilles Villeneuve,ferrari,DNF,6,3,1,23,1129.266416,1112.013551,-17.252865,0.241379,0.586437,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,nelson-piquet,Nelson Piquet,brabham,DNF,3,2,1,24,1264.778637,1237.589271,-27.189366,0.206897,0.750684,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,jean-pierre-jarier,Jean-Pierre Jarier,osella,DNF,0,26,1,25,1134.04699,1112.166458,-21.880531,0.155172,0.592783,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,nigel-mansell,Nigel Mansell,lotus,DNF,0,18,1,26,1041.014117,1025.446004,-15.568113,0.155172,0.466535,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,brian-henton,Brian Henton,arrows,DNQ,,,2,27,862.124848,852.520346,-9.604502,0.051724,0.243814,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,mauro-baldi,Mauro Baldi,arrows,DNQ,,,2,28,1000.0,982.030951,-17.969049,0.051724,0.411105,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,riccardo-paletti,Riccardo Paletti,osella,DNQ,,,2,29,1000.0,982.030951,-17.969049,0.051724,0.411105,50.0,30
-1982,1,1982-01-23,south-africa,South African Grand Prix 1982,teo-fabi,Teo Fabi,toleman,DNQ,,,2,30,1000.0,982.030951,-17.969049,0.051724,0.411105,50.0,30
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,alain-prost,Alain Prost,renault,1,77,5,0,1,1149.698037,1169.030122,19.332086,1.0,0.613358,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,carlos-reutemann,Carlos Reutemann,williams,2,77,8,0,2,1286.45881,1296.081924,9.623114,0.965517,0.773055,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,rene-arnoux,René Arnoux,renault,3,77,1,0,3,1128.876859,1146.132668,17.255809,0.931034,0.585918,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,niki-lauda,Niki Lauda,mclaren,4,77,13,0,4,1094.972059,1112.786817,17.814758,0.896552,0.540257,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,keke-rosberg,Keke Rosberg,williams,5,77,7,0,5,977.631308,1001.65601,24.024702,0.862069,0.381575,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,john-watson,John Watson,mclaren,6,77,9,0,6,1223.101122,1229.265368,6.164246,0.827586,0.704301,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,michele-alboreto,Michele Alboreto,tyrrell,7,76,10,0,7,1029.091243,1046.231413,17.14017,0.793103,0.4503,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,elio-de-angelis,Elio de Angelis,lotus,8,76,15,0,8,1171.300777,1177.173545,5.872768,0.758621,0.641165,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,eliseo-salazar,Eliseo Salazar,ats-wheels,9,75,12,0,9,986.096287,1002.669475,16.573187,0.724138,0.392674,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,manfred-winkelhock,Manfred Winkelhock,ats-wheels,10,75,20,0,10,983.201748,998.241118,15.03937,0.689655,0.388868,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,11,74,19,0,11,1119.895854,1123.958314,4.06246,0.655172,0.573923,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,jochen-mass,Jochen Mass,march,12,74,22,0,12,1065.368086,1071.410781,6.042695,0.62069,0.499836,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,13,73,16,0,13,1029.825542,1036.571,6.745458,0.586207,0.451298,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,derek-daly,Derek Daly,theodore,14,73,24,0,14,1003.031648,1009.860178,6.82853,0.551724,0.415154,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,raul-boesel,Raul Boesel,march,15,72,21,0,15,1000.0,1005.306813,5.306813,0.517241,0.411105,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,slim-borgudd,Slim Borgudd,tyrrell,16,72,23,0,16,990.096722,994.337004,4.240282,0.482759,0.397953,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,chico-serra,Chico Serra,fittipaldi,17,72,25,0,17,902.733466,910.704915,7.971449,0.448276,0.288847,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,didier-pironi,Didier Pironi,ferrari,18,71,6,0,18,1152.921321,1142.733296,-10.188025,0.413793,0.617554,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,jacques-laffite,Jacques Laffite,ligier,DNF,54,11,1,19,1240.862556,1223.598497,-17.264059,0.37931,0.724592,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,derek-warwick,Derek Warwick,toleman,DNF,43,14,1,20,889.934757,893.46582,3.531063,0.344828,0.274206,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,riccardo-patrese,Riccardo Patrese,brabham,DNF,18,4,1,21,1084.381174,1073.606957,-10.774217,0.310345,0.525829,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,eddie-cheever,Eddie Cheever,ligier,DNF,11,17,1,22,1046.968313,1037.028178,-9.940135,0.275862,0.474665,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,gilles-villeneuve,Gilles Villeneuve,ferrari,DNF,6,3,1,23,1129.266416,1112.013551,-17.252865,0.241379,0.586437,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,nelson-piquet,Nelson Piquet,brabham,DNF,3,2,1,24,1264.778637,1237.589271,-27.189366,0.206897,0.750684,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,jean-pierre-jarier,Jean-Pierre Jarier,osella,DNF,0,26,1,25,1134.04699,1112.166458,-21.880531,0.155172,0.592783,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,nigel-mansell,Nigel Mansell,lotus,DNF,0,18,1,26,1041.014117,1025.446004,-15.568113,0.155172,0.466535,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,brian-henton,Brian Henton,arrows,DNQ,,,2,27,862.124848,852.520346,-9.604502,0.051724,0.243814,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,mauro-baldi,Mauro Baldi,arrows,DNQ,,,2,28,1000.0,982.030951,-17.969049,0.051724,0.411105,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,riccardo-paletti,Riccardo Paletti,osella,DNQ,,,2,29,1000.0,982.030951,-17.969049,0.051724,0.411105,50.0,30
+1982,1,1982-01-23,south-africa,South African Grand Prix 1982,358,teo-fabi,Teo Fabi,toleman,DNQ,,,2,30,1000.0,982.030951,-17.969049,0.051724,0.411105,50.0,30

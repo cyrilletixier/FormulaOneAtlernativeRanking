@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1957-08-04,1957,6,germany,cooper,Cooper,DNF,4,24,1000.0,981.396073,-18.603927,0.086957,0.459035,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1957-08-04,1957,6,germany,62,cooper,Cooper,DNF,4,24,1000.0,981.396073,-18.603927,0.086957,0.459035,50.0

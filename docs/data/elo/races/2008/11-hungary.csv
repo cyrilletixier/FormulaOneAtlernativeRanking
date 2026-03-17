@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,heikki-kovalainen,Heikki Kovalainen,mclaren,1,70,2,0,1,1185.044648,1204.691604,19.646956,1.0,0.607061,50.0,20
-2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,timo-glock,Timo Glock,toyota,2,70,5,0,2,1017.180688,1045.333476,28.152788,0.947368,0.384313,50.0,20
-2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,kimi-raikkonen,Kimi Räikkönen,ferrari,3,70,6,0,3,1318.758862,1325.302958,6.544096,0.894737,0.763855,50.0,20
-2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,fernando-alonso,Fernando Alonso,renault,4,70,7,0,4,1276.610003,1282.79649,6.186487,0.842105,0.718376,50.0,20
-2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,lewis-hamilton,Lewis Hamilton,mclaren,5,70,1,0,5,1267.515738,1271.587803,4.072066,0.789474,0.708032,50.0,20
-2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,nelson-piquet-jr,Nelson Piquet Jr.,renault,6,70,10,0,6,1004.216526,1022.67585,18.459324,0.736842,0.367656,50.0,20
-2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,jarno-trulli,Jarno Trulli,toyota,7,70,9,0,7,1137.351623,1144.342984,6.991361,0.684211,0.544383,50.0,20
-2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,robert-kubica,Robert Kubica,bmw-sauber,8,70,4,0,8,1223.348669,1222.156854,-1.191816,0.631579,0.655415,50.0,20
-2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,mark-webber,Mark Webber,red-bull,9,70,8,0,9,1070.699767,1076.900135,6.200368,0.578947,0.45494,50.0,20
-2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,nick-heidfeld,Nick Heidfeld,bmw-sauber,10,70,15,0,10,1246.707593,1238.837676,-7.869917,0.526316,0.683714,50.0,20
-2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,david-coulthard,David Coulthard,red-bull,11,70,13,0,11,1042.682908,1045.484082,2.801174,0.473684,0.417661,50.0,20
-2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,jenson-button,Jenson Button,honda,12,69,12,0,12,1022.404885,1023.90322,1.498335,0.421053,0.391086,50.0,20
-2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,kazuki-nakajima,Kazuki Nakajima,williams,13,69,16,0,13,1024.95982,1023.660362,-1.299458,0.368421,0.39441,50.0,20
-2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,nico-rosberg,Nico Rosberg,williams,14,69,14,0,14,1079.64509,1072.087974,-7.557116,0.315789,0.466932,50.0,20
-2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,giancarlo-fisichella,Giancarlo Fisichella,force-india,15,69,18,0,15,1025.813239,1019.195019,-6.618219,0.263158,0.395522,50.0,20
-2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,rubens-barrichello,Rubens Barrichello,honda,16,68,17,0,16,1067.199087,1055.212598,-11.986489,0.210526,0.450256,50.0,20
-2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,felipe-massa,Felipe Massa,ferrari,17,67,3,0,17,1293.823142,1264.845395,-28.977748,0.157895,0.73745,50.0,20
-2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,sebastien-bourdais,Sébastien Bourdais,toro-rosso,18,67,19,0,18,965.096974,954.412008,-10.684966,0.105263,0.318962,50.0,20
-2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,adrian-sutil,Adrian Sutil,force-india,DNF,62,20,1,19,869.539227,861.49894,-8.040287,0.052632,0.213437,50.0,20
-2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,sebastian-vettel,Sebastian Vettel,toro-rosso,DNF,22,11,1,20,971.326597,954.999659,-16.326938,0.0,0.326539,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,796,heikki-kovalainen,Heikki Kovalainen,mclaren,1,70,2,0,1,1185.044648,1204.691604,19.646956,1.0,0.607061,50.0,20
+2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,796,timo-glock,Timo Glock,toyota,2,70,5,0,2,1017.180688,1045.333476,28.152788,0.947368,0.384313,50.0,20
+2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,796,kimi-raikkonen,Kimi Räikkönen,ferrari,3,70,6,0,3,1318.758862,1325.302958,6.544096,0.894737,0.763855,50.0,20
+2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,796,fernando-alonso,Fernando Alonso,renault,4,70,7,0,4,1276.610003,1282.79649,6.186487,0.842105,0.718376,50.0,20
+2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,796,lewis-hamilton,Lewis Hamilton,mclaren,5,70,1,0,5,1267.515738,1271.587803,4.072066,0.789474,0.708032,50.0,20
+2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,796,nelson-piquet-jr,Nelson Piquet Jr.,renault,6,70,10,0,6,1004.216526,1022.67585,18.459324,0.736842,0.367656,50.0,20
+2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,796,jarno-trulli,Jarno Trulli,toyota,7,70,9,0,7,1137.351623,1144.342984,6.991361,0.684211,0.544383,50.0,20
+2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,796,robert-kubica,Robert Kubica,bmw-sauber,8,70,4,0,8,1223.348669,1222.156854,-1.191816,0.631579,0.655415,50.0,20
+2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,796,mark-webber,Mark Webber,red-bull,9,70,8,0,9,1070.699767,1076.900135,6.200368,0.578947,0.45494,50.0,20
+2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,796,nick-heidfeld,Nick Heidfeld,bmw-sauber,10,70,15,0,10,1246.707593,1238.837676,-7.869917,0.526316,0.683714,50.0,20
+2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,796,david-coulthard,David Coulthard,red-bull,11,70,13,0,11,1042.682908,1045.484082,2.801174,0.473684,0.417661,50.0,20
+2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,796,jenson-button,Jenson Button,honda,12,69,12,0,12,1022.404885,1023.90322,1.498335,0.421053,0.391086,50.0,20
+2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,796,kazuki-nakajima,Kazuki Nakajima,williams,13,69,16,0,13,1024.95982,1023.660362,-1.299458,0.368421,0.39441,50.0,20
+2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,796,nico-rosberg,Nico Rosberg,williams,14,69,14,0,14,1079.64509,1072.087974,-7.557116,0.315789,0.466932,50.0,20
+2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,796,giancarlo-fisichella,Giancarlo Fisichella,force-india,15,69,18,0,15,1025.813239,1019.195019,-6.618219,0.263158,0.395522,50.0,20
+2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,796,rubens-barrichello,Rubens Barrichello,honda,16,68,17,0,16,1067.199087,1055.212598,-11.986489,0.210526,0.450256,50.0,20
+2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,796,felipe-massa,Felipe Massa,ferrari,17,67,3,0,17,1293.823142,1264.845395,-28.977748,0.157895,0.73745,50.0,20
+2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,796,sebastien-bourdais,Sébastien Bourdais,toro-rosso,18,67,19,0,18,965.096974,954.412008,-10.684966,0.105263,0.318962,50.0,20
+2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,796,adrian-sutil,Adrian Sutil,force-india,DNF,62,20,1,19,869.539227,861.49894,-8.040287,0.052632,0.213437,50.0,20
+2008,11,2008-08-03,hungary,Formula 1 ING Magyar Nagydíj 2008,796,sebastian-vettel,Sebastian Vettel,toro-rosso,DNF,22,11,1,20,971.326597,954.999659,-16.326938,0.0,0.326539,50.0,20

@@ -1,6 +1,6 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1950-09-03,1950,7,italy,alfa-romeo,Alfa Romeo,DNF,11,27,1000.0,983.161023,-16.838977,0.153846,0.490626,50.0
-1951-05-27,1951,1,switzerland,alfa-romeo,Alfa Romeo,4,41,21,983.161023,1002.39178,19.230757,0.85,0.465385,50.0
-1951-06-17,1951,3,belgium,alfa-romeo,Alfa Romeo,DNF,11,13,1002.39178,986.798112,-15.593668,0.166667,0.47854,50.0
-1951-07-01,1951,4,france,alfa-romeo,Alfa Romeo,10,58,23,986.798112,988.536251,1.738139,0.5,0.465237,50.0
-1951-07-14,1951,5,great-britain,alfa-romeo,Alfa Romeo,6,84,20,988.536251,1002.265815,13.729564,0.736842,0.462251,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1950-09-03,1950,7,italy,7,alfa-romeo,Alfa Romeo,DNF,11,27,1000.0,983.161023,-16.838977,0.153846,0.490626,50.0
+1951-05-27,1951,1,switzerland,8,alfa-romeo,Alfa Romeo,4,41,21,983.161023,1002.39178,19.230757,0.85,0.465385,50.0
+1951-06-17,1951,3,belgium,10,alfa-romeo,Alfa Romeo,DNF,11,13,1002.39178,986.798112,-15.593668,0.166667,0.47854,50.0
+1951-07-01,1951,4,france,11,alfa-romeo,Alfa Romeo,10,58,23,986.798112,988.536251,1.738139,0.5,0.465237,50.0
+1951-07-14,1951,5,great-britain,12,alfa-romeo,Alfa Romeo,6,84,20,988.536251,1002.265815,13.729564,0.736842,0.462251,50.0

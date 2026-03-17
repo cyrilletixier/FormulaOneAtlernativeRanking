@@ -1,30 +1,30 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,nelson-piquet,Nelson Piquet,brabham,1,76,4,0,1,1207.160104,1222.479791,15.319687,1.0,0.693606,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,alain-prost,Alain Prost,renault,2,76,8,0,2,1241.177173,1252.728284,11.551111,0.964286,0.733263,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,nigel-mansell,Nigel Mansell,lotus,3,76,3,0,3,1092.370015,1111.653945,19.28393,0.928571,0.542893,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,4,76,14,0,4,1043.961078,1064.831411,20.870334,0.892857,0.47545,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,derek-warwick,Derek Warwick,toleman,5,76,11,0,5,999.492284,1021.646497,22.154214,0.857143,0.414059,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,bruno-giacomelli,Bruno Giacomelli,toleman,6,76,12,0,6,1049.525749,1066.436765,16.911016,0.821429,0.483208,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,riccardo-patrese,Riccardo Patrese,brabham,7,76,2,0,7,1042.859303,1058.449244,15.589941,0.785714,0.473915,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,manfred-winkelhock,Manfred Winkelhock,ats-wheels,8,75,9,0,8,959.57456,979.035821,19.461261,0.75,0.360775,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,rene-arnoux,René Arnoux,ferrari,9,75,5,0,9,1219.841237,1220.119282,0.278045,0.714286,0.708725,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,eddie-cheever,Eddie Cheever,renault,10,75,7,0,10,1111.814204,1117.258001,5.443796,0.678571,0.569696,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,thierry-boutsen,Thierry Boutsen,arrows,11,75,18,0,11,1046.476562,1054.6716,8.195037,0.642857,0.478956,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,roberto-guerrero,Roberto Guerrero,theodore,12,75,21,0,12,962.244439,974.388497,12.144057,0.607143,0.364262,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,jonathan-palmer,Jonathan Palmer,williams,13,74,25,0,13,1000.0,1007.833925,7.833925,0.571429,0.41475,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,stefan-johansson,Stefan Johansson,spirit,14,74,19,0,14,980.166155,987.553242,7.387088,0.535714,0.387973,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,raul-boesel,Raul Boesel,ligier,15,73,23,0,15,985.523493,990.765753,5.24226,0.5,0.395155,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,patrick-tambay,Patrick Tambay,ferrari,DNF,67,6,1,16,1169.36744,1160.260889,-9.106552,0.464286,0.646417,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,michele-alboreto,Michele Alboreto,tyrrell,DNF,64,26,1,17,1105.559826,1098.933008,-6.626818,0.428571,0.561108,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,piercarlo-ghinzani,Piercarlo Ghinzani,osella,NC,63,24,1,18,894.337066,899.974276,5.63721,0.392857,0.280113,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,marc-surer,Marc Surer,arrows,DNF,50,17,1,19,1133.682632,1121.569913,-12.112719,0.357143,0.599397,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,keke-rosberg,Keke Rosberg,williams,DNF,43,16,1,20,1197.7415,1179.706241,-18.035258,0.321429,0.682134,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,mauro-baldi,Mauro Baldi,alfa-romeo,DNF,39,15,1,21,1046.76927,1037.086761,-9.682509,0.285714,0.479364,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,john-watson,John Watson,mclaren,DNF,36,10,1,22,1186.473159,1165.565704,-20.907455,0.25,0.668149,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,danny-sullivan,Danny Sullivan,tyrrell,DNF,27,20,1,23,1009.446073,998.777123,-10.66895,0.214286,0.427665,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,niki-lauda,Niki Lauda,mclaren,DNF,25,13,1,24,1069.965056,1053.307173,-16.657883,0.178571,0.511729,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,elio-de-angelis,Elio de Angelis,lotus,DNF,12,1,1,25,1039.638535,1023.309864,-16.328671,0.142857,0.469431,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,jean-pierre-jarier,Jean-Pierre Jarier,ligier,DNF,0,22,1,26,1018.4232,1001.779533,-16.643667,0.107143,0.440016,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,corrado-fabi,Corrado Fabi,osella,DNQ,,,2,27,953.203453,937.363897,-15.839556,0.035714,0.352505,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,jacques-laffite,Jacques Laffite,williams,DNQ,,,2,28,1118.270439,1091.130121,-27.140318,0.035714,0.578521,50.0,29
-1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,kenny-acheson,Kenny Acheson,ram,DNQ,,,2,29,916.762567,903.21001,-13.552557,0.035714,0.306765,50.0,29
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,nelson-piquet,Nelson Piquet,brabham,1,76,4,0,1,1207.160104,1222.479791,15.319687,1.0,0.693606,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,alain-prost,Alain Prost,renault,2,76,8,0,2,1241.177173,1252.728284,11.551111,0.964286,0.733263,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,nigel-mansell,Nigel Mansell,lotus,3,76,3,0,3,1092.370015,1111.653945,19.28393,0.928571,0.542893,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,4,76,14,0,4,1043.961078,1064.831411,20.870334,0.892857,0.47545,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,derek-warwick,Derek Warwick,toleman,5,76,11,0,5,999.492284,1021.646497,22.154214,0.857143,0.414059,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,bruno-giacomelli,Bruno Giacomelli,toleman,6,76,12,0,6,1049.525749,1066.436765,16.911016,0.821429,0.483208,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,riccardo-patrese,Riccardo Patrese,brabham,7,76,2,0,7,1042.859303,1058.449244,15.589941,0.785714,0.473915,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,manfred-winkelhock,Manfred Winkelhock,ats-wheels,8,75,9,0,8,959.57456,979.035821,19.461261,0.75,0.360775,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,rene-arnoux,René Arnoux,ferrari,9,75,5,0,9,1219.841237,1220.119282,0.278045,0.714286,0.708725,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,eddie-cheever,Eddie Cheever,renault,10,75,7,0,10,1111.814204,1117.258001,5.443796,0.678571,0.569696,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,thierry-boutsen,Thierry Boutsen,arrows,11,75,18,0,11,1046.476562,1054.6716,8.195037,0.642857,0.478956,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,roberto-guerrero,Roberto Guerrero,theodore,12,75,21,0,12,962.244439,974.388497,12.144057,0.607143,0.364262,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,jonathan-palmer,Jonathan Palmer,williams,13,74,25,0,13,1000.0,1007.833925,7.833925,0.571429,0.41475,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,stefan-johansson,Stefan Johansson,spirit,14,74,19,0,14,980.166155,987.553242,7.387088,0.535714,0.387973,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,raul-boesel,Raul Boesel,ligier,15,73,23,0,15,985.523493,990.765753,5.24226,0.5,0.395155,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,patrick-tambay,Patrick Tambay,ferrari,DNF,67,6,1,16,1169.36744,1160.260889,-9.106552,0.464286,0.646417,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,michele-alboreto,Michele Alboreto,tyrrell,DNF,64,26,1,17,1105.559826,1098.933008,-6.626818,0.428571,0.561108,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,piercarlo-ghinzani,Piercarlo Ghinzani,osella,NC,63,24,1,18,894.337066,899.974276,5.63721,0.392857,0.280113,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,marc-surer,Marc Surer,arrows,DNF,50,17,1,19,1133.682632,1121.569913,-12.112719,0.357143,0.599397,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,keke-rosberg,Keke Rosberg,williams,DNF,43,16,1,20,1197.7415,1179.706241,-18.035258,0.321429,0.682134,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,mauro-baldi,Mauro Baldi,alfa-romeo,DNF,39,15,1,21,1046.76927,1037.086761,-9.682509,0.285714,0.479364,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,john-watson,John Watson,mclaren,DNF,36,10,1,22,1186.473159,1165.565704,-20.907455,0.25,0.668149,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,danny-sullivan,Danny Sullivan,tyrrell,DNF,27,20,1,23,1009.446073,998.777123,-10.66895,0.214286,0.427665,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,niki-lauda,Niki Lauda,mclaren,DNF,25,13,1,24,1069.965056,1053.307173,-16.657883,0.178571,0.511729,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,elio-de-angelis,Elio de Angelis,lotus,DNF,12,1,1,25,1039.638535,1023.309864,-16.328671,0.142857,0.469431,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,jean-pierre-jarier,Jean-Pierre Jarier,ligier,DNF,0,22,1,26,1018.4232,1001.779533,-16.643667,0.107143,0.440016,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,corrado-fabi,Corrado Fabi,osella,DNQ,,,2,27,953.203453,937.363897,-15.839556,0.035714,0.352505,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,jacques-laffite,Jacques Laffite,williams,DNQ,,,2,28,1118.270439,1091.130121,-27.140318,0.035714,0.578521,50.0,29
+1983,14,1983-09-25,europe,1983 John Player Grand Prix of Europe,387,kenny-acheson,Kenny Acheson,ram,DNQ,,,2,29,916.762567,903.21001,-13.552557,0.035714,0.306765,50.0,29

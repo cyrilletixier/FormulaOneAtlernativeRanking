@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,max-verstappen,Max Verstappen,red-bull,1,57,3,0,1,1356.300718,1368.735507,12.434789,1.0,0.751304,50.0,20
-2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,charles-leclerc,Charles Leclerc,ferrari,2,57,1,0,2,1294.550583,1307.724782,13.174199,0.947368,0.683884,50.0,20
-2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,3,57,2,0,3,1239.92906,1253.754094,13.825033,0.894737,0.618236,50.0,20
-2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,sergio-perez,Sergio Pérez,red-bull,4,57,4,0,4,1250.523842,1261.062362,10.53852,0.842105,0.631335,50.0,20
-2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,george-russell,George Russell,mercedes,5,57,12,0,5,1072.048222,1091.451856,19.403634,0.789474,0.401401,50.0,20
-2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,lewis-hamilton,Lewis Hamilton,mercedes,6,57,6,0,6,1503.11429,1496.166963,-6.947327,0.736842,0.875789,50.0,20
-2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,valtteri-bottas,Valtteri Bottas,alfa-romeo,7,57,5,0,7,1283.891011,1284.528195,0.637185,0.684211,0.671467,50.0,20
-2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,esteban-ocon,Esteban Ocon,alpine,8,57,20,0,8,1160.566306,1166.323042,5.756736,0.631579,0.516444,50.0,20
-2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,alexander-albon,Alexander Albon,williams,9,57,18,0,9,1179.555854,1181.442705,1.886851,0.578947,0.54121,50.0,20
-2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,lance-stroll,Lance Stroll,aston-martin,10,57,PL,0,10,1078.950139,1084.755383,5.805244,0.526316,0.410211,50.0,20
-2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,fernando-alonso,Fernando Alonso,alpine,11,57,11,0,11,1085.411019,1088.170344,2.759325,0.473684,0.418498,50.0,20
-2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,yuki-tsunoda,Yuki Tsunoda,alphatauri,12,57,9,0,12,1028.7508,1032.433068,3.682268,0.421053,0.347407,50.0,20
-2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,daniel-ricciardo,Daniel Ricciardo,mclaren,13,57,14,0,13,1158.998963,1151.700282,-7.298681,0.368421,0.514395,50.0,20
-2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,nicholas-latifi,Nicholas Latifi,williams,14,57,19,0,14,913.906587,918.680444,4.773857,0.315789,0.220312,50.0,20
-2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,mick-schumacher,Mick Schumacher,haas,15,57,15,0,15,894.127603,897.214135,3.086532,0.263158,0.201427,50.0,20
-2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,kevin-magnussen,Kevin Magnussen,haas,16,56,16,0,16,990.783996,986.189515,-4.594481,0.210526,0.302416,50.0,20
-2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,sebastian-vettel,Sebastian Vettel,aston-martin,17,54,PL,0,17,1085.74671,1072.694985,-13.051726,0.157895,0.418929,50.0,20
-2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,pierre-gasly,Pierre Gasly,alphatauri,DNF,45,7,1,18,1156.579718,1136.281375,-20.298343,0.105263,0.51123,50.0,20
-2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,lando-norris,Lando Norris,mclaren,DNF,39,8,1,19,1246.97059,1218.254206,-28.716385,0.052632,0.626959,50.0,20
-2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,guanyu-zhou,Guanyu Zhou,alfa-romeo,DNF,6,17,1,20,1020.272167,1003.414934,-16.857233,0.0,0.337145,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,1062,max-verstappen,Max Verstappen,red-bull,1,57,3,0,1,1356.300718,1368.735507,12.434789,1.0,0.751304,50.0,20
+2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,1062,charles-leclerc,Charles Leclerc,ferrari,2,57,1,0,2,1294.550583,1307.724782,13.174199,0.947368,0.683884,50.0,20
+2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,1062,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,3,57,2,0,3,1239.92906,1253.754094,13.825033,0.894737,0.618236,50.0,20
+2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,1062,sergio-perez,Sergio Pérez,red-bull,4,57,4,0,4,1250.523842,1261.062362,10.53852,0.842105,0.631335,50.0,20
+2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,1062,george-russell,George Russell,mercedes,5,57,12,0,5,1072.048222,1091.451856,19.403634,0.789474,0.401401,50.0,20
+2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,1062,lewis-hamilton,Lewis Hamilton,mercedes,6,57,6,0,6,1503.11429,1496.166963,-6.947327,0.736842,0.875789,50.0,20
+2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,1062,valtteri-bottas,Valtteri Bottas,alfa-romeo,7,57,5,0,7,1283.891011,1284.528195,0.637185,0.684211,0.671467,50.0,20
+2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,1062,esteban-ocon,Esteban Ocon,alpine,8,57,20,0,8,1160.566306,1166.323042,5.756736,0.631579,0.516444,50.0,20
+2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,1062,alexander-albon,Alexander Albon,williams,9,57,18,0,9,1179.555854,1181.442705,1.886851,0.578947,0.54121,50.0,20
+2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,1062,lance-stroll,Lance Stroll,aston-martin,10,57,PL,0,10,1078.950139,1084.755383,5.805244,0.526316,0.410211,50.0,20
+2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,1062,fernando-alonso,Fernando Alonso,alpine,11,57,11,0,11,1085.411019,1088.170344,2.759325,0.473684,0.418498,50.0,20
+2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,1062,yuki-tsunoda,Yuki Tsunoda,alphatauri,12,57,9,0,12,1028.7508,1032.433068,3.682268,0.421053,0.347407,50.0,20
+2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,1062,daniel-ricciardo,Daniel Ricciardo,mclaren,13,57,14,0,13,1158.998963,1151.700282,-7.298681,0.368421,0.514395,50.0,20
+2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,1062,nicholas-latifi,Nicholas Latifi,williams,14,57,19,0,14,913.906587,918.680444,4.773857,0.315789,0.220312,50.0,20
+2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,1062,mick-schumacher,Mick Schumacher,haas,15,57,15,0,15,894.127603,897.214135,3.086532,0.263158,0.201427,50.0,20
+2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,1062,kevin-magnussen,Kevin Magnussen,haas,16,56,16,0,16,990.783996,986.189515,-4.594481,0.210526,0.302416,50.0,20
+2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,1062,sebastian-vettel,Sebastian Vettel,aston-martin,17,54,PL,0,17,1085.74671,1072.694985,-13.051726,0.157895,0.418929,50.0,20
+2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,1062,pierre-gasly,Pierre Gasly,alphatauri,DNF,45,7,1,18,1156.579718,1136.281375,-20.298343,0.105263,0.51123,50.0,20
+2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,1062,lando-norris,Lando Norris,mclaren,DNF,39,8,1,19,1246.97059,1218.254206,-28.716385,0.052632,0.626959,50.0,20
+2022,5,2022-05-08,miami,Formula 1 Crypto.com Miami Grand Prix 2022,1062,guanyu-zhou,Guanyu Zhou,alfa-romeo,DNF,6,17,1,20,1020.272167,1003.414934,-16.857233,0.0,0.337145,50.0,20

@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,oscar-piastri,Oscar Piastri,mclaren,1,57,4,0,1,1372.385195,1384.742793,12.357599,1.0,0.752848,50.0,20
-2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,lando-norris,Lando Norris,mclaren,2,57,2,0,2,1431.300825,1438.417239,7.116414,0.947368,0.80504,50.0,20
-2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,george-russell,George Russell,mercedes,3,57,5,0,3,1358.205573,1365.977653,7.77208,0.894737,0.739295,50.0,20
-2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,max-verstappen,Max Verstappen,red-bull,4,57,1,0,4,1542.818513,1540.673791,-2.144722,0.842105,0.885,50.0,20
-2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,alexander-albon,Alexander Albon,williams,5,57,7,0,5,1056.45937,1076.544079,20.084709,0.789474,0.38778,50.0,20
-2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,kimi-antonelli,Kimi Antonelli,mercedes,6,57,3,0,6,1084.393487,1100.115062,15.721576,0.736842,0.422411,50.0,20
-2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,charles-leclerc,Charles Leclerc,ferrari,7,57,8,0,7,1374.21462,1370.696687,-3.517932,0.684211,0.754569,50.0,20
-2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,lewis-hamilton,Lewis Hamilton,ferrari,8,57,12,0,8,1288.385049,1286.59725,-1.787799,0.631579,0.667335,50.0,20
-2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,carlos-sainz-jr,Carlos Sainz Jr.,williams,9,57,6,0,9,1246.163743,1244.110674,-2.053069,0.578947,0.620009,50.0,20
-2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,yuki-tsunoda,Yuki Tsunoda,red-bull,10,57,10,0,10,1024.852059,1033.702865,8.850806,0.526316,0.3493,50.0,20
-2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,isack-hadjar,Isack Hadjar,racing-bulls,11,57,11,0,11,1022.577574,1028.933267,6.355693,0.473684,0.34657,50.0,20
-2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,esteban-ocon,Esteban Ocon,haas,12,57,9,0,12,1053.851552,1055.675632,1.82408,0.421053,0.384571,50.0,20
-2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,pierre-gasly,Pierre Gasly,alpine,13,57,PL,0,13,1068.057569,1066.373321,-1.684248,0.368421,0.402106,50.0,20
-2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,nico-hulkenberg,Nico Hülkenberg,kick-sauber,14,56,16,0,14,1048.09099,1045.005337,-3.085654,0.315789,0.377503,50.0,20
-2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,fernando-alonso,Fernando Alonso,aston-martin,15,56,17,0,15,1123.622434,1113.208277,-10.414157,0.263158,0.471441,50.0,20
-2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,lance-stroll,Lance Stroll,aston-martin,16,56,18,0,16,1020.180349,1013.521644,-6.658705,0.210526,0.3437,50.0,20
-2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,liam-lawson,Liam Lawson,racing-bulls,DNF,36,15,1,17,1007.430595,998.897373,-8.533222,0.157895,0.328559,50.0,20
-2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,DNF,30,13,1,18,963.070034,954.443157,-8.626877,0.105263,0.277801,50.0,20
-2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,oliver-bearman,Oliver Bearman,haas,DNF,27,19,1,19,1057.21131,1040.407611,-16.803699,0.052632,0.388706,50.0,20
-2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,jack-doohan,Jack Doohan,alpine,DNF,0,14,1,20,978.832857,964.059986,-14.772872,0.0,0.295457,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,1131,oscar-piastri,Oscar Piastri,mclaren,1,57,4,0,1,1372.385195,1384.742793,12.357599,1.0,0.752848,50.0,20
+2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,1131,lando-norris,Lando Norris,mclaren,2,57,2,0,2,1431.300825,1438.417239,7.116414,0.947368,0.80504,50.0,20
+2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,1131,george-russell,George Russell,mercedes,3,57,5,0,3,1358.205573,1365.977653,7.77208,0.894737,0.739295,50.0,20
+2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,1131,max-verstappen,Max Verstappen,red-bull,4,57,1,0,4,1542.818513,1540.673791,-2.144722,0.842105,0.885,50.0,20
+2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,1131,alexander-albon,Alexander Albon,williams,5,57,7,0,5,1056.45937,1076.544079,20.084709,0.789474,0.38778,50.0,20
+2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,1131,kimi-antonelli,Kimi Antonelli,mercedes,6,57,3,0,6,1084.393487,1100.115062,15.721576,0.736842,0.422411,50.0,20
+2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,1131,charles-leclerc,Charles Leclerc,ferrari,7,57,8,0,7,1374.21462,1370.696687,-3.517932,0.684211,0.754569,50.0,20
+2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,1131,lewis-hamilton,Lewis Hamilton,ferrari,8,57,12,0,8,1288.385049,1286.59725,-1.787799,0.631579,0.667335,50.0,20
+2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,1131,carlos-sainz-jr,Carlos Sainz Jr.,williams,9,57,6,0,9,1246.163743,1244.110674,-2.053069,0.578947,0.620009,50.0,20
+2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,1131,yuki-tsunoda,Yuki Tsunoda,red-bull,10,57,10,0,10,1024.852059,1033.702865,8.850806,0.526316,0.3493,50.0,20
+2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,1131,isack-hadjar,Isack Hadjar,racing-bulls,11,57,11,0,11,1022.577574,1028.933267,6.355693,0.473684,0.34657,50.0,20
+2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,1131,esteban-ocon,Esteban Ocon,haas,12,57,9,0,12,1053.851552,1055.675632,1.82408,0.421053,0.384571,50.0,20
+2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,1131,pierre-gasly,Pierre Gasly,alpine,13,57,PL,0,13,1068.057569,1066.373321,-1.684248,0.368421,0.402106,50.0,20
+2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,1131,nico-hulkenberg,Nico Hülkenberg,kick-sauber,14,56,16,0,14,1048.09099,1045.005337,-3.085654,0.315789,0.377503,50.0,20
+2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,1131,fernando-alonso,Fernando Alonso,aston-martin,15,56,17,0,15,1123.622434,1113.208277,-10.414157,0.263158,0.471441,50.0,20
+2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,1131,lance-stroll,Lance Stroll,aston-martin,16,56,18,0,16,1020.180349,1013.521644,-6.658705,0.210526,0.3437,50.0,20
+2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,1131,liam-lawson,Liam Lawson,racing-bulls,DNF,36,15,1,17,1007.430595,998.897373,-8.533222,0.157895,0.328559,50.0,20
+2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,1131,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,DNF,30,13,1,18,963.070034,954.443157,-8.626877,0.105263,0.277801,50.0,20
+2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,1131,oliver-bearman,Oliver Bearman,haas,DNF,27,19,1,19,1057.21131,1040.407611,-16.803699,0.052632,0.388706,50.0,20
+2025,6,2025-05-04,miami,Formula 1 Crypto.com Miami Grand Prix 2025,1131,jack-doohan,Jack Doohan,alpine,DNF,0,14,1,20,978.832857,964.059986,-14.772872,0.0,0.295457,50.0,20

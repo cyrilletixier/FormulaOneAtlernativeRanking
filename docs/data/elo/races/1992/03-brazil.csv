@@ -1,32 +1,32 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,nigel-mansell,Nigel Mansell,williams,1,71,1,0,1,1278.290915,1290.328167,12.037252,1.0,0.759255,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,riccardo-patrese,Riccardo Patrese,williams,2,71,2,0,2,1312.014756,1320.743665,8.728909,0.966667,0.792088,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,michael-schumacher,Michael Schumacher,benetton,3,70,5,0,3,1094.114002,1113.992171,19.878169,0.933333,0.53577,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,jean-alesi,Jean Alesi,ferrari,4,70,6,0,4,1127.758852,1143.725713,15.966862,0.9,0.580663,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,ivan-capelli,Ivan Capelli,ferrari,5,70,11,0,5,1039.972422,1060.182446,20.210024,0.866667,0.462466,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,michele-alboreto,Michele Alboreto,footwork,6,70,14,0,6,987.17431,1009.239739,22.065429,0.833333,0.392025,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,gianni-morbidelli,Gianni Morbidelli,minardi,7,69,23,0,7,1079.84649,1094.0214,14.17491,0.8,0.516502,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,jj-lehto,JJ Lehto,dallara,8,69,16,0,8,1066.47437,1079.888585,13.414215,0.766667,0.498382,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,ukyo-katayama,Ukyo Katayama,venturi,9,68,25,0,9,1021.074182,1035.890922,14.816739,0.733333,0.436999,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,mika-hakkinen,Mika Häkkinen,lotus,10,67,24,0,10,1080.441844,1089.576469,9.134625,0.7,0.517307,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,gabriele-tarquini,Gabriele Tarquini,fondmetal,DNF,62,19,1,11,879.61083,899.866339,20.255509,0.666667,0.261556,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,karl-wendlinger,Karl Wendlinger,march,DNF,55,9,1,12,975.493131,988.318085,12.824954,0.633333,0.376834,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,christian-fittipaldi,Christian Fittipaldi,minardi,DNF,54,20,1,13,991.569213,1001.679899,10.110686,0.6,0.397786,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,olivier-grouillard,Olivier Grouillard,tyrrell,DNF,52,17,1,14,935.635308,947.637041,12.001734,0.566667,0.326632,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,erik-comas,Érik Comas,ligier,DNF,42,15,1,15,1086.276102,1086.682964,0.406863,0.533333,0.525196,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,johnny-herbert,Johnny Herbert,lotus,DNF,36,26,1,16,1096.710488,1093.080546,-3.629942,0.466667,0.539266,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,mauricio-gugelmin,Maurício Gugelmin,jordan,DNF,36,21,1,17,1097.003753,1093.354083,-3.64967,0.466667,0.53966,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,thierry-boutsen,Thierry Boutsen,ligier,DNF,36,10,1,18,1155.770428,1148.248554,-7.521874,0.466667,0.617104,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,martin-brundle,Martin Brundle,benetton,DNF,30,7,1,19,1089.891132,1083.387291,-6.503841,0.4,0.530077,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,pierluigi-martini,Pierluigi Martini,dallara,DNF,24,8,1,20,1110.570097,1101.011072,-9.559025,0.366667,0.557847,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,bertrand-gachot,Bertrand Gachot,venturi,DNF,23,18,1,21,1003.794028,999.764181,-4.029847,0.333333,0.41393,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,andrea-de-cesaris,Andrea de Cesaris,tyrrell,DNF,21,13,1,22,1128.616923,1114.527236,-14.089687,0.3,0.581794,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,ayrton-senna,Ayrton Senna,mclaren,DNF,17,3,1,23,1358.772451,1330.473809,-28.298642,0.266667,0.83264,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,gerhard-berger,Gerhard Berger,mclaren,DNF,4,4,1,24,1253.499497,1228.503768,-24.995729,0.233333,0.733248,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,aguri-suzuki,Aguri Suzuki,footwork,DNF,2,22,1,25,965.259927,957.075492,-8.184435,0.2,0.363689,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,stefano-modena,Stefano Modena,jordan,DNF,1,12,1,26,1102.205963,1083.206802,-18.999161,0.166667,0.54665,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,roberto-moreno,Roberto Moreno,andrea-moda,DNPQ,,,1,27,1073.6515,1054.91256,-18.73894,0.133333,0.508112,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,andrea-chiesa,Andrea Chiesa,fondmetal,DNQ,,,2,28,986.308354,969.263735,-17.044619,0.05,0.390892,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,eric-van-de-poele,Eric van de Poele,brabham,DNQ,,,2,29,859.000545,849.523715,-9.476829,0.05,0.239537,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,giovanna-amati,Giovanna Amati,brabham,DNQ,,,2,30,964.75663,949.104312,-15.652319,0.05,0.363046,50.0,31
-1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,paul-belmondo,Paul Belmondo,march,DNQ,,,2,31,964.75663,949.104312,-15.652319,0.05,0.363046,50.0,31
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,nigel-mansell,Nigel Mansell,williams,1,71,1,0,1,1278.290915,1290.328167,12.037252,1.0,0.759255,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,riccardo-patrese,Riccardo Patrese,williams,2,71,2,0,2,1312.014756,1320.743665,8.728909,0.966667,0.792088,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,michael-schumacher,Michael Schumacher,benetton,3,70,5,0,3,1094.114002,1113.992171,19.878169,0.933333,0.53577,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,jean-alesi,Jean Alesi,ferrari,4,70,6,0,4,1127.758852,1143.725713,15.966862,0.9,0.580663,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,ivan-capelli,Ivan Capelli,ferrari,5,70,11,0,5,1039.972422,1060.182446,20.210024,0.866667,0.462466,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,michele-alboreto,Michele Alboreto,footwork,6,70,14,0,6,987.17431,1009.239739,22.065429,0.833333,0.392025,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,gianni-morbidelli,Gianni Morbidelli,minardi,7,69,23,0,7,1079.84649,1094.0214,14.17491,0.8,0.516502,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,jj-lehto,JJ Lehto,dallara,8,69,16,0,8,1066.47437,1079.888585,13.414215,0.766667,0.498382,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,ukyo-katayama,Ukyo Katayama,venturi,9,68,25,0,9,1021.074182,1035.890922,14.816739,0.733333,0.436999,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,mika-hakkinen,Mika Häkkinen,lotus,10,67,24,0,10,1080.441844,1089.576469,9.134625,0.7,0.517307,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,gabriele-tarquini,Gabriele Tarquini,fondmetal,DNF,62,19,1,11,879.61083,899.866339,20.255509,0.666667,0.261556,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,karl-wendlinger,Karl Wendlinger,march,DNF,55,9,1,12,975.493131,988.318085,12.824954,0.633333,0.376834,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,christian-fittipaldi,Christian Fittipaldi,minardi,DNF,54,20,1,13,991.569213,1001.679899,10.110686,0.6,0.397786,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,olivier-grouillard,Olivier Grouillard,tyrrell,DNF,52,17,1,14,935.635308,947.637041,12.001734,0.566667,0.326632,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,erik-comas,Érik Comas,ligier,DNF,42,15,1,15,1086.276102,1086.682964,0.406863,0.533333,0.525196,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,johnny-herbert,Johnny Herbert,lotus,DNF,36,26,1,16,1096.710488,1093.080546,-3.629942,0.466667,0.539266,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,mauricio-gugelmin,Maurício Gugelmin,jordan,DNF,36,21,1,17,1097.003753,1093.354083,-3.64967,0.466667,0.53966,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,thierry-boutsen,Thierry Boutsen,ligier,DNF,36,10,1,18,1155.770428,1148.248554,-7.521874,0.466667,0.617104,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,martin-brundle,Martin Brundle,benetton,DNF,30,7,1,19,1089.891132,1083.387291,-6.503841,0.4,0.530077,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,pierluigi-martini,Pierluigi Martini,dallara,DNF,24,8,1,20,1110.570097,1101.011072,-9.559025,0.366667,0.557847,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,bertrand-gachot,Bertrand Gachot,venturi,DNF,23,18,1,21,1003.794028,999.764181,-4.029847,0.333333,0.41393,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,andrea-de-cesaris,Andrea de Cesaris,tyrrell,DNF,21,13,1,22,1128.616923,1114.527236,-14.089687,0.3,0.581794,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,ayrton-senna,Ayrton Senna,mclaren,DNF,17,3,1,23,1358.772451,1330.473809,-28.298642,0.266667,0.83264,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,gerhard-berger,Gerhard Berger,mclaren,DNF,4,4,1,24,1253.499497,1228.503768,-24.995729,0.233333,0.733248,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,aguri-suzuki,Aguri Suzuki,footwork,DNF,2,22,1,25,965.259927,957.075492,-8.184435,0.2,0.363689,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,stefano-modena,Stefano Modena,jordan,DNF,1,12,1,26,1102.205963,1083.206802,-18.999161,0.166667,0.54665,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,roberto-moreno,Roberto Moreno,andrea-moda,DNPQ,,,1,27,1073.6515,1054.91256,-18.73894,0.133333,0.508112,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,andrea-chiesa,Andrea Chiesa,fondmetal,DNQ,,,2,28,986.308354,969.263735,-17.044619,0.05,0.390892,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,eric-van-de-poele,Eric van de Poele,brabham,DNQ,,,2,29,859.000545,849.523715,-9.476829,0.05,0.239537,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,giovanna-amati,Giovanna Amati,brabham,DNQ,,,2,30,964.75663,949.104312,-15.652319,0.05,0.363046,50.0,31
+1992,3,1992-04-05,brazil,Grande Prêmio do Brasil 1992,519,paul-belmondo,Paul Belmondo,march,DNQ,,,2,31,964.75663,949.104312,-15.652319,0.05,0.363046,50.0,31

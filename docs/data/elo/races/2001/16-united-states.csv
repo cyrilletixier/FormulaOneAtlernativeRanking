@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,mika-hakkinen,Mika Häkkinen,mclaren,1,73,4,0,1,1162.286835,1181.194579,18.907744,1.0,0.621845,50.0,22
-2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,michael-schumacher,Michael Schumacher,ferrari,2,73,1,0,2,1352.736882,1358.849644,6.112763,0.952381,0.830126,50.0,22
-2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,david-coulthard,David Coulthard,mclaren,3,73,7,0,3,1245.180185,1254.24021,9.060026,0.904762,0.723561,50.0,22
-2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,jarno-trulli,Jarno Trulli,jordan,4,73,8,0,4,992.214931,1015.645346,23.430415,0.857143,0.388535,50.0,22
-2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,eddie-irvine,Eddie Irvine,jaguar,5,73,14,0,5,1019.786332,1038.95611,19.169779,0.809524,0.426128,50.0,22
-2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,nick-heidfeld,Nick Heidfeld,sauber,6,73,6,0,6,1008.026782,1025.62228,17.595498,0.761905,0.409995,50.0,22
-2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,jean-alesi,Jean Alesi,jordan,7,72,9,0,7,1096.632741,1105.69736,9.064619,0.714286,0.532993,50.0,22
-2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,benetton,8,72,12,0,8,1064.010655,1072.965134,8.954479,0.666667,0.487577,50.0,22
-2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,jenson-button,Jenson Button,benetton,9,72,10,0,9,1008.214131,1018.653973,10.439842,0.619048,0.410251,50.0,22
-2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,heinz-harald-frentzen,Heinz-Harald Frentzen,prost,10,72,15,0,10,1057.757184,1062.386081,4.628897,0.571429,0.478851,50.0,22
-2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,olivier-panis,Olivier Panis,bar,11,72,13,0,11,1043.849166,1047.06637,3.217204,0.52381,0.459465,50.0,22
-2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,jaguar,12,72,16,0,12,982.380315,987.42238,5.042065,0.47619,0.375349,50.0,22
-2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,enrique-bernoldi,Enrique Bernoldi,arrows,13,72,19,0,13,955.143052,959.590076,4.447024,0.428571,0.339631,50.0,22
-2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,tomas-enge,Tomáš Enge,prost,14,72,21,0,14,1003.829753,1002.663865,-1.165888,0.380952,0.40427,50.0,22
-2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,rubens-barrichello,Rubens Barrichello,ferrari,15,71,5,0,15,1263.780706,1243.237484,-20.543222,0.333333,0.744198,50.0,22
-2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,jacques-villeneuve,Jacques Villeneuve,bar,DNF,45,18,1,16,1135.98373,1120.926035,-15.057694,0.285714,0.586868,50.0,22
-2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,jos-verstappen,Jos Verstappen,arrows,DNF,44,20,1,17,1028.934177,1018.90097,-10.033207,0.238095,0.438759,50.0,22
-2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,alex-yoong,Alex Yoong,minardi,DNF,38,22,1,18,996.686895,985.291556,-11.39534,0.166667,0.394573,50.0,22
-2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,38,3,1,19,1049.297331,1034.278001,-15.01933,0.166667,0.467053,50.0,22
-2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,fernando-alonso,Fernando Alonso,minardi,DNF,36,17,1,20,951.303105,938.139404,-13.163701,0.071429,0.334703,50.0,22
-2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,ralf-schumacher,Ralf Schumacher,williams,DNF,36,2,1,21,1185.400326,1156.389606,-29.01072,0.071429,0.651643,50.0,22
-2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,kimi-raikkonen,Kimi Räikkönen,sauber,DNF,2,11,1,22,1068.344554,1043.663301,-24.681252,0.0,0.493625,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,679,mika-hakkinen,Mika Häkkinen,mclaren,1,73,4,0,1,1162.286835,1181.194579,18.907744,1.0,0.621845,50.0,22
+2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,679,michael-schumacher,Michael Schumacher,ferrari,2,73,1,0,2,1352.736882,1358.849644,6.112763,0.952381,0.830126,50.0,22
+2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,679,david-coulthard,David Coulthard,mclaren,3,73,7,0,3,1245.180185,1254.24021,9.060026,0.904762,0.723561,50.0,22
+2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,679,jarno-trulli,Jarno Trulli,jordan,4,73,8,0,4,992.214931,1015.645346,23.430415,0.857143,0.388535,50.0,22
+2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,679,eddie-irvine,Eddie Irvine,jaguar,5,73,14,0,5,1019.786332,1038.95611,19.169779,0.809524,0.426128,50.0,22
+2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,679,nick-heidfeld,Nick Heidfeld,sauber,6,73,6,0,6,1008.026782,1025.62228,17.595498,0.761905,0.409995,50.0,22
+2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,679,jean-alesi,Jean Alesi,jordan,7,72,9,0,7,1096.632741,1105.69736,9.064619,0.714286,0.532993,50.0,22
+2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,679,giancarlo-fisichella,Giancarlo Fisichella,benetton,8,72,12,0,8,1064.010655,1072.965134,8.954479,0.666667,0.487577,50.0,22
+2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,679,jenson-button,Jenson Button,benetton,9,72,10,0,9,1008.214131,1018.653973,10.439842,0.619048,0.410251,50.0,22
+2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,679,heinz-harald-frentzen,Heinz-Harald Frentzen,prost,10,72,15,0,10,1057.757184,1062.386081,4.628897,0.571429,0.478851,50.0,22
+2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,679,olivier-panis,Olivier Panis,bar,11,72,13,0,11,1043.849166,1047.06637,3.217204,0.52381,0.459465,50.0,22
+2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,679,pedro-de-la-rosa,Pedro de la Rosa,jaguar,12,72,16,0,12,982.380315,987.42238,5.042065,0.47619,0.375349,50.0,22
+2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,679,enrique-bernoldi,Enrique Bernoldi,arrows,13,72,19,0,13,955.143052,959.590076,4.447024,0.428571,0.339631,50.0,22
+2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,679,tomas-enge,Tomáš Enge,prost,14,72,21,0,14,1003.829753,1002.663865,-1.165888,0.380952,0.40427,50.0,22
+2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,679,rubens-barrichello,Rubens Barrichello,ferrari,15,71,5,0,15,1263.780706,1243.237484,-20.543222,0.333333,0.744198,50.0,22
+2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,679,jacques-villeneuve,Jacques Villeneuve,bar,DNF,45,18,1,16,1135.98373,1120.926035,-15.057694,0.285714,0.586868,50.0,22
+2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,679,jos-verstappen,Jos Verstappen,arrows,DNF,44,20,1,17,1028.934177,1018.90097,-10.033207,0.238095,0.438759,50.0,22
+2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,679,alex-yoong,Alex Yoong,minardi,DNF,38,22,1,18,996.686895,985.291556,-11.39534,0.166667,0.394573,50.0,22
+2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,679,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,38,3,1,19,1049.297331,1034.278001,-15.01933,0.166667,0.467053,50.0,22
+2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,679,fernando-alonso,Fernando Alonso,minardi,DNF,36,17,1,20,951.303105,938.139404,-13.163701,0.071429,0.334703,50.0,22
+2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,679,ralf-schumacher,Ralf Schumacher,williams,DNF,36,2,1,21,1185.400326,1156.389606,-29.01072,0.071429,0.651643,50.0,22
+2001,16,2001-09-30,united-states,2001 SAP United States Grand Prix,679,kimi-raikkonen,Kimi Räikkönen,sauber,DNF,2,11,1,22,1068.344554,1043.663301,-24.681252,0.0,0.493625,50.0,22

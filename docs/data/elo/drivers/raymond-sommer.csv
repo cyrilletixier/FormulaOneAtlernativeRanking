@@ -1,6 +1,6 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1950-05-21,1950,2,monaco,ferrari,Ferrari,4,97,21,1000.0,1017.712307,17.712307,0.85,0.495754,50.0
-1950-06-04,1950,4,switzerland,ferrari,Ferrari,DNF,19,18,1017.712307,1002.110712,-15.601594,0.205882,0.517914,50.0
-1950-06-18,1950,5,belgium,talbot-lago,Talbot-Lago,DNF,20,14,1002.110712,985.12113,-16.989582,0.153846,0.493638,50.0
-1950-07-02,1950,6,france,talbot-lago,Talbot-Lago,DNF,5,19,985.12113,964.490971,-20.630159,0.055556,0.468159,50.0
-1950-09-03,1950,7,italy,talbot-lago,Talbot-Lago,DNF,48,27,964.490971,973.355655,8.864684,0.615385,0.438091,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1950-05-21,1950,2,monaco,2,ferrari,Ferrari,4,97,21,1000.0,1017.712307,17.712307,0.85,0.495754,50.0
+1950-06-04,1950,4,switzerland,4,ferrari,Ferrari,DNF,19,18,1017.712307,1002.110712,-15.601594,0.205882,0.517914,50.0
+1950-06-18,1950,5,belgium,5,talbot-lago,Talbot-Lago,DNF,20,14,1002.110712,985.12113,-16.989582,0.153846,0.493638,50.0
+1950-07-02,1950,6,france,6,talbot-lago,Talbot-Lago,DNF,5,19,985.12113,964.490971,-20.630159,0.055556,0.468159,50.0
+1950-09-03,1950,7,italy,7,talbot-lago,Talbot-Lago,DNF,48,27,964.490971,973.355655,8.864684,0.615385,0.438091,50.0

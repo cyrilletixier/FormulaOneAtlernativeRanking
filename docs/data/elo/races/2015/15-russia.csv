@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,1,53,2,0,1,1443.792274,1452.049461,8.257187,1.0,0.834856,50.0,20
-2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,2,53,4,0,2,1420.66253,1427.234631,6.572101,0.947368,0.815926,50.0,20
-2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,sergio-perez,Sergio Pérez,force-india,3,53,7,0,3,1151.665858,1170.597329,18.931471,0.894737,0.516107,50.0,20
-2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,felipe-massa,Felipe Massa,williams,4,53,15,0,4,1219.779518,1231.739316,11.959798,0.842105,0.602909,50.0,20
-2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,daniil-kvyat,Daniil Kvyat,red-bull,5,53,11,0,5,1127.752185,1142.977224,15.225039,0.789474,0.484973,50.0,20
-2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,felipe-nasr,Felipe Nasr,sauber,6,53,12,0,6,1030.040153,1048.907192,18.867039,0.736842,0.359501,50.0,20
-2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,pastor-maldonado,Pastor Maldonado,lotus-f1,7,53,14,0,7,972.455852,992.133912,19.67806,0.684211,0.290649,50.0,20
-2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,8,53,5,0,8,1251.434333,1250.938531,-0.495802,0.631579,0.641495,50.0,20
-2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,jenson-button,Jenson Button,mclaren,9,53,13,0,9,1074.095089,1082.278509,8.18342,0.578947,0.415279,50.0,20
-2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,max-verstappen,Max Verstappen,toro-rosso,10,53,9,0,10,1065.584959,1071.682873,6.097914,0.526316,0.404358,50.0,20
-2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,fernando-alonso,Fernando Alonso,mclaren,11,53,19,0,11,1116.509908,1116.678573,0.168664,0.473684,0.470311,50.0,20
-2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,valtteri-bottas,Valtteri Bottas,williams,12,52,3,0,12,1268.089158,1256.082642,-12.006517,0.421053,0.661183,50.0,20
-2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,roberto-merhi,Roberto Merhi,marussia,13,52,18,0,13,958.694202,963.360112,4.66591,0.368421,0.275103,50.0,20
-2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,will-stevens,Will Stevens,marussia,14,51,17,0,14,930.196357,933.77485,3.578493,0.315789,0.24422,50.0,20
-2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,15,47,10,0,15,1213.632343,1197.02725,-16.605093,0.263158,0.59526,50.0,20
-2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,45,20,1,16,1035.19531,1027.425792,-7.769517,0.210526,0.365917,50.0,20
-2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,DNF,11,8,1,17,1084.677724,1071.125865,-13.551859,0.157895,0.428932,50.0,20
-2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,nico-rosberg,Nico Rosberg,mercedes,DNF,7,1,1,18,1400.140945,1365.499383,-34.641563,0.105263,0.798094,50.0,20
-2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,DNF,0,16,1,19,1010.693087,995.221068,-15.472019,0.026316,0.335756,50.0,20
-2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,DNF,0,6,1,20,1107.962232,1086.319505,-21.642727,0.026316,0.45917,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,931,lewis-hamilton,Lewis Hamilton,mercedes,1,53,2,0,1,1443.792274,1452.049461,8.257187,1.0,0.834856,50.0,20
+2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,931,sebastian-vettel,Sebastian Vettel,ferrari,2,53,4,0,2,1420.66253,1427.234631,6.572101,0.947368,0.815926,50.0,20
+2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,931,sergio-perez,Sergio Pérez,force-india,3,53,7,0,3,1151.665858,1170.597329,18.931471,0.894737,0.516107,50.0,20
+2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,931,felipe-massa,Felipe Massa,williams,4,53,15,0,4,1219.779518,1231.739316,11.959798,0.842105,0.602909,50.0,20
+2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,931,daniil-kvyat,Daniil Kvyat,red-bull,5,53,11,0,5,1127.752185,1142.977224,15.225039,0.789474,0.484973,50.0,20
+2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,931,felipe-nasr,Felipe Nasr,sauber,6,53,12,0,6,1030.040153,1048.907192,18.867039,0.736842,0.359501,50.0,20
+2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,931,pastor-maldonado,Pastor Maldonado,lotus-f1,7,53,14,0,7,972.455852,992.133912,19.67806,0.684211,0.290649,50.0,20
+2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,931,kimi-raikkonen,Kimi Räikkönen,ferrari,8,53,5,0,8,1251.434333,1250.938531,-0.495802,0.631579,0.641495,50.0,20
+2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,931,jenson-button,Jenson Button,mclaren,9,53,13,0,9,1074.095089,1082.278509,8.18342,0.578947,0.415279,50.0,20
+2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,931,max-verstappen,Max Verstappen,toro-rosso,10,53,9,0,10,1065.584959,1071.682873,6.097914,0.526316,0.404358,50.0,20
+2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,931,fernando-alonso,Fernando Alonso,mclaren,11,53,19,0,11,1116.509908,1116.678573,0.168664,0.473684,0.470311,50.0,20
+2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,931,valtteri-bottas,Valtteri Bottas,williams,12,52,3,0,12,1268.089158,1256.082642,-12.006517,0.421053,0.661183,50.0,20
+2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,931,roberto-merhi,Roberto Merhi,marussia,13,52,18,0,13,958.694202,963.360112,4.66591,0.368421,0.275103,50.0,20
+2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,931,will-stevens,Will Stevens,marussia,14,51,17,0,14,930.196357,933.77485,3.578493,0.315789,0.24422,50.0,20
+2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,931,daniel-ricciardo,Daniel Ricciardo,red-bull,15,47,10,0,15,1213.632343,1197.02725,-16.605093,0.263158,0.59526,50.0,20
+2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,931,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,45,20,1,16,1035.19531,1027.425792,-7.769517,0.210526,0.365917,50.0,20
+2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,931,romain-grosjean,Romain Grosjean,lotus-f1,DNF,11,8,1,17,1084.677724,1071.125865,-13.551859,0.157895,0.428932,50.0,20
+2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,931,nico-rosberg,Nico Rosberg,mercedes,DNF,7,1,1,18,1400.140945,1365.499383,-34.641563,0.105263,0.798094,50.0,20
+2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,931,marcus-ericsson,Marcus Ericsson,sauber,DNF,0,16,1,19,1010.693087,995.221068,-15.472019,0.026316,0.335756,50.0,20
+2015,15,2015-10-11,russia,2015 Formula 1 Russian Grand Prix,931,nico-hulkenberg,Nico Hülkenberg,force-india,DNF,0,6,1,20,1107.962232,1086.319505,-21.642727,0.026316,0.45917,50.0,20

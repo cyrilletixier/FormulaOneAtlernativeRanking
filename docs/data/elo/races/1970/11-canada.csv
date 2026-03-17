@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,jacky-ickx,Jacky Ickx,ferrari,1,90,2,0,1,1117.013716,1138.122977,21.109261,1.0,0.577815,50.0,20
-1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,clay-regazzoni,Clay Regazzoni,ferrari,2,90,3,0,2,1090.091094,1110.511837,20.420743,0.947368,0.538954,50.0,20
-1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,chris-amon,Chris Amon,march,3,90,6,0,3,1093.911403,1111.423096,17.511693,0.894737,0.544503,50.0,20
-1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,pedro-rodriguez,Pedro Rodríguez,brm,4,89,7,0,4,1091.769727,1106.805337,15.03561,0.842105,0.541393,50.0,20
-1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,john-surtees,John Surtees,surtees,5,89,5,0,5,1028.409769,1045.43211,17.022341,0.789474,0.449027,50.0,20
-1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,peter-gethin,Peter Gethin,mclaren,6,88,11,0,6,1001.49171,1017.814866,16.323156,0.736842,0.410379,50.0,20
-1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,henri-pescarolo,Henri Pescarolo,matra,7,87,8,0,7,1077.691682,1085.857709,8.166027,0.684211,0.52089,50.0,20
-1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,8,85,13,0,8,1127.461373,1129.405549,1.944176,0.631579,0.592695,50.0,20
-1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,francois-cevert,François Cevert,march,9,85,4,0,9,1028.121075,1034.638006,6.516931,0.578947,0.448609,50.0,20
-1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,george-eaton,George Eaton,brm,10,85,9,0,10,971.589948,979.477633,7.887685,0.526316,0.368562,50.0,20
-1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,tim-schenken,Tim Schenken,de-tomaso,NC,79,17,1,11,992.82328,996.601761,3.77848,0.473684,0.398115,50.0,20
-1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,graham-hill,Graham Hill,lotus,NC,77,20,1,12,1128.956241,1120.268217,-8.688024,0.421053,0.594813,50.0,20
-1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,andrea-de-adamich,Andrea de Adamich,mclaren,DNF,69,12,1,13,944.788837,946.586623,1.797786,0.368421,0.332465,50.0,20
-1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,ronnie-peterson,Ronnie Peterson,march,NC,65,16,1,14,1030.126902,1023.340627,-6.786275,0.315789,0.451515,50.0,20
-1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,denny-hulme,Denny Hulme,mclaren,DNF,58,15,1,15,1186.262871,1165.764704,-20.498167,0.263158,0.673121,50.0,20
-1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,jack-brabham,Jack Brabham,brabham,DNF,57,19,1,16,1126.840161,1107.775752,-19.064409,0.210526,0.591815,50.0,20
-1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,jackie-oliver,Jackie Oliver,brm,NC,52,10,1,17,970.528415,960.067897,-10.460518,0.157895,0.367105,50.0,20
-1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,jackie-stewart,Jackie Stewart,tyrrell,DNF,31,1,1,18,1172.550144,1145.06482,-27.485324,0.105263,0.65497,50.0,20
-1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,rolf-stommelen,Rolf Stommelen,brabham,DNF,23,18,1,19,1047.820032,1026.588832,-21.2312,0.052632,0.477256,50.0,20
-1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,jo-siffert,Jo Siffert,march,DNF,22,14,1,20,1040.09671,1016.796737,-23.299973,0.0,0.465999,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,195,jacky-ickx,Jacky Ickx,ferrari,1,90,2,0,1,1117.013716,1138.122977,21.109261,1.0,0.577815,50.0,20
+1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,195,clay-regazzoni,Clay Regazzoni,ferrari,2,90,3,0,2,1090.091094,1110.511837,20.420743,0.947368,0.538954,50.0,20
+1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,195,chris-amon,Chris Amon,march,3,90,6,0,3,1093.911403,1111.423096,17.511693,0.894737,0.544503,50.0,20
+1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,195,pedro-rodriguez,Pedro Rodríguez,brm,4,89,7,0,4,1091.769727,1106.805337,15.03561,0.842105,0.541393,50.0,20
+1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,195,john-surtees,John Surtees,surtees,5,89,5,0,5,1028.409769,1045.43211,17.022341,0.789474,0.449027,50.0,20
+1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,195,peter-gethin,Peter Gethin,mclaren,6,88,11,0,6,1001.49171,1017.814866,16.323156,0.736842,0.410379,50.0,20
+1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,195,henri-pescarolo,Henri Pescarolo,matra,7,87,8,0,7,1077.691682,1085.857709,8.166027,0.684211,0.52089,50.0,20
+1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,195,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,8,85,13,0,8,1127.461373,1129.405549,1.944176,0.631579,0.592695,50.0,20
+1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,195,francois-cevert,François Cevert,march,9,85,4,0,9,1028.121075,1034.638006,6.516931,0.578947,0.448609,50.0,20
+1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,195,george-eaton,George Eaton,brm,10,85,9,0,10,971.589948,979.477633,7.887685,0.526316,0.368562,50.0,20
+1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,195,tim-schenken,Tim Schenken,de-tomaso,NC,79,17,1,11,992.82328,996.601761,3.77848,0.473684,0.398115,50.0,20
+1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,195,graham-hill,Graham Hill,lotus,NC,77,20,1,12,1128.956241,1120.268217,-8.688024,0.421053,0.594813,50.0,20
+1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,195,andrea-de-adamich,Andrea de Adamich,mclaren,DNF,69,12,1,13,944.788837,946.586623,1.797786,0.368421,0.332465,50.0,20
+1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,195,ronnie-peterson,Ronnie Peterson,march,NC,65,16,1,14,1030.126902,1023.340627,-6.786275,0.315789,0.451515,50.0,20
+1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,195,denny-hulme,Denny Hulme,mclaren,DNF,58,15,1,15,1186.262871,1165.764704,-20.498167,0.263158,0.673121,50.0,20
+1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,195,jack-brabham,Jack Brabham,brabham,DNF,57,19,1,16,1126.840161,1107.775752,-19.064409,0.210526,0.591815,50.0,20
+1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,195,jackie-oliver,Jackie Oliver,brm,NC,52,10,1,17,970.528415,960.067897,-10.460518,0.157895,0.367105,50.0,20
+1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,195,jackie-stewart,Jackie Stewart,tyrrell,DNF,31,1,1,18,1172.550144,1145.06482,-27.485324,0.105263,0.65497,50.0,20
+1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,195,rolf-stommelen,Rolf Stommelen,brabham,DNF,23,18,1,19,1047.820032,1026.588832,-21.2312,0.052632,0.477256,50.0,20
+1970,11,1970-09-20,canada,Player's Canadian Grand Prix 1970,195,jo-siffert,Jo Siffert,march,DNF,22,14,1,20,1040.09671,1016.796737,-23.299973,0.0,0.465999,50.0,20

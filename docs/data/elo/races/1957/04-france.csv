@@ -1,16 +1,16 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1957,4,1957-07-07,france,Grand Prix de France 1957,juan-manuel-fangio,Juan Manuel Fangio,maserati,1,77,1,0,1,1318.351956,1325.765838,7.413883,1.0,0.851722,50.0,15
-1957,4,1957-07-07,france,Grand Prix de France 1957,luigi-musso,Luigi Musso,ferrari,2,77,3,0,2,1017.945203,1040.150788,22.205585,0.928571,0.48446,50.0,15
-1957,4,1957-07-07,france,Grand Prix de France 1957,peter-collins,Peter Collins,ferrari,3,77,5,0,3,1044.775344,1061.436328,16.660984,0.857143,0.523923,50.0,15
-1957,4,1957-07-07,france,Grand Prix de France 1957,mike-hawthorn,Mike Hawthorn,ferrari,4,76,7,0,4,1037.532586,1051.153782,13.621195,0.785714,0.51329,50.0,15
-1957,4,1957-07-07,france,Grand Prix de France 1957,harry-schell,Harry Schell,maserati,5,70,4,0,5,1010.595549,1022.627917,12.032368,0.714286,0.473638,50.0,15
-1957,4,1957-07-07,france,Grand Prix de France 1957,jean-behra,Jean Behra,maserati,6,70,2,0,6,1111.301014,1112.479975,1.178961,0.642857,0.619278,50.0,15
-1957,4,1957-07-07,france,Grand Prix de France 1957,jack-brabham,Jack Brabham,cooper,7,,,0,7,994.6393,998.915138,4.275839,0.535714,0.450198,50.0,15
-1957,4,1957-07-07,france,Grand Prix de France 1957,mike-macdowel,Mike MacDowel,cooper,7,68,15,0,8,1000.0,1003.882667,3.882667,0.535714,0.458061,50.0,15
-1957,4,1957-07-07,france,Grand Prix de France 1957,carlos-menditeguy,Carlos Menditéguy,maserati,DNF,30,9,1,9,983.008598,980.991559,-2.017039,0.392857,0.433198,50.0,15
-1957,4,1957-07-07,france,Grand Prix de France 1957,stuart-lewis-evans,Stuart Lewis-Evans,vanwall,DNF,30,10,1,10,1018.465503,1013.847059,-4.618444,0.392857,0.485226,50.0,15
-1957,4,1957-07-07,france,Grand Prix de France 1957,roy-salvadori,Roy Salvadori,vanwall,DNF,25,6,1,11,928.986169,925.460575,-3.525594,0.285714,0.356226,50.0,15
-1957,4,1957-07-07,france,Grand Prix de France 1957,herbert-mackay-fraser,Herbert MacKay-Fraser,brm,DNF,24,12,1,12,1000.0,987.811238,-12.188762,0.214286,0.458061,50.0,15
-1957,4,1957-07-07,france,Grand Prix de France 1957,maurice-trintignant,Maurice Trintignant,ferrari,DNF,23,8,1,13,1042.835737,1023.924688,-18.911049,0.142857,0.521078,50.0,15
-1957,4,1957-07-07,france,Grand Prix de France 1957,horace-gould,Horace Gould,maserati,DNF,4,14,1,14,981.098463,963.1491,-17.949362,0.071429,0.430416,50.0,15
-1957,4,1957-07-07,france,Grand Prix de France 1957,ron-flockhart,Ron Flockhart,brm,DNF,2,11,1,15,988.50836,966.44713,-22.06123,0.0,0.441225,50.0,15
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1957,4,1957-07-07,france,Grand Prix de France 1957,60,juan-manuel-fangio,Juan Manuel Fangio,maserati,1,77,1,0,1,1318.351956,1325.765838,7.413883,1.0,0.851722,50.0,15
+1957,4,1957-07-07,france,Grand Prix de France 1957,60,luigi-musso,Luigi Musso,ferrari,2,77,3,0,2,1017.945203,1040.150788,22.205585,0.928571,0.48446,50.0,15
+1957,4,1957-07-07,france,Grand Prix de France 1957,60,peter-collins,Peter Collins,ferrari,3,77,5,0,3,1044.775344,1061.436328,16.660984,0.857143,0.523923,50.0,15
+1957,4,1957-07-07,france,Grand Prix de France 1957,60,mike-hawthorn,Mike Hawthorn,ferrari,4,76,7,0,4,1037.532586,1051.153782,13.621195,0.785714,0.51329,50.0,15
+1957,4,1957-07-07,france,Grand Prix de France 1957,60,harry-schell,Harry Schell,maserati,5,70,4,0,5,1010.595549,1022.627917,12.032368,0.714286,0.473638,50.0,15
+1957,4,1957-07-07,france,Grand Prix de France 1957,60,jean-behra,Jean Behra,maserati,6,70,2,0,6,1111.301014,1112.479975,1.178961,0.642857,0.619278,50.0,15
+1957,4,1957-07-07,france,Grand Prix de France 1957,60,jack-brabham,Jack Brabham,cooper,7,,,0,7,994.6393,998.915138,4.275839,0.535714,0.450198,50.0,15
+1957,4,1957-07-07,france,Grand Prix de France 1957,60,mike-macdowel,Mike MacDowel,cooper,7,68,15,0,8,1000.0,1003.882667,3.882667,0.535714,0.458061,50.0,15
+1957,4,1957-07-07,france,Grand Prix de France 1957,60,carlos-menditeguy,Carlos Menditéguy,maserati,DNF,30,9,1,9,983.008598,980.991559,-2.017039,0.392857,0.433198,50.0,15
+1957,4,1957-07-07,france,Grand Prix de France 1957,60,stuart-lewis-evans,Stuart Lewis-Evans,vanwall,DNF,30,10,1,10,1018.465503,1013.847059,-4.618444,0.392857,0.485226,50.0,15
+1957,4,1957-07-07,france,Grand Prix de France 1957,60,roy-salvadori,Roy Salvadori,vanwall,DNF,25,6,1,11,928.986169,925.460575,-3.525594,0.285714,0.356226,50.0,15
+1957,4,1957-07-07,france,Grand Prix de France 1957,60,herbert-mackay-fraser,Herbert MacKay-Fraser,brm,DNF,24,12,1,12,1000.0,987.811238,-12.188762,0.214286,0.458061,50.0,15
+1957,4,1957-07-07,france,Grand Prix de France 1957,60,maurice-trintignant,Maurice Trintignant,ferrari,DNF,23,8,1,13,1042.835737,1023.924688,-18.911049,0.142857,0.521078,50.0,15
+1957,4,1957-07-07,france,Grand Prix de France 1957,60,horace-gould,Horace Gould,maserati,DNF,4,14,1,14,981.098463,963.1491,-17.949362,0.071429,0.430416,50.0,15
+1957,4,1957-07-07,france,Grand Prix de France 1957,60,ron-flockhart,Ron Flockhart,brm,DNF,2,11,1,15,988.50836,966.44713,-22.06123,0.0,0.441225,50.0,15

@@ -1,6 +1,6 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1958-05-18,1958,2,monaco,maserati,Maserati,DNQ,,30,1000.0,986.755125,-13.244875,0.224138,0.489035,50.0
-1958-06-15,1958,5,belgium,maserati,Maserati,10,22,20,986.755125,991.516271,4.761146,0.526316,0.431093,50.0
-1958-08-24,1958,9,portugal,maserati,Maserati,DNF,6,15,991.516271,970.241869,-21.274402,0.0,0.425488,50.0
-1958-09-07,1958,10,italy,maserati,Maserati,DNF,57,21,970.241869,979.670481,9.428612,0.6,0.411428,50.0
-1959-05-10,1959,1,monaco,behra-porsche,Behra-Porsche,DNQ,,24,979.670481,965.028418,-14.642063,0.152174,0.445015,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1958-05-18,1958,2,monaco,66,maserati,Maserati,DNQ,,30,1000.0,986.755125,-13.244875,0.224138,0.489035,50.0
+1958-06-15,1958,5,belgium,69,maserati,Maserati,10,22,20,986.755125,991.516271,4.761146,0.526316,0.431093,50.0
+1958-08-24,1958,9,portugal,73,maserati,Maserati,DNF,6,15,991.516271,970.241869,-21.274402,0.0,0.425488,50.0
+1958-09-07,1958,10,italy,74,maserati,Maserati,DNF,57,21,970.241869,979.670481,9.428612,0.6,0.411428,50.0
+1959-05-10,1959,1,monaco,76,behra-porsche,Behra-Porsche,DNQ,,24,979.670481,965.028418,-14.642063,0.152174,0.445015,50.0

@@ -1,33 +1,33 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,ayrton-senna,Ayrton Senna,mclaren,1,14,1,0,1,1375.728094,1383.793233,8.065139,1.0,0.838697,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,nigel-mansell,Nigel Mansell,williams,2,14,3,0,2,1239.589094,1252.624927,13.035833,0.967742,0.707025,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,gerhard-berger,Gerhard Berger,mclaren,3,14,2,0,3,1225.282686,1237.532053,12.249367,0.935484,0.690497,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,nelson-piquet,Nelson Piquet,benetton,4,14,5,0,4,1257.9263,1266.71156,8.78526,0.903226,0.727521,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,riccardo-patrese,Riccardo Patrese,williams,5,14,4,0,5,1288.035161,1293.614153,5.578992,0.870968,0.759388,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,gianni-morbidelli,Gianni Morbidelli,ferrari,6,14,8,0,6,1072.855138,1090.101123,17.245985,0.83871,0.49379,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,emanuele-pirro,Emanuele Pirro,dallara,7,14,13,0,7,1062.447456,1078.784699,16.337243,0.806452,0.479707,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,andrea-de-cesaris,Andrea de Cesaris,jordan,8,14,12,0,8,1112.197124,1123.563401,11.366277,0.774194,0.546868,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,alex-zanardi,Alex Zanardi,jordan,9,14,16,0,9,1016.097117,1032.318512,16.221396,0.741935,0.417508,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,stefano-modena,Stefano Modena,tyrrell,10,14,9,0,10,1134.383066,1141.046418,6.663352,0.709677,0.57641,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,johnny-herbert,Johnny Herbert,lotus,11,14,21,0,11,1056.38431,1066.679753,10.295444,0.677419,0.47151,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,jj-lehto,JJ Lehto,dallara,12,14,11,0,12,1045.199336,1054.636319,9.436983,0.645161,0.456422,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,michele-alboreto,Michele Alboreto,footwork,13,14,15,0,13,945.415128,959.70074,14.285612,0.612903,0.327191,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,mauricio-gugelmin,Maurício Gugelmin,leyton-house,14,13,14,0,14,1109.441144,1111.314825,1.873681,0.580645,0.543172,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,alex-caffi,Alex Caffi,footwork,15,13,23,0,15,961.007889,971.106095,10.098206,0.548387,0.346423,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,roberto-moreno,Roberto Moreno,minardi,16,13,18,0,16,1072.511277,1073.6515,1.140223,0.516129,0.493325,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,mark-blundell,Mark Blundell,brabham,17,13,17,0,17,1039.54423,1041.297058,1.752827,0.483871,0.448814,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,erik-comas,Érik Comas,ligier,18,13,22,0,18,1061.729683,1060.373527,-1.356156,0.451613,0.478736,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,mika-hakkinen,Mika Häkkinen,lotus,19,13,25,0,19,1053.589286,1051.170252,-2.419034,0.419355,0.467736,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,karl-wendlinger,Karl Wendlinger,leyton-house,20,12,26,0,20,994.245326,994.159655,-0.08567,0.387097,0.38881,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,pierluigi-martini,Pierluigi Martini,minardi,DNF,8,10,1,21,1130.511044,1119.688679,-10.822366,0.354839,0.571286,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,jean-alesi,Jean Alesi,ferrari,DNF,5,7,1,22,1167.208756,1149.961181,-17.247576,0.274194,0.619145,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,michael-schumacher,Michael Schumacher,benetton,DNF,5,6,1,23,1062.58487,1052.299917,-10.284953,0.274194,0.479893,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,nicola-larini,Nicola Larini,modena,DNF,5,19,1,24,941.78209,939.352874,-2.429216,0.274194,0.322778,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,thierry-boutsen,Thierry Boutsen,ligier,DNF,5,20,1,25,1173.511256,1155.861973,-17.649283,0.274194,0.627179,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,satoru-nakajima,Satoru Nakajima,tyrrell,DNF,4,24,1,26,1079.996982,1064.501622,-15.49536,0.193548,0.503456,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,gabriele-tarquini,Gabriele Tarquini,fondmetal,DNPQ,,,1,27,869.093394,864.313916,-4.779478,0.145161,0.240751,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,naoki-hattori,Naoki Hattori,coloni,DNPQ,,,1,28,987.793713,976.02922,-11.764493,0.145161,0.380451,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,aguri-suzuki,Aguri Suzuki,lola,DNQ,,,2,29,977.705699,961.750015,-15.955684,0.048387,0.367501,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,bertrand-gachot,Bertrand Gachot,lola,DNQ,,,2,30,1019.328739,1000.658329,-18.670411,0.048387,0.421795,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,eric-van-de-poele,Eric van de Poele,modena,DNQ,,,2,31,859.377855,850.257979,-9.119876,0.048387,0.230785,50.0,32
-1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,martin-brundle,Martin Brundle,brabham,DNQ,,,2,32,1133.6432,1107.290936,-26.352264,0.048387,0.575432,50.0,32
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,ayrton-senna,Ayrton Senna,mclaren,1,14,1,0,1,1375.728094,1383.793233,8.065139,1.0,0.838697,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,nigel-mansell,Nigel Mansell,williams,2,14,3,0,2,1239.589094,1252.624927,13.035833,0.967742,0.707025,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,gerhard-berger,Gerhard Berger,mclaren,3,14,2,0,3,1225.282686,1237.532053,12.249367,0.935484,0.690497,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,nelson-piquet,Nelson Piquet,benetton,4,14,5,0,4,1257.9263,1266.71156,8.78526,0.903226,0.727521,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,riccardo-patrese,Riccardo Patrese,williams,5,14,4,0,5,1288.035161,1293.614153,5.578992,0.870968,0.759388,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,gianni-morbidelli,Gianni Morbidelli,ferrari,6,14,8,0,6,1072.855138,1090.101123,17.245985,0.83871,0.49379,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,emanuele-pirro,Emanuele Pirro,dallara,7,14,13,0,7,1062.447456,1078.784699,16.337243,0.806452,0.479707,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,andrea-de-cesaris,Andrea de Cesaris,jordan,8,14,12,0,8,1112.197124,1123.563401,11.366277,0.774194,0.546868,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,alex-zanardi,Alex Zanardi,jordan,9,14,16,0,9,1016.097117,1032.318512,16.221396,0.741935,0.417508,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,stefano-modena,Stefano Modena,tyrrell,10,14,9,0,10,1134.383066,1141.046418,6.663352,0.709677,0.57641,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,johnny-herbert,Johnny Herbert,lotus,11,14,21,0,11,1056.38431,1066.679753,10.295444,0.677419,0.47151,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,jj-lehto,JJ Lehto,dallara,12,14,11,0,12,1045.199336,1054.636319,9.436983,0.645161,0.456422,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,michele-alboreto,Michele Alboreto,footwork,13,14,15,0,13,945.415128,959.70074,14.285612,0.612903,0.327191,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,mauricio-gugelmin,Maurício Gugelmin,leyton-house,14,13,14,0,14,1109.441144,1111.314825,1.873681,0.580645,0.543172,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,alex-caffi,Alex Caffi,footwork,15,13,23,0,15,961.007889,971.106095,10.098206,0.548387,0.346423,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,roberto-moreno,Roberto Moreno,minardi,16,13,18,0,16,1072.511277,1073.6515,1.140223,0.516129,0.493325,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,mark-blundell,Mark Blundell,brabham,17,13,17,0,17,1039.54423,1041.297058,1.752827,0.483871,0.448814,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,erik-comas,Érik Comas,ligier,18,13,22,0,18,1061.729683,1060.373527,-1.356156,0.451613,0.478736,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,mika-hakkinen,Mika Häkkinen,lotus,19,13,25,0,19,1053.589286,1051.170252,-2.419034,0.419355,0.467736,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,karl-wendlinger,Karl Wendlinger,leyton-house,20,12,26,0,20,994.245326,994.159655,-0.08567,0.387097,0.38881,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,pierluigi-martini,Pierluigi Martini,minardi,DNF,8,10,1,21,1130.511044,1119.688679,-10.822366,0.354839,0.571286,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,jean-alesi,Jean Alesi,ferrari,DNF,5,7,1,22,1167.208756,1149.961181,-17.247576,0.274194,0.619145,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,michael-schumacher,Michael Schumacher,benetton,DNF,5,6,1,23,1062.58487,1052.299917,-10.284953,0.274194,0.479893,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,nicola-larini,Nicola Larini,modena,DNF,5,19,1,24,941.78209,939.352874,-2.429216,0.274194,0.322778,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,thierry-boutsen,Thierry Boutsen,ligier,DNF,5,20,1,25,1173.511256,1155.861973,-17.649283,0.274194,0.627179,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,satoru-nakajima,Satoru Nakajima,tyrrell,DNF,4,24,1,26,1079.996982,1064.501622,-15.49536,0.193548,0.503456,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,gabriele-tarquini,Gabriele Tarquini,fondmetal,DNPQ,,,1,27,869.093394,864.313916,-4.779478,0.145161,0.240751,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,naoki-hattori,Naoki Hattori,coloni,DNPQ,,,1,28,987.793713,976.02922,-11.764493,0.145161,0.380451,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,aguri-suzuki,Aguri Suzuki,lola,DNQ,,,2,29,977.705699,961.750015,-15.955684,0.048387,0.367501,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,bertrand-gachot,Bertrand Gachot,lola,DNQ,,,2,30,1019.328739,1000.658329,-18.670411,0.048387,0.421795,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,eric-van-de-poele,Eric van de Poele,modena,DNQ,,,2,31,859.377855,850.257979,-9.119876,0.048387,0.230785,50.0,32
+1991,16,1991-11-03,australia,1991 Foster's Australian Grand Prix,516,martin-brundle,Martin Brundle,brabham,DNQ,,,2,32,1133.6432,1107.290936,-26.352264,0.048387,0.575432,50.0,32

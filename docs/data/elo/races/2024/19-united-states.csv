@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,charles-leclerc,Charles Leclerc,ferrari,1,56,4,0,1,1357.517453,1370.871242,13.353788,1.0,0.732924,50.0,20
-2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,2,56,3,0,2,1305.299561,1318.741647,13.442086,0.947368,0.678527,50.0,20
-2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,max-verstappen,Max Verstappen,red-bull,3,56,2,0,3,1548.37005,1548.759151,0.3891,0.894737,0.886955,50.0,20
-2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,lando-norris,Lando Norris,mclaren,4,56,1,0,4,1389.077836,1393.009491,3.931655,0.842105,0.763472,50.0,20
-2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,oscar-piastri,Oscar Piastri,mclaren,5,56,5,0,5,1333.557037,1337.604314,4.047277,0.789474,0.708528,50.0,20
-2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,george-russell,George Russell,mercedes,6,56,PL,0,6,1272.032411,1276.790717,4.758305,0.736842,0.641676,50.0,20
-2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,sergio-perez,Sergio Pérez,red-bull,7,56,9,0,7,1255.690997,1258.749566,3.058569,0.684211,0.623039,50.0,20
-2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,nico-hulkenberg,Nico Hülkenberg,haas,8,56,11,0,8,1067.632793,1079.411353,11.77856,0.631579,0.396008,50.0,20
-2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,liam-lawson,Liam Lawson,rb,9,56,19,0,9,1018.756244,1030.797553,12.041308,0.578947,0.338121,50.0,20
-2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,franco-colapinto,Franco Colapinto,williams,10,56,15,0,10,1028.092262,1036.958627,8.866365,0.526316,0.348988,50.0,20
-2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,kevin-magnussen,Kevin Magnussen,haas,11,56,8,0,11,965.848002,975.590442,9.74244,0.473684,0.278835,50.0,20
-2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,pierre-gasly,Pierre Gasly,alpine,12,56,6,0,12,1046.953186,1049.44397,2.490784,0.421053,0.371237,50.0,20
-2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,fernando-alonso,Fernando Alonso,aston-martin,13,55,7,0,13,1203.556837,1193.893658,-9.663179,0.368421,0.561685,50.0,20
-2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,yuki-tsunoda,Yuki Tsunoda,rb,14,55,10,0,14,1009.509263,1008.925516,-0.583747,0.315789,0.327464,50.0,20
-2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,lance-stroll,Lance Stroll,aston-martin,15,55,13,0,15,1065.380383,1058.873602,-6.506781,0.263158,0.393294,50.0,20
-2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,alexander-albon,Alexander Albon,williams,16,55,14,0,16,1033.039105,1025.826042,-7.213064,0.210526,0.354788,50.0,20
-2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,valtteri-bottas,Valtteri Bottas,kick-sauber,17,55,16,0,17,943.243275,938.3911,-4.852175,0.157895,0.254938,50.0,20
-2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,esteban-ocon,Esteban Ocon,alpine,18,55,12,0,18,1050.300798,1036.80283,-13.497968,0.105263,0.375223,50.0,20
-2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,guanyu-zhou,Guanyu Zhou,kick-sauber,19,55,18,0,19,926.561215,917.295734,-9.265481,0.052632,0.237941,50.0,20
-2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,lewis-hamilton,Lewis Hamilton,mercedes,DNF,1,17,1,20,1350.969403,1314.651558,-36.317845,0.0,0.726357,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,1120,charles-leclerc,Charles Leclerc,ferrari,1,56,4,0,1,1357.517453,1370.871242,13.353788,1.0,0.732924,50.0,20
+2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,1120,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,2,56,3,0,2,1305.299561,1318.741647,13.442086,0.947368,0.678527,50.0,20
+2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,1120,max-verstappen,Max Verstappen,red-bull,3,56,2,0,3,1548.37005,1548.759151,0.3891,0.894737,0.886955,50.0,20
+2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,1120,lando-norris,Lando Norris,mclaren,4,56,1,0,4,1389.077836,1393.009491,3.931655,0.842105,0.763472,50.0,20
+2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,1120,oscar-piastri,Oscar Piastri,mclaren,5,56,5,0,5,1333.557037,1337.604314,4.047277,0.789474,0.708528,50.0,20
+2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,1120,george-russell,George Russell,mercedes,6,56,PL,0,6,1272.032411,1276.790717,4.758305,0.736842,0.641676,50.0,20
+2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,1120,sergio-perez,Sergio Pérez,red-bull,7,56,9,0,7,1255.690997,1258.749566,3.058569,0.684211,0.623039,50.0,20
+2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,1120,nico-hulkenberg,Nico Hülkenberg,haas,8,56,11,0,8,1067.632793,1079.411353,11.77856,0.631579,0.396008,50.0,20
+2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,1120,liam-lawson,Liam Lawson,rb,9,56,19,0,9,1018.756244,1030.797553,12.041308,0.578947,0.338121,50.0,20
+2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,1120,franco-colapinto,Franco Colapinto,williams,10,56,15,0,10,1028.092262,1036.958627,8.866365,0.526316,0.348988,50.0,20
+2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,1120,kevin-magnussen,Kevin Magnussen,haas,11,56,8,0,11,965.848002,975.590442,9.74244,0.473684,0.278835,50.0,20
+2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,1120,pierre-gasly,Pierre Gasly,alpine,12,56,6,0,12,1046.953186,1049.44397,2.490784,0.421053,0.371237,50.0,20
+2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,1120,fernando-alonso,Fernando Alonso,aston-martin,13,55,7,0,13,1203.556837,1193.893658,-9.663179,0.368421,0.561685,50.0,20
+2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,1120,yuki-tsunoda,Yuki Tsunoda,rb,14,55,10,0,14,1009.509263,1008.925516,-0.583747,0.315789,0.327464,50.0,20
+2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,1120,lance-stroll,Lance Stroll,aston-martin,15,55,13,0,15,1065.380383,1058.873602,-6.506781,0.263158,0.393294,50.0,20
+2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,1120,alexander-albon,Alexander Albon,williams,16,55,14,0,16,1033.039105,1025.826042,-7.213064,0.210526,0.354788,50.0,20
+2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,1120,valtteri-bottas,Valtteri Bottas,kick-sauber,17,55,16,0,17,943.243275,938.3911,-4.852175,0.157895,0.254938,50.0,20
+2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,1120,esteban-ocon,Esteban Ocon,alpine,18,55,12,0,18,1050.300798,1036.80283,-13.497968,0.105263,0.375223,50.0,20
+2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,1120,guanyu-zhou,Guanyu Zhou,kick-sauber,19,55,18,0,19,926.561215,917.295734,-9.265481,0.052632,0.237941,50.0,20
+2024,19,2024-10-20,united-states,Formula 1 Pirelli United States Grand Prix 2024,1120,lewis-hamilton,Lewis Hamilton,mercedes,DNF,1,17,1,20,1350.969403,1314.651558,-36.317845,0.0,0.726357,50.0,20

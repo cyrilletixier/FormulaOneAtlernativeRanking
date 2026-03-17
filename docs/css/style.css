@@ -252,12 +252,9 @@ td a.driver-link:hover {
   stroke-width: 2.5;
 }
 
-.elo-band-a {
-  fill: var(--table-even-row);
-}
 
-.elo-band-b {
-  fill: var(--table-hover-row);
+.elo-band {
+  opacity: 0.9;
 }
 
 .elo-band-label {
@@ -271,9 +268,12 @@ td a.driver-link:hover {
   fill: rgba(0, 0, 0, 0.04);
 }
 
-.elo-dot {
-  fill: var(--accent-color);
-  opacity: 0.9;
+
+.elo-off-line {
+  fill: none;
+  stroke: rgba(44, 62, 80, 0.35);
+  stroke-width: 2;
+  stroke-dasharray: 6 4;
 }
 
 .elo-label {

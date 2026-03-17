@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,max-verstappen,Max Verstappen,red-bull,1,53,7,0,1,1446.856527,1455.13086,8.274332,1.0,0.834513,50.0,20
-2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,charles-leclerc,Charles Leclerc,ferrari,2,53,1,0,2,1276.220837,1290.316357,14.09552,0.947368,0.665458,50.0,20
-2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,george-russell,George Russell,mercedes,3,53,2,0,3,1230.896584,1245.073369,14.176785,0.894737,0.611201,50.0,20
-2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,4,53,18,0,4,1279.669523,1288.30183,8.632307,0.842105,0.669459,50.0,20
-2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,lewis-hamilton,Lewis Hamilton,mercedes,5,53,19,0,5,1449.91268,1447.539226,-2.373455,0.789474,0.836943,50.0,20
-2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,sergio-perez,Sergio Pérez,red-bull,6,53,13,0,6,1290.507916,1293.254918,2.747002,0.736842,0.681902,50.0,20
-2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,lando-norris,Lando Norris,mclaren,7,53,3,0,7,1225.753279,1229.720234,3.966955,0.684211,0.604871,50.0,20
-2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,pierre-gasly,Pierre Gasly,alphatauri,8,53,5,0,8,1116.818315,1125.076449,8.258134,0.631579,0.466416,50.0,20
-2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,nyck-de-vries,Nyck de Vries,williams,9,53,8,0,9,1000.0,1012.859271,12.859271,0.578947,0.321762,50.0,20
-2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,guanyu-zhou,Guanyu Zhou,alfa-romeo,10,53,9,0,10,978.710788,990.159956,11.449168,0.526316,0.297332,50.0,20
-2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,esteban-ocon,Esteban Ocon,alpine,11,53,14,0,11,1192.697071,1188.204024,-4.493047,0.473684,0.563545,50.0,20
-2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,mick-schumacher,Mick Schumacher,haas,12,53,17,0,12,945.640986,953.638981,7.997994,0.421053,0.261093,50.0,20
-2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,valtteri-bottas,Valtteri Bottas,alfa-romeo,13,52,15,0,13,1146.859713,1140.03005,-6.829664,0.368421,0.505014,50.0,20
-2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,yuki-tsunoda,Yuki Tsunoda,alphatauri,14,52,20,0,14,972.869403,974.120183,1.25078,0.315789,0.290774,50.0,20
-2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,nicholas-latifi,Nicholas Latifi,williams,15,52,10,0,15,900.651892,903.031803,2.379911,0.263158,0.21556,50.0,20
-2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,kevin-magnussen,Kevin Magnussen,haas,16,52,16,0,16,967.003241,963.316885,-3.686356,0.210526,0.284253,50.0,20
-2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,daniel-ricciardo,Daniel Ricciardo,mclaren,DNF,45,4,1,17,1110.060679,1095.06774,-14.992939,0.157895,0.457754,50.0,20
-2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,lance-stroll,Lance Stroll,aston-martin,DNF,39,12,1,18,1089.545278,1073.229942,-16.315336,0.105263,0.43157,50.0,20
-2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,fernando-alonso,Fernando Alonso,alpine,DNF,31,6,1,19,1185.446712,1160.360384,-25.086329,0.052632,0.554358,50.0,20
-2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,sebastian-vettel,Sebastian Vettel,aston-martin,DNF,10,11,1,20,1101.044065,1078.733031,-22.311034,0.0,0.446221,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,1073,max-verstappen,Max Verstappen,red-bull,1,53,7,0,1,1446.856527,1455.13086,8.274332,1.0,0.834513,50.0,20
+2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,1073,charles-leclerc,Charles Leclerc,ferrari,2,53,1,0,2,1276.220837,1290.316357,14.09552,0.947368,0.665458,50.0,20
+2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,1073,george-russell,George Russell,mercedes,3,53,2,0,3,1230.896584,1245.073369,14.176785,0.894737,0.611201,50.0,20
+2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,1073,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,4,53,18,0,4,1279.669523,1288.30183,8.632307,0.842105,0.669459,50.0,20
+2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,1073,lewis-hamilton,Lewis Hamilton,mercedes,5,53,19,0,5,1449.91268,1447.539226,-2.373455,0.789474,0.836943,50.0,20
+2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,1073,sergio-perez,Sergio Pérez,red-bull,6,53,13,0,6,1290.507916,1293.254918,2.747002,0.736842,0.681902,50.0,20
+2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,1073,lando-norris,Lando Norris,mclaren,7,53,3,0,7,1225.753279,1229.720234,3.966955,0.684211,0.604871,50.0,20
+2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,1073,pierre-gasly,Pierre Gasly,alphatauri,8,53,5,0,8,1116.818315,1125.076449,8.258134,0.631579,0.466416,50.0,20
+2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,1073,nyck-de-vries,Nyck de Vries,williams,9,53,8,0,9,1000.0,1012.859271,12.859271,0.578947,0.321762,50.0,20
+2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,1073,guanyu-zhou,Guanyu Zhou,alfa-romeo,10,53,9,0,10,978.710788,990.159956,11.449168,0.526316,0.297332,50.0,20
+2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,1073,esteban-ocon,Esteban Ocon,alpine,11,53,14,0,11,1192.697071,1188.204024,-4.493047,0.473684,0.563545,50.0,20
+2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,1073,mick-schumacher,Mick Schumacher,haas,12,53,17,0,12,945.640986,953.638981,7.997994,0.421053,0.261093,50.0,20
+2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,1073,valtteri-bottas,Valtteri Bottas,alfa-romeo,13,52,15,0,13,1146.859713,1140.03005,-6.829664,0.368421,0.505014,50.0,20
+2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,1073,yuki-tsunoda,Yuki Tsunoda,alphatauri,14,52,20,0,14,972.869403,974.120183,1.25078,0.315789,0.290774,50.0,20
+2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,1073,nicholas-latifi,Nicholas Latifi,williams,15,52,10,0,15,900.651892,903.031803,2.379911,0.263158,0.21556,50.0,20
+2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,1073,kevin-magnussen,Kevin Magnussen,haas,16,52,16,0,16,967.003241,963.316885,-3.686356,0.210526,0.284253,50.0,20
+2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,1073,daniel-ricciardo,Daniel Ricciardo,mclaren,DNF,45,4,1,17,1110.060679,1095.06774,-14.992939,0.157895,0.457754,50.0,20
+2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,1073,lance-stroll,Lance Stroll,aston-martin,DNF,39,12,1,18,1089.545278,1073.229942,-16.315336,0.105263,0.43157,50.0,20
+2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,1073,fernando-alonso,Fernando Alonso,alpine,DNF,31,6,1,19,1185.446712,1160.360384,-25.086329,0.052632,0.554358,50.0,20
+2022,16,2022-09-11,italy,Formula 1 Pirelli Gran Premio d'Italia 2022,1073,sebastian-vettel,Sebastian Vettel,aston-martin,DNF,10,11,1,20,1101.044065,1078.733031,-22.311034,0.0,0.446221,50.0,20

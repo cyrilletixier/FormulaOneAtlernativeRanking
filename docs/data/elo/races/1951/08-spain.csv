@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1951,8,1951-10-28,spain,Gran Premio de España 1951,juan-manuel-fangio,Juan Manuel Fangio,alfa-romeo,1,70,2,0,1,1111.110499,1129.246899,18.1364,1.0,0.637272,50.0,20
-1951,8,1951-10-28,spain,Gran Premio de España 1951,jose-froilan-gonzalez,José Froilán González,ferrari,2,70,3,0,2,1050.050472,1069.945773,19.895301,0.947368,0.549462,50.0,20
-1951,8,1951-10-28,spain,Gran Premio de España 1951,nino-farina,Nino Farina,alfa-romeo,3,70,4,0,3,1088.424869,1102.89688,14.472011,0.894737,0.605297,50.0,20
-1951,8,1951-10-28,spain,Gran Premio de España 1951,alberto-ascari,Alberto Ascari,ferrari,4,68,1,0,4,1098.566397,1109.686344,11.119947,0.842105,0.619706,50.0,20
-1951,8,1951-10-28,spain,Gran Premio de España 1951,felice-bonetto,Felice Bonetto,alfa-romeo,5,68,8,0,5,1017.153004,1031.594835,14.441831,0.789474,0.500637,50.0,20
-1951,8,1951-10-28,spain,Gran Premio de España 1951,emmanuel-de-graffenried,Emmanuel de Graffenried,alfa-romeo,6,66,6,0,6,961.956483,977.84458,15.888097,0.736842,0.41908,50.0,20
-1951,8,1951-10-28,spain,Gran Premio de España 1951,louis-rosier,Louis Rosier,talbot-lago,7,64,20,0,7,1069.258661,1074.587606,5.328946,0.684211,0.577632,50.0,20
-1951,8,1951-10-28,spain,Gran Premio de España 1951,philippe-etancelin,Philippe Étancelin,talbot-lago,8,63,13,0,8,969.912213,979.956588,10.044375,0.631579,0.430691,50.0,20
-1951,8,1951-10-28,spain,Gran Premio de España 1951,robert-manzon,Robert Manzon,simca-gordini,9,63,9,0,9,987.841739,993.934687,6.092948,0.578947,0.457088,50.0,20
-1951,8,1951-10-28,spain,Gran Premio de España 1951,paco-godia,Paco Godia,maserati,10,60,17,0,10,1000.0,1002.559941,2.559941,0.526316,0.475117,50.0,20
-1951,8,1951-10-28,spain,Gran Premio de España 1951,andre-simon,André Simon,simca-gordini,DNF,48,10,1,11,990.702018,990.004316,-0.697703,0.447368,0.461322,50.0,20
-1951,8,1951-10-28,spain,Gran Premio de España 1951,luigi-villoresi,Luigi Villoresi,ferrari,DNF,48,5,1,12,1062.530937,1056.508958,-6.021979,0.447368,0.567808,50.0,20
-1951,8,1951-10-28,spain,Gran Premio de España 1951,johnny-claes,Johnny Claes,talbot-lago,DNF,37,15,1,13,980.928042,977.005224,-3.922817,0.368421,0.446877,50.0,20
-1951,8,1951-10-28,spain,Gran Premio de España 1951,piero-taruffi,Piero Taruffi,ferrari,DNF,30,7,1,14,1031.800047,1021.468115,-10.331932,0.315789,0.522428,50.0,20
-1951,8,1951-10-28,spain,Gran Premio de España 1951,maurice-trintignant,Maurice Trintignant,simca-gordini,DNF,25,11,1,15,969.77775,961.410914,-8.366835,0.263158,0.430495,50.0,20
-1951,8,1951-10-28,spain,Gran Premio de España 1951,georges-grignard,Georges Grignard,talbot-lago,DNF,23,16,1,16,1000.0,986.770468,-13.229532,0.210526,0.475117,50.0,20
-1951,8,1951-10-28,spain,Gran Premio de España 1951,yves-giraud-cabantous,Yves Giraud-Cabantous,talbot-lago,DNF,7,14,1,17,990.875543,975.691305,-15.184238,0.157895,0.46158,50.0,20
-1951,8,1951-10-28,spain,Gran Premio de España 1951,louis-chiron,Louis Chiron,talbot-lago,DNF,4,12,1,18,954.798149,939.626351,-15.171798,0.105263,0.408699,50.0,20
-1951,8,1951-10-28,spain,Gran Premio de España 1951,birabongse-bhanudej,Birabongse Bhanudej,maserati,DNF,1,19,1,19,1002.326106,981.028994,-21.297112,0.052632,0.478574,50.0,20
-1951,8,1951-10-28,spain,Gran Premio de España 1951,juan-jover,Juan Jover,maserati,DNS,,18,2,20,1000.0,976.244152,-23.755848,0.0,0.475117,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1951,8,1951-10-28,spain,Gran Premio de España 1951,15,juan-manuel-fangio,Juan Manuel Fangio,alfa-romeo,1,70,2,0,1,1111.110499,1129.246899,18.1364,1.0,0.637272,50.0,20
+1951,8,1951-10-28,spain,Gran Premio de España 1951,15,jose-froilan-gonzalez,José Froilán González,ferrari,2,70,3,0,2,1050.050472,1069.945773,19.895301,0.947368,0.549462,50.0,20
+1951,8,1951-10-28,spain,Gran Premio de España 1951,15,nino-farina,Nino Farina,alfa-romeo,3,70,4,0,3,1088.424869,1102.89688,14.472011,0.894737,0.605297,50.0,20
+1951,8,1951-10-28,spain,Gran Premio de España 1951,15,alberto-ascari,Alberto Ascari,ferrari,4,68,1,0,4,1098.566397,1109.686344,11.119947,0.842105,0.619706,50.0,20
+1951,8,1951-10-28,spain,Gran Premio de España 1951,15,felice-bonetto,Felice Bonetto,alfa-romeo,5,68,8,0,5,1017.153004,1031.594835,14.441831,0.789474,0.500637,50.0,20
+1951,8,1951-10-28,spain,Gran Premio de España 1951,15,emmanuel-de-graffenried,Emmanuel de Graffenried,alfa-romeo,6,66,6,0,6,961.956483,977.84458,15.888097,0.736842,0.41908,50.0,20
+1951,8,1951-10-28,spain,Gran Premio de España 1951,15,louis-rosier,Louis Rosier,talbot-lago,7,64,20,0,7,1069.258661,1074.587606,5.328946,0.684211,0.577632,50.0,20
+1951,8,1951-10-28,spain,Gran Premio de España 1951,15,philippe-etancelin,Philippe Étancelin,talbot-lago,8,63,13,0,8,969.912213,979.956588,10.044375,0.631579,0.430691,50.0,20
+1951,8,1951-10-28,spain,Gran Premio de España 1951,15,robert-manzon,Robert Manzon,simca-gordini,9,63,9,0,9,987.841739,993.934687,6.092948,0.578947,0.457088,50.0,20
+1951,8,1951-10-28,spain,Gran Premio de España 1951,15,paco-godia,Paco Godia,maserati,10,60,17,0,10,1000.0,1002.559941,2.559941,0.526316,0.475117,50.0,20
+1951,8,1951-10-28,spain,Gran Premio de España 1951,15,andre-simon,André Simon,simca-gordini,DNF,48,10,1,11,990.702018,990.004316,-0.697703,0.447368,0.461322,50.0,20
+1951,8,1951-10-28,spain,Gran Premio de España 1951,15,luigi-villoresi,Luigi Villoresi,ferrari,DNF,48,5,1,12,1062.530937,1056.508958,-6.021979,0.447368,0.567808,50.0,20
+1951,8,1951-10-28,spain,Gran Premio de España 1951,15,johnny-claes,Johnny Claes,talbot-lago,DNF,37,15,1,13,980.928042,977.005224,-3.922817,0.368421,0.446877,50.0,20
+1951,8,1951-10-28,spain,Gran Premio de España 1951,15,piero-taruffi,Piero Taruffi,ferrari,DNF,30,7,1,14,1031.800047,1021.468115,-10.331932,0.315789,0.522428,50.0,20
+1951,8,1951-10-28,spain,Gran Premio de España 1951,15,maurice-trintignant,Maurice Trintignant,simca-gordini,DNF,25,11,1,15,969.77775,961.410914,-8.366835,0.263158,0.430495,50.0,20
+1951,8,1951-10-28,spain,Gran Premio de España 1951,15,georges-grignard,Georges Grignard,talbot-lago,DNF,23,16,1,16,1000.0,986.770468,-13.229532,0.210526,0.475117,50.0,20
+1951,8,1951-10-28,spain,Gran Premio de España 1951,15,yves-giraud-cabantous,Yves Giraud-Cabantous,talbot-lago,DNF,7,14,1,17,990.875543,975.691305,-15.184238,0.157895,0.46158,50.0,20
+1951,8,1951-10-28,spain,Gran Premio de España 1951,15,louis-chiron,Louis Chiron,talbot-lago,DNF,4,12,1,18,954.798149,939.626351,-15.171798,0.105263,0.408699,50.0,20
+1951,8,1951-10-28,spain,Gran Premio de España 1951,15,birabongse-bhanudej,Birabongse Bhanudej,maserati,DNF,1,19,1,19,1002.326106,981.028994,-21.297112,0.052632,0.478574,50.0,20
+1951,8,1951-10-28,spain,Gran Premio de España 1951,15,juan-jover,Juan Jover,maserati,DNS,,18,2,20,1000.0,976.244152,-23.755848,0.0,0.475117,50.0,20

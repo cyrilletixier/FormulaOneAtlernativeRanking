@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,1,56,1,0,1,1281.285316,1295.085716,13.800401,1.0,0.723992,50.0,20
-2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,felipe-massa,Felipe Massa,ferrari,2,56,3,0,2,1273.416201,1285.031266,11.615064,0.947368,0.715067,50.0,20
-2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,3,56,2,0,3,1244.364405,1255.052943,10.688538,0.894737,0.680966,50.0,20
-2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,fernando-alonso,Fernando Alonso,renault,4,56,4,0,4,1290.911089,1296.280469,5.36938,0.842105,0.734718,50.0,20
-2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,nick-heidfeld,Nick Heidfeld,bmw-sauber,5,56,9,0,5,1249.756537,1254.858902,5.102365,0.789474,0.687426,50.0,20
-2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,robert-kubica,Robert Kubica,bmw-sauber,6,56,11,0,6,1251.813027,1254.161381,2.348353,0.736842,0.689875,50.0,20
-2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,timo-glock,Timo Glock,toyota,7,56,12,0,7,1065.430127,1077.31364,11.883513,0.684211,0.44654,50.0,20
-2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,nelson-piquet-jr,Nelson Piquet Jr.,renault,8,56,10,0,8,1020.122818,1032.368399,12.245581,0.631579,0.386667,50.0,20
-2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,sebastian-vettel,Sebastian Vettel,toro-rosso,9,56,6,0,9,1066.228784,1072.795618,6.566834,0.578947,0.447611,50.0,20
-2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,david-coulthard,David Coulthard,red-bull,10,56,15,0,10,1019.796478,1026.800073,7.003595,0.526316,0.386244,50.0,20
-2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,rubens-barrichello,Rubens Barrichello,honda,11,56,13,0,11,998.119978,1003.881963,5.761985,0.473684,0.358445,50.0,20
-2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,kazuki-nakajima,Kazuki Nakajima,williams,12,56,17,0,12,1021.691595,1023.308987,1.617392,0.421053,0.388705,50.0,20
-2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,sebastien-bourdais,Sébastien Bourdais,toro-rosso,13,56,8,0,13,986.391541,987.627508,1.235967,0.368421,0.343702,50.0,20
-2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,mark-webber,Mark Webber,red-bull,14,56,16,0,14,1081.371499,1073.762647,-7.608853,0.315789,0.467967,50.0,20
-2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,nico-rosberg,Nico Rosberg,williams,15,55,14,0,15,1095.033678,1083.871584,-11.162094,0.263158,0.4864,50.0,20
-2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,jenson-button,Jenson Button,honda,16,55,18,0,16,1017.004617,1008.399589,-8.605028,0.210526,0.382627,50.0,20
-2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,force-india,17,55,20,0,17,978.159527,969.37957,-8.779958,0.157895,0.333494,50.0,20
-2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,heikki-kovalainen,Heikki Kovalainen,mclaren,DNF,49,5,1,18,1193.682419,1168.059693,-25.622726,0.105263,0.617718,50.0,20
-2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,adrian-sutil,Adrian Sutil,force-india,DNF,13,19,1,19,848.136802,841.167828,-6.968974,0.052632,0.192011,50.0,20
-2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,jarno-trulli,Jarno Trulli,toyota,DNF,2,7,1,20,1127.208646,1100.717309,-26.491337,0.0,0.529827,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,802,lewis-hamilton,Lewis Hamilton,mclaren,1,56,1,0,1,1281.285316,1295.085716,13.800401,1.0,0.723992,50.0,20
+2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,802,felipe-massa,Felipe Massa,ferrari,2,56,3,0,2,1273.416201,1285.031266,11.615064,0.947368,0.715067,50.0,20
+2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,802,kimi-raikkonen,Kimi Räikkönen,ferrari,3,56,2,0,3,1244.364405,1255.052943,10.688538,0.894737,0.680966,50.0,20
+2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,802,fernando-alonso,Fernando Alonso,renault,4,56,4,0,4,1290.911089,1296.280469,5.36938,0.842105,0.734718,50.0,20
+2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,802,nick-heidfeld,Nick Heidfeld,bmw-sauber,5,56,9,0,5,1249.756537,1254.858902,5.102365,0.789474,0.687426,50.0,20
+2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,802,robert-kubica,Robert Kubica,bmw-sauber,6,56,11,0,6,1251.813027,1254.161381,2.348353,0.736842,0.689875,50.0,20
+2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,802,timo-glock,Timo Glock,toyota,7,56,12,0,7,1065.430127,1077.31364,11.883513,0.684211,0.44654,50.0,20
+2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,802,nelson-piquet-jr,Nelson Piquet Jr.,renault,8,56,10,0,8,1020.122818,1032.368399,12.245581,0.631579,0.386667,50.0,20
+2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,802,sebastian-vettel,Sebastian Vettel,toro-rosso,9,56,6,0,9,1066.228784,1072.795618,6.566834,0.578947,0.447611,50.0,20
+2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,802,david-coulthard,David Coulthard,red-bull,10,56,15,0,10,1019.796478,1026.800073,7.003595,0.526316,0.386244,50.0,20
+2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,802,rubens-barrichello,Rubens Barrichello,honda,11,56,13,0,11,998.119978,1003.881963,5.761985,0.473684,0.358445,50.0,20
+2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,802,kazuki-nakajima,Kazuki Nakajima,williams,12,56,17,0,12,1021.691595,1023.308987,1.617392,0.421053,0.388705,50.0,20
+2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,802,sebastien-bourdais,Sébastien Bourdais,toro-rosso,13,56,8,0,13,986.391541,987.627508,1.235967,0.368421,0.343702,50.0,20
+2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,802,mark-webber,Mark Webber,red-bull,14,56,16,0,14,1081.371499,1073.762647,-7.608853,0.315789,0.467967,50.0,20
+2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,802,nico-rosberg,Nico Rosberg,williams,15,55,14,0,15,1095.033678,1083.871584,-11.162094,0.263158,0.4864,50.0,20
+2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,802,jenson-button,Jenson Button,honda,16,55,18,0,16,1017.004617,1008.399589,-8.605028,0.210526,0.382627,50.0,20
+2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,802,giancarlo-fisichella,Giancarlo Fisichella,force-india,17,55,20,0,17,978.159527,969.37957,-8.779958,0.157895,0.333494,50.0,20
+2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,802,heikki-kovalainen,Heikki Kovalainen,mclaren,DNF,49,5,1,18,1193.682419,1168.059693,-25.622726,0.105263,0.617718,50.0,20
+2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,802,adrian-sutil,Adrian Sutil,force-india,DNF,13,19,1,19,848.136802,841.167828,-6.968974,0.052632,0.192011,50.0,20
+2008,17,2008-10-19,china,2008 Formula 1 Sinopec Chinese Grand Prix,802,jarno-trulli,Jarno Trulli,toyota,DNF,2,7,1,20,1127.208646,1100.717309,-26.491337,0.0,0.529827,50.0,20

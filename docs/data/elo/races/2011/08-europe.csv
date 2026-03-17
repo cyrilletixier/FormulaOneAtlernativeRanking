@@ -1,25 +1,25 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,sebastian-vettel,Sebastian Vettel,red-bull,1,57,1,0,1,1367.994015,1377.408936,9.414921,1.0,0.811702,50.0,24
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,fernando-alonso,Fernando Alonso,ferrari,2,57,4,0,2,1286.965427,1298.090284,11.124857,0.956522,0.734025,50.0,24
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,mark-webber,Mark Webber,red-bull,3,57,2,0,3,1319.163768,1326.480847,7.317078,0.913043,0.766702,50.0,24
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,lewis-hamilton,Lewis Hamilton,mclaren,4,57,3,0,4,1267.775426,1275.579601,7.804176,0.869565,0.713482,50.0,24
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,felipe-massa,Felipe Massa,ferrari,5,57,5,0,5,1188.24491,1198.499952,10.255042,0.826087,0.620986,50.0,24
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,jenson-button,Jenson Button,mclaren,6,57,6,0,6,1327.832827,1328.208275,0.375448,0.782609,0.7751,50.0,24
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,nico-rosberg,Nico Rosberg,mercedes,7,57,7,0,7,1191.316265,1197.035446,5.719181,0.73913,0.624747,50.0,24
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,jaime-alguersuari,Jaime Alguersuari,toro-rosso,8,56,18,0,8,1021.068305,1035.5115,14.443195,0.695652,0.406788,50.0,24
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,adrian-sutil,Adrian Sutil,force-india,9,56,10,0,9,1055.823882,1065.858542,10.03466,0.652174,0.451481,50.0,24
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,nick-heidfeld,Nick Heidfeld,renault,10,56,9,0,10,1143.690666,1145.866683,2.176017,0.608696,0.565175,50.0,24
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,sergio-perez,Sergio Pérez,sauber,11,56,16,0,11,971.663522,982.664672,11.001149,0.565217,0.345194,50.0,24
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,rubens-barrichello,Rubens Barrichello,williams,12,56,13,0,12,1113.357628,1113.1353,-0.222329,0.521739,0.526186,50.0,24
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,sebastien-buemi,Sébastien Buemi,toro-rosso,13,56,17,0,13,1061.920355,1062.864185,0.943831,0.478261,0.459384,50.0,24
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,paul-di-resta,Paul di Resta,force-india,14,56,12,0,14,1016.054211,1017.772675,1.718465,0.434783,0.400413,50.0,24
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,vitaly-petrov,Vitaly Petrov,renault,15,56,11,0,15,1093.118387,1087.687051,-5.431336,0.391304,0.499931,50.0,24
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,kamui-kobayashi,Kamui Kobayashi,sauber,16,56,14,0,16,1099.503753,1091.483749,-8.020004,0.347826,0.508226,50.0,24
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,michael-schumacher,Michael Schumacher,mercedes,17,56,8,0,17,1186.883151,1171.134809,-15.748341,0.304348,0.619315,50.0,24
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,pastor-maldonado,Pastor Maldonado,williams,18,56,15,0,18,956.685057,953.369533,-3.315524,0.26087,0.32718,50.0,24
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,heikki-kovalainen,Heikki Kovalainen,lotus-racing,19,55,19,0,19,955.077796,949.683919,-5.393877,0.217391,0.325269,50.0,24
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,jarno-trulli,Jarno Trulli,lotus-racing,20,55,20,0,20,934.1833,927.836885,-6.346414,0.173913,0.300841,50.0,24
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,timo-glock,Timo Glock,virgin,21,55,21,0,21,920.871307,913.107454,-7.763853,0.130435,0.285712,50.0,24
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,jerome-dambrosio,Jérôme d'Ambrosio,virgin,22,55,23,0,22,972.995156,960.002334,-12.992823,0.086957,0.346813,50.0,24
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,vitantonio-liuzzi,Vitantonio Liuzzi,hrt,23,54,22,0,23,947.586991,933.93988,-13.647111,0.043478,0.31642,50.0,24
-2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,narain-karthikeyan,Narain Karthikeyan,hrt,24,54,24,0,24,905.712137,892.26573,-13.446406,0.0,0.268928,50.0,24
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,sebastian-vettel,Sebastian Vettel,red-bull,1,57,1,0,1,1367.994015,1377.408936,9.414921,1.0,0.811702,50.0,24
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,fernando-alonso,Fernando Alonso,ferrari,2,57,4,0,2,1286.965427,1298.090284,11.124857,0.956522,0.734025,50.0,24
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,mark-webber,Mark Webber,red-bull,3,57,2,0,3,1319.163768,1326.480847,7.317078,0.913043,0.766702,50.0,24
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,lewis-hamilton,Lewis Hamilton,mclaren,4,57,3,0,4,1267.775426,1275.579601,7.804176,0.869565,0.713482,50.0,24
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,felipe-massa,Felipe Massa,ferrari,5,57,5,0,5,1188.24491,1198.499952,10.255042,0.826087,0.620986,50.0,24
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,jenson-button,Jenson Button,mclaren,6,57,6,0,6,1327.832827,1328.208275,0.375448,0.782609,0.7751,50.0,24
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,nico-rosberg,Nico Rosberg,mercedes,7,57,7,0,7,1191.316265,1197.035446,5.719181,0.73913,0.624747,50.0,24
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,jaime-alguersuari,Jaime Alguersuari,toro-rosso,8,56,18,0,8,1021.068305,1035.5115,14.443195,0.695652,0.406788,50.0,24
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,adrian-sutil,Adrian Sutil,force-india,9,56,10,0,9,1055.823882,1065.858542,10.03466,0.652174,0.451481,50.0,24
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,nick-heidfeld,Nick Heidfeld,renault,10,56,9,0,10,1143.690666,1145.866683,2.176017,0.608696,0.565175,50.0,24
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,sergio-perez,Sergio Pérez,sauber,11,56,16,0,11,971.663522,982.664672,11.001149,0.565217,0.345194,50.0,24
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,rubens-barrichello,Rubens Barrichello,williams,12,56,13,0,12,1113.357628,1113.1353,-0.222329,0.521739,0.526186,50.0,24
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,sebastien-buemi,Sébastien Buemi,toro-rosso,13,56,17,0,13,1061.920355,1062.864185,0.943831,0.478261,0.459384,50.0,24
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,paul-di-resta,Paul di Resta,force-india,14,56,12,0,14,1016.054211,1017.772675,1.718465,0.434783,0.400413,50.0,24
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,vitaly-petrov,Vitaly Petrov,renault,15,56,11,0,15,1093.118387,1087.687051,-5.431336,0.391304,0.499931,50.0,24
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,kamui-kobayashi,Kamui Kobayashi,sauber,16,56,14,0,16,1099.503753,1091.483749,-8.020004,0.347826,0.508226,50.0,24
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,michael-schumacher,Michael Schumacher,mercedes,17,56,8,0,17,1186.883151,1171.134809,-15.748341,0.304348,0.619315,50.0,24
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,pastor-maldonado,Pastor Maldonado,williams,18,56,15,0,18,956.685057,953.369533,-3.315524,0.26087,0.32718,50.0,24
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,heikki-kovalainen,Heikki Kovalainen,lotus-racing,19,55,19,0,19,955.077796,949.683919,-5.393877,0.217391,0.325269,50.0,24
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,jarno-trulli,Jarno Trulli,lotus-racing,20,55,20,0,20,934.1833,927.836885,-6.346414,0.173913,0.300841,50.0,24
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,timo-glock,Timo Glock,virgin,21,55,21,0,21,920.871307,913.107454,-7.763853,0.130435,0.285712,50.0,24
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,jerome-dambrosio,Jérôme d'Ambrosio,virgin,22,55,23,0,22,972.995156,960.002334,-12.992823,0.086957,0.346813,50.0,24
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,vitantonio-liuzzi,Vitantonio Liuzzi,hrt,23,54,22,0,23,947.586991,933.93988,-13.647111,0.043478,0.31642,50.0,24
+2011,8,2011-06-26,europe,2011 Formula 1 Grand Prix of Europe,847,narain-karthikeyan,Narain Karthikeyan,hrt,24,54,24,0,24,905.712137,892.26573,-13.446406,0.0,0.268928,50.0,24

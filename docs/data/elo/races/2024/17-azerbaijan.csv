@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,oscar-piastri,Oscar Piastri,mclaren,1,51,2,0,1,1307.650442,1323.728841,16.078399,1.0,0.678432,50.0,20
-2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,charles-leclerc,Charles Leclerc,ferrari,2,51,1,0,2,1342.996543,1354.555387,11.558844,0.947368,0.716192,50.0,20
-2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,george-russell,George Russell,mercedes,3,51,5,0,3,1247.09008,1261.35914,14.26906,0.894737,0.609356,50.0,20
-2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,lando-norris,Lando Norris,mclaren,4,51,15,0,4,1371.849928,1376.68655,4.836622,0.842105,0.745373,50.0,20
-2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,max-verstappen,Max Verstappen,red-bull,5,51,6,0,5,1550.228244,1545.309192,-4.919052,0.789474,0.887855,50.0,20
-2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,fernando-alonso,Fernando Alonso,aston-martin,6,51,7,0,6,1189.919311,1199.740775,9.821464,0.736842,0.540413,50.0,20
-2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,alexander-albon,Alexander Albon,williams,7,51,9,0,7,1034.998448,1051.699396,16.700948,0.684211,0.350192,50.0,20
-2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,franco-colapinto,Franco Colapinto,williams,8,51,8,0,8,1005.481229,1021.266635,15.785406,0.631579,0.315871,50.0,20
-2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,lewis-hamilton,Lewis Hamilton,mercedes,9,51,PL,0,9,1358.063059,1350.429286,-7.633773,0.578947,0.731623,50.0,20
-2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,oliver-bearman,Oliver Bearman,haas,10,51,10,0,10,1017.658815,1027.48033,9.821515,0.526316,0.329885,50.0,20
-2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,nico-hulkenberg,Nico Hülkenberg,haas,11,51,12,0,11,1052.580395,1057.707198,5.126802,0.473684,0.371148,50.0,20
-2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,pierre-gasly,Pierre Gasly,alpine,12,51,18,0,12,1055.802742,1058.104166,2.301424,0.421053,0.375024,50.0,20
-2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,daniel-ricciardo,Daniel Ricciardo,rb,13,51,14,0,13,1065.247886,1064.346894,-0.900992,0.368421,0.386441,50.0,20
-2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,guanyu-zhou,Guanyu Zhou,kick-sauber,14,51,17,0,14,920.506251,925.030845,4.524594,0.315789,0.225298,50.0,20
-2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,esteban-ocon,Esteban Ocon,alpine,15,50,PL,0,15,1056.075797,1050.466038,-5.609758,0.263158,0.375353,50.0,20
-2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,valtteri-bottas,Valtteri Bottas,kick-sauber,16,50,16,0,16,947.477786,945.378354,-2.099432,0.210526,0.252515,50.0,20
-2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,sergio-perez,Sergio Pérez,red-bull,17,49,4,0,17,1285.570013,1260.773258,-24.796755,0.157895,0.65383,50.0,20
-2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,18,49,3,0,18,1335.118225,1304.983396,-30.134829,0.105263,0.70796,50.0,20
-2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,lance-stroll,Lance Stroll,aston-martin,19,45,13,0,19,1087.356082,1069.315623,-18.04046,0.052632,0.413441,50.0,20
-2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,yuki-tsunoda,Yuki Tsunoda,rb,DNF,14,11,1,20,1021.028306,1004.33828,-16.690026,0.0,0.333801,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,1118,oscar-piastri,Oscar Piastri,mclaren,1,51,2,0,1,1307.650442,1323.728841,16.078399,1.0,0.678432,50.0,20
+2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,1118,charles-leclerc,Charles Leclerc,ferrari,2,51,1,0,2,1342.996543,1354.555387,11.558844,0.947368,0.716192,50.0,20
+2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,1118,george-russell,George Russell,mercedes,3,51,5,0,3,1247.09008,1261.35914,14.26906,0.894737,0.609356,50.0,20
+2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,1118,lando-norris,Lando Norris,mclaren,4,51,15,0,4,1371.849928,1376.68655,4.836622,0.842105,0.745373,50.0,20
+2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,1118,max-verstappen,Max Verstappen,red-bull,5,51,6,0,5,1550.228244,1545.309192,-4.919052,0.789474,0.887855,50.0,20
+2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,1118,fernando-alonso,Fernando Alonso,aston-martin,6,51,7,0,6,1189.919311,1199.740775,9.821464,0.736842,0.540413,50.0,20
+2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,1118,alexander-albon,Alexander Albon,williams,7,51,9,0,7,1034.998448,1051.699396,16.700948,0.684211,0.350192,50.0,20
+2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,1118,franco-colapinto,Franco Colapinto,williams,8,51,8,0,8,1005.481229,1021.266635,15.785406,0.631579,0.315871,50.0,20
+2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,1118,lewis-hamilton,Lewis Hamilton,mercedes,9,51,PL,0,9,1358.063059,1350.429286,-7.633773,0.578947,0.731623,50.0,20
+2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,1118,oliver-bearman,Oliver Bearman,haas,10,51,10,0,10,1017.658815,1027.48033,9.821515,0.526316,0.329885,50.0,20
+2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,1118,nico-hulkenberg,Nico Hülkenberg,haas,11,51,12,0,11,1052.580395,1057.707198,5.126802,0.473684,0.371148,50.0,20
+2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,1118,pierre-gasly,Pierre Gasly,alpine,12,51,18,0,12,1055.802742,1058.104166,2.301424,0.421053,0.375024,50.0,20
+2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,1118,daniel-ricciardo,Daniel Ricciardo,rb,13,51,14,0,13,1065.247886,1064.346894,-0.900992,0.368421,0.386441,50.0,20
+2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,1118,guanyu-zhou,Guanyu Zhou,kick-sauber,14,51,17,0,14,920.506251,925.030845,4.524594,0.315789,0.225298,50.0,20
+2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,1118,esteban-ocon,Esteban Ocon,alpine,15,50,PL,0,15,1056.075797,1050.466038,-5.609758,0.263158,0.375353,50.0,20
+2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,1118,valtteri-bottas,Valtteri Bottas,kick-sauber,16,50,16,0,16,947.477786,945.378354,-2.099432,0.210526,0.252515,50.0,20
+2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,1118,sergio-perez,Sergio Pérez,red-bull,17,49,4,0,17,1285.570013,1260.773258,-24.796755,0.157895,0.65383,50.0,20
+2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,1118,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,18,49,3,0,18,1335.118225,1304.983396,-30.134829,0.105263,0.70796,50.0,20
+2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,1118,lance-stroll,Lance Stroll,aston-martin,19,45,13,0,19,1087.356082,1069.315623,-18.04046,0.052632,0.413441,50.0,20
+2024,17,2024-09-15,azerbaijan,Formula 1 Qatar Airways Azerbaijan Grand Prix 2024,1118,yuki-tsunoda,Yuki Tsunoda,rb,DNF,14,11,1,20,1021.028306,1004.33828,-16.690026,0.0,0.333801,50.0,20

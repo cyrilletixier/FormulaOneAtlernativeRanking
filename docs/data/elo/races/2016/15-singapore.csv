@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,nico-rosberg,Nico Rosberg,mercedes,1,61,1,0,1,1441.135936,1449.683879,8.547942,1.0,0.829041,50.0,22
-2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,2,61,2,0,2,1326.448656,1337.873565,11.424909,0.952381,0.723883,50.0,22
-2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,3,61,3,0,3,1486.364725,1488.476891,2.112166,0.904762,0.862519,50.0,22
-2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,4,61,5,0,4,1287.466636,1296.228041,8.761404,0.857143,0.681915,50.0,22
-2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,5,61,22,0,5,1348.13865,1351.317917,3.179267,0.809524,0.745938,50.0,22
-2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,max-verstappen,Max Verstappen,red-bull,6,61,4,0,6,1219.16045,1227.148552,7.988101,0.761905,0.602143,50.0,22
-2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,fernando-alonso,Fernando Alonso,mclaren,7,61,9,0,7,1091.746814,1105.396917,13.650103,0.714286,0.441284,50.0,22
-2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,sergio-perez,Sergio Pérez,force-india,8,61,17,0,8,1216.122522,1219.533754,3.411232,0.666667,0.598442,50.0,22
-2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,daniil-kvyat,Daniil Kvyat,toro-rosso,9,61,7,0,9,1063.714882,1074.37978,10.664898,0.619048,0.40575,50.0,22
-2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,kevin-magnussen,Kevin Magnussen,renault,10,61,15,0,10,1040.123352,1049.879957,9.756605,0.571429,0.376296,50.0,22
-2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,esteban-gutierrez,Esteban Gutiérrez,haas,11,60,13,0,11,1017.533547,1026.291273,8.757727,0.52381,0.348655,50.0,22
-2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,felipe-massa,Felipe Massa,williams,12,60,11,0,12,1138.886544,1137.618524,-1.26802,0.47619,0.501551,50.0,22
-2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,felipe-nasr,Felipe Nasr,sauber,13,60,16,0,13,978.59566,984.88781,6.29215,0.428571,0.302728,50.0,22
-2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,14,60,6,0,14,1080.043564,1077.77144,-2.272123,0.380952,0.426395,50.0,22
-2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,jolyon-palmer,Jolyon Palmer,renault,15,60,18,0,15,960.257398,962.823386,2.565988,0.333333,0.282014,50.0,22
-2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,pascal-wehrlein,Pascal Wehrlein,manor,16,60,19,0,16,941.571411,942.777255,1.205844,0.285714,0.261597,50.0,22
-2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,17,60,14,0,17,961.778533,959.497942,-2.280592,0.238095,0.283707,50.0,22
-2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,esteban-ocon,Esteban Ocon,manor,18,59,21,0,18,991.401387,985.047194,-6.354193,0.190476,0.31756,50.0,22
-2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,jenson-button,Jenson Button,mclaren,DNF,43,12,1,19,1070.739281,1057.151662,-13.587619,0.142857,0.41461,50.0,22
-2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,valtteri-bottas,Valtteri Bottas,williams,DNF,35,10,1,20,1252.947511,1225.585067,-27.362444,0.095238,0.642487,50.0,22
-2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,DNF,0,8,1,21,1148.715299,1125.391785,-23.323514,0.047619,0.514089,50.0,22
-2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,romain-grosjean,Romain Grosjean,haas,DNS,,20,2,22,1088.696061,1066.826228,-21.869832,0.0,0.437397,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,950,nico-rosberg,Nico Rosberg,mercedes,1,61,1,0,1,1441.135936,1449.683879,8.547942,1.0,0.829041,50.0,22
+2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,950,daniel-ricciardo,Daniel Ricciardo,red-bull,2,61,2,0,2,1326.448656,1337.873565,11.424909,0.952381,0.723883,50.0,22
+2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,950,lewis-hamilton,Lewis Hamilton,mercedes,3,61,3,0,3,1486.364725,1488.476891,2.112166,0.904762,0.862519,50.0,22
+2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,950,kimi-raikkonen,Kimi Räikkönen,ferrari,4,61,5,0,4,1287.466636,1296.228041,8.761404,0.857143,0.681915,50.0,22
+2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,950,sebastian-vettel,Sebastian Vettel,ferrari,5,61,22,0,5,1348.13865,1351.317917,3.179267,0.809524,0.745938,50.0,22
+2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,950,max-verstappen,Max Verstappen,red-bull,6,61,4,0,6,1219.16045,1227.148552,7.988101,0.761905,0.602143,50.0,22
+2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,950,fernando-alonso,Fernando Alonso,mclaren,7,61,9,0,7,1091.746814,1105.396917,13.650103,0.714286,0.441284,50.0,22
+2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,950,sergio-perez,Sergio Pérez,force-india,8,61,17,0,8,1216.122522,1219.533754,3.411232,0.666667,0.598442,50.0,22
+2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,950,daniil-kvyat,Daniil Kvyat,toro-rosso,9,61,7,0,9,1063.714882,1074.37978,10.664898,0.619048,0.40575,50.0,22
+2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,950,kevin-magnussen,Kevin Magnussen,renault,10,61,15,0,10,1040.123352,1049.879957,9.756605,0.571429,0.376296,50.0,22
+2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,950,esteban-gutierrez,Esteban Gutiérrez,haas,11,60,13,0,11,1017.533547,1026.291273,8.757727,0.52381,0.348655,50.0,22
+2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,950,felipe-massa,Felipe Massa,williams,12,60,11,0,12,1138.886544,1137.618524,-1.26802,0.47619,0.501551,50.0,22
+2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,950,felipe-nasr,Felipe Nasr,sauber,13,60,16,0,13,978.59566,984.88781,6.29215,0.428571,0.302728,50.0,22
+2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,950,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,14,60,6,0,14,1080.043564,1077.77144,-2.272123,0.380952,0.426395,50.0,22
+2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,950,jolyon-palmer,Jolyon Palmer,renault,15,60,18,0,15,960.257398,962.823386,2.565988,0.333333,0.282014,50.0,22
+2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,950,pascal-wehrlein,Pascal Wehrlein,manor,16,60,19,0,16,941.571411,942.777255,1.205844,0.285714,0.261597,50.0,22
+2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,950,marcus-ericsson,Marcus Ericsson,sauber,17,60,14,0,17,961.778533,959.497942,-2.280592,0.238095,0.283707,50.0,22
+2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,950,esteban-ocon,Esteban Ocon,manor,18,59,21,0,18,991.401387,985.047194,-6.354193,0.190476,0.31756,50.0,22
+2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,950,jenson-button,Jenson Button,mclaren,DNF,43,12,1,19,1070.739281,1057.151662,-13.587619,0.142857,0.41461,50.0,22
+2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,950,valtteri-bottas,Valtteri Bottas,williams,DNF,35,10,1,20,1252.947511,1225.585067,-27.362444,0.095238,0.642487,50.0,22
+2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,950,nico-hulkenberg,Nico Hülkenberg,force-india,DNF,0,8,1,21,1148.715299,1125.391785,-23.323514,0.047619,0.514089,50.0,22
+2016,15,2016-09-18,singapore,2016 Formula 1 Singapore Airlines Singapore Grand Prix,950,romain-grosjean,Romain Grosjean,haas,DNS,,20,2,22,1088.696061,1066.826228,-21.869832,0.0,0.437397,50.0,22

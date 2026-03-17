@@ -1,25 +1,25 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,jackie-stewart,Jackie Stewart,tyrrell,1,12,1,0,1,1204.773973,1218.845659,14.071685,1.0,0.718566,50.0,24
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,francois-cevert,François Cevert,tyrrell,2,12,5,0,2,1040.675685,1063.750247,23.074563,0.956522,0.49503,50.0,24
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,clay-regazzoni,Clay Regazzoni,ferrari,3,12,4,0,3,1092.081547,1109.280689,17.199142,0.913043,0.569061,50.0,24
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,mario-andretti,Mario Andretti,ferrari,4,12,11,0,4,946.189701,971.599365,25.409664,0.869565,0.361372,50.0,24
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,ronnie-peterson,Ronnie Peterson,march,5,12,7,0,5,1072.112931,1086.393619,14.280688,0.826087,0.540473,50.0,24
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,tim-schenken,Tim Schenken,brabham,6,12,9,0,6,1013.390921,1029.741026,16.350105,0.782609,0.455607,50.0,24
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,john-surtees,John Surtees,surtees,7,12,15,0,7,1084.296876,1093.355596,9.05872,0.73913,0.557956,50.0,24
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,reine-wisell,Reine Wisell,lotus,8,12,17,0,8,1031.837622,1042.508476,10.670854,0.695652,0.482235,50.0,24
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,graham-hill,Graham Hill,brabham,9,12,13,0,9,1026.446481,1035.333261,8.886781,0.652174,0.474438,50.0,24
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,rolf-stommelen,Rolf Stommelen,surtees,10,11,12,0,10,1030.317105,1036.750127,6.433021,0.608696,0.480035,50.0,24
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,vic-elford,Vic Elford,brm,11,11,18,0,11,1029.356447,1033.685032,4.328585,0.565217,0.478646,50.0,24
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,nanni-galli,Nanni Galli,march,12,10,21,0,12,956.404085,963.727499,7.323413,0.521739,0.375271,50.0,24
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,emerson-fittipaldi,Emerson Fittipaldi,lotus,DNF,8,8,1,13,1074.246351,1070.982284,-3.264067,0.478261,0.543542,50.0,24
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,chris-amon,Chris Amon,matra,DNF,6,16,1,14,1117.516293,1109.012564,-8.503729,0.434783,0.604857,50.0,24
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,henri-pescarolo,Henri Pescarolo,march,DNF,5,10,1,15,1097.408007,1087.05511,-10.352897,0.369565,0.576623,50.0,24
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,peter-gethin,Peter Gethin,mclaren,DNF,5,19,1,16,1011.671161,1007.492771,-4.17839,0.369565,0.453133,50.0,24
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,denny-hulme,Denny Hulme,mclaren,DNF,3,6,1,17,1143.649543,1126.836356,-16.813187,0.304348,0.640612,50.0,24
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,andrea-de-adamich,Andrea de Adamich,march,DNF,2,20,1,18,936.264875,930.818452,-5.446423,0.23913,0.348059,50.0,24
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,howden-ganley,Howden Ganley,brm,DNF,2,14,1,19,1023.765424,1012.193718,-11.571706,0.23913,0.470565,50.0,24
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,jacky-ickx,Jacky Ickx,ferrari,DNF,1,2,1,20,1162.995472,1138.379531,-24.615941,0.173913,0.666232,50.0,24
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,jo-siffert,Jo Siffert,brm,DSQ,6,3,2,21,1036.058804,1018.163298,-17.895507,0.130435,0.488345,50.0,24
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,mike-beuttler,Mike Beuttler,march,DSQ,3,22,2,22,984.861834,968.464884,-16.39695,0.086957,0.414896,50.0,24
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,helmut-marko,Helmut Marko,mclaren,DNQ,,,2,23,1000.0,979.26676,-20.73324,0.021739,0.436404,50.0,24
-1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,jo-bonnier,Jo Bonnier,mclaren,DNQ,,,2,24,951.109768,933.794582,-17.315186,0.021739,0.368043,50.0,24
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,jackie-stewart,Jackie Stewart,tyrrell,1,12,1,0,1,1204.773973,1218.845659,14.071685,1.0,0.718566,50.0,24
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,francois-cevert,François Cevert,tyrrell,2,12,5,0,2,1040.675685,1063.750247,23.074563,0.956522,0.49503,50.0,24
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,clay-regazzoni,Clay Regazzoni,ferrari,3,12,4,0,3,1092.081547,1109.280689,17.199142,0.913043,0.569061,50.0,24
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,mario-andretti,Mario Andretti,ferrari,4,12,11,0,4,946.189701,971.599365,25.409664,0.869565,0.361372,50.0,24
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,ronnie-peterson,Ronnie Peterson,march,5,12,7,0,5,1072.112931,1086.393619,14.280688,0.826087,0.540473,50.0,24
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,tim-schenken,Tim Schenken,brabham,6,12,9,0,6,1013.390921,1029.741026,16.350105,0.782609,0.455607,50.0,24
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,john-surtees,John Surtees,surtees,7,12,15,0,7,1084.296876,1093.355596,9.05872,0.73913,0.557956,50.0,24
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,reine-wisell,Reine Wisell,lotus,8,12,17,0,8,1031.837622,1042.508476,10.670854,0.695652,0.482235,50.0,24
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,graham-hill,Graham Hill,brabham,9,12,13,0,9,1026.446481,1035.333261,8.886781,0.652174,0.474438,50.0,24
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,rolf-stommelen,Rolf Stommelen,surtees,10,11,12,0,10,1030.317105,1036.750127,6.433021,0.608696,0.480035,50.0,24
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,vic-elford,Vic Elford,brm,11,11,18,0,11,1029.356447,1033.685032,4.328585,0.565217,0.478646,50.0,24
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,nanni-galli,Nanni Galli,march,12,10,21,0,12,956.404085,963.727499,7.323413,0.521739,0.375271,50.0,24
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,emerson-fittipaldi,Emerson Fittipaldi,lotus,DNF,8,8,1,13,1074.246351,1070.982284,-3.264067,0.478261,0.543542,50.0,24
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,chris-amon,Chris Amon,matra,DNF,6,16,1,14,1117.516293,1109.012564,-8.503729,0.434783,0.604857,50.0,24
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,henri-pescarolo,Henri Pescarolo,march,DNF,5,10,1,15,1097.408007,1087.05511,-10.352897,0.369565,0.576623,50.0,24
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,peter-gethin,Peter Gethin,mclaren,DNF,5,19,1,16,1011.671161,1007.492771,-4.17839,0.369565,0.453133,50.0,24
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,denny-hulme,Denny Hulme,mclaren,DNF,3,6,1,17,1143.649543,1126.836356,-16.813187,0.304348,0.640612,50.0,24
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,andrea-de-adamich,Andrea de Adamich,march,DNF,2,20,1,18,936.264875,930.818452,-5.446423,0.23913,0.348059,50.0,24
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,howden-ganley,Howden Ganley,brm,DNF,2,14,1,19,1023.765424,1012.193718,-11.571706,0.23913,0.470565,50.0,24
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,jacky-ickx,Jacky Ickx,ferrari,DNF,1,2,1,20,1162.995472,1138.379531,-24.615941,0.173913,0.666232,50.0,24
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,jo-siffert,Jo Siffert,brm,DSQ,6,3,2,21,1036.058804,1018.163298,-17.895507,0.130435,0.488345,50.0,24
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,mike-beuttler,Mike Beuttler,march,DSQ,3,22,2,22,984.861834,968.464884,-16.39695,0.086957,0.414896,50.0,24
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,helmut-marko,Helmut Marko,mclaren,DNQ,,,2,23,1000.0,979.26676,-20.73324,0.021739,0.436404,50.0,24
+1971,7,1971-08-01,germany,Grosser Preis von Deutschland 1971,204,jo-bonnier,Jo Bonnier,mclaren,DNQ,,,2,24,951.109768,933.794582,-17.315186,0.021739,0.368043,50.0,24

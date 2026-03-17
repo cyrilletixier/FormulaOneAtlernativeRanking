@@ -1,6 +1,6 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1954-07-04,1954,4,france,gordini,Gordini,DNF,8,22,1000.0,981.914132,-18.085868,0.095238,0.456955,50.0
-1954-10-24,1954,9,spain,gordini,Gordini,DNF,37,23,981.914132,980.938585,-0.975548,0.409091,0.428602,50.0
-1955-05-22,1955,2,monaco,gordini,Gordini,7,91,24,980.938585,994.348763,13.410179,0.695652,0.427449,50.0
-1955-06-19,1955,5,netherlands,gordini,Gordini,10,90,16,994.348763,992.116762,-2.232001,0.4,0.44464,50.0
-1955-09-11,1955,7,italy,gordini,Gordini,DNF,26,23,992.116762,988.865009,-3.251753,0.363636,0.428671,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1954-07-04,1954,4,france,36,gordini,Gordini,DNF,8,22,1000.0,981.914132,-18.085868,0.095238,0.456955,50.0
+1954-10-24,1954,9,spain,41,gordini,Gordini,DNF,37,23,981.914132,980.938585,-0.975548,0.409091,0.428602,50.0
+1955-05-22,1955,2,monaco,43,gordini,Gordini,7,91,24,980.938585,994.348763,13.410179,0.695652,0.427449,50.0
+1955-06-19,1955,5,netherlands,46,gordini,Gordini,10,90,16,994.348763,992.116762,-2.232001,0.4,0.44464,50.0
+1955-09-11,1955,7,italy,48,gordini,Gordini,DNF,26,23,992.116762,988.865009,-3.251753,0.363636,0.428671,50.0

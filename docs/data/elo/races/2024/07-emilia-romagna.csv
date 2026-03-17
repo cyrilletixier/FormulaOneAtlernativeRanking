@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,max-verstappen,Max Verstappen,red-bull,1,63,1,0,1,1559.97558,1565.069577,5.093997,1.0,0.89812,50.0,20
-2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,lando-norris,Lando Norris,mclaren,2,63,2,0,2,1323.980642,1336.099228,12.118585,0.947368,0.704997,50.0,20
-2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,charles-leclerc,Charles Leclerc,ferrari,3,63,3,0,3,1338.952375,1347.656869,8.704494,0.894737,0.720647,50.0,20
-2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,oscar-piastri,Oscar Piastri,mclaren,4,63,5,0,4,1168.09947,1184.056863,15.957393,0.842105,0.522957,50.0,20
-2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,5,63,4,0,5,1314.093671,1318.845266,4.751596,0.789474,0.694442,50.0,20
-2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,lewis-hamilton,Lewis Hamilton,mercedes,6,63,8,0,6,1293.772522,1297.003291,3.230769,0.736842,0.672227,50.0,20
-2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,george-russell,George Russell,mercedes,7,63,6,0,7,1254.34269,1257.187583,2.844892,0.684211,0.627313,50.0,20
-2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,sergio-perez,Sergio Pérez,red-bull,8,63,11,0,8,1380.806107,1374.278429,-6.527678,0.631579,0.762133,50.0,20
-2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,lance-stroll,Lance Stroll,aston-martin,9,63,13,0,9,1086.841375,1094.703389,7.862014,0.578947,0.421707,50.0,20
-2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,yuki-tsunoda,Yuki Tsunoda,rb,10,62,7,0,10,1042.585766,1050.520164,7.934398,0.526316,0.367628,50.0,20
-2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,nico-hulkenberg,Nico Hülkenberg,haas,11,62,10,0,11,1037.55495,1043.159521,5.60457,0.473684,0.361593,50.0,20
-2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,kevin-magnussen,Kevin Magnussen,haas,12,62,18,0,12,946.748185,954.855954,8.10777,0.421053,0.258897,50.0,20
-2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,daniel-ricciardo,Daniel Ricciardo,rb,13,62,9,0,13,1035.138092,1035.623969,0.485877,0.368421,0.358704,50.0,20
-2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,esteban-ocon,Esteban Ocon,alpine,14,62,12,0,14,1090.880388,1085.334344,-5.546043,0.315789,0.42671,50.0,20
-2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,guanyu-zhou,Guanyu Zhou,kick-sauber,15,62,17,0,15,979.336267,977.784966,-1.551301,0.263158,0.294184,50.0,20
-2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,pierre-gasly,Pierre Gasly,alpine,16,62,15,0,16,1074.917706,1065.094496,-9.82321,0.210526,0.406991,50.0,20
-2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,logan-sargeant,Logan Sargeant,williams,17,62,19,0,17,916.37723,912.875154,-3.502076,0.157895,0.227936,50.0,20
-2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,valtteri-bottas,Valtteri Bottas,kick-sauber,18,62,16,0,18,973.217378,964.110153,-9.107225,0.105263,0.287408,50.0,20
-2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,fernando-alonso,Fernando Alonso,aston-martin,19,62,PL,0,19,1249.321499,1220.881071,-28.440428,0.052632,0.62144,50.0,20
-2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,alexander-albon,Alexander Albon,williams,DNF,51,14,1,20,1039.537531,1021.33914,-18.198391,0.0,0.363968,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,1108,max-verstappen,Max Verstappen,red-bull,1,63,1,0,1,1559.97558,1565.069577,5.093997,1.0,0.89812,50.0,20
+2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,1108,lando-norris,Lando Norris,mclaren,2,63,2,0,2,1323.980642,1336.099228,12.118585,0.947368,0.704997,50.0,20
+2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,1108,charles-leclerc,Charles Leclerc,ferrari,3,63,3,0,3,1338.952375,1347.656869,8.704494,0.894737,0.720647,50.0,20
+2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,1108,oscar-piastri,Oscar Piastri,mclaren,4,63,5,0,4,1168.09947,1184.056863,15.957393,0.842105,0.522957,50.0,20
+2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,1108,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,5,63,4,0,5,1314.093671,1318.845266,4.751596,0.789474,0.694442,50.0,20
+2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,1108,lewis-hamilton,Lewis Hamilton,mercedes,6,63,8,0,6,1293.772522,1297.003291,3.230769,0.736842,0.672227,50.0,20
+2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,1108,george-russell,George Russell,mercedes,7,63,6,0,7,1254.34269,1257.187583,2.844892,0.684211,0.627313,50.0,20
+2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,1108,sergio-perez,Sergio Pérez,red-bull,8,63,11,0,8,1380.806107,1374.278429,-6.527678,0.631579,0.762133,50.0,20
+2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,1108,lance-stroll,Lance Stroll,aston-martin,9,63,13,0,9,1086.841375,1094.703389,7.862014,0.578947,0.421707,50.0,20
+2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,1108,yuki-tsunoda,Yuki Tsunoda,rb,10,62,7,0,10,1042.585766,1050.520164,7.934398,0.526316,0.367628,50.0,20
+2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,1108,nico-hulkenberg,Nico Hülkenberg,haas,11,62,10,0,11,1037.55495,1043.159521,5.60457,0.473684,0.361593,50.0,20
+2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,1108,kevin-magnussen,Kevin Magnussen,haas,12,62,18,0,12,946.748185,954.855954,8.10777,0.421053,0.258897,50.0,20
+2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,1108,daniel-ricciardo,Daniel Ricciardo,rb,13,62,9,0,13,1035.138092,1035.623969,0.485877,0.368421,0.358704,50.0,20
+2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,1108,esteban-ocon,Esteban Ocon,alpine,14,62,12,0,14,1090.880388,1085.334344,-5.546043,0.315789,0.42671,50.0,20
+2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,1108,guanyu-zhou,Guanyu Zhou,kick-sauber,15,62,17,0,15,979.336267,977.784966,-1.551301,0.263158,0.294184,50.0,20
+2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,1108,pierre-gasly,Pierre Gasly,alpine,16,62,15,0,16,1074.917706,1065.094496,-9.82321,0.210526,0.406991,50.0,20
+2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,1108,logan-sargeant,Logan Sargeant,williams,17,62,19,0,17,916.37723,912.875154,-3.502076,0.157895,0.227936,50.0,20
+2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,1108,valtteri-bottas,Valtteri Bottas,kick-sauber,18,62,16,0,18,973.217378,964.110153,-9.107225,0.105263,0.287408,50.0,20
+2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,1108,fernando-alonso,Fernando Alonso,aston-martin,19,62,PL,0,19,1249.321499,1220.881071,-28.440428,0.052632,0.62144,50.0,20
+2024,7,2024-05-19,emilia-romagna,Formula 1 MSC Cruises Gran Premio dell'Emilia Romagna 2024,1108,alexander-albon,Alexander Albon,williams,DNF,51,14,1,20,1039.537531,1021.33914,-18.198391,0.0,0.363968,50.0,20

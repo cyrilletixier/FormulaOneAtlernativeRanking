@@ -1,5 +1,5 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1965-01-01,1965,1,south-africa,lds,LDS,DNPQ,,28,1000.0,989.190489,-10.809511,0.222222,0.438412,50.0
-1968-01-01,1968,1,south-africa,brabham,Brabham,NC,70,23,989.190489,998.596523,9.406035,0.590909,0.402788,50.0
-1971-03-06,1971,1,south-africa,brabham,Brabham,DNF,22,25,998.596523,982.714858,-15.881666,0.125,0.442633,50.0
-1973-03-03,1973,3,south-africa,iso-marlboro,Iso-Marlboro,DNF,35,25,982.714858,976.431044,-6.283814,0.291667,0.417343,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1965-01-01,1965,1,south-africa,132,lds,LDS,DNPQ,,28,1000.0,989.190489,-10.809511,0.222222,0.438412,50.0
+1968-01-01,1968,1,south-africa,162,brabham,Brabham,NC,70,23,989.190489,998.596523,9.406035,0.590909,0.402788,50.0
+1971-03-06,1971,1,south-africa,198,brabham,Brabham,DNF,22,25,998.596523,982.714858,-15.881666,0.125,0.442633,50.0
+1973-03-03,1973,3,south-africa,223,iso-marlboro,Iso-Marlboro,DNF,35,25,982.714858,976.431044,-6.283814,0.291667,0.417343,50.0

@@ -1,8 +1,8 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1962-07-21,1962,5,great-britain,emeryson,Emeryson,11,71,21,1000.0,1002.811286,2.811286,0.5,0.443774,50.0
-1962-09-16,1962,7,italy,emeryson,Emeryson,DNF,18,30,1002.811286,998.741297,-4.069989,0.37931,0.46071,50.0
-1963-06-09,1963,2,belgium,scirocco,Scirocco,8,25,20,998.741297,1009.627331,10.886034,0.631579,0.413858,50.0
-1963-06-30,1963,4,france,scirocco,Scirocco,DNF,5,21,1009.627331,995.663749,-13.963583,0.15,0.429272,50.0
-1963-07-20,1963,5,great-britain,scirocco,Scirocco,DNF,20,23,995.663749,976.712095,-18.951654,0.045455,0.424488,50.0
-1963-08-04,1963,6,germany,scirocco,Scirocco,DNF,5,26,976.712095,977.068462,0.356367,0.42,0.412873,50.0
-1963-09-08,1963,7,italy,scirocco,Scirocco,DNQ,,28,977.068462,964.397437,-12.671025,0.148148,0.401569,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1962-07-21,1962,5,great-britain,107,emeryson,Emeryson,11,71,21,1000.0,1002.811286,2.811286,0.5,0.443774,50.0
+1962-09-16,1962,7,italy,109,emeryson,Emeryson,DNF,18,30,1002.811286,998.741297,-4.069989,0.37931,0.46071,50.0
+1963-06-09,1963,2,belgium,113,scirocco,Scirocco,8,25,20,998.741297,1009.627331,10.886034,0.631579,0.413858,50.0
+1963-06-30,1963,4,france,115,scirocco,Scirocco,DNF,5,21,1009.627331,995.663749,-13.963583,0.15,0.429272,50.0
+1963-07-20,1963,5,great-britain,116,scirocco,Scirocco,DNF,20,23,995.663749,976.712095,-18.951654,0.045455,0.424488,50.0
+1963-08-04,1963,6,germany,117,scirocco,Scirocco,DNF,5,26,976.712095,977.068462,0.356367,0.42,0.412873,50.0
+1963-09-08,1963,7,italy,118,scirocco,Scirocco,DNQ,,28,977.068462,964.397437,-12.671025,0.148148,0.401569,50.0

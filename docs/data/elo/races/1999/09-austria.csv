@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,eddie-irvine,Eddie Irvine,ferrari,1,71,3,0,1,1258.795913,1271.424845,12.628932,1.0,0.747421,50.0,22
-1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,david-coulthard,David Coulthard,mclaren,2,71,2,0,2,1178.554089,1193.650833,15.096744,0.952381,0.650446,50.0,22
-1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,mika-hakkinen,Mika Häkkinen,mclaren,3,71,1,0,3,1237.543833,1246.617497,9.073664,0.904762,0.723289,50.0,22
-1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,4,71,4,0,4,1194.535915,1203.845035,9.30912,0.857143,0.67096,50.0,22
-1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,alexander-wurz,Alexander Wurz,benetton,5,71,10,0,5,1068.982158,1084.478926,15.496768,0.809524,0.499588,50.0,22
-1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,pedro-diniz,Pedro Diniz,sauber,6,71,16,0,6,990.488428,1009.107086,18.618658,0.761905,0.389532,50.0,22
-1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,jarno-trulli,Jarno Trulli,prost,7,70,13,0,7,1021.419416,1035.515773,14.096357,0.714286,0.432359,50.0,22
-1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,damon-hill,Damon Hill,jordan,8,70,11,0,8,1092.000452,1098.724401,6.72395,0.666667,0.532188,50.0,22
-1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,mika-salo,Mika Salo,ferrari,9,70,7,0,9,982.315802,994.34718,12.031378,0.619048,0.37842,50.0,22
-1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,olivier-panis,Olivier Panis,prost,10,70,18,0,10,1046.742459,1051.911521,5.169061,0.571429,0.468047,50.0,22
-1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,marc-gene,Marc Gené,minardi,11,70,22,0,11,996.48907,1002.792006,6.302936,0.52381,0.397751,50.0,22
-1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,giancarlo-fisichella,Giancarlo Fisichella,benetton,12,68,12,0,12,1186.589774,1177.35795,-9.231824,0.47619,0.660827,50.0,22
-1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,luca-badoer,Luca Badoer,minardi,13,68,19,0,13,985.449271,987.744414,2.295143,0.428571,0.382669,50.0,22
-1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,johnny-herbert,Johnny Herbert,stewart,14,67,6,0,14,1004.320183,1002.940427,-1.379756,0.380952,0.408548,50.0,22
-1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,ricardo-zonta,Ricardo Zonta,bar,15,63,15,0,15,986.049156,983.541641,-2.507514,0.333333,0.383484,50.0,22
-1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,rubens-barrichello,Rubens Barrichello,stewart,DNF,55,5,1,16,1039.546152,1030.938448,-8.607704,0.285714,0.457868,50.0,22
-1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,jean-alesi,Jean Alesi,sauber,DNF,49,17,1,17,1074.343232,1060.888309,-13.454923,0.238095,0.507194,50.0,22
-1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,38,21,1,18,989.610143,979.717314,-9.89283,0.190476,0.388333,50.0,22
-1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,alex-zanardi,Alex Zanardi,williams,DNF,35,14,1,19,1004.204719,990.928187,-13.276532,0.142857,0.408388,50.0,22
-1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,jacques-villeneuve,Jacques Villeneuve,bar,DNF,34,9,1,20,1084.105689,1062.816259,-21.28943,0.095238,0.521027,50.0,22
-1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,toranosuke-takagi,Toranosuke Takagi,arrows,DNF,25,20,1,21,984.182743,967.516218,-16.666525,0.047619,0.38095,50.0,22
-1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,ralf-schumacher,Ralf Schumacher,williams,DNF,8,8,1,22,1148.619516,1118.083842,-30.535674,0.0,0.610713,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,639,eddie-irvine,Eddie Irvine,ferrari,1,71,3,0,1,1258.795913,1271.424845,12.628932,1.0,0.747421,50.0,22
+1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,639,david-coulthard,David Coulthard,mclaren,2,71,2,0,2,1178.554089,1193.650833,15.096744,0.952381,0.650446,50.0,22
+1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,639,mika-hakkinen,Mika Häkkinen,mclaren,3,71,1,0,3,1237.543833,1246.617497,9.073664,0.904762,0.723289,50.0,22
+1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,639,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,4,71,4,0,4,1194.535915,1203.845035,9.30912,0.857143,0.67096,50.0,22
+1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,639,alexander-wurz,Alexander Wurz,benetton,5,71,10,0,5,1068.982158,1084.478926,15.496768,0.809524,0.499588,50.0,22
+1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,639,pedro-diniz,Pedro Diniz,sauber,6,71,16,0,6,990.488428,1009.107086,18.618658,0.761905,0.389532,50.0,22
+1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,639,jarno-trulli,Jarno Trulli,prost,7,70,13,0,7,1021.419416,1035.515773,14.096357,0.714286,0.432359,50.0,22
+1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,639,damon-hill,Damon Hill,jordan,8,70,11,0,8,1092.000452,1098.724401,6.72395,0.666667,0.532188,50.0,22
+1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,639,mika-salo,Mika Salo,ferrari,9,70,7,0,9,982.315802,994.34718,12.031378,0.619048,0.37842,50.0,22
+1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,639,olivier-panis,Olivier Panis,prost,10,70,18,0,10,1046.742459,1051.911521,5.169061,0.571429,0.468047,50.0,22
+1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,639,marc-gene,Marc Gené,minardi,11,70,22,0,11,996.48907,1002.792006,6.302936,0.52381,0.397751,50.0,22
+1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,639,giancarlo-fisichella,Giancarlo Fisichella,benetton,12,68,12,0,12,1186.589774,1177.35795,-9.231824,0.47619,0.660827,50.0,22
+1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,639,luca-badoer,Luca Badoer,minardi,13,68,19,0,13,985.449271,987.744414,2.295143,0.428571,0.382669,50.0,22
+1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,639,johnny-herbert,Johnny Herbert,stewart,14,67,6,0,14,1004.320183,1002.940427,-1.379756,0.380952,0.408548,50.0,22
+1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,639,ricardo-zonta,Ricardo Zonta,bar,15,63,15,0,15,986.049156,983.541641,-2.507514,0.333333,0.383484,50.0,22
+1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,639,rubens-barrichello,Rubens Barrichello,stewart,DNF,55,5,1,16,1039.546152,1030.938448,-8.607704,0.285714,0.457868,50.0,22
+1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,639,jean-alesi,Jean Alesi,sauber,DNF,49,17,1,17,1074.343232,1060.888309,-13.454923,0.238095,0.507194,50.0,22
+1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,639,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,38,21,1,18,989.610143,979.717314,-9.89283,0.190476,0.388333,50.0,22
+1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,639,alex-zanardi,Alex Zanardi,williams,DNF,35,14,1,19,1004.204719,990.928187,-13.276532,0.142857,0.408388,50.0,22
+1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,639,jacques-villeneuve,Jacques Villeneuve,bar,DNF,34,9,1,20,1084.105689,1062.816259,-21.28943,0.095238,0.521027,50.0,22
+1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,639,toranosuke-takagi,Toranosuke Takagi,arrows,DNF,25,20,1,21,984.182743,967.516218,-16.666525,0.047619,0.38095,50.0,22
+1999,9,1999-07-25,austria,Grosser Preis von Österreich 1999,639,ralf-schumacher,Ralf Schumacher,williams,DNF,8,8,1,22,1148.619516,1118.083842,-30.535674,0.0,0.610713,50.0,22

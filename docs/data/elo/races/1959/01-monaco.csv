@@ -1,25 +1,25 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,jack-brabham,Jack Brabham,cooper,1,100,3,0,1,1008.026718,1033.688871,25.662153,1.0,0.486757,50.0,24
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,tony-brooks,Tony Brooks,ferrari,2,100,4,0,2,1040.805144,1061.872773,21.06763,0.956522,0.535169,50.0,24
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,maurice-trintignant,Maurice Trintignant,cooper,3,98,6,0,3,1033.282656,1052.730671,19.448015,0.913043,0.524083,50.0,24
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,phil-hill,Phil Hill,ferrari,4,97,5,0,4,1063.035031,1078.128057,15.093026,0.869565,0.567705,50.0,24
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,bruce-mclaren,Bruce McLaren,cooper,5,96,13,0,5,1019.003628,1035.158638,16.15501,0.826087,0.502987,50.0,24
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,roy-salvadori,Roy Salvadori,cooper,6,83,8,0,6,1050.26632,1061.943489,11.677169,0.782609,0.549065,50.0,24
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,stirling-moss,Stirling Moss,cooper,DNF,81,1,1,7,1151.515788,1153.980666,2.464878,0.73913,0.689833,50.0,24
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,ron-flockhart,Ron Flockhart,brm,DNF,64,10,1,8,938.578011,954.067415,15.489404,0.695652,0.385864,50.0,24
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,harry-schell,Harry Schell,brm,DNF,48,9,1,9,1080.762785,1083.707226,2.94444,0.652174,0.593285,50.0,24
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,jo-bonnier,Jo Bonnier,brm,DNF,44,7,1,10,969.493712,978.419805,8.926094,0.608696,0.430174,50.0,24
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,jean-behra,Jean Behra,ferrari,DNF,24,2,1,11,1032.851372,1034.9399,2.088528,0.565217,0.523447,50.0,24
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,graham-hill,Graham Hill,lotus,DNF,21,14,1,12,971.119355,975.579428,4.460072,0.521739,0.432538,50.0,24
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,masten-gregory,Masten Gregory,cooper,DNF,6,11,1,13,1049.613364,1046.120992,-3.492372,0.478261,0.548108,50.0,24
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,bruce-halford,Bruce Halford,lotus,DNF,1,16,1,14,962.128079,960.718288,-1.409791,0.391304,0.4195,50.0,24
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,cliff-allison,Cliff Allison,ferrari,DNF,1,15,1,15,1018.583755,1013.030677,-5.553078,0.391304,0.502366,50.0,24
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,wolfgang-von-trips,Wolfgang von Trips,porsche,DNF,1,12,1,16,1051.569673,1043.586163,-7.98351,0.391304,0.550975,50.0,24
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,alain-de-changy,Alain de Changy,cooper,DNQ,,,2,17,1000.0,983.863583,-16.136417,0.152174,0.474902,50.0,24
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,andre-testut,André Testut,maserati,DNQ,,,2,18,986.755125,971.593798,-15.161327,0.152174,0.4554,50.0,24
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,giorgio-scarlatti,Giorgio Scarlatti,maserati,DNQ,,,2,19,1011.945288,994.926503,-17.018785,0.152174,0.49255,50.0,24
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,ivor-bueb,Ivor Bueb,cooper,DNQ,,,2,20,993.670139,978.000312,-15.669827,0.152174,0.46557,50.0,24
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,jean-lucienbonnet,Jean Lucienbonnet,cooper,DNQ,,,2,21,1000.0,983.863583,-16.136417,0.152174,0.474902,50.0,24
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,lucien-bianchi,Lucien Bianchi,cooper,DNQ,,,2,22,1000.0,983.863583,-16.136417,0.152174,0.474902,50.0,24
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,maria-teresa-de-filippis,Maria Teresa de Filippis,behra-porsche,DNQ,,,2,23,979.670481,965.028418,-14.642063,0.152174,0.445015,50.0,24
-1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,pete-lovely,Pete Lovely,lotus,DNQ,,,2,24,1000.0,983.863583,-16.136417,0.152174,0.474902,50.0,24
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,jack-brabham,Jack Brabham,cooper,1,100,3,0,1,1008.026718,1033.688871,25.662153,1.0,0.486757,50.0,24
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,tony-brooks,Tony Brooks,ferrari,2,100,4,0,2,1040.805144,1061.872773,21.06763,0.956522,0.535169,50.0,24
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,maurice-trintignant,Maurice Trintignant,cooper,3,98,6,0,3,1033.282656,1052.730671,19.448015,0.913043,0.524083,50.0,24
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,phil-hill,Phil Hill,ferrari,4,97,5,0,4,1063.035031,1078.128057,15.093026,0.869565,0.567705,50.0,24
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,bruce-mclaren,Bruce McLaren,cooper,5,96,13,0,5,1019.003628,1035.158638,16.15501,0.826087,0.502987,50.0,24
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,roy-salvadori,Roy Salvadori,cooper,6,83,8,0,6,1050.26632,1061.943489,11.677169,0.782609,0.549065,50.0,24
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,stirling-moss,Stirling Moss,cooper,DNF,81,1,1,7,1151.515788,1153.980666,2.464878,0.73913,0.689833,50.0,24
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,ron-flockhart,Ron Flockhart,brm,DNF,64,10,1,8,938.578011,954.067415,15.489404,0.695652,0.385864,50.0,24
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,harry-schell,Harry Schell,brm,DNF,48,9,1,9,1080.762785,1083.707226,2.94444,0.652174,0.593285,50.0,24
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,jo-bonnier,Jo Bonnier,brm,DNF,44,7,1,10,969.493712,978.419805,8.926094,0.608696,0.430174,50.0,24
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,jean-behra,Jean Behra,ferrari,DNF,24,2,1,11,1032.851372,1034.9399,2.088528,0.565217,0.523447,50.0,24
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,graham-hill,Graham Hill,lotus,DNF,21,14,1,12,971.119355,975.579428,4.460072,0.521739,0.432538,50.0,24
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,masten-gregory,Masten Gregory,cooper,DNF,6,11,1,13,1049.613364,1046.120992,-3.492372,0.478261,0.548108,50.0,24
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,bruce-halford,Bruce Halford,lotus,DNF,1,16,1,14,962.128079,960.718288,-1.409791,0.391304,0.4195,50.0,24
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,cliff-allison,Cliff Allison,ferrari,DNF,1,15,1,15,1018.583755,1013.030677,-5.553078,0.391304,0.502366,50.0,24
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,wolfgang-von-trips,Wolfgang von Trips,porsche,DNF,1,12,1,16,1051.569673,1043.586163,-7.98351,0.391304,0.550975,50.0,24
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,alain-de-changy,Alain de Changy,cooper,DNQ,,,2,17,1000.0,983.863583,-16.136417,0.152174,0.474902,50.0,24
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,andre-testut,André Testut,maserati,DNQ,,,2,18,986.755125,971.593798,-15.161327,0.152174,0.4554,50.0,24
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,giorgio-scarlatti,Giorgio Scarlatti,maserati,DNQ,,,2,19,1011.945288,994.926503,-17.018785,0.152174,0.49255,50.0,24
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,ivor-bueb,Ivor Bueb,cooper,DNQ,,,2,20,993.670139,978.000312,-15.669827,0.152174,0.46557,50.0,24
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,jean-lucienbonnet,Jean Lucienbonnet,cooper,DNQ,,,2,21,1000.0,983.863583,-16.136417,0.152174,0.474902,50.0,24
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,lucien-bianchi,Lucien Bianchi,cooper,DNQ,,,2,22,1000.0,983.863583,-16.136417,0.152174,0.474902,50.0,24
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,maria-teresa-de-filippis,Maria Teresa de Filippis,behra-porsche,DNQ,,,2,23,979.670481,965.028418,-14.642063,0.152174,0.445015,50.0,24
+1959,1,1959-05-10,monaco,Grand Prix de Monaco 1959,76,pete-lovely,Pete Lovely,lotus,DNQ,,,2,24,1000.0,983.863583,-16.136417,0.152174,0.474902,50.0,24

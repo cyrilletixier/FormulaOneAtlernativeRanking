@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,max-verstappen,Max Verstappen,red-bull,1,71,1,0,1,1571.165238,1575.755568,4.59033,1.0,0.908193,50.0,20
-2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,lando-norris,Lando Norris,mclaren,2,71,6,0,2,1287.881541,1301.78036,13.898819,0.947368,0.669392,50.0,20
-2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,fernando-alonso,Fernando Alonso,aston-martin,3,71,4,0,3,1216.594649,1232.136501,15.541852,0.894737,0.5839,50.0,20
-2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,sergio-perez,Sergio Pérez,red-bull,4,71,9,0,4,1313.156434,1320.374385,7.217951,0.842105,0.697746,50.0,20
-2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,lance-stroll,Lance Stroll,aston-martin,5,71,3,0,5,1072.376913,1091.860426,19.483513,0.789474,0.399803,50.0,20
-2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,6,71,7,0,6,1283.651679,1287.267054,3.615375,0.736842,0.664535,50.0,20
-2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,pierre-gasly,Pierre Gasly,alpine,7,71,15,0,7,1128.164784,1138.819393,10.65461,0.684211,0.471118,50.0,20
-2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,lewis-hamilton,Lewis Hamilton,mercedes,8,71,5,0,8,1360.09075,1354.316663,-5.774088,0.631579,0.747061,50.0,20
-2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,yuki-tsunoda,Yuki Tsunoda,alphatauri,9,71,16,0,9,1003.026635,1016.215884,13.189249,0.578947,0.315162,50.0,20
-2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,esteban-ocon,Esteban Ocon,alpine,10,70,14,0,10,1101.866332,1106.316448,4.450116,0.526316,0.437313,50.0,20
-2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,logan-sargeant,Logan Sargeant,williams,11,70,19,0,11,939.351212,950.806381,11.455169,0.473684,0.244581,50.0,20
-2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,nico-hulkenberg,Nico Hülkenberg,haas,12,70,11,0,12,1008.316818,1013.300667,4.983849,0.421053,0.321376,50.0,20
-2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,daniel-ricciardo,Daniel Ricciardo,alphatauri,13,70,17,0,13,1091.124901,1088.366712,-2.758189,0.368421,0.423585,50.0,20
-2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,oscar-piastri,Oscar Piastri,mclaren,14,69,10,0,14,1109.825763,1103.239127,-6.586636,0.315789,0.447522,50.0,20
-2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,george-russell,George Russell,mercedes,DNF,57,8,1,15,1264.800542,1245.832258,-18.968285,0.263158,0.642524,50.0,20
-2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,valtteri-bottas,Valtteri Bottas,alfa-romeo,DNF,39,18,1,16,1047.955201,1040.016646,-7.938555,0.210526,0.369297,50.0,20
-2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,guanyu-zhou,Guanyu Zhou,alfa-romeo,DNF,22,20,1,17,1011.099738,1002.761325,-8.338413,0.157895,0.324663,50.0,20
-2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,alexander-albon,Alexander Albon,williams,DNF,0,13,1,18,1090.12518,1072.957026,-17.168154,0.078947,0.42231,50.0,20
-2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,kevin-magnussen,Kevin Magnussen,haas,DNF,0,12,1,19,937.936853,929.728685,-8.208168,0.078947,0.243111,50.0,20
-2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,charles-leclerc,Charles Leclerc,ferrari,DNS,,2,2,20,1285.627078,1252.286732,-33.340347,0.0,0.666807,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,1099,max-verstappen,Max Verstappen,red-bull,1,71,1,0,1,1571.165238,1575.755568,4.59033,1.0,0.908193,50.0,20
+2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,1099,lando-norris,Lando Norris,mclaren,2,71,6,0,2,1287.881541,1301.78036,13.898819,0.947368,0.669392,50.0,20
+2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,1099,fernando-alonso,Fernando Alonso,aston-martin,3,71,4,0,3,1216.594649,1232.136501,15.541852,0.894737,0.5839,50.0,20
+2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,1099,sergio-perez,Sergio Pérez,red-bull,4,71,9,0,4,1313.156434,1320.374385,7.217951,0.842105,0.697746,50.0,20
+2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,1099,lance-stroll,Lance Stroll,aston-martin,5,71,3,0,5,1072.376913,1091.860426,19.483513,0.789474,0.399803,50.0,20
+2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,1099,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,6,71,7,0,6,1283.651679,1287.267054,3.615375,0.736842,0.664535,50.0,20
+2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,1099,pierre-gasly,Pierre Gasly,alpine,7,71,15,0,7,1128.164784,1138.819393,10.65461,0.684211,0.471118,50.0,20
+2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,1099,lewis-hamilton,Lewis Hamilton,mercedes,8,71,5,0,8,1360.09075,1354.316663,-5.774088,0.631579,0.747061,50.0,20
+2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,1099,yuki-tsunoda,Yuki Tsunoda,alphatauri,9,71,16,0,9,1003.026635,1016.215884,13.189249,0.578947,0.315162,50.0,20
+2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,1099,esteban-ocon,Esteban Ocon,alpine,10,70,14,0,10,1101.866332,1106.316448,4.450116,0.526316,0.437313,50.0,20
+2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,1099,logan-sargeant,Logan Sargeant,williams,11,70,19,0,11,939.351212,950.806381,11.455169,0.473684,0.244581,50.0,20
+2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,1099,nico-hulkenberg,Nico Hülkenberg,haas,12,70,11,0,12,1008.316818,1013.300667,4.983849,0.421053,0.321376,50.0,20
+2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,1099,daniel-ricciardo,Daniel Ricciardo,alphatauri,13,70,17,0,13,1091.124901,1088.366712,-2.758189,0.368421,0.423585,50.0,20
+2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,1099,oscar-piastri,Oscar Piastri,mclaren,14,69,10,0,14,1109.825763,1103.239127,-6.586636,0.315789,0.447522,50.0,20
+2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,1099,george-russell,George Russell,mercedes,DNF,57,8,1,15,1264.800542,1245.832258,-18.968285,0.263158,0.642524,50.0,20
+2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,1099,valtteri-bottas,Valtteri Bottas,alfa-romeo,DNF,39,18,1,16,1047.955201,1040.016646,-7.938555,0.210526,0.369297,50.0,20
+2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,1099,guanyu-zhou,Guanyu Zhou,alfa-romeo,DNF,22,20,1,17,1011.099738,1002.761325,-8.338413,0.157895,0.324663,50.0,20
+2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,1099,alexander-albon,Alexander Albon,williams,DNF,0,13,1,18,1090.12518,1072.957026,-17.168154,0.078947,0.42231,50.0,20
+2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,1099,kevin-magnussen,Kevin Magnussen,haas,DNF,0,12,1,19,937.936853,929.728685,-8.208168,0.078947,0.243111,50.0,20
+2023,20,2023-11-05,sao-paulo,Formula 1 Rolex Grande Prêmio de São Paulo 2023,1099,charles-leclerc,Charles Leclerc,ferrari,DNS,,2,2,20,1285.627078,1252.286732,-33.340347,0.0,0.666807,50.0,20

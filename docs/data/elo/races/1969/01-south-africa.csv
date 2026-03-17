@@ -1,19 +1,19 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1969,1,1969-03-01,south-africa,South African Grand Prix 1969,jackie-stewart,Jackie Stewart,matra,1,80,4,0,1,1152.011333,1170.507982,18.496649,1.0,0.630067,50.0,18
-1969,1,1969-03-01,south-africa,South African Grand Prix 1969,graham-hill,Graham Hill,lotus,2,80,7,0,2,1150.560186,1166.216848,15.656662,0.941176,0.628043,50.0,18
-1969,1,1969-03-01,south-africa,South African Grand Prix 1969,denny-hulme,Denny Hulme,mclaren,3,80,3,0,3,1177.828393,1188.67789,10.849498,0.882353,0.665363,50.0,18
-1969,1,1969-03-01,south-africa,South African Grand Prix 1969,jo-siffert,Jo Siffert,lotus,4,80,12,0,4,1087.115602,1101.46381,14.348208,0.823529,0.536565,50.0,18
-1969,1,1969-03-01,south-africa,South African Grand Prix 1969,bruce-mclaren,Bruce McLaren,mclaren,5,79,8,0,5,1084.547574,1096.143975,11.596401,0.764706,0.532778,50.0,18
-1969,1,1969-03-01,south-africa,South African Grand Prix 1969,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,6,78,11,0,6,1041.421905,1053.267435,11.84553,0.705882,0.468972,50.0,18
-1969,1,1969-03-01,south-africa,South African Grand Prix 1969,jackie-oliver,Jackie Oliver,brm,7,77,14,0,7,1015.224167,1026.051519,10.827352,0.647059,0.430512,50.0,18
-1969,1,1969-03-01,south-africa,South African Grand Prix 1969,sam-tingle,Sam Tingle,brabham,8,73,17,0,8,993.723944,1003.162801,9.438857,0.588235,0.399458,50.0,18
-1969,1,1969-03-01,south-africa,South African Grand Prix 1969,peter-de-klerk,Peter de Klerk,brabham,NC,67,16,1,9,1006.146001,1011.750102,5.604102,0.529412,0.41733,50.0,18
-1969,1,1969-03-01,south-africa,South African Grand Prix 1969,jochen-rindt,Jochen Rindt,lotus,DNF,44,2,1,10,1009.093906,1011.543318,2.449412,0.470588,0.4216,50.0,18
-1969,1,1969-03-01,south-africa,South African Grand Prix 1969,john-surtees,John Surtees,brm,DNF,40,18,1,11,1095.188979,1088.354913,-6.834066,0.411765,0.548446,50.0,18
-1969,1,1969-03-01,south-africa,South African Grand Prix 1969,pedro-rodriguez,Pedro Rodríguez,brm,DNF,38,15,1,12,1119.05659,1107.541491,-11.515099,0.352941,0.583243,50.0,18
-1969,1,1969-03-01,south-africa,South African Grand Prix 1969,chris-amon,Chris Amon,ferrari,DNF,34,5,1,13,1056.63143,1046.763805,-9.867625,0.294118,0.49147,50.0,18
-1969,1,1969-03-01,south-africa,South African Grand Prix 1969,jack-brabham,Jack Brabham,brabham,DNF,32,1,1,14,1081.492406,1066.843728,-14.648678,0.235294,0.528268,50.0,18
-1969,1,1969-03-01,south-africa,South African Grand Prix 1969,john-love,John Love,lotus,DNF,31,10,1,15,1030.014613,1014.759401,-15.255212,0.147059,0.452163,50.0,18
-1969,1,1969-03-01,south-africa,South African Grand Prix 1969,mario-andretti,Mario Andretti,lotus,DNF,31,6,1,16,966.834307,956.107355,-10.726952,0.147059,0.361598,50.0,18
-1969,1,1969-03-01,south-africa,South African Grand Prix 1969,jacky-ickx,Jacky Ickx,brabham,DNF,20,13,1,17,1064.300807,1042.100473,-22.200334,0.058824,0.50283,50.0,18
-1969,1,1969-03-01,south-africa,South African Grand Prix 1969,basil-van-rooyen,Basil van Rooyen,mclaren,DNF,12,9,1,18,995.006928,974.942223,-20.064705,0.0,0.401294,50.0,18
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1969,1,1969-03-01,south-africa,South African Grand Prix 1969,174,jackie-stewart,Jackie Stewart,matra,1,80,4,0,1,1152.011333,1170.507982,18.496649,1.0,0.630067,50.0,18
+1969,1,1969-03-01,south-africa,South African Grand Prix 1969,174,graham-hill,Graham Hill,lotus,2,80,7,0,2,1150.560186,1166.216848,15.656662,0.941176,0.628043,50.0,18
+1969,1,1969-03-01,south-africa,South African Grand Prix 1969,174,denny-hulme,Denny Hulme,mclaren,3,80,3,0,3,1177.828393,1188.67789,10.849498,0.882353,0.665363,50.0,18
+1969,1,1969-03-01,south-africa,South African Grand Prix 1969,174,jo-siffert,Jo Siffert,lotus,4,80,12,0,4,1087.115602,1101.46381,14.348208,0.823529,0.536565,50.0,18
+1969,1,1969-03-01,south-africa,South African Grand Prix 1969,174,bruce-mclaren,Bruce McLaren,mclaren,5,79,8,0,5,1084.547574,1096.143975,11.596401,0.764706,0.532778,50.0,18
+1969,1,1969-03-01,south-africa,South African Grand Prix 1969,174,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,6,78,11,0,6,1041.421905,1053.267435,11.84553,0.705882,0.468972,50.0,18
+1969,1,1969-03-01,south-africa,South African Grand Prix 1969,174,jackie-oliver,Jackie Oliver,brm,7,77,14,0,7,1015.224167,1026.051519,10.827352,0.647059,0.430512,50.0,18
+1969,1,1969-03-01,south-africa,South African Grand Prix 1969,174,sam-tingle,Sam Tingle,brabham,8,73,17,0,8,993.723944,1003.162801,9.438857,0.588235,0.399458,50.0,18
+1969,1,1969-03-01,south-africa,South African Grand Prix 1969,174,peter-de-klerk,Peter de Klerk,brabham,NC,67,16,1,9,1006.146001,1011.750102,5.604102,0.529412,0.41733,50.0,18
+1969,1,1969-03-01,south-africa,South African Grand Prix 1969,174,jochen-rindt,Jochen Rindt,lotus,DNF,44,2,1,10,1009.093906,1011.543318,2.449412,0.470588,0.4216,50.0,18
+1969,1,1969-03-01,south-africa,South African Grand Prix 1969,174,john-surtees,John Surtees,brm,DNF,40,18,1,11,1095.188979,1088.354913,-6.834066,0.411765,0.548446,50.0,18
+1969,1,1969-03-01,south-africa,South African Grand Prix 1969,174,pedro-rodriguez,Pedro Rodríguez,brm,DNF,38,15,1,12,1119.05659,1107.541491,-11.515099,0.352941,0.583243,50.0,18
+1969,1,1969-03-01,south-africa,South African Grand Prix 1969,174,chris-amon,Chris Amon,ferrari,DNF,34,5,1,13,1056.63143,1046.763805,-9.867625,0.294118,0.49147,50.0,18
+1969,1,1969-03-01,south-africa,South African Grand Prix 1969,174,jack-brabham,Jack Brabham,brabham,DNF,32,1,1,14,1081.492406,1066.843728,-14.648678,0.235294,0.528268,50.0,18
+1969,1,1969-03-01,south-africa,South African Grand Prix 1969,174,john-love,John Love,lotus,DNF,31,10,1,15,1030.014613,1014.759401,-15.255212,0.147059,0.452163,50.0,18
+1969,1,1969-03-01,south-africa,South African Grand Prix 1969,174,mario-andretti,Mario Andretti,lotus,DNF,31,6,1,16,966.834307,956.107355,-10.726952,0.147059,0.361598,50.0,18
+1969,1,1969-03-01,south-africa,South African Grand Prix 1969,174,jacky-ickx,Jacky Ickx,brabham,DNF,20,13,1,17,1064.300807,1042.100473,-22.200334,0.058824,0.50283,50.0,18
+1969,1,1969-03-01,south-africa,South African Grand Prix 1969,174,basil-van-rooyen,Basil van Rooyen,mclaren,DNF,12,9,1,18,995.006928,974.942223,-20.064705,0.0,0.401294,50.0,18

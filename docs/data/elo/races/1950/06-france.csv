@@ -1,20 +1,20 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1950,6,1950-07-02,france,Grand Prix de France 1950,juan-manuel-fangio,Juan Manuel Fangio,alfa-romeo,1,64,1,0,1,1038.816055,1061.357727,22.541673,1.0,0.549167,50.0,19
-1950,6,1950-07-02,france,Grand Prix de France 1950,luigi-fagioli,Luigi Fagioli,alfa-romeo,2,64,3,0,2,1051.977895,1070.759256,18.781361,0.944444,0.568817,50.0,19
-1950,6,1950-07-02,france,Grand Prix de France 1950,peter-whitehead,Peter Whitehead,ferrari,3,61,19,0,3,976.462307,998.14998,21.687674,0.888889,0.455135,50.0,19
-1950,6,1950-07-02,france,Grand Prix de France 1950,robert-manzon,Robert Manzon,simca-gordini,4,61,13,0,4,990.212307,1008.087211,17.874904,0.833333,0.475835,50.0,19
-1950,6,1950-07-02,france,Grand Prix de France 1950,eugene-chaboud,Eugène Chaboud,talbot-lago,5,,,0,5,987.019791,1000.968783,13.948992,0.75,0.47102,50.0,19
-1950,6,1950-07-02,france,Grand Prix de France 1950,philippe-etancelin,Philippe Étancelin,talbot-lago,5,59,4,0,6,981.854247,996.192258,14.338011,0.75,0.46324,50.0,19
-1950,6,1950-07-02,france,Grand Prix de France 1950,charles-pozzi,Charles Pozzi,talbot-lago,6,56,16,0,7,1000.0,1007.413496,7.413496,0.638889,0.490619,50.0,19
-1950,6,1950-07-02,france,Grand Prix de France 1950,louis-rosier,Louis Rosier,talbot-lago,6,,,0,8,1040.040833,1044.435187,4.394354,0.638889,0.551002,50.0,19
-1950,6,1950-07-02,france,Grand Prix de France 1950,nino-farina,Nino Farina,alfa-romeo,7,55,2,0,9,1048.793622,1048.367467,-0.426155,0.555556,0.564079,50.0,19
-1950,6,1950-07-02,france,Grand Prix de France 1950,yves-giraud-cabantous,Yves Giraud-Cabantous,talbot-lago,8,52,5,0,10,968.330623,971.182911,2.852289,0.5,0.442954,50.0,19
-1950,6,1950-07-02,france,Grand Prix de France 1950,pierre-levegh,Pierre Levegh,talbot-lago,DNF,37,9,1,11,1002.404406,999.913938,-2.490468,0.444444,0.494254,50.0,19
-1950,6,1950-07-02,france,Grand Prix de France 1950,felice-bonetto,Felice Bonetto,maserati,DNF,15,11,1,12,1013.686952,1007.56582,-6.121132,0.388889,0.511312,50.0,19
-1950,6,1950-07-02,france,Grand Prix de France 1950,johnny-claes,Johnny Claes,talbot-lago,DNF,12,15,1,13,1006.323703,997.981382,-8.34232,0.333333,0.50018,50.0,19
-1950,6,1950-07-02,france,Grand Prix de France 1950,reg-parnell,Reg Parnell,maserati,DNF,10,12,1,14,1020.454545,1008.266727,-12.187818,0.277778,0.521534,50.0,19
-1950,6,1950-07-02,france,Grand Prix de France 1950,franco-rol,Franco Rol,maserati,DNF,7,7,1,15,990.212307,976.142766,-14.06954,0.194444,0.475835,50.0,19
-1950,6,1950-07-02,france,Grand Prix de France 1950,louis-chiron,Louis Chiron,maserati,DNF,7,14,1,16,1007.006415,991.668036,-15.338379,0.194444,0.501212,50.0,19
-1950,6,1950-07-02,france,Grand Prix de France 1950,david-hampshire,David Hampshire,maserati,DNF,6,18,1,17,1006.818182,987.327367,-19.490815,0.111111,0.500927,50.0,19
-1950,6,1950-07-02,france,Grand Prix de France 1950,raymond-sommer,Raymond Sommer,talbot-lago,DNF,5,17,1,18,985.12113,964.490971,-20.630159,0.055556,0.468159,50.0,19
-1950,6,1950-07-02,france,Grand Prix de France 1950,jose-froilan-gonzalez,José Froilán González,maserati,DNF,4,8,1,19,1002.712307,977.976341,-24.735966,0.0,0.494719,50.0,19
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1950,6,1950-07-02,france,Grand Prix de France 1950,6,juan-manuel-fangio,Juan Manuel Fangio,alfa-romeo,1,64,1,0,1,1038.816055,1061.357727,22.541673,1.0,0.549167,50.0,19
+1950,6,1950-07-02,france,Grand Prix de France 1950,6,luigi-fagioli,Luigi Fagioli,alfa-romeo,2,64,3,0,2,1051.977895,1070.759256,18.781361,0.944444,0.568817,50.0,19
+1950,6,1950-07-02,france,Grand Prix de France 1950,6,peter-whitehead,Peter Whitehead,ferrari,3,61,19,0,3,976.462307,998.14998,21.687674,0.888889,0.455135,50.0,19
+1950,6,1950-07-02,france,Grand Prix de France 1950,6,robert-manzon,Robert Manzon,simca-gordini,4,61,13,0,4,990.212307,1008.087211,17.874904,0.833333,0.475835,50.0,19
+1950,6,1950-07-02,france,Grand Prix de France 1950,6,eugene-chaboud,Eugène Chaboud,talbot-lago,5,,,0,5,987.019791,1000.968783,13.948992,0.75,0.47102,50.0,19
+1950,6,1950-07-02,france,Grand Prix de France 1950,6,philippe-etancelin,Philippe Étancelin,talbot-lago,5,59,4,0,6,981.854247,996.192258,14.338011,0.75,0.46324,50.0,19
+1950,6,1950-07-02,france,Grand Prix de France 1950,6,charles-pozzi,Charles Pozzi,talbot-lago,6,56,16,0,7,1000.0,1007.413496,7.413496,0.638889,0.490619,50.0,19
+1950,6,1950-07-02,france,Grand Prix de France 1950,6,louis-rosier,Louis Rosier,talbot-lago,6,,,0,8,1040.040833,1044.435187,4.394354,0.638889,0.551002,50.0,19
+1950,6,1950-07-02,france,Grand Prix de France 1950,6,nino-farina,Nino Farina,alfa-romeo,7,55,2,0,9,1048.793622,1048.367467,-0.426155,0.555556,0.564079,50.0,19
+1950,6,1950-07-02,france,Grand Prix de France 1950,6,yves-giraud-cabantous,Yves Giraud-Cabantous,talbot-lago,8,52,5,0,10,968.330623,971.182911,2.852289,0.5,0.442954,50.0,19
+1950,6,1950-07-02,france,Grand Prix de France 1950,6,pierre-levegh,Pierre Levegh,talbot-lago,DNF,37,9,1,11,1002.404406,999.913938,-2.490468,0.444444,0.494254,50.0,19
+1950,6,1950-07-02,france,Grand Prix de France 1950,6,felice-bonetto,Felice Bonetto,maserati,DNF,15,11,1,12,1013.686952,1007.56582,-6.121132,0.388889,0.511312,50.0,19
+1950,6,1950-07-02,france,Grand Prix de France 1950,6,johnny-claes,Johnny Claes,talbot-lago,DNF,12,15,1,13,1006.323703,997.981382,-8.34232,0.333333,0.50018,50.0,19
+1950,6,1950-07-02,france,Grand Prix de France 1950,6,reg-parnell,Reg Parnell,maserati,DNF,10,12,1,14,1020.454545,1008.266727,-12.187818,0.277778,0.521534,50.0,19
+1950,6,1950-07-02,france,Grand Prix de France 1950,6,franco-rol,Franco Rol,maserati,DNF,7,7,1,15,990.212307,976.142766,-14.06954,0.194444,0.475835,50.0,19
+1950,6,1950-07-02,france,Grand Prix de France 1950,6,louis-chiron,Louis Chiron,maserati,DNF,7,14,1,16,1007.006415,991.668036,-15.338379,0.194444,0.501212,50.0,19
+1950,6,1950-07-02,france,Grand Prix de France 1950,6,david-hampshire,David Hampshire,maserati,DNF,6,18,1,17,1006.818182,987.327367,-19.490815,0.111111,0.500927,50.0,19
+1950,6,1950-07-02,france,Grand Prix de France 1950,6,raymond-sommer,Raymond Sommer,talbot-lago,DNF,5,17,1,18,985.12113,964.490971,-20.630159,0.055556,0.468159,50.0,19
+1950,6,1950-07-02,france,Grand Prix de France 1950,6,jose-froilan-gonzalez,José Froilán González,maserati,DNF,4,8,1,19,1002.712307,977.976341,-24.735966,0.0,0.494719,50.0,19

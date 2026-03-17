@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,michael-schumacher,Michael Schumacher,ferrari,1,70,6,0,1,1430.870352,1437.167083,6.296732,1.0,0.874065,50.0,20
-2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,rubens-barrichello,Rubens Barrichello,ferrari,2,70,7,0,2,1274.243308,1284.87787,10.634562,0.947368,0.734677,50.0,20
-2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,jenson-button,Jenson Button,bar,3,70,2,0,3,1174.588888,1188.60178,14.012891,0.894737,0.614479,50.0,20
-2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,giancarlo-fisichella,Giancarlo Fisichella,sauber,4,69,11,0,4,1030.908128,1052.064227,21.156099,0.842105,0.418983,50.0,20
-2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,kimi-raikkonen,Kimi Räikkönen,mclaren,5,69,8,0,5,1084.364111,1099.215744,14.851633,0.789474,0.492441,50.0,20
-2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,david-coulthard,David Coulthard,mclaren,6,69,9,0,6,1108.862893,1119.395764,10.53287,0.736842,0.526185,50.0,20
-2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,timo-glock,Timo Glock,jordan,7,68,16,0,7,1000.0,1015.337287,15.337287,0.684211,0.377465,50.0,20
-2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,nick-heidfeld,Nick Heidfeld,jordan,8,68,15,0,8,1031.262313,1041.868018,10.605706,0.631579,0.419465,50.0,20
-2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,christian-klien,Christian Klien,jaguar,9,67,10,0,9,980.421067,991.777404,11.356337,0.578947,0.351821,50.0,20
-2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,zsolt-baumgartner,Zsolt Baumgartner,minardi,10,66,18,0,10,949.797651,960.460821,10.66317,0.526316,0.313052,50.0,20
-2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,felipe-massa,Felipe Massa,sauber,DNF,62,17,1,11,1063.778884,1064.2614,0.482516,0.473684,0.464034,50.0,20
-2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,takuma-sato,Takuma Sato,bar,DNF,48,PL,1,12,1032.047817,1032.073789,0.025971,0.421053,0.420533,50.0,20
-2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,fernando-alonso,Fernando Alonso,renault,DNF,44,5,1,13,1146.188305,1135.764095,-10.42421,0.368421,0.576905,50.0,20
-2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,gianmaria-bruni,Gianmaria Bruni,minardi,DNF,30,PL,1,14,948.139169,948.378342,0.239173,0.315789,0.311006,50.0,20
-2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,mark-webber,Mark Webber,jaguar,DNF,6,14,1,15,1015.772376,1009.004451,-6.767925,0.263158,0.398516,50.0,20
-2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,jarno-trulli,Jarno Trulli,renault,DNF,0,3,1,16,1188.494248,1167.39866,-21.095588,0.210526,0.632438,50.0,20
-2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,juan-pablo-montoya,Juan Pablo Montoya,williams,DSQ,70,4,2,17,1222.859987,1195.673156,-27.186831,0.131579,0.675316,50.0,20
-2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,ralf-schumacher,Ralf Schumacher,williams,DSQ,70,1,2,18,1148.789543,1126.348977,-22.440566,0.131579,0.58039,50.0,20
-2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,cristiano-da-matta,Cristiano da Matta,toyota,DSQ,69,12,2,19,1033.590334,1013.774488,-19.815846,0.026316,0.422633,50.0,20
-2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,olivier-panis,Olivier Panis,toyota,DSQ,69,13,2,20,1013.597539,995.133558,-18.463981,0.026316,0.395595,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,721,michael-schumacher,Michael Schumacher,ferrari,1,70,6,0,1,1430.870352,1437.167083,6.296732,1.0,0.874065,50.0,20
+2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,721,rubens-barrichello,Rubens Barrichello,ferrari,2,70,7,0,2,1274.243308,1284.87787,10.634562,0.947368,0.734677,50.0,20
+2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,721,jenson-button,Jenson Button,bar,3,70,2,0,3,1174.588888,1188.60178,14.012891,0.894737,0.614479,50.0,20
+2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,721,giancarlo-fisichella,Giancarlo Fisichella,sauber,4,69,11,0,4,1030.908128,1052.064227,21.156099,0.842105,0.418983,50.0,20
+2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,721,kimi-raikkonen,Kimi Räikkönen,mclaren,5,69,8,0,5,1084.364111,1099.215744,14.851633,0.789474,0.492441,50.0,20
+2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,721,david-coulthard,David Coulthard,mclaren,6,69,9,0,6,1108.862893,1119.395764,10.53287,0.736842,0.526185,50.0,20
+2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,721,timo-glock,Timo Glock,jordan,7,68,16,0,7,1000.0,1015.337287,15.337287,0.684211,0.377465,50.0,20
+2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,721,nick-heidfeld,Nick Heidfeld,jordan,8,68,15,0,8,1031.262313,1041.868018,10.605706,0.631579,0.419465,50.0,20
+2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,721,christian-klien,Christian Klien,jaguar,9,67,10,0,9,980.421067,991.777404,11.356337,0.578947,0.351821,50.0,20
+2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,721,zsolt-baumgartner,Zsolt Baumgartner,minardi,10,66,18,0,10,949.797651,960.460821,10.66317,0.526316,0.313052,50.0,20
+2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,721,felipe-massa,Felipe Massa,sauber,DNF,62,17,1,11,1063.778884,1064.2614,0.482516,0.473684,0.464034,50.0,20
+2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,721,takuma-sato,Takuma Sato,bar,DNF,48,PL,1,12,1032.047817,1032.073789,0.025971,0.421053,0.420533,50.0,20
+2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,721,fernando-alonso,Fernando Alonso,renault,DNF,44,5,1,13,1146.188305,1135.764095,-10.42421,0.368421,0.576905,50.0,20
+2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,721,gianmaria-bruni,Gianmaria Bruni,minardi,DNF,30,PL,1,14,948.139169,948.378342,0.239173,0.315789,0.311006,50.0,20
+2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,721,mark-webber,Mark Webber,jaguar,DNF,6,14,1,15,1015.772376,1009.004451,-6.767925,0.263158,0.398516,50.0,20
+2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,721,jarno-trulli,Jarno Trulli,renault,DNF,0,3,1,16,1188.494248,1167.39866,-21.095588,0.210526,0.632438,50.0,20
+2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,721,juan-pablo-montoya,Juan Pablo Montoya,williams,DSQ,70,4,2,17,1222.859987,1195.673156,-27.186831,0.131579,0.675316,50.0,20
+2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,721,ralf-schumacher,Ralf Schumacher,williams,DSQ,70,1,2,18,1148.789543,1126.348977,-22.440566,0.131579,0.58039,50.0,20
+2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,721,cristiano-da-matta,Cristiano da Matta,toyota,DSQ,69,12,2,19,1033.590334,1013.774488,-19.815846,0.026316,0.422633,50.0,20
+2004,8,2004-06-13,canada,Formula 1 Grand Prix du Canada 2004,721,olivier-panis,Olivier Panis,toyota,DSQ,69,13,2,20,1013.597539,995.133558,-18.463981,0.026316,0.395595,50.0,20

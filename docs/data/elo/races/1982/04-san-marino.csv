@@ -1,15 +1,15 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,didier-pironi,Didier Pironi,ferrari,1,60,4,0,1,1139.293451,1157.13496,17.841508,1.0,0.64317,50.0,14
-1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,gilles-villeneuve,Gilles Villeneuve,ferrari,2,60,3,0,2,1090.09667,1107.520245,17.423575,0.923077,0.574605,50.0,14
-1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,michele-alboreto,Michele Alboreto,tyrrell,3,60,5,0,3,1086.881981,1100.688514,13.806534,0.846154,0.570023,50.0,14
-1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,jean-pierre-jarier,Jean-Pierre Jarier,osella,4,59,9,0,4,1117.163597,1124.987914,7.824317,0.769231,0.612744,50.0,14
-1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,eliseo-salazar,Eliseo Salazar,ats-wheels,5,57,14,0,5,1004.891646,1016.913438,12.021793,0.692308,0.451872,50.0,14
-1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,teo-fabi,Teo Fabi,toleman,NC,52,10,1,6,948.983274,961.084585,12.101311,0.615385,0.373358,50.0,14
-1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,rene-arnoux,René Arnoux,renault,DNF,44,1,1,7,1122.636676,1118.5427,-4.093976,0.538462,0.620341,50.0,14
-1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,DNF,24,6,1,8,1098.661372,1092.400051,-6.261321,0.461538,0.586765,50.0,14
-1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,riccardo-paletti,Riccardo Paletti,osella,DNF,7,13,1,9,955.991494,956.073618,0.082124,0.384615,0.382973,50.0,14
-1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,alain-prost,Alain Prost,renault,DNF,6,2,1,10,1171.78477,1152.858847,-18.925923,0.307692,0.686211,50.0,14
-1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,DNF,4,7,1,11,1037.249803,1023.862202,-13.3876,0.230769,0.498521,50.0,14
-1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,brian-henton,Brian Henton,tyrrell,DNF,0,11,1,12,861.837033,854.499961,-7.337072,0.115385,0.262126,50.0,14
-1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,derek-warwick,Derek Warwick,toleman,DNF,0,8,1,13,876.807299,868.578191,-8.229108,0.115385,0.279967,50.0,14
-1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DSQ,54,12,2,14,1008.691024,985.824864,-22.866161,0.0,0.457323,50.0,14
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,361,didier-pironi,Didier Pironi,ferrari,1,60,4,0,1,1139.293451,1157.13496,17.841508,1.0,0.64317,50.0,14
+1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,361,gilles-villeneuve,Gilles Villeneuve,ferrari,2,60,3,0,2,1090.09667,1107.520245,17.423575,0.923077,0.574605,50.0,14
+1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,361,michele-alboreto,Michele Alboreto,tyrrell,3,60,5,0,3,1086.881981,1100.688514,13.806534,0.846154,0.570023,50.0,14
+1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,361,jean-pierre-jarier,Jean-Pierre Jarier,osella,4,59,9,0,4,1117.163597,1124.987914,7.824317,0.769231,0.612744,50.0,14
+1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,361,eliseo-salazar,Eliseo Salazar,ats-wheels,5,57,14,0,5,1004.891646,1016.913438,12.021793,0.692308,0.451872,50.0,14
+1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,361,teo-fabi,Teo Fabi,toleman,NC,52,10,1,6,948.983274,961.084585,12.101311,0.615385,0.373358,50.0,14
+1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,361,rene-arnoux,René Arnoux,renault,DNF,44,1,1,7,1122.636676,1118.5427,-4.093976,0.538462,0.620341,50.0,14
+1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,361,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,DNF,24,6,1,8,1098.661372,1092.400051,-6.261321,0.461538,0.586765,50.0,14
+1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,361,riccardo-paletti,Riccardo Paletti,osella,DNF,7,13,1,9,955.991494,956.073618,0.082124,0.384615,0.382973,50.0,14
+1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,361,alain-prost,Alain Prost,renault,DNF,6,2,1,10,1171.78477,1152.858847,-18.925923,0.307692,0.686211,50.0,14
+1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,361,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,DNF,4,7,1,11,1037.249803,1023.862202,-13.3876,0.230769,0.498521,50.0,14
+1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,361,brian-henton,Brian Henton,tyrrell,DNF,0,11,1,12,861.837033,854.499961,-7.337072,0.115385,0.262126,50.0,14
+1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,361,derek-warwick,Derek Warwick,toleman,DNF,0,8,1,13,876.807299,868.578191,-8.229108,0.115385,0.279967,50.0,14
+1982,4,1982-04-25,san-marino,Gran Premio di San Marino 1982,361,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DSQ,54,12,2,14,1008.691024,985.824864,-22.866161,0.0,0.457323,50.0,14

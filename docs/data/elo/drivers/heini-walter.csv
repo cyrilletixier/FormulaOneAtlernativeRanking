@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1962-08-05,1962,6,germany,porsche,Porsche,14,14,30,1000.0,1004.581469,4.581469,0.551724,0.460095,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1962-08-05,1962,6,germany,108,porsche,Porsche,14,14,30,1000.0,1004.581469,4.581469,0.551724,0.460095,50.0

@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,alberto-ascari,Alberto Ascari,ferrari,1,90,1,0,1,1195.765776,1209.28512,13.519344,1.0,0.729613,50.0,20
-1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,nino-farina,Nino Farina,ferrari,2,90,3,0,2,1141.970216,1156.237915,14.267699,0.947368,0.662014,50.0,20
-1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,felice-bonetto,Felice Bonetto,maserati,3,89,13,0,3,1018.103335,1037.198168,19.094833,0.868421,0.486524,50.0,20
-1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,jose-froilan-gonzalez,José Froilán González,maserati,3,,,0,4,1104.390766,1117.267939,12.877174,0.868421,0.610878,50.0,20
-1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,mike-hawthorn,Mike Hawthorn,ferrari,4,89,6,0,5,1056.087217,1068.463812,12.376595,0.789474,0.541942,50.0,20
-1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,emmanuel-de-graffenried,Emmanuel de Graffenried,maserati,5,88,7,0,6,963.236964,979.720946,16.483982,0.736842,0.407162,50.0,20
-1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,maurice-trintignant,Maurice Trintignant,gordini,6,87,12,0,7,965.64302,979.324298,13.681278,0.684211,0.410585,50.0,20
-1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,louis-rosier,Louis Rosier,ferrari,7,86,8,0,8,1018.79347,1025.995768,7.202298,0.631579,0.487533,50.0,20
-1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,peter-collins,Peter Collins,hwm,8,84,16,0,9,939.593322,949.841909,10.248587,0.578947,0.373976,50.0,20
-1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,stirling-moss,Stirling Moss,connaught,9,83,9,0,10,971.013998,976.417246,5.403248,0.526316,0.418251,50.0,20
-1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,luigi-villoresi,Luigi Villoresi,ferrari,DNF,67,4,1,11,1108.519465,1101.372468,-7.146997,0.473684,0.616624,50.0,20
-1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,kenneth-mcalpine,Kenneth McAlpine,connaught,DNF,63,14,1,12,995.821695,994.172355,-1.64934,0.421053,0.454039,50.0,20
-1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,harry-schell,Harry Schell,gordini,DNF,59,10,1,13,977.26097,974.321595,-2.939376,0.368421,0.427209,50.0,20
-1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,johnny-claes,Johnny Claes,connaught,NC,52,17,1,14,973.022027,967.755224,-5.266803,0.315789,0.421126,50.0,20
-1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,juan-manuel-fangio,Juan Manuel Fangio,maserati,DNF,36,2,1,15,1113.48586,1095.468841,-18.017018,0.263158,0.623498,50.0,20
-1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,roberto-mieres,Roberto Mieres,gordini,DNF,28,19,1,16,1000.0,987.520597,-12.479403,0.210526,0.460114,50.0,20
-1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,ken-wharton,Ken Wharton,cooper,DNF,19,18,1,17,1010.753831,994.859098,-15.894732,0.157895,0.475789,50.0,20
-1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,roy-salvadori,Roy Salvadori,connaught,DNF,14,11,1,18,1013.942866,995.183729,-18.759137,0.105263,0.480446,50.0,20
-1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,lance-macklin,Lance Macklin,hwm,DNF,7,15,1,19,994.8043,974.807787,-19.996512,0.052632,0.452562,50.0,20
-1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,fred-wacker,Fred Wacker,gordini,DNS,,,2,20,1000.0,976.994281,-23.005719,0.0,0.460114,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,26,alberto-ascari,Alberto Ascari,ferrari,1,90,1,0,1,1195.765776,1209.28512,13.519344,1.0,0.729613,50.0,20
+1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,26,nino-farina,Nino Farina,ferrari,2,90,3,0,2,1141.970216,1156.237915,14.267699,0.947368,0.662014,50.0,20
+1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,26,felice-bonetto,Felice Bonetto,maserati,3,89,13,0,3,1018.103335,1037.198168,19.094833,0.868421,0.486524,50.0,20
+1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,26,jose-froilan-gonzalez,José Froilán González,maserati,3,,,0,4,1104.390766,1117.267939,12.877174,0.868421,0.610878,50.0,20
+1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,26,mike-hawthorn,Mike Hawthorn,ferrari,4,89,6,0,5,1056.087217,1068.463812,12.376595,0.789474,0.541942,50.0,20
+1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,26,emmanuel-de-graffenried,Emmanuel de Graffenried,maserati,5,88,7,0,6,963.236964,979.720946,16.483982,0.736842,0.407162,50.0,20
+1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,26,maurice-trintignant,Maurice Trintignant,gordini,6,87,12,0,7,965.64302,979.324298,13.681278,0.684211,0.410585,50.0,20
+1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,26,louis-rosier,Louis Rosier,ferrari,7,86,8,0,8,1018.79347,1025.995768,7.202298,0.631579,0.487533,50.0,20
+1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,26,peter-collins,Peter Collins,hwm,8,84,16,0,9,939.593322,949.841909,10.248587,0.578947,0.373976,50.0,20
+1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,26,stirling-moss,Stirling Moss,connaught,9,83,9,0,10,971.013998,976.417246,5.403248,0.526316,0.418251,50.0,20
+1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,26,luigi-villoresi,Luigi Villoresi,ferrari,DNF,67,4,1,11,1108.519465,1101.372468,-7.146997,0.473684,0.616624,50.0,20
+1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,26,kenneth-mcalpine,Kenneth McAlpine,connaught,DNF,63,14,1,12,995.821695,994.172355,-1.64934,0.421053,0.454039,50.0,20
+1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,26,harry-schell,Harry Schell,gordini,DNF,59,10,1,13,977.26097,974.321595,-2.939376,0.368421,0.427209,50.0,20
+1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,26,johnny-claes,Johnny Claes,connaught,NC,52,17,1,14,973.022027,967.755224,-5.266803,0.315789,0.421126,50.0,20
+1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,26,juan-manuel-fangio,Juan Manuel Fangio,maserati,DNF,36,2,1,15,1113.48586,1095.468841,-18.017018,0.263158,0.623498,50.0,20
+1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,26,roberto-mieres,Roberto Mieres,gordini,DNF,28,19,1,16,1000.0,987.520597,-12.479403,0.210526,0.460114,50.0,20
+1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,26,ken-wharton,Ken Wharton,cooper,DNF,19,18,1,17,1010.753831,994.859098,-15.894732,0.157895,0.475789,50.0,20
+1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,26,roy-salvadori,Roy Salvadori,connaught,DNF,14,11,1,18,1013.942866,995.183729,-18.759137,0.105263,0.480446,50.0,20
+1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,26,lance-macklin,Lance Macklin,hwm,DNF,7,15,1,19,994.8043,974.807787,-19.996512,0.052632,0.452562,50.0,20
+1953,3,1953-06-07,netherlands,Grote Prijs van Nederland 1953,26,fred-wacker,Fred Wacker,gordini,DNS,,,2,20,1000.0,976.994281,-23.005719,0.0,0.460114,50.0,20

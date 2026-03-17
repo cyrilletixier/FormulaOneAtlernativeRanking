@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1956-07-01,1956,5,france,vanwall,Vanwall,DNS,,20,1000.0,977.651091,-22.348909,0.0,0.446978,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1956-07-01,1956,5,france,53,vanwall,Vanwall,DNS,,20,1000.0,977.651091,-22.348909,0.0,0.446978,50.0

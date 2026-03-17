@@ -1,7 +1,7 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1975-08-03,1975,11,germany,maki,Maki,DNQ,,26,1000.0,980.962171,-19.037829,0.04,0.420757,50.0
-1975-08-17,1975,12,austria,maki,Maki,DNQ,,30,980.962171,965.88046,-15.081711,0.103448,0.405082,50.0
-1975-09-07,1975,13,italy,maki,Maki,DNQ,,28,965.88046,947.706471,-18.173989,0.018519,0.381998,50.0
-1976-10-24,1976,16,japan,maki,Maki,DNQ,,27,947.706471,932.665934,-15.040538,0.038462,0.339272,50.0
-1977-07-16,1977,10,great-britain,surtees,Surtees,DNPQ,,36,932.665934,924.476962,-8.188971,0.185714,0.349494,50.0
-1978-07-16,1978,10,great-britain,mclaren,McLaren,DNQ,,30,924.476962,912.046065,-12.430897,0.051724,0.300342,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1975-08-03,1975,11,germany,261,maki,Maki,DNQ,,26,1000.0,980.962171,-19.037829,0.04,0.420757,50.0
+1975-08-17,1975,12,austria,262,maki,Maki,DNQ,,30,980.962171,965.88046,-15.081711,0.103448,0.405082,50.0
+1975-09-07,1975,13,italy,263,maki,Maki,DNQ,,28,965.88046,947.706471,-18.173989,0.018519,0.381998,50.0
+1976-10-24,1976,16,japan,280,maki,Maki,DNQ,,27,947.706471,932.665934,-15.040538,0.038462,0.339272,50.0
+1977-07-16,1977,10,great-britain,290,surtees,Surtees,DNPQ,,36,932.665934,924.476962,-8.188971,0.185714,0.349494,50.0
+1978-07-16,1978,10,great-britain,307,mclaren,McLaren,DNQ,,30,924.476962,912.046065,-12.430897,0.051724,0.300342,50.0

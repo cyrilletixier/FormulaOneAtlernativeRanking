@@ -1,27 +1,27 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1975,9,1975-07-06,france,Grand Prix de France 1975,niki-lauda,Niki Lauda,ferrari,1,54,1,0,1,1157.818652,1175.772597,17.953945,1.0,0.640921,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,james-hunt,James Hunt,hesketh,2,54,3,0,2,1067.187879,1089.39904,22.211162,0.96,0.515777,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,jochen-mass,Jochen Mass,mclaren,3,54,7,0,3,1016.158752,1039.988042,23.82929,0.92,0.443414,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,emerson-fittipaldi,Emerson Fittipaldi,mclaren,4,54,10,0,4,1194.429313,1204.04125,9.611937,0.88,0.687761,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,mario-andretti,Mario Andretti,parnelli,5,54,15,0,5,1032.678115,1051.340363,18.662248,0.84,0.466755,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,patrick-depailler,Patrick Depailler,tyrrell,6,54,13,0,6,1135.215507,1144.680974,9.465466,0.8,0.610691,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,tony-brise,Tony Brise,hill,7,54,12,0,7,1039.231484,1053.428925,14.19744,0.76,0.476051,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,jean-pierre-jarier,Jean-Pierre Jarier,shadow,8,54,4,0,8,983.554373,999.653024,16.098652,0.72,0.398027,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,jody-scheckter,Jody Scheckter,tyrrell,9,54,2,0,9,1124.068781,1128.294771,4.225989,0.68,0.59548,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,ronnie-peterson,Ronnie Peterson,lotus,10,54,17,0,10,1124.171731,1126.390656,2.218925,0.64,0.595622,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,jacques-laffite,Jacques Laffite,frank-williams-racing-cars,11,54,16,0,11,970.155826,981.167874,11.012048,0.6,0.379759,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,jean-pierre-jabouille,Jean-Pierre Jabouille,tyrrell,12,54,21,0,12,966.983862,976.210124,9.226261,0.56,0.375475,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,john-watson,John Watson,surtees,13,53,14,0,13,1036.585602,1038.970796,2.385194,0.52,0.472296,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,carlos-reutemann,Carlos Reutemann,brabham,14,53,11,0,14,1221.652754,1209.62427,-12.028484,0.48,0.72057,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,gijs-van-lennep,Gijs van Lennep,ensign,15,53,22,0,15,1002.428149,1003.219901,0.791752,0.44,0.424165,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,alan-jones,Alan Jones,hill,16,53,20,0,16,995.180886,994.476949,-0.703937,0.4,0.414079,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,bob-evans,Bob Evans,brm,17,52,25,0,17,988.547697,986.302701,-2.244996,0.36,0.4049,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,lella-lombardi,Lella Lombardi,march,18,50,26,0,18,960.469282,958.132858,-2.336424,0.32,0.366728,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,carlos-pace,Carlos Pace,brabham,DNF,26,5,1,19,1121.971878,1106.341914,-15.629964,0.28,0.592599,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,jacky-ickx,Jacky Ickx,lotus,DNF,17,19,1,20,1095.929817,1080.110377,-15.81944,0.24,0.556389,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,wilson-fittipaldi,Wilson Fittipaldi,fittipaldi,DNF,14,23,1,21,965.775147,957.082819,-8.692327,0.2,0.373847,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,clay-regazzoni,Clay Regazzoni,ferrari,DNF,6,9,1,22,1218.3331,1188.49961,-29.83349,0.12,0.71667,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,mark-donohue,Mark Donohue,penske,DNF,6,18,1,23,1057.017593,1037.951246,-19.066347,0.12,0.501327,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,vittorio-brambilla,Vittorio Brambilla,march,DNF,6,8,1,24,975.207615,961.87685,-13.330766,0.12,0.386615,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,tom-pryce,Tom Pryce,shadow,DNF,2,6,1,25,1055.062018,1032.13467,-22.927348,0.04,0.498547,50.0,26
-1975,9,1975-07-06,france,Grand Prix de France 1975,francois-migault,François Migault,frank-williams-racing-cars,DNS,,24,2,26,974.414089,955.137303,-19.276786,0.0,0.385536,50.0,26
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,niki-lauda,Niki Lauda,ferrari,1,54,1,0,1,1157.818652,1175.772597,17.953945,1.0,0.640921,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,james-hunt,James Hunt,hesketh,2,54,3,0,2,1067.187879,1089.39904,22.211162,0.96,0.515777,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,jochen-mass,Jochen Mass,mclaren,3,54,7,0,3,1016.158752,1039.988042,23.82929,0.92,0.443414,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,emerson-fittipaldi,Emerson Fittipaldi,mclaren,4,54,10,0,4,1194.429313,1204.04125,9.611937,0.88,0.687761,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,mario-andretti,Mario Andretti,parnelli,5,54,15,0,5,1032.678115,1051.340363,18.662248,0.84,0.466755,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,patrick-depailler,Patrick Depailler,tyrrell,6,54,13,0,6,1135.215507,1144.680974,9.465466,0.8,0.610691,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,tony-brise,Tony Brise,hill,7,54,12,0,7,1039.231484,1053.428925,14.19744,0.76,0.476051,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,jean-pierre-jarier,Jean-Pierre Jarier,shadow,8,54,4,0,8,983.554373,999.653024,16.098652,0.72,0.398027,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,jody-scheckter,Jody Scheckter,tyrrell,9,54,2,0,9,1124.068781,1128.294771,4.225989,0.68,0.59548,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,ronnie-peterson,Ronnie Peterson,lotus,10,54,17,0,10,1124.171731,1126.390656,2.218925,0.64,0.595622,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,jacques-laffite,Jacques Laffite,frank-williams-racing-cars,11,54,16,0,11,970.155826,981.167874,11.012048,0.6,0.379759,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,jean-pierre-jabouille,Jean-Pierre Jabouille,tyrrell,12,54,21,0,12,966.983862,976.210124,9.226261,0.56,0.375475,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,john-watson,John Watson,surtees,13,53,14,0,13,1036.585602,1038.970796,2.385194,0.52,0.472296,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,carlos-reutemann,Carlos Reutemann,brabham,14,53,11,0,14,1221.652754,1209.62427,-12.028484,0.48,0.72057,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,gijs-van-lennep,Gijs van Lennep,ensign,15,53,22,0,15,1002.428149,1003.219901,0.791752,0.44,0.424165,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,alan-jones,Alan Jones,hill,16,53,20,0,16,995.180886,994.476949,-0.703937,0.4,0.414079,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,bob-evans,Bob Evans,brm,17,52,25,0,17,988.547697,986.302701,-2.244996,0.36,0.4049,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,lella-lombardi,Lella Lombardi,march,18,50,26,0,18,960.469282,958.132858,-2.336424,0.32,0.366728,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,carlos-pace,Carlos Pace,brabham,DNF,26,5,1,19,1121.971878,1106.341914,-15.629964,0.28,0.592599,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,jacky-ickx,Jacky Ickx,lotus,DNF,17,19,1,20,1095.929817,1080.110377,-15.81944,0.24,0.556389,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,wilson-fittipaldi,Wilson Fittipaldi,fittipaldi,DNF,14,23,1,21,965.775147,957.082819,-8.692327,0.2,0.373847,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,clay-regazzoni,Clay Regazzoni,ferrari,DNF,6,9,1,22,1218.3331,1188.49961,-29.83349,0.12,0.71667,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,mark-donohue,Mark Donohue,penske,DNF,6,18,1,23,1057.017593,1037.951246,-19.066347,0.12,0.501327,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,vittorio-brambilla,Vittorio Brambilla,march,DNF,6,8,1,24,975.207615,961.87685,-13.330766,0.12,0.386615,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,tom-pryce,Tom Pryce,shadow,DNF,2,6,1,25,1055.062018,1032.13467,-22.927348,0.04,0.498547,50.0,26
+1975,9,1975-07-06,france,Grand Prix de France 1975,259,francois-migault,François Migault,frank-williams-racing-cars,DNS,,24,2,26,974.414089,955.137303,-19.276786,0.0,0.385536,50.0,26

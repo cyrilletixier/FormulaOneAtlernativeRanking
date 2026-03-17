@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,lewis-hamilton,Lewis Hamilton,mercedes,1,71,10,0,1,1533.210126,1538.412894,5.202769,1.0,0.895945,50.0,20
-2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,max-verstappen,Max Verstappen,red-bull,2,71,2,0,2,1364.527655,1373.587093,9.059439,0.947368,0.76618,50.0,20
-2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,valtteri-bottas,Valtteri Bottas,mercedes,3,71,1,0,3,1312.42426,1321.492341,9.068081,0.894737,0.713375,50.0,20
-2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,sergio-perez,Sergio Pérez,red-bull,4,71,4,0,4,1255.31383,1264.941583,9.627754,0.842105,0.64955,50.0,20
-2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,charles-leclerc,Charles Leclerc,ferrari,5,71,6,0,5,1235.551231,1243.712153,8.160922,0.789474,0.626255,50.0,20
-2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,6,71,3,0,6,1269.721221,1273.254772,3.533551,0.736842,0.666171,50.0,20
-2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,pierre-gasly,Pierre Gasly,alphatauri,7,70,7,0,7,1151.18953,1159.29218,8.10265,0.684211,0.522158,50.0,20
-2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,esteban-ocon,Esteban Ocon,alpine,8,70,8,0,8,1095.427686,1104.424371,8.996685,0.631579,0.451645,50.0,20
-2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,fernando-alonso,Fernando Alonso,alpine,9,70,12,0,9,1102.524759,1108.442146,5.917387,0.578947,0.4606,50.0,20
-2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,lando-norris,Lando Norris,mclaren,10,70,5,0,10,1246.30575,1240.671557,-5.634192,0.526316,0.639,50.0,20
-2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,sebastian-vettel,Sebastian Vettel,aston-martin,11,70,9,0,11,1100.572233,1101.34972,0.777487,0.473684,0.458134,50.0,20
-2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,12,70,PL,0,12,1056.43418,1057.341252,0.907072,0.421053,0.402911,50.0,20
-2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,george-russell,George Russell,williams,13,70,17,0,13,997.840238,999.642893,1.802655,0.368421,0.332368,50.0,20
-2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,14,70,13,0,14,1013.338897,1011.597993,-1.740904,0.315789,0.350608,50.0,20
-2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,yuki-tsunoda,Yuki Tsunoda,alphatauri,15,70,15,0,15,991.660308,988.558463,-3.101845,0.263158,0.325195,50.0,20
-2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,nicholas-latifi,Nicholas Latifi,williams,16,70,16,0,16,928.699267,926.429303,-2.269963,0.210526,0.255926,50.0,20
-2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,nikita-mazepin,Nikita Mazepin,haas,17,69,19,0,17,873.559397,871.355976,-2.203421,0.157895,0.201963,50.0,20
-2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,mick-schumacher,Mick Schumacher,haas,18,69,18,0,18,895.22314,889.368859,-5.854281,0.105263,0.222349,50.0,20
-2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,daniel-ricciardo,Daniel Ricciardo,mclaren,DNF,49,11,1,19,1237.802429,1208.987218,-28.815211,0.052632,0.628936,50.0,20
-2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,lance-stroll,Lance Stroll,aston-martin,DNF,47,14,1,20,1078.78652,1057.249888,-21.536631,0.0,0.430733,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,1054,lewis-hamilton,Lewis Hamilton,mercedes,1,71,10,0,1,1533.210126,1538.412894,5.202769,1.0,0.895945,50.0,20
+2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,1054,max-verstappen,Max Verstappen,red-bull,2,71,2,0,2,1364.527655,1373.587093,9.059439,0.947368,0.76618,50.0,20
+2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,1054,valtteri-bottas,Valtteri Bottas,mercedes,3,71,1,0,3,1312.42426,1321.492341,9.068081,0.894737,0.713375,50.0,20
+2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,1054,sergio-perez,Sergio Pérez,red-bull,4,71,4,0,4,1255.31383,1264.941583,9.627754,0.842105,0.64955,50.0,20
+2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,1054,charles-leclerc,Charles Leclerc,ferrari,5,71,6,0,5,1235.551231,1243.712153,8.160922,0.789474,0.626255,50.0,20
+2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,1054,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,6,71,3,0,6,1269.721221,1273.254772,3.533551,0.736842,0.666171,50.0,20
+2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,1054,pierre-gasly,Pierre Gasly,alphatauri,7,70,7,0,7,1151.18953,1159.29218,8.10265,0.684211,0.522158,50.0,20
+2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,1054,esteban-ocon,Esteban Ocon,alpine,8,70,8,0,8,1095.427686,1104.424371,8.996685,0.631579,0.451645,50.0,20
+2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,1054,fernando-alonso,Fernando Alonso,alpine,9,70,12,0,9,1102.524759,1108.442146,5.917387,0.578947,0.4606,50.0,20
+2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,1054,lando-norris,Lando Norris,mclaren,10,70,5,0,10,1246.30575,1240.671557,-5.634192,0.526316,0.639,50.0,20
+2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,1054,sebastian-vettel,Sebastian Vettel,aston-martin,11,70,9,0,11,1100.572233,1101.34972,0.777487,0.473684,0.458134,50.0,20
+2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,1054,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,12,70,PL,0,12,1056.43418,1057.341252,0.907072,0.421053,0.402911,50.0,20
+2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,1054,george-russell,George Russell,williams,13,70,17,0,13,997.840238,999.642893,1.802655,0.368421,0.332368,50.0,20
+2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,1054,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,14,70,13,0,14,1013.338897,1011.597993,-1.740904,0.315789,0.350608,50.0,20
+2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,1054,yuki-tsunoda,Yuki Tsunoda,alphatauri,15,70,15,0,15,991.660308,988.558463,-3.101845,0.263158,0.325195,50.0,20
+2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,1054,nicholas-latifi,Nicholas Latifi,williams,16,70,16,0,16,928.699267,926.429303,-2.269963,0.210526,0.255926,50.0,20
+2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,1054,nikita-mazepin,Nikita Mazepin,haas,17,69,19,0,17,873.559397,871.355976,-2.203421,0.157895,0.201963,50.0,20
+2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,1054,mick-schumacher,Mick Schumacher,haas,18,69,18,0,18,895.22314,889.368859,-5.854281,0.105263,0.222349,50.0,20
+2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,1054,daniel-ricciardo,Daniel Ricciardo,mclaren,DNF,49,11,1,19,1237.802429,1208.987218,-28.815211,0.052632,0.628936,50.0,20
+2021,19,2021-11-14,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2021,1054,lance-stroll,Lance Stroll,aston-martin,DNF,47,14,1,20,1078.78652,1057.249888,-21.536631,0.0,0.430733,50.0,20

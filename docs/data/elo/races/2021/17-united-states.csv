@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,max-verstappen,Max Verstappen,red-bull,1,56,1,0,1,1339.416535,1352.277623,12.861089,1.0,0.742778,50.0,20
-2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,lewis-hamilton,Lewis Hamilton,mercedes,2,56,2,0,2,1527.926077,1530.584439,2.658363,0.947368,0.894201,50.0,20
-2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,sergio-perez,Sergio Pérez,red-bull,3,56,3,0,3,1228.524341,1242.333166,13.808824,0.894737,0.61856,50.0,20
-2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,charles-leclerc,Charles Leclerc,ferrari,4,56,4,0,4,1214.907606,1226.913334,12.005728,0.842105,0.601991,50.0,20
-2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,daniel-ricciardo,Daniel Ricciardo,mclaren,5,56,6,0,5,1241.10191,1248.892593,7.790683,0.789474,0.63366,50.0,20
-2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,valtteri-bottas,Valtteri Bottas,mercedes,6,56,9,0,6,1336.353505,1336.212726,-0.140779,0.736842,0.739658,50.0,20
-2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,7,56,5,0,7,1264.885593,1266.016133,1.13054,0.684211,0.6616,50.0,20
-2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,lando-norris,Lando Norris,mclaren,8,56,7,0,8,1253.151484,1252.334375,-0.817109,0.631579,0.647921,50.0,20
-2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,yuki-tsunoda,Yuki Tsunoda,alphatauri,9,55,10,0,9,994.973351,1007.526571,12.553219,0.578947,0.327883,50.0,20
-2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,sebastian-vettel,Sebastian Vettel,aston-martin,10,55,18,0,10,1084.054291,1088.529135,4.474844,0.526316,0.436819,50.0,20
-2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,11,55,12,0,11,999.784803,1006.793279,7.008476,0.473684,0.333515,50.0,20
-2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,lance-stroll,Lance Stroll,aston-martin,12,55,13,0,12,1085.838998,1084.937888,-0.90111,0.421053,0.439075,50.0,20
-2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,13,55,15,0,13,1045.25396,1044.258669,-0.99529,0.368421,0.388327,50.0,20
-2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,george-russell,George Russell,williams,14,55,20,0,14,1005.53018,1004.30535,-1.22483,0.315789,0.340286,50.0,20
-2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,nicholas-latifi,Nicholas Latifi,williams,15,55,14,0,15,933.671114,933.844115,0.173001,0.263158,0.259698,50.0,20
-2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,mick-schumacher,Mick Schumacher,haas,16,54,16,0,16,906.56662,905.494897,-1.071723,0.210526,0.231961,50.0,20
-2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,nikita-mazepin,Nikita Mazepin,haas,17,54,17,0,17,881.063156,878.589239,-2.473917,0.157895,0.207373,50.0,20
-2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,fernando-alonso,Fernando Alonso,alpine,DNF,49,19,1,18,1114.759118,1096.231738,-18.52738,0.105263,0.475811,50.0,20
-2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,esteban-ocon,Esteban Ocon,alpine,DNF,40,11,1,19,1121.480072,1099.892791,-21.587281,0.052632,0.484377,50.0,20
-2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,pierre-gasly,Pierre Gasly,alphatauri,DNF,14,8,1,20,1160.86994,1134.144593,-26.725347,0.0,0.534507,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,1052,max-verstappen,Max Verstappen,red-bull,1,56,1,0,1,1339.416535,1352.277623,12.861089,1.0,0.742778,50.0,20
+2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,1052,lewis-hamilton,Lewis Hamilton,mercedes,2,56,2,0,2,1527.926077,1530.584439,2.658363,0.947368,0.894201,50.0,20
+2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,1052,sergio-perez,Sergio Pérez,red-bull,3,56,3,0,3,1228.524341,1242.333166,13.808824,0.894737,0.61856,50.0,20
+2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,1052,charles-leclerc,Charles Leclerc,ferrari,4,56,4,0,4,1214.907606,1226.913334,12.005728,0.842105,0.601991,50.0,20
+2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,1052,daniel-ricciardo,Daniel Ricciardo,mclaren,5,56,6,0,5,1241.10191,1248.892593,7.790683,0.789474,0.63366,50.0,20
+2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,1052,valtteri-bottas,Valtteri Bottas,mercedes,6,56,9,0,6,1336.353505,1336.212726,-0.140779,0.736842,0.739658,50.0,20
+2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,1052,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,7,56,5,0,7,1264.885593,1266.016133,1.13054,0.684211,0.6616,50.0,20
+2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,1052,lando-norris,Lando Norris,mclaren,8,56,7,0,8,1253.151484,1252.334375,-0.817109,0.631579,0.647921,50.0,20
+2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,1052,yuki-tsunoda,Yuki Tsunoda,alphatauri,9,55,10,0,9,994.973351,1007.526571,12.553219,0.578947,0.327883,50.0,20
+2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,1052,sebastian-vettel,Sebastian Vettel,aston-martin,10,55,18,0,10,1084.054291,1088.529135,4.474844,0.526316,0.436819,50.0,20
+2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,1052,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,11,55,12,0,11,999.784803,1006.793279,7.008476,0.473684,0.333515,50.0,20
+2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,1052,lance-stroll,Lance Stroll,aston-martin,12,55,13,0,12,1085.838998,1084.937888,-0.90111,0.421053,0.439075,50.0,20
+2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,1052,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,13,55,15,0,13,1045.25396,1044.258669,-0.99529,0.368421,0.388327,50.0,20
+2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,1052,george-russell,George Russell,williams,14,55,20,0,14,1005.53018,1004.30535,-1.22483,0.315789,0.340286,50.0,20
+2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,1052,nicholas-latifi,Nicholas Latifi,williams,15,55,14,0,15,933.671114,933.844115,0.173001,0.263158,0.259698,50.0,20
+2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,1052,mick-schumacher,Mick Schumacher,haas,16,54,16,0,16,906.56662,905.494897,-1.071723,0.210526,0.231961,50.0,20
+2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,1052,nikita-mazepin,Nikita Mazepin,haas,17,54,17,0,17,881.063156,878.589239,-2.473917,0.157895,0.207373,50.0,20
+2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,1052,fernando-alonso,Fernando Alonso,alpine,DNF,49,19,1,18,1114.759118,1096.231738,-18.52738,0.105263,0.475811,50.0,20
+2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,1052,esteban-ocon,Esteban Ocon,alpine,DNF,40,11,1,19,1121.480072,1099.892791,-21.587281,0.052632,0.484377,50.0,20
+2021,17,2021-10-24,united-states,Formula 1 Aramco United States Grand Prix 2021,1052,pierre-gasly,Pierre Gasly,alphatauri,DNF,14,8,1,20,1160.86994,1134.144593,-26.725347,0.0,0.534507,50.0,20

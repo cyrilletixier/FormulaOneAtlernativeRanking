@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,1,62,1,0,1,1274.882225,1292.126743,17.244517,1.0,0.65511,50.0,20
-2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,lando-norris,Lando Norris,mclaren,2,62,4,0,2,1218.315645,1236.224223,17.908578,0.947368,0.589197,50.0,20
-2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,lewis-hamilton,Lewis Hamilton,mercedes,3,62,5,0,3,1420.321067,1425.063893,4.742826,0.894737,0.79988,50.0,20
-2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,charles-leclerc,Charles Leclerc,ferrari,4,62,3,0,4,1284.261134,1293.086299,8.825166,0.842105,0.665602,50.0,20
-2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,max-verstappen,Max Verstappen,red-bull,5,62,11,0,5,1556.3976,1551.053896,-5.343704,0.789474,0.896348,50.0,20
-2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,pierre-gasly,Pierre Gasly,alpine,6,62,12,0,6,1097.663496,1112.517382,14.853886,0.736842,0.439764,50.0,20
-2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,oscar-piastri,Oscar Piastri,mclaren,7,62,17,0,7,1048.791499,1064.034672,15.243173,0.684211,0.379347,50.0,20
-2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,sergio-perez,Sergio Pérez,red-bull,8,62,13,0,8,1398.599092,1391.133095,-7.465998,0.631579,0.780899,50.0,20
-2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,liam-lawson,Liam Lawson,alphatauri,9,62,10,0,9,1009.930407,1022.236144,12.305737,0.578947,0.332833,50.0,20
-2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,kevin-magnussen,Kevin Magnussen,haas,10,62,6,0,10,927.242531,941.474818,14.232286,0.526316,0.24167,50.0,20
-2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,alexander-albon,Alexander Albon,williams,11,62,14,0,11,1083.152193,1085.752486,2.600292,0.473684,0.421678,50.0,20
-2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,guanyu-zhou,Guanyu Zhou,alfa-romeo,12,62,PL,0,12,987.798216,993.488537,5.690321,0.421053,0.307246,50.0,20
-2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,nico-hulkenberg,Nico Hülkenberg,haas,13,62,9,0,13,1001.593889,1003.859563,2.265673,0.368421,0.323108,50.0,20
-2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,logan-sargeant,Logan Sargeant,williams,14,62,18,0,14,935.058034,938.361419,3.303385,0.315789,0.249722,50.0,20
-2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,fernando-alonso,Fernando Alonso,aston-martin,15,62,7,0,15,1278.623081,1258.815422,-19.807659,0.263158,0.659311,50.0,20
-2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,george-russell,George Russell,mercedes,16,61,2,0,16,1257.851169,1236.591655,-21.259514,0.210526,0.635717,50.0,20
-2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,valtteri-bottas,Valtteri Bottas,alfa-romeo,DNF,51,16,1,17,1069.871842,1057.505654,-12.366188,0.157895,0.405219,50.0,20
-2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,esteban-ocon,Esteban Ocon,alpine,DNF,42,8,1,18,1113.238005,1095.538712,-17.699293,0.105263,0.459249,50.0,20
-2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,yuki-tsunoda,Yuki Tsunoda,alphatauri,DNF,0,15,1,19,988.633874,975.855536,-12.778338,0.052632,0.308198,50.0,20
-2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,lance-stroll,Lance Stroll,aston-martin,DNS,,,2,20,1105.772738,1083.277591,-22.495147,0.0,0.449903,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,1094,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,1,62,1,0,1,1274.882225,1292.126743,17.244517,1.0,0.65511,50.0,20
+2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,1094,lando-norris,Lando Norris,mclaren,2,62,4,0,2,1218.315645,1236.224223,17.908578,0.947368,0.589197,50.0,20
+2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,1094,lewis-hamilton,Lewis Hamilton,mercedes,3,62,5,0,3,1420.321067,1425.063893,4.742826,0.894737,0.79988,50.0,20
+2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,1094,charles-leclerc,Charles Leclerc,ferrari,4,62,3,0,4,1284.261134,1293.086299,8.825166,0.842105,0.665602,50.0,20
+2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,1094,max-verstappen,Max Verstappen,red-bull,5,62,11,0,5,1556.3976,1551.053896,-5.343704,0.789474,0.896348,50.0,20
+2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,1094,pierre-gasly,Pierre Gasly,alpine,6,62,12,0,6,1097.663496,1112.517382,14.853886,0.736842,0.439764,50.0,20
+2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,1094,oscar-piastri,Oscar Piastri,mclaren,7,62,17,0,7,1048.791499,1064.034672,15.243173,0.684211,0.379347,50.0,20
+2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,1094,sergio-perez,Sergio Pérez,red-bull,8,62,13,0,8,1398.599092,1391.133095,-7.465998,0.631579,0.780899,50.0,20
+2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,1094,liam-lawson,Liam Lawson,alphatauri,9,62,10,0,9,1009.930407,1022.236144,12.305737,0.578947,0.332833,50.0,20
+2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,1094,kevin-magnussen,Kevin Magnussen,haas,10,62,6,0,10,927.242531,941.474818,14.232286,0.526316,0.24167,50.0,20
+2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,1094,alexander-albon,Alexander Albon,williams,11,62,14,0,11,1083.152193,1085.752486,2.600292,0.473684,0.421678,50.0,20
+2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,1094,guanyu-zhou,Guanyu Zhou,alfa-romeo,12,62,PL,0,12,987.798216,993.488537,5.690321,0.421053,0.307246,50.0,20
+2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,1094,nico-hulkenberg,Nico Hülkenberg,haas,13,62,9,0,13,1001.593889,1003.859563,2.265673,0.368421,0.323108,50.0,20
+2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,1094,logan-sargeant,Logan Sargeant,williams,14,62,18,0,14,935.058034,938.361419,3.303385,0.315789,0.249722,50.0,20
+2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,1094,fernando-alonso,Fernando Alonso,aston-martin,15,62,7,0,15,1278.623081,1258.815422,-19.807659,0.263158,0.659311,50.0,20
+2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,1094,george-russell,George Russell,mercedes,16,61,2,0,16,1257.851169,1236.591655,-21.259514,0.210526,0.635717,50.0,20
+2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,1094,valtteri-bottas,Valtteri Bottas,alfa-romeo,DNF,51,16,1,17,1069.871842,1057.505654,-12.366188,0.157895,0.405219,50.0,20
+2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,1094,esteban-ocon,Esteban Ocon,alpine,DNF,42,8,1,18,1113.238005,1095.538712,-17.699293,0.105263,0.459249,50.0,20
+2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,1094,yuki-tsunoda,Yuki Tsunoda,alphatauri,DNF,0,15,1,19,988.633874,975.855536,-12.778338,0.052632,0.308198,50.0,20
+2023,15,2023-09-17,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2023,1094,lance-stroll,Lance Stroll,aston-martin,DNS,,,2,20,1105.772738,1083.277591,-22.495147,0.0,0.449903,50.0,20

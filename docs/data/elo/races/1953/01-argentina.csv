@@ -1,18 +1,18 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,alberto-ascari,Alberto Ascari,ferrari,1,97,1,0,1,1180.588548,1195.765776,15.177228,1.0,0.696455,50.0,17
-1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,luigi-villoresi,Luigi Villoresi,ferrari,2,96,3,0,2,1090.253408,1108.519465,18.266057,0.9375,0.572179,50.0,17
-1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,jose-froilan-gonzalez,José Froilán González,maserati,3,96,5,0,3,1089.171163,1104.390766,15.219602,0.875,0.570608,50.0,17
-1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,mike-hawthorn,Mike Hawthorn,ferrari,4,96,6,0,4,1040.408287,1056.087217,15.67893,0.8125,0.498921,50.0,17
-1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,oscar-alfredo-galvez,Oscar Alfredo Gálvez,maserati,5,96,9,0,5,1000.0,1015.53207,15.53207,0.75,0.439359,50.0,17
-1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,jean-behra,Jean Behra,gordini,6,94,11,0,6,1010.159803,1021.821883,11.662081,0.6875,0.454258,50.0,17
-1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,harry-schell,Harry Schell,gordini,7,,,0,7,967.170094,977.26097,10.090877,0.59375,0.391932,50.0,17
-1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,maurice-trintignant,Maurice Trintignant,gordini,7,91,7,0,8,954.669007,965.64302,10.974013,0.59375,0.37427,50.0,17
-1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,john-barber,John Barber,cooper,8,90,16,0,9,1000.0,1003.03207,3.03207,0.5,0.439359,50.0,17
-1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,alan-brown,Alan Brown,cooper,9,87,12,0,10,1021.539132,1019.862919,-1.676214,0.4375,0.471024,50.0,17
-1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,robert-manzon,Robert Manzon,gordini,DNF,67,8,1,11,1030.632545,1025.159534,-5.473011,0.375,0.48446,50.0,17
-1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,juan-manuel-fangio,Juan Manuel Fangio,maserati,DNF,36,2,1,12,1129.246899,1113.48586,-15.761039,0.3125,0.627721,50.0,17
-1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,felice-bonetto,Felice Bonetto,maserati,DNF,31,15,1,13,1029.761984,1018.103335,-11.658649,0.25,0.483173,50.0,17
-1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,nino-farina,Nino Farina,ferrari,DNF,30,4,1,14,1166.505442,1141.970216,-24.535226,0.1875,0.678205,50.0,17
-1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,carlos-menditeguy,Carlos Menditéguy,gordini,DNF,24,10,1,15,1000.0,984.28207,-15.71793,0.125,0.439359,50.0,17
-1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,pablo-birger,Pablo Birger,simca-gordini,DNF,21,14,1,16,1000.0,981.15707,-18.84293,0.0625,0.439359,50.0,17
-1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,adolfo-schwelm-cruz,Adolfo Schwelm Cruz,cooper,DNF,20,13,1,17,1000.0,978.03207,-21.96793,0.0,0.439359,50.0,17
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,24,alberto-ascari,Alberto Ascari,ferrari,1,97,1,0,1,1180.588548,1195.765776,15.177228,1.0,0.696455,50.0,17
+1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,24,luigi-villoresi,Luigi Villoresi,ferrari,2,96,3,0,2,1090.253408,1108.519465,18.266057,0.9375,0.572179,50.0,17
+1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,24,jose-froilan-gonzalez,José Froilán González,maserati,3,96,5,0,3,1089.171163,1104.390766,15.219602,0.875,0.570608,50.0,17
+1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,24,mike-hawthorn,Mike Hawthorn,ferrari,4,96,6,0,4,1040.408287,1056.087217,15.67893,0.8125,0.498921,50.0,17
+1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,24,oscar-alfredo-galvez,Oscar Alfredo Gálvez,maserati,5,96,9,0,5,1000.0,1015.53207,15.53207,0.75,0.439359,50.0,17
+1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,24,jean-behra,Jean Behra,gordini,6,94,11,0,6,1010.159803,1021.821883,11.662081,0.6875,0.454258,50.0,17
+1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,24,harry-schell,Harry Schell,gordini,7,,,0,7,967.170094,977.26097,10.090877,0.59375,0.391932,50.0,17
+1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,24,maurice-trintignant,Maurice Trintignant,gordini,7,91,7,0,8,954.669007,965.64302,10.974013,0.59375,0.37427,50.0,17
+1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,24,john-barber,John Barber,cooper,8,90,16,0,9,1000.0,1003.03207,3.03207,0.5,0.439359,50.0,17
+1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,24,alan-brown,Alan Brown,cooper,9,87,12,0,10,1021.539132,1019.862919,-1.676214,0.4375,0.471024,50.0,17
+1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,24,robert-manzon,Robert Manzon,gordini,DNF,67,8,1,11,1030.632545,1025.159534,-5.473011,0.375,0.48446,50.0,17
+1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,24,juan-manuel-fangio,Juan Manuel Fangio,maserati,DNF,36,2,1,12,1129.246899,1113.48586,-15.761039,0.3125,0.627721,50.0,17
+1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,24,felice-bonetto,Felice Bonetto,maserati,DNF,31,15,1,13,1029.761984,1018.103335,-11.658649,0.25,0.483173,50.0,17
+1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,24,nino-farina,Nino Farina,ferrari,DNF,30,4,1,14,1166.505442,1141.970216,-24.535226,0.1875,0.678205,50.0,17
+1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,24,carlos-menditeguy,Carlos Menditéguy,gordini,DNF,24,10,1,15,1000.0,984.28207,-15.71793,0.125,0.439359,50.0,17
+1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,24,pablo-birger,Pablo Birger,simca-gordini,DNF,21,14,1,16,1000.0,981.15707,-18.84293,0.0625,0.439359,50.0,17
+1953,1,1953-01-18,argentina,Gran Premio de Argentina 1953,24,adolfo-schwelm-cruz,Adolfo Schwelm Cruz,cooper,DNF,20,13,1,17,1000.0,978.03207,-21.96793,0.0,0.439359,50.0,17

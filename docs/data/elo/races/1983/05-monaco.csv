@@ -1,29 +1,29 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,keke-rosberg,Keke Rosberg,williams,1,76,5,0,1,1156.860711,1175.296253,18.435542,1.0,0.631289,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,nelson-piquet,Nelson Piquet,brabham,2,76,6,0,2,1163.392329,1179.547893,16.155564,0.962963,0.639852,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,alain-prost,Alain Prost,renault,3,76,1,0,3,1213.545481,1224.70365,11.158169,0.925926,0.702763,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,patrick-tambay,Patrick Tambay,ferrari,4,76,4,0,4,1127.54067,1142.38407,14.8434,0.888889,0.592021,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,danny-sullivan,Danny Sullivan,tyrrell,5,74,20,0,5,1016.387947,1037.105943,20.717996,0.851852,0.437492,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,mauro-baldi,Mauro Baldi,alfa-romeo,6,74,13,0,6,1019.693437,1038.330938,18.637501,0.814815,0.442065,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,chico-serra,Chico Serra,arrows,7,74,15,0,7,981.686786,1001.067394,19.380608,0.777778,0.390166,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,riccardo-patrese,Riccardo Patrese,brabham,DNF,64,17,1,8,1055.259081,1067.712617,12.453536,0.740741,0.49167,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,jacques-laffite,Jacques Laffite,williams,DNF,53,8,1,9,1157.385262,1160.97147,3.586208,0.703704,0.63198,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,derek-warwick,Derek Warwick,toleman,DNF,49,10,1,10,913.917736,930.233447,16.315711,0.62963,0.303315,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,elio-de-angelis,Elio de Angelis,lotus,DNF,49,19,1,11,1112.720144,1115.6144,2.894255,0.62963,0.571745,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,marc-surer,Marc Surer,arrows,DNF,49,12,1,12,1172.095696,1171.020114,-1.075582,0.62963,0.651141,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,jean-pierre-jarier,Jean-Pierre Jarier,ligier,DNF,32,9,1,13,986.902815,994.821323,7.918508,0.555556,0.397185,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,eddie-cheever,Eddie Cheever,renault,DNF,30,3,1,14,1083.65832,1083.013059,-0.645261,0.518519,0.531424,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,DNF,13,7,1,15,1050.747631,1050.554109,-0.193522,0.481481,0.485352,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,rene-arnoux,René Arnoux,ferrari,DNF,6,2,1,16,1156.701124,1147.369395,-9.331729,0.444444,0.631079,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,3,16,1,17,970.547347,971.226352,0.679005,0.388889,0.375309,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,raul-boesel,Raul Boesel,ligier,DNF,3,18,1,18,995.442783,994.449358,-0.993424,0.388889,0.408757,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,michele-alboreto,Michele Alboreto,tyrrell,DNF,0,11,1,19,1123.289755,1109.718987,-13.570768,0.314815,0.58623,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,nigel-mansell,Nigel Mansell,lotus,DNF,0,14,1,20,1070.858293,1060.922896,-9.935398,0.314815,0.513523,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,johnny-cecotto,Johnny Cecotto,theodore,DNPQ,,,1,21,1024.88646,1014.4602,-10.42626,0.240741,0.449266,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,roberto-guerrero,Roberto Guerrero,theodore,DNPQ,,,1,22,927.491554,923.530528,-3.961027,0.240741,0.319961,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,bruno-giacomelli,Bruno Giacomelli,toleman,DNQ,,,2,23,1054.435068,1034.538907,-19.896161,0.092593,0.490516,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,corrado-fabi,Corrado Fabi,osella,DNQ,,,2,24,971.592135,957.387064,-14.205071,0.092593,0.376694,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,eliseo-salazar,Eliseo Salazar,ram,DNQ,,,2,25,940.845525,928.638354,-12.207171,0.092593,0.336736,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,john-watson,John Watson,mclaren,DNQ,,,2,26,1209.90058,1179.611283,-30.289298,0.092593,0.698379,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,niki-lauda,Niki Lauda,mclaren,DNQ,,,2,27,1133.26771,1107.907982,-25.359728,0.092593,0.599787,50.0,28
-1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNQ,,,2,28,922.917277,911.831672,-11.085605,0.092593,0.314305,50.0,28
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,keke-rosberg,Keke Rosberg,williams,1,76,5,0,1,1156.860711,1175.296253,18.435542,1.0,0.631289,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,nelson-piquet,Nelson Piquet,brabham,2,76,6,0,2,1163.392329,1179.547893,16.155564,0.962963,0.639852,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,alain-prost,Alain Prost,renault,3,76,1,0,3,1213.545481,1224.70365,11.158169,0.925926,0.702763,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,patrick-tambay,Patrick Tambay,ferrari,4,76,4,0,4,1127.54067,1142.38407,14.8434,0.888889,0.592021,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,danny-sullivan,Danny Sullivan,tyrrell,5,74,20,0,5,1016.387947,1037.105943,20.717996,0.851852,0.437492,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,mauro-baldi,Mauro Baldi,alfa-romeo,6,74,13,0,6,1019.693437,1038.330938,18.637501,0.814815,0.442065,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,chico-serra,Chico Serra,arrows,7,74,15,0,7,981.686786,1001.067394,19.380608,0.777778,0.390166,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,riccardo-patrese,Riccardo Patrese,brabham,DNF,64,17,1,8,1055.259081,1067.712617,12.453536,0.740741,0.49167,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,jacques-laffite,Jacques Laffite,williams,DNF,53,8,1,9,1157.385262,1160.97147,3.586208,0.703704,0.63198,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,derek-warwick,Derek Warwick,toleman,DNF,49,10,1,10,913.917736,930.233447,16.315711,0.62963,0.303315,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,elio-de-angelis,Elio de Angelis,lotus,DNF,49,19,1,11,1112.720144,1115.6144,2.894255,0.62963,0.571745,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,marc-surer,Marc Surer,arrows,DNF,49,12,1,12,1172.095696,1171.020114,-1.075582,0.62963,0.651141,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,jean-pierre-jarier,Jean-Pierre Jarier,ligier,DNF,32,9,1,13,986.902815,994.821323,7.918508,0.555556,0.397185,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,eddie-cheever,Eddie Cheever,renault,DNF,30,3,1,14,1083.65832,1083.013059,-0.645261,0.518519,0.531424,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,DNF,13,7,1,15,1050.747631,1050.554109,-0.193522,0.481481,0.485352,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,rene-arnoux,René Arnoux,ferrari,DNF,6,2,1,16,1156.701124,1147.369395,-9.331729,0.444444,0.631079,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,3,16,1,17,970.547347,971.226352,0.679005,0.388889,0.375309,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,raul-boesel,Raul Boesel,ligier,DNF,3,18,1,18,995.442783,994.449358,-0.993424,0.388889,0.408757,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,michele-alboreto,Michele Alboreto,tyrrell,DNF,0,11,1,19,1123.289755,1109.718987,-13.570768,0.314815,0.58623,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,nigel-mansell,Nigel Mansell,lotus,DNF,0,14,1,20,1070.858293,1060.922896,-9.935398,0.314815,0.513523,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,johnny-cecotto,Johnny Cecotto,theodore,DNPQ,,,1,21,1024.88646,1014.4602,-10.42626,0.240741,0.449266,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,roberto-guerrero,Roberto Guerrero,theodore,DNPQ,,,1,22,927.491554,923.530528,-3.961027,0.240741,0.319961,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,bruno-giacomelli,Bruno Giacomelli,toleman,DNQ,,,2,23,1054.435068,1034.538907,-19.896161,0.092593,0.490516,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,corrado-fabi,Corrado Fabi,osella,DNQ,,,2,24,971.592135,957.387064,-14.205071,0.092593,0.376694,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,eliseo-salazar,Eliseo Salazar,ram,DNQ,,,2,25,940.845525,928.638354,-12.207171,0.092593,0.336736,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,john-watson,John Watson,mclaren,DNQ,,,2,26,1209.90058,1179.611283,-30.289298,0.092593,0.698379,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,niki-lauda,Niki Lauda,mclaren,DNQ,,,2,27,1133.26771,1107.907982,-25.359728,0.092593,0.599787,50.0,28
+1983,5,1983-05-15,monaco,Grand Prix de Monaco 1983,378,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNQ,,,2,28,922.917277,911.831672,-11.085605,0.092593,0.314305,50.0,28

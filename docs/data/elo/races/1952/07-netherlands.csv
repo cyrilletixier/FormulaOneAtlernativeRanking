@@ -1,19 +1,19 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,alberto-ascari,Alberto Ascari,ferrari,1,90,1,0,1,1150.775103,1166.250305,15.475201,1.0,0.690496,50.0,18
-1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,nino-farina,Nino Farina,ferrari,2,90,2,0,2,1142.902403,1155.951323,13.04892,0.941176,0.680198,50.0,18
-1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,luigi-villoresi,Luigi Villoresi,ferrari,3,90,4,0,3,1056.508958,1072.692346,16.183388,0.882353,0.558685,50.0,18
-1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,mike-hawthorn,Mike Hawthorn,cooper,4,88,3,0,4,1029.08127,1044.35633,15.27506,0.823529,0.518028,50.0,18
-1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,robert-manzon,Robert Manzon,gordini,5,87,8,0,5,1012.307881,1025.892337,13.584456,0.764706,0.493017,50.0,18
-1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,maurice-trintignant,Maurice Trintignant,gordini,6,87,5,0,6,939.084648,955.104511,16.019863,0.705882,0.385485,50.0,18
-1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,duncan-hamilton,Duncan Hamilton,hwm,7,85,10,0,7,980.752544,990.800223,10.04768,0.647059,0.446105,50.0,18
-1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,lance-macklin,Lance Macklin,hwm,8,84,9,0,8,1007.511235,1012.629839,5.118604,0.588235,0.485863,50.0,18
-1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,chico-landi,Chico Landi,maserati,9,83,16,0,9,986.695549,988.950483,2.254935,0.5,0.454901,50.0,18
-1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,jan-flinterman,Jan Flinterman,maserati,9,,,0,10,1000.0,1001.266467,1.266467,0.5,0.474671,50.0,18
-1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,ken-wharton,Ken Wharton,frazer-nash,DNF,76,7,1,11,999.644975,996.526108,-3.118867,0.411765,0.474142,50.0,18
-1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,stirling-moss,Stirling Moss,era,DNF,73,18,1,12,968.547406,964.787748,-3.759658,0.352941,0.428134,50.0,18
-1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,dries-van-der-lof,Dries van der Lof,hwm,NC,70,14,1,13,1000.0,990.972349,-9.027651,0.294118,0.474671,50.0,18
-1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,ken-downing,Ken Downing,connaught,DNF,27,13,1,14,1012.329963,999.442184,-12.887779,0.235294,0.49305,50.0,18
-1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,charles-de-tornaco,Charles de Tornaco,ferrari,DNF,19,17,1,15,1011.620907,995.844832,-15.776074,0.176471,0.491992,50.0,18
-1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,paul-frere,Paul Frère,simca-gordini,DNF,15,11,1,16,1003.398843,985.294527,-18.104317,0.117647,0.479733,50.0,18
-1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,jean-behra,Jean Behra,gordini,DNF,10,6,1,17,1033.443509,1010.158551,-23.284958,0.058824,0.524523,50.0,18
-1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,gino-bianco,Gino Bianco,maserati,DNF,4,12,1,18,980.887982,958.572712,-22.315269,0.0,0.446305,50.0,18
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,22,alberto-ascari,Alberto Ascari,ferrari,1,90,1,0,1,1150.775103,1166.250305,15.475201,1.0,0.690496,50.0,18
+1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,22,nino-farina,Nino Farina,ferrari,2,90,2,0,2,1142.902403,1155.951323,13.04892,0.941176,0.680198,50.0,18
+1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,22,luigi-villoresi,Luigi Villoresi,ferrari,3,90,4,0,3,1056.508958,1072.692346,16.183388,0.882353,0.558685,50.0,18
+1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,22,mike-hawthorn,Mike Hawthorn,cooper,4,88,3,0,4,1029.08127,1044.35633,15.27506,0.823529,0.518028,50.0,18
+1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,22,robert-manzon,Robert Manzon,gordini,5,87,8,0,5,1012.307881,1025.892337,13.584456,0.764706,0.493017,50.0,18
+1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,22,maurice-trintignant,Maurice Trintignant,gordini,6,87,5,0,6,939.084648,955.104511,16.019863,0.705882,0.385485,50.0,18
+1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,22,duncan-hamilton,Duncan Hamilton,hwm,7,85,10,0,7,980.752544,990.800223,10.04768,0.647059,0.446105,50.0,18
+1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,22,lance-macklin,Lance Macklin,hwm,8,84,9,0,8,1007.511235,1012.629839,5.118604,0.588235,0.485863,50.0,18
+1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,22,chico-landi,Chico Landi,maserati,9,83,16,0,9,986.695549,988.950483,2.254935,0.5,0.454901,50.0,18
+1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,22,jan-flinterman,Jan Flinterman,maserati,9,,,0,10,1000.0,1001.266467,1.266467,0.5,0.474671,50.0,18
+1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,22,ken-wharton,Ken Wharton,frazer-nash,DNF,76,7,1,11,999.644975,996.526108,-3.118867,0.411765,0.474142,50.0,18
+1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,22,stirling-moss,Stirling Moss,era,DNF,73,18,1,12,968.547406,964.787748,-3.759658,0.352941,0.428134,50.0,18
+1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,22,dries-van-der-lof,Dries van der Lof,hwm,NC,70,14,1,13,1000.0,990.972349,-9.027651,0.294118,0.474671,50.0,18
+1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,22,ken-downing,Ken Downing,connaught,DNF,27,13,1,14,1012.329963,999.442184,-12.887779,0.235294,0.49305,50.0,18
+1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,22,charles-de-tornaco,Charles de Tornaco,ferrari,DNF,19,17,1,15,1011.620907,995.844832,-15.776074,0.176471,0.491992,50.0,18
+1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,22,paul-frere,Paul Frère,simca-gordini,DNF,15,11,1,16,1003.398843,985.294527,-18.104317,0.117647,0.479733,50.0,18
+1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,22,jean-behra,Jean Behra,gordini,DNF,10,6,1,17,1033.443509,1010.158551,-23.284958,0.058824,0.524523,50.0,18
+1952,7,1952-08-17,netherlands,Grote Prijs van Nederland 1952,22,gino-bianco,Gino Bianco,maserati,DNF,4,12,1,18,980.887982,958.572712,-22.315269,0.0,0.446305,50.0,18

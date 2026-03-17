@@ -1,25 +1,25 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,jenson-button,Jenson Button,mclaren,1,71,2,0,1,1274.013161,1288.462063,14.448902,1.0,0.711022,50.0,24
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,fernando-alonso,Fernando Alonso,ferrari,2,71,7,0,2,1370.598053,1378.177478,7.579425,0.956522,0.804933,50.0,24
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,felipe-massa,Felipe Massa,ferrari,3,71,5,0,3,1257.620405,1268.612854,10.992449,0.913043,0.693194,50.0,24
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,mark-webber,Mark Webber,red-bull,4,71,3,0,4,1274.381598,1282.289015,7.907417,0.869565,0.711417,50.0,24
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,nico-hulkenberg,Nico Hülkenberg,force-india,5,71,6,0,5,1109.340297,1124.903559,15.563262,0.826087,0.514822,50.0,24
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,sebastian-vettel,Sebastian Vettel,red-bull,6,71,4,0,6,1400.24478,1397.894626,-2.350153,0.782609,0.829612,50.0,24
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,michael-schumacher,Michael Schumacher,mercedes,7,71,13,0,7,1065.928073,1079.892621,13.964548,0.73913,0.459839,50.0,24
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,8,71,17,0,8,1002.416266,1018.161406,15.74514,0.695652,0.380749,50.0,24
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,kamui-kobayashi,Kamui Kobayashi,sauber,9,71,14,0,9,1092.427754,1100.366425,7.938672,0.652174,0.4934,50.0,24
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,kimi-raikkonen,Kimi Räikkönen,lotus-f1,10,70,8,0,10,1328.093378,1320.224458,-7.86892,0.608696,0.766074,50.0,24
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,vitaly-petrov,Vitaly Petrov,caterham,11,70,19,0,11,974.575385,985.470681,10.895296,0.565217,0.347311,50.0,24
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,charles-pic,Charles Pic,marussia,12,70,22,0,12,913.6353,925.807284,12.171985,0.521739,0.278299,50.0,24
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,daniel-ricciardo,Daniel Ricciardo,toro-rosso,13,70,15,0,13,1059.959131,1061.257103,1.297972,0.478261,0.452301,50.0,24
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,heikki-kovalainen,Heikki Kovalainen,caterham,14,70,20,0,14,953.761787,959.349573,5.587786,0.434783,0.323027,50.0,24
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,nico-rosberg,Nico Rosberg,mercedes,15,70,9,0,15,1146.125673,1137.63691,-8.488762,0.391304,0.56108,50.0,24
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,timo-glock,Timo Glock,marussia,16,70,21,0,16,895.828664,900.247393,4.41873,0.347826,0.259451,50.0,24
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,pedro-de-la-rosa,Pedro de la Rosa,hrt,17,69,24,0,17,883.194606,886.087751,2.893144,0.304348,0.246485,50.0,24
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,narain-karthikeyan,Narain Karthikeyan,hrt,18,69,23,0,18,808.368099,812.552478,4.184379,0.26087,0.177182,50.0,24
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,paul-di-resta,Paul di Resta,force-india,19,68,10,0,19,1137.860463,1121.192613,-16.66785,0.217391,0.550748,50.0,24
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,lewis-hamilton,Lewis Hamilton,mclaren,DNF,54,1,1,20,1227.691089,1203.415405,-24.275684,0.173913,0.659427,50.0,24
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,romain-grosjean,Romain Grosjean,lotus-f1,DNF,5,18,1,21,1058.848513,1042.825237,-16.023276,0.130435,0.4509,50.0,24
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,pastor-maldonado,Pastor Maldonado,williams,DNF,1,16,1,22,1035.790218,1019.040564,-16.749654,0.086957,0.42195,50.0,24
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,bruno-senna,Bruno Senna,williams,DNF,0,11,1,23,1057.86426,1036.468266,-21.395994,0.021739,0.449659,50.0,24
-2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,sergio-perez,Sergio Pérez,sauber,DNF,0,12,1,24,1063.772169,1042.003356,-21.768814,0.021739,0.457115,50.0,24
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,jenson-button,Jenson Button,mclaren,1,71,2,0,1,1274.013161,1288.462063,14.448902,1.0,0.711022,50.0,24
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,fernando-alonso,Fernando Alonso,ferrari,2,71,7,0,2,1370.598053,1378.177478,7.579425,0.956522,0.804933,50.0,24
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,felipe-massa,Felipe Massa,ferrari,3,71,5,0,3,1257.620405,1268.612854,10.992449,0.913043,0.693194,50.0,24
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,mark-webber,Mark Webber,red-bull,4,71,3,0,4,1274.381598,1282.289015,7.907417,0.869565,0.711417,50.0,24
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,nico-hulkenberg,Nico Hülkenberg,force-india,5,71,6,0,5,1109.340297,1124.903559,15.563262,0.826087,0.514822,50.0,24
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,sebastian-vettel,Sebastian Vettel,red-bull,6,71,4,0,6,1400.24478,1397.894626,-2.350153,0.782609,0.829612,50.0,24
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,michael-schumacher,Michael Schumacher,mercedes,7,71,13,0,7,1065.928073,1079.892621,13.964548,0.73913,0.459839,50.0,24
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,8,71,17,0,8,1002.416266,1018.161406,15.74514,0.695652,0.380749,50.0,24
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,kamui-kobayashi,Kamui Kobayashi,sauber,9,71,14,0,9,1092.427754,1100.366425,7.938672,0.652174,0.4934,50.0,24
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,kimi-raikkonen,Kimi Räikkönen,lotus-f1,10,70,8,0,10,1328.093378,1320.224458,-7.86892,0.608696,0.766074,50.0,24
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,vitaly-petrov,Vitaly Petrov,caterham,11,70,19,0,11,974.575385,985.470681,10.895296,0.565217,0.347311,50.0,24
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,charles-pic,Charles Pic,marussia,12,70,22,0,12,913.6353,925.807284,12.171985,0.521739,0.278299,50.0,24
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,daniel-ricciardo,Daniel Ricciardo,toro-rosso,13,70,15,0,13,1059.959131,1061.257103,1.297972,0.478261,0.452301,50.0,24
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,heikki-kovalainen,Heikki Kovalainen,caterham,14,70,20,0,14,953.761787,959.349573,5.587786,0.434783,0.323027,50.0,24
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,nico-rosberg,Nico Rosberg,mercedes,15,70,9,0,15,1146.125673,1137.63691,-8.488762,0.391304,0.56108,50.0,24
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,timo-glock,Timo Glock,marussia,16,70,21,0,16,895.828664,900.247393,4.41873,0.347826,0.259451,50.0,24
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,pedro-de-la-rosa,Pedro de la Rosa,hrt,17,69,24,0,17,883.194606,886.087751,2.893144,0.304348,0.246485,50.0,24
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,narain-karthikeyan,Narain Karthikeyan,hrt,18,69,23,0,18,808.368099,812.552478,4.184379,0.26087,0.177182,50.0,24
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,paul-di-resta,Paul di Resta,force-india,19,68,10,0,19,1137.860463,1121.192613,-16.66785,0.217391,0.550748,50.0,24
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,lewis-hamilton,Lewis Hamilton,mclaren,DNF,54,1,1,20,1227.691089,1203.415405,-24.275684,0.173913,0.659427,50.0,24
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,romain-grosjean,Romain Grosjean,lotus-f1,DNF,5,18,1,21,1058.848513,1042.825237,-16.023276,0.130435,0.4509,50.0,24
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,pastor-maldonado,Pastor Maldonado,williams,DNF,1,16,1,22,1035.790218,1019.040564,-16.749654,0.086957,0.42195,50.0,24
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,bruno-senna,Bruno Senna,williams,DNF,0,11,1,23,1057.86426,1036.468266,-21.395994,0.021739,0.449659,50.0,24
+2012,20,2012-11-25,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2012,878,sergio-perez,Sergio Pérez,sauber,DNF,0,12,1,24,1063.772169,1042.003356,-21.768814,0.021739,0.457115,50.0,24

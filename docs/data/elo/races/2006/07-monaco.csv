@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,fernando-alonso,Fernando Alonso,renault,1,78,1,0,1,1375.304435,1384.278327,8.973892,1.0,0.820522,50.0,22
-2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,juan-pablo-montoya,Juan Pablo Montoya,mclaren,2,78,4,0,2,1147.440366,1167.069853,19.629487,0.952381,0.559791,50.0,22
-2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,david-coulthard,David Coulthard,red-bull,3,78,7,0,3,1048.791409,1072.757044,23.965635,0.904762,0.425449,50.0,22
-2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,rubens-barrichello,Rubens Barrichello,honda,4,78,5,0,4,1210.547685,1221.281615,10.73393,0.857143,0.642464,50.0,22
-2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,michael-schumacher,Michael Schumacher,ferrari,5,78,PL,0,5,1280.507778,1284.68261,4.174832,0.809524,0.726027,50.0,22
-2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,giancarlo-fisichella,Giancarlo Fisichella,renault,6,78,9,0,6,1207.621097,1213.778442,6.157346,0.761905,0.638758,50.0,22
-2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,nick-heidfeld,Nick Heidfeld,bmw-sauber,7,77,15,0,7,1087.419009,1099.232593,11.813584,0.714286,0.478014,50.0,22
-2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,ralf-schumacher,Ralf Schumacher,toyota,8,77,10,0,8,1165.431383,1169.571279,4.139896,0.666667,0.583869,50.0,22
-2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,felipe-massa,Felipe Massa,ferrari,9,77,21,0,9,1141.914555,1145.250107,3.335552,0.619048,0.552337,50.0,22
-2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,vitantonio-liuzzi,Vitantonio Liuzzi,toro-rosso,10,77,12,0,10,990.474712,1001.611883,11.137171,0.571429,0.348685,50.0,22
-2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,jenson-button,Jenson Button,honda,11,77,13,0,11,1207.856467,1202.09412,-5.762348,0.52381,0.639056,50.0,22
-2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,christijan-albers,Christijan Albers,midland,12,77,16,0,12,942.940573,952.236344,9.295771,0.47619,0.290275,50.0,22
-2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,scott-speed,Scott Speed,toro-rosso,13,77,18,0,13,1005.834583,1008.840326,3.005744,0.428571,0.368457,50.0,22
-2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,jacques-villeneuve,Jacques Villeneuve,bmw-sauber,14,77,14,0,14,1082.084512,1077.596198,-4.488314,0.380952,0.470719,50.0,22
-2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,tiago-monteiro,Tiago Monteiro,midland,15,76,17,0,15,998.797459,997.496565,-1.300894,0.333333,0.359351,50.0,22
-2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,franck-montagny,Franck Montagny,super-aguri,16,75,20,0,16,976.307339,974.052705,-2.254635,0.285714,0.330807,50.0,22
-2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,jarno-trulli,Jarno Trulli,toyota,17,72,6,0,17,1083.862494,1072.109779,-11.752716,0.238095,0.47315,50.0,22
-2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,christian-klien,Christian Klien,red-bull,DNF,56,11,1,18,1013.482985,1004.084954,-9.398032,0.190476,0.378437,50.0,22
-2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,nico-rosberg,Nico Rosberg,williams,DNF,51,8,1,19,1019.861608,1007.663347,-12.19826,0.142857,0.386822,50.0,22
-2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,50,3,1,20,1284.298523,1252.548162,-31.75036,0.095238,0.730245,50.0,22
-2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,mark-webber,Mark Webber,williams,DNF,48,2,1,21,1069.781944,1049.466647,-20.315297,0.047619,0.453925,50.0,22
-2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,takuma-sato,Takuma Sato,super-aguri,DNF,46,19,1,22,985.874007,968.732022,-17.141984,0.0,0.34284,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,757,fernando-alonso,Fernando Alonso,renault,1,78,1,0,1,1375.304435,1384.278327,8.973892,1.0,0.820522,50.0,22
+2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,757,juan-pablo-montoya,Juan Pablo Montoya,mclaren,2,78,4,0,2,1147.440366,1167.069853,19.629487,0.952381,0.559791,50.0,22
+2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,757,david-coulthard,David Coulthard,red-bull,3,78,7,0,3,1048.791409,1072.757044,23.965635,0.904762,0.425449,50.0,22
+2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,757,rubens-barrichello,Rubens Barrichello,honda,4,78,5,0,4,1210.547685,1221.281615,10.73393,0.857143,0.642464,50.0,22
+2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,757,michael-schumacher,Michael Schumacher,ferrari,5,78,PL,0,5,1280.507778,1284.68261,4.174832,0.809524,0.726027,50.0,22
+2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,757,giancarlo-fisichella,Giancarlo Fisichella,renault,6,78,9,0,6,1207.621097,1213.778442,6.157346,0.761905,0.638758,50.0,22
+2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,757,nick-heidfeld,Nick Heidfeld,bmw-sauber,7,77,15,0,7,1087.419009,1099.232593,11.813584,0.714286,0.478014,50.0,22
+2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,757,ralf-schumacher,Ralf Schumacher,toyota,8,77,10,0,8,1165.431383,1169.571279,4.139896,0.666667,0.583869,50.0,22
+2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,757,felipe-massa,Felipe Massa,ferrari,9,77,21,0,9,1141.914555,1145.250107,3.335552,0.619048,0.552337,50.0,22
+2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,757,vitantonio-liuzzi,Vitantonio Liuzzi,toro-rosso,10,77,12,0,10,990.474712,1001.611883,11.137171,0.571429,0.348685,50.0,22
+2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,757,jenson-button,Jenson Button,honda,11,77,13,0,11,1207.856467,1202.09412,-5.762348,0.52381,0.639056,50.0,22
+2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,757,christijan-albers,Christijan Albers,midland,12,77,16,0,12,942.940573,952.236344,9.295771,0.47619,0.290275,50.0,22
+2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,757,scott-speed,Scott Speed,toro-rosso,13,77,18,0,13,1005.834583,1008.840326,3.005744,0.428571,0.368457,50.0,22
+2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,757,jacques-villeneuve,Jacques Villeneuve,bmw-sauber,14,77,14,0,14,1082.084512,1077.596198,-4.488314,0.380952,0.470719,50.0,22
+2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,757,tiago-monteiro,Tiago Monteiro,midland,15,76,17,0,15,998.797459,997.496565,-1.300894,0.333333,0.359351,50.0,22
+2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,757,franck-montagny,Franck Montagny,super-aguri,16,75,20,0,16,976.307339,974.052705,-2.254635,0.285714,0.330807,50.0,22
+2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,757,jarno-trulli,Jarno Trulli,toyota,17,72,6,0,17,1083.862494,1072.109779,-11.752716,0.238095,0.47315,50.0,22
+2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,757,christian-klien,Christian Klien,red-bull,DNF,56,11,1,18,1013.482985,1004.084954,-9.398032,0.190476,0.378437,50.0,22
+2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,757,nico-rosberg,Nico Rosberg,williams,DNF,51,8,1,19,1019.861608,1007.663347,-12.19826,0.142857,0.386822,50.0,22
+2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,757,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,50,3,1,20,1284.298523,1252.548162,-31.75036,0.095238,0.730245,50.0,22
+2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,757,mark-webber,Mark Webber,williams,DNF,48,2,1,21,1069.781944,1049.466647,-20.315297,0.047619,0.453925,50.0,22
+2006,7,2006-05-28,monaco,Formula 1 Grand Prix de Monaco 2006,757,takuma-sato,Takuma Sato,super-aguri,DNF,46,19,1,22,985.874007,968.732022,-17.141984,0.0,0.34284,50.0,22

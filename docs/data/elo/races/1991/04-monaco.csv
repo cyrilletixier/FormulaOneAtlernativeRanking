@@ -1,35 +1,35 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,ayrton-senna,Ayrton Senna,mclaren,1,78,1,0,1,1320.746673,1330.75078,10.004107,1.0,0.799918,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,nigel-mansell,Nigel Mansell,williams,2,78,5,0,2,1178.894568,1194.998383,16.103815,0.969697,0.647621,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,jean-alesi,Jean Alesi,ferrari,3,78,9,0,3,1119.19912,1137.596116,18.396996,0.939394,0.571454,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,roberto-moreno,Roberto Moreno,benetton,4,77,8,0,4,961.466353,988.810367,27.344014,0.909091,0.362211,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,alain-prost,Alain Prost,ferrari,5,77,7,0,5,1321.396231,1325.310561,3.914329,0.878788,0.800501,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,emanuele-pirro,Emanuele Pirro,dallara,6,77,12,0,6,1031.40115,1051.128589,19.72744,0.848485,0.453936,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,thierry-boutsen,Thierry Boutsen,ligier,7,76,16,0,7,1236.324407,1241.48662,5.162213,0.818182,0.714938,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,bertrand-gachot,Bertrand Gachot,jordan,8,76,24,0,8,891.633883,917.118881,25.484998,0.787879,0.278179,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,eric-bernard,Éric Bernard,lola,9,76,21,0,9,1066.634159,1079.446369,12.812211,0.757576,0.501332,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,erik-comas,Érik Comas,ligier,10,76,23,0,10,1006.9808,1022.276168,15.295367,0.727273,0.421365,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,jj-lehto,JJ Lehto,dallara,11,75,13,0,11,992.289469,1007.037831,14.748362,0.69697,0.402002,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,pierluigi-martini,Pierluigi Martini,minardi,12,72,14,0,12,1112.947534,1118.120046,5.172512,0.666667,0.563216,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,mika-hakkinen,Mika Häkkinen,lotus,DNF,64,26,1,13,1048.854055,1056.802663,7.948609,0.636364,0.477391,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,gianni-morbidelli,Gianni Morbidelli,minardi,DNF,49,17,1,14,1000.080968,1009.77174,9.690773,0.606061,0.412245,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,mauricio-gugelmin,Maurício Gugelmin,leyton-house,DNF,43,15,1,15,1047.788887,1052.778878,4.989991,0.575758,0.475958,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,riccardo-patrese,Riccardo Patrese,williams,DNF,42,3,1,16,1245.734908,1235.986026,-9.748882,0.530303,0.725281,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,stefano-modena,Stefano Modena,tyrrell,DNF,42,2,1,17,1077.086255,1077.83204,0.745785,0.530303,0.515387,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,mark-blundell,Mark Blundell,brabham,DNF,41,22,1,18,1021.085752,1023.321627,2.235875,0.484848,0.440131,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,michele-alboreto,Michele Alboreto,footwork,DNF,39,25,1,19,1015.63197,1016.716352,1.084382,0.454545,0.432858,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,satoru-nakajima,Satoru Nakajima,tyrrell,DNF,35,11,1,20,1067.119804,1063.232667,-3.887137,0.424242,0.501985,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,aguri-suzuki,Aguri Suzuki,lola,DNF,24,19,1,21,1036.789445,1033.428051,-3.361394,0.393939,0.461167,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,andrea-de-cesaris,Andrea de Cesaris,jordan,DNF,21,10,1,22,1014.792245,1011.387075,-3.405171,0.363636,0.43174,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,ivan-capelli,Ivan Capelli,leyton-house,DNF,12,18,1,23,1070.185518,1061.546671,-8.638848,0.333333,0.50611,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,gabriele-tarquini,Gabriele Tarquini,ags,DNF,9,20,1,24,888.635889,889.289446,0.653558,0.287879,0.274808,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,gerhard-berger,Gerhard Berger,mclaren,DNF,9,6,1,25,1254.892429,1232.529149,-22.36328,0.287879,0.735144,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,nelson-piquet,Nelson Piquet,benetton,DNF,0,4,1,26,1269.77599,1244.360136,-25.415853,0.242424,0.750741,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,eric-van-de-poele,Eric van de Poele,modena,DNPQ,,,1,27,994.665161,982.742555,-11.922606,0.166667,0.405119,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,nicola-larini,Nicola Larini,modena,DNPQ,,,1,28,1074.945725,1057.6535,-17.292225,0.166667,0.512511,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,olivier-grouillard,Olivier Grouillard,fondmetal,DNPQ,,,1,29,936.753545,928.518608,-8.234936,0.166667,0.331365,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,pedro-chaves,Pedro Chaves,coloni,DNPQ,,,1,30,966.634858,956.528671,-10.106188,0.166667,0.36879,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,martin-brundle,Martin Brundle,brabham,EX,,,1,31,1131.680843,1106.837357,-24.843486,0.090909,0.587779,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,alex-caffi,Alex Caffi,footwork,DNQ,,,2,32,1037.400589,1015.816334,-21.584256,0.030303,0.461988,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,fabrizio-barbazza,Fabrizio Barbazza,ags,DNQ,,,2,33,983.118373,965.131901,-17.986472,0.030303,0.390032,50.0,34
-1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,julian-bailey,Julian Bailey,lotus,DNQ,,,2,34,897.463164,884.738561,-12.724604,0.030303,0.284795,50.0,34
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,ayrton-senna,Ayrton Senna,mclaren,1,78,1,0,1,1320.746673,1330.75078,10.004107,1.0,0.799918,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,nigel-mansell,Nigel Mansell,williams,2,78,5,0,2,1178.894568,1194.998383,16.103815,0.969697,0.647621,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,jean-alesi,Jean Alesi,ferrari,3,78,9,0,3,1119.19912,1137.596116,18.396996,0.939394,0.571454,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,roberto-moreno,Roberto Moreno,benetton,4,77,8,0,4,961.466353,988.810367,27.344014,0.909091,0.362211,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,alain-prost,Alain Prost,ferrari,5,77,7,0,5,1321.396231,1325.310561,3.914329,0.878788,0.800501,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,emanuele-pirro,Emanuele Pirro,dallara,6,77,12,0,6,1031.40115,1051.128589,19.72744,0.848485,0.453936,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,thierry-boutsen,Thierry Boutsen,ligier,7,76,16,0,7,1236.324407,1241.48662,5.162213,0.818182,0.714938,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,bertrand-gachot,Bertrand Gachot,jordan,8,76,24,0,8,891.633883,917.118881,25.484998,0.787879,0.278179,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,eric-bernard,Éric Bernard,lola,9,76,21,0,9,1066.634159,1079.446369,12.812211,0.757576,0.501332,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,erik-comas,Érik Comas,ligier,10,76,23,0,10,1006.9808,1022.276168,15.295367,0.727273,0.421365,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,jj-lehto,JJ Lehto,dallara,11,75,13,0,11,992.289469,1007.037831,14.748362,0.69697,0.402002,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,pierluigi-martini,Pierluigi Martini,minardi,12,72,14,0,12,1112.947534,1118.120046,5.172512,0.666667,0.563216,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,mika-hakkinen,Mika Häkkinen,lotus,DNF,64,26,1,13,1048.854055,1056.802663,7.948609,0.636364,0.477391,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,gianni-morbidelli,Gianni Morbidelli,minardi,DNF,49,17,1,14,1000.080968,1009.77174,9.690773,0.606061,0.412245,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,mauricio-gugelmin,Maurício Gugelmin,leyton-house,DNF,43,15,1,15,1047.788887,1052.778878,4.989991,0.575758,0.475958,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,riccardo-patrese,Riccardo Patrese,williams,DNF,42,3,1,16,1245.734908,1235.986026,-9.748882,0.530303,0.725281,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,stefano-modena,Stefano Modena,tyrrell,DNF,42,2,1,17,1077.086255,1077.83204,0.745785,0.530303,0.515387,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,mark-blundell,Mark Blundell,brabham,DNF,41,22,1,18,1021.085752,1023.321627,2.235875,0.484848,0.440131,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,michele-alboreto,Michele Alboreto,footwork,DNF,39,25,1,19,1015.63197,1016.716352,1.084382,0.454545,0.432858,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,satoru-nakajima,Satoru Nakajima,tyrrell,DNF,35,11,1,20,1067.119804,1063.232667,-3.887137,0.424242,0.501985,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,aguri-suzuki,Aguri Suzuki,lola,DNF,24,19,1,21,1036.789445,1033.428051,-3.361394,0.393939,0.461167,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,andrea-de-cesaris,Andrea de Cesaris,jordan,DNF,21,10,1,22,1014.792245,1011.387075,-3.405171,0.363636,0.43174,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,ivan-capelli,Ivan Capelli,leyton-house,DNF,12,18,1,23,1070.185518,1061.546671,-8.638848,0.333333,0.50611,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,gabriele-tarquini,Gabriele Tarquini,ags,DNF,9,20,1,24,888.635889,889.289446,0.653558,0.287879,0.274808,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,gerhard-berger,Gerhard Berger,mclaren,DNF,9,6,1,25,1254.892429,1232.529149,-22.36328,0.287879,0.735144,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,nelson-piquet,Nelson Piquet,benetton,DNF,0,4,1,26,1269.77599,1244.360136,-25.415853,0.242424,0.750741,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,eric-van-de-poele,Eric van de Poele,modena,DNPQ,,,1,27,994.665161,982.742555,-11.922606,0.166667,0.405119,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,nicola-larini,Nicola Larini,modena,DNPQ,,,1,28,1074.945725,1057.6535,-17.292225,0.166667,0.512511,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,olivier-grouillard,Olivier Grouillard,fondmetal,DNPQ,,,1,29,936.753545,928.518608,-8.234936,0.166667,0.331365,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,pedro-chaves,Pedro Chaves,coloni,DNPQ,,,1,30,966.634858,956.528671,-10.106188,0.166667,0.36879,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,martin-brundle,Martin Brundle,brabham,EX,,,1,31,1131.680843,1106.837357,-24.843486,0.090909,0.587779,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,alex-caffi,Alex Caffi,footwork,DNQ,,,2,32,1037.400589,1015.816334,-21.584256,0.030303,0.461988,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,fabrizio-barbazza,Fabrizio Barbazza,ags,DNQ,,,2,33,983.118373,965.131901,-17.986472,0.030303,0.390032,50.0,34
+1991,4,1991-05-12,monaco,Grand Prix de Monaco 1991,504,julian-bailey,Julian Bailey,lotus,DNQ,,,2,34,897.463164,884.738561,-12.724604,0.030303,0.284795,50.0,34

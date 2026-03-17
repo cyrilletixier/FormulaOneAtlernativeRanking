@@ -1,7 +1,7 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1952-05-30,1952,2,indianapolis,kurtis-kraft,Kurtis Kraft,7,200,33,1000.0,1015.800422,15.800422,0.8125,0.496492,50.0
-1954-05-31,1954,2,indianapolis,pankratz,Pankratz,17,194,42,1015.800422,1009.392723,-6.407699,0.390244,0.518398,50.0
-1955-05-30,1955,3,indianapolis,pankratz,Pankratz,33,10,35,1009.392723,984.165389,-25.227334,0.0,0.504547,50.0
-1956-05-30,1956,3,indianapolis,lesovsky,Lesovsky,9,200,34,984.165389,998.137625,13.972236,0.757576,0.478131,50.0
-1957-05-30,1957,3,indianapolis,kurtis-kraft,Kurtis Kraft,18,182,33,998.137625,996.732595,-1.40503,0.46875,0.496851,50.0
-1958-05-30,1958,4,indianapolis,watson,Watson,6,200,33,996.732595,1014.239472,17.506877,0.84375,0.493612,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1952-05-30,1952,2,indianapolis,17,kurtis-kraft,Kurtis Kraft,7,200,33,1000.0,1015.800422,15.800422,0.8125,0.496492,50.0
+1954-05-31,1954,2,indianapolis,34,pankratz,Pankratz,17,194,42,1015.800422,1009.392723,-6.407699,0.390244,0.518398,50.0
+1955-05-30,1955,3,indianapolis,44,pankratz,Pankratz,33,10,35,1009.392723,984.165389,-25.227334,0.0,0.504547,50.0
+1956-05-30,1956,3,indianapolis,51,lesovsky,Lesovsky,9,200,34,984.165389,998.137625,13.972236,0.757576,0.478131,50.0
+1957-05-30,1957,3,indianapolis,59,kurtis-kraft,Kurtis Kraft,18,182,33,998.137625,996.732595,-1.40503,0.46875,0.496851,50.0
+1958-05-30,1958,4,indianapolis,68,watson,Watson,6,200,33,996.732595,1014.239472,17.506877,0.84375,0.493612,50.0

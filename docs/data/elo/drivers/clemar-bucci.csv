@@ -1,6 +1,6 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1954-07-17,1954,5,great-britain,gordini,Gordini,DNF,18,33,1000.0,989.325188,-10.674812,0.25,0.463496,50.0
-1954-08-01,1954,6,germany,gordini,Gordini,DNF,8,23,989.325188,987.276052,-2.049136,0.386364,0.427346,50.0
-1954-08-22,1954,7,switzerland,gordini,Gordini,DNF,0,17,987.276052,968.854758,-18.421294,0.0625,0.430926,50.0
-1954-09-05,1954,8,italy,gordini,Gordini,DNF,13,21,968.854758,953.930657,-14.924101,0.1,0.398482,50.0
-1955-01-16,1955,1,argentina,maserati,Maserati,DNF,54,22,953.930657,954.02409,0.093432,0.380952,0.379084,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1954-07-17,1954,5,great-britain,37,gordini,Gordini,DNF,18,33,1000.0,989.325188,-10.674812,0.25,0.463496,50.0
+1954-08-01,1954,6,germany,38,gordini,Gordini,DNF,8,23,989.325188,987.276052,-2.049136,0.386364,0.427346,50.0
+1954-08-22,1954,7,switzerland,39,gordini,Gordini,DNF,0,17,987.276052,968.854758,-18.421294,0.0625,0.430926,50.0
+1954-09-05,1954,8,italy,40,gordini,Gordini,DNF,13,21,968.854758,953.930657,-14.924101,0.1,0.398482,50.0
+1955-01-16,1955,1,argentina,42,maserati,Maserati,DNF,54,22,953.930657,954.02409,0.093432,0.380952,0.379084,50.0

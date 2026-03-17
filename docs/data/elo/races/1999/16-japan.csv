@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,mika-hakkinen,Mika Häkkinen,mclaren,1,53,2,0,1,1249.352539,1263.26755,13.915011,1.0,0.7217,50.0,22
-1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,michael-schumacher,Michael Schumacher,ferrari,2,53,1,0,2,1276.859161,1286.873755,10.014594,0.952381,0.752089,50.0,22
-1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,eddie-irvine,Eddie Irvine,ferrari,3,53,5,0,3,1301.360974,1307.723498,6.362524,0.904762,0.777511,50.0,22
-1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,4,53,4,0,4,1223.926381,1232.1849,8.258519,0.857143,0.691972,50.0,22
-1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,ralf-schumacher,Ralf Schumacher,williams,5,53,9,0,5,1153.054727,1163.426505,10.371778,0.809524,0.602088,50.0,22
-1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,jean-alesi,Jean Alesi,sauber,6,52,10,0,6,1070.595182,1084.219717,13.624535,0.761905,0.489414,50.0,22
-1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,johnny-herbert,Johnny Herbert,stewart,7,52,8,0,7,1052.257501,1064.770536,12.513035,0.714286,0.464025,50.0,22
-1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,rubens-barrichello,Rubens Barrichello,stewart,8,52,13,0,8,1095.114979,1102.280728,7.165749,0.666667,0.523352,50.0,22
-1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,jacques-villeneuve,Jacques Villeneuve,bar,9,52,11,0,9,1040.048018,1048.641463,8.593445,0.619048,0.447179,50.0,22
-1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,alexander-wurz,Alexander Wurz,benetton,10,52,15,0,10,1062.117206,1066.805204,4.687998,0.571429,0.477669,50.0,22
-1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,pedro-diniz,Pedro Diniz,sauber,11,52,17,0,11,934.984428,945.726771,10.742343,0.52381,0.308963,50.0,22
-1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,ricardo-zonta,Ricardo Zonta,bar,12,52,18,0,12,970.4882,976.609371,6.121171,0.47619,0.353767,50.0,22
-1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,arrows,13,51,21,0,13,982.592655,985.542663,2.950008,0.428571,0.369571,50.0,22
-1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,benetton,14,47,14,0,14,1094.442678,1087.36913,-7.073549,0.380952,0.522423,50.0,22
-1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,luca-badoer,Luca Badoer,minardi,DNF,43,22,1,15,980.648852,977.774174,-2.874678,0.309524,0.367017,50.0,22
-1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,toranosuke-takagi,Toranosuke Takagi,arrows,DNF,43,19,1,16,933.787123,933.88847,0.101347,0.309524,0.307497,50.0,22
-1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,david-coulthard,David Coulthard,mclaren,DNF,39,3,1,17,1193.325663,1172.515091,-20.810571,0.238095,0.654307,50.0,22
-1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,marc-gene,Marc Gené,minardi,DNF,31,20,1,18,1008.736973,998.038727,-10.698246,0.190476,0.404441,50.0,22
-1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,damon-hill,Damon Hill,jordan,DNF,21,12,1,19,1059.506122,1042.946322,-16.5598,0.142857,0.474053,50.0,22
-1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,olivier-panis,Olivier Panis,prost,DNF,19,6,1,20,1053.782909,1035.238111,-18.544798,0.095238,0.466134,50.0,22
-1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,jarno-trulli,Jarno Trulli,prost,DNF,3,7,1,21,1030.237463,1010.933303,-19.30416,0.047619,0.433702,50.0,22
-1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,alex-zanardi,Alex Zanardi,williams,DNF,0,16,1,22,998.832498,979.276244,-19.556255,0.0,0.391125,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,646,mika-hakkinen,Mika Häkkinen,mclaren,1,53,2,0,1,1249.352539,1263.26755,13.915011,1.0,0.7217,50.0,22
+1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,646,michael-schumacher,Michael Schumacher,ferrari,2,53,1,0,2,1276.859161,1286.873755,10.014594,0.952381,0.752089,50.0,22
+1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,646,eddie-irvine,Eddie Irvine,ferrari,3,53,5,0,3,1301.360974,1307.723498,6.362524,0.904762,0.777511,50.0,22
+1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,646,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,4,53,4,0,4,1223.926381,1232.1849,8.258519,0.857143,0.691972,50.0,22
+1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,646,ralf-schumacher,Ralf Schumacher,williams,5,53,9,0,5,1153.054727,1163.426505,10.371778,0.809524,0.602088,50.0,22
+1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,646,jean-alesi,Jean Alesi,sauber,6,52,10,0,6,1070.595182,1084.219717,13.624535,0.761905,0.489414,50.0,22
+1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,646,johnny-herbert,Johnny Herbert,stewart,7,52,8,0,7,1052.257501,1064.770536,12.513035,0.714286,0.464025,50.0,22
+1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,646,rubens-barrichello,Rubens Barrichello,stewart,8,52,13,0,8,1095.114979,1102.280728,7.165749,0.666667,0.523352,50.0,22
+1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,646,jacques-villeneuve,Jacques Villeneuve,bar,9,52,11,0,9,1040.048018,1048.641463,8.593445,0.619048,0.447179,50.0,22
+1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,646,alexander-wurz,Alexander Wurz,benetton,10,52,15,0,10,1062.117206,1066.805204,4.687998,0.571429,0.477669,50.0,22
+1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,646,pedro-diniz,Pedro Diniz,sauber,11,52,17,0,11,934.984428,945.726771,10.742343,0.52381,0.308963,50.0,22
+1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,646,ricardo-zonta,Ricardo Zonta,bar,12,52,18,0,12,970.4882,976.609371,6.121171,0.47619,0.353767,50.0,22
+1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,646,pedro-de-la-rosa,Pedro de la Rosa,arrows,13,51,21,0,13,982.592655,985.542663,2.950008,0.428571,0.369571,50.0,22
+1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,646,giancarlo-fisichella,Giancarlo Fisichella,benetton,14,47,14,0,14,1094.442678,1087.36913,-7.073549,0.380952,0.522423,50.0,22
+1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,646,luca-badoer,Luca Badoer,minardi,DNF,43,22,1,15,980.648852,977.774174,-2.874678,0.309524,0.367017,50.0,22
+1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,646,toranosuke-takagi,Toranosuke Takagi,arrows,DNF,43,19,1,16,933.787123,933.88847,0.101347,0.309524,0.307497,50.0,22
+1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,646,david-coulthard,David Coulthard,mclaren,DNF,39,3,1,17,1193.325663,1172.515091,-20.810571,0.238095,0.654307,50.0,22
+1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,646,marc-gene,Marc Gené,minardi,DNF,31,20,1,18,1008.736973,998.038727,-10.698246,0.190476,0.404441,50.0,22
+1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,646,damon-hill,Damon Hill,jordan,DNF,21,12,1,19,1059.506122,1042.946322,-16.5598,0.142857,0.474053,50.0,22
+1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,646,olivier-panis,Olivier Panis,prost,DNF,19,6,1,20,1053.782909,1035.238111,-18.544798,0.095238,0.466134,50.0,22
+1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,646,jarno-trulli,Jarno Trulli,prost,DNF,3,7,1,21,1030.237463,1010.933303,-19.30416,0.047619,0.433702,50.0,22
+1999,16,1999-10-31,japan,1999 Fuji Television Japanese Grand Prix,646,alex-zanardi,Alex Zanardi,williams,DNF,0,16,1,22,998.832498,979.276244,-19.556255,0.0,0.391125,50.0,22

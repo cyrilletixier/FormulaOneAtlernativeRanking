@@ -1,26 +1,26 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,ronnie-peterson,Ronnie Peterson,lotus,1,55,1,0,1,1142.52257,1161.653535,19.130965,1.0,0.617381,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,emerson-fittipaldi,Emerson Fittipaldi,lotus,2,55,4,0,2,1169.990015,1185.231443,15.241428,0.958333,0.653505,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,peter-revson,Peter Revson,mclaren,3,55,2,0,3,1119.141673,1135.692084,16.550411,0.916667,0.585658,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,jackie-stewart,Jackie Stewart,tyrrell,4,55,6,0,4,1283.934408,1288.446923,4.512515,0.875,0.78475,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,francois-cevert,François Cevert,tyrrell,5,55,11,0,5,1196.247559,1203.583068,7.335509,0.833333,0.686623,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,carlos-reutemann,Carlos Reutemann,brabham,6,55,10,0,6,1049.199685,1064.399169,15.199485,0.791667,0.487677,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,mike-hailwood,Mike Hailwood,surtees,7,55,8,0,7,972.86028,991.28535,18.42507,0.75,0.381499,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,jacky-ickx,Jacky Ickx,ferrari,8,54,14,0,8,1126.501426,1132.131753,5.630327,0.708333,0.595727,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,david-purley,David Purley,march,9,54,24,0,9,961.783324,976.784386,15.001062,0.666667,0.366645,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,george-follmer,George Follmer,shadow,10,54,21,0,10,970.021572,982.38791,12.366337,0.625,0.377673,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,jackie-oliver,Jackie Oliver,shadow,11,54,19,0,11,923.766745,937.063287,13.296542,0.583333,0.317402,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,rolf-stommelen,Rolf Stommelen,brabham,12,54,9,0,12,1009.277646,1014.784382,5.506736,0.541667,0.431532,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,jean-pierre-beltoise,Jean-Pierre Beltoise,brm,13,54,13,0,13,1045.601231,1046.471669,0.870438,0.5,0.482591,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,graham-hill,Graham Hill,shadow,14,54,22,0,14,1047.945432,1046.566891,-1.37854,0.458333,0.485904,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,denny-hulme,Denny Hulme,mclaren,15,53,3,0,15,1209.679717,1195.365187,-14.314529,0.416667,0.702957,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,howden-ganley,Howden Ganley,iso-marlboro,NC,44,20,1,16,1026.626763,1022.585169,-4.041594,0.375,0.455832,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,mike-beuttler,Mike Beuttler,march,DNF,34,12,1,17,974.867692,972.323798,-2.543894,0.333333,0.384211,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,niki-lauda,Niki Lauda,brm,DNF,33,15,1,18,966.098403,962.061354,-4.037049,0.291667,0.372408,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,clay-regazzoni,Clay Regazzoni,brm,DNF,31,18,1,19,1084.611575,1070.229273,-14.382302,0.25,0.537646,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,carlos-pace,Carlos Pace,surtees,DNF,17,5,1,20,1039.322039,1026.052581,-13.269459,0.208333,0.473723,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,gijs-van-lennep,Gijs van Lennep,iso-marlboro,DNF,14,23,1,21,1021.981794,1007.849841,-14.131953,0.166667,0.449306,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,rikky-von-opel,Rikky von Opel,ensign,DNF,10,17,1,22,987.448508,973.631304,-13.817204,0.125,0.401344,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,wilson-fittipaldi,Wilson Fittipaldi,brabham,DNF,6,16,1,23,1010.890105,993.367731,-17.522375,0.083333,0.433781,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,arturo-merzario,Arturo Merzario,ferrari,DNF,2,7,1,24,1086.538186,1061.603975,-24.934212,0.041667,0.540351,50.0,25
-1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,james-hunt,James Hunt,march,DNS,,,2,25,1053.583524,1028.88981,-24.693714,0.0,0.493874,50.0,25
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,ronnie-peterson,Ronnie Peterson,lotus,1,55,1,0,1,1142.52257,1161.653535,19.130965,1.0,0.617381,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,emerson-fittipaldi,Emerson Fittipaldi,lotus,2,55,4,0,2,1169.990015,1185.231443,15.241428,0.958333,0.653505,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,peter-revson,Peter Revson,mclaren,3,55,2,0,3,1119.141673,1135.692084,16.550411,0.916667,0.585658,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,jackie-stewart,Jackie Stewart,tyrrell,4,55,6,0,4,1283.934408,1288.446923,4.512515,0.875,0.78475,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,francois-cevert,François Cevert,tyrrell,5,55,11,0,5,1196.247559,1203.583068,7.335509,0.833333,0.686623,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,carlos-reutemann,Carlos Reutemann,brabham,6,55,10,0,6,1049.199685,1064.399169,15.199485,0.791667,0.487677,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,mike-hailwood,Mike Hailwood,surtees,7,55,8,0,7,972.86028,991.28535,18.42507,0.75,0.381499,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,jacky-ickx,Jacky Ickx,ferrari,8,54,14,0,8,1126.501426,1132.131753,5.630327,0.708333,0.595727,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,david-purley,David Purley,march,9,54,24,0,9,961.783324,976.784386,15.001062,0.666667,0.366645,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,george-follmer,George Follmer,shadow,10,54,21,0,10,970.021572,982.38791,12.366337,0.625,0.377673,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,jackie-oliver,Jackie Oliver,shadow,11,54,19,0,11,923.766745,937.063287,13.296542,0.583333,0.317402,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,rolf-stommelen,Rolf Stommelen,brabham,12,54,9,0,12,1009.277646,1014.784382,5.506736,0.541667,0.431532,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,jean-pierre-beltoise,Jean-Pierre Beltoise,brm,13,54,13,0,13,1045.601231,1046.471669,0.870438,0.5,0.482591,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,graham-hill,Graham Hill,shadow,14,54,22,0,14,1047.945432,1046.566891,-1.37854,0.458333,0.485904,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,denny-hulme,Denny Hulme,mclaren,15,53,3,0,15,1209.679717,1195.365187,-14.314529,0.416667,0.702957,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,howden-ganley,Howden Ganley,iso-marlboro,NC,44,20,1,16,1026.626763,1022.585169,-4.041594,0.375,0.455832,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,mike-beuttler,Mike Beuttler,march,DNF,34,12,1,17,974.867692,972.323798,-2.543894,0.333333,0.384211,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,niki-lauda,Niki Lauda,brm,DNF,33,15,1,18,966.098403,962.061354,-4.037049,0.291667,0.372408,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,clay-regazzoni,Clay Regazzoni,brm,DNF,31,18,1,19,1084.611575,1070.229273,-14.382302,0.25,0.537646,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,carlos-pace,Carlos Pace,surtees,DNF,17,5,1,20,1039.322039,1026.052581,-13.269459,0.208333,0.473723,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,gijs-van-lennep,Gijs van Lennep,iso-marlboro,DNF,14,23,1,21,1021.981794,1007.849841,-14.131953,0.166667,0.449306,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,rikky-von-opel,Rikky von Opel,ensign,DNF,10,17,1,22,987.448508,973.631304,-13.817204,0.125,0.401344,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,wilson-fittipaldi,Wilson Fittipaldi,brabham,DNF,6,16,1,23,1010.890105,993.367731,-17.522375,0.083333,0.433781,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,arturo-merzario,Arturo Merzario,ferrari,DNF,2,7,1,24,1086.538186,1061.603975,-24.934212,0.041667,0.540351,50.0,25
+1973,13,1973-09-09,italy,Gran Premio d'Italia 1973,233,james-hunt,James Hunt,march,DNS,,,2,25,1053.583524,1028.88981,-24.693714,0.0,0.493874,50.0,25

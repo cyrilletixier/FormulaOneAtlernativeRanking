@@ -1,27 +1,27 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1985,7,1985-07-07,france,Grand Prix de France 1985,nelson-piquet,Nelson Piquet,brabham,1,53,5,0,1,1120.016728,1140.575833,20.559105,1.0,0.588818,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,keke-rosberg,Keke Rosberg,williams,2,53,1,0,2,1103.888771,1123.55396,19.665189,0.96,0.566696,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,alain-prost,Alain Prost,mclaren,3,53,4,0,3,1222.38649,1232.420373,10.033883,0.92,0.719322,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,stefan-johansson,Stefan Johansson,ferrari,4,53,15,0,4,1057.71588,1076.599856,18.883976,0.88,0.50232,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,elio-de-angelis,Elio de Angelis,lotus,5,53,7,0,5,1214.43868,1220.939029,6.500349,0.84,0.709993,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,patrick-tambay,Patrick Tambay,renault,6,53,9,0,6,1142.836034,1151.857497,9.021463,0.8,0.619571,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,derek-warwick,Derek Warwick,renault,7,53,10,0,7,1081.852111,1093.046987,11.194877,0.76,0.536102,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,marc-surer,Marc Surer,brabham,8,52,13,0,8,1040.159969,1052.27415,12.114181,0.72,0.477716,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,thierry-boutsen,Thierry Boutsen,arrows,9,52,11,0,9,1112.672326,1117.733416,5.06109,0.68,0.578778,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,eddie-cheever,Eddie Cheever,alfa-romeo,10,52,17,0,10,1051.312774,1058.645629,7.332855,0.64,0.493343,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,riccardo-patrese,Riccardo Patrese,alfa-romeo,11,52,16,0,11,1040.594911,1046.678647,6.083736,0.6,0.478325,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,manfred-winkelhock,Manfred Winkelhock,ram,12,50,19,0,12,946.186626,956.687833,10.501207,0.56,0.349976,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,stefan-bellof,Stefan Bellof,tyrrell,13,50,25,0,13,896.110928,907.717787,11.606859,0.52,0.287863,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,teo-fabi,Teo Fabi,toleman,14,49,18,0,14,999.928278,1002.836568,2.90829,0.48,0.421834,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,piercarlo-ghinzani,Piercarlo Ghinzani,osella,15,49,23,0,15,940.272266,945.154255,4.881989,0.44,0.34236,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,martin-brundle,Martin Brundle,tyrrell,DNF,32,20,1,16,942.072355,944.83881,2.766455,0.4,0.344671,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,niki-lauda,Niki Lauda,mclaren,DNF,30,6,1,17,1162.918574,1148.620246,-14.298328,0.36,0.645967,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,ayrton-senna,Ayrton Senna,lotus,DNF,26,2,1,18,1064.072533,1054.51098,-9.561553,0.32,0.511231,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,gerhard-berger,Gerhard Berger,arrows,DNF,20,8,1,19,995.369925,988.590618,-6.779307,0.28,0.415586,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,pierluigi-martini,Pierluigi Martini,minardi,DNF,19,24,1,20,939.027209,933.988922,-5.038287,0.24,0.340766,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,philippe-alliot,Philippe Alliot,ram,DNF,8,22,1,21,937.799546,930.839717,-6.959829,0.2,0.339197,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,jonathan-palmer,Jonathan Palmer,zakspeed,DNF,6,21,1,22,976.911999,965.384991,-11.527008,0.16,0.39054,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,michele-alboreto,Michele Alboreto,ferrari,DNF,5,3,1,23,1216.726891,1187.092133,-29.634758,0.12,0.712695,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,andrea-de-cesaris,Andrea de Cesaris,ligier,DNF,4,12,1,24,1077.694925,1055.180052,-22.514873,0.08,0.530297,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,jacques-laffite,Jacques Laffite,ligier,DNF,2,14,1,25,1060.583083,1037.266074,-23.317009,0.04,0.50634,50.0,26
-1985,7,1985-07-07,france,Grand Prix de France 1985,nigel-mansell,Nigel Mansell,williams,DNS,,,2,26,1120.657578,1091.173029,-29.484549,0.0,0.589691,50.0,26
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,nelson-piquet,Nelson Piquet,brabham,1,53,5,0,1,1120.016728,1140.575833,20.559105,1.0,0.588818,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,keke-rosberg,Keke Rosberg,williams,2,53,1,0,2,1103.888771,1123.55396,19.665189,0.96,0.566696,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,alain-prost,Alain Prost,mclaren,3,53,4,0,3,1222.38649,1232.420373,10.033883,0.92,0.719322,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,stefan-johansson,Stefan Johansson,ferrari,4,53,15,0,4,1057.71588,1076.599856,18.883976,0.88,0.50232,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,elio-de-angelis,Elio de Angelis,lotus,5,53,7,0,5,1214.43868,1220.939029,6.500349,0.84,0.709993,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,patrick-tambay,Patrick Tambay,renault,6,53,9,0,6,1142.836034,1151.857497,9.021463,0.8,0.619571,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,derek-warwick,Derek Warwick,renault,7,53,10,0,7,1081.852111,1093.046987,11.194877,0.76,0.536102,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,marc-surer,Marc Surer,brabham,8,52,13,0,8,1040.159969,1052.27415,12.114181,0.72,0.477716,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,thierry-boutsen,Thierry Boutsen,arrows,9,52,11,0,9,1112.672326,1117.733416,5.06109,0.68,0.578778,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,eddie-cheever,Eddie Cheever,alfa-romeo,10,52,17,0,10,1051.312774,1058.645629,7.332855,0.64,0.493343,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,riccardo-patrese,Riccardo Patrese,alfa-romeo,11,52,16,0,11,1040.594911,1046.678647,6.083736,0.6,0.478325,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,manfred-winkelhock,Manfred Winkelhock,ram,12,50,19,0,12,946.186626,956.687833,10.501207,0.56,0.349976,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,stefan-bellof,Stefan Bellof,tyrrell,13,50,25,0,13,896.110928,907.717787,11.606859,0.52,0.287863,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,teo-fabi,Teo Fabi,toleman,14,49,18,0,14,999.928278,1002.836568,2.90829,0.48,0.421834,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,piercarlo-ghinzani,Piercarlo Ghinzani,osella,15,49,23,0,15,940.272266,945.154255,4.881989,0.44,0.34236,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,martin-brundle,Martin Brundle,tyrrell,DNF,32,20,1,16,942.072355,944.83881,2.766455,0.4,0.344671,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,niki-lauda,Niki Lauda,mclaren,DNF,30,6,1,17,1162.918574,1148.620246,-14.298328,0.36,0.645967,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,ayrton-senna,Ayrton Senna,lotus,DNF,26,2,1,18,1064.072533,1054.51098,-9.561553,0.32,0.511231,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,gerhard-berger,Gerhard Berger,arrows,DNF,20,8,1,19,995.369925,988.590618,-6.779307,0.28,0.415586,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,pierluigi-martini,Pierluigi Martini,minardi,DNF,19,24,1,20,939.027209,933.988922,-5.038287,0.24,0.340766,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,philippe-alliot,Philippe Alliot,ram,DNF,8,22,1,21,937.799546,930.839717,-6.959829,0.2,0.339197,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,jonathan-palmer,Jonathan Palmer,zakspeed,DNF,6,21,1,22,976.911999,965.384991,-11.527008,0.16,0.39054,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,michele-alboreto,Michele Alboreto,ferrari,DNF,5,3,1,23,1216.726891,1187.092133,-29.634758,0.12,0.712695,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,andrea-de-cesaris,Andrea de Cesaris,ligier,DNF,4,12,1,24,1077.694925,1055.180052,-22.514873,0.08,0.530297,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,jacques-laffite,Jacques Laffite,ligier,DNF,2,14,1,25,1060.583083,1037.266074,-23.317009,0.04,0.50634,50.0,26
+1985,7,1985-07-07,france,Grand Prix de France 1985,411,nigel-mansell,Nigel Mansell,williams,DNS,,,2,26,1120.657578,1091.173029,-29.484549,0.0,0.589691,50.0,26

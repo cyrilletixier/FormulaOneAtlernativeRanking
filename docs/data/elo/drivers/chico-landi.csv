@@ -1,7 +1,7 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1951-09-16,1951,7,italy,ferrari,Ferrari,DNF,1,24,1000.0,986.695549,-13.304451,0.217391,0.48348,50.0
-1952-08-17,1952,7,netherlands,maserati,Maserati,9,83,18,986.695549,988.950483,2.254935,0.5,0.454901,50.0
-1952-09-07,1952,8,italy,maserati,Maserati,8,76,35,988.950483,1005.198661,16.248178,0.794118,0.469154,50.0
-1953-08-23,1953,8,switzerland,maserati,Maserati,DNF,54,23,1005.198661,1009.199304,4.000642,0.545455,0.465442,50.0
-1953-09-13,1953,9,italy,maserati,Maserati,DNF,18,31,1009.199304,991.296633,-17.90267,0.133333,0.491387,50.0
-1956-01-22,1956,1,argentina,maserati,Maserati,4,92,15,991.296633,1003.759075,12.462442,0.678571,0.429323,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1951-09-16,1951,7,italy,14,ferrari,Ferrari,DNF,1,24,1000.0,986.695549,-13.304451,0.217391,0.48348,50.0
+1952-08-17,1952,7,netherlands,22,maserati,Maserati,9,83,18,986.695549,988.950483,2.254935,0.5,0.454901,50.0
+1952-09-07,1952,8,italy,23,maserati,Maserati,8,76,35,988.950483,1005.198661,16.248178,0.794118,0.469154,50.0
+1953-08-23,1953,8,switzerland,31,maserati,Maserati,DNF,54,23,1005.198661,1009.199304,4.000642,0.545455,0.465442,50.0
+1953-09-13,1953,9,italy,32,maserati,Maserati,DNF,18,31,1009.199304,991.296633,-17.90267,0.133333,0.491387,50.0
+1956-01-22,1956,1,argentina,49,maserati,Maserati,4,92,15,991.296633,1003.759075,12.462442,0.678571,0.429323,50.0

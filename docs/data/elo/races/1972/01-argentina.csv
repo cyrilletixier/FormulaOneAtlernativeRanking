@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,jackie-stewart,Jackie Stewart,tyrrell,1,95,2,0,1,1200.142049,1214.267021,14.124972,1.0,0.717501,50.0,22
-1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,denny-hulme,Denny Hulme,mclaren,2,95,4,0,2,1099.112686,1117.529101,18.416415,0.952381,0.584053,50.0,22
-1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,jacky-ickx,Jacky Ickx,ferrari,3,95,8,0,3,1101.485521,1117.353685,15.868165,0.904762,0.587399,50.0,22
-1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,clay-regazzoni,Clay Regazzoni,ferrari,4,95,6,0,4,1072.745213,1088.278856,15.533643,0.857143,0.54647,50.0,22
-1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,tim-schenken,Tim Schenken,surtees,5,95,11,0,5,1004.780698,1022.840479,18.059781,0.809524,0.448328,50.0,22
-1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,ronnie-peterson,Ronnie Peterson,march,6,94,10,0,6,1143.611221,1149.436961,5.82574,0.761905,0.64539,50.0,22
-1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,carlos-reutemann,Carlos Reutemann,brabham,7,93,1,0,7,1000.0,1013.640435,13.640435,0.714286,0.441477,50.0,22
-1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,henri-pescarolo,Henri Pescarolo,march,8,93,15,0,8,1046.963557,1054.834007,7.87045,0.666667,0.509258,50.0,22
-1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,howden-ganley,Howden Ganley,brm,9,93,13,0,9,1015.51117,1023.275333,7.764163,0.619048,0.463764,50.0,22
-1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,helmut-marko,Helmut Marko,brm,10,93,19,0,10,985.835353,993.341826,7.506473,0.571429,0.421299,50.0,22
-1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,niki-lauda,Niki Lauda,march,11,93,22,0,11,990.07019,994.895134,4.824943,0.52381,0.427311,50.0,22
-1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,emerson-fittipaldi,Emerson Fittipaldi,lotus,DNF,61,5,1,12,1095.118033,1090.007337,-5.110696,0.47619,0.578404,50.0,22
-1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,francois-cevert,François Cevert,tyrrell,DNF,59,7,1,13,1109.443046,1099.752828,-9.690218,0.404762,0.598566,50.0,22
-1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,reine-wisell,Reine Wisell,brm,DNF,59,17,1,14,1054.991083,1049.185587,-5.805496,0.404762,0.520872,50.0,22
-1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,peter-revson,Peter Revson,mclaren,DNF,49,3,1,15,949.253798,947.402306,-1.851492,0.333333,0.370363,50.0,22
-1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,mario-andretti,Mario Andretti,ferrari,DNF,20,9,1,16,959.289639,954.368636,-4.921003,0.285714,0.384134,50.0,22
-1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,andrea-de-adamich,Andrea de Adamich,surtees,DNF,11,14,1,17,948.472328,940.721703,-7.750625,0.214286,0.369298,50.0,22
-1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,graham-hill,Graham Hill,brabham,DNF,11,16,1,18,1050.487944,1035.484303,-15.003641,0.214286,0.514359,50.0,22
-1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,alex-soler-roig,Alex Soler-Roig,brm,DNF,1,21,1,19,907.280748,897.487569,-9.793179,0.119048,0.314911,50.0,22
-1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,peter-gethin,Peter Gethin,brm,DNF,1,18,1,20,1051.903929,1032.035951,-19.867978,0.119048,0.516407,50.0,22
-1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,david-walker,David Walker,lotus,DSQ,8,20,2,21,988.794391,969.900465,-18.893926,0.047619,0.425498,50.0,22
-1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,chris-amon,Chris Amon,matra,DNS,,12,2,22,1121.228059,1090.481134,-30.746925,0.0,0.614938,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,209,jackie-stewart,Jackie Stewart,tyrrell,1,95,2,0,1,1200.142049,1214.267021,14.124972,1.0,0.717501,50.0,22
+1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,209,denny-hulme,Denny Hulme,mclaren,2,95,4,0,2,1099.112686,1117.529101,18.416415,0.952381,0.584053,50.0,22
+1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,209,jacky-ickx,Jacky Ickx,ferrari,3,95,8,0,3,1101.485521,1117.353685,15.868165,0.904762,0.587399,50.0,22
+1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,209,clay-regazzoni,Clay Regazzoni,ferrari,4,95,6,0,4,1072.745213,1088.278856,15.533643,0.857143,0.54647,50.0,22
+1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,209,tim-schenken,Tim Schenken,surtees,5,95,11,0,5,1004.780698,1022.840479,18.059781,0.809524,0.448328,50.0,22
+1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,209,ronnie-peterson,Ronnie Peterson,march,6,94,10,0,6,1143.611221,1149.436961,5.82574,0.761905,0.64539,50.0,22
+1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,209,carlos-reutemann,Carlos Reutemann,brabham,7,93,1,0,7,1000.0,1013.640435,13.640435,0.714286,0.441477,50.0,22
+1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,209,henri-pescarolo,Henri Pescarolo,march,8,93,15,0,8,1046.963557,1054.834007,7.87045,0.666667,0.509258,50.0,22
+1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,209,howden-ganley,Howden Ganley,brm,9,93,13,0,9,1015.51117,1023.275333,7.764163,0.619048,0.463764,50.0,22
+1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,209,helmut-marko,Helmut Marko,brm,10,93,19,0,10,985.835353,993.341826,7.506473,0.571429,0.421299,50.0,22
+1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,209,niki-lauda,Niki Lauda,march,11,93,22,0,11,990.07019,994.895134,4.824943,0.52381,0.427311,50.0,22
+1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,209,emerson-fittipaldi,Emerson Fittipaldi,lotus,DNF,61,5,1,12,1095.118033,1090.007337,-5.110696,0.47619,0.578404,50.0,22
+1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,209,francois-cevert,François Cevert,tyrrell,DNF,59,7,1,13,1109.443046,1099.752828,-9.690218,0.404762,0.598566,50.0,22
+1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,209,reine-wisell,Reine Wisell,brm,DNF,59,17,1,14,1054.991083,1049.185587,-5.805496,0.404762,0.520872,50.0,22
+1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,209,peter-revson,Peter Revson,mclaren,DNF,49,3,1,15,949.253798,947.402306,-1.851492,0.333333,0.370363,50.0,22
+1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,209,mario-andretti,Mario Andretti,ferrari,DNF,20,9,1,16,959.289639,954.368636,-4.921003,0.285714,0.384134,50.0,22
+1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,209,andrea-de-adamich,Andrea de Adamich,surtees,DNF,11,14,1,17,948.472328,940.721703,-7.750625,0.214286,0.369298,50.0,22
+1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,209,graham-hill,Graham Hill,brabham,DNF,11,16,1,18,1050.487944,1035.484303,-15.003641,0.214286,0.514359,50.0,22
+1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,209,alex-soler-roig,Alex Soler-Roig,brm,DNF,1,21,1,19,907.280748,897.487569,-9.793179,0.119048,0.314911,50.0,22
+1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,209,peter-gethin,Peter Gethin,brm,DNF,1,18,1,20,1051.903929,1032.035951,-19.867978,0.119048,0.516407,50.0,22
+1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,209,david-walker,David Walker,lotus,DSQ,8,20,2,21,988.794391,969.900465,-18.893926,0.047619,0.425498,50.0,22
+1972,1,1972-01-23,argentina,Gran Premio de Argentina 1972,209,chris-amon,Chris Amon,matra,DNS,,12,2,22,1121.228059,1090.481134,-30.746925,0.0,0.614938,50.0,22

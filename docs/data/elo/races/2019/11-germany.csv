@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,max-verstappen,Max Verstappen,red-bull,1,64,2,0,1,1375.77907,1387.19412,11.41505,1.0,0.771699,50.0,20
-2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,sebastian-vettel,Sebastian Vettel,ferrari,2,64,20,0,2,1411.734562,1418.991288,7.256726,0.947368,0.802234,50.0,20
-2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,daniil-kvyat,Daniil Kvyat,toro-rosso,3,64,14,0,3,1036.126474,1061.786821,25.660346,0.894737,0.38153,50.0,20
-2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,lance-stroll,Lance Stroll,racing-point,4,64,15,0,4,1004.480173,1029.455772,24.975599,0.842105,0.342593,50.0,20
-2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,5,64,7,0,5,1129.851192,1144.317362,14.466169,0.789474,0.50015,50.0,20
-2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,alexander-albon,Alexander Albon,toro-rosso,6,64,16,0,6,1020.152984,1038.908172,18.755188,0.736842,0.361738,50.0,20
-2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,romain-grosjean,Romain Grosjean,haas,7,64,6,0,7,986.840281,1004.978906,18.138624,0.684211,0.321438,50.0,20
-2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,kevin-magnussen,Kevin Magnussen,haas,8,64,12,0,8,1010.280416,1024.377194,14.096778,0.631579,0.349643,50.0,20
-2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,lewis-hamilton,Lewis Hamilton,mercedes,9,64,1,0,9,1573.423734,1556.941864,-16.481871,0.578947,0.908585,50.0,20
-2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,robert-kubica,Robert Kubica,williams,10,64,18,0,10,1028.153887,1035.888673,7.734786,0.526316,0.37162,50.0,20
-2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,george-russell,George Russell,williams,11,64,17,0,11,948.744539,958.553796,9.809257,0.473684,0.277499,50.0,20
-2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,12,64,5,0,12,1229.502596,1219.47683,-10.025766,0.421053,0.621568,50.0,20
-2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,13,64,11,0,13,975.175563,978.211038,3.035476,0.368421,0.307712,50.0,20
-2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,pierre-gasly,Pierre Gasly,red-bull,14,61,4,0,14,1122.207393,1113.472755,-8.734637,0.315789,0.490482,50.0,20
-2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,valtteri-bottas,Valtteri Bottas,mercedes,DNF,56,3,1,15,1445.070211,1416.815911,-28.254301,0.263158,0.828244,50.0,20
-2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,nico-hulkenberg,Nico Hülkenberg,renault,DNF,39,9,1,16,1059.632556,1049.606773,-10.025783,0.210526,0.411042,50.0,20
-2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,charles-leclerc,Charles Leclerc,ferrari,DNF,27,10,1,17,1191.001695,1170.097564,-20.90413,0.157895,0.575977,50.0,20
-2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,lando-norris,Lando Norris,mclaren,DNF,25,19,1,18,1033.996472,1020.3158,-13.680672,0.105263,0.378877,50.0,20
-2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,daniel-ricciardo,Daniel Ricciardo,renault,DNF,13,13,1,19,1143.747198,1120.496392,-23.250806,0.052632,0.517648,50.0,20
-2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,sergio-perez,Sergio Pérez,racing-point,DNF,1,8,1,20,1113.720218,1089.734184,-23.986034,0.0,0.479721,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,1008,max-verstappen,Max Verstappen,red-bull,1,64,2,0,1,1375.77907,1387.19412,11.41505,1.0,0.771699,50.0,20
+2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,1008,sebastian-vettel,Sebastian Vettel,ferrari,2,64,20,0,2,1411.734562,1418.991288,7.256726,0.947368,0.802234,50.0,20
+2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,1008,daniil-kvyat,Daniil Kvyat,toro-rosso,3,64,14,0,3,1036.126474,1061.786821,25.660346,0.894737,0.38153,50.0,20
+2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,1008,lance-stroll,Lance Stroll,racing-point,4,64,15,0,4,1004.480173,1029.455772,24.975599,0.842105,0.342593,50.0,20
+2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,1008,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,5,64,7,0,5,1129.851192,1144.317362,14.466169,0.789474,0.50015,50.0,20
+2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,1008,alexander-albon,Alexander Albon,toro-rosso,6,64,16,0,6,1020.152984,1038.908172,18.755188,0.736842,0.361738,50.0,20
+2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,1008,romain-grosjean,Romain Grosjean,haas,7,64,6,0,7,986.840281,1004.978906,18.138624,0.684211,0.321438,50.0,20
+2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,1008,kevin-magnussen,Kevin Magnussen,haas,8,64,12,0,8,1010.280416,1024.377194,14.096778,0.631579,0.349643,50.0,20
+2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,1008,lewis-hamilton,Lewis Hamilton,mercedes,9,64,1,0,9,1573.423734,1556.941864,-16.481871,0.578947,0.908585,50.0,20
+2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,1008,robert-kubica,Robert Kubica,williams,10,64,18,0,10,1028.153887,1035.888673,7.734786,0.526316,0.37162,50.0,20
+2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,1008,george-russell,George Russell,williams,11,64,17,0,11,948.744539,958.553796,9.809257,0.473684,0.277499,50.0,20
+2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,1008,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,12,64,5,0,12,1229.502596,1219.47683,-10.025766,0.421053,0.621568,50.0,20
+2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,1008,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,13,64,11,0,13,975.175563,978.211038,3.035476,0.368421,0.307712,50.0,20
+2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,1008,pierre-gasly,Pierre Gasly,red-bull,14,61,4,0,14,1122.207393,1113.472755,-8.734637,0.315789,0.490482,50.0,20
+2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,1008,valtteri-bottas,Valtteri Bottas,mercedes,DNF,56,3,1,15,1445.070211,1416.815911,-28.254301,0.263158,0.828244,50.0,20
+2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,1008,nico-hulkenberg,Nico Hülkenberg,renault,DNF,39,9,1,16,1059.632556,1049.606773,-10.025783,0.210526,0.411042,50.0,20
+2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,1008,charles-leclerc,Charles Leclerc,ferrari,DNF,27,10,1,17,1191.001695,1170.097564,-20.90413,0.157895,0.575977,50.0,20
+2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,1008,lando-norris,Lando Norris,mclaren,DNF,25,19,1,18,1033.996472,1020.3158,-13.680672,0.105263,0.378877,50.0,20
+2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,1008,daniel-ricciardo,Daniel Ricciardo,renault,DNF,13,13,1,19,1143.747198,1120.496392,-23.250806,0.052632,0.517648,50.0,20
+2019,11,2019-07-28,germany,Formula 1 Mercedes-Benz Grosser Preis von Deutschland 2019,1008,sergio-perez,Sergio Pérez,racing-point,DNF,1,8,1,20,1113.720218,1089.734184,-23.986034,0.0,0.479721,50.0,20

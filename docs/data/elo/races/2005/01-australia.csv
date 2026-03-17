@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,renault,1,57,1,0,1,1117.382594,1141.412687,24.030093,1.0,0.519398,50.0,20
-2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,rubens-barrichello,Rubens Barrichello,ferrari,2,57,11,0,2,1300.237171,1310.164398,9.927228,0.947368,0.748824,50.0,20
-2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,fernando-alonso,Fernando Alonso,renault,3,57,13,0,3,1167.325741,1182.692717,15.366976,0.894737,0.587397,50.0,20
-2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,david-coulthard,David Coulthard,red-bull,4,57,5,0,4,1132.67763,1147.760957,15.083328,0.842105,0.540439,50.0,20
-2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,mark-webber,Mark Webber,williams,5,57,3,0,5,1008.511654,1029.460891,20.949236,0.789474,0.370489,50.0,20
-2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,juan-pablo-montoya,Juan Pablo Montoya,mclaren,6,57,9,0,6,1216.771525,1221.032026,4.260501,0.736842,0.651632,50.0,20
-2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,christian-klien,Christian Klien,red-bull,7,57,6,0,7,987.551812,1004.604054,17.052242,0.684211,0.343166,50.0,20
-2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,kimi-raikkonen,Kimi Räikkönen,mclaren,8,57,PL,0,8,1134.587019,1139.013215,4.426197,0.631579,0.543055,50.0,20
-2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,jarno-trulli,Jarno Trulli,toyota,9,57,2,0,9,1121.684321,1124.365243,2.680923,0.578947,0.525329,50.0,20
-2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,felipe-massa,Felipe Massa,sauber,10,57,18,0,10,1069.311892,1072.982541,3.670649,0.526316,0.452903,50.0,20
-2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,jenson-button,Jenson Button,bar,11,56,8,0,11,1201.889265,1193.937097,-7.952167,0.473684,0.632728,50.0,20
-2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,ralf-schumacher,Ralf Schumacher,toyota,12,56,15,0,12,1128.090562,1122.43604,-5.654522,0.421053,0.534143,50.0,20
-2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,jacques-villeneuve,Jacques Villeneuve,sauber,13,56,4,0,13,1027.218647,1025.868036,-1.350611,0.368421,0.395433,50.0,20
-2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,takuma-sato,Takuma Sato,bar,14,55,20,0,14,1102.985089,1093.799693,-9.185396,0.315789,0.499497,50.0,20
-2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,narain-karthikeyan,Narain Karthikeyan,jordan,15,55,12,0,15,1000.0,995.192598,-4.807402,0.263158,0.359306,50.0,20
-2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,tiago-monteiro,Tiago Monteiro,jordan,16,55,14,0,16,1000.0,992.561019,-7.438981,0.210526,0.359306,50.0,20
-2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,patrick-friesacher,Patrick Friesacher,minardi,17,53,16,0,17,1000.0,989.92944,-10.07056,0.157895,0.359306,50.0,20
-2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,michael-schumacher,Michael Schumacher,ferrari,DNF,42,19,1,18,1442.428791,1402.708178,-39.720613,0.078947,0.87336,50.0,20
-2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,nick-heidfeld,Nick Heidfeld,williams,DNF,42,7,1,19,988.964528,975.662706,-13.301822,0.078947,0.344984,50.0,20
-2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,christijan-albers,Christijan Albers,minardi,DNF,16,17,1,20,1000.0,982.034703,-17.965297,0.0,0.359306,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,732,giancarlo-fisichella,Giancarlo Fisichella,renault,1,57,1,0,1,1117.382594,1141.412687,24.030093,1.0,0.519398,50.0,20
+2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,732,rubens-barrichello,Rubens Barrichello,ferrari,2,57,11,0,2,1300.237171,1310.164398,9.927228,0.947368,0.748824,50.0,20
+2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,732,fernando-alonso,Fernando Alonso,renault,3,57,13,0,3,1167.325741,1182.692717,15.366976,0.894737,0.587397,50.0,20
+2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,732,david-coulthard,David Coulthard,red-bull,4,57,5,0,4,1132.67763,1147.760957,15.083328,0.842105,0.540439,50.0,20
+2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,732,mark-webber,Mark Webber,williams,5,57,3,0,5,1008.511654,1029.460891,20.949236,0.789474,0.370489,50.0,20
+2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,732,juan-pablo-montoya,Juan Pablo Montoya,mclaren,6,57,9,0,6,1216.771525,1221.032026,4.260501,0.736842,0.651632,50.0,20
+2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,732,christian-klien,Christian Klien,red-bull,7,57,6,0,7,987.551812,1004.604054,17.052242,0.684211,0.343166,50.0,20
+2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,732,kimi-raikkonen,Kimi Räikkönen,mclaren,8,57,PL,0,8,1134.587019,1139.013215,4.426197,0.631579,0.543055,50.0,20
+2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,732,jarno-trulli,Jarno Trulli,toyota,9,57,2,0,9,1121.684321,1124.365243,2.680923,0.578947,0.525329,50.0,20
+2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,732,felipe-massa,Felipe Massa,sauber,10,57,18,0,10,1069.311892,1072.982541,3.670649,0.526316,0.452903,50.0,20
+2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,732,jenson-button,Jenson Button,bar,11,56,8,0,11,1201.889265,1193.937097,-7.952167,0.473684,0.632728,50.0,20
+2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,732,ralf-schumacher,Ralf Schumacher,toyota,12,56,15,0,12,1128.090562,1122.43604,-5.654522,0.421053,0.534143,50.0,20
+2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,732,jacques-villeneuve,Jacques Villeneuve,sauber,13,56,4,0,13,1027.218647,1025.868036,-1.350611,0.368421,0.395433,50.0,20
+2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,732,takuma-sato,Takuma Sato,bar,14,55,20,0,14,1102.985089,1093.799693,-9.185396,0.315789,0.499497,50.0,20
+2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,732,narain-karthikeyan,Narain Karthikeyan,jordan,15,55,12,0,15,1000.0,995.192598,-4.807402,0.263158,0.359306,50.0,20
+2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,732,tiago-monteiro,Tiago Monteiro,jordan,16,55,14,0,16,1000.0,992.561019,-7.438981,0.210526,0.359306,50.0,20
+2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,732,patrick-friesacher,Patrick Friesacher,minardi,17,53,16,0,17,1000.0,989.92944,-10.07056,0.157895,0.359306,50.0,20
+2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,732,michael-schumacher,Michael Schumacher,ferrari,DNF,42,19,1,18,1442.428791,1402.708178,-39.720613,0.078947,0.87336,50.0,20
+2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,732,nick-heidfeld,Nick Heidfeld,williams,DNF,42,7,1,19,988.964528,975.662706,-13.301822,0.078947,0.344984,50.0,20
+2005,1,2005-03-06,australia,2005 Formula 1 Foster's Australian Grand Prix,732,christijan-albers,Christijan Albers,minardi,DNF,16,17,1,20,1000.0,982.034703,-17.965297,0.0,0.359306,50.0,20

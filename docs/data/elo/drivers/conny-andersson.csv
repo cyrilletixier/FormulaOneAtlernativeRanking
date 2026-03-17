@@ -1,6 +1,6 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1976-08-29,1976,12,netherlands,surtees,Surtees,DNF,9,27,1000.0,984.041678,-15.958322,0.096154,0.41532,50.0
-1977-05-08,1977,5,spain,brm,BRM,DNQ,,31,984.041678,969.641248,-14.40043,0.116667,0.404675,50.0
-1977-06-05,1977,7,belgium,brm,BRM,DNQ,,32,969.641248,954.967456,-14.673791,0.096774,0.39025,50.0
-1977-06-19,1977,8,sweden,brm,BRM,DNQ,,31,954.967456,941.719574,-13.247882,0.1,0.364958,50.0
-1977-07-03,1977,9,france,brm,BRM,DNQ,,30,941.719574,930.555973,-11.163602,0.12069,0.343962,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1976-08-29,1976,12,netherlands,276,surtees,Surtees,DNF,9,27,1000.0,984.041678,-15.958322,0.096154,0.41532,50.0
+1977-05-08,1977,5,spain,285,brm,BRM,DNQ,,31,984.041678,969.641248,-14.40043,0.116667,0.404675,50.0
+1977-06-05,1977,7,belgium,287,brm,BRM,DNQ,,32,969.641248,954.967456,-14.673791,0.096774,0.39025,50.0
+1977-06-19,1977,8,sweden,288,brm,BRM,DNQ,,31,954.967456,941.719574,-13.247882,0.1,0.364958,50.0
+1977-07-03,1977,9,france,289,brm,BRM,DNQ,,30,941.719574,930.555973,-11.163602,0.12069,0.343962,50.0

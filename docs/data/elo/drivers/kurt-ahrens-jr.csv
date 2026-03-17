@@ -1,5 +1,5 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1966-08-07,1966,6,germany,brabham,Brabham,DNF,3,30,1000.0,990.618196,-9.381804,0.241379,0.429015,50.0
-1967-08-06,1967,7,germany,protos,Protos,DNF,4,26,990.618196,981.832963,-8.785233,0.24,0.415705,50.0
-1968-08-04,1968,8,germany,brabham,Brabham,12,13,21,981.832963,984.519015,2.686052,0.45,0.396279,50.0
-1969-08-03,1969,7,germany,brabham,Brabham,7,13,26,984.519015,1001.491077,16.972062,0.76,0.420559,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1966-08-07,1966,6,germany,147,brabham,Brabham,DNF,3,30,1000.0,990.618196,-9.381804,0.241379,0.429015,50.0
+1967-08-06,1967,7,germany,157,protos,Protos,DNF,4,26,990.618196,981.832963,-8.785233,0.24,0.415705,50.0
+1968-08-04,1968,8,germany,169,brabham,Brabham,12,13,21,981.832963,984.519015,2.686052,0.45,0.396279,50.0
+1969-08-03,1969,7,germany,180,brabham,Brabham,7,13,26,984.519015,1001.491077,16.972062,0.76,0.420559,50.0

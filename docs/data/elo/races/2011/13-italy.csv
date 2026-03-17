@@ -1,25 +1,25 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,sebastian-vettel,Sebastian Vettel,red-bull,1,53,1,0,1,1401.983647,1410.093382,8.109735,1.0,0.837805,50.0,24
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,jenson-button,Jenson Button,mclaren,2,53,3,0,2,1289.672418,1300.639533,10.967115,0.956522,0.737179,50.0,24
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,fernando-alonso,Fernando Alonso,ferrari,3,53,4,0,3,1333.395062,1340.063977,6.668914,0.913043,0.779665,50.0,24
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,lewis-hamilton,Lewis Hamilton,mclaren,4,53,2,0,4,1270.303884,1277.927701,7.623818,0.869565,0.717089,50.0,24
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,michael-schumacher,Michael Schumacher,mercedes,5,53,8,0,5,1165.368065,1176.834151,11.466087,0.826087,0.596765,50.0,24
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,felipe-massa,Felipe Massa,ferrari,6,53,6,0,6,1225.802964,1231.521931,5.718967,0.782609,0.668229,50.0,24
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,jaime-alguersuari,Jaime Alguersuari,toro-rosso,7,52,18,0,7,1035.041545,1050.389778,15.348233,0.73913,0.432166,50.0,24
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,paul-di-resta,Paul di Resta,force-india,8,52,11,0,8,1044.964441,1057.508449,12.544008,0.695652,0.444772,50.0,24
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,bruno-senna,Bruno Senna,renault,9,52,10,0,9,914.698619,932.95923,18.260612,0.652174,0.286962,50.0,24
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,sebastien-buemi,Sébastien Buemi,toro-rosso,10,52,16,0,10,1036.943656,1045.649494,8.705839,0.608696,0.434579,50.0,24
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,pastor-maldonado,Pastor Maldonado,williams,11,52,14,0,11,978.752418,988.914918,10.162499,0.565217,0.361967,50.0,24
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,rubens-barrichello,Rubens Barrichello,williams,12,52,13,0,12,1079.474916,1081.121565,1.646648,0.521739,0.488806,50.0,24
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,heikki-kovalainen,Heikki Kovalainen,lotus-racing,13,51,20,0,13,932.755946,941.298447,8.542502,0.478261,0.307411,50.0,24
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,jarno-trulli,Jarno Trulli,lotus-racing,14,51,19,0,14,909.947583,917.602453,7.654869,0.434783,0.281685,50.0,24
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,timo-glock,Timo Glock,virgin,15,51,21,0,15,918.129036,923.154301,5.025265,0.391304,0.290799,50.0,24
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,daniel-ricciardo,Daniel Ricciardo,hrt,NC,39,23,1,16,968.455419,968.372543,-0.082876,0.347826,0.349484,50.0,24
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,sergio-perez,Sergio Pérez,sauber,DNF,32,15,1,17,1000.154721,995.95609,-4.198632,0.304348,0.38832,50.0,24
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,kamui-kobayashi,Kamui Kobayashi,sauber,DNF,21,17,1,18,1086.30169,1074.469184,-11.832506,0.26087,0.49752,50.0,24
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,adrian-sutil,Adrian Sutil,force-india,DNF,9,12,1,19,1096.738696,1082.067137,-14.671558,0.217391,0.510822,50.0,24
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,mark-webber,Mark Webber,red-bull,DNF,4,5,1,20,1351.154777,1320.063649,-31.091127,0.173913,0.795736,50.0,24
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,jerome-dambrosio,Jérôme d'Ambrosio,virgin,DNF,1,22,1,21,949.474093,939.652738,-9.821355,0.130435,0.326862,50.0,24
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,nico-rosberg,Nico Rosberg,mercedes,DNF,0,9,1,22,1217.196947,1186.451792,-30.745155,0.043478,0.658381,50.0,24
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,vitaly-petrov,Vitaly Petrov,renault,DNF,0,7,1,23,1103.772685,1079.958166,-23.814519,0.043478,0.519769,50.0,24
-2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,vitantonio-liuzzi,Vitantonio Liuzzi,hrt,DNF,0,24,1,24,914.935478,902.748096,-12.187382,0.043478,0.287226,50.0,24
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,sebastian-vettel,Sebastian Vettel,red-bull,1,53,1,0,1,1401.983647,1410.093382,8.109735,1.0,0.837805,50.0,24
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,jenson-button,Jenson Button,mclaren,2,53,3,0,2,1289.672418,1300.639533,10.967115,0.956522,0.737179,50.0,24
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,fernando-alonso,Fernando Alonso,ferrari,3,53,4,0,3,1333.395062,1340.063977,6.668914,0.913043,0.779665,50.0,24
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,lewis-hamilton,Lewis Hamilton,mclaren,4,53,2,0,4,1270.303884,1277.927701,7.623818,0.869565,0.717089,50.0,24
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,michael-schumacher,Michael Schumacher,mercedes,5,53,8,0,5,1165.368065,1176.834151,11.466087,0.826087,0.596765,50.0,24
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,felipe-massa,Felipe Massa,ferrari,6,53,6,0,6,1225.802964,1231.521931,5.718967,0.782609,0.668229,50.0,24
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,jaime-alguersuari,Jaime Alguersuari,toro-rosso,7,52,18,0,7,1035.041545,1050.389778,15.348233,0.73913,0.432166,50.0,24
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,paul-di-resta,Paul di Resta,force-india,8,52,11,0,8,1044.964441,1057.508449,12.544008,0.695652,0.444772,50.0,24
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,bruno-senna,Bruno Senna,renault,9,52,10,0,9,914.698619,932.95923,18.260612,0.652174,0.286962,50.0,24
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,sebastien-buemi,Sébastien Buemi,toro-rosso,10,52,16,0,10,1036.943656,1045.649494,8.705839,0.608696,0.434579,50.0,24
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,pastor-maldonado,Pastor Maldonado,williams,11,52,14,0,11,978.752418,988.914918,10.162499,0.565217,0.361967,50.0,24
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,rubens-barrichello,Rubens Barrichello,williams,12,52,13,0,12,1079.474916,1081.121565,1.646648,0.521739,0.488806,50.0,24
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,heikki-kovalainen,Heikki Kovalainen,lotus-racing,13,51,20,0,13,932.755946,941.298447,8.542502,0.478261,0.307411,50.0,24
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,jarno-trulli,Jarno Trulli,lotus-racing,14,51,19,0,14,909.947583,917.602453,7.654869,0.434783,0.281685,50.0,24
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,timo-glock,Timo Glock,virgin,15,51,21,0,15,918.129036,923.154301,5.025265,0.391304,0.290799,50.0,24
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,daniel-ricciardo,Daniel Ricciardo,hrt,NC,39,23,1,16,968.455419,968.372543,-0.082876,0.347826,0.349484,50.0,24
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,sergio-perez,Sergio Pérez,sauber,DNF,32,15,1,17,1000.154721,995.95609,-4.198632,0.304348,0.38832,50.0,24
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,kamui-kobayashi,Kamui Kobayashi,sauber,DNF,21,17,1,18,1086.30169,1074.469184,-11.832506,0.26087,0.49752,50.0,24
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,adrian-sutil,Adrian Sutil,force-india,DNF,9,12,1,19,1096.738696,1082.067137,-14.671558,0.217391,0.510822,50.0,24
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,mark-webber,Mark Webber,red-bull,DNF,4,5,1,20,1351.154777,1320.063649,-31.091127,0.173913,0.795736,50.0,24
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,jerome-dambrosio,Jérôme d'Ambrosio,virgin,DNF,1,22,1,21,949.474093,939.652738,-9.821355,0.130435,0.326862,50.0,24
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,nico-rosberg,Nico Rosberg,mercedes,DNF,0,9,1,22,1217.196947,1186.451792,-30.745155,0.043478,0.658381,50.0,24
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,vitaly-petrov,Vitaly Petrov,renault,DNF,0,7,1,23,1103.772685,1079.958166,-23.814519,0.043478,0.519769,50.0,24
+2011,13,2011-09-11,italy,Formula 1 Gran Premio Santander d'Italia 2011,852,vitantonio-liuzzi,Vitantonio Liuzzi,hrt,DNF,0,24,1,24,914.935478,902.748096,-12.187382,0.043478,0.287226,50.0,24

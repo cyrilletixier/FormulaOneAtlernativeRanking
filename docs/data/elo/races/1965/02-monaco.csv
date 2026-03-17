@@ -1,18 +1,18 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,graham-hill,Graham Hill,brm,1,100,1,0,1,1202.927128,1218.009258,15.08213,1.0,0.698357,50.0,17
-1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,lorenzo-bandini,Lorenzo Bandini,ferrari,2,100,4,0,2,1125.513075,1142.690401,17.177325,0.9375,0.593953,50.0,17
-1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,jackie-stewart,Jackie Stewart,brm,3,100,3,0,3,1018.820118,1040.630881,21.810763,0.875,0.438785,50.0,17
-1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,john-surtees,John Surtees,ferrari,4,99,5,0,4,1142.053478,1151.817439,9.763961,0.8125,0.617221,50.0,17
-1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,bruce-mclaren,Bruce McLaren,cooper,5,98,7,0,5,1123.000616,1130.981407,7.980791,0.75,0.590384,50.0,17
-1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,jo-siffert,Jo Siffert,brabham,6,98,10,0,6,1050.32969,1060.465786,10.136096,0.6875,0.484778,50.0,17
-1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,jo-bonnier,Jo Bonnier,brabham,7,97,13,0,7,1046.156099,1053.473001,7.316901,0.625,0.478662,50.0,17
-1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,denny-hulme,Denny Hulme,brabham,8,92,8,0,8,1000.0,1007.541642,7.541642,0.5625,0.411667,50.0,17
-1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,bob-anderson,Bob Anderson,brabham,9,85,9,0,9,1046.924501,1047.935115,1.010614,0.5,0.479788,50.0,17
-1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,paul-hawkins,Paul Hawkins,lotus,10,79,14,0,10,1013.264563,1013.602419,0.337856,0.4375,0.430743,50.0,17
-1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,jack-brabham,Jack Brabham,brabham,DNF,43,2,1,11,1093.774397,1083.545587,-10.22881,0.34375,0.548326,50.0,17
-1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,richard-attwood,Richard Attwood,lotus,DNF,43,6,1,12,978.779963,976.886706,-1.893257,0.34375,0.381615,50.0,17
-1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,ronnie-bucknum,Ronnie Bucknum,honda,DNF,33,15,1,13,993.322976,985.715819,-7.607158,0.25,0.402143,50.0,17
-1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,frank-gardner,Frank Gardner,brabham,DNF,29,11,1,14,991.86469,981.236146,-10.628544,0.1875,0.400071,50.0,17
-1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,mike-hailwood,Mike Hailwood,lotus,DNF,11,12,1,15,1005.231233,990.522876,-14.708358,0.125,0.419167,50.0,17
-1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,richie-ginther,Richie Ginther,honda,DNF,1,16,1,16,1212.751266,1180.344073,-32.407193,0.0625,0.710644,50.0,17
-1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,jochen-rindt,Jochen Rindt,cooper,DNQ,,,2,17,1001.416772,980.732012,-20.68476,0.0,0.413695,50.0,17
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,133,graham-hill,Graham Hill,brm,1,100,1,0,1,1202.927128,1218.009258,15.08213,1.0,0.698357,50.0,17
+1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,133,lorenzo-bandini,Lorenzo Bandini,ferrari,2,100,4,0,2,1125.513075,1142.690401,17.177325,0.9375,0.593953,50.0,17
+1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,133,jackie-stewart,Jackie Stewart,brm,3,100,3,0,3,1018.820118,1040.630881,21.810763,0.875,0.438785,50.0,17
+1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,133,john-surtees,John Surtees,ferrari,4,99,5,0,4,1142.053478,1151.817439,9.763961,0.8125,0.617221,50.0,17
+1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,133,bruce-mclaren,Bruce McLaren,cooper,5,98,7,0,5,1123.000616,1130.981407,7.980791,0.75,0.590384,50.0,17
+1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,133,jo-siffert,Jo Siffert,brabham,6,98,10,0,6,1050.32969,1060.465786,10.136096,0.6875,0.484778,50.0,17
+1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,133,jo-bonnier,Jo Bonnier,brabham,7,97,13,0,7,1046.156099,1053.473001,7.316901,0.625,0.478662,50.0,17
+1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,133,denny-hulme,Denny Hulme,brabham,8,92,8,0,8,1000.0,1007.541642,7.541642,0.5625,0.411667,50.0,17
+1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,133,bob-anderson,Bob Anderson,brabham,9,85,9,0,9,1046.924501,1047.935115,1.010614,0.5,0.479788,50.0,17
+1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,133,paul-hawkins,Paul Hawkins,lotus,10,79,14,0,10,1013.264563,1013.602419,0.337856,0.4375,0.430743,50.0,17
+1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,133,jack-brabham,Jack Brabham,brabham,DNF,43,2,1,11,1093.774397,1083.545587,-10.22881,0.34375,0.548326,50.0,17
+1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,133,richard-attwood,Richard Attwood,lotus,DNF,43,6,1,12,978.779963,976.886706,-1.893257,0.34375,0.381615,50.0,17
+1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,133,ronnie-bucknum,Ronnie Bucknum,honda,DNF,33,15,1,13,993.322976,985.715819,-7.607158,0.25,0.402143,50.0,17
+1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,133,frank-gardner,Frank Gardner,brabham,DNF,29,11,1,14,991.86469,981.236146,-10.628544,0.1875,0.400071,50.0,17
+1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,133,mike-hailwood,Mike Hailwood,lotus,DNF,11,12,1,15,1005.231233,990.522876,-14.708358,0.125,0.419167,50.0,17
+1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,133,richie-ginther,Richie Ginther,honda,DNF,1,16,1,16,1212.751266,1180.344073,-32.407193,0.0625,0.710644,50.0,17
+1965,2,1965-05-30,monaco,Grand Prix de Monaco 1965,133,jochen-rindt,Jochen Rindt,cooper,DNQ,,,2,17,1001.416772,980.732012,-20.68476,0.0,0.413695,50.0,17

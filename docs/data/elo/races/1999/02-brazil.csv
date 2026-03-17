@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,mika-hakkinen,Mika Häkkinen,mclaren,1,72,1,0,1,1221.774334,1237.609213,15.834879,1.0,0.683302,50.0,22
-1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,michael-schumacher,Michael Schumacher,ferrari,2,72,4,0,2,1290.331527,1299.843046,9.511519,0.952381,0.762151,50.0,22
-1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,3,71,8,0,3,1179.166176,1192.956756,13.79058,0.904762,0.62895,50.0,22
-1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,ralf-schumacher,Ralf Schumacher,williams,4,71,11,0,4,1076.486723,1094.939524,18.452801,0.857143,0.488087,50.0,22
-1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,eddie-irvine,Eddie Irvine,ferrari,5,71,6,0,5,1223.205489,1229.428476,6.222987,0.809524,0.685064,50.0,22
-1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,olivier-panis,Olivier Panis,prost,6,71,12,0,6,1027.884074,1044.950857,17.066783,0.761905,0.420569,50.0,22
-1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,alexander-wurz,Alexander Wurz,benetton,7,70,9,0,7,1092.854657,1103.019951,10.165293,0.714286,0.51098,50.0,22
-1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,toranosuke-takagi,Toranosuke Takagi,arrows,8,69,19,0,8,996.954039,1011.353846,14.399808,0.666667,0.378671,50.0,22
-1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,marc-gene,Marc Gené,minardi,9,69,20,0,9,1000.952883,1012.704408,11.751525,0.619048,0.384017,50.0,22
-1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,52,18,1,10,1018.810026,1026.973577,8.163551,0.571429,0.408158,50.0,22
-1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,jacques-villeneuve,Jacques Villeneuve,bar,DNF,49,21,1,11,1194.683872,1188.416989,-6.266883,0.52381,0.649147,50.0,22
-1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,alex-zanardi,Alex Zanardi,williams,DNF,43,16,1,12,977.491169,983.650296,6.159126,0.47619,0.353008,50.0,22
-1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,pedro-diniz,Pedro Diniz,sauber,DNF,42,15,1,13,941.979436,946.817295,4.837859,0.404762,0.308005,50.0,22
-1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,rubens-barrichello,Rubens Barrichello,stewart,DNF,42,3,1,14,994.978575,996.41477,1.436195,0.404762,0.376038,50.0,22
-1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,38,5,1,15,1169.736544,1155.579233,-14.15731,0.333333,0.61648,50.0,22
-1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,stephane-sarrazin,Stéphane Sarrazin,minardi,DNF,31,17,1,16,1000.0,995.148666,-4.851334,0.285714,0.382741,50.0,22
-1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,jean-alesi,Jean Alesi,sauber,DNF,27,14,1,17,1153.426478,1135.601301,-17.825177,0.238095,0.594599,50.0,22
-1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,david-coulthard,David Coulthard,mclaren,DNF,22,2,1,18,1182.390777,1160.255499,-22.135278,0.190476,0.633182,50.0,22
-1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,jarno-trulli,Jarno Trulli,prost,DNF,21,13,1,19,1004.010767,991.747567,-12.2632,0.142857,0.388121,50.0,22
-1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,johnny-herbert,Johnny Herbert,stewart,DNF,15,10,1,20,1014.633649,999.27177,-15.36188,0.095238,0.402476,50.0,22
-1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,damon-hill,Damon Hill,jordan,DNF,10,7,1,21,1119.291151,1094.281937,-25.009215,0.047619,0.547803,50.0,22
-1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,ricardo-zonta,Ricardo Zonta,bar,DNQ,,,2,22,1011.667169,991.74454,-19.922628,0.0,0.398453,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,632,mika-hakkinen,Mika Häkkinen,mclaren,1,72,1,0,1,1221.774334,1237.609213,15.834879,1.0,0.683302,50.0,22
+1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,632,michael-schumacher,Michael Schumacher,ferrari,2,72,4,0,2,1290.331527,1299.843046,9.511519,0.952381,0.762151,50.0,22
+1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,632,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,3,71,8,0,3,1179.166176,1192.956756,13.79058,0.904762,0.62895,50.0,22
+1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,632,ralf-schumacher,Ralf Schumacher,williams,4,71,11,0,4,1076.486723,1094.939524,18.452801,0.857143,0.488087,50.0,22
+1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,632,eddie-irvine,Eddie Irvine,ferrari,5,71,6,0,5,1223.205489,1229.428476,6.222987,0.809524,0.685064,50.0,22
+1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,632,olivier-panis,Olivier Panis,prost,6,71,12,0,6,1027.884074,1044.950857,17.066783,0.761905,0.420569,50.0,22
+1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,632,alexander-wurz,Alexander Wurz,benetton,7,70,9,0,7,1092.854657,1103.019951,10.165293,0.714286,0.51098,50.0,22
+1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,632,toranosuke-takagi,Toranosuke Takagi,arrows,8,69,19,0,8,996.954039,1011.353846,14.399808,0.666667,0.378671,50.0,22
+1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,632,marc-gene,Marc Gené,minardi,9,69,20,0,9,1000.952883,1012.704408,11.751525,0.619048,0.384017,50.0,22
+1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,632,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,52,18,1,10,1018.810026,1026.973577,8.163551,0.571429,0.408158,50.0,22
+1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,632,jacques-villeneuve,Jacques Villeneuve,bar,DNF,49,21,1,11,1194.683872,1188.416989,-6.266883,0.52381,0.649147,50.0,22
+1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,632,alex-zanardi,Alex Zanardi,williams,DNF,43,16,1,12,977.491169,983.650296,6.159126,0.47619,0.353008,50.0,22
+1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,632,pedro-diniz,Pedro Diniz,sauber,DNF,42,15,1,13,941.979436,946.817295,4.837859,0.404762,0.308005,50.0,22
+1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,632,rubens-barrichello,Rubens Barrichello,stewart,DNF,42,3,1,14,994.978575,996.41477,1.436195,0.404762,0.376038,50.0,22
+1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,632,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,38,5,1,15,1169.736544,1155.579233,-14.15731,0.333333,0.61648,50.0,22
+1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,632,stephane-sarrazin,Stéphane Sarrazin,minardi,DNF,31,17,1,16,1000.0,995.148666,-4.851334,0.285714,0.382741,50.0,22
+1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,632,jean-alesi,Jean Alesi,sauber,DNF,27,14,1,17,1153.426478,1135.601301,-17.825177,0.238095,0.594599,50.0,22
+1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,632,david-coulthard,David Coulthard,mclaren,DNF,22,2,1,18,1182.390777,1160.255499,-22.135278,0.190476,0.633182,50.0,22
+1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,632,jarno-trulli,Jarno Trulli,prost,DNF,21,13,1,19,1004.010767,991.747567,-12.2632,0.142857,0.388121,50.0,22
+1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,632,johnny-herbert,Johnny Herbert,stewart,DNF,15,10,1,20,1014.633649,999.27177,-15.36188,0.095238,0.402476,50.0,22
+1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,632,damon-hill,Damon Hill,jordan,DNF,10,7,1,21,1119.291151,1094.281937,-25.009215,0.047619,0.547803,50.0,22
+1999,2,1999-04-11,brazil,Grande Prêmio Marlboro do Brasil 1999,632,ricardo-zonta,Ricardo Zonta,bar,DNQ,,,2,22,1011.667169,991.74454,-19.922628,0.0,0.398453,50.0,22

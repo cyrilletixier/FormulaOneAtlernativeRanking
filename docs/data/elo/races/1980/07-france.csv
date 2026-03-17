@@ -1,28 +1,28 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1980,7,1980-06-29,france,Grand Prix de France 1980,alan-jones,Alan Jones,williams,1,54,4,0,1,1216.985517,1233.250338,16.26482,1.0,0.674704,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,didier-pironi,Didier Pironi,ligier,2,54,3,0,2,1195.517301,1211.23011,15.712809,0.961538,0.647282,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,jacques-laffite,Jacques Laffite,ligier,3,54,1,0,3,1176.258992,1191.31571,15.056718,0.923077,0.621943,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,nelson-piquet,Nelson Piquet,brabham,4,54,8,0,4,1129.99676,1146.282848,16.286088,0.884615,0.558894,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,rene-arnoux,René Arnoux,renault,5,54,2,0,5,1126.571222,1141.172095,14.600873,0.846154,0.554136,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,carlos-reutemann,Carlos Reutemann,williams,6,54,5,0,6,1166.526768,1176.466087,9.93932,0.807692,0.608906,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,john-watson,John Watson,mclaren,7,53,13,0,7,1152.694082,1161.648264,8.954182,0.769231,0.590147,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,gilles-villeneuve,Gilles Villeneuve,ferrari,8,53,17,0,8,1226.489142,1228.701062,2.21192,0.730769,0.686531,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,riccardo-patrese,Riccardo Patrese,arrows,9,53,18,0,9,1120.00324,1127.369023,7.365783,0.692308,0.544992,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,jochen-mass,Jochen Mass,arrows,10,53,15,0,10,1089.537196,1097.113294,7.576098,0.653846,0.502324,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,derek-daly,Derek Daly,tyrrell,11,52,20,0,11,1057.721391,1065.602524,7.881133,0.615385,0.457762,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,jody-scheckter,Jody Scheckter,ferrari,12,52,19,0,12,1247.395919,1240.651565,-6.744354,0.576923,0.71181,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,emerson-fittipaldi,Emerson Fittipaldi,fittipaldi,13,50,24,0,13,1131.654637,1130.518076,-1.136561,0.538462,0.561193,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,jean-pierre-jarier,Jean-Pierre Jarier,tyrrell,14,50,16,0,14,1106.992486,1105.652145,-1.34034,0.5,0.526807,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,eddie-cheever,Eddie Cheever,osella,DNF,43,21,1,15,911.530895,921.155314,9.624418,0.461538,0.26905,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,marc-surer,Marc Surer,ats-wheels,DNF,26,11,1,16,988.703881,991.660838,2.956956,0.423077,0.363938,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,patrick-depailler,Patrick Depailler,alfa-romeo,DNF,25,10,1,17,1150.582948,1140.45057,-10.132378,0.384615,0.587263,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,mario-andretti,Mario Andretti,lotus,DNF,18,12,1,18,1088.572901,1080.832062,-7.740839,0.346154,0.500971,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,DNF,8,9,1,19,1042.332679,1034.936422,-7.396257,0.288462,0.436387,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,keke-rosberg,Keke Rosberg,fittipaldi,DNF,8,23,1,20,1046.009982,1038.359155,-7.650827,0.288462,0.441478,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,alain-prost,Alain Prost,mclaren,DNF,6,7,1,21,1015.642061,1007.18826,-8.453802,0.230769,0.399845,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,elio-de-angelis,Elio de Angelis,lotus,DNF,3,14,1,22,1071.702768,1057.452824,-14.249944,0.192308,0.477307,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,jean-pierre-jabouille,Jean-Pierre Jabouille,renault,DNF,0,6,1,23,1022.285594,1008.573184,-13.71241,0.134615,0.408864,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,ricardo-zunino,Ricardo Zunino,brabham,DNF,0,22,1,24,1023.040999,1009.277139,-13.763859,0.134615,0.409893,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,david-kennedy,David Kennedy,shadow,DNQ,,,2,25,920.367409,908.330485,-12.036925,0.038462,0.2792,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,geoff-lees,Geoff Lees,shadow,DNQ,,,2,26,965.267981,950.504395,-14.763586,0.038462,0.333733,50.0,27
-1980,7,1980-06-29,france,Grand Prix de France 1980,jan-lammers,Jan Lammers,ensign,DNQ,,,2,27,973.828902,958.519866,-15.309036,0.038462,0.344642,50.0,27
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,alan-jones,Alan Jones,williams,1,54,4,0,1,1216.985517,1233.250338,16.26482,1.0,0.674704,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,didier-pironi,Didier Pironi,ligier,2,54,3,0,2,1195.517301,1211.23011,15.712809,0.961538,0.647282,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,jacques-laffite,Jacques Laffite,ligier,3,54,1,0,3,1176.258992,1191.31571,15.056718,0.923077,0.621943,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,nelson-piquet,Nelson Piquet,brabham,4,54,8,0,4,1129.99676,1146.282848,16.286088,0.884615,0.558894,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,rene-arnoux,René Arnoux,renault,5,54,2,0,5,1126.571222,1141.172095,14.600873,0.846154,0.554136,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,carlos-reutemann,Carlos Reutemann,williams,6,54,5,0,6,1166.526768,1176.466087,9.93932,0.807692,0.608906,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,john-watson,John Watson,mclaren,7,53,13,0,7,1152.694082,1161.648264,8.954182,0.769231,0.590147,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,gilles-villeneuve,Gilles Villeneuve,ferrari,8,53,17,0,8,1226.489142,1228.701062,2.21192,0.730769,0.686531,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,riccardo-patrese,Riccardo Patrese,arrows,9,53,18,0,9,1120.00324,1127.369023,7.365783,0.692308,0.544992,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,jochen-mass,Jochen Mass,arrows,10,53,15,0,10,1089.537196,1097.113294,7.576098,0.653846,0.502324,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,derek-daly,Derek Daly,tyrrell,11,52,20,0,11,1057.721391,1065.602524,7.881133,0.615385,0.457762,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,jody-scheckter,Jody Scheckter,ferrari,12,52,19,0,12,1247.395919,1240.651565,-6.744354,0.576923,0.71181,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,emerson-fittipaldi,Emerson Fittipaldi,fittipaldi,13,50,24,0,13,1131.654637,1130.518076,-1.136561,0.538462,0.561193,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,jean-pierre-jarier,Jean-Pierre Jarier,tyrrell,14,50,16,0,14,1106.992486,1105.652145,-1.34034,0.5,0.526807,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,eddie-cheever,Eddie Cheever,osella,DNF,43,21,1,15,911.530895,921.155314,9.624418,0.461538,0.26905,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,marc-surer,Marc Surer,ats-wheels,DNF,26,11,1,16,988.703881,991.660838,2.956956,0.423077,0.363938,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,patrick-depailler,Patrick Depailler,alfa-romeo,DNF,25,10,1,17,1150.582948,1140.45057,-10.132378,0.384615,0.587263,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,mario-andretti,Mario Andretti,lotus,DNF,18,12,1,18,1088.572901,1080.832062,-7.740839,0.346154,0.500971,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,DNF,8,9,1,19,1042.332679,1034.936422,-7.396257,0.288462,0.436387,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,keke-rosberg,Keke Rosberg,fittipaldi,DNF,8,23,1,20,1046.009982,1038.359155,-7.650827,0.288462,0.441478,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,alain-prost,Alain Prost,mclaren,DNF,6,7,1,21,1015.642061,1007.18826,-8.453802,0.230769,0.399845,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,elio-de-angelis,Elio de Angelis,lotus,DNF,3,14,1,22,1071.702768,1057.452824,-14.249944,0.192308,0.477307,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,jean-pierre-jabouille,Jean-Pierre Jabouille,renault,DNF,0,6,1,23,1022.285594,1008.573184,-13.71241,0.134615,0.408864,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,ricardo-zunino,Ricardo Zunino,brabham,DNF,0,22,1,24,1023.040999,1009.277139,-13.763859,0.134615,0.409893,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,david-kennedy,David Kennedy,shadow,DNQ,,,2,25,920.367409,908.330485,-12.036925,0.038462,0.2792,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,geoff-lees,Geoff Lees,shadow,DNQ,,,2,26,965.267981,950.504395,-14.763586,0.038462,0.333733,50.0,27
+1980,7,1980-06-29,france,Grand Prix de France 1980,335,jan-lammers,Jan Lammers,ensign,DNQ,,,2,27,973.828902,958.519866,-15.309036,0.038462,0.344642,50.0,27

@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,max-verstappen,Max Verstappen,red-bull,1,53,1,0,1,1541.654404,1547.304877,5.650473,1.0,0.886991,50.0,20
-2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,lando-norris,Lando Norris,mclaren,2,53,2,0,2,1417.195676,1424.778414,7.582738,0.947368,0.795714,50.0,20
-2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,oscar-piastri,Oscar Piastri,mclaren,3,53,3,0,3,1337.184226,1345.906921,8.722695,0.894737,0.720283,50.0,20
-2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,charles-leclerc,Charles Leclerc,ferrari,4,53,4,0,4,1356.946109,1362.047475,5.101366,0.842105,0.740078,50.0,20
-2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,george-russell,George Russell,mercedes,5,53,5,0,5,1341.388413,1344.634318,3.245904,0.789474,0.724556,50.0,20
-2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,kimi-antonelli,Kimi Antonelli,mercedes,6,53,6,0,6,1045.405901,1063.65425,18.24835,0.736842,0.371875,50.0,20
-2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,lewis-hamilton,Lewis Hamilton,ferrari,7,53,8,0,7,1279.800011,1281.068694,1.268683,0.684211,0.658837,50.0,20
-2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,isack-hadjar,Isack Hadjar,racing-bulls,8,53,7,0,8,995.087172,1011.090414,16.003242,0.631579,0.311514,50.0,20
-2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,alexander-albon,Alexander Albon,williams,9,53,9,0,9,1032.55284,1043.692355,11.139515,0.578947,0.356157,50.0,20
-2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,oliver-bearman,Oliver Bearman,haas,10,53,10,0,10,1043.023058,1050.891435,7.868377,0.526316,0.368948,50.0,20
-2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,fernando-alonso,Fernando Alonso,aston-martin,11,53,12,0,11,1135.056207,1134.524616,-0.531592,0.473684,0.484316,50.0,20
-2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,yuki-tsunoda,Yuki Tsunoda,red-bull,12,53,14,0,12,1025.617124,1029.282175,3.665051,0.421053,0.347752,50.0,20
-2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,pierre-gasly,Pierre Gasly,alpine,13,53,11,0,13,1077.950944,1075.756052,-2.194892,0.368421,0.412319,50.0,20
-2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,carlos-sainz-jr,Carlos Sainz Jr.,williams,14,53,15,0,14,1293.562493,1275.647871,-17.914622,0.315789,0.674082,50.0,20
-2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,jack-doohan,Jack Doohan,alpine,15,53,19,0,15,987.284474,985.318337,-1.966137,0.263158,0.302481,50.0,20
-2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,nico-hulkenberg,Nico Hülkenberg,kick-sauber,16,53,16,0,16,1085.104875,1074.566261,-10.538615,0.210526,0.421299,50.0,20
-2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,liam-lawson,Liam Lawson,racing-bulls,17,53,13,0,17,1017.308795,1008.315485,-8.99331,0.157895,0.337761,50.0,20
-2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,esteban-ocon,Esteban Ocon,haas,18,53,18,0,18,1058.601886,1044.456159,-14.145727,0.105263,0.388178,50.0,20
-2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,19,53,17,0,19,994.633583,981.715851,-12.917732,0.052632,0.310986,50.0,20
-2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,lance-stroll,Lance Stroll,aston-martin,20,52,20,0,20,1056.745506,1037.451739,-19.293767,0.0,0.385875,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,1128,max-verstappen,Max Verstappen,red-bull,1,53,1,0,1,1541.654404,1547.304877,5.650473,1.0,0.886991,50.0,20
+2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,1128,lando-norris,Lando Norris,mclaren,2,53,2,0,2,1417.195676,1424.778414,7.582738,0.947368,0.795714,50.0,20
+2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,1128,oscar-piastri,Oscar Piastri,mclaren,3,53,3,0,3,1337.184226,1345.906921,8.722695,0.894737,0.720283,50.0,20
+2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,1128,charles-leclerc,Charles Leclerc,ferrari,4,53,4,0,4,1356.946109,1362.047475,5.101366,0.842105,0.740078,50.0,20
+2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,1128,george-russell,George Russell,mercedes,5,53,5,0,5,1341.388413,1344.634318,3.245904,0.789474,0.724556,50.0,20
+2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,1128,kimi-antonelli,Kimi Antonelli,mercedes,6,53,6,0,6,1045.405901,1063.65425,18.24835,0.736842,0.371875,50.0,20
+2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,1128,lewis-hamilton,Lewis Hamilton,ferrari,7,53,8,0,7,1279.800011,1281.068694,1.268683,0.684211,0.658837,50.0,20
+2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,1128,isack-hadjar,Isack Hadjar,racing-bulls,8,53,7,0,8,995.087172,1011.090414,16.003242,0.631579,0.311514,50.0,20
+2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,1128,alexander-albon,Alexander Albon,williams,9,53,9,0,9,1032.55284,1043.692355,11.139515,0.578947,0.356157,50.0,20
+2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,1128,oliver-bearman,Oliver Bearman,haas,10,53,10,0,10,1043.023058,1050.891435,7.868377,0.526316,0.368948,50.0,20
+2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,1128,fernando-alonso,Fernando Alonso,aston-martin,11,53,12,0,11,1135.056207,1134.524616,-0.531592,0.473684,0.484316,50.0,20
+2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,1128,yuki-tsunoda,Yuki Tsunoda,red-bull,12,53,14,0,12,1025.617124,1029.282175,3.665051,0.421053,0.347752,50.0,20
+2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,1128,pierre-gasly,Pierre Gasly,alpine,13,53,11,0,13,1077.950944,1075.756052,-2.194892,0.368421,0.412319,50.0,20
+2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,1128,carlos-sainz-jr,Carlos Sainz Jr.,williams,14,53,15,0,14,1293.562493,1275.647871,-17.914622,0.315789,0.674082,50.0,20
+2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,1128,jack-doohan,Jack Doohan,alpine,15,53,19,0,15,987.284474,985.318337,-1.966137,0.263158,0.302481,50.0,20
+2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,1128,nico-hulkenberg,Nico Hülkenberg,kick-sauber,16,53,16,0,16,1085.104875,1074.566261,-10.538615,0.210526,0.421299,50.0,20
+2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,1128,liam-lawson,Liam Lawson,racing-bulls,17,53,13,0,17,1017.308795,1008.315485,-8.99331,0.157895,0.337761,50.0,20
+2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,1128,esteban-ocon,Esteban Ocon,haas,18,53,18,0,18,1058.601886,1044.456159,-14.145727,0.105263,0.388178,50.0,20
+2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,1128,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,19,53,17,0,19,994.633583,981.715851,-12.917732,0.052632,0.310986,50.0,20
+2025,3,2025-04-06,japan,Formula 1 Lenovo Japanese Grand Prix 2025,1128,lance-stroll,Lance Stroll,aston-martin,20,52,20,0,20,1056.745506,1037.451739,-19.293767,0.0,0.385875,50.0,20

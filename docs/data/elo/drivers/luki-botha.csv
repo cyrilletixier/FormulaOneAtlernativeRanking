@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1967-01-02,1967,1,south-africa,brabham,Brabham,NC,60,18,1000.0,1009.361623,9.361623,0.588235,0.401003,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1967-01-02,1967,1,south-africa,151,brabham,Brabham,NC,60,18,1000.0,1009.361623,9.361623,0.588235,0.401003,50.0

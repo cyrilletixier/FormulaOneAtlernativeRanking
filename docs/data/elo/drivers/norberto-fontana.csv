@@ -1,5 +1,5 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1997-06-29,1997,8,france,sauber,Sauber,DNF,40,22,1000.0,993.818553,-6.181447,0.285714,0.409343,50.0
-1997-07-13,1997,9,great-britain,sauber,Sauber,9,58,22,993.818553,1004.698918,10.880364,0.619048,0.40144,50.0
-1997-07-27,1997,10,germany,sauber,Sauber,9,44,22,1004.698918,1015.294464,10.595547,0.619048,0.407137,50.0
-1997-10-26,1997,17,europe,sauber,Sauber,14,68,22,1015.294464,1013.619729,-1.674735,0.380952,0.414447,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1997-06-29,1997,8,france,605,sauber,Sauber,DNF,40,22,1000.0,993.818553,-6.181447,0.285714,0.409343,50.0
+1997-07-13,1997,9,great-britain,606,sauber,Sauber,9,58,22,993.818553,1004.698918,10.880364,0.619048,0.40144,50.0
+1997-07-27,1997,10,germany,607,sauber,Sauber,9,44,22,1004.698918,1015.294464,10.595547,0.619048,0.407137,50.0
+1997-10-26,1997,17,europe,614,sauber,Sauber,14,68,22,1015.294464,1013.619729,-1.674735,0.380952,0.414447,50.0

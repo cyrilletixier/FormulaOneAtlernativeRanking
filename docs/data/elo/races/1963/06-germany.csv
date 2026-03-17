@@ -1,27 +1,27 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,john-surtees,John Surtees,ferrari,1,15,2,0,1,1078.03937,1100.138948,22.099578,1.0,0.558008,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,jim-clark,Jim Clark,lotus,2,15,1,0,2,1187.059802,1199.862922,12.80312,0.96,0.703938,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,richie-ginther,Richie Ginther,brm,3,15,6,0,3,1127.699629,1142.340199,14.640571,0.92,0.627189,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,gerhard-mitter,Gerhard Mitter,porsche,4,15,15,0,4,979.445687,1002.609731,23.164044,0.88,0.416719,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,jim-hall,Jim Hall,lotus,5,14,16,0,5,1009.818292,1028.820614,19.002322,0.84,0.459954,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,jo-bonnier,Jo Bonnier,cooper,6,14,12,0,6,1062.220522,1075.450609,13.230086,0.8,0.535398,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,jack-brabham,Jack Brabham,brabham,7,14,8,0,7,1058.463493,1069.963269,11.499776,0.76,0.530004,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,trevor-taylor,Trevor Taylor,lotus,8,14,18,0,8,962.592318,978.934346,16.342028,0.72,0.393159,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,jo-siffert,Jo Siffert,lotus,9,10,9,0,9,991.647372,1003.947898,12.300526,0.68,0.433989,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,bernard-collomb,Bernard Collomb,lotus,10,10,21,0,10,952.271727,965.324916,13.05319,0.64,0.378936,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,carel-godin-de-beaufort,Carel Godin de Beaufort,porsche,DNF,9,17,1,11,1045.346689,1049.790346,4.443657,0.6,0.511127,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,tony-maggs,Tony Maggs,cooper,DNF,7,10,1,12,1115.281707,1112.770533,-2.511173,0.56,0.610223,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,dan-gurney,Dan Gurney,brabham,DNF,6,13,1,13,1127.60787,1121.25466,-6.353211,0.5,0.627064,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,mario-de-araujo-cabral,Mário de Araújo Cabral,cooper,DNF,6,20,1,14,1004.182887,1006.589092,2.406205,0.5,0.451876,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,ian-burgess,Ian Burgess,scirocco,DNF,5,19,1,15,957.314912,959.02165,1.706739,0.42,0.385865,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,tony-settember,Tony Settember,scirocco,DNF,5,22,1,16,976.712095,977.068462,0.356367,0.42,0.412873,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,bruce-mclaren,Bruce McLaren,cooper,DNF,3,5,1,17,1147.658764,1132.965785,-14.692979,0.36,0.65386,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,chris-amon,Chris Amon,lola,DNF,2,14,1,18,998.435934,991.252921,-7.183014,0.3,0.44366,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,graham-hill,Graham Hill,brm,DNF,2,4,1,19,1172.633887,1153.332159,-19.301728,0.3,0.686035,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,innes-ireland,Innes Ireland,lotus,DNF,1,11,1,20,1024.191887,1011.160554,-13.031333,0.22,0.480627,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,willy-mairesse,Willy Mairesse,ferrari,DNF,1,7,1,21,1005.864489,994.150278,-11.714211,0.22,0.454284,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,lorenzo-bandini,Lorenzo Bandini,brm,DNF,0,3,1,22,1057.250636,1038.83755,-18.413086,0.16,0.528262,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,andre-pilette,André Pilette,lotus,DNQ,,,2,23,977.018547,959.353376,-17.665171,0.06,0.413303,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,ian-raby,Ian Raby,gilby,DNQ,,,2,24,993.238937,974.426279,-18.812658,0.06,0.436253,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,kurt-kuhnke,Kurt Kuhnke,lotus,DNQ,,,2,25,1000.0,980.705311,-19.294689,0.06,0.445894,50.0,26
-1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,tim-parnell,Tim Parnell,lotus,DNQ,,,2,26,982.834099,964.759143,-18.074956,0.06,0.421499,50.0,26
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,john-surtees,John Surtees,ferrari,1,15,2,0,1,1078.03937,1100.138948,22.099578,1.0,0.558008,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,jim-clark,Jim Clark,lotus,2,15,1,0,2,1187.059802,1199.862922,12.80312,0.96,0.703938,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,richie-ginther,Richie Ginther,brm,3,15,6,0,3,1127.699629,1142.340199,14.640571,0.92,0.627189,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,gerhard-mitter,Gerhard Mitter,porsche,4,15,15,0,4,979.445687,1002.609731,23.164044,0.88,0.416719,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,jim-hall,Jim Hall,lotus,5,14,16,0,5,1009.818292,1028.820614,19.002322,0.84,0.459954,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,jo-bonnier,Jo Bonnier,cooper,6,14,12,0,6,1062.220522,1075.450609,13.230086,0.8,0.535398,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,jack-brabham,Jack Brabham,brabham,7,14,8,0,7,1058.463493,1069.963269,11.499776,0.76,0.530004,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,trevor-taylor,Trevor Taylor,lotus,8,14,18,0,8,962.592318,978.934346,16.342028,0.72,0.393159,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,jo-siffert,Jo Siffert,lotus,9,10,9,0,9,991.647372,1003.947898,12.300526,0.68,0.433989,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,bernard-collomb,Bernard Collomb,lotus,10,10,21,0,10,952.271727,965.324916,13.05319,0.64,0.378936,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,carel-godin-de-beaufort,Carel Godin de Beaufort,porsche,DNF,9,17,1,11,1045.346689,1049.790346,4.443657,0.6,0.511127,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,tony-maggs,Tony Maggs,cooper,DNF,7,10,1,12,1115.281707,1112.770533,-2.511173,0.56,0.610223,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,dan-gurney,Dan Gurney,brabham,DNF,6,13,1,13,1127.60787,1121.25466,-6.353211,0.5,0.627064,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,mario-de-araujo-cabral,Mário de Araújo Cabral,cooper,DNF,6,20,1,14,1004.182887,1006.589092,2.406205,0.5,0.451876,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,ian-burgess,Ian Burgess,scirocco,DNF,5,19,1,15,957.314912,959.02165,1.706739,0.42,0.385865,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,tony-settember,Tony Settember,scirocco,DNF,5,22,1,16,976.712095,977.068462,0.356367,0.42,0.412873,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,bruce-mclaren,Bruce McLaren,cooper,DNF,3,5,1,17,1147.658764,1132.965785,-14.692979,0.36,0.65386,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,chris-amon,Chris Amon,lola,DNF,2,14,1,18,998.435934,991.252921,-7.183014,0.3,0.44366,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,graham-hill,Graham Hill,brm,DNF,2,4,1,19,1172.633887,1153.332159,-19.301728,0.3,0.686035,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,innes-ireland,Innes Ireland,lotus,DNF,1,11,1,20,1024.191887,1011.160554,-13.031333,0.22,0.480627,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,willy-mairesse,Willy Mairesse,ferrari,DNF,1,7,1,21,1005.864489,994.150278,-11.714211,0.22,0.454284,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,lorenzo-bandini,Lorenzo Bandini,brm,DNF,0,3,1,22,1057.250636,1038.83755,-18.413086,0.16,0.528262,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,andre-pilette,André Pilette,lotus,DNQ,,,2,23,977.018547,959.353376,-17.665171,0.06,0.413303,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,ian-raby,Ian Raby,gilby,DNQ,,,2,24,993.238937,974.426279,-18.812658,0.06,0.436253,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,kurt-kuhnke,Kurt Kuhnke,lotus,DNQ,,,2,25,1000.0,980.705311,-19.294689,0.06,0.445894,50.0,26
+1963,6,1963-08-04,germany,Grosser Preis von Deutschland 1963,117,tim-parnell,Tim Parnell,lotus,DNQ,,,2,26,982.834099,964.759143,-18.074956,0.06,0.421499,50.0,26

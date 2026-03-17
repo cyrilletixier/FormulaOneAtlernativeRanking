@@ -1,6 +1,6 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1953-08-02,1953,7,germany,emw,EMW,DNF,12,35,1000.0,997.57235,-2.42765,0.426471,0.475024,50.0
-1957-08-04,1957,6,germany,porsche,Porsche,12,21,24,997.57235,1000.882899,3.310549,0.521739,0.455528,50.0
-1958-08-03,1958,8,germany,porsche,Porsche,6,15,26,1000.882899,1017.576647,16.693748,0.8,0.466125,50.0
-1960-09-04,1960,9,italy,porsche,Porsche,7,47,17,1017.576647,1022.332633,4.755986,0.625,0.52988,50.0
-1964-08-02,1964,6,germany,cooper,Cooper,DNF,3,24,1022.332633,1013.042231,-9.290402,0.26087,0.446678,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1953-08-02,1953,7,germany,30,emw,EMW,DNF,12,35,1000.0,997.57235,-2.42765,0.426471,0.475024,50.0
+1957-08-04,1957,6,germany,62,porsche,Porsche,12,21,24,997.57235,1000.882899,3.310549,0.521739,0.455528,50.0
+1958-08-03,1958,8,germany,72,porsche,Porsche,6,15,26,1000.882899,1017.576647,16.693748,0.8,0.466125,50.0
+1960-09-04,1960,9,italy,93,porsche,Porsche,7,47,17,1017.576647,1022.332633,4.755986,0.625,0.52988,50.0
+1964-08-02,1964,6,germany,127,cooper,Cooper,DNF,3,24,1022.332633,1013.042231,-9.290402,0.26087,0.446678,50.0

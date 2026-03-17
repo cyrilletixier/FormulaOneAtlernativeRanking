@@ -1,4 +1,4 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1976-07-18,1976,9,great-britain,surtees,Surtees,DNQ,,30,1000.0,981.354402,-18.645598,0.051724,0.424636,50.0
-1978-01-15,1978,1,argentina,hesketh,Hesketh,DNQ,,27,981.354402,964.7392,-16.615202,0.038462,0.370766,50.0
-1978-01-29,1978,2,brazil,hesketh,Hesketh,DNQ,,28,964.7392,953.708914,-11.030286,0.12963,0.350235,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1976-07-18,1976,9,great-britain,273,surtees,Surtees,DNQ,,30,1000.0,981.354402,-18.645598,0.051724,0.424636,50.0
+1978-01-15,1978,1,argentina,298,hesketh,Hesketh,DNQ,,27,981.354402,964.7392,-16.615202,0.038462,0.370766,50.0
+1978-01-29,1978,2,brazil,299,hesketh,Hesketh,DNQ,,28,964.7392,953.708914,-11.030286,0.12963,0.350235,50.0

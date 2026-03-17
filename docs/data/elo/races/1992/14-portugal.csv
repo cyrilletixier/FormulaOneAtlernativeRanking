@@ -1,27 +1,27 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,nigel-mansell,Nigel Mansell,williams,1,71,1,0,1,1329.536356,1340.686372,11.150017,1.0,0.777,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,gerhard-berger,Gerhard Berger,mclaren,2,71,4,0,2,1206.135689,1222.414007,16.278318,0.96,0.634434,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,ayrton-senna,Ayrton Senna,mclaren,3,70,3,0,3,1315.966428,1323.807227,7.840799,0.92,0.763184,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,martin-brundle,Martin Brundle,benetton,4,70,6,0,4,1200.316306,1212.97172,12.655414,0.88,0.626892,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,mika-hakkinen,Mika Häkkinen,lotus,5,70,7,0,5,1104.925109,1122.055877,17.130768,0.84,0.497385,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,michele-alboreto,Michele Alboreto,footwork,6,70,8,0,6,1130.060255,1143.449481,13.389226,0.8,0.532215,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,michael-schumacher,Michael Schumacher,benetton,7,69,5,0,7,1206.568942,1212.819303,6.250361,0.76,0.634993,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,thierry-boutsen,Thierry Boutsen,ligier,8,69,11,0,8,1118.396009,1128.592165,10.196156,0.72,0.516077,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,andrea-de-cesaris,Andrea de Cesaris,tyrrell,9,69,12,0,9,1133.996373,1141.11406,7.117688,0.68,0.537646,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,aguri-suzuki,Aguri Suzuki,footwork,10,68,17,0,10,996.823543,1011.289504,14.465961,0.64,0.350681,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,emanuele-naspetti,Emanuele Naspetti,march,11,68,23,0,11,1008.545324,1020.248614,11.70329,0.6,0.365934,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,christian-fittipaldi,Christian Fittipaldi,minardi,12,68,26,0,12,975.719512,987.526407,11.806895,0.56,0.323862,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,stefano-modena,Stefano Modena,jordan,13,68,24,0,13,1000.991768,1009.187893,8.196125,0.52,0.356078,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,gianni-morbidelli,Gianni Morbidelli,minardi,14,68,18,0,14,1057.002453,1059.448193,2.44574,0.48,0.431085,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,jj-lehto,JJ Lehto,dallara,DNF,51,19,1,15,1120.732028,1116.766353,-3.965676,0.44,0.519314,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,karl-wendlinger,Karl Wendlinger,march,DNF,48,22,1,16,1047.47985,1046.576438,-0.903412,0.4,0.418068,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,erik-comas,Érik Comas,ligier,DNF,47,14,1,17,1108.11189,1101.021409,-7.090481,0.36,0.50181,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,ukyo-katayama,Ukyo Katayama,venturi,DNF,46,25,1,18,1025.743396,1022.307711,-3.435685,0.32,0.388714,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,pierluigi-martini,Pierluigi Martini,dallara,DNF,43,21,1,19,1120.346981,1107.407974,-12.939008,0.26,0.51878,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,riccardo-patrese,Riccardo Patrese,williams,DNF,43,2,1,20,1317.24539,1292.020018,-25.225372,0.26,0.764507,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,ivan-capelli,Ivan Capelli,ferrari,DNF,34,16,1,21,1060.701079,1048.892991,-11.808088,0.2,0.436162,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,olivier-grouillard,Olivier Grouillard,tyrrell,DNF,27,15,1,22,995.950189,986.47249,-9.477699,0.16,0.349554,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,bertrand-gachot,Bertrand Gachot,venturi,DNF,25,13,1,23,994.057744,982.701887,-11.355857,0.12,0.347117,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,mauricio-gugelmin,Maurício Gugelmin,jordan,DNF,19,20,1,24,1080.941241,1061.736338,-19.204903,0.08,0.464098,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,jean-alesi,Jean Alesi,ferrari,DNF,12,10,1,25,1126.022491,1101.690704,-24.331787,0.04,0.526636,50.0,26
-1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,johnny-herbert,Johnny Herbert,lotus,DNF,2,9,1,26,1047.265222,1026.376431,-20.888791,0.0,0.417776,50.0,26
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,nigel-mansell,Nigel Mansell,williams,1,71,1,0,1,1329.536356,1340.686372,11.150017,1.0,0.777,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,gerhard-berger,Gerhard Berger,mclaren,2,71,4,0,2,1206.135689,1222.414007,16.278318,0.96,0.634434,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,ayrton-senna,Ayrton Senna,mclaren,3,70,3,0,3,1315.966428,1323.807227,7.840799,0.92,0.763184,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,martin-brundle,Martin Brundle,benetton,4,70,6,0,4,1200.316306,1212.97172,12.655414,0.88,0.626892,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,mika-hakkinen,Mika Häkkinen,lotus,5,70,7,0,5,1104.925109,1122.055877,17.130768,0.84,0.497385,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,michele-alboreto,Michele Alboreto,footwork,6,70,8,0,6,1130.060255,1143.449481,13.389226,0.8,0.532215,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,michael-schumacher,Michael Schumacher,benetton,7,69,5,0,7,1206.568942,1212.819303,6.250361,0.76,0.634993,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,thierry-boutsen,Thierry Boutsen,ligier,8,69,11,0,8,1118.396009,1128.592165,10.196156,0.72,0.516077,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,andrea-de-cesaris,Andrea de Cesaris,tyrrell,9,69,12,0,9,1133.996373,1141.11406,7.117688,0.68,0.537646,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,aguri-suzuki,Aguri Suzuki,footwork,10,68,17,0,10,996.823543,1011.289504,14.465961,0.64,0.350681,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,emanuele-naspetti,Emanuele Naspetti,march,11,68,23,0,11,1008.545324,1020.248614,11.70329,0.6,0.365934,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,christian-fittipaldi,Christian Fittipaldi,minardi,12,68,26,0,12,975.719512,987.526407,11.806895,0.56,0.323862,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,stefano-modena,Stefano Modena,jordan,13,68,24,0,13,1000.991768,1009.187893,8.196125,0.52,0.356078,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,gianni-morbidelli,Gianni Morbidelli,minardi,14,68,18,0,14,1057.002453,1059.448193,2.44574,0.48,0.431085,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,jj-lehto,JJ Lehto,dallara,DNF,51,19,1,15,1120.732028,1116.766353,-3.965676,0.44,0.519314,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,karl-wendlinger,Karl Wendlinger,march,DNF,48,22,1,16,1047.47985,1046.576438,-0.903412,0.4,0.418068,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,erik-comas,Érik Comas,ligier,DNF,47,14,1,17,1108.11189,1101.021409,-7.090481,0.36,0.50181,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,ukyo-katayama,Ukyo Katayama,venturi,DNF,46,25,1,18,1025.743396,1022.307711,-3.435685,0.32,0.388714,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,pierluigi-martini,Pierluigi Martini,dallara,DNF,43,21,1,19,1120.346981,1107.407974,-12.939008,0.26,0.51878,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,riccardo-patrese,Riccardo Patrese,williams,DNF,43,2,1,20,1317.24539,1292.020018,-25.225372,0.26,0.764507,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,ivan-capelli,Ivan Capelli,ferrari,DNF,34,16,1,21,1060.701079,1048.892991,-11.808088,0.2,0.436162,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,olivier-grouillard,Olivier Grouillard,tyrrell,DNF,27,15,1,22,995.950189,986.47249,-9.477699,0.16,0.349554,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,bertrand-gachot,Bertrand Gachot,venturi,DNF,25,13,1,23,994.057744,982.701887,-11.355857,0.12,0.347117,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,mauricio-gugelmin,Maurício Gugelmin,jordan,DNF,19,20,1,24,1080.941241,1061.736338,-19.204903,0.08,0.464098,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,jean-alesi,Jean Alesi,ferrari,DNF,12,10,1,25,1126.022491,1101.690704,-24.331787,0.04,0.526636,50.0,26
+1992,14,1992-09-27,portugal,Grande Prémio SG Gigante de Portugal 1992,530,johnny-herbert,Johnny Herbert,lotus,DNF,2,9,1,26,1047.265222,1026.376431,-20.888791,0.0,0.417776,50.0,26

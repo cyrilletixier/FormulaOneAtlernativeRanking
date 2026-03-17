@@ -1,31 +1,31 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,nelson-piquet,Nelson Piquet,brabham,1,60,5,0,1,1223.438732,1237.85126,14.412528,1.0,0.711749,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,riccardo-patrese,Riccardo Patrese,arrows,2,60,9,0,2,1119.343612,1138.526013,19.182401,0.965517,0.581869,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,carlos-reutemann,Carlos Reutemann,williams,3,60,2,0,3,1298.872657,1305.896579,7.023922,0.931034,0.790556,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,hector-rebaque,Héctor Rebaque,brabham,4,60,13,0,4,1003.155811,1026.811505,23.655694,0.896552,0.423438,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,didier-pironi,Didier Pironi,ferrari,5,60,6,0,5,1149.15248,1161.204013,12.051533,0.862069,0.621038,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,andrea-de-cesaris,Andrea de Cesaris,mclaren,6,60,14,0,6,986.39266,1007.727446,21.334786,0.827586,0.40089,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,gilles-villeneuve,Gilles Villeneuve,ferrari,7,60,1,0,7,1171.732356,1178.898653,7.166296,0.793103,0.649778,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,rene-arnoux,René Arnoux,renault,8,59,3,0,8,1158.915446,1165.167777,6.252331,0.758621,0.633574,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,marc-surer,Marc Surer,ensign,9,59,21,0,9,1053.885982,1065.451567,11.565585,0.724138,0.492826,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,john-watson,John Watson,mclaren,10,58,7,0,10,1125.262578,1130.25821,4.995632,0.689655,0.589743,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,patrick-tambay,Patrick Tambay,theodore,11,58,16,0,11,1075.352879,1081.996858,6.643979,0.655172,0.522293,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,alan-jones,Alan Jones,williams,12,58,8,0,12,1325.161731,1315.47304,-9.688691,0.62069,0.814463,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,slim-borgudd,Slim Borgudd,ats-wheels,13,57,24,0,13,1000.0,1008.351758,8.351758,0.586207,0.419172,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,jean-pierre-jabouille,Jean-Pierre Jabouille,ligier,NC,45,18,1,14,992.934609,1000.03806,7.103451,0.551724,0.409655,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,eliseo-salazar,Eliseo Salazar,march,DNF,38,23,1,15,954.497844,962.411795,7.913952,0.517241,0.358962,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,beppe-gabbiani,Beppe Gabbiani,osella,DNF,31,20,1,16,941.192326,947.370776,6.178449,0.465517,0.341948,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,michele-alboreto,Michele Alboreto,tyrrell,DNF,31,17,1,17,1000.0,1002.317275,2.317275,0.465517,0.419172,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,DNF,28,11,1,18,1046.943779,1042.607168,-4.336612,0.396552,0.483284,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,eddie-cheever,Eddie Cheever,tyrrell,DNF,28,19,1,19,967.128929,968.187002,1.058073,0.396552,0.37539,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,mario-andretti,Mario Andretti,alfa-romeo,DNF,26,12,1,20,1104.821853,1093.943971,-10.877883,0.344828,0.562385,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,keke-rosberg,Keke Rosberg,fittipaldi,DNF,14,15,1,21,1046.341463,1037.735896,-8.605567,0.310345,0.482456,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,jacques-laffite,Jacques Laffite,ligier,DNF,7,10,1,22,1209.048466,1188.086843,-20.961623,0.275862,0.695095,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,alain-prost,Alain Prost,renault,DNF,3,4,1,23,1068.686048,1055.097284,-13.588764,0.241379,0.513155,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,miguel-angel-guerra,Miguel Ángel Guerra,osella,DNF,0,22,1,24,954.497844,946.894554,-7.60329,0.206897,0.358962,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,brian-henton,Brian Henton,toleman,DNQ,,,2,25,931.766339,919.571978,-12.194361,0.086207,0.330094,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,chico-serra,Chico Serra,fittipaldi,DNQ,,,2,26,1009.427129,992.140423,-17.286706,0.086207,0.431941,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,derek-daly,Derek Daly,march,DNQ,,,2,27,988.364221,972.498223,-15.865998,0.086207,0.403527,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,derek-warwick,Derek Warwick,toleman,DNQ,,,2,28,1000.0,983.351758,-16.648242,0.086207,0.419172,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,jan-lammers,Jan Lammers,ats-wheels,DNQ,,,2,29,941.474848,928.669884,-12.804964,0.086207,0.342306,50.0,30
-1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,siegfried-stohr,Siegfried Stohr,arrows,DNQ,,,2,30,1001.431511,984.686567,-16.744944,0.086207,0.421106,50.0,30
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,nelson-piquet,Nelson Piquet,brabham,1,60,5,0,1,1223.438732,1237.85126,14.412528,1.0,0.711749,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,riccardo-patrese,Riccardo Patrese,arrows,2,60,9,0,2,1119.343612,1138.526013,19.182401,0.965517,0.581869,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,carlos-reutemann,Carlos Reutemann,williams,3,60,2,0,3,1298.872657,1305.896579,7.023922,0.931034,0.790556,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,hector-rebaque,Héctor Rebaque,brabham,4,60,13,0,4,1003.155811,1026.811505,23.655694,0.896552,0.423438,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,didier-pironi,Didier Pironi,ferrari,5,60,6,0,5,1149.15248,1161.204013,12.051533,0.862069,0.621038,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,andrea-de-cesaris,Andrea de Cesaris,mclaren,6,60,14,0,6,986.39266,1007.727446,21.334786,0.827586,0.40089,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,gilles-villeneuve,Gilles Villeneuve,ferrari,7,60,1,0,7,1171.732356,1178.898653,7.166296,0.793103,0.649778,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,rene-arnoux,René Arnoux,renault,8,59,3,0,8,1158.915446,1165.167777,6.252331,0.758621,0.633574,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,marc-surer,Marc Surer,ensign,9,59,21,0,9,1053.885982,1065.451567,11.565585,0.724138,0.492826,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,john-watson,John Watson,mclaren,10,58,7,0,10,1125.262578,1130.25821,4.995632,0.689655,0.589743,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,patrick-tambay,Patrick Tambay,theodore,11,58,16,0,11,1075.352879,1081.996858,6.643979,0.655172,0.522293,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,alan-jones,Alan Jones,williams,12,58,8,0,12,1325.161731,1315.47304,-9.688691,0.62069,0.814463,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,slim-borgudd,Slim Borgudd,ats-wheels,13,57,24,0,13,1000.0,1008.351758,8.351758,0.586207,0.419172,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,jean-pierre-jabouille,Jean-Pierre Jabouille,ligier,NC,45,18,1,14,992.934609,1000.03806,7.103451,0.551724,0.409655,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,eliseo-salazar,Eliseo Salazar,march,DNF,38,23,1,15,954.497844,962.411795,7.913952,0.517241,0.358962,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,beppe-gabbiani,Beppe Gabbiani,osella,DNF,31,20,1,16,941.192326,947.370776,6.178449,0.465517,0.341948,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,michele-alboreto,Michele Alboreto,tyrrell,DNF,31,17,1,17,1000.0,1002.317275,2.317275,0.465517,0.419172,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,DNF,28,11,1,18,1046.943779,1042.607168,-4.336612,0.396552,0.483284,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,eddie-cheever,Eddie Cheever,tyrrell,DNF,28,19,1,19,967.128929,968.187002,1.058073,0.396552,0.37539,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,mario-andretti,Mario Andretti,alfa-romeo,DNF,26,12,1,20,1104.821853,1093.943971,-10.877883,0.344828,0.562385,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,keke-rosberg,Keke Rosberg,fittipaldi,DNF,14,15,1,21,1046.341463,1037.735896,-8.605567,0.310345,0.482456,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,jacques-laffite,Jacques Laffite,ligier,DNF,7,10,1,22,1209.048466,1188.086843,-20.961623,0.275862,0.695095,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,alain-prost,Alain Prost,renault,DNF,3,4,1,23,1068.686048,1055.097284,-13.588764,0.241379,0.513155,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,miguel-angel-guerra,Miguel Ángel Guerra,osella,DNF,0,22,1,24,954.497844,946.894554,-7.60329,0.206897,0.358962,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,brian-henton,Brian Henton,toleman,DNQ,,,2,25,931.766339,919.571978,-12.194361,0.086207,0.330094,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,chico-serra,Chico Serra,fittipaldi,DNQ,,,2,26,1009.427129,992.140423,-17.286706,0.086207,0.431941,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,derek-daly,Derek Daly,march,DNQ,,,2,27,988.364221,972.498223,-15.865998,0.086207,0.403527,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,derek-warwick,Derek Warwick,toleman,DNQ,,,2,28,1000.0,983.351758,-16.648242,0.086207,0.419172,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,jan-lammers,Jan Lammers,ats-wheels,DNQ,,,2,29,941.474848,928.669884,-12.804964,0.086207,0.342306,50.0,30
+1981,4,1981-05-03,san-marino,Gran Premio di San Marino 1981,346,siegfried-stohr,Siegfried Stohr,arrows,DNQ,,,2,30,1001.431511,984.686567,-16.744944,0.086207,0.421106,50.0,30

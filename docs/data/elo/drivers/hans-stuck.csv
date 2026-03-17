@@ -1,6 +1,6 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1951-09-16,1951,7,italy,brm,BRM,DNS,,24,1000.0,979.086853,-20.913147,0.065217,0.48348,50.0
-1952-05-18,1952,1,switzerland,afm,AFM,DNF,4,22,979.086853,964.064478,-15.022375,0.166667,0.467114,50.0
-1952-09-07,1952,8,italy,ferrari,Ferrari,DNQ,,35,964.064478,949.754292,-14.310186,0.147059,0.433263,50.0
-1953-08-02,1953,7,germany,afm,AFM,DNF,0,35,949.754292,931.783109,-17.971183,0.044118,0.403541,50.0
-1953-09-13,1953,9,italy,afm,AFM,14,67,31,931.783109,939.304074,7.520965,0.533333,0.382914,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1951-09-16,1951,7,italy,14,brm,BRM,DNS,,24,1000.0,979.086853,-20.913147,0.065217,0.48348,50.0
+1952-05-18,1952,1,switzerland,16,afm,AFM,DNF,4,22,979.086853,964.064478,-15.022375,0.166667,0.467114,50.0
+1952-09-07,1952,8,italy,23,ferrari,Ferrari,DNQ,,35,964.064478,949.754292,-14.310186,0.147059,0.433263,50.0
+1953-08-02,1953,7,germany,30,afm,AFM,DNF,0,35,949.754292,931.783109,-17.971183,0.044118,0.403541,50.0
+1953-09-13,1953,9,italy,32,afm,AFM,14,67,31,931.783109,939.304074,7.520965,0.533333,0.382914,50.0

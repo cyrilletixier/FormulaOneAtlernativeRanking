@@ -1,29 +1,29 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,john-watson,John Watson,mclaren,1,75,22,0,1,1217.62401,1232.854091,15.23008,1.0,0.695398,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,niki-lauda,Niki Lauda,mclaren,2,75,23,0,2,1147.539187,1165.408715,17.869528,0.962963,0.605572,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,rene-arnoux,René Arnoux,ferrari,3,75,2,0,3,1113.385131,1131.732574,18.347443,0.925926,0.558977,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,jacques-laffite,Jacques Laffite,williams,4,74,4,0,4,1123.303883,1139.116388,15.812505,0.888889,0.572639,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,marc-surer,Marc Surer,arrows,5,74,16,0,5,1149.315032,1161.50983,12.194798,0.851852,0.607956,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,johnny-cecotto,Johnny Cecotto,theodore,6,74,17,0,6,1008.810956,1028.872174,20.061218,0.814815,0.41359,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,raul-boesel,Raul Boesel,ligier,7,73,26,0,7,949.743623,971.85481,22.111187,0.777778,0.335554,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,danny-sullivan,Danny Sullivan,tyrrell,8,73,9,0,8,1012.51466,1028.619123,16.104464,0.740741,0.418651,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,michele-alboreto,Michele Alboreto,tyrrell,9,73,7,0,9,1134.12915,1139.942508,5.813359,0.703704,0.587437,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,riccardo-patrese,Riccardo Patrese,brabham,10,72,11,0,10,1057.41047,1066.698909,9.288439,0.666667,0.480898,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,alain-prost,Alain Prost,renault,11,72,8,0,11,1184.403488,1183.184618,-1.218871,0.62963,0.654007,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,nigel-mansell,Nigel Mansell,lotus,12,72,13,0,12,1082.618192,1086.439431,3.821239,0.592593,0.516168,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,eddie-cheever,Eddie Cheever,renault,DNF,67,15,1,13,1087.321096,1088.96187,1.640774,0.555556,0.52274,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,alan-jones,Alan Jones,arrows,DNF,58,12,1,14,1282.744539,1270.234553,-12.509986,0.518519,0.768718,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,nelson-piquet,Nelson Piquet,brabham,DNF,51,20,1,15,1164.808414,1157.455077,-7.353338,0.481481,0.628548,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,DNF,48,19,1,16,1043.335228,1042.494917,-0.840311,0.444444,0.461251,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,elio-de-angelis,Elio de Angelis,lotus,DNF,29,5,1,17,1145.170141,1135.421222,-9.74892,0.407407,0.602386,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,roberto-guerrero,Roberto Guerrero,theodore,DNF,27,18,1,18,936.903799,939.450508,2.546709,0.37037,0.319436,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,bruno-giacomelli,Bruno Giacomelli,toleman,DNF,26,14,1,19,1072.920291,1062.605089,-10.315202,0.296296,0.5026,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,jean-pierre-jarier,Jean-Pierre Jarier,ligier,DNF,26,10,1,20,972.958446,969.496508,-3.461938,0.296296,0.365535,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,mauro-baldi,Mauro Baldi,alfa-romeo,DNF,26,21,1,21,1015.924638,1009.573246,-6.351392,0.296296,0.423324,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,eliseo-salazar,Eliseo Salazar,ram,DNF,25,25,1,22,985.129078,975.306539,-9.822539,0.185185,0.381636,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,keke-rosberg,Keke Rosberg,williams,DNF,25,3,1,23,1151.499343,1130.214533,-21.28481,0.185185,0.610881,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,patrick-tambay,Patrick Tambay,ferrari,DNF,25,1,1,24,1106.292106,1088.093517,-18.198589,0.185185,0.549157,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,derek-warwick,Derek Warwick,toleman,DNF,11,6,1,25,928.919841,918.995578,-9.924263,0.111111,0.309596,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,3,24,1,26,964.445956,950.428466,-14.017489,0.074074,0.354424,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,corrado-fabi,Corrado Fabi,osella,DNQ,,,2,27,990.292437,971.791507,-18.50093,0.018519,0.388537,50.0,28
-1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNQ,,,2,28,972.079523,954.786356,-17.293168,0.018519,0.364382,50.0,28
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,john-watson,John Watson,mclaren,1,75,22,0,1,1217.62401,1232.854091,15.23008,1.0,0.695398,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,niki-lauda,Niki Lauda,mclaren,2,75,23,0,2,1147.539187,1165.408715,17.869528,0.962963,0.605572,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,rene-arnoux,René Arnoux,ferrari,3,75,2,0,3,1113.385131,1131.732574,18.347443,0.925926,0.558977,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,jacques-laffite,Jacques Laffite,williams,4,74,4,0,4,1123.303883,1139.116388,15.812505,0.888889,0.572639,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,marc-surer,Marc Surer,arrows,5,74,16,0,5,1149.315032,1161.50983,12.194798,0.851852,0.607956,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,johnny-cecotto,Johnny Cecotto,theodore,6,74,17,0,6,1008.810956,1028.872174,20.061218,0.814815,0.41359,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,raul-boesel,Raul Boesel,ligier,7,73,26,0,7,949.743623,971.85481,22.111187,0.777778,0.335554,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,danny-sullivan,Danny Sullivan,tyrrell,8,73,9,0,8,1012.51466,1028.619123,16.104464,0.740741,0.418651,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,michele-alboreto,Michele Alboreto,tyrrell,9,73,7,0,9,1134.12915,1139.942508,5.813359,0.703704,0.587437,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,riccardo-patrese,Riccardo Patrese,brabham,10,72,11,0,10,1057.41047,1066.698909,9.288439,0.666667,0.480898,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,alain-prost,Alain Prost,renault,11,72,8,0,11,1184.403488,1183.184618,-1.218871,0.62963,0.654007,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,nigel-mansell,Nigel Mansell,lotus,12,72,13,0,12,1082.618192,1086.439431,3.821239,0.592593,0.516168,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,eddie-cheever,Eddie Cheever,renault,DNF,67,15,1,13,1087.321096,1088.96187,1.640774,0.555556,0.52274,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,alan-jones,Alan Jones,arrows,DNF,58,12,1,14,1282.744539,1270.234553,-12.509986,0.518519,0.768718,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,nelson-piquet,Nelson Piquet,brabham,DNF,51,20,1,15,1164.808414,1157.455077,-7.353338,0.481481,0.628548,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,DNF,48,19,1,16,1043.335228,1042.494917,-0.840311,0.444444,0.461251,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,elio-de-angelis,Elio de Angelis,lotus,DNF,29,5,1,17,1145.170141,1135.421222,-9.74892,0.407407,0.602386,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,roberto-guerrero,Roberto Guerrero,theodore,DNF,27,18,1,18,936.903799,939.450508,2.546709,0.37037,0.319436,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,bruno-giacomelli,Bruno Giacomelli,toleman,DNF,26,14,1,19,1072.920291,1062.605089,-10.315202,0.296296,0.5026,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,jean-pierre-jarier,Jean-Pierre Jarier,ligier,DNF,26,10,1,20,972.958446,969.496508,-3.461938,0.296296,0.365535,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,mauro-baldi,Mauro Baldi,alfa-romeo,DNF,26,21,1,21,1015.924638,1009.573246,-6.351392,0.296296,0.423324,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,eliseo-salazar,Eliseo Salazar,ram,DNF,25,25,1,22,985.129078,975.306539,-9.822539,0.185185,0.381636,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,keke-rosberg,Keke Rosberg,williams,DNF,25,3,1,23,1151.499343,1130.214533,-21.28481,0.185185,0.610881,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,patrick-tambay,Patrick Tambay,ferrari,DNF,25,1,1,24,1106.292106,1088.093517,-18.198589,0.185185,0.549157,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,derek-warwick,Derek Warwick,toleman,DNF,11,6,1,25,928.919841,918.995578,-9.924263,0.111111,0.309596,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,3,24,1,26,964.445956,950.428466,-14.017489,0.074074,0.354424,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,corrado-fabi,Corrado Fabi,osella,DNQ,,,2,27,990.292437,971.791507,-18.50093,0.018519,0.388537,50.0,28
+1983,2,1983-03-27,united-states-west,1983 Toyota Grand Prix of Long Beach,375,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNQ,,,2,28,972.079523,954.786356,-17.293168,0.018519,0.364382,50.0,28

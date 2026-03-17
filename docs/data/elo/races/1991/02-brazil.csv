@@ -1,35 +1,35 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,ayrton-senna,Ayrton Senna,mclaren,1,71,1,0,1,1299.160252,1310.164948,11.004696,1.0,0.779906,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,riccardo-patrese,Riccardo Patrese,williams,2,71,2,0,2,1247.025108,1259.153192,12.128084,0.969697,0.727135,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,gerhard-berger,Gerhard Berger,mclaren,3,71,4,0,3,1230.923644,1242.416795,11.493151,0.939394,0.709531,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,alain-prost,Alain Prost,ferrari,4,71,6,0,4,1359.234644,1363.07686,3.842216,0.909091,0.832247,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,nelson-piquet,Nelson Piquet,benetton,5,71,7,0,5,1287.75139,1293.244297,5.492907,0.878788,0.76893,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,jean-alesi,Jean Alesi,ferrari,6,71,5,0,6,1117.239469,1131.112397,13.872927,0.848485,0.571026,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,roberto-moreno,Roberto Moreno,benetton,7,70,14,0,7,921.916215,946.929777,25.013562,0.818182,0.317911,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,gianni-morbidelli,Gianni Morbidelli,minardi,8,69,21,0,8,981.320665,1001.127298,19.806632,0.787879,0.391746,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,mika-hakkinen,Mika Häkkinen,lotus,9,68,22,0,9,1011.034591,1027.391124,16.356532,0.757576,0.430445,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,thierry-boutsen,Thierry Boutsen,ligier,10,68,18,0,10,1229.836654,1230.78422,0.947566,0.727273,0.708321,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,emanuele-pirro,Emanuele Pirro,dallara,11,68,12,0,11,1033.366009,1045.21567,11.849662,0.69697,0.459976,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,martin-brundle,Martin Brundle,brabham,12,67,26,0,12,1121.310981,1125.828483,4.517502,0.666667,0.576317,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,bertrand-gachot,Bertrand Gachot,jordan,13,63,10,0,13,857.245503,876.789496,19.543993,0.636364,0.245484,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,nigel-mansell,Nigel Mansell,williams,DNF,59,3,1,14,1202.33085,1198.790332,-3.540518,0.606061,0.676871,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,erik-comas,Érik Comas,ligier,DNF,50,23,1,15,981.489137,990.678868,9.189731,0.575758,0.391963,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,pierluigi-martini,Pierluigi Martini,minardi,DNF,47,20,1,16,1094.200688,1094.432571,0.231883,0.545455,0.540817,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,mark-blundell,Mark Blundell,brabham,DNF,34,25,1,17,997.398228,1002.526805,5.128578,0.515152,0.41258,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,eric-bernard,Éric Bernard,lola,DNF,33,11,1,18,1069.518406,1068.356254,-1.162152,0.484848,0.508092,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,jj-lehto,JJ Lehto,dallara,DNF,22,19,1,19,959.09354,963.647539,4.553999,0.454545,0.363465,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,andrea-de-cesaris,Andrea de Cesaris,jordan,DNF,20,13,1,20,1008.068456,1007.953269,-0.115187,0.424242,0.426546,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,stefano-modena,Stefano Modena,tyrrell,DNF,19,9,1,21,1078.557989,1072.249669,-6.30832,0.393939,0.520106,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,ivan-capelli,Ivan Capelli,leyton-house,DNF,16,15,1,22,1077.477987,1069.726217,-7.75177,0.363636,0.518672,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,satoru-nakajima,Satoru Nakajima,tyrrell,DNF,12,16,1,23,1080.798952,1071.311623,-9.487329,0.333333,0.52308,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,mauricio-gugelmin,Maurício Gugelmin,leyton-house,DNF,9,8,1,24,1046.320394,1037.611761,-8.708633,0.30303,0.477203,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,aguri-suzuki,Aguri Suzuki,lola,DNF,0,17,1,25,1054.39063,1042.871926,-11.518703,0.257576,0.48795,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,gabriele-tarquini,Gabriele Tarquini,ags,DNF,0,24,1,26,901.088314,899.289637,-1.798677,0.257576,0.293549,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,eric-van-de-poele,Eric van de Poele,modena,DNPQ,,,1,27,987.549743,975.893838,-11.655904,0.166667,0.399785,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,nicola-larini,Nicola Larini,modena,DNPQ,,,1,28,1111.725562,1091.867079,-19.858483,0.166667,0.563836,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,olivier-grouillard,Olivier Grouillard,fondmetal,DNPQ,,,1,29,953.495498,944.006082,-9.489416,0.166667,0.356455,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,pedro-chaves,Pedro Chaves,coloni,DNPQ,,,1,30,987.549743,975.893838,-11.655904,0.166667,0.399785,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,alex-caffi,Alex Caffi,footwork,DNQ,,,2,31,1082.105918,1058.137968,-23.967949,0.045455,0.524814,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,julian-bailey,Julian Bailey,lotus,DNQ,,,2,32,878.89641,867.736853,-11.159557,0.045455,0.268646,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,michele-alboreto,Michele Alboreto,footwork,DNQ,,,2,33,1057.120603,1034.814033,-22.30657,0.045455,0.491586,50.0,34
-1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,stefan-johansson,Stefan Johansson,ags,DNQ,,,2,34,936.285116,921.79657,-14.488545,0.045455,0.335225,50.0,34
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,ayrton-senna,Ayrton Senna,mclaren,1,71,1,0,1,1299.160252,1310.164948,11.004696,1.0,0.779906,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,riccardo-patrese,Riccardo Patrese,williams,2,71,2,0,2,1247.025108,1259.153192,12.128084,0.969697,0.727135,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,gerhard-berger,Gerhard Berger,mclaren,3,71,4,0,3,1230.923644,1242.416795,11.493151,0.939394,0.709531,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,alain-prost,Alain Prost,ferrari,4,71,6,0,4,1359.234644,1363.07686,3.842216,0.909091,0.832247,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,nelson-piquet,Nelson Piquet,benetton,5,71,7,0,5,1287.75139,1293.244297,5.492907,0.878788,0.76893,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,jean-alesi,Jean Alesi,ferrari,6,71,5,0,6,1117.239469,1131.112397,13.872927,0.848485,0.571026,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,roberto-moreno,Roberto Moreno,benetton,7,70,14,0,7,921.916215,946.929777,25.013562,0.818182,0.317911,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,gianni-morbidelli,Gianni Morbidelli,minardi,8,69,21,0,8,981.320665,1001.127298,19.806632,0.787879,0.391746,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,mika-hakkinen,Mika Häkkinen,lotus,9,68,22,0,9,1011.034591,1027.391124,16.356532,0.757576,0.430445,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,thierry-boutsen,Thierry Boutsen,ligier,10,68,18,0,10,1229.836654,1230.78422,0.947566,0.727273,0.708321,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,emanuele-pirro,Emanuele Pirro,dallara,11,68,12,0,11,1033.366009,1045.21567,11.849662,0.69697,0.459976,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,martin-brundle,Martin Brundle,brabham,12,67,26,0,12,1121.310981,1125.828483,4.517502,0.666667,0.576317,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,bertrand-gachot,Bertrand Gachot,jordan,13,63,10,0,13,857.245503,876.789496,19.543993,0.636364,0.245484,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,nigel-mansell,Nigel Mansell,williams,DNF,59,3,1,14,1202.33085,1198.790332,-3.540518,0.606061,0.676871,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,erik-comas,Érik Comas,ligier,DNF,50,23,1,15,981.489137,990.678868,9.189731,0.575758,0.391963,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,pierluigi-martini,Pierluigi Martini,minardi,DNF,47,20,1,16,1094.200688,1094.432571,0.231883,0.545455,0.540817,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,mark-blundell,Mark Blundell,brabham,DNF,34,25,1,17,997.398228,1002.526805,5.128578,0.515152,0.41258,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,eric-bernard,Éric Bernard,lola,DNF,33,11,1,18,1069.518406,1068.356254,-1.162152,0.484848,0.508092,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,jj-lehto,JJ Lehto,dallara,DNF,22,19,1,19,959.09354,963.647539,4.553999,0.454545,0.363465,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,andrea-de-cesaris,Andrea de Cesaris,jordan,DNF,20,13,1,20,1008.068456,1007.953269,-0.115187,0.424242,0.426546,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,stefano-modena,Stefano Modena,tyrrell,DNF,19,9,1,21,1078.557989,1072.249669,-6.30832,0.393939,0.520106,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,ivan-capelli,Ivan Capelli,leyton-house,DNF,16,15,1,22,1077.477987,1069.726217,-7.75177,0.363636,0.518672,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,satoru-nakajima,Satoru Nakajima,tyrrell,DNF,12,16,1,23,1080.798952,1071.311623,-9.487329,0.333333,0.52308,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,mauricio-gugelmin,Maurício Gugelmin,leyton-house,DNF,9,8,1,24,1046.320394,1037.611761,-8.708633,0.30303,0.477203,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,aguri-suzuki,Aguri Suzuki,lola,DNF,0,17,1,25,1054.39063,1042.871926,-11.518703,0.257576,0.48795,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,gabriele-tarquini,Gabriele Tarquini,ags,DNF,0,24,1,26,901.088314,899.289637,-1.798677,0.257576,0.293549,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,eric-van-de-poele,Eric van de Poele,modena,DNPQ,,,1,27,987.549743,975.893838,-11.655904,0.166667,0.399785,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,nicola-larini,Nicola Larini,modena,DNPQ,,,1,28,1111.725562,1091.867079,-19.858483,0.166667,0.563836,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,olivier-grouillard,Olivier Grouillard,fondmetal,DNPQ,,,1,29,953.495498,944.006082,-9.489416,0.166667,0.356455,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,pedro-chaves,Pedro Chaves,coloni,DNPQ,,,1,30,987.549743,975.893838,-11.655904,0.166667,0.399785,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,alex-caffi,Alex Caffi,footwork,DNQ,,,2,31,1082.105918,1058.137968,-23.967949,0.045455,0.524814,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,julian-bailey,Julian Bailey,lotus,DNQ,,,2,32,878.89641,867.736853,-11.159557,0.045455,0.268646,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,michele-alboreto,Michele Alboreto,footwork,DNQ,,,2,33,1057.120603,1034.814033,-22.30657,0.045455,0.491586,50.0,34
+1991,2,1991-03-24,brazil,Grande Prêmio do Brasil 1991,502,stefan-johansson,Stefan Johansson,ags,DNQ,,,2,34,936.285116,921.79657,-14.488545,0.045455,0.335225,50.0,34

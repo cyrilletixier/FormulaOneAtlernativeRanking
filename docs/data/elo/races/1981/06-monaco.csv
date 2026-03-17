@@ -1,32 +1,32 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,gilles-villeneuve,Gilles Villeneuve,ferrari,1,76,2,0,1,1191.281986,1207.901691,16.619705,1.0,0.667606,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,alan-jones,Alan Jones,williams,2,76,7,0,2,1297.060402,1306.174563,9.114161,0.966667,0.784383,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,jacques-laffite,Jacques Laffite,ligier,3,76,8,0,3,1203.232336,1215.791619,12.559282,0.933333,0.682148,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,didier-pironi,Didier Pironi,ferrari,4,75,17,0,4,1168.043197,1181.118231,13.075034,0.9,0.638499,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,eddie-cheever,Eddie Cheever,tyrrell,5,74,15,0,5,991.381364,1014.724244,23.34288,0.866667,0.399809,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,marc-surer,Marc Surer,ensign,6,74,19,0,6,1073.722391,1089.770822,16.048431,0.833333,0.512365,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,patrick-tambay,Patrick Tambay,theodore,7,72,16,0,7,1060.796805,1076.068826,15.272021,0.8,0.49456,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,john-watson,John Watson,mclaren,DNF,53,10,1,8,1140.789101,1148.131858,7.342757,0.75,0.603145,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,nelson-piquet,Nelson Piquet,brabham,DNF,53,1,1,9,1219.229125,1221.673115,2.44399,0.75,0.70112,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,DNF,50,18,1,10,1055.784281,1065.568413,9.784133,0.683333,0.487651,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,michele-alboreto,Michele Alboreto,tyrrell,DNF,50,20,1,11,1013.24401,1025.945637,12.701626,0.683333,0.429301,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,alain-prost,Alain Prost,renault,DNF,45,9,1,12,1045.74792,1053.723416,7.975496,0.633333,0.473823,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,carlos-reutemann,Carlos Reutemann,williams,DNF,34,4,1,13,1316.261688,1306.139535,-10.122153,0.6,0.802443,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,elio-de-angelis,Elio de Angelis,lotus,DNF,32,6,1,14,1129.108208,1127.225498,-1.88271,0.55,0.587654,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,rene-arnoux,René Arnoux,renault,DNF,32,13,1,15,1138.419721,1135.918847,-2.500874,0.55,0.600017,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,riccardo-patrese,Riccardo Patrese,arrows,DNF,29,5,1,16,1121.009048,1117.168382,-3.840665,0.5,0.576813,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,nigel-mansell,Nigel Mansell,lotus,DNF,16,3,1,17,1010.22929,1012.302308,2.073018,0.466667,0.425206,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,siegfried-stohr,Siegfried Stohr,arrows,DNF,15,14,1,18,977.627524,980.217122,2.589598,0.433333,0.381541,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,andrea-de-cesaris,Andrea de Cesaris,mclaren,DNF,0,11,1,19,1006.621775,1004.772577,-1.849198,0.383333,0.420317,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,mario-andretti,Mario Andretti,alfa-romeo,DNF,0,12,1,20,1101.926049,1093.542707,-8.383342,0.383333,0.551,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,brian-henton,Brian Henton,toleman,DNPQ,,,1,21,909.164239,907.726005,-1.438234,0.266667,0.295431,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,derek-daly,Derek Daly,march,DNPQ,,,1,22,958.743893,954.231588,-4.512304,0.266667,0.356913,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,derek-warwick,Derek Warwick,toleman,DNPQ,,,1,23,968.881346,963.711482,-5.169864,0.266667,0.370064,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,eliseo-salazar,Eliseo Salazar,march,DNPQ,,,1,24,949.314972,945.406283,-3.908689,0.266667,0.34484,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,slim-borgudd,Slim Borgudd,ats-wheels,DNPQ,,,1,25,992.203793,985.49167,-6.712123,0.266667,0.400909,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,beppe-gabbiani,Beppe Gabbiani,osella,DNQ,,,2,26,953.571763,940.224893,-13.34687,0.083333,0.350271,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,chico-serra,Chico Serra,fittipaldi,DNQ,,,2,27,997.08435,980.878339,-16.20601,0.083333,0.407454,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,hector-rebaque,Héctor Rebaque,brabham,DNQ,,,2,28,1032.739299,1014.109,-18.630299,0.083333,0.455939,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,jean-pierre-jabouille,Jean-Pierre Jabouille,ligier,DNQ,,,2,29,1006.11844,989.303301,-16.815139,0.083333,0.419636,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,keke-rosberg,Keke Rosberg,fittipaldi,DNQ,,,2,30,1032.081186,1013.496035,-18.585151,0.083333,0.455036,50.0,31
-1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNQ,,,2,31,1009.416277,992.377772,-17.038506,0.083333,0.424103,50.0,31
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,gilles-villeneuve,Gilles Villeneuve,ferrari,1,76,2,0,1,1191.281986,1207.901691,16.619705,1.0,0.667606,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,alan-jones,Alan Jones,williams,2,76,7,0,2,1297.060402,1306.174563,9.114161,0.966667,0.784383,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,jacques-laffite,Jacques Laffite,ligier,3,76,8,0,3,1203.232336,1215.791619,12.559282,0.933333,0.682148,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,didier-pironi,Didier Pironi,ferrari,4,75,17,0,4,1168.043197,1181.118231,13.075034,0.9,0.638499,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,eddie-cheever,Eddie Cheever,tyrrell,5,74,15,0,5,991.381364,1014.724244,23.34288,0.866667,0.399809,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,marc-surer,Marc Surer,ensign,6,74,19,0,6,1073.722391,1089.770822,16.048431,0.833333,0.512365,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,patrick-tambay,Patrick Tambay,theodore,7,72,16,0,7,1060.796805,1076.068826,15.272021,0.8,0.49456,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,john-watson,John Watson,mclaren,DNF,53,10,1,8,1140.789101,1148.131858,7.342757,0.75,0.603145,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,nelson-piquet,Nelson Piquet,brabham,DNF,53,1,1,9,1219.229125,1221.673115,2.44399,0.75,0.70112,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,DNF,50,18,1,10,1055.784281,1065.568413,9.784133,0.683333,0.487651,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,michele-alboreto,Michele Alboreto,tyrrell,DNF,50,20,1,11,1013.24401,1025.945637,12.701626,0.683333,0.429301,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,alain-prost,Alain Prost,renault,DNF,45,9,1,12,1045.74792,1053.723416,7.975496,0.633333,0.473823,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,carlos-reutemann,Carlos Reutemann,williams,DNF,34,4,1,13,1316.261688,1306.139535,-10.122153,0.6,0.802443,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,elio-de-angelis,Elio de Angelis,lotus,DNF,32,6,1,14,1129.108208,1127.225498,-1.88271,0.55,0.587654,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,rene-arnoux,René Arnoux,renault,DNF,32,13,1,15,1138.419721,1135.918847,-2.500874,0.55,0.600017,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,riccardo-patrese,Riccardo Patrese,arrows,DNF,29,5,1,16,1121.009048,1117.168382,-3.840665,0.5,0.576813,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,nigel-mansell,Nigel Mansell,lotus,DNF,16,3,1,17,1010.22929,1012.302308,2.073018,0.466667,0.425206,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,siegfried-stohr,Siegfried Stohr,arrows,DNF,15,14,1,18,977.627524,980.217122,2.589598,0.433333,0.381541,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,andrea-de-cesaris,Andrea de Cesaris,mclaren,DNF,0,11,1,19,1006.621775,1004.772577,-1.849198,0.383333,0.420317,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,mario-andretti,Mario Andretti,alfa-romeo,DNF,0,12,1,20,1101.926049,1093.542707,-8.383342,0.383333,0.551,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,brian-henton,Brian Henton,toleman,DNPQ,,,1,21,909.164239,907.726005,-1.438234,0.266667,0.295431,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,derek-daly,Derek Daly,march,DNPQ,,,1,22,958.743893,954.231588,-4.512304,0.266667,0.356913,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,derek-warwick,Derek Warwick,toleman,DNPQ,,,1,23,968.881346,963.711482,-5.169864,0.266667,0.370064,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,eliseo-salazar,Eliseo Salazar,march,DNPQ,,,1,24,949.314972,945.406283,-3.908689,0.266667,0.34484,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,slim-borgudd,Slim Borgudd,ats-wheels,DNPQ,,,1,25,992.203793,985.49167,-6.712123,0.266667,0.400909,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,beppe-gabbiani,Beppe Gabbiani,osella,DNQ,,,2,26,953.571763,940.224893,-13.34687,0.083333,0.350271,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,chico-serra,Chico Serra,fittipaldi,DNQ,,,2,27,997.08435,980.878339,-16.20601,0.083333,0.407454,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,hector-rebaque,Héctor Rebaque,brabham,DNQ,,,2,28,1032.739299,1014.109,-18.630299,0.083333,0.455939,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,jean-pierre-jabouille,Jean-Pierre Jabouille,ligier,DNQ,,,2,29,1006.11844,989.303301,-16.815139,0.083333,0.419636,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,keke-rosberg,Keke Rosberg,fittipaldi,DNQ,,,2,30,1032.081186,1013.496035,-18.585151,0.083333,0.455036,50.0,31
+1981,6,1981-05-31,monaco,Grand Prix de Monaco 1981,348,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNQ,,,2,31,1009.416277,992.377772,-17.038506,0.083333,0.424103,50.0,31

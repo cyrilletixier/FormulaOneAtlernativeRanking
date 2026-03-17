@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,1,52,1,0,1,1262.020446,1279.807036,17.78659,1.0,0.644268,50.0,20
-2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,sergio-perez,Sergio Pérez,red-bull,2,52,4,0,2,1271.648019,1286.224575,14.576555,0.947368,0.655837,50.0,20
-2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,lewis-hamilton,Lewis Hamilton,mercedes,3,52,5,0,3,1481.295014,1483.04661,1.751596,0.894737,0.859705,50.0,20
-2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,charles-leclerc,Charles Leclerc,ferrari,4,52,3,0,4,1259.165315,1269.230107,10.064792,0.842105,0.640809,50.0,20
-2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,fernando-alonso,Fernando Alonso,alpine,5,52,7,0,5,1126.141064,1142.069669,15.928605,0.789474,0.470902,50.0,20
-2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,lando-norris,Lando Norris,mclaren,6,52,6,0,6,1209.477396,1217.375384,7.897988,0.736842,0.578882,50.0,20
-2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,max-verstappen,Max Verstappen,red-bull,7,52,2,0,7,1408.058366,1402.265278,-5.793088,0.684211,0.800072,50.0,20
-2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,mick-schumacher,Mick Schumacher,haas,8,52,19,0,8,892.7237,914.247255,21.523555,0.631579,0.201108,50.0,20
-2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,sebastian-vettel,Sebastian Vettel,aston-martin,9,52,18,0,9,1097.618765,1104.868048,7.249284,0.578947,0.433962,50.0,20
-2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,kevin-magnussen,Kevin Magnussen,haas,10,52,17,0,10,953.414867,966.6516,13.236733,0.526316,0.261581,50.0,20
-2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,lance-stroll,Lance Stroll,aston-martin,11,52,20,0,11,1069.637538,1073.409017,3.771479,0.473684,0.398255,50.0,20
-2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,nicholas-latifi,Nicholas Latifi,williams,12,52,10,0,12,920.719565,930.376043,9.656478,0.421053,0.227923,50.0,20
-2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,daniel-ricciardo,Daniel Ricciardo,mclaren,13,52,14,0,13,1146.7142,1140.250075,-6.464125,0.368421,0.497704,50.0,20
-2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,yuki-tsunoda,Yuki Tsunoda,alphatauri,14,52,13,0,14,1019.450632,1018.417601,-1.033031,0.315789,0.33645,50.0,20
-2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,esteban-ocon,Esteban Ocon,alpine,DNF,37,15,1,15,1179.178367,1165.339878,-13.838489,0.263158,0.539928,50.0,20
-2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,pierre-gasly,Pierre Gasly,alphatauri,DNF,26,11,1,16,1136.874609,1123.157007,-13.717602,0.210526,0.484878,50.0,20
-2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,valtteri-bottas,Valtteri Bottas,alfa-romeo,DNF,20,12,1,17,1274.512013,1249.444252,-25.06776,0.157895,0.65925,50.0,20
-2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,alexander-albon,Alexander Albon,williams,DNF,0,16,1,18,1129.928055,1108.768126,-21.159929,0.052632,0.47583,50.0,20
-2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,george-russell,George Russell,mercedes,DNF,0,8,1,19,1169.164057,1145.44889,-23.715167,0.052632,0.526935,50.0,20
-2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,guanyu-zhou,Guanyu Zhou,alfa-romeo,DNF,0,9,1,20,993.236192,980.58173,-12.654462,0.052632,0.305721,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,1067,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,1,52,1,0,1,1262.020446,1279.807036,17.78659,1.0,0.644268,50.0,20
+2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,1067,sergio-perez,Sergio Pérez,red-bull,2,52,4,0,2,1271.648019,1286.224575,14.576555,0.947368,0.655837,50.0,20
+2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,1067,lewis-hamilton,Lewis Hamilton,mercedes,3,52,5,0,3,1481.295014,1483.04661,1.751596,0.894737,0.859705,50.0,20
+2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,1067,charles-leclerc,Charles Leclerc,ferrari,4,52,3,0,4,1259.165315,1269.230107,10.064792,0.842105,0.640809,50.0,20
+2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,1067,fernando-alonso,Fernando Alonso,alpine,5,52,7,0,5,1126.141064,1142.069669,15.928605,0.789474,0.470902,50.0,20
+2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,1067,lando-norris,Lando Norris,mclaren,6,52,6,0,6,1209.477396,1217.375384,7.897988,0.736842,0.578882,50.0,20
+2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,1067,max-verstappen,Max Verstappen,red-bull,7,52,2,0,7,1408.058366,1402.265278,-5.793088,0.684211,0.800072,50.0,20
+2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,1067,mick-schumacher,Mick Schumacher,haas,8,52,19,0,8,892.7237,914.247255,21.523555,0.631579,0.201108,50.0,20
+2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,1067,sebastian-vettel,Sebastian Vettel,aston-martin,9,52,18,0,9,1097.618765,1104.868048,7.249284,0.578947,0.433962,50.0,20
+2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,1067,kevin-magnussen,Kevin Magnussen,haas,10,52,17,0,10,953.414867,966.6516,13.236733,0.526316,0.261581,50.0,20
+2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,1067,lance-stroll,Lance Stroll,aston-martin,11,52,20,0,11,1069.637538,1073.409017,3.771479,0.473684,0.398255,50.0,20
+2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,1067,nicholas-latifi,Nicholas Latifi,williams,12,52,10,0,12,920.719565,930.376043,9.656478,0.421053,0.227923,50.0,20
+2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,1067,daniel-ricciardo,Daniel Ricciardo,mclaren,13,52,14,0,13,1146.7142,1140.250075,-6.464125,0.368421,0.497704,50.0,20
+2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,1067,yuki-tsunoda,Yuki Tsunoda,alphatauri,14,52,13,0,14,1019.450632,1018.417601,-1.033031,0.315789,0.33645,50.0,20
+2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,1067,esteban-ocon,Esteban Ocon,alpine,DNF,37,15,1,15,1179.178367,1165.339878,-13.838489,0.263158,0.539928,50.0,20
+2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,1067,pierre-gasly,Pierre Gasly,alphatauri,DNF,26,11,1,16,1136.874609,1123.157007,-13.717602,0.210526,0.484878,50.0,20
+2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,1067,valtteri-bottas,Valtteri Bottas,alfa-romeo,DNF,20,12,1,17,1274.512013,1249.444252,-25.06776,0.157895,0.65925,50.0,20
+2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,1067,alexander-albon,Alexander Albon,williams,DNF,0,16,1,18,1129.928055,1108.768126,-21.159929,0.052632,0.47583,50.0,20
+2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,1067,george-russell,George Russell,mercedes,DNF,0,8,1,19,1169.164057,1145.44889,-23.715167,0.052632,0.526935,50.0,20
+2022,10,2022-07-03,great-britain,Formula 1 Lenovo British Grand Prix 2022,1067,guanyu-zhou,Guanyu Zhou,alfa-romeo,DNF,0,9,1,20,993.236192,980.58173,-12.654462,0.052632,0.305721,50.0,20

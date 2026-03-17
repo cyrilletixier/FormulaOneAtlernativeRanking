@@ -1,22 +1,22 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,juan-manuel-fangio,Juan Manuel Fangio,mercedes,1,80,1,0,1,1239.623071,1251.513339,11.890268,1.0,0.762195,50.0,21
-1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,mike-hawthorn,Mike Hawthorn,ferrari,2,79,7,0,2,1125.850395,1142.267578,16.417183,0.95,0.621656,50.0,21
-1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,jose-froilan-gonzalez,José Froilán González,ferrari,3,,,0,3,1171.426629,1181.090364,9.663734,0.875,0.681725,50.0,21
-1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,umberto-maglioli,Umberto Maglioli,ferrari,3,78,13,0,4,1023.228576,1043.180925,19.952349,0.875,0.475953,50.0,21
-1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,hans-herrmann,Hans Herrmann,mercedes,4,77,8,0,5,1022.623028,1038.869045,16.246016,0.8,0.47508,50.0,21
-1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,maurice-trintignant,Maurice Trintignant,ferrari,5,75,11,0,6,1062.152187,1073.047722,10.895535,0.75,0.532089,50.0,21
-1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,fred-wacker,Fred Wacker,gordini,6,75,18,0,7,955.988404,971.957169,15.968765,0.7,0.380625,50.0,21
-1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,peter-collins,Peter Collins,vanwall,7,75,16,0,8,940.570093,955.091138,14.521045,0.65,0.359579,50.0,21
-1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,louis-rosier,Louis Rosier,maserati,8,74,20,0,9,1017.368936,1023.993592,6.624656,0.6,0.467507,50.0,21
-1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,sergio-mantovani,Sergio Mantovani,maserati,9,74,9,0,10,1022.921082,1026.645606,3.724524,0.55,0.47551,50.0,21
-1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,stirling-moss,Stirling Moss,maserati,10,71,3,0,11,995.162244,998.379476,3.217231,0.5,0.435655,50.0,21
-1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,jorge-daponte,Jorge Daponte,maserati,11,70,19,0,12,996.418677,997.046256,0.62758,0.45,0.437448,50.0,21
-1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,alberto-ascari,Alberto Ascari,ferrari,DNF,48,2,1,13,1174.081608,1159.827386,-14.254222,0.4,0.685084,50.0,21
-1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,luigi-villoresi,Luigi Villoresi,maserati,DNF,42,6,1,14,1108.036496,1095.680448,-12.356048,0.35,0.597121,50.0,21
-1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,karl-kling,Karl Kling,mercedes,DNF,36,4,1,15,1054.656171,1043.590926,-11.065245,0.3,0.521305,50.0,21
-1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,roberto-mieres,Roberto Mieres,maserati,DNF,34,10,1,16,1003.982725,994.069272,-9.913453,0.25,0.448269,50.0,21
-1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,luigi-musso,Luigi Musso,maserati,DNF,33,14,1,17,992.911017,981.288713,-11.622304,0.2,0.432446,50.0,21
-1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,robert-manzon,Robert Manzon,ferrari,DNF,16,15,1,18,1009.67734,994.35528,-15.32206,0.15,0.456441,50.0,21
-1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,clemar-bucci,Clemar Bucci,gordini,DNF,13,17,1,19,968.854758,953.930657,-14.924101,0.1,0.398482,50.0,21
-1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,jean-behra,Jean Behra,gordini,DNF,2,12,1,20,979.381645,961.218505,-18.16314,0.05,0.413263,50.0,21
-1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,giovanni-de-riu,Giovanni de Riu,maserati,DNQ,,,2,21,1000.0,977.871686,-22.128314,0.0,0.442566,50.0,21
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,40,juan-manuel-fangio,Juan Manuel Fangio,mercedes,1,80,1,0,1,1239.623071,1251.513339,11.890268,1.0,0.762195,50.0,21
+1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,40,mike-hawthorn,Mike Hawthorn,ferrari,2,79,7,0,2,1125.850395,1142.267578,16.417183,0.95,0.621656,50.0,21
+1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,40,jose-froilan-gonzalez,José Froilán González,ferrari,3,,,0,3,1171.426629,1181.090364,9.663734,0.875,0.681725,50.0,21
+1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,40,umberto-maglioli,Umberto Maglioli,ferrari,3,78,13,0,4,1023.228576,1043.180925,19.952349,0.875,0.475953,50.0,21
+1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,40,hans-herrmann,Hans Herrmann,mercedes,4,77,8,0,5,1022.623028,1038.869045,16.246016,0.8,0.47508,50.0,21
+1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,40,maurice-trintignant,Maurice Trintignant,ferrari,5,75,11,0,6,1062.152187,1073.047722,10.895535,0.75,0.532089,50.0,21
+1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,40,fred-wacker,Fred Wacker,gordini,6,75,18,0,7,955.988404,971.957169,15.968765,0.7,0.380625,50.0,21
+1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,40,peter-collins,Peter Collins,vanwall,7,75,16,0,8,940.570093,955.091138,14.521045,0.65,0.359579,50.0,21
+1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,40,louis-rosier,Louis Rosier,maserati,8,74,20,0,9,1017.368936,1023.993592,6.624656,0.6,0.467507,50.0,21
+1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,40,sergio-mantovani,Sergio Mantovani,maserati,9,74,9,0,10,1022.921082,1026.645606,3.724524,0.55,0.47551,50.0,21
+1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,40,stirling-moss,Stirling Moss,maserati,10,71,3,0,11,995.162244,998.379476,3.217231,0.5,0.435655,50.0,21
+1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,40,jorge-daponte,Jorge Daponte,maserati,11,70,19,0,12,996.418677,997.046256,0.62758,0.45,0.437448,50.0,21
+1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,40,alberto-ascari,Alberto Ascari,ferrari,DNF,48,2,1,13,1174.081608,1159.827386,-14.254222,0.4,0.685084,50.0,21
+1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,40,luigi-villoresi,Luigi Villoresi,maserati,DNF,42,6,1,14,1108.036496,1095.680448,-12.356048,0.35,0.597121,50.0,21
+1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,40,karl-kling,Karl Kling,mercedes,DNF,36,4,1,15,1054.656171,1043.590926,-11.065245,0.3,0.521305,50.0,21
+1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,40,roberto-mieres,Roberto Mieres,maserati,DNF,34,10,1,16,1003.982725,994.069272,-9.913453,0.25,0.448269,50.0,21
+1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,40,luigi-musso,Luigi Musso,maserati,DNF,33,14,1,17,992.911017,981.288713,-11.622304,0.2,0.432446,50.0,21
+1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,40,robert-manzon,Robert Manzon,ferrari,DNF,16,15,1,18,1009.67734,994.35528,-15.32206,0.15,0.456441,50.0,21
+1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,40,clemar-bucci,Clemar Bucci,gordini,DNF,13,17,1,19,968.854758,953.930657,-14.924101,0.1,0.398482,50.0,21
+1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,40,jean-behra,Jean Behra,gordini,DNF,2,12,1,20,979.381645,961.218505,-18.16314,0.05,0.413263,50.0,21
+1954,8,1954-09-05,italy,Gran Premio d'Italia 1954,40,giovanni-de-riu,Giovanni de Riu,maserati,DNQ,,,2,21,1000.0,977.871686,-22.128314,0.0,0.442566,50.0,21

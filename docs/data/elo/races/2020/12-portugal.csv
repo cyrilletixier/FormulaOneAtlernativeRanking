@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,lewis-hamilton,Lewis Hamilton,mercedes,1,66,1,0,1,1580.055443,1584.13052,4.075077,1.0,0.918498,50.0,20
-2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,valtteri-bottas,Valtteri Bottas,mercedes,2,66,2,0,2,1401.110956,1408.549602,7.438645,0.947368,0.798596,50.0,20
-2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,max-verstappen,Max Verstappen,red-bull,3,66,3,0,3,1335.143041,1343.075236,7.932194,0.894737,0.736093,50.0,20
-2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,charles-leclerc,Charles Leclerc,ferrari,4,66,4,0,4,1205.284955,1218.069022,12.784067,0.842105,0.586424,50.0,20
-2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,pierre-gasly,Pierre Gasly,alphatauri,5,65,9,0,5,1143.533737,1157.65485,14.121113,0.789474,0.507051,50.0,20
-2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,6,65,7,0,6,1133.477053,1145.62277,12.145717,0.736842,0.493928,50.0,20
-2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,sergio-perez,Sergio Pérez,racing-point,7,65,5,0,7,1217.901721,1222.002291,4.100571,0.684211,0.602199,50.0,20
-2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,esteban-ocon,Esteban Ocon,renault,8,65,11,0,8,1099.06007,1108.18896,9.128889,0.631579,0.449001,50.0,20
-2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,daniel-ricciardo,Daniel Ricciardo,renault,9,65,10,0,9,1195.064901,1195.336841,0.271939,0.578947,0.573509,50.0,20
-2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,sebastian-vettel,Sebastian Vettel,ferrari,10,65,15,0,10,1197.996063,1195.450633,-2.54543,0.526316,0.577224,50.0,20
-2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,11,65,16,0,11,1080.832808,1083.249384,2.416576,0.473684,0.425353,50.0,20
-2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,alexander-albon,Alexander Albon,red-bull,12,65,6,0,12,1181.714506,1174.943263,-6.771243,0.421053,0.556478,50.0,20
-2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,lando-norris,Lando Norris,mclaren,13,65,8,0,13,1145.325092,1138.276824,-7.048268,0.368421,0.509386,50.0,20
-2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,george-russell,George Russell,williams,14,65,14,0,14,908.369745,912.985308,4.615563,0.315789,0.223478,50.0,20
-2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,15,65,17,0,15,985.45994,983.260772,-2.199169,0.263158,0.307141,50.0,20
-2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,kevin-magnussen,Kevin Magnussen,haas,16,65,19,0,16,963.490197,959.917642,-3.572555,0.210526,0.281977,50.0,20
-2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,romain-grosjean,Romain Grosjean,haas,17,65,18,0,17,972.699196,965.973561,-6.725635,0.157895,0.292407,50.0,20
-2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,nicholas-latifi,Nicholas Latifi,williams,18,64,20,0,18,963.402278,954.571501,-8.830777,0.105263,0.281879,50.0,20
-2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,daniil-kvyat,Daniil Kvyat,alphatauri,19,64,13,0,19,1091.961036,1072.604091,-19.356945,0.052632,0.43977,50.0,20
-2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,lance-stroll,Lance Stroll,racing-point,DNF,51,12,1,20,1091.834845,1069.854515,-21.98033,0.0,0.439607,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,1030,lewis-hamilton,Lewis Hamilton,mercedes,1,66,1,0,1,1580.055443,1584.13052,4.075077,1.0,0.918498,50.0,20
+2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,1030,valtteri-bottas,Valtteri Bottas,mercedes,2,66,2,0,2,1401.110956,1408.549602,7.438645,0.947368,0.798596,50.0,20
+2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,1030,max-verstappen,Max Verstappen,red-bull,3,66,3,0,3,1335.143041,1343.075236,7.932194,0.894737,0.736093,50.0,20
+2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,1030,charles-leclerc,Charles Leclerc,ferrari,4,66,4,0,4,1205.284955,1218.069022,12.784067,0.842105,0.586424,50.0,20
+2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,1030,pierre-gasly,Pierre Gasly,alphatauri,5,65,9,0,5,1143.533737,1157.65485,14.121113,0.789474,0.507051,50.0,20
+2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,1030,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,6,65,7,0,6,1133.477053,1145.62277,12.145717,0.736842,0.493928,50.0,20
+2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,1030,sergio-perez,Sergio Pérez,racing-point,7,65,5,0,7,1217.901721,1222.002291,4.100571,0.684211,0.602199,50.0,20
+2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,1030,esteban-ocon,Esteban Ocon,renault,8,65,11,0,8,1099.06007,1108.18896,9.128889,0.631579,0.449001,50.0,20
+2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,1030,daniel-ricciardo,Daniel Ricciardo,renault,9,65,10,0,9,1195.064901,1195.336841,0.271939,0.578947,0.573509,50.0,20
+2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,1030,sebastian-vettel,Sebastian Vettel,ferrari,10,65,15,0,10,1197.996063,1195.450633,-2.54543,0.526316,0.577224,50.0,20
+2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,1030,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,11,65,16,0,11,1080.832808,1083.249384,2.416576,0.473684,0.425353,50.0,20
+2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,1030,alexander-albon,Alexander Albon,red-bull,12,65,6,0,12,1181.714506,1174.943263,-6.771243,0.421053,0.556478,50.0,20
+2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,1030,lando-norris,Lando Norris,mclaren,13,65,8,0,13,1145.325092,1138.276824,-7.048268,0.368421,0.509386,50.0,20
+2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,1030,george-russell,George Russell,williams,14,65,14,0,14,908.369745,912.985308,4.615563,0.315789,0.223478,50.0,20
+2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,1030,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,15,65,17,0,15,985.45994,983.260772,-2.199169,0.263158,0.307141,50.0,20
+2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,1030,kevin-magnussen,Kevin Magnussen,haas,16,65,19,0,16,963.490197,959.917642,-3.572555,0.210526,0.281977,50.0,20
+2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,1030,romain-grosjean,Romain Grosjean,haas,17,65,18,0,17,972.699196,965.973561,-6.725635,0.157895,0.292407,50.0,20
+2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,1030,nicholas-latifi,Nicholas Latifi,williams,18,64,20,0,18,963.402278,954.571501,-8.830777,0.105263,0.281879,50.0,20
+2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,1030,daniil-kvyat,Daniil Kvyat,alphatauri,19,64,13,0,19,1091.961036,1072.604091,-19.356945,0.052632,0.43977,50.0,20
+2020,12,2020-10-25,portugal,Formula 1 Heineken Grande Prémio de Portugal 2020,1030,lance-stroll,Lance Stroll,racing-point,DNF,51,12,1,20,1091.834845,1069.854515,-21.98033,0.0,0.439607,50.0,20

@@ -1,24 +1,24 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,jackie-stewart,Jackie Stewart,tyrrell,1,70,6,0,1,1219.730753,1233.624691,13.893938,1.0,0.722121,50.0,23
-1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,francois-cevert,François Cevert,tyrrell,2,70,4,0,2,1131.000829,1148.259758,17.258929,0.954545,0.609367,50.0,23
-1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,emerson-fittipaldi,Emerson Fittipaldi,lotus,3,70,9,0,3,1224.769526,1233.825272,9.055746,0.909091,0.727976,50.0,23
-1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,andrea-de-adamich,Andrea de Adamich,brabham,4,69,18,0,4,949.207638,974.576075,25.368437,0.863636,0.356268,50.0,23
-1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,niki-lauda,Niki Lauda,brm,5,69,14,0,5,968.206904,990.030025,21.823121,0.818182,0.381719,50.0,23
-1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,chris-amon,Chris Amon,tecno,6,67,15,0,6,1133.325788,1141.336301,8.010512,0.772727,0.612517,50.0,23
-1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,denny-hulme,Denny Hulme,mclaren,7,67,2,0,7,1210.530774,1211.331339,0.800564,0.727273,0.711261,50.0,23
-1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,carlos-pace,Carlos Pace,surtees,8,66,8,0,8,964.682314,979.92561,15.243296,0.681818,0.376952,50.0,23
-1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,graham-hill,Graham Hill,shadow,9,65,23,0,9,1068.449267,1074.154433,5.705166,0.636364,0.52226,50.0,23
-1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,clay-regazzoni,Clay Regazzoni,brm,10,63,12,0,10,1078.52267,1081.242767,2.720097,0.590909,0.536507,50.0,23
-1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,mike-beuttler,Mike Beuttler,march,11,63,20,0,11,1002.314184,1008.150544,5.83636,0.545455,0.428727,50.0,23
-1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,jean-pierre-jarier,Jean-Pierre Jarier,march,DNF,60,16,1,12,989.38131,993.844521,4.463211,0.5,0.410736,50.0,23
-1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,jean-pierre-beltoise,Jean-Pierre Beltoise,brm,DNF,56,5,1,13,1055.026263,1052.59246,-2.433803,0.454545,0.503222,50.0,23
-1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,wilson-fittipaldi,Wilson Fittipaldi,brabham,DNF,46,19,1,14,1001.003937,1000.11364,-0.890296,0.409091,0.426897,50.0,23
-1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,ronnie-peterson,Ronnie Peterson,lotus,DNF,42,1,1,15,1089.360116,1079.953429,-9.406687,0.363636,0.55177,50.0,23
-1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,peter-revson,Peter Revson,mclaren,DNF,33,10,1,16,1101.865188,1089.310898,-12.55429,0.318182,0.569268,50.0,23
-1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,howden-ganley,Howden Ganley,iso-marlboro,DNF,16,21,1,17,1038.618634,1028.258555,-10.360079,0.272727,0.479929,50.0,23
-1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,carlos-reutemann,Carlos Reutemann,brabham,DNF,14,7,1,18,997.372687,987.644702,-9.727984,0.227273,0.421832,50.0,23
-1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,george-follmer,George Follmer,shadow,DNF,13,11,1,19,1039.95925,1024.958611,-15.000639,0.181818,0.481831,50.0,23
-1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,jackie-oliver,Jackie Oliver,shadow,DNF,11,22,1,20,947.18581,936.324161,-10.861649,0.136364,0.353597,50.0,23
-1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,jacky-ickx,Jacky Ickx,ferrari,DNF,6,3,1,21,1108.799059,1083.26293,-25.53613,0.068182,0.578904,50.0,23
-1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,nanni-galli,Nanni Galli,iso-marlboro,DNF,6,17,1,22,937.892458,924.230538,-13.66192,0.068182,0.34142,50.0,23
-1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,mike-hailwood,Mike Hailwood,surtees,DNF,4,13,1,23,977.893957,958.148055,-19.745902,0.0,0.394918,50.0,23
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,225,jackie-stewart,Jackie Stewart,tyrrell,1,70,6,0,1,1219.730753,1233.624691,13.893938,1.0,0.722121,50.0,23
+1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,225,francois-cevert,François Cevert,tyrrell,2,70,4,0,2,1131.000829,1148.259758,17.258929,0.954545,0.609367,50.0,23
+1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,225,emerson-fittipaldi,Emerson Fittipaldi,lotus,3,70,9,0,3,1224.769526,1233.825272,9.055746,0.909091,0.727976,50.0,23
+1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,225,andrea-de-adamich,Andrea de Adamich,brabham,4,69,18,0,4,949.207638,974.576075,25.368437,0.863636,0.356268,50.0,23
+1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,225,niki-lauda,Niki Lauda,brm,5,69,14,0,5,968.206904,990.030025,21.823121,0.818182,0.381719,50.0,23
+1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,225,chris-amon,Chris Amon,tecno,6,67,15,0,6,1133.325788,1141.336301,8.010512,0.772727,0.612517,50.0,23
+1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,225,denny-hulme,Denny Hulme,mclaren,7,67,2,0,7,1210.530774,1211.331339,0.800564,0.727273,0.711261,50.0,23
+1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,225,carlos-pace,Carlos Pace,surtees,8,66,8,0,8,964.682314,979.92561,15.243296,0.681818,0.376952,50.0,23
+1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,225,graham-hill,Graham Hill,shadow,9,65,23,0,9,1068.449267,1074.154433,5.705166,0.636364,0.52226,50.0,23
+1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,225,clay-regazzoni,Clay Regazzoni,brm,10,63,12,0,10,1078.52267,1081.242767,2.720097,0.590909,0.536507,50.0,23
+1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,225,mike-beuttler,Mike Beuttler,march,11,63,20,0,11,1002.314184,1008.150544,5.83636,0.545455,0.428727,50.0,23
+1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,225,jean-pierre-jarier,Jean-Pierre Jarier,march,DNF,60,16,1,12,989.38131,993.844521,4.463211,0.5,0.410736,50.0,23
+1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,225,jean-pierre-beltoise,Jean-Pierre Beltoise,brm,DNF,56,5,1,13,1055.026263,1052.59246,-2.433803,0.454545,0.503222,50.0,23
+1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,225,wilson-fittipaldi,Wilson Fittipaldi,brabham,DNF,46,19,1,14,1001.003937,1000.11364,-0.890296,0.409091,0.426897,50.0,23
+1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,225,ronnie-peterson,Ronnie Peterson,lotus,DNF,42,1,1,15,1089.360116,1079.953429,-9.406687,0.363636,0.55177,50.0,23
+1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,225,peter-revson,Peter Revson,mclaren,DNF,33,10,1,16,1101.865188,1089.310898,-12.55429,0.318182,0.569268,50.0,23
+1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,225,howden-ganley,Howden Ganley,iso-marlboro,DNF,16,21,1,17,1038.618634,1028.258555,-10.360079,0.272727,0.479929,50.0,23
+1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,225,carlos-reutemann,Carlos Reutemann,brabham,DNF,14,7,1,18,997.372687,987.644702,-9.727984,0.227273,0.421832,50.0,23
+1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,225,george-follmer,George Follmer,shadow,DNF,13,11,1,19,1039.95925,1024.958611,-15.000639,0.181818,0.481831,50.0,23
+1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,225,jackie-oliver,Jackie Oliver,shadow,DNF,11,22,1,20,947.18581,936.324161,-10.861649,0.136364,0.353597,50.0,23
+1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,225,jacky-ickx,Jacky Ickx,ferrari,DNF,6,3,1,21,1108.799059,1083.26293,-25.53613,0.068182,0.578904,50.0,23
+1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,225,nanni-galli,Nanni Galli,iso-marlboro,DNF,6,17,1,22,937.892458,924.230538,-13.66192,0.068182,0.34142,50.0,23
+1973,5,1973-05-20,belgium,1973 Belgian Grand Prix,225,mike-hailwood,Mike Hailwood,surtees,DNF,4,13,1,23,977.893957,958.148055,-19.745902,0.0,0.394918,50.0,23

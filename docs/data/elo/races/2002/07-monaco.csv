@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,david-coulthard,David Coulthard,mclaren,1,78,2,0,1,1246.365142,1259.790155,13.425013,1.0,0.7315,50.0,22
-2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,michael-schumacher,Michael Schumacher,ferrari,2,78,3,0,2,1404.48521,1408.453239,3.968029,0.952381,0.87302,50.0,22
-2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,ralf-schumacher,Ralf Schumacher,williams,3,78,4,0,3,1195.579934,1207.206813,11.626878,0.904762,0.672224,50.0,22
-2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,jarno-trulli,Jarno Trulli,renault,4,77,7,0,4,1021.114014,1042.086878,20.972863,0.857143,0.437686,50.0,22
-2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,giancarlo-fisichella,Giancarlo Fisichella,jordan,5,77,11,0,5,1018.94815,1037.689368,18.741219,0.809524,0.434699,50.0,22
-2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,heinz-harald-frentzen,Heinz-Harald Frentzen,arrows,6,77,12,0,6,1035.264532,1050.49664,15.232108,0.761905,0.457263,50.0,22
-2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,rubens-barrichello,Rubens Barrichello,ferrari,7,77,5,0,7,1175.972781,1179.297477,3.324697,0.714286,0.647792,50.0,22
-2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,nick-heidfeld,Nick Heidfeld,sauber,8,76,17,0,8,1053.527347,1062.728838,9.20149,0.666667,0.482637,50.0,22
-2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,eddie-irvine,Eddie Irvine,jaguar,9,76,21,0,9,1033.186935,1041.420211,8.233276,0.619048,0.454382,50.0,22
-2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,pedro-de-la-rosa,Pedro de la Rosa,jaguar,10,76,20,0,10,973.341282,983.269378,9.928096,0.571429,0.372867,50.0,22
-2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,mark-webber,Mark Webber,minardi,11,76,19,0,11,1007.742645,1012.9678,5.225155,0.52381,0.419306,50.0,22
-2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,enrique-bernoldi,Enrique Bernoldi,arrows,12,76,15,0,12,918.809603,927.462399,8.652796,0.47619,0.303135,50.0,22
-2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,mika-salo,Mika Salo,toyota,DNF,69,9,1,13,1103.208929,1097.066944,-6.141985,0.428571,0.551411,50.0,22
-2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,felipe-massa,Felipe Massa,sauber,DNF,63,13,1,14,1020.082195,1017.316685,-2.76551,0.380952,0.436263,50.0,22
-2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,jenson-button,Jenson Button,renault,DNF,51,8,1,15,1087.34131,1076.338892,-11.002418,0.309524,0.529572,50.0,22
-2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,olivier-panis,Olivier Panis,bar,DNF,51,18,1,16,988.255122,984.090234,-4.164888,0.309524,0.392822,50.0,22
-2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,46,1,1,17,1163.970746,1144.25236,-19.718385,0.238095,0.632463,50.0,22
-2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,jacques-villeneuve,Jacques Villeneuve,bar,DNF,44,14,1,18,1136.393219,1116.101881,-20.291339,0.190476,0.596303,50.0,22
-2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,41,6,1,19,998.370287,985.18726,-13.183027,0.142857,0.406518,50.0,22
-2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,alex-yoong,Alex Yoong,minardi,DNF,29,22,1,20,956.795736,944.00154,-12.794196,0.095238,0.351122,50.0,22
-2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,takuma-sato,Takuma Sato,jordan,DNF,22,16,1,21,992.936,975.359716,-17.576284,0.047619,0.399145,50.0,22
-2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,allan-mcnish,Allan McNish,toyota,DNF,15,10,1,22,1006.694333,985.800745,-20.893588,0.0,0.417872,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,687,david-coulthard,David Coulthard,mclaren,1,78,2,0,1,1246.365142,1259.790155,13.425013,1.0,0.7315,50.0,22
+2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,687,michael-schumacher,Michael Schumacher,ferrari,2,78,3,0,2,1404.48521,1408.453239,3.968029,0.952381,0.87302,50.0,22
+2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,687,ralf-schumacher,Ralf Schumacher,williams,3,78,4,0,3,1195.579934,1207.206813,11.626878,0.904762,0.672224,50.0,22
+2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,687,jarno-trulli,Jarno Trulli,renault,4,77,7,0,4,1021.114014,1042.086878,20.972863,0.857143,0.437686,50.0,22
+2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,687,giancarlo-fisichella,Giancarlo Fisichella,jordan,5,77,11,0,5,1018.94815,1037.689368,18.741219,0.809524,0.434699,50.0,22
+2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,687,heinz-harald-frentzen,Heinz-Harald Frentzen,arrows,6,77,12,0,6,1035.264532,1050.49664,15.232108,0.761905,0.457263,50.0,22
+2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,687,rubens-barrichello,Rubens Barrichello,ferrari,7,77,5,0,7,1175.972781,1179.297477,3.324697,0.714286,0.647792,50.0,22
+2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,687,nick-heidfeld,Nick Heidfeld,sauber,8,76,17,0,8,1053.527347,1062.728838,9.20149,0.666667,0.482637,50.0,22
+2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,687,eddie-irvine,Eddie Irvine,jaguar,9,76,21,0,9,1033.186935,1041.420211,8.233276,0.619048,0.454382,50.0,22
+2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,687,pedro-de-la-rosa,Pedro de la Rosa,jaguar,10,76,20,0,10,973.341282,983.269378,9.928096,0.571429,0.372867,50.0,22
+2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,687,mark-webber,Mark Webber,minardi,11,76,19,0,11,1007.742645,1012.9678,5.225155,0.52381,0.419306,50.0,22
+2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,687,enrique-bernoldi,Enrique Bernoldi,arrows,12,76,15,0,12,918.809603,927.462399,8.652796,0.47619,0.303135,50.0,22
+2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,687,mika-salo,Mika Salo,toyota,DNF,69,9,1,13,1103.208929,1097.066944,-6.141985,0.428571,0.551411,50.0,22
+2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,687,felipe-massa,Felipe Massa,sauber,DNF,63,13,1,14,1020.082195,1017.316685,-2.76551,0.380952,0.436263,50.0,22
+2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,687,jenson-button,Jenson Button,renault,DNF,51,8,1,15,1087.34131,1076.338892,-11.002418,0.309524,0.529572,50.0,22
+2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,687,olivier-panis,Olivier Panis,bar,DNF,51,18,1,16,988.255122,984.090234,-4.164888,0.309524,0.392822,50.0,22
+2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,687,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,46,1,1,17,1163.970746,1144.25236,-19.718385,0.238095,0.632463,50.0,22
+2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,687,jacques-villeneuve,Jacques Villeneuve,bar,DNF,44,14,1,18,1136.393219,1116.101881,-20.291339,0.190476,0.596303,50.0,22
+2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,687,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,41,6,1,19,998.370287,985.18726,-13.183027,0.142857,0.406518,50.0,22
+2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,687,alex-yoong,Alex Yoong,minardi,DNF,29,22,1,20,956.795736,944.00154,-12.794196,0.095238,0.351122,50.0,22
+2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,687,takuma-sato,Takuma Sato,jordan,DNF,22,16,1,21,992.936,975.359716,-17.576284,0.047619,0.399145,50.0,22
+2002,7,2002-05-26,monaco,Grand Prix de Monaco 2002,687,allan-mcnish,Allan McNish,toyota,DNF,15,10,1,22,1006.694333,985.800745,-20.893588,0.0,0.417872,50.0,22

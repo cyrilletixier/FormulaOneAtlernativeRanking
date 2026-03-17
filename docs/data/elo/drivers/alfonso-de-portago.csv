@@ -1,6 +1,6 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1956-07-01,1956,5,france,ferrari,Ferrari,DNF,20,20,1000.0,982.914249,-17.085751,0.105263,0.446978,50.0
-1956-07-14,1956,6,great-britain,ferrari,Ferrari,2,100,28,982.914249,1008.251734,25.337485,0.944444,0.437695,50.0
-1956-08-05,1956,7,germany,ferrari,Ferrari,DNF,14,22,1008.251734,1018.018549,9.766815,0.666667,0.47133,50.0
-1956-09-02,1956,8,italy,ferrari,Ferrari,DNF,6,26,1018.018549,1000.613681,-17.404868,0.14,0.488097,50.0
-1957-01-13,1957,1,argentina,ferrari,Ferrari,5,98,16,1000.613681,1014.007407,13.393726,0.7,0.432125,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1956-07-01,1956,5,france,53,ferrari,Ferrari,DNF,20,20,1000.0,982.914249,-17.085751,0.105263,0.446978,50.0
+1956-07-14,1956,6,great-britain,54,ferrari,Ferrari,2,100,28,982.914249,1008.251734,25.337485,0.944444,0.437695,50.0
+1956-08-05,1956,7,germany,55,ferrari,Ferrari,DNF,14,22,1008.251734,1018.018549,9.766815,0.666667,0.47133,50.0
+1956-09-02,1956,8,italy,56,ferrari,Ferrari,DNF,6,26,1018.018549,1000.613681,-17.404868,0.14,0.488097,50.0
+1957-01-13,1957,1,argentina,57,ferrari,Ferrari,5,98,16,1000.613681,1014.007407,13.393726,0.7,0.432125,50.0

@@ -1,27 +1,27 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,tony-brooks,Tony Brooks,vanwall,1,15,2,0,1,1020.143395,1045.425156,25.281761,1.0,0.494365,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,roy-salvadori,Roy Salvadori,cooper,2,15,6,0,2,1004.350433,1028.790418,24.439984,0.96,0.4712,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,maurice-trintignant,Maurice Trintignant,cooper,3,15,7,0,3,1055.388314,1074.089555,18.701241,0.92,0.545975,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,wolfgang-von-trips,Wolfgang von Trips,ferrari,4,15,5,0,4,1051.885593,1068.842021,16.956428,0.88,0.540871,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,bruce-mclaren,Bruce McLaren,cooper,5,15,12,0,5,1000.0,1018.758315,18.758315,0.84,0.464834,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,edgar-barth,Edgar Barth,porsche,6,15,13,0,6,1000.882899,1017.576647,16.693748,0.8,0.466125,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,ian-burgess,Ian Burgess,cooper,7,15,11,0,7,995.792235,1010.857978,15.065743,0.76,0.458685,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,tony-marsh,Tony Marsh,cooper,8,15,14,0,8,996.613464,1009.619246,13.005782,0.72,0.459884,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,phil-hill,Phil Hill,ferrari,9,15,10,0,9,1013.45675,1023.22924,9.77249,0.68,0.48455,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,cliff-allison,Cliff Allison,lotus,10,13,24,0,10,1010.015829,1018.040687,8.024858,0.64,0.479503,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,ivor-bueb,Ivor Bueb,lotus,11,13,16,0,11,985.88267,993.670139,7.787468,0.6,0.444251,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,mike-hawthorn,Mike Hawthorn,ferrari,DNF,11,1,1,12,1162.425019,1155.756088,-6.668931,0.56,0.693379,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,peter-collins,Peter Collins,ferrari,DNF,10,4,1,13,1075.332158,1072.590561,-2.741597,0.52,0.574832,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,harry-schell,Harry Schell,brm,DNF,9,8,1,14,1098.52044,1091.131267,-7.389173,0.46,0.607783,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,wolfgang-seidel,Wolfgang Seidel,cooper,DNF,9,17,1,15,987.894248,988.535506,0.641258,0.46,0.447175,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,christian-goethals,Christian Goethals,cooper,DNF,4,23,1,16,1000.0,994.758315,-5.241685,0.36,0.464834,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,graham-hill,Graham Hill,lotus,DNF,4,22,1,17,970.480565,967.381273,-3.099291,0.36,0.421986,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,jean-behra,Jean Behra,brm,DNF,4,9,1,18,1050.430404,1041.492972,-8.937432,0.36,0.538749,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,carel-godin-de-beaufort,Carel Godin de Beaufort,porsche,DNF,3,15,1,19,996.892557,985.877957,-11.0146,0.24,0.460292,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,hans-herrmann,Hans Herrmann,maserati,DNF,3,20,1,20,998.339596,987.219283,-11.120313,0.24,0.462406,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,stirling-moss,Stirling Moss,vanwall,DNF,3,3,1,21,1157.426063,1135.074838,-22.351224,0.24,0.687024,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,dick-gibson,Dick Gibson,cooper,DNF,2,18,1,22,979.22216,965.492488,-13.729672,0.16,0.434593,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,brian-naylor,Brian Naylor,cooper,DNF,1,25,1,23,1000.96129,981.649304,-19.311986,0.08,0.46624,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,jack-brabham,Jack Brabham,cooper,DNF,1,19,1,24,1041.495537,1019.211154,-22.284383,0.08,0.525688,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,jo-bonnier,Jo Bonnier,maserati,DNF,1,21,1,25,986.158686,967.926102,-18.232584,0.08,0.444652,50.0,26
-1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,troy-ruttman,Troy Ruttman,maserati,DNS,,,2,26,996.7776,973.771396,-23.006204,0.0,0.460124,50.0,26
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,tony-brooks,Tony Brooks,vanwall,1,15,2,0,1,1020.143395,1045.425156,25.281761,1.0,0.494365,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,roy-salvadori,Roy Salvadori,cooper,2,15,6,0,2,1004.350433,1028.790418,24.439984,0.96,0.4712,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,maurice-trintignant,Maurice Trintignant,cooper,3,15,7,0,3,1055.388314,1074.089555,18.701241,0.92,0.545975,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,wolfgang-von-trips,Wolfgang von Trips,ferrari,4,15,5,0,4,1051.885593,1068.842021,16.956428,0.88,0.540871,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,bruce-mclaren,Bruce McLaren,cooper,5,15,12,0,5,1000.0,1018.758315,18.758315,0.84,0.464834,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,edgar-barth,Edgar Barth,porsche,6,15,13,0,6,1000.882899,1017.576647,16.693748,0.8,0.466125,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,ian-burgess,Ian Burgess,cooper,7,15,11,0,7,995.792235,1010.857978,15.065743,0.76,0.458685,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,tony-marsh,Tony Marsh,cooper,8,15,14,0,8,996.613464,1009.619246,13.005782,0.72,0.459884,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,phil-hill,Phil Hill,ferrari,9,15,10,0,9,1013.45675,1023.22924,9.77249,0.68,0.48455,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,cliff-allison,Cliff Allison,lotus,10,13,24,0,10,1010.015829,1018.040687,8.024858,0.64,0.479503,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,ivor-bueb,Ivor Bueb,lotus,11,13,16,0,11,985.88267,993.670139,7.787468,0.6,0.444251,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,mike-hawthorn,Mike Hawthorn,ferrari,DNF,11,1,1,12,1162.425019,1155.756088,-6.668931,0.56,0.693379,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,peter-collins,Peter Collins,ferrari,DNF,10,4,1,13,1075.332158,1072.590561,-2.741597,0.52,0.574832,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,harry-schell,Harry Schell,brm,DNF,9,8,1,14,1098.52044,1091.131267,-7.389173,0.46,0.607783,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,wolfgang-seidel,Wolfgang Seidel,cooper,DNF,9,17,1,15,987.894248,988.535506,0.641258,0.46,0.447175,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,christian-goethals,Christian Goethals,cooper,DNF,4,23,1,16,1000.0,994.758315,-5.241685,0.36,0.464834,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,graham-hill,Graham Hill,lotus,DNF,4,22,1,17,970.480565,967.381273,-3.099291,0.36,0.421986,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,jean-behra,Jean Behra,brm,DNF,4,9,1,18,1050.430404,1041.492972,-8.937432,0.36,0.538749,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,carel-godin-de-beaufort,Carel Godin de Beaufort,porsche,DNF,3,15,1,19,996.892557,985.877957,-11.0146,0.24,0.460292,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,hans-herrmann,Hans Herrmann,maserati,DNF,3,20,1,20,998.339596,987.219283,-11.120313,0.24,0.462406,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,stirling-moss,Stirling Moss,vanwall,DNF,3,3,1,21,1157.426063,1135.074838,-22.351224,0.24,0.687024,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,dick-gibson,Dick Gibson,cooper,DNF,2,18,1,22,979.22216,965.492488,-13.729672,0.16,0.434593,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,brian-naylor,Brian Naylor,cooper,DNF,1,25,1,23,1000.96129,981.649304,-19.311986,0.08,0.46624,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,jack-brabham,Jack Brabham,cooper,DNF,1,19,1,24,1041.495537,1019.211154,-22.284383,0.08,0.525688,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,jo-bonnier,Jo Bonnier,maserati,DNF,1,21,1,25,986.158686,967.926102,-18.232584,0.08,0.444652,50.0,26
+1958,8,1958-08-03,germany,Grosser Preis von Deutschland 1958,72,troy-ruttman,Troy Ruttman,maserati,DNS,,,2,26,996.7776,973.771396,-23.006204,0.0,0.460124,50.0,26

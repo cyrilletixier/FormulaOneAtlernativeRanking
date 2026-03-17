@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1960-09-04,1960,9,italy,behra-porsche,Behra-Porsche,10,41,17,1000.0,996.699847,-3.300153,0.4375,0.503503,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1960-09-04,1960,9,italy,93,behra-porsche,Behra-Porsche,10,41,17,1000.0,996.699847,-3.300153,0.4375,0.503503,50.0

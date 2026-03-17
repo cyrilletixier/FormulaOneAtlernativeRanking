@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,david-coulthard,David Coulthard,mclaren,1,78,3,0,1,1194.010779,1211.370785,17.360007,1.0,0.6528,50.0,22
-2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,rubens-barrichello,Rubens Barrichello,ferrari,2,78,6,0,2,1139.647238,1158.2042,18.556962,0.952381,0.581242,50.0,22
-2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,giancarlo-fisichella,Giancarlo Fisichella,benetton,3,78,8,0,3,1144.107256,1159.981637,15.874381,0.904762,0.587274,50.0,22
-2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,eddie-irvine,Eddie Irvine,jaguar,4,78,10,0,4,1206.357542,1215.797999,9.440457,0.857143,0.668334,50.0,22
-2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,mika-salo,Mika Salo,sauber,5,78,13,0,5,1038.773423,1057.168962,18.395539,0.809524,0.441613,50.0,22
-2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,mika-hakkinen,Mika Häkkinen,mclaren,6,77,5,0,6,1276.367878,1276.967229,0.599352,0.761905,0.749918,50.0,22
-2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,jacques-villeneuve,Jacques Villeneuve,bar,7,77,17,0,7,1042.638181,1056.004429,13.366247,0.714286,0.446961,50.0,22
-2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,nick-heidfeld,Nick Heidfeld,prost,8,77,18,0,8,957.849385,974.511518,16.662133,0.666667,0.333424,50.0,22
-2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,johnny-herbert,Johnny Herbert,jaguar,9,76,11,0,9,1055.295734,1063.02159,7.725857,0.619048,0.46453,50.0,22
-2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,10,70,4,0,10,1153.74385,1152.304109,-1.439741,0.571429,0.600223,50.0,22
-2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,jos-verstappen,Jos Verstappen,arrows,DNF,60,15,1,11,955.280055,964.96258,9.682524,0.52381,0.330159,50.0,22
-2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,michael-schumacher,Michael Schumacher,ferrari,DNF,55,1,1,12,1336.679714,1319.986592,-16.693122,0.47619,0.810053,50.0,22
-2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,ricardo-zonta,Ricardo Zonta,bar,DNF,48,20,1,13,1014.368696,1015.391677,1.022981,0.428571,0.408112,50.0,22
-2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,ralf-schumacher,Ralf Schumacher,williams,DNF,37,9,1,14,1169.306145,1157.310796,-11.99535,0.380952,0.620859,50.0,22
-2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,jarno-trulli,Jarno Trulli,jordan,DNF,36,2,1,15,1025.604934,1021.098046,-4.506888,0.333333,0.423471,50.0,22
-2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,pedro-diniz,Pedro Diniz,sauber,DNF,30,19,1,16,970.174329,966.996858,-3.177471,0.285714,0.349264,50.0,22
-2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,jean-alesi,Jean Alesi,prost,DNF,29,7,1,17,1044.08608,1033.542514,-10.543565,0.238095,0.448967,50.0,22
-2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,gaston-mazzacane,Gastón Mazzacane,minardi,DNF,22,22,1,18,1020.606976,1009.299597,-11.307379,0.190476,0.416624,50.0,22
-2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,marc-gene,Marc Gené,minardi,DNF,21,21,1,19,997.958981,985.805098,-12.153882,0.142857,0.385935,50.0,22
-2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,alexander-wurz,Alexander Wurz,benetton,DNF,18,12,1,20,1077.933169,1057.891705,-20.041464,0.095238,0.496067,50.0,22
-2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,jenson-button,Jenson Button,williams,DNF,16,14,1,21,1028.151822,1009.18432,-18.967502,0.047619,0.426969,50.0,22
-2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNS,,16,2,22,976.270526,958.410449,-17.860077,0.0,0.357202,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,653,david-coulthard,David Coulthard,mclaren,1,78,3,0,1,1194.010779,1211.370785,17.360007,1.0,0.6528,50.0,22
+2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,653,rubens-barrichello,Rubens Barrichello,ferrari,2,78,6,0,2,1139.647238,1158.2042,18.556962,0.952381,0.581242,50.0,22
+2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,653,giancarlo-fisichella,Giancarlo Fisichella,benetton,3,78,8,0,3,1144.107256,1159.981637,15.874381,0.904762,0.587274,50.0,22
+2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,653,eddie-irvine,Eddie Irvine,jaguar,4,78,10,0,4,1206.357542,1215.797999,9.440457,0.857143,0.668334,50.0,22
+2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,653,mika-salo,Mika Salo,sauber,5,78,13,0,5,1038.773423,1057.168962,18.395539,0.809524,0.441613,50.0,22
+2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,653,mika-hakkinen,Mika Häkkinen,mclaren,6,77,5,0,6,1276.367878,1276.967229,0.599352,0.761905,0.749918,50.0,22
+2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,653,jacques-villeneuve,Jacques Villeneuve,bar,7,77,17,0,7,1042.638181,1056.004429,13.366247,0.714286,0.446961,50.0,22
+2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,653,nick-heidfeld,Nick Heidfeld,prost,8,77,18,0,8,957.849385,974.511518,16.662133,0.666667,0.333424,50.0,22
+2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,653,johnny-herbert,Johnny Herbert,jaguar,9,76,11,0,9,1055.295734,1063.02159,7.725857,0.619048,0.46453,50.0,22
+2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,653,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,10,70,4,0,10,1153.74385,1152.304109,-1.439741,0.571429,0.600223,50.0,22
+2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,653,jos-verstappen,Jos Verstappen,arrows,DNF,60,15,1,11,955.280055,964.96258,9.682524,0.52381,0.330159,50.0,22
+2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,653,michael-schumacher,Michael Schumacher,ferrari,DNF,55,1,1,12,1336.679714,1319.986592,-16.693122,0.47619,0.810053,50.0,22
+2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,653,ricardo-zonta,Ricardo Zonta,bar,DNF,48,20,1,13,1014.368696,1015.391677,1.022981,0.428571,0.408112,50.0,22
+2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,653,ralf-schumacher,Ralf Schumacher,williams,DNF,37,9,1,14,1169.306145,1157.310796,-11.99535,0.380952,0.620859,50.0,22
+2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,653,jarno-trulli,Jarno Trulli,jordan,DNF,36,2,1,15,1025.604934,1021.098046,-4.506888,0.333333,0.423471,50.0,22
+2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,653,pedro-diniz,Pedro Diniz,sauber,DNF,30,19,1,16,970.174329,966.996858,-3.177471,0.285714,0.349264,50.0,22
+2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,653,jean-alesi,Jean Alesi,prost,DNF,29,7,1,17,1044.08608,1033.542514,-10.543565,0.238095,0.448967,50.0,22
+2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,653,gaston-mazzacane,Gastón Mazzacane,minardi,DNF,22,22,1,18,1020.606976,1009.299597,-11.307379,0.190476,0.416624,50.0,22
+2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,653,marc-gene,Marc Gené,minardi,DNF,21,21,1,19,997.958981,985.805098,-12.153882,0.142857,0.385935,50.0,22
+2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,653,alexander-wurz,Alexander Wurz,benetton,DNF,18,12,1,20,1077.933169,1057.891705,-20.041464,0.095238,0.496067,50.0,22
+2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,653,jenson-button,Jenson Button,williams,DNF,16,14,1,21,1028.151822,1009.18432,-18.967502,0.047619,0.426969,50.0,22
+2000,7,2000-06-04,monaco,Grand Prix de Monaco 2000,653,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNS,,16,2,22,976.270526,958.410449,-17.860077,0.0,0.357202,50.0,22

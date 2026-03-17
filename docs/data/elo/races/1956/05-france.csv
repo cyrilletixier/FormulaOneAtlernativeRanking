@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1956,5,1956-07-01,france,Grand Prix de France 1956,peter-collins,Peter Collins,ferrari,1,61,3,0,1,987.886633,1016.416106,28.529473,1.0,0.429411,50.0,20
-1956,5,1956-07-01,france,Grand Prix de France 1956,eugenio-castellotti,Eugenio Castellotti,ferrari,2,61,2,0,2,1033.195433,1055.7866,22.591166,0.947368,0.495545,50.0,20
-1956,5,1956-07-01,france,Grand Prix de France 1956,jean-behra,Jean Behra,maserati,3,61,7,0,3,1052.775176,1071.300331,18.525155,0.894737,0.524234,50.0,20
-1956,5,1956-07-01,france,Grand Prix de France 1956,juan-manuel-fangio,Juan Manuel Fangio,ferrari,4,61,1,0,4,1276.666871,1278.422352,1.755481,0.842105,0.806996,50.0,20
-1956,5,1956-07-01,france,Grand Prix de France 1956,cesare-perdisa,Cesare Perdisa,maserati,5,59,13,0,5,1043.17754,1055.826304,12.648764,0.763158,0.510183,50.0,20
-1956,5,1956-07-01,france,Grand Prix de France 1956,stirling-moss,Stirling Moss,maserati,5,,,0,6,1098.032291,1106.709849,8.677559,0.763158,0.589607,50.0,20
-1956,5,1956-07-01,france,Grand Prix de France 1956,louis-rosier,Louis Rosier,maserati,6,58,12,0,7,1011.763301,1022.766844,11.003543,0.684211,0.46414,50.0,20
-1956,5,1956-07-01,france,Grand Prix de France 1956,paco-godia,Paco Godia,maserati,7,57,17,0,8,998.322823,1007.674838,9.352016,0.631579,0.444539,50.0,20
-1956,5,1956-07-01,france,Grand Prix de France 1956,hermano-da-silva-ramos,Hermano da Silva Ramos,gordini,8,57,14,0,9,1005.208666,1011.427688,6.219022,0.578947,0.454567,50.0,20
-1956,5,1956-07-01,france,Grand Prix de France 1956,robert-manzon,Robert Manzon,gordini,9,56,15,0,10,946.905554,954.65818,7.752626,0.526316,0.371263,50.0,20
-1956,5,1956-07-01,france,Grand Prix de France 1956,harry-schell,Harry Schell,vanwall,10,,,0,11,985.821435,986.868416,1.046981,0.447368,0.426429,50.0,20
-1956,5,1956-07-01,france,Grand Prix de France 1956,mike-hawthorn,Mike Hawthorn,vanwall,10,56,6,0,12,1070.101774,1064.996163,-5.10561,0.447368,0.549481,50.0,20
-1956,5,1956-07-01,france,Grand Prix de France 1956,andre-pilette,André Pilette,gordini,11,55,19,0,13,1026.304471,1020.453631,-5.85084,0.368421,0.485438,50.0,20
-1956,5,1956-07-01,france,Grand Prix de France 1956,andre-simon,André Simon,maserati,DNF,41,20,1,14,985.430933,979.927133,-5.5038,0.315789,0.425865,50.0,20
-1956,5,1956-07-01,france,Grand Prix de France 1956,piero-taruffi,Piero Taruffi,maserati,DNF,40,16,1,15,1111.065392,1093.824132,-17.241259,0.263158,0.607983,50.0,20
-1956,5,1956-07-01,france,Grand Prix de France 1956,olivier-gendebien,Olivier Gendebien,ferrari,DNF,38,11,1,16,1006.478219,994.183575,-12.294645,0.210526,0.456419,50.0,20
-1956,5,1956-07-01,france,Grand Prix de France 1956,luigi-villoresi,Luigi Villoresi,maserati,DNF,23,10,1,17,1046.51083,1028.652259,-17.858571,0.157895,0.515066,50.0,20
-1956,5,1956-07-01,france,Grand Prix de France 1956,alfonso-de-portago,Alfonso de Portago,ferrari,DNF,20,9,1,18,1000.0,982.914249,-17.085751,0.105263,0.446978,50.0,20
-1956,5,1956-07-01,france,Grand Prix de France 1956,maurice-trintignant,Maurice Trintignant,bugatti,DNF,18,18,1,19,1069.687608,1044.875206,-24.812402,0.052632,0.54888,50.0,20
-1956,5,1956-07-01,france,Grand Prix de France 1956,colin-chapman,Colin Chapman,vanwall,DNS,,5,2,20,1000.0,977.651091,-22.348909,0.0,0.446978,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1956,5,1956-07-01,france,Grand Prix de France 1956,53,peter-collins,Peter Collins,ferrari,1,61,3,0,1,987.886633,1016.416106,28.529473,1.0,0.429411,50.0,20
+1956,5,1956-07-01,france,Grand Prix de France 1956,53,eugenio-castellotti,Eugenio Castellotti,ferrari,2,61,2,0,2,1033.195433,1055.7866,22.591166,0.947368,0.495545,50.0,20
+1956,5,1956-07-01,france,Grand Prix de France 1956,53,jean-behra,Jean Behra,maserati,3,61,7,0,3,1052.775176,1071.300331,18.525155,0.894737,0.524234,50.0,20
+1956,5,1956-07-01,france,Grand Prix de France 1956,53,juan-manuel-fangio,Juan Manuel Fangio,ferrari,4,61,1,0,4,1276.666871,1278.422352,1.755481,0.842105,0.806996,50.0,20
+1956,5,1956-07-01,france,Grand Prix de France 1956,53,cesare-perdisa,Cesare Perdisa,maserati,5,59,13,0,5,1043.17754,1055.826304,12.648764,0.763158,0.510183,50.0,20
+1956,5,1956-07-01,france,Grand Prix de France 1956,53,stirling-moss,Stirling Moss,maserati,5,,,0,6,1098.032291,1106.709849,8.677559,0.763158,0.589607,50.0,20
+1956,5,1956-07-01,france,Grand Prix de France 1956,53,louis-rosier,Louis Rosier,maserati,6,58,12,0,7,1011.763301,1022.766844,11.003543,0.684211,0.46414,50.0,20
+1956,5,1956-07-01,france,Grand Prix de France 1956,53,paco-godia,Paco Godia,maserati,7,57,17,0,8,998.322823,1007.674838,9.352016,0.631579,0.444539,50.0,20
+1956,5,1956-07-01,france,Grand Prix de France 1956,53,hermano-da-silva-ramos,Hermano da Silva Ramos,gordini,8,57,14,0,9,1005.208666,1011.427688,6.219022,0.578947,0.454567,50.0,20
+1956,5,1956-07-01,france,Grand Prix de France 1956,53,robert-manzon,Robert Manzon,gordini,9,56,15,0,10,946.905554,954.65818,7.752626,0.526316,0.371263,50.0,20
+1956,5,1956-07-01,france,Grand Prix de France 1956,53,harry-schell,Harry Schell,vanwall,10,,,0,11,985.821435,986.868416,1.046981,0.447368,0.426429,50.0,20
+1956,5,1956-07-01,france,Grand Prix de France 1956,53,mike-hawthorn,Mike Hawthorn,vanwall,10,56,6,0,12,1070.101774,1064.996163,-5.10561,0.447368,0.549481,50.0,20
+1956,5,1956-07-01,france,Grand Prix de France 1956,53,andre-pilette,André Pilette,gordini,11,55,19,0,13,1026.304471,1020.453631,-5.85084,0.368421,0.485438,50.0,20
+1956,5,1956-07-01,france,Grand Prix de France 1956,53,andre-simon,André Simon,maserati,DNF,41,20,1,14,985.430933,979.927133,-5.5038,0.315789,0.425865,50.0,20
+1956,5,1956-07-01,france,Grand Prix de France 1956,53,piero-taruffi,Piero Taruffi,maserati,DNF,40,16,1,15,1111.065392,1093.824132,-17.241259,0.263158,0.607983,50.0,20
+1956,5,1956-07-01,france,Grand Prix de France 1956,53,olivier-gendebien,Olivier Gendebien,ferrari,DNF,38,11,1,16,1006.478219,994.183575,-12.294645,0.210526,0.456419,50.0,20
+1956,5,1956-07-01,france,Grand Prix de France 1956,53,luigi-villoresi,Luigi Villoresi,maserati,DNF,23,10,1,17,1046.51083,1028.652259,-17.858571,0.157895,0.515066,50.0,20
+1956,5,1956-07-01,france,Grand Prix de France 1956,53,alfonso-de-portago,Alfonso de Portago,ferrari,DNF,20,9,1,18,1000.0,982.914249,-17.085751,0.105263,0.446978,50.0,20
+1956,5,1956-07-01,france,Grand Prix de France 1956,53,maurice-trintignant,Maurice Trintignant,bugatti,DNF,18,18,1,19,1069.687608,1044.875206,-24.812402,0.052632,0.54888,50.0,20
+1956,5,1956-07-01,france,Grand Prix de France 1956,53,colin-chapman,Colin Chapman,vanwall,DNS,,5,2,20,1000.0,977.651091,-22.348909,0.0,0.446978,50.0,20

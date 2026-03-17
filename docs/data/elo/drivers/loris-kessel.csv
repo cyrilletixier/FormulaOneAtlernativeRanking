@@ -1,7 +1,7 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1976-05-02,1976,4,spain,brabham,Brabham,DNQ,,30,1000.0,983.169822,-16.830178,0.086207,0.42281,50.0
-1976-05-16,1976,5,belgium,brabham,Brabham,12,63,29,983.169822,993.782918,10.613097,0.607143,0.394881,50.0
-1976-06-13,1976,7,sweden,brabham,Brabham,DNF,5,27,993.782918,981.37001,-12.412908,0.153846,0.402104,50.0
-1976-07-04,1976,8,france,brabham,Brabham,DNQ,,30,981.37001,963.166749,-18.203261,0.034483,0.398548,50.0
-1976-08-15,1976,11,austria,brabham,Brabham,NC,44,25,963.166749,967.318383,4.151634,0.458333,0.375301,50.0
-1977-09-11,1977,14,italy,apollon,Apollon,DNQ,,34,967.318383,955.330369,-11.988014,0.136364,0.376124,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1976-05-02,1976,4,spain,268,brabham,Brabham,DNQ,,30,1000.0,983.169822,-16.830178,0.086207,0.42281,50.0
+1976-05-16,1976,5,belgium,269,brabham,Brabham,12,63,29,983.169822,993.782918,10.613097,0.607143,0.394881,50.0
+1976-06-13,1976,7,sweden,271,brabham,Brabham,DNF,5,27,993.782918,981.37001,-12.412908,0.153846,0.402104,50.0
+1976-07-04,1976,8,france,272,brabham,Brabham,DNQ,,30,981.37001,963.166749,-18.203261,0.034483,0.398548,50.0
+1976-08-15,1976,11,austria,275,brabham,Brabham,NC,44,25,963.166749,967.318383,4.151634,0.458333,0.375301,50.0
+1977-09-11,1977,14,italy,294,apollon,Apollon,DNQ,,34,967.318383,955.330369,-11.988014,0.136364,0.376124,50.0

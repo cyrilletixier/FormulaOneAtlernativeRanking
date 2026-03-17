@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,1,52,1,0,1,1454.964135,1462.891768,7.927633,1.0,0.841447,50.0,20
-2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,nico-rosberg,Nico Rosberg,mercedes,2,52,2,0,2,1418.091201,1424.879962,6.788762,0.947368,0.811593,50.0,20
-2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,3,52,6,0,3,1404.080889,1408.84555,4.764661,0.894737,0.799444,50.0,20
-2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,felipe-massa,Felipe Massa,williams,4,52,3,0,4,1260.118016,1269.696956,9.57894,0.842105,0.650526,50.0,20
-2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,valtteri-bottas,Valtteri Bottas,williams,5,52,4,0,5,1252.921915,1260.292139,7.370224,0.789474,0.642069,50.0,20
-2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,daniil-kvyat,Daniil Kvyat,red-bull,6,52,7,0,6,1054.582423,1071.802661,17.220238,0.736842,0.392437,50.0,20
-2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,7,52,9,0,7,1146.876552,1155.568215,8.691663,0.684211,0.510377,50.0,20
-2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,8,51,5,0,8,1238.054443,1238.415746,0.361303,0.631579,0.624353,50.0,20
-2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,sergio-perez,Sergio Pérez,force-india,9,51,11,0,9,1138.988227,1142.922821,3.934594,0.578947,0.500255,50.0,20
-2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,fernando-alonso,Fernando Alonso,mclaren,10,51,17,0,10,1146.935942,1147.729061,0.793119,0.526316,0.510453,50.0,20
-2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,11,51,15,0,11,958.138253,967.939765,9.801512,0.473684,0.277654,50.0,20
-2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,roberto-merhi,Roberto Merhi,marussia,12,49,20,0,12,957.085626,964.313822,7.228195,0.421053,0.276489,50.0,20
-2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,will-stevens,Will Stevens,marussia,13,49,19,0,13,938.787066,944.377984,5.590918,0.368421,0.256603,50.0,20
-2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,31,8,1,14,1029.215142,1026.957023,-2.258119,0.315789,0.360952,50.0,20
-2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,DNF,21,10,1,15,1241.481839,1223.216484,-18.265356,0.263158,0.628465,50.0,20
-2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,max-verstappen,Max Verstappen,toro-rosso,DNF,3,13,1,16,1007.851722,1001.625311,-6.226411,0.210526,0.335055,50.0,20
-2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,jenson-button,Jenson Button,mclaren,DNF,0,18,1,17,1123.565499,1104.807041,-18.758457,0.105263,0.480432,50.0,20
-2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,pastor-maldonado,Pastor Maldonado,lotus-f1,DNF,0,14,1,18,979.254101,969.442738,-9.811363,0.105263,0.30149,50.0,20
-2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,DNF,0,12,1,19,1070.617489,1055.247581,-15.369908,0.105263,0.412661,50.0,20
-2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,felipe-nasr,Felipe Nasr,sauber,DNS,,16,2,20,1050.434917,1031.072768,-19.362149,0.0,0.387243,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,925,lewis-hamilton,Lewis Hamilton,mercedes,1,52,1,0,1,1454.964135,1462.891768,7.927633,1.0,0.841447,50.0,20
+2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,925,nico-rosberg,Nico Rosberg,mercedes,2,52,2,0,2,1418.091201,1424.879962,6.788762,0.947368,0.811593,50.0,20
+2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,925,sebastian-vettel,Sebastian Vettel,ferrari,3,52,6,0,3,1404.080889,1408.84555,4.764661,0.894737,0.799444,50.0,20
+2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,925,felipe-massa,Felipe Massa,williams,4,52,3,0,4,1260.118016,1269.696956,9.57894,0.842105,0.650526,50.0,20
+2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,925,valtteri-bottas,Valtteri Bottas,williams,5,52,4,0,5,1252.921915,1260.292139,7.370224,0.789474,0.642069,50.0,20
+2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,925,daniil-kvyat,Daniil Kvyat,red-bull,6,52,7,0,6,1054.582423,1071.802661,17.220238,0.736842,0.392437,50.0,20
+2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,925,nico-hulkenberg,Nico Hülkenberg,force-india,7,52,9,0,7,1146.876552,1155.568215,8.691663,0.684211,0.510377,50.0,20
+2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,925,kimi-raikkonen,Kimi Räikkönen,ferrari,8,51,5,0,8,1238.054443,1238.415746,0.361303,0.631579,0.624353,50.0,20
+2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,925,sergio-perez,Sergio Pérez,force-india,9,51,11,0,9,1138.988227,1142.922821,3.934594,0.578947,0.500255,50.0,20
+2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,925,fernando-alonso,Fernando Alonso,mclaren,10,51,17,0,10,1146.935942,1147.729061,0.793119,0.526316,0.510453,50.0,20
+2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,925,marcus-ericsson,Marcus Ericsson,sauber,11,51,15,0,11,958.138253,967.939765,9.801512,0.473684,0.277654,50.0,20
+2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,925,roberto-merhi,Roberto Merhi,marussia,12,49,20,0,12,957.085626,964.313822,7.228195,0.421053,0.276489,50.0,20
+2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,925,will-stevens,Will Stevens,marussia,13,49,19,0,13,938.787066,944.377984,5.590918,0.368421,0.256603,50.0,20
+2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,925,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,31,8,1,14,1029.215142,1026.957023,-2.258119,0.315789,0.360952,50.0,20
+2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,925,daniel-ricciardo,Daniel Ricciardo,red-bull,DNF,21,10,1,15,1241.481839,1223.216484,-18.265356,0.263158,0.628465,50.0,20
+2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,925,max-verstappen,Max Verstappen,toro-rosso,DNF,3,13,1,16,1007.851722,1001.625311,-6.226411,0.210526,0.335055,50.0,20
+2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,925,jenson-button,Jenson Button,mclaren,DNF,0,18,1,17,1123.565499,1104.807041,-18.758457,0.105263,0.480432,50.0,20
+2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,925,pastor-maldonado,Pastor Maldonado,lotus-f1,DNF,0,14,1,18,979.254101,969.442738,-9.811363,0.105263,0.30149,50.0,20
+2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,925,romain-grosjean,Romain Grosjean,lotus-f1,DNF,0,12,1,19,1070.617489,1055.247581,-15.369908,0.105263,0.412661,50.0,20
+2015,9,2015-07-05,great-britain,2015 Formula 1 British Grand Prix,925,felipe-nasr,Felipe Nasr,sauber,DNS,,16,2,20,1050.434917,1031.072768,-19.362149,0.0,0.387243,50.0,20

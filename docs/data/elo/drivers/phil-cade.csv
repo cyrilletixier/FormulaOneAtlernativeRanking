@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1959-12-12,1959,9,united-states,maserati,Maserati,DNS,,19,1000.0,977.397528,-22.602472,0.0,0.452049,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1959-12-12,1959,9,united-states,84,maserati,Maserati,DNS,,19,1000.0,977.397528,-22.602472,0.0,0.452049,50.0

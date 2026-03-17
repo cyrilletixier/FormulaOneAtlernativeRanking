@@ -1,25 +1,25 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,1,55,1,0,1,1279.849809,1293.581403,13.731594,1.0,0.725368,50.0,24
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,2,55,2,0,2,1247.450238,1260.848554,13.398315,0.956522,0.688555,50.0,24
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,jenson-button,Jenson Button,mclaren,3,55,4,0,3,1267.965664,1278.011806,10.046142,0.913043,0.712121,50.0,24
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,nico-rosberg,Nico Rosberg,mercedes,4,55,9,0,4,1179.714359,1192.920148,13.205789,0.869565,0.605449,50.0,24
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,robert-kubica,Robert Kubica,renault,5,55,11,0,5,1186.414201,1197.019986,10.605785,0.826087,0.613971,50.0,24
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,vitaly-petrov,Vitaly Petrov,renault,6,55,10,0,6,1030.756312,1049.384962,18.628651,0.782609,0.410036,50.0,24
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,fernando-alonso,Fernando Alonso,ferrari,7,55,3,0,7,1291.888663,1291.921707,0.033044,0.73913,0.73847,50.0,24
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,mark-webber,Mark Webber,red-bull,8,55,5,0,8,1267.267902,1266.483841,-0.784061,0.695652,0.711333,50.0,24
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,jaime-alguersuari,Jaime Alguersuari,toro-rosso,9,55,17,0,9,1026.230406,1038.629674,12.399268,0.652174,0.404189,50.0,24
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,felipe-massa,Felipe Massa,ferrari,10,55,6,0,10,1228.893076,1226.001112,-2.891964,0.608696,0.666535,50.0,24
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,nick-heidfeld,Nick Heidfeld,sauber,11,55,14,0,11,1129.762191,1130.996852,1.234661,0.565217,0.540524,50.0,24
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,rubens-barrichello,Rubens Barrichello,williams,12,55,7,0,12,1160.918612,1157.941889,-2.976724,0.521739,0.581274,50.0,24
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,adrian-sutil,Adrian Sutil,force-india,13,55,13,0,13,1040.083562,1042.889288,2.805726,0.478261,0.422146,50.0,24
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,kamui-kobayashi,Kamui Kobayashi,sauber,14,55,12,0,14,1048.37049,1048.461269,0.090779,0.434783,0.432967,50.0,24
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,sebastien-buemi,Sébastien Buemi,toro-rosso,15,55,18,0,15,1015.480562,1015.526432,0.04587,0.391304,0.390387,50.0,24
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,nico-hulkenberg,Nico Hülkenberg,williams,16,55,15,0,16,1046.827726,1042.671598,-4.156127,0.347826,0.430949,50.0,24
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,heikki-kovalainen,Heikki Kovalainen,lotus-racing,17,54,20,0,17,999.829799,996.520217,-3.309582,0.304348,0.370539,50.0,24
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,lucas-di-grassi,Lucas di Grassi,virgin,18,53,22,0,18,892.031306,892.807951,0.776646,0.26087,0.245337,50.0,24
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,bruno-senna,Bruno Senna,hrt,19,53,23,0,19,906.731945,904.552829,-2.179117,0.217391,0.260974,50.0,24
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,christian-klien,Christian Klien,hrt,20,53,24,0,20,995.052958,985.521279,-9.53168,0.173913,0.364547,50.0,24
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,jarno-trulli,Jarno Trulli,lotus-racing,21,51,19,0,21,934.603264,926.525935,-8.077329,0.130435,0.291981,50.0,24
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,timo-glock,Timo Glock,virgin,DNF,43,21,1,22,966.243965,954.134386,-12.109579,0.086957,0.329148,50.0,24
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,michael-schumacher,Michael Schumacher,mercedes,DNF,0,8,1,23,1250.238872,1216.735413,-33.503459,0.021739,0.691808,50.0,24
-2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,DNF,0,16,1,24,1000.507372,983.024724,-17.482648,0.021739,0.371392,50.0,24
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,sebastian-vettel,Sebastian Vettel,red-bull,1,55,1,0,1,1279.849809,1293.581403,13.731594,1.0,0.725368,50.0,24
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,lewis-hamilton,Lewis Hamilton,mclaren,2,55,2,0,2,1247.450238,1260.848554,13.398315,0.956522,0.688555,50.0,24
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,jenson-button,Jenson Button,mclaren,3,55,4,0,3,1267.965664,1278.011806,10.046142,0.913043,0.712121,50.0,24
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,nico-rosberg,Nico Rosberg,mercedes,4,55,9,0,4,1179.714359,1192.920148,13.205789,0.869565,0.605449,50.0,24
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,robert-kubica,Robert Kubica,renault,5,55,11,0,5,1186.414201,1197.019986,10.605785,0.826087,0.613971,50.0,24
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,vitaly-petrov,Vitaly Petrov,renault,6,55,10,0,6,1030.756312,1049.384962,18.628651,0.782609,0.410036,50.0,24
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,fernando-alonso,Fernando Alonso,ferrari,7,55,3,0,7,1291.888663,1291.921707,0.033044,0.73913,0.73847,50.0,24
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,mark-webber,Mark Webber,red-bull,8,55,5,0,8,1267.267902,1266.483841,-0.784061,0.695652,0.711333,50.0,24
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,jaime-alguersuari,Jaime Alguersuari,toro-rosso,9,55,17,0,9,1026.230406,1038.629674,12.399268,0.652174,0.404189,50.0,24
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,felipe-massa,Felipe Massa,ferrari,10,55,6,0,10,1228.893076,1226.001112,-2.891964,0.608696,0.666535,50.0,24
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,nick-heidfeld,Nick Heidfeld,sauber,11,55,14,0,11,1129.762191,1130.996852,1.234661,0.565217,0.540524,50.0,24
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,rubens-barrichello,Rubens Barrichello,williams,12,55,7,0,12,1160.918612,1157.941889,-2.976724,0.521739,0.581274,50.0,24
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,adrian-sutil,Adrian Sutil,force-india,13,55,13,0,13,1040.083562,1042.889288,2.805726,0.478261,0.422146,50.0,24
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,kamui-kobayashi,Kamui Kobayashi,sauber,14,55,12,0,14,1048.37049,1048.461269,0.090779,0.434783,0.432967,50.0,24
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,sebastien-buemi,Sébastien Buemi,toro-rosso,15,55,18,0,15,1015.480562,1015.526432,0.04587,0.391304,0.390387,50.0,24
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,nico-hulkenberg,Nico Hülkenberg,williams,16,55,15,0,16,1046.827726,1042.671598,-4.156127,0.347826,0.430949,50.0,24
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,heikki-kovalainen,Heikki Kovalainen,lotus-racing,17,54,20,0,17,999.829799,996.520217,-3.309582,0.304348,0.370539,50.0,24
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,lucas-di-grassi,Lucas di Grassi,virgin,18,53,22,0,18,892.031306,892.807951,0.776646,0.26087,0.245337,50.0,24
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,bruno-senna,Bruno Senna,hrt,19,53,23,0,19,906.731945,904.552829,-2.179117,0.217391,0.260974,50.0,24
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,christian-klien,Christian Klien,hrt,20,53,24,0,20,995.052958,985.521279,-9.53168,0.173913,0.364547,50.0,24
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,jarno-trulli,Jarno Trulli,lotus-racing,21,51,19,0,21,934.603264,926.525935,-8.077329,0.130435,0.291981,50.0,24
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,timo-glock,Timo Glock,virgin,DNF,43,21,1,22,966.243965,954.134386,-12.109579,0.086957,0.329148,50.0,24
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,michael-schumacher,Michael Schumacher,mercedes,DNF,0,8,1,23,1250.238872,1216.735413,-33.503459,0.021739,0.691808,50.0,24
+2010,19,2010-11-14,abu-dhabi,2010 Formula 1 Etihad Airways Abu Dhabi Grand Prix,839,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,DNF,0,16,1,24,1000.507372,983.024724,-17.482648,0.021739,0.371392,50.0,24

@@ -1,27 +1,27 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,stirling-moss,Stirling Moss,mercedes,1,90,1,0,1,1057.101457,1079.018886,21.917429,1.0,0.561651,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,juan-manuel-fangio,Juan Manuel Fangio,mercedes,2,90,2,0,2,1268.619145,1275.802722,7.183578,0.96,0.816328,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,karl-kling,Karl Kling,mercedes,3,90,4,0,3,1034.94486,1054.451347,19.506488,0.92,0.52987,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,piero-taruffi,Piero Taruffi,mercedes,4,89,5,0,4,1077.428575,1091.909342,14.480767,0.88,0.590385,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,luigi-musso,Luigi Musso,maserati,5,89,9,0,5,1017.930397,1034.666554,16.736157,0.84,0.505277,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,eugenio-castellotti,Eugenio Castellotti,ferrari,6,,,0,6,1022.107504,1035.541355,13.433851,0.78,0.511323,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,mike-hawthorn,Mike Hawthorn,ferrari,6,87,12,0,7,1114.617825,1121.550259,6.932434,0.78,0.641351,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,mike-sparken,Mike Sparken,gordini,7,81,23,0,8,1000.0,1012.034365,12.034365,0.72,0.479313,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,lance-macklin,Lance Macklin,maserati,8,79,16,0,9,909.202349,925.623812,16.421463,0.68,0.351571,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,harry-schell,Harry Schell,vanwall,9,,,0,10,980.665936,989.095639,8.429703,0.62,0.451406,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,ken-wharton,Ken Wharton,vanwall,9,72,15,0,11,1016.238153,1022.096824,5.858672,0.62,0.502827,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,maurice-trintignant,Maurice Trintignant,ferrari,DNF,59,13,1,12,1091.069373,1088.601732,-2.467641,0.56,0.609353,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,roberto-mieres,Roberto Mieres,maserati,DNF,47,6,1,13,1047.47243,1046.07811,-1.39432,0.52,0.547886,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,jack-brabham,Jack Brabham,cooper,DNF,30,25,1,14,1000.0,999.034365,-0.965635,0.46,0.479313,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,kenneth-mcalpine,Kenneth McAlpine,connaught,DNF,30,17,1,15,971.758373,972.82724,1.068868,0.46,0.438623,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,peter-collins,Peter Collins,maserati,DNF,28,24,1,16,935.557244,936.18113,0.623886,0.4,0.387522,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,hermano-da-silva-ramos,Hermano da Silva Ramos,gordini,DNF,26,18,1,17,1004.019858,997.763283,-6.256575,0.36,0.485131,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,roy-salvadori,Roy Salvadori,maserati,DNF,23,20,1,18,942.972441,939.079917,-3.892525,0.32,0.39785,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,horace-gould,Horace Gould,maserati,DNF,22,22,1,19,988.605894,979.463622,-9.142271,0.28,0.462845,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,tony-rolt,Tony Rolt,connaught,DNF,19,14,1,20,983.651304,972.866165,-10.785139,0.24,0.455703,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,leslie-marr,Leslie Marr,connaught,DNF,18,19,1,21,1008.075188,993.524984,-14.550205,0.2,0.491004,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,andre-simon,André Simon,maserati,DNF,9,8,1,22,1002.583535,985.430933,-17.152602,0.14,0.483052,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,jean-behra,Jean Behra,maserati,DNF,9,3,1,23,1012.972967,995.068074,-17.904893,0.14,0.498098,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,robert-manzon,Robert Manzon,gordini,DNF,4,11,1,24,961.196207,944.018513,-17.177694,0.08,0.423554,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,peter-walker,Peter Walker,connaught,DNF,,,1,25,969.302637,949.547152,-19.755484,0.04,0.43511,50.0,26
-1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,jack-fairman,Jack Fairman,connaught,DNS,,21,2,26,989.165883,965.983207,-23.182676,0.0,0.463654,50.0,26
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,stirling-moss,Stirling Moss,mercedes,1,90,1,0,1,1057.101457,1079.018886,21.917429,1.0,0.561651,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,juan-manuel-fangio,Juan Manuel Fangio,mercedes,2,90,2,0,2,1268.619145,1275.802722,7.183578,0.96,0.816328,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,karl-kling,Karl Kling,mercedes,3,90,4,0,3,1034.94486,1054.451347,19.506488,0.92,0.52987,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,piero-taruffi,Piero Taruffi,mercedes,4,89,5,0,4,1077.428575,1091.909342,14.480767,0.88,0.590385,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,luigi-musso,Luigi Musso,maserati,5,89,9,0,5,1017.930397,1034.666554,16.736157,0.84,0.505277,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,eugenio-castellotti,Eugenio Castellotti,ferrari,6,,,0,6,1022.107504,1035.541355,13.433851,0.78,0.511323,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,mike-hawthorn,Mike Hawthorn,ferrari,6,87,12,0,7,1114.617825,1121.550259,6.932434,0.78,0.641351,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,mike-sparken,Mike Sparken,gordini,7,81,23,0,8,1000.0,1012.034365,12.034365,0.72,0.479313,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,lance-macklin,Lance Macklin,maserati,8,79,16,0,9,909.202349,925.623812,16.421463,0.68,0.351571,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,harry-schell,Harry Schell,vanwall,9,,,0,10,980.665936,989.095639,8.429703,0.62,0.451406,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,ken-wharton,Ken Wharton,vanwall,9,72,15,0,11,1016.238153,1022.096824,5.858672,0.62,0.502827,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,maurice-trintignant,Maurice Trintignant,ferrari,DNF,59,13,1,12,1091.069373,1088.601732,-2.467641,0.56,0.609353,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,roberto-mieres,Roberto Mieres,maserati,DNF,47,6,1,13,1047.47243,1046.07811,-1.39432,0.52,0.547886,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,jack-brabham,Jack Brabham,cooper,DNF,30,25,1,14,1000.0,999.034365,-0.965635,0.46,0.479313,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,kenneth-mcalpine,Kenneth McAlpine,connaught,DNF,30,17,1,15,971.758373,972.82724,1.068868,0.46,0.438623,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,peter-collins,Peter Collins,maserati,DNF,28,24,1,16,935.557244,936.18113,0.623886,0.4,0.387522,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,hermano-da-silva-ramos,Hermano da Silva Ramos,gordini,DNF,26,18,1,17,1004.019858,997.763283,-6.256575,0.36,0.485131,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,roy-salvadori,Roy Salvadori,maserati,DNF,23,20,1,18,942.972441,939.079917,-3.892525,0.32,0.39785,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,horace-gould,Horace Gould,maserati,DNF,22,22,1,19,988.605894,979.463622,-9.142271,0.28,0.462845,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,tony-rolt,Tony Rolt,connaught,DNF,19,14,1,20,983.651304,972.866165,-10.785139,0.24,0.455703,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,leslie-marr,Leslie Marr,connaught,DNF,18,19,1,21,1008.075188,993.524984,-14.550205,0.2,0.491004,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,andre-simon,André Simon,maserati,DNF,9,8,1,22,1002.583535,985.430933,-17.152602,0.14,0.483052,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,jean-behra,Jean Behra,maserati,DNF,9,3,1,23,1012.972967,995.068074,-17.904893,0.14,0.498098,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,robert-manzon,Robert Manzon,gordini,DNF,4,11,1,24,961.196207,944.018513,-17.177694,0.08,0.423554,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,peter-walker,Peter Walker,connaught,DNF,,,1,25,969.302637,949.547152,-19.755484,0.04,0.43511,50.0,26
+1955,6,1955-07-16,great-britain,1955 RAC British Grand Prix,47,jack-fairman,Jack Fairman,connaught,DNS,,21,2,26,989.165883,965.983207,-23.182676,0.0,0.463654,50.0,26

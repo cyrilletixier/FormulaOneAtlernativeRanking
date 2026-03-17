@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,max-verstappen,Max Verstappen,red-bull,1,50,2,0,1,1509.872455,1516.653252,6.780797,1.0,0.864384,50.0,20
-2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,george-russell,George Russell,mercedes,2,50,4,0,2,1394.703176,1403.379914,8.676738,0.947368,0.773834,50.0,20
-2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,kimi-antonelli,Kimi Antonelli,mercedes,3,50,17,0,3,1131.87068,1152.633188,20.762508,0.894737,0.479487,50.0,20
-2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,charles-leclerc,Charles Leclerc,ferrari,4,50,9,0,4,1330.671565,1337.168188,6.496623,0.842105,0.712173,50.0,20
-2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,carlos-sainz-jr,Carlos Sainz Jr.,williams,5,50,3,0,5,1118.136652,1134.50577,16.369118,0.789474,0.462091,50.0,20
-2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,isack-hadjar,Isack Hadjar,racing-bulls,6,50,8,0,6,1081.285208,1097.354117,16.068909,0.736842,0.415464,50.0,20
-2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,nico-hulkenberg,Nico Hülkenberg,kick-sauber,7,50,11,0,7,1050.242574,1065.620484,15.37791,0.684211,0.376652,50.0,20
-2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,lewis-hamilton,Lewis Hamilton,ferrari,8,50,19,0,8,1255.492096,1255.554467,0.062371,0.631579,0.630332,50.0,20
-2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,esteban-ocon,Esteban Ocon,haas,9,50,13,0,9,1041.081434,1051.761366,10.679933,0.578947,0.365349,50.0,20
-2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,oliver-bearman,Oliver Bearman,haas,10,50,14,0,10,1108.534289,1112.354051,3.819762,0.526316,0.449921,50.0,20
-2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,fernando-alonso,Fernando Alonso,aston-martin,11,50,7,0,11,1097.246368,1099.149408,1.90304,0.473684,0.435623,50.0,20
-2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,yuki-tsunoda,Yuki Tsunoda,red-bull,12,50,PL,0,12,1057.155594,1058.946532,1.790938,0.421053,0.385234,50.0,20
-2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,pierre-gasly,Pierre Gasly,alpine,13,50,10,0,13,1005.0153,1007.345926,2.330626,0.368421,0.321809,50.0,20
-2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,liam-lawson,Liam Lawson,racing-bulls,14,49,6,0,14,1057.090399,1053.622235,-3.468164,0.315789,0.385153,50.0,20
-2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,franco-colapinto,Franco Colapinto,alpine,15,49,15,0,15,941.479189,942.121673,0.642484,0.263158,0.250308,50.0,20
-2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,alexander-albon,Alexander Albon,williams,DNF,35,16,1,16,1090.92344,1080.068415,-10.855025,0.210526,0.427627,50.0,20
-2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,DNF,2,18,1,17,997.188589,989.453154,-7.735435,0.157895,0.312603,50.0,20
-2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,lance-stroll,Lance Stroll,aston-martin,DNF,0,12,1,18,1013.744092,1002.397964,-11.346128,0.105263,0.332186,50.0,20
-2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,lando-norris,Lando Norris,mclaren,DSQ,,1,2,19,1456.182699,1416.224641,-39.958058,0.026316,0.825477,50.0,20
-2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,oscar-piastri,Oscar Piastri,mclaren,DSQ,,5,2,20,1418.004978,1379.606031,-38.398947,0.026316,0.794295,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,1147,max-verstappen,Max Verstappen,red-bull,1,50,2,0,1,1509.872455,1516.653252,6.780797,1.0,0.864384,50.0,20
+2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,1147,george-russell,George Russell,mercedes,2,50,4,0,2,1394.703176,1403.379914,8.676738,0.947368,0.773834,50.0,20
+2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,1147,kimi-antonelli,Kimi Antonelli,mercedes,3,50,17,0,3,1131.87068,1152.633188,20.762508,0.894737,0.479487,50.0,20
+2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,1147,charles-leclerc,Charles Leclerc,ferrari,4,50,9,0,4,1330.671565,1337.168188,6.496623,0.842105,0.712173,50.0,20
+2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,1147,carlos-sainz-jr,Carlos Sainz Jr.,williams,5,50,3,0,5,1118.136652,1134.50577,16.369118,0.789474,0.462091,50.0,20
+2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,1147,isack-hadjar,Isack Hadjar,racing-bulls,6,50,8,0,6,1081.285208,1097.354117,16.068909,0.736842,0.415464,50.0,20
+2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,1147,nico-hulkenberg,Nico Hülkenberg,kick-sauber,7,50,11,0,7,1050.242574,1065.620484,15.37791,0.684211,0.376652,50.0,20
+2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,1147,lewis-hamilton,Lewis Hamilton,ferrari,8,50,19,0,8,1255.492096,1255.554467,0.062371,0.631579,0.630332,50.0,20
+2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,1147,esteban-ocon,Esteban Ocon,haas,9,50,13,0,9,1041.081434,1051.761366,10.679933,0.578947,0.365349,50.0,20
+2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,1147,oliver-bearman,Oliver Bearman,haas,10,50,14,0,10,1108.534289,1112.354051,3.819762,0.526316,0.449921,50.0,20
+2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,1147,fernando-alonso,Fernando Alonso,aston-martin,11,50,7,0,11,1097.246368,1099.149408,1.90304,0.473684,0.435623,50.0,20
+2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,1147,yuki-tsunoda,Yuki Tsunoda,red-bull,12,50,PL,0,12,1057.155594,1058.946532,1.790938,0.421053,0.385234,50.0,20
+2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,1147,pierre-gasly,Pierre Gasly,alpine,13,50,10,0,13,1005.0153,1007.345926,2.330626,0.368421,0.321809,50.0,20
+2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,1147,liam-lawson,Liam Lawson,racing-bulls,14,49,6,0,14,1057.090399,1053.622235,-3.468164,0.315789,0.385153,50.0,20
+2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,1147,franco-colapinto,Franco Colapinto,alpine,15,49,15,0,15,941.479189,942.121673,0.642484,0.263158,0.250308,50.0,20
+2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,1147,alexander-albon,Alexander Albon,williams,DNF,35,16,1,16,1090.92344,1080.068415,-10.855025,0.210526,0.427627,50.0,20
+2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,1147,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,DNF,2,18,1,17,997.188589,989.453154,-7.735435,0.157895,0.312603,50.0,20
+2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,1147,lance-stroll,Lance Stroll,aston-martin,DNF,0,12,1,18,1013.744092,1002.397964,-11.346128,0.105263,0.332186,50.0,20
+2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,1147,lando-norris,Lando Norris,mclaren,DSQ,,1,2,19,1456.182699,1416.224641,-39.958058,0.026316,0.825477,50.0,20
+2025,22,2025-11-22,las-vegas,Formula 1 Heineken Las Vegas Grand Prix 2025,1147,oscar-piastri,Oscar Piastri,mclaren,DSQ,,5,2,20,1418.004978,1379.606031,-38.398947,0.026316,0.794295,50.0,20

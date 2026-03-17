@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1993-09-12,1993,13,italy,jordan,Jordan,DNF,0,26,1000.0,985.590075,-14.409925,0.08,0.368198,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1993-09-12,1993,13,italy,545,jordan,Jordan,DNF,0,26,1000.0,985.590075,-14.409925,0.08,0.368198,50.0

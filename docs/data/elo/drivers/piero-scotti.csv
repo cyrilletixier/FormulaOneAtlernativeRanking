@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1956-06-03,1956,4,belgium,connaught,Connaught,DNF,10,16,1000.0,989.716598,-10.283402,0.233333,0.439001,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1956-06-03,1956,4,belgium,52,connaught,Connaught,DNF,10,16,1000.0,989.716598,-10.283402,0.233333,0.439001,50.0

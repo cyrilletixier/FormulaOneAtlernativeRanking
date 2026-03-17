@@ -1,8 +1,8 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1992-05-03,1992,4,spain,andrea-moda,Andrea Moda,DNPQ,,32,1000.0,986.818697,-13.181303,0.145161,0.408787,50.0
-1992-05-17,1992,5,san-marino,andrea-moda,Andrea Moda,DNPQ,,32,986.818697,974.524689,-12.294008,0.145161,0.391041,50.0
-1992-05-31,1992,6,monaco,andrea-moda,Andrea Moda,DNPQ,,32,974.524689,963.019832,-11.504857,0.145161,0.375258,50.0
-1992-07-12,1992,9,great-britain,andrea-moda,Andrea Moda,DNPQ,,32,963.019832,952.321291,-10.69854,0.145161,0.359132,50.0
-1992-07-26,1992,10,germany,andrea-moda,Andrea Moda,EX,,32,952.321291,941.454896,-10.866395,0.129032,0.34636,50.0
-1992-08-16,1992,11,hungary,andrea-moda,Andrea Moda,DNPQ,,31,941.454896,931.811276,-9.64362,0.133333,0.326206,50.0
-1992-08-30,1992,12,belgium,andrea-moda,Andrea Moda,DNQ,,30,931.811276,919.085095,-12.726182,0.051724,0.306248,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1992-05-03,1992,4,spain,520,andrea-moda,Andrea Moda,DNPQ,,32,1000.0,986.818697,-13.181303,0.145161,0.408787,50.0
+1992-05-17,1992,5,san-marino,521,andrea-moda,Andrea Moda,DNPQ,,32,986.818697,974.524689,-12.294008,0.145161,0.391041,50.0
+1992-05-31,1992,6,monaco,522,andrea-moda,Andrea Moda,DNPQ,,32,974.524689,963.019832,-11.504857,0.145161,0.375258,50.0
+1992-07-12,1992,9,great-britain,525,andrea-moda,Andrea Moda,DNPQ,,32,963.019832,952.321291,-10.69854,0.145161,0.359132,50.0
+1992-07-26,1992,10,germany,526,andrea-moda,Andrea Moda,EX,,32,952.321291,941.454896,-10.866395,0.129032,0.34636,50.0
+1992-08-16,1992,11,hungary,527,andrea-moda,Andrea Moda,DNPQ,,31,941.454896,931.811276,-9.64362,0.133333,0.326206,50.0
+1992-08-30,1992,12,belgium,528,andrea-moda,Andrea Moda,DNQ,,30,931.811276,919.085095,-12.726182,0.051724,0.306248,50.0

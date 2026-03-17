@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1953-08-23,1953,8,switzerland,hwm,HWM,9,49,23,1000.0,1006.645575,6.645575,0.590909,0.457998,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1953-08-23,1953,8,switzerland,31,hwm,HWM,9,49,23,1000.0,1006.645575,6.645575,0.590909,0.457998,50.0

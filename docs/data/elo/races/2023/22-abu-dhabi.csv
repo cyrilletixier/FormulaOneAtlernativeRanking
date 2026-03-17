@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,max-verstappen,Max Verstappen,red-bull,1,58,1,0,1,1580.217034,1584.575277,4.358243,1.0,0.912835,50.0,20
-2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,charles-leclerc,Charles Leclerc,ferrari,2,58,2,0,2,1268.252678,1283.278939,15.026261,0.947368,0.646843,50.0,20
-2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,george-russell,George Russell,mercedes,3,58,4,0,3,1246.398451,1260.099052,13.700601,0.894737,0.620725,50.0,20
-2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,sergio-perez,Sergio Pérez,red-bull,4,58,9,0,4,1329.80456,1336.107606,6.303046,0.842105,0.716044,50.0,20
-2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,lando-norris,Lando Norris,mclaren,5,58,5,0,5,1267.498716,1274.67469,7.175974,0.789474,0.645954,50.0,20
-2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,oscar-piastri,Oscar Piastri,mclaren,6,58,3,0,6,1107.598964,1122.206479,14.607515,0.736842,0.444692,50.0,20
-2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,fernando-alonso,Fernando Alonso,aston-martin,7,58,7,0,7,1230.907397,1235.027531,4.120133,0.684211,0.601808,50.0,20
-2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,yuki-tsunoda,Yuki Tsunoda,alphatauri,8,58,6,0,8,1004.951216,1020.658483,15.707267,0.631579,0.317434,50.0,20
-2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,lewis-hamilton,Lewis Hamilton,mercedes,9,58,11,0,9,1351.439692,1343.456945,-7.982747,0.578947,0.738602,50.0,20
-2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,lance-stroll,Lance Stroll,aston-martin,10,58,13,0,10,1110.107321,1114.027412,3.920091,0.526316,0.447914,50.0,20
-2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,daniel-ricciardo,Daniel Ricciardo,alphatauri,11,58,15,0,11,1083.152531,1086.164026,3.011495,0.473684,0.413454,50.0,20
-2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,esteban-ocon,Esteban Ocon,alpine,12,58,12,0,12,1126.268012,1123.884673,-2.383339,0.421053,0.468719,50.0,20
-2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,pierre-gasly,Pierre Gasly,alpine,13,58,10,0,13,1138.253425,1132.465638,-5.787787,0.368421,0.484177,50.0,20
-2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,alexander-albon,Alexander Albon,williams,14,58,14,0,14,1073.98497,1069.682287,-4.302683,0.315789,0.401843,50.0,20
-2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,nico-hulkenberg,Nico Hülkenberg,haas,15,58,8,0,15,999.578104,997.178176,-2.399928,0.263158,0.311156,50.0,20
-2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,logan-sargeant,Logan Sargeant,williams,16,58,20,0,16,948.514518,946.327905,-2.186613,0.210526,0.254259,50.0,20
-2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,guanyu-zhou,Guanyu Zhou,alfa-romeo,17,58,19,0,17,1000.18713,992.488595,-7.698534,0.157895,0.311865,50.0,20
-2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,18,57,16,0,18,1290.650189,1262.272174,-28.378015,0.105263,0.672823,50.0,20
-2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,valtteri-bottas,Valtteri Bottas,alfa-romeo,19,57,18,0,19,1029.941538,1015.210624,-14.730914,0.052632,0.34725,50.0,20
-2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,kevin-magnussen,Kevin Magnussen,haas,20,57,17,0,20,936.431794,924.35173,-12.080063,0.0,0.241601,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,1101,max-verstappen,Max Verstappen,red-bull,1,58,1,0,1,1580.217034,1584.575277,4.358243,1.0,0.912835,50.0,20
+2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,1101,charles-leclerc,Charles Leclerc,ferrari,2,58,2,0,2,1268.252678,1283.278939,15.026261,0.947368,0.646843,50.0,20
+2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,1101,george-russell,George Russell,mercedes,3,58,4,0,3,1246.398451,1260.099052,13.700601,0.894737,0.620725,50.0,20
+2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,1101,sergio-perez,Sergio Pérez,red-bull,4,58,9,0,4,1329.80456,1336.107606,6.303046,0.842105,0.716044,50.0,20
+2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,1101,lando-norris,Lando Norris,mclaren,5,58,5,0,5,1267.498716,1274.67469,7.175974,0.789474,0.645954,50.0,20
+2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,1101,oscar-piastri,Oscar Piastri,mclaren,6,58,3,0,6,1107.598964,1122.206479,14.607515,0.736842,0.444692,50.0,20
+2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,1101,fernando-alonso,Fernando Alonso,aston-martin,7,58,7,0,7,1230.907397,1235.027531,4.120133,0.684211,0.601808,50.0,20
+2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,1101,yuki-tsunoda,Yuki Tsunoda,alphatauri,8,58,6,0,8,1004.951216,1020.658483,15.707267,0.631579,0.317434,50.0,20
+2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,1101,lewis-hamilton,Lewis Hamilton,mercedes,9,58,11,0,9,1351.439692,1343.456945,-7.982747,0.578947,0.738602,50.0,20
+2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,1101,lance-stroll,Lance Stroll,aston-martin,10,58,13,0,10,1110.107321,1114.027412,3.920091,0.526316,0.447914,50.0,20
+2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,1101,daniel-ricciardo,Daniel Ricciardo,alphatauri,11,58,15,0,11,1083.152531,1086.164026,3.011495,0.473684,0.413454,50.0,20
+2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,1101,esteban-ocon,Esteban Ocon,alpine,12,58,12,0,12,1126.268012,1123.884673,-2.383339,0.421053,0.468719,50.0,20
+2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,1101,pierre-gasly,Pierre Gasly,alpine,13,58,10,0,13,1138.253425,1132.465638,-5.787787,0.368421,0.484177,50.0,20
+2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,1101,alexander-albon,Alexander Albon,williams,14,58,14,0,14,1073.98497,1069.682287,-4.302683,0.315789,0.401843,50.0,20
+2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,1101,nico-hulkenberg,Nico Hülkenberg,haas,15,58,8,0,15,999.578104,997.178176,-2.399928,0.263158,0.311156,50.0,20
+2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,1101,logan-sargeant,Logan Sargeant,williams,16,58,20,0,16,948.514518,946.327905,-2.186613,0.210526,0.254259,50.0,20
+2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,1101,guanyu-zhou,Guanyu Zhou,alfa-romeo,17,58,19,0,17,1000.18713,992.488595,-7.698534,0.157895,0.311865,50.0,20
+2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,1101,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,18,57,16,0,18,1290.650189,1262.272174,-28.378015,0.105263,0.672823,50.0,20
+2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,1101,valtteri-bottas,Valtteri Bottas,alfa-romeo,19,57,18,0,19,1029.941538,1015.210624,-14.730914,0.052632,0.34725,50.0,20
+2023,22,2023-11-26,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2023,1101,kevin-magnussen,Kevin Magnussen,haas,20,57,17,0,20,936.431794,924.35173,-12.080063,0.0,0.241601,50.0,20

@@ -1,4 +1,4 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1950-05-30,1950,3,indianapolis,kurtis-kraft,Kurtis Kraft,18,128,34,1000.0,997.727273,-2.272727,0.454545,0.5,50.0
-1951-05-30,1951,2,indianapolis,maserati,Maserati,32,15,34,997.727273,974.519665,-23.207608,0.030303,0.494455,50.0
-1952-05-30,1952,2,indianapolis,kurtis-kraft,Kurtis Kraft,21,182,33,974.519665,970.323318,-4.196346,0.375,0.458927,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1950-05-30,1950,3,indianapolis,3,kurtis-kraft,Kurtis Kraft,18,128,34,1000.0,997.727273,-2.272727,0.454545,0.5,50.0
+1951-05-30,1951,2,indianapolis,9,maserati,Maserati,32,15,34,997.727273,974.519665,-23.207608,0.030303,0.494455,50.0
+1952-05-30,1952,2,indianapolis,17,kurtis-kraft,Kurtis Kraft,21,182,33,974.519665,970.323318,-4.196346,0.375,0.458927,50.0

@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,michael-schumacher,Michael Schumacher,ferrari,1,71,2,0,1,1377.198375,1384.346382,7.148007,1.0,0.85704,50.0,22
-2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,ralf-schumacher,Ralf Schumacher,williams,2,71,3,0,2,1164.739004,1180.610851,15.871848,0.952381,0.634944,50.0,22
-2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,david-coulthard,David Coulthard,mclaren,3,71,4,0,3,1223.68288,1233.500973,9.818093,0.904762,0.7084,50.0,22
-2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,jenson-button,Jenson Button,renault,4,71,7,0,4,1044.430124,1063.859328,19.429204,0.857143,0.468559,50.0,22
-2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,juan-pablo-montoya,Juan Pablo Montoya,williams,5,71,1,0,5,1104.142098,1116.98132,12.839222,0.809524,0.552739,50.0,22
-2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,mika-salo,Mika Salo,toyota,6,70,10,0,6,1098.12098,1108.999827,10.878848,0.761905,0.544328,50.0,22
-2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,eddie-irvine,Eddie Irvine,jaguar,7,70,13,0,7,1033.101842,1046.187638,13.085796,0.714286,0.45257,50.0,22
-2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,pedro-de-la-rosa,Pedro de la Rosa,jaguar,8,70,11,0,8,1001.067647,1014.010912,12.943265,0.666667,0.407801,50.0,22
-2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,takuma-sato,Takuma Sato,jordan,9,69,19,0,9,1016.009315,1025.532855,9.52354,0.619048,0.428577,50.0,22
-2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,jacques-villeneuve,Jacques Villeneuve,bar,10,68,15,0,10,1125.438023,1124.899328,-0.538696,0.571429,0.582202,50.0,22
-2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,mark-webber,Mark Webber,minardi,11,68,20,0,11,1015.014866,1019.845965,4.831099,0.52381,0.427188,50.0,22
-2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,kimi-raikkonen,Kimi Räikkönen,mclaren,12,67,5,0,12,1031.251397,1032.56275,1.311353,0.47619,0.449963,50.0,22
-2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,alex-yoong,Alex Yoong,minardi,13,67,22,0,13,989.027713,990.894223,1.866509,0.428571,0.391241,50.0,22
-2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,nick-heidfeld,Nick Heidfeld,sauber,DNF,61,9,1,14,1043.540739,1039.223267,-4.317472,0.380952,0.467302,50.0,22
-2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,jarno-trulli,Jarno Trulli,renault,DNF,60,6,1,15,1008.244852,1004.023857,-4.220995,0.333333,0.417753,50.0,22
-2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,felipe-massa,Felipe Massa,sauber,DNF,41,12,1,16,1010.959551,1004.168709,-6.790843,0.285714,0.421531,50.0,22
-2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,allan-mcnish,Allan McNish,toyota,DNF,40,16,1,17,1008.578599,999.572496,-9.006103,0.238095,0.418217,50.0,22
-2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,heinz-harald-frentzen,Heinz-Harald Frentzen,arrows,DNF,25,18,1,18,1042.683102,1027.711938,-14.971164,0.166667,0.46609,50.0,22
-2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,olivier-panis,Olivier Panis,bar,DNF,25,17,1,19,1013.270678,1000.366366,-12.904312,0.166667,0.424753,50.0,22
-2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,enrique-bernoldi,Enrique Bernoldi,arrows,DNF,19,21,1,20,934.180196,923.005367,-11.174829,0.095238,0.318735,50.0,22
-2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,rubens-barrichello,Rubens Barrichello,ferrari,DNF,16,8,1,21,1207.608447,1175.531693,-32.076754,0.047619,0.689154,50.0,22
-2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,6,14,1,22,1046.095025,1022.549407,-23.545618,0.0,0.470912,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,683,michael-schumacher,Michael Schumacher,ferrari,1,71,2,0,1,1377.198375,1384.346382,7.148007,1.0,0.85704,50.0,22
+2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,683,ralf-schumacher,Ralf Schumacher,williams,2,71,3,0,2,1164.739004,1180.610851,15.871848,0.952381,0.634944,50.0,22
+2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,683,david-coulthard,David Coulthard,mclaren,3,71,4,0,3,1223.68288,1233.500973,9.818093,0.904762,0.7084,50.0,22
+2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,683,jenson-button,Jenson Button,renault,4,71,7,0,4,1044.430124,1063.859328,19.429204,0.857143,0.468559,50.0,22
+2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,683,juan-pablo-montoya,Juan Pablo Montoya,williams,5,71,1,0,5,1104.142098,1116.98132,12.839222,0.809524,0.552739,50.0,22
+2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,683,mika-salo,Mika Salo,toyota,6,70,10,0,6,1098.12098,1108.999827,10.878848,0.761905,0.544328,50.0,22
+2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,683,eddie-irvine,Eddie Irvine,jaguar,7,70,13,0,7,1033.101842,1046.187638,13.085796,0.714286,0.45257,50.0,22
+2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,683,pedro-de-la-rosa,Pedro de la Rosa,jaguar,8,70,11,0,8,1001.067647,1014.010912,12.943265,0.666667,0.407801,50.0,22
+2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,683,takuma-sato,Takuma Sato,jordan,9,69,19,0,9,1016.009315,1025.532855,9.52354,0.619048,0.428577,50.0,22
+2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,683,jacques-villeneuve,Jacques Villeneuve,bar,10,68,15,0,10,1125.438023,1124.899328,-0.538696,0.571429,0.582202,50.0,22
+2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,683,mark-webber,Mark Webber,minardi,11,68,20,0,11,1015.014866,1019.845965,4.831099,0.52381,0.427188,50.0,22
+2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,683,kimi-raikkonen,Kimi Räikkönen,mclaren,12,67,5,0,12,1031.251397,1032.56275,1.311353,0.47619,0.449963,50.0,22
+2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,683,alex-yoong,Alex Yoong,minardi,13,67,22,0,13,989.027713,990.894223,1.866509,0.428571,0.391241,50.0,22
+2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,683,nick-heidfeld,Nick Heidfeld,sauber,DNF,61,9,1,14,1043.540739,1039.223267,-4.317472,0.380952,0.467302,50.0,22
+2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,683,jarno-trulli,Jarno Trulli,renault,DNF,60,6,1,15,1008.244852,1004.023857,-4.220995,0.333333,0.417753,50.0,22
+2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,683,felipe-massa,Felipe Massa,sauber,DNF,41,12,1,16,1010.959551,1004.168709,-6.790843,0.285714,0.421531,50.0,22
+2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,683,allan-mcnish,Allan McNish,toyota,DNF,40,16,1,17,1008.578599,999.572496,-9.006103,0.238095,0.418217,50.0,22
+2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,683,heinz-harald-frentzen,Heinz-Harald Frentzen,arrows,DNF,25,18,1,18,1042.683102,1027.711938,-14.971164,0.166667,0.46609,50.0,22
+2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,683,olivier-panis,Olivier Panis,bar,DNF,25,17,1,19,1013.270678,1000.366366,-12.904312,0.166667,0.424753,50.0,22
+2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,683,enrique-bernoldi,Enrique Bernoldi,arrows,DNF,19,21,1,20,934.180196,923.005367,-11.174829,0.095238,0.318735,50.0,22
+2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,683,rubens-barrichello,Rubens Barrichello,ferrari,DNF,16,8,1,21,1207.608447,1175.531693,-32.076754,0.047619,0.689154,50.0,22
+2002,3,2002-03-31,brazil,Grande Prêmio do Brasil 2002,683,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,6,14,1,22,1046.095025,1022.549407,-23.545618,0.0,0.470912,50.0,22

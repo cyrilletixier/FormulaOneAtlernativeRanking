@@ -1,18 +1,18 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,jackie-stewart,Jackie Stewart,matra,1,84,2,0,1,1212.69307,1227.478553,14.785483,1.0,0.70429,50.0,17
-1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,jacky-ickx,Jacky Ickx,brabham,2,83,4,0,2,1083.717889,1104.285451,20.567562,0.9375,0.526149,50.0,17
-1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,bruce-mclaren,Bruce McLaren,mclaren,3,83,7,0,3,1116.868828,1131.906613,15.037785,0.875,0.574244,50.0,17
-1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,jochen-rindt,Jochen Rindt,lotus,4,83,1,0,4,980.139698,1001.938162,21.798463,0.8125,0.376531,50.0,17
-1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,piers-courage,Piers Courage,brabham,5,83,10,0,5,1014.756263,1030.977578,16.221315,0.75,0.425574,50.0,17
-1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,vic-elford,Vic Elford,mclaren,6,82,11,0,6,1031.757637,1043.624174,11.866537,0.6875,0.450169,50.0,17
-1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,graham-hill,Graham Hill,lotus,7,82,12,0,7,1154.601109,1154.475908,-0.125201,0.625,0.627504,50.0,17
-1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,jo-siffert,Jo Siffert,lotus,8,81,9,0,8,1114.288418,1113.886721,-0.401697,0.5625,0.570534,50.0,17
-1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,9,78,17,0,9,1089.60461,1087.867436,-1.737174,0.5,0.534743,50.0,17
-1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,john-miles,John Miles,lotus,10,75,14,0,10,980.456345,983.482782,3.026437,0.4375,0.376971,50.0,17
-1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,pedro-rodriguez,Pedro Rodríguez,ferrari,DNF,61,8,1,11,1092.03858,1083.873979,-8.164601,0.375,0.538292,50.0,17
-1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,chris-amon,Chris Amon,ferrari,DNF,45,5,1,12,1049.910348,1041.702821,-8.207528,0.3125,0.476651,50.0,17
-1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,denny-hulme,Denny Hulme,mclaren,DNF,27,3,1,13,1186.57595,1165.540897,-21.035053,0.25,0.670701,50.0,17
-1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,jackie-oliver,Jackie Oliver,brm,DNF,19,13,1,14,966.808162,958.275906,-8.532256,0.1875,0.358145,50.0,17
-1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,jo-bonnier,Jo Bonnier,lotus,DNF,6,16,1,15,1006.097497,991.689637,-14.40786,0.125,0.413157,50.0,17
-1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,derek-bell,Derek Bell,mclaren,DNF,5,15,1,16,973.419653,958.183517,-15.236136,0.0625,0.367223,50.0,17
-1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,john-surtees,John Surtees,brm,DNF,1,6,1,17,1072.08097,1046.624893,-25.456077,0.0,0.509122,50.0,17
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,179,jackie-stewart,Jackie Stewart,matra,1,84,2,0,1,1212.69307,1227.478553,14.785483,1.0,0.70429,50.0,17
+1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,179,jacky-ickx,Jacky Ickx,brabham,2,83,4,0,2,1083.717889,1104.285451,20.567562,0.9375,0.526149,50.0,17
+1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,179,bruce-mclaren,Bruce McLaren,mclaren,3,83,7,0,3,1116.868828,1131.906613,15.037785,0.875,0.574244,50.0,17
+1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,179,jochen-rindt,Jochen Rindt,lotus,4,83,1,0,4,980.139698,1001.938162,21.798463,0.8125,0.376531,50.0,17
+1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,179,piers-courage,Piers Courage,brabham,5,83,10,0,5,1014.756263,1030.977578,16.221315,0.75,0.425574,50.0,17
+1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,179,vic-elford,Vic Elford,mclaren,6,82,11,0,6,1031.757637,1043.624174,11.866537,0.6875,0.450169,50.0,17
+1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,179,graham-hill,Graham Hill,lotus,7,82,12,0,7,1154.601109,1154.475908,-0.125201,0.625,0.627504,50.0,17
+1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,179,jo-siffert,Jo Siffert,lotus,8,81,9,0,8,1114.288418,1113.886721,-0.401697,0.5625,0.570534,50.0,17
+1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,179,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,9,78,17,0,9,1089.60461,1087.867436,-1.737174,0.5,0.534743,50.0,17
+1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,179,john-miles,John Miles,lotus,10,75,14,0,10,980.456345,983.482782,3.026437,0.4375,0.376971,50.0,17
+1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,179,pedro-rodriguez,Pedro Rodríguez,ferrari,DNF,61,8,1,11,1092.03858,1083.873979,-8.164601,0.375,0.538292,50.0,17
+1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,179,chris-amon,Chris Amon,ferrari,DNF,45,5,1,12,1049.910348,1041.702821,-8.207528,0.3125,0.476651,50.0,17
+1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,179,denny-hulme,Denny Hulme,mclaren,DNF,27,3,1,13,1186.57595,1165.540897,-21.035053,0.25,0.670701,50.0,17
+1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,179,jackie-oliver,Jackie Oliver,brm,DNF,19,13,1,14,966.808162,958.275906,-8.532256,0.1875,0.358145,50.0,17
+1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,179,jo-bonnier,Jo Bonnier,lotus,DNF,6,16,1,15,1006.097497,991.689637,-14.40786,0.125,0.413157,50.0,17
+1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,179,derek-bell,Derek Bell,mclaren,DNF,5,15,1,16,973.419653,958.183517,-15.236136,0.0625,0.367223,50.0,17
+1969,6,1969-07-19,great-britain,1969 RAC British Grand Prix,179,john-surtees,John Surtees,brm,DNF,1,6,1,17,1072.08097,1046.624893,-25.456077,0.0,0.509122,50.0,17

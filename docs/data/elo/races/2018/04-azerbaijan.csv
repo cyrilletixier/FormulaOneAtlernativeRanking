@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,1,51,2,0,1,1516.338485,1521.824091,5.485606,1.0,0.890288,50.0,20
-2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,2,51,6,0,2,1276.001508,1289.08204,13.080532,0.947368,0.685758,50.0,20
-2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,sergio-perez,Sergio Pérez,force-india,3,51,8,0,3,1193.100913,1208.405082,15.304168,0.894737,0.588653,50.0,20
-2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,4,51,1,0,4,1394.454615,1396.454863,2.000248,0.842105,0.8021,50.0,20
-2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,renault,5,51,9,0,5,1063.517617,1081.816527,18.29891,0.789474,0.423495,50.0,20
-2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,charles-leclerc,Charles Leclerc,sauber,6,51,13,0,6,990.111019,1010.361303,20.250284,0.736842,0.331836,50.0,20
-2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,fernando-alonso,Fernando Alonso,mclaren,7,51,12,0,7,1093.732362,1104.824924,11.092562,0.684211,0.462359,50.0,20
-2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,lance-stroll,Lance Stroll,williams,8,51,10,0,8,1032.081026,1044.481548,12.400523,0.631579,0.383568,50.0,20
-2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,stoffel-vandoorne,Stoffel Vandoorne,mclaren,9,51,16,0,9,1033.978075,1043.62769,9.649615,0.578947,0.385955,50.0,20
-2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,brendon-hartley,Brendon Hartley,toro-rosso,10,51,19,0,10,952.969283,964.870995,11.901712,0.526316,0.288282,50.0,20
-2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,11,51,18,0,11,933.623157,943.975623,10.352466,0.473684,0.266635,50.0,20
-2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,pierre-gasly,Pierre Gasly,toro-rosso,12,51,17,0,12,1000.288308,1004.132521,3.844213,0.421053,0.344168,50.0,20
-2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,kevin-magnussen,Kevin Magnussen,haas,13,51,15,0,13,1044.70705,1043.152405,-1.554645,0.368421,0.399514,50.0,20
-2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,valtteri-bottas,Valtteri Bottas,mercedes,14,48,3,0,14,1377.742207,1354.156973,-23.585233,0.315789,0.787494,50.0,20
-2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,romain-grosjean,Romain Grosjean,haas,DNF,42,20,1,15,1027.551223,1021.81491,-5.736313,0.263158,0.377884,50.0,20
-2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,DNF,39,4,1,16,1248.353389,1224.834143,-23.519246,0.184211,0.654595,50.0,20
-2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,max-verstappen,Max Verstappen,red-bull,DNF,39,5,1,17,1216.418243,1194.777888,-21.640356,0.184211,0.617018,50.0,20
-2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,nico-hulkenberg,Nico Hülkenberg,renault,DNF,10,14,1,18,1106.639809,1087.952629,-18.68718,0.105263,0.479007,50.0,20
-2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,esteban-ocon,Esteban Ocon,force-india,DNF,0,7,1,19,1134.819079,1110.372419,-24.44666,0.026316,0.515249,50.0,20
-2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,sergey-sirotkin,Sergey Sirotkin,williams,DNF,0,11,1,20,976.960373,962.469164,-14.491209,0.026316,0.31614,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,980,lewis-hamilton,Lewis Hamilton,mercedes,1,51,2,0,1,1516.338485,1521.824091,5.485606,1.0,0.890288,50.0,20
+2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,980,kimi-raikkonen,Kimi Räikkönen,ferrari,2,51,6,0,2,1276.001508,1289.08204,13.080532,0.947368,0.685758,50.0,20
+2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,980,sergio-perez,Sergio Pérez,force-india,3,51,8,0,3,1193.100913,1208.405082,15.304168,0.894737,0.588653,50.0,20
+2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,980,sebastian-vettel,Sebastian Vettel,ferrari,4,51,1,0,4,1394.454615,1396.454863,2.000248,0.842105,0.8021,50.0,20
+2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,980,carlos-sainz-jr,Carlos Sainz Jr.,renault,5,51,9,0,5,1063.517617,1081.816527,18.29891,0.789474,0.423495,50.0,20
+2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,980,charles-leclerc,Charles Leclerc,sauber,6,51,13,0,6,990.111019,1010.361303,20.250284,0.736842,0.331836,50.0,20
+2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,980,fernando-alonso,Fernando Alonso,mclaren,7,51,12,0,7,1093.732362,1104.824924,11.092562,0.684211,0.462359,50.0,20
+2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,980,lance-stroll,Lance Stroll,williams,8,51,10,0,8,1032.081026,1044.481548,12.400523,0.631579,0.383568,50.0,20
+2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,980,stoffel-vandoorne,Stoffel Vandoorne,mclaren,9,51,16,0,9,1033.978075,1043.62769,9.649615,0.578947,0.385955,50.0,20
+2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,980,brendon-hartley,Brendon Hartley,toro-rosso,10,51,19,0,10,952.969283,964.870995,11.901712,0.526316,0.288282,50.0,20
+2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,980,marcus-ericsson,Marcus Ericsson,sauber,11,51,18,0,11,933.623157,943.975623,10.352466,0.473684,0.266635,50.0,20
+2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,980,pierre-gasly,Pierre Gasly,toro-rosso,12,51,17,0,12,1000.288308,1004.132521,3.844213,0.421053,0.344168,50.0,20
+2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,980,kevin-magnussen,Kevin Magnussen,haas,13,51,15,0,13,1044.70705,1043.152405,-1.554645,0.368421,0.399514,50.0,20
+2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,980,valtteri-bottas,Valtteri Bottas,mercedes,14,48,3,0,14,1377.742207,1354.156973,-23.585233,0.315789,0.787494,50.0,20
+2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,980,romain-grosjean,Romain Grosjean,haas,DNF,42,20,1,15,1027.551223,1021.81491,-5.736313,0.263158,0.377884,50.0,20
+2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,980,daniel-ricciardo,Daniel Ricciardo,red-bull,DNF,39,4,1,16,1248.353389,1224.834143,-23.519246,0.184211,0.654595,50.0,20
+2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,980,max-verstappen,Max Verstappen,red-bull,DNF,39,5,1,17,1216.418243,1194.777888,-21.640356,0.184211,0.617018,50.0,20
+2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,980,nico-hulkenberg,Nico Hülkenberg,renault,DNF,10,14,1,18,1106.639809,1087.952629,-18.68718,0.105263,0.479007,50.0,20
+2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,980,esteban-ocon,Esteban Ocon,force-india,DNF,0,7,1,19,1134.819079,1110.372419,-24.44666,0.026316,0.515249,50.0,20
+2018,4,2018-04-29,azerbaijan,Formula 1 2018 Rolex Azerbaijan Grand Prix,980,sergey-sirotkin,Sergey Sirotkin,williams,DNF,0,11,1,20,976.960373,962.469164,-14.491209,0.026316,0.31614,50.0,20

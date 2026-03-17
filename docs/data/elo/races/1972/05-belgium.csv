@@ -1,27 +1,27 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,emerson-fittipaldi,Emerson Fittipaldi,lotus,1,85,1,0,1,1144.518917,1161.828299,17.309383,1.0,0.653812,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,francois-cevert,François Cevert,tyrrell,2,85,5,0,2,1084.355386,1103.82765,19.472264,0.96,0.570555,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,denny-hulme,Denny Hulme,mclaren,3,85,3,0,3,1115.461544,1130.743992,15.282449,0.92,0.614351,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,mike-hailwood,Mike Hailwood,surtees,4,85,8,0,4,977.668387,1000.846542,23.178155,0.88,0.416437,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,carlos-pace,Carlos Pace,march,5,84,11,0,5,1009.17129,1028.087981,18.91669,0.84,0.461666,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,chris-amon,Chris Amon,matra,6,84,13,0,6,1094.743333,1105.47703,10.733697,0.8,0.585326,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,peter-revson,Peter Revson,mclaren,7,83,7,0,7,996.739396,1012.553692,15.814296,0.76,0.443714,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,howden-ganley,Howden Ganley,brm,8,83,15,0,8,995.30147,1009.219214,13.917744,0.72,0.441645,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,ronnie-peterson,Ronnie Peterson,march,9,83,14,0,9,1133.671755,1135.708061,2.036306,0.68,0.639274,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,helmut-marko,Helmut Marko,brm,10,83,23,0,10,1010.672245,1019.48023,8.807986,0.64,0.46384,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,rolf-stommelen,Rolf Stommelen,eifelland,11,83,20,0,11,1011.668548,1018.404345,6.735797,0.6,0.465284,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,niki-lauda,Niki Lauda,march,12,82,25,0,12,990.325949,996.600941,6.274992,0.56,0.4345,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,carlos-reutemann,Carlos Reutemann,brabham,13,81,9,0,13,996.229219,1000.080228,3.851009,0.52,0.44298,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,david-walker,David Walker,lotus,14,79,12,0,14,997.329887,999.101677,1.771789,0.48,0.444564,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,graham-hill,Graham Hill,brabham,DNF,73,16,1,15,1058.738062,1054.054052,-4.68401,0.44,0.53368,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,henri-pescarolo,Henri Pescarolo,march,NC,59,19,1,16,1049.479619,1043.467213,-6.012406,0.4,0.520248,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,clay-regazzoni,Clay Regazzoni,ferrari,DNF,57,2,1,17,1087.361368,1076.619264,-10.742104,0.36,0.574842,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,andrea-de-adamich,Andrea de Adamich,surtees,DNF,55,10,1,18,982.68521,977.506453,-5.178757,0.32,0.423575,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,nanni-galli,Nanni Galli,tecno,DNF,54,24,1,19,949.139258,944.314087,-4.825171,0.28,0.376503,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,jacky-ickx,Jacky Ickx,ferrari,DNF,47,4,1,20,1156.794358,1135.296477,-21.497881,0.24,0.669958,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,mike-beuttler,Mike Beuttler,march,DNF,31,22,1,21,959.394766,949.859005,-9.535761,0.2,0.390715,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,wilson-fittipaldi,Wilson Fittipaldi,brabham,DNF,28,18,1,22,1026.545366,1010.200867,-16.344499,0.16,0.48689,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,peter-gethin,Peter Gethin,brm,DNF,27,17,1,23,999.46361,983.081687,-16.381923,0.12,0.447638,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,jean-pierre-beltoise,Jean-Pierre Beltoise,brm,DNF,15,6,1,24,1108.088532,1081.883737,-26.204796,0.08,0.604096,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,tim-schenken,Tim Schenken,surtees,DNF,11,21,1,25,997.974889,977.700232,-20.274657,0.04,0.445493,50.0,26
-1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,vern-schuppan,Vern Schuppan,brm,DNS,,,2,26,1000.0,977.579408,-22.420592,0.0,0.448412,50.0,26
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,emerson-fittipaldi,Emerson Fittipaldi,lotus,1,85,1,0,1,1144.518917,1161.828299,17.309383,1.0,0.653812,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,francois-cevert,François Cevert,tyrrell,2,85,5,0,2,1084.355386,1103.82765,19.472264,0.96,0.570555,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,denny-hulme,Denny Hulme,mclaren,3,85,3,0,3,1115.461544,1130.743992,15.282449,0.92,0.614351,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,mike-hailwood,Mike Hailwood,surtees,4,85,8,0,4,977.668387,1000.846542,23.178155,0.88,0.416437,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,carlos-pace,Carlos Pace,march,5,84,11,0,5,1009.17129,1028.087981,18.91669,0.84,0.461666,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,chris-amon,Chris Amon,matra,6,84,13,0,6,1094.743333,1105.47703,10.733697,0.8,0.585326,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,peter-revson,Peter Revson,mclaren,7,83,7,0,7,996.739396,1012.553692,15.814296,0.76,0.443714,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,howden-ganley,Howden Ganley,brm,8,83,15,0,8,995.30147,1009.219214,13.917744,0.72,0.441645,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,ronnie-peterson,Ronnie Peterson,march,9,83,14,0,9,1133.671755,1135.708061,2.036306,0.68,0.639274,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,helmut-marko,Helmut Marko,brm,10,83,23,0,10,1010.672245,1019.48023,8.807986,0.64,0.46384,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,rolf-stommelen,Rolf Stommelen,eifelland,11,83,20,0,11,1011.668548,1018.404345,6.735797,0.6,0.465284,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,niki-lauda,Niki Lauda,march,12,82,25,0,12,990.325949,996.600941,6.274992,0.56,0.4345,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,carlos-reutemann,Carlos Reutemann,brabham,13,81,9,0,13,996.229219,1000.080228,3.851009,0.52,0.44298,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,david-walker,David Walker,lotus,14,79,12,0,14,997.329887,999.101677,1.771789,0.48,0.444564,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,graham-hill,Graham Hill,brabham,DNF,73,16,1,15,1058.738062,1054.054052,-4.68401,0.44,0.53368,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,henri-pescarolo,Henri Pescarolo,march,NC,59,19,1,16,1049.479619,1043.467213,-6.012406,0.4,0.520248,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,clay-regazzoni,Clay Regazzoni,ferrari,DNF,57,2,1,17,1087.361368,1076.619264,-10.742104,0.36,0.574842,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,andrea-de-adamich,Andrea de Adamich,surtees,DNF,55,10,1,18,982.68521,977.506453,-5.178757,0.32,0.423575,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,nanni-galli,Nanni Galli,tecno,DNF,54,24,1,19,949.139258,944.314087,-4.825171,0.28,0.376503,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,jacky-ickx,Jacky Ickx,ferrari,DNF,47,4,1,20,1156.794358,1135.296477,-21.497881,0.24,0.669958,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,mike-beuttler,Mike Beuttler,march,DNF,31,22,1,21,959.394766,949.859005,-9.535761,0.2,0.390715,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,wilson-fittipaldi,Wilson Fittipaldi,brabham,DNF,28,18,1,22,1026.545366,1010.200867,-16.344499,0.16,0.48689,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,peter-gethin,Peter Gethin,brm,DNF,27,17,1,23,999.46361,983.081687,-16.381923,0.12,0.447638,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,jean-pierre-beltoise,Jean-Pierre Beltoise,brm,DNF,15,6,1,24,1108.088532,1081.883737,-26.204796,0.08,0.604096,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,tim-schenken,Tim Schenken,surtees,DNF,11,21,1,25,997.974889,977.700232,-20.274657,0.04,0.445493,50.0,26
+1972,5,1972-06-04,belgium,1972 Belgian Grand Prix,213,vern-schuppan,Vern Schuppan,brm,DNS,,,2,26,1000.0,977.579408,-22.420592,0.0,0.448412,50.0,26

@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1950-06-04,1950,4,switzerland,maserati,Maserati,7,39,18,1000.0,1007.804599,7.804599,0.647059,0.490967,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1950-06-04,1950,4,switzerland,4,maserati,Maserati,7,39,18,1000.0,1007.804599,7.804599,0.647059,0.490967,50.0

@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1976-10-24,1976,16,japan,wolf-williams,Wolf-Williams,DNS,,27,1000.0,979.565786,-20.434214,0.0,0.408684,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1976-10-24,1976,16,japan,280,wolf-williams,Wolf-Williams,DNS,,27,1000.0,979.565786,-20.434214,0.0,0.408684,50.0

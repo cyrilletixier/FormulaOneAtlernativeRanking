@@ -1,20 +1,20 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,stirling-moss,Stirling Moss,vanwall,1,,,0,1,1105.307109,1123.45389,18.146781,0.972222,0.609287,50.0,19
-1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,tony-brooks,Tony Brooks,vanwall,1,90,3,0,2,999.796278,1025.511249,25.714971,0.972222,0.457923,50.0,19
-1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,luigi-musso,Luigi Musso,ferrari,2,90,10,0,3,1040.150788,1058.767776,18.616988,0.888889,0.516549,50.0,19
-1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,mike-hawthorn,Mike Hawthorn,ferrari,3,90,5,0,4,1051.153782,1066.196269,15.042487,0.833333,0.532484,50.0,19
-1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,maurice-trintignant,Maurice Trintignant,ferrari,4,88,9,0,5,1023.924688,1036.776067,12.851379,0.75,0.492972,50.0,19
-1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,peter-collins,Peter Collins,ferrari,4,,,0,6,1061.436328,1071.570992,10.134665,0.75,0.547307,50.0,19
-1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,roy-salvadori,Roy Salvadori,cooper,5,85,15,0,7,925.460575,941.143362,15.682787,0.666667,0.353011,50.0,19
-1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,bob-gerard,Bob Gerard,cooper,6,82,18,0,8,1026.057635,1031.80948,5.751845,0.611111,0.496074,50.0,19
-1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,stuart-lewis-evans,Stuart Lewis-Evans,vanwall,7,82,6,0,9,1013.847059,1017.708915,3.861856,0.555556,0.478318,50.0,19
-1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,ivor-bueb,Ivor Bueb,maserati,8,71,19,0,10,998.465503,1000.665745,2.200242,0.5,0.455995,50.0,19
-1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,jack-brabham,Jack Brabham,cooper,DNF,74,13,1,11,998.915138,998.305042,-0.610096,0.444444,0.456646,50.0,19
-1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,jean-behra,Jean Behra,maserati,DNF,69,2,1,12,1112.479975,1100.966711,-11.513264,0.388889,0.619154,50.0,19
-1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,juan-manuel-fangio,Juan Manuel Fangio,maserati,DNF,49,4,1,13,1325.765838,1299.756847,-26.008991,0.333333,0.853513,50.0,19
-1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,jack-fairman,Jack Fairman,brm,DNF,46,16,1,14,1005.660687,996.22822,-9.432467,0.277778,0.466427,50.0,19
-1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,les-leston,Les Leston,brm,DNF,44,12,1,15,966.034296,956.67423,-9.360066,0.222222,0.409424,50.0,19
-1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,harry-schell,Harry Schell,maserati,DNF,39,7,1,16,1022.627917,1006.406924,-16.220993,0.166667,0.491087,50.0,19
-1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,carlos-menditeguy,Carlos Menditéguy,maserati,DNF,35,11,1,17,980.991559,965.007709,-15.98385,0.111111,0.430788,50.0,19
-1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,jo-bonnier,Jo Bonnier,maserati,DNF,18,17,1,18,978.846169,960.238458,-18.607711,0.055556,0.42771,50.0,19
-1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,horace-gould,Horace Gould,maserati,DNS,,14,2,19,963.1491,942.882539,-20.266562,0.0,0.405331,50.0,19
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,61,stirling-moss,Stirling Moss,vanwall,1,,,0,1,1105.307109,1123.45389,18.146781,0.972222,0.609287,50.0,19
+1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,61,tony-brooks,Tony Brooks,vanwall,1,90,3,0,2,999.796278,1025.511249,25.714971,0.972222,0.457923,50.0,19
+1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,61,luigi-musso,Luigi Musso,ferrari,2,90,10,0,3,1040.150788,1058.767776,18.616988,0.888889,0.516549,50.0,19
+1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,61,mike-hawthorn,Mike Hawthorn,ferrari,3,90,5,0,4,1051.153782,1066.196269,15.042487,0.833333,0.532484,50.0,19
+1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,61,maurice-trintignant,Maurice Trintignant,ferrari,4,88,9,0,5,1023.924688,1036.776067,12.851379,0.75,0.492972,50.0,19
+1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,61,peter-collins,Peter Collins,ferrari,4,,,0,6,1061.436328,1071.570992,10.134665,0.75,0.547307,50.0,19
+1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,61,roy-salvadori,Roy Salvadori,cooper,5,85,15,0,7,925.460575,941.143362,15.682787,0.666667,0.353011,50.0,19
+1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,61,bob-gerard,Bob Gerard,cooper,6,82,18,0,8,1026.057635,1031.80948,5.751845,0.611111,0.496074,50.0,19
+1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,61,stuart-lewis-evans,Stuart Lewis-Evans,vanwall,7,82,6,0,9,1013.847059,1017.708915,3.861856,0.555556,0.478318,50.0,19
+1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,61,ivor-bueb,Ivor Bueb,maserati,8,71,19,0,10,998.465503,1000.665745,2.200242,0.5,0.455995,50.0,19
+1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,61,jack-brabham,Jack Brabham,cooper,DNF,74,13,1,11,998.915138,998.305042,-0.610096,0.444444,0.456646,50.0,19
+1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,61,jean-behra,Jean Behra,maserati,DNF,69,2,1,12,1112.479975,1100.966711,-11.513264,0.388889,0.619154,50.0,19
+1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,61,juan-manuel-fangio,Juan Manuel Fangio,maserati,DNF,49,4,1,13,1325.765838,1299.756847,-26.008991,0.333333,0.853513,50.0,19
+1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,61,jack-fairman,Jack Fairman,brm,DNF,46,16,1,14,1005.660687,996.22822,-9.432467,0.277778,0.466427,50.0,19
+1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,61,les-leston,Les Leston,brm,DNF,44,12,1,15,966.034296,956.67423,-9.360066,0.222222,0.409424,50.0,19
+1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,61,harry-schell,Harry Schell,maserati,DNF,39,7,1,16,1022.627917,1006.406924,-16.220993,0.166667,0.491087,50.0,19
+1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,61,carlos-menditeguy,Carlos Menditéguy,maserati,DNF,35,11,1,17,980.991559,965.007709,-15.98385,0.111111,0.430788,50.0,19
+1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,61,jo-bonnier,Jo Bonnier,maserati,DNF,18,17,1,18,978.846169,960.238458,-18.607711,0.055556,0.42771,50.0,19
+1957,5,1957-07-20,great-britain,1957 RAC British Grand Prix,61,horace-gould,Horace Gould,maserati,DNS,,14,2,19,963.1491,942.882539,-20.266562,0.0,0.405331,50.0,19

@@ -1,7 +1,7 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1975-04-27,1975,4,spain,ensign,Ensign,DNF,20,26,1000.0,1002.944341,2.944341,0.48,0.421113,50.0
-1975-05-11,1975,5,monaco,ensign,Ensign,DNQ,,26,1002.944341,988.809963,-14.134378,0.14,0.422688,50.0
-1975-07-19,1975,10,great-britain,ensign,Ensign,DNQ,,28,988.809963,968.978836,-19.831127,0.018519,0.415141,50.0
-1975-08-17,1975,12,austria,ensign,Ensign,NC,25,30,968.978836,970.237452,1.258616,0.413793,0.388621,50.0
-1975-09-07,1975,13,italy,ensign,Ensign,DNQ,,28,970.237452,951.76801,-18.469442,0.018519,0.387907,50.0
-1975-10-05,1975,14,united-states,ensign,Ensign,DNF,41,24,951.76801,955.963403,4.195393,0.434783,0.350875,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1975-04-27,1975,4,spain,254,ensign,Ensign,DNF,20,26,1000.0,1002.944341,2.944341,0.48,0.421113,50.0
+1975-05-11,1975,5,monaco,255,ensign,Ensign,DNQ,,26,1002.944341,988.809963,-14.134378,0.14,0.422688,50.0
+1975-07-19,1975,10,great-britain,260,ensign,Ensign,DNQ,,28,988.809963,968.978836,-19.831127,0.018519,0.415141,50.0
+1975-08-17,1975,12,austria,262,ensign,Ensign,NC,25,30,968.978836,970.237452,1.258616,0.413793,0.388621,50.0
+1975-09-07,1975,13,italy,263,ensign,Ensign,DNQ,,28,970.237452,951.76801,-18.469442,0.018519,0.387907,50.0
+1975-10-05,1975,14,united-states,264,ensign,Ensign,DNF,41,24,951.76801,955.963403,4.195393,0.434783,0.350875,50.0

@@ -1,24 +1,24 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1970,1,1970-03-07,south-africa,South African Grand Prix 1970,jack-brabham,Jack Brabham,brabham,1,80,3,0,1,1093.082085,1115.20117,22.119085,1.0,0.557618,50.0,23
-1970,1,1970-03-07,south-africa,South African Grand Prix 1970,denny-hulme,Denny Hulme,mclaren,2,80,6,0,2,1139.675872,1156.253642,16.57777,0.954545,0.62299,50.0,23
-1970,1,1970-03-07,south-africa,South African Grand Prix 1970,jackie-stewart,Jackie Stewart,march,3,80,1,0,3,1215.288788,1224.721886,9.433098,0.909091,0.720429,50.0,23
-1970,1,1970-03-07,south-africa,South African Grand Prix 1970,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,4,80,8,0,4,1118.337953,1131.849201,13.511248,0.863636,0.593411,50.0,23
-1970,1,1970-03-07,south-africa,South African Grand Prix 1970,john-miles,John Miles,lotus,5,79,14,0,5,958.304484,980.9347,22.630216,0.818182,0.365577,50.0,23
-1970,1,1970-03-07,south-africa,South African Grand Prix 1970,graham-hill,Graham Hill,lotus,6,79,19,0,6,1151.579918,1158.25839,6.678472,0.772727,0.639158,50.0,23
-1970,1,1970-03-07,south-africa,South African Grand Prix 1970,henri-pescarolo,Henri Pescarolo,matra,7,78,18,0,7,1014.925603,1029.045805,14.120202,0.727273,0.444869,50.0,23
-1970,1,1970-03-07,south-africa,South African Grand Prix 1970,john-love,John Love,lotus,8,78,22,0,8,1014.759401,1026.618786,11.859386,0.681818,0.44463,50.0,23
-1970,1,1970-03-07,south-africa,South African Grand Prix 1970,pedro-rodriguez,Pedro Rodríguez,brm,9,76,16,0,9,1099.684458,1103.150562,3.466104,0.636364,0.567042,50.0,23
-1970,1,1970-03-07,south-africa,South African Grand Prix 1970,jo-siffert,Jo Siffert,march,10,75,9,0,10,1063.469685,1067.266329,3.796644,0.590909,0.514976,50.0,23
-1970,1,1970-03-07,south-africa,South African Grand Prix 1970,peter-de-klerk,Peter de Klerk,brabham,11,75,21,0,11,1011.750102,1017.00677,5.256668,0.545455,0.440321,50.0,23
-1970,1,1970-03-07,south-africa,South African Grand Prix 1970,dave-charlton,Dave Charlton,lotus,12,73,13,0,12,983.467124,988.453457,4.986333,0.5,0.400273,50.0,23
-1970,1,1970-03-07,south-africa,South African Grand Prix 1970,jochen-rindt,Jochen Rindt,lotus,13,72,4,0,13,1061.974995,1059.061589,-2.913407,0.454545,0.512814,50.0,23
-1970,1,1970-03-07,south-africa,South African Grand Prix 1970,jacky-ickx,Jacky Ickx,ferrari,DNF,60,5,1,14,1149.018778,1136.551879,-12.466899,0.386364,0.635702,50.0,23
-1970,1,1970-03-07,south-africa,South African Grand Prix 1970,john-surtees,John Surtees,mclaren,DNF,60,7,1,15,1028.201246,1024.3215,-3.879746,0.386364,0.463959,50.0,23
-1970,1,1970-03-07,south-africa,South African Grand Prix 1970,george-eaton,George Eaton,brm,DNF,58,23,1,16,991.501373,986.832776,-4.668597,0.318182,0.411554,50.0,23
-1970,1,1970-03-07,south-africa,South African Grand Prix 1970,johnny-servoz-gavin,Johnny Servoz-Gavin,march,DNF,57,17,1,17,1038.479498,1028.175731,-10.303766,0.272727,0.478803,50.0,23
-1970,1,1970-03-07,south-africa,South African Grand Prix 1970,bruce-mclaren,Bruce McLaren,mclaren,DNF,39,10,1,18,1100.846707,1082.639178,-18.20753,0.204545,0.568696,50.0,23
-1970,1,1970-03-07,south-africa,South African Grand Prix 1970,piers-courage,Piers Courage,de-tomaso,DNF,39,20,1,19,1047.538913,1033.170551,-14.368362,0.204545,0.491913,50.0,23
-1970,1,1970-03-07,south-africa,South African Grand Prix 1970,mario-andretti,Mario Andretti,march,DNF,26,11,1,20,935.495708,925.55712,-9.938589,0.136364,0.335135,50.0,23
-1970,1,1970-03-07,south-africa,South African Grand Prix 1970,rolf-stommelen,Rolf Stommelen,brabham,DNF,23,15,1,21,1013.871609,996.249144,-17.622465,0.090909,0.443358,50.0,23
-1970,1,1970-03-07,south-africa,South African Grand Prix 1970,jackie-oliver,Jackie Oliver,brm,DNF,22,12,1,22,956.62945,940.736846,-15.892604,0.045455,0.363307,50.0,23
-1970,1,1970-03-07,south-africa,South African Grand Prix 1970,chris-amon,Chris Amon,march,DNF,14,2,1,23,1041.702821,1017.52956,-24.173261,0.0,0.483465,50.0,23
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1970,1,1970-03-07,south-africa,South African Grand Prix 1970,185,jack-brabham,Jack Brabham,brabham,1,80,3,0,1,1093.082085,1115.20117,22.119085,1.0,0.557618,50.0,23
+1970,1,1970-03-07,south-africa,South African Grand Prix 1970,185,denny-hulme,Denny Hulme,mclaren,2,80,6,0,2,1139.675872,1156.253642,16.57777,0.954545,0.62299,50.0,23
+1970,1,1970-03-07,south-africa,South African Grand Prix 1970,185,jackie-stewart,Jackie Stewart,march,3,80,1,0,3,1215.288788,1224.721886,9.433098,0.909091,0.720429,50.0,23
+1970,1,1970-03-07,south-africa,South African Grand Prix 1970,185,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,4,80,8,0,4,1118.337953,1131.849201,13.511248,0.863636,0.593411,50.0,23
+1970,1,1970-03-07,south-africa,South African Grand Prix 1970,185,john-miles,John Miles,lotus,5,79,14,0,5,958.304484,980.9347,22.630216,0.818182,0.365577,50.0,23
+1970,1,1970-03-07,south-africa,South African Grand Prix 1970,185,graham-hill,Graham Hill,lotus,6,79,19,0,6,1151.579918,1158.25839,6.678472,0.772727,0.639158,50.0,23
+1970,1,1970-03-07,south-africa,South African Grand Prix 1970,185,henri-pescarolo,Henri Pescarolo,matra,7,78,18,0,7,1014.925603,1029.045805,14.120202,0.727273,0.444869,50.0,23
+1970,1,1970-03-07,south-africa,South African Grand Prix 1970,185,john-love,John Love,lotus,8,78,22,0,8,1014.759401,1026.618786,11.859386,0.681818,0.44463,50.0,23
+1970,1,1970-03-07,south-africa,South African Grand Prix 1970,185,pedro-rodriguez,Pedro Rodríguez,brm,9,76,16,0,9,1099.684458,1103.150562,3.466104,0.636364,0.567042,50.0,23
+1970,1,1970-03-07,south-africa,South African Grand Prix 1970,185,jo-siffert,Jo Siffert,march,10,75,9,0,10,1063.469685,1067.266329,3.796644,0.590909,0.514976,50.0,23
+1970,1,1970-03-07,south-africa,South African Grand Prix 1970,185,peter-de-klerk,Peter de Klerk,brabham,11,75,21,0,11,1011.750102,1017.00677,5.256668,0.545455,0.440321,50.0,23
+1970,1,1970-03-07,south-africa,South African Grand Prix 1970,185,dave-charlton,Dave Charlton,lotus,12,73,13,0,12,983.467124,988.453457,4.986333,0.5,0.400273,50.0,23
+1970,1,1970-03-07,south-africa,South African Grand Prix 1970,185,jochen-rindt,Jochen Rindt,lotus,13,72,4,0,13,1061.974995,1059.061589,-2.913407,0.454545,0.512814,50.0,23
+1970,1,1970-03-07,south-africa,South African Grand Prix 1970,185,jacky-ickx,Jacky Ickx,ferrari,DNF,60,5,1,14,1149.018778,1136.551879,-12.466899,0.386364,0.635702,50.0,23
+1970,1,1970-03-07,south-africa,South African Grand Prix 1970,185,john-surtees,John Surtees,mclaren,DNF,60,7,1,15,1028.201246,1024.3215,-3.879746,0.386364,0.463959,50.0,23
+1970,1,1970-03-07,south-africa,South African Grand Prix 1970,185,george-eaton,George Eaton,brm,DNF,58,23,1,16,991.501373,986.832776,-4.668597,0.318182,0.411554,50.0,23
+1970,1,1970-03-07,south-africa,South African Grand Prix 1970,185,johnny-servoz-gavin,Johnny Servoz-Gavin,march,DNF,57,17,1,17,1038.479498,1028.175731,-10.303766,0.272727,0.478803,50.0,23
+1970,1,1970-03-07,south-africa,South African Grand Prix 1970,185,bruce-mclaren,Bruce McLaren,mclaren,DNF,39,10,1,18,1100.846707,1082.639178,-18.20753,0.204545,0.568696,50.0,23
+1970,1,1970-03-07,south-africa,South African Grand Prix 1970,185,piers-courage,Piers Courage,de-tomaso,DNF,39,20,1,19,1047.538913,1033.170551,-14.368362,0.204545,0.491913,50.0,23
+1970,1,1970-03-07,south-africa,South African Grand Prix 1970,185,mario-andretti,Mario Andretti,march,DNF,26,11,1,20,935.495708,925.55712,-9.938589,0.136364,0.335135,50.0,23
+1970,1,1970-03-07,south-africa,South African Grand Prix 1970,185,rolf-stommelen,Rolf Stommelen,brabham,DNF,23,15,1,21,1013.871609,996.249144,-17.622465,0.090909,0.443358,50.0,23
+1970,1,1970-03-07,south-africa,South African Grand Prix 1970,185,jackie-oliver,Jackie Oliver,brm,DNF,22,12,1,22,956.62945,940.736846,-15.892604,0.045455,0.363307,50.0,23
+1970,1,1970-03-07,south-africa,South African Grand Prix 1970,185,chris-amon,Chris Amon,march,DNF,14,2,1,23,1041.702821,1017.52956,-24.173261,0.0,0.483465,50.0,23

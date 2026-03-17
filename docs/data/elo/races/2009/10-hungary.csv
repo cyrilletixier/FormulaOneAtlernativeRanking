@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,lewis-hamilton,Lewis Hamilton,mclaren,1,70,4,0,1,1181.809024,1201.771237,19.962212,1.0,0.600756,50.0,20
-2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,kimi-raikkonen,Kimi Räikkönen,ferrari,2,70,7,0,2,1182.295316,1199.593111,17.297795,0.947368,0.601413,50.0,20
-2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,mark-webber,Mark Webber,red-bull,3,70,3,0,3,1202.546186,1215.858481,13.312294,0.894737,0.628491,50.0,20
-2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,nico-rosberg,Nico Rosberg,williams,4,70,5,0,4,1156.38344,1170.184962,13.801522,0.842105,0.566075,50.0,20
-2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,heikki-kovalainen,Heikki Kovalainen,mclaren,5,70,6,0,5,1073.057263,1089.99922,16.941957,0.789474,0.450635,50.0,20
-2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,timo-glock,Timo Glock,toyota,6,70,13,0,6,1147.539447,1156.687315,9.147868,0.736842,0.553885,50.0,20
-2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,jenson-button,Jenson Button,brawn,7,70,8,0,7,1200.201514,1203.142788,2.941273,0.684211,0.625385,50.0,20
-2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,jarno-trulli,Jarno Trulli,toyota,8,70,11,0,8,1111.077831,1117.4926,6.414769,0.631579,0.503284,50.0,20
-2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,kazuki-nakajima,Kazuki Nakajima,williams,9,70,9,0,9,987.582923,999.657037,12.074114,0.578947,0.337465,50.0,20
-2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,rubens-barrichello,Rubens Barrichello,brawn,10,70,12,0,10,1137.699535,1137.001877,-0.697657,0.526316,0.540269,50.0,20
-2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,nick-heidfeld,Nick Heidfeld,bmw-sauber,11,70,15,0,11,1172.396989,1166.681626,-5.715363,0.473684,0.587991,50.0,20
-2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,nelson-piquet-jr,Nelson Piquet Jr.,renault,12,70,14,0,12,989.042611,993.130246,4.087635,0.421053,0.3393,50.0,20
-2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,robert-kubica,Robert Kubica,bmw-sauber,13,70,18,0,13,1119.809691,1112.459469,-7.350222,0.368421,0.515425,50.0,20
-2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,giancarlo-fisichella,Giancarlo Fisichella,force-india,14,69,16,0,14,972.864607,972.693846,-0.170761,0.315789,0.319205,50.0,20
-2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,jaime-alguersuari,Jaime Alguersuari,toro-rosso,15,69,19,0,15,1000.0,995.497699,-4.502301,0.263158,0.353204,50.0,20
-2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,sebastien-buemi,Sébastien Buemi,toro-rosso,16,69,10,0,16,959.436856,954.815821,-4.621035,0.210526,0.302947,50.0,20
-2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,sebastian-vettel,Sebastian Vettel,red-bull,DNF,29,2,1,17,1179.358286,1157.380942,-21.977345,0.157895,0.597442,50.0,20
-2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,fernando-alonso,Fernando Alonso,renault,DNF,15,1,1,18,1251.181351,1221.906726,-29.274625,0.105263,0.690756,50.0,20
-2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,adrian-sutil,Adrian Sutil,force-india,DNF,1,17,1,19,858.231487,851.128537,-7.10295,0.052632,0.194691,50.0,20
-2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,felipe-massa,Felipe Massa,ferrari,DNS,,,2,20,1251.691261,1217.122079,-34.569182,0.0,0.691384,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,813,lewis-hamilton,Lewis Hamilton,mclaren,1,70,4,0,1,1181.809024,1201.771237,19.962212,1.0,0.600756,50.0,20
+2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,813,kimi-raikkonen,Kimi Räikkönen,ferrari,2,70,7,0,2,1182.295316,1199.593111,17.297795,0.947368,0.601413,50.0,20
+2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,813,mark-webber,Mark Webber,red-bull,3,70,3,0,3,1202.546186,1215.858481,13.312294,0.894737,0.628491,50.0,20
+2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,813,nico-rosberg,Nico Rosberg,williams,4,70,5,0,4,1156.38344,1170.184962,13.801522,0.842105,0.566075,50.0,20
+2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,813,heikki-kovalainen,Heikki Kovalainen,mclaren,5,70,6,0,5,1073.057263,1089.99922,16.941957,0.789474,0.450635,50.0,20
+2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,813,timo-glock,Timo Glock,toyota,6,70,13,0,6,1147.539447,1156.687315,9.147868,0.736842,0.553885,50.0,20
+2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,813,jenson-button,Jenson Button,brawn,7,70,8,0,7,1200.201514,1203.142788,2.941273,0.684211,0.625385,50.0,20
+2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,813,jarno-trulli,Jarno Trulli,toyota,8,70,11,0,8,1111.077831,1117.4926,6.414769,0.631579,0.503284,50.0,20
+2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,813,kazuki-nakajima,Kazuki Nakajima,williams,9,70,9,0,9,987.582923,999.657037,12.074114,0.578947,0.337465,50.0,20
+2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,813,rubens-barrichello,Rubens Barrichello,brawn,10,70,12,0,10,1137.699535,1137.001877,-0.697657,0.526316,0.540269,50.0,20
+2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,813,nick-heidfeld,Nick Heidfeld,bmw-sauber,11,70,15,0,11,1172.396989,1166.681626,-5.715363,0.473684,0.587991,50.0,20
+2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,813,nelson-piquet-jr,Nelson Piquet Jr.,renault,12,70,14,0,12,989.042611,993.130246,4.087635,0.421053,0.3393,50.0,20
+2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,813,robert-kubica,Robert Kubica,bmw-sauber,13,70,18,0,13,1119.809691,1112.459469,-7.350222,0.368421,0.515425,50.0,20
+2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,813,giancarlo-fisichella,Giancarlo Fisichella,force-india,14,69,16,0,14,972.864607,972.693846,-0.170761,0.315789,0.319205,50.0,20
+2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,813,jaime-alguersuari,Jaime Alguersuari,toro-rosso,15,69,19,0,15,1000.0,995.497699,-4.502301,0.263158,0.353204,50.0,20
+2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,813,sebastien-buemi,Sébastien Buemi,toro-rosso,16,69,10,0,16,959.436856,954.815821,-4.621035,0.210526,0.302947,50.0,20
+2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,813,sebastian-vettel,Sebastian Vettel,red-bull,DNF,29,2,1,17,1179.358286,1157.380942,-21.977345,0.157895,0.597442,50.0,20
+2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,813,fernando-alonso,Fernando Alonso,renault,DNF,15,1,1,18,1251.181351,1221.906726,-29.274625,0.105263,0.690756,50.0,20
+2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,813,adrian-sutil,Adrian Sutil,force-india,DNF,1,17,1,19,858.231487,851.128537,-7.10295,0.052632,0.194691,50.0,20
+2009,10,2009-07-26,hungary,Formula 1 ING Magyar Nagydíj 2009,813,felipe-massa,Felipe Massa,ferrari,DNS,,,2,20,1251.691261,1217.122079,-34.569182,0.0,0.691384,50.0,20

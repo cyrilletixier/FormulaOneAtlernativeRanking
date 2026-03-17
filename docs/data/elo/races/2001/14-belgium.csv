@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,michael-schumacher,Michael Schumacher,ferrari,1,36,3,0,1,1342.484995,1351.287407,8.802412,1.0,0.823952,50.0,22
-2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,david-coulthard,David Coulthard,mclaren,2,36,9,0,2,1268.376964,1278.374668,9.997704,0.952381,0.752427,50.0,22
-2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,benetton,3,36,8,0,3,1037.014988,1059.520019,22.505031,0.904762,0.454661,50.0,22
-2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,mika-hakkinen,Mika Häkkinen,mclaren,4,36,7,0,4,1174.560024,1185.325704,10.76568,0.857143,0.641829,50.0,22
-2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,rubens-barrichello,Rubens Barrichello,ferrari,5,36,5,0,5,1248.814986,1252.736192,3.921206,0.809524,0.7311,50.0,22
-2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,jean-alesi,Jean Alesi,jordan,6,36,13,0,6,1076.870391,1089.459872,12.589481,0.761905,0.510115,50.0,22
-2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,ralf-schumacher,Ralf Schumacher,williams,7,36,2,0,7,1167.808978,1171.866197,4.05722,0.714286,0.633141,50.0,22
-2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,jacques-villeneuve,Jacques Villeneuve,bar,8,36,6,0,8,1121.86767,1126.595726,4.728056,0.666667,0.572106,50.0,22
-2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,heinz-harald-frentzen,Heinz-Harald Frentzen,prost,9,35,4,0,9,1061.646543,1068.152701,6.506158,0.619048,0.488924,50.0,22
-2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,jos-verstappen,Jos Verstappen,arrows,10,35,19,0,10,1033.665468,1039.736056,6.070588,0.571429,0.450017,50.0,22
-2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,olivier-panis,Olivier Panis,bar,11,35,11,0,11,1031.453075,1035.295942,3.842866,0.52381,0.446952,50.0,22
-2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,enrique-bernoldi,Enrique Bernoldi,arrows,12,35,21,0,12,945.771917,952.970022,7.198106,0.47619,0.332228,50.0,22
-2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,tarso-marques,Tarso Marques,minardi,13,32,22,0,13,934.852192,940.358123,5.505931,0.428571,0.318453,50.0,22
-2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,jarno-trulli,Jarno Trulli,jordan,DNF,31,16,1,14,1015.269146,1013.085296,-2.18385,0.380952,0.424629,50.0,22
-2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,jenson-button,Jenson Button,benetton,DNF,17,15,1,15,1033.5331,1027.708098,-5.825003,0.333333,0.449833,50.0,22
-2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,1,1,1,16,1029.828964,1020.688993,-9.139971,0.261905,0.444704,50.0,22
-2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,jaguar,DNF,1,10,1,17,963.860985,959.178158,-4.682827,0.261905,0.355561,50.0,22
-2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,eddie-irvine,Eddie Irvine,jaguar,DNF,0,17,1,18,1054.188825,1035.023801,-19.165024,0.095238,0.478539,50.0,22
-2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,fernando-alonso,Fernando Alonso,minardi,DNF,0,20,1,19,959.027179,946.325721,-12.701458,0.095238,0.349267,50.0,22
-2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,kimi-raikkonen,Kimi Räikkönen,sauber,DNF,0,12,1,20,1077.272947,1056.501111,-20.771837,0.095238,0.510675,50.0,22
-2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,luciano-burti,Luciano Burti,prost,DNF,0,18,1,21,998.406458,983.087926,-15.318532,0.095238,0.401609,50.0,22
-2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,nick-heidfeld,Nick Heidfeld,sauber,DNF,0,14,1,22,1018.650019,1001.948082,-16.701937,0.095238,0.429277,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,677,michael-schumacher,Michael Schumacher,ferrari,1,36,3,0,1,1342.484995,1351.287407,8.802412,1.0,0.823952,50.0,22
+2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,677,david-coulthard,David Coulthard,mclaren,2,36,9,0,2,1268.376964,1278.374668,9.997704,0.952381,0.752427,50.0,22
+2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,677,giancarlo-fisichella,Giancarlo Fisichella,benetton,3,36,8,0,3,1037.014988,1059.520019,22.505031,0.904762,0.454661,50.0,22
+2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,677,mika-hakkinen,Mika Häkkinen,mclaren,4,36,7,0,4,1174.560024,1185.325704,10.76568,0.857143,0.641829,50.0,22
+2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,677,rubens-barrichello,Rubens Barrichello,ferrari,5,36,5,0,5,1248.814986,1252.736192,3.921206,0.809524,0.7311,50.0,22
+2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,677,jean-alesi,Jean Alesi,jordan,6,36,13,0,6,1076.870391,1089.459872,12.589481,0.761905,0.510115,50.0,22
+2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,677,ralf-schumacher,Ralf Schumacher,williams,7,36,2,0,7,1167.808978,1171.866197,4.05722,0.714286,0.633141,50.0,22
+2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,677,jacques-villeneuve,Jacques Villeneuve,bar,8,36,6,0,8,1121.86767,1126.595726,4.728056,0.666667,0.572106,50.0,22
+2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,677,heinz-harald-frentzen,Heinz-Harald Frentzen,prost,9,35,4,0,9,1061.646543,1068.152701,6.506158,0.619048,0.488924,50.0,22
+2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,677,jos-verstappen,Jos Verstappen,arrows,10,35,19,0,10,1033.665468,1039.736056,6.070588,0.571429,0.450017,50.0,22
+2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,677,olivier-panis,Olivier Panis,bar,11,35,11,0,11,1031.453075,1035.295942,3.842866,0.52381,0.446952,50.0,22
+2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,677,enrique-bernoldi,Enrique Bernoldi,arrows,12,35,21,0,12,945.771917,952.970022,7.198106,0.47619,0.332228,50.0,22
+2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,677,tarso-marques,Tarso Marques,minardi,13,32,22,0,13,934.852192,940.358123,5.505931,0.428571,0.318453,50.0,22
+2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,677,jarno-trulli,Jarno Trulli,jordan,DNF,31,16,1,14,1015.269146,1013.085296,-2.18385,0.380952,0.424629,50.0,22
+2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,677,jenson-button,Jenson Button,benetton,DNF,17,15,1,15,1033.5331,1027.708098,-5.825003,0.333333,0.449833,50.0,22
+2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,677,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,1,1,1,16,1029.828964,1020.688993,-9.139971,0.261905,0.444704,50.0,22
+2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,677,pedro-de-la-rosa,Pedro de la Rosa,jaguar,DNF,1,10,1,17,963.860985,959.178158,-4.682827,0.261905,0.355561,50.0,22
+2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,677,eddie-irvine,Eddie Irvine,jaguar,DNF,0,17,1,18,1054.188825,1035.023801,-19.165024,0.095238,0.478539,50.0,22
+2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,677,fernando-alonso,Fernando Alonso,minardi,DNF,0,20,1,19,959.027179,946.325721,-12.701458,0.095238,0.349267,50.0,22
+2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,677,kimi-raikkonen,Kimi Räikkönen,sauber,DNF,0,12,1,20,1077.272947,1056.501111,-20.771837,0.095238,0.510675,50.0,22
+2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,677,luciano-burti,Luciano Burti,prost,DNF,0,18,1,21,998.406458,983.087926,-15.318532,0.095238,0.401609,50.0,22
+2001,14,2001-09-02,belgium,2001 Foster's Belgian Grand Prix,677,nick-heidfeld,Nick Heidfeld,sauber,DNF,0,14,1,22,1018.650019,1001.948082,-16.701937,0.095238,0.429277,50.0,22

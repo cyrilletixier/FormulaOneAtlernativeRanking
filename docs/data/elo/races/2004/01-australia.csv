@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,michael-schumacher,Michael Schumacher,ferrari,1,58,1,0,1,1413.355349,1420.0661,6.710751,1.0,0.865785,50.0,20
-2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,rubens-barrichello,Rubens Barrichello,ferrari,2,58,2,0,2,1203.462087,1218.077741,14.615653,0.947368,0.655055,50.0,20
-2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,fernando-alonso,Fernando Alonso,renault,3,58,5,0,3,1072.114018,1092.999117,20.885099,0.894737,0.477035,50.0,20
-2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,ralf-schumacher,Ralf Schumacher,williams,4,58,8,0,4,1190.708091,1200.874859,10.166767,0.842105,0.63877,50.0,20
-2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,juan-pablo-montoya,Juan Pablo Montoya,williams,5,58,3,0,5,1226.403268,1231.701302,5.298034,0.789474,0.683513,50.0,20
-2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,jenson-button,Jenson Button,bar,6,58,4,0,6,1064.340392,1077.874297,13.533905,0.736842,0.466164,50.0,20
-2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,jarno-trulli,Jarno Trulli,renault,7,57,9,0,7,1091.309975,1100.325883,9.015908,0.684211,0.503892,50.0,20
-2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,david-coulthard,David Coulthard,mclaren,8,57,12,0,8,1187.119158,1186.991513,-0.127646,0.631579,0.634132,50.0,20
-2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,takuma-sato,Takuma Sato,bar,9,57,7,0,9,1039.65411,1047.011798,7.357688,0.578947,0.431794,50.0,20
-2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,sauber,10,57,14,0,10,987.937455,996.174875,8.23742,0.526316,0.361567,50.0,20
-2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,christian-klien,Christian Klien,jaguar,11,56,19,0,11,1000.0,1004.80223,4.80223,0.473684,0.37764,50.0,20
-2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,cristiano-da-matta,Cristiano da Matta,toyota,12,56,13,0,12,1052.594211,1051.158253,-1.435959,0.421053,0.449772,50.0,20
-2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,olivier-panis,Olivier Panis,toyota,13,56,18,0,13,992.332094,992.383315,0.051222,0.368421,0.367397,50.0,20
-2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,giorgio-pantano,Giorgio Pantano,jordan,14,55,16,0,14,1000.0,996.907493,-3.092507,0.315789,0.37764,50.0,20
-2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,felipe-massa,Felipe Massa,sauber,DNF,44,11,1,15,1021.672525,1014.479183,-7.193342,0.263158,0.407025,50.0,20
-2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,nick-heidfeld,Nick Heidfeld,jordan,DNF,43,15,1,16,1080.06685,1066.184966,-13.881884,0.210526,0.488164,50.0,20
-2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,gianmaria-bruni,Gianmaria Bruni,minardi,NC,43,20,1,17,1000.0,989.012756,-10.987244,0.157895,0.37764,50.0,20
-2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,mark-webber,Mark Webber,jaguar,DNF,29,6,1,18,1032.236604,1016.4227,-15.813905,0.105263,0.421541,50.0,20
-2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,zsolt-baumgartner,Zsolt Baumgartner,minardi,DNF,13,17,1,19,995.222823,979.292018,-15.930804,0.052632,0.371248,50.0,20
-2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,9,10,1,20,1194.955239,1162.743851,-32.211388,0.0,0.644228,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,714,michael-schumacher,Michael Schumacher,ferrari,1,58,1,0,1,1413.355349,1420.0661,6.710751,1.0,0.865785,50.0,20
+2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,714,rubens-barrichello,Rubens Barrichello,ferrari,2,58,2,0,2,1203.462087,1218.077741,14.615653,0.947368,0.655055,50.0,20
+2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,714,fernando-alonso,Fernando Alonso,renault,3,58,5,0,3,1072.114018,1092.999117,20.885099,0.894737,0.477035,50.0,20
+2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,714,ralf-schumacher,Ralf Schumacher,williams,4,58,8,0,4,1190.708091,1200.874859,10.166767,0.842105,0.63877,50.0,20
+2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,714,juan-pablo-montoya,Juan Pablo Montoya,williams,5,58,3,0,5,1226.403268,1231.701302,5.298034,0.789474,0.683513,50.0,20
+2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,714,jenson-button,Jenson Button,bar,6,58,4,0,6,1064.340392,1077.874297,13.533905,0.736842,0.466164,50.0,20
+2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,714,jarno-trulli,Jarno Trulli,renault,7,57,9,0,7,1091.309975,1100.325883,9.015908,0.684211,0.503892,50.0,20
+2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,714,david-coulthard,David Coulthard,mclaren,8,57,12,0,8,1187.119158,1186.991513,-0.127646,0.631579,0.634132,50.0,20
+2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,714,takuma-sato,Takuma Sato,bar,9,57,7,0,9,1039.65411,1047.011798,7.357688,0.578947,0.431794,50.0,20
+2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,714,giancarlo-fisichella,Giancarlo Fisichella,sauber,10,57,14,0,10,987.937455,996.174875,8.23742,0.526316,0.361567,50.0,20
+2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,714,christian-klien,Christian Klien,jaguar,11,56,19,0,11,1000.0,1004.80223,4.80223,0.473684,0.37764,50.0,20
+2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,714,cristiano-da-matta,Cristiano da Matta,toyota,12,56,13,0,12,1052.594211,1051.158253,-1.435959,0.421053,0.449772,50.0,20
+2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,714,olivier-panis,Olivier Panis,toyota,13,56,18,0,13,992.332094,992.383315,0.051222,0.368421,0.367397,50.0,20
+2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,714,giorgio-pantano,Giorgio Pantano,jordan,14,55,16,0,14,1000.0,996.907493,-3.092507,0.315789,0.37764,50.0,20
+2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,714,felipe-massa,Felipe Massa,sauber,DNF,44,11,1,15,1021.672525,1014.479183,-7.193342,0.263158,0.407025,50.0,20
+2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,714,nick-heidfeld,Nick Heidfeld,jordan,DNF,43,15,1,16,1080.06685,1066.184966,-13.881884,0.210526,0.488164,50.0,20
+2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,714,gianmaria-bruni,Gianmaria Bruni,minardi,NC,43,20,1,17,1000.0,989.012756,-10.987244,0.157895,0.37764,50.0,20
+2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,714,mark-webber,Mark Webber,jaguar,DNF,29,6,1,18,1032.236604,1016.4227,-15.813905,0.105263,0.421541,50.0,20
+2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,714,zsolt-baumgartner,Zsolt Baumgartner,minardi,DNF,13,17,1,19,995.222823,979.292018,-15.930804,0.052632,0.371248,50.0,20
+2004,1,2004-03-07,australia,2004 Foster's Australian Grand Prix,714,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,9,10,1,20,1194.955239,1162.743851,-32.211388,0.0,0.644228,50.0,20

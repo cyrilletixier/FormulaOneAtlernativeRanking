@@ -1,6 +1,6 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1957-08-04,1957,6,germany,cooper,Cooper,15,17,24,1000.0,996.613464,-3.386536,0.391304,0.459035,50.0
-1958-08-03,1958,8,germany,cooper,Cooper,8,15,26,996.613464,1009.619246,13.005782,0.72,0.459884,50.0
-1961-06-18,1961,3,belgium,lotus,Lotus,DNS,,26,1009.619246,990.747598,-18.871648,0.08,0.457433,50.0
-1961-07-15,1961,5,great-britain,lotus,Lotus,DNF,25,30,990.747598,980.413255,-10.334344,0.241379,0.448066,50.0
-1961-08-06,1961,6,germany,lotus,Lotus,15,13,27,980.413255,982.686715,2.273461,0.461538,0.416069,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1957-08-04,1957,6,germany,62,cooper,Cooper,15,17,24,1000.0,996.613464,-3.386536,0.391304,0.459035,50.0
+1958-08-03,1958,8,germany,72,cooper,Cooper,8,15,26,996.613464,1009.619246,13.005782,0.72,0.459884,50.0
+1961-06-18,1961,3,belgium,97,lotus,Lotus,DNS,,26,1009.619246,990.747598,-18.871648,0.08,0.457433,50.0
+1961-07-15,1961,5,great-britain,99,lotus,Lotus,DNF,25,30,990.747598,980.413255,-10.334344,0.241379,0.448066,50.0
+1961-08-06,1961,6,germany,100,lotus,Lotus,15,13,27,980.413255,982.686715,2.273461,0.461538,0.416069,50.0

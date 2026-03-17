@@ -16,106 +16,92 @@ function createSvgEl(tag) {
     return document.createElementNS('http://www.w3.org/2000/svg', tag);
 }
 
-function renderEloChart(container, points) {
-    clearChart(container);
-
-    if (!points.length) {
-        container.textContent = 'Aucune donnée.';
-        return;
+function hashToHue(str) {
+    // Deterministic hash -> hue [0..359]
+    let h = 0;
+    for (let i = 0; i < str.length; i++) {
+        h = (h * 31 + (str.codePointAt(i) || 0)) >>> 0;
     }
+    return h % 360;
+}
 
-    const width = 1000;
-    const height = 320;
-    const pad = 40;
+function teamFill(teamKey) {
+    if (!teamKey) return 'rgba(0,0,0,0.03)';
+    const hue = hashToHue(teamKey);
+    return `hsl(${hue} 45% 92%)`;
+}
 
-    const GAP_SHADE_DAYS = 90; // griser si >= 90 jours sans course
-    const GAP_BREAK_LINE_DAYS = 90; // couper la courbe si >= 90 jours
-    const dayMs = 24 * 60 * 60 * 1000;
-
-    const ys = points.map(p => p.elo);
-    const ts = points.map(p => p.t);
-
-    const minY = Math.min(...ys);
-    const maxY = Math.max(...ys);
-    const spanY = Math.max(1e-9, maxY - minY);
-
-    const minT = Math.min(...ts);
-    const maxT = Math.max(...ts);
-    const spanT = Math.max(1, maxT - minT);
-
-    const xScale = (t) => pad + (t - minT) * ((width - 2 * pad) / spanT);
-    const yScale = (y) => (height - pad) - (y - minY) * ((height - 2 * pad) / spanY);
-
-    const svg = createSvgEl('svg');
-    svg.setAttribute('viewBox', `0 0 ${width} ${height}`);
-    svg.setAttribute('class', 'elo-svg');
-
-    // Background: gaps (periods without races)
+function addGapRects(svg, points, xScale, pad, width, height, gapShadeRaces) {
     const gapsGroup = createSvgEl('g');
     svg.appendChild(gapsGroup);
 
     for (let i = 1; i < points.length; i++) {
         const prev = points[i - 1];
         const curr = points[i];
-        const gapDays = (curr.t - prev.t) / dayMs;
-        if (gapDays >= GAP_SHADE_DAYS) {
-            const x1 = (xScale(prev.t) + xScale(curr.t)) / 2;
-            // Shade between the midpoints; use a bit of padding for readability
-            const left = x1 - Math.min(80, (xScale(curr.t) - xScale(prev.t)) / 2);
-            const right = x1 + Math.min(80, (xScale(curr.t) - xScale(prev.t)) / 2);
+        const gapRaces = curr.raceNo - prev.raceNo;
+        if (gapRaces >= gapShadeRaces) {
+            const left = xScale(prev.raceNo);
+            const right = xScale(curr.raceNo);
 
             const rect = createSvgEl('rect');
-            rect.setAttribute('x', Math.max(pad, left));
+            rect.setAttribute('x', left);
             rect.setAttribute('y', pad);
-            rect.setAttribute('width', Math.max(0, Math.min(width - pad, right) - Math.max(pad, left)));
+            rect.setAttribute('width', Math.max(0, right - left));
             rect.setAttribute('height', height - 2 * pad);
             rect.setAttribute('class', 'elo-gap');
             gapsGroup.appendChild(rect);
         }
     }
+}
 
-    // Background bands by constructor period
-    const bandsGroup = createSvgEl('g');
-    svg.appendChild(bandsGroup);
-
+function buildTeamSegments(points) {
     const segments = [];
     let segStart = 0;
     for (let i = 1; i <= points.length; i++) {
         const prev = points[i - 1];
         const curr = points[i];
-        if (i === points.length || (curr && curr.team !== prev.team)) {
+        const prevKey = prev?.teamKey || '';
+        const currKey = curr?.teamKey || '';
+        if (i === points.length || (curr && currKey !== prevKey)) {
             segments.push({
                 start: segStart,
                 end: i - 1,
-                team: prev.team || '',
+                team: prev?.team || '',
+                teamKey: prevKey,
             });
             segStart = i;
         }
     }
+    return segments;
+}
+
+function addTeamBands(svg, points, xScale, pad, width, height) {
+    const bandsGroup = createSvgEl('g');
+    svg.appendChild(bandsGroup);
 
     function bandBounds(startIndex, endIndex) {
-        const startT = points[startIndex].t;
-        const endT = points[endIndex].t;
-        const xStart = xScale(startT);
-        const xEnd = xScale(endT);
+        const xStart = xScale(points[startIndex].raceNo);
+        const xEnd = xScale(points[endIndex].raceNo);
 
         const leftMid = startIndex === 0
             ? pad
-            : (xScale(points[startIndex - 1].t) + xStart) / 2;
+            : (xScale(points[startIndex - 1].raceNo) + xStart) / 2;
         const rightMid = endIndex === points.length - 1
             ? (width - pad)
-            : (xEnd + xScale(points[endIndex + 1].t)) / 2;
+            : (xEnd + xScale(points[endIndex + 1].raceNo)) / 2;
         return { x1: Math.max(pad, leftMid), x2: Math.min(width - pad, rightMid) };
     }
 
-    segments.forEach((s, idx) => {
+    const segments = buildTeamSegments(points);
+    segments.forEach((s) => {
         const { x1, x2 } = bandBounds(s.start, s.end);
         const rect = createSvgEl('rect');
         rect.setAttribute('x', x1);
         rect.setAttribute('y', pad);
         rect.setAttribute('width', Math.max(0, x2 - x1));
         rect.setAttribute('height', height - 2 * pad);
-        rect.setAttribute('class', idx % 2 === 0 ? 'elo-band-a' : 'elo-band-b');
+        rect.setAttribute('class', 'elo-band');
+        rect.style.fill = teamFill(s.teamKey);
         bandsGroup.appendChild(rect);
 
         if (s.team) {
@@ -128,43 +114,16 @@ function renderEloChart(container, points) {
             bandsGroup.appendChild(tx);
         }
     });
+}
 
-    // Axes
+function addAxes(svg, pad, width, height) {
     const axis = createSvgEl('path');
     axis.setAttribute('d', `M ${pad} ${pad} L ${pad} ${height - pad} L ${width - pad} ${height - pad}`);
     axis.setAttribute('class', 'elo-axis');
     svg.appendChild(axis);
+}
 
-    // Line
-    let d = '';
-    for (let i = 0; i < points.length; i++) {
-        const p = points[i];
-        const x = xScale(p.t);
-        const y = yScale(p.elo);
-
-        const isFirst = i === 0;
-        const gapDays = isFirst ? 0 : (p.t - points[i - 1].t) / dayMs;
-        const cmd = (isFirst || gapDays >= GAP_BREAK_LINE_DAYS) ? 'M' : 'L';
-        d += `${cmd} ${x} ${y} `;
-    }
-
-    const line = createSvgEl('path');
-    line.setAttribute('d', d);
-    line.setAttribute('class', 'elo-line');
-    svg.appendChild(line);
-
-    // Dots
-    for (const p of points) {
-        const c = createSvgEl('circle');
-        c.setAttribute('cx', xScale(p.t));
-        c.setAttribute('cy', yScale(p.elo));
-        c.setAttribute('r', 3);
-        c.setAttribute('class', 'elo-dot');
-        c.dataset.label = p.label;
-        svg.appendChild(c);
-    }
-
-    // Min/Max labels
+function addMinMaxLabels(svg, pad, height, minY, maxY) {
     const labelMin = createSvgEl('text');
     labelMin.setAttribute('x', 8);
     labelMin.setAttribute('y', height - pad);
@@ -178,17 +137,90 @@ function renderEloChart(container, points) {
     labelMax.setAttribute('class', 'elo-label');
     labelMax.textContent = Math.round(maxY);
     svg.appendChild(labelMax);
+}
+
+function addMainLine(svg, points, xScale, yScale) {
+    let mainD = '';
+    for (let i = 0; i < points.length; i++) {
+        const p = points[i];
+        const x = xScale(p.raceNo);
+        const y = yScale(p.elo);
+        const isFirst = i === 0;
+        const gapRaces = isFirst ? 1 : (p.raceNo - points[i - 1].raceNo);
+        const cmd = (isFirst || gapRaces > 1) ? 'M' : 'L';
+        mainD += `${cmd} ${x} ${y} `;
+    }
+
+    const line = createSvgEl('path');
+    line.setAttribute('d', mainD);
+    line.setAttribute('class', 'elo-line');
+    svg.appendChild(line);
+}
+
+function addOffLines(svg, points, xScale, yScale) {
+    let offD = '';
+    for (let i = 1; i < points.length; i++) {
+        const prev = points[i - 1];
+        const curr = points[i];
+        const gap = curr.raceNo - prev.raceNo;
+        if (gap > 1) {
+            const xPrev = xScale(prev.raceNo);
+            const xCurr = xScale(curr.raceNo);
+            const yPrev = yScale(prev.elo);
+            const yCurr = yScale(curr.elo);
+            offD += `M ${xPrev} ${yPrev} L ${xCurr} ${yPrev} L ${xCurr} ${yCurr} `;
+        }
+    }
+
+    const offLine = createSvgEl('path');
+    offLine.setAttribute('d', offD);
+    offLine.setAttribute('class', 'elo-off-line');
+    svg.appendChild(offLine);
+}
+
+function renderEloChart(container, points) {
+    clearChart(container);
+
+    if (!points.length) {
+        container.textContent = 'Aucune donnée.';
+        return;
+    }
+
+    const width = 1000;
+    const height = 320;
+    const pad = 40;
+
+    const GAP_SHADE_RACES = 2; // griser si le pilote manque >= 2 courses d'affilée
+
+    const ys = points.map(p => p.elo);
+    const rs = points.map(p => p.raceNo);
+
+    const minY = Math.min(...ys);
+    const maxY = Math.max(...ys);
+    const spanY = Math.max(1e-9, maxY - minY);
+
+    const minR = Math.min(...rs);
+    const maxR = Math.max(...rs);
+    const spanR = Math.max(1, maxR - minR);
+
+    const xScale = (raceNo) => pad + (raceNo - minR) * ((width - 2 * pad) / spanR);
+    const yScale = (y) => (height - pad) - (y - minY) * ((height - 2 * pad) / spanY);
+
+    const svg = createSvgEl('svg');
+    addGapRects(svg, points, xScale, pad, width, height, GAP_SHADE_RACES);
+    addTeamBands(svg, points, xScale, pad, width, height);
+    addAxes(svg, pad, width, height);
+    addMainLine(svg, points, xScale, yScale);
+    addOffLines(svg, points, xScale, yScale);
+    addMinMaxLabels(svg, pad, height, minY, maxY);
+    labelMax.setAttribute('class', 'elo-label');
+    labelMax.textContent = Math.round(maxY);
+    svg.appendChild(labelMax);
 
     container.appendChild(svg);
 
     // Simple tooltip via title on hover (SVG doesn't support native tooltip well across browsers)
-    svg.addEventListener('mousemove', (e) => {
-        const target = e.target;
-        if (target?.tagName === 'circle') {
-            const label = target.dataset.label;
-            container.setAttribute('title', label || '');
-        }
-    });
+    // Tooltip removed (no dots) - details are available in the table
 }
 
 async function loadIndexData() {
@@ -213,8 +245,8 @@ function parsePointFromRow(indices, r) {
     const eloAfter = indices.idxEloAfter >= 0 ? Number.parseFloat(r[indices.idxEloAfter]) : Number.NaN;
     if (!Number.isFinite(eloAfter)) return null;
 
-    const t = Date.parse(date);
-    if (!Number.isFinite(t)) return null;
+    const raceNo = indices.idxCareerRaceNumber >= 0 ? Number.parseInt(r[indices.idxCareerRaceNumber], 10) : Number.NaN;
+    if (!Number.isFinite(raceNo)) return null;
 
     let team = '';
     if (indices.idxConstructorName >= 0) team = r[indices.idxConstructorName] || '';
@@ -223,7 +255,8 @@ function parsePointFromRow(indices, r) {
     return {
         elo: eloAfter,
         team,
-        t,
+        raceNo,
+        teamKey: team,
         label: `${date} (R${round} ${gp}) : ${eloAfter.toFixed(2)}`,
     };
 }
@@ -237,6 +270,7 @@ function buildPointsFromDriverCsv(rows) {
         idxEloAfter: getColumnIndex(header, 'eloAfter'),
         idxConstructorName: getColumnIndex(header, 'constructorName'),
         idxConstructorId: getColumnIndex(header, 'constructorId'),
+        idxCareerRaceNumber: getColumnIndex(header, 'careerRaceNumber'),
     };
 
     const points = [];
@@ -246,7 +280,7 @@ function buildPointsFromDriverCsv(rows) {
         if (p) points.push(p);
     }
 
-    points.sort((a, b) => a.t - b.t);
+    points.sort((a, b) => a.raceNo - b.raceNo);
     return points;
 }
 

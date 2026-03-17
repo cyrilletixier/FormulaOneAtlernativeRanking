@@ -1,25 +1,25 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,1,56,3,0,1,1272.193336,1286.120498,13.927162,1.0,0.721457,50.0,24
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,2,56,1,0,2,1318.907335,1328.220698,9.313363,0.956522,0.770254,50.0,24
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,mark-webber,Mark Webber,red-bull,3,56,18,0,3,1279.155226,1288.355148,9.199922,0.913043,0.729045,50.0,24
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,jenson-button,Jenson Button,mclaren,4,56,2,0,4,1291.526932,1297.892047,6.365115,0.869565,0.742263,50.0,24
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,nico-rosberg,Nico Rosberg,mercedes,5,56,4,0,5,1169.983395,1181.319865,11.33647,0.826087,0.599358,50.0,24
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,felipe-massa,Felipe Massa,ferrari,6,56,6,0,6,1236.616535,1241.692782,5.076247,0.782609,0.681084,50.0,24
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,fernando-alonso,Fernando Alonso,ferrari,7,56,5,0,7,1299.775888,1299.188327,-0.587561,0.73913,0.750882,50.0,24
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,michael-schumacher,Michael Schumacher,mercedes,8,56,14,0,8,1194.055041,1197.354187,3.299147,0.695652,0.629669,50.0,24
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,vitaly-petrov,Vitaly Petrov,renault,9,56,10,0,9,1065.09042,1074.614722,9.524302,0.652174,0.461688,50.0,24
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,kamui-kobayashi,Kamui Kobayashi,sauber,10,56,13,0,10,1044.895516,1053.578717,8.683201,0.608696,0.435032,50.0,24
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,paul-di-resta,Paul di Resta,force-india,11,56,8,0,11,1021.603822,1029.634518,8.030696,0.565217,0.404603,50.0,24
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,nick-heidfeld,Nick Heidfeld,renault,12,56,16,0,12,1146.59611,1144.220726,-2.375383,0.521739,0.569247,50.0,24
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,rubens-barrichello,Rubens Barrichello,williams,13,56,15,0,13,1119.890924,1117.089884,-2.80104,0.478261,0.534282,50.0,24
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,sebastien-buemi,Sébastien Buemi,toro-rosso,14,56,9,0,14,1033.122448,1033.881669,0.759221,0.434783,0.419598,50.0,24
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,adrian-sutil,Adrian Sutil,force-india,15,55,11,0,15,1059.13686,1056.011523,-3.125337,0.391304,0.453811,50.0,24
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,heikki-kovalainen,Heikki Kovalainen,lotus-racing,16,55,19,0,16,988.737007,987.998769,-0.738238,0.347826,0.362591,50.0,24
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,sergio-perez,Sergio Pérez,sauber,17,55,12,0,17,972.055046,970.181263,-1.873784,0.304348,0.341823,50.0,24
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,pastor-maldonado,Pastor Maldonado,williams,18,55,17,0,18,968.880069,965.027503,-3.852566,0.26087,0.337921,50.0,24
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,jarno-trulli,Jarno Trulli,lotus-racing,19,55,20,0,19,928.356538,924.739617,-3.616921,0.217391,0.28973,50.0,24
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,jerome-dambrosio,Jérôme d'Ambrosio,virgin,20,54,21,0,20,993.127485,983.416892,-9.710593,0.173913,0.368125,50.0,24
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,timo-glock,Timo Glock,virgin,21,54,22,0,21,957.046253,947.391617,-9.654636,0.130435,0.323528,50.0,24
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,vitantonio-liuzzi,Vitantonio Liuzzi,hrt,22,54,23,0,22,978.35038,965.2177,-13.13268,0.086957,0.34961,50.0,24
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,narain-karthikeyan,Narain Karthikeyan,hrt,23,54,24,0,23,928.548553,916.224948,-12.323605,0.043478,0.28995,50.0,24
-2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,jaime-alguersuari,Jaime Alguersuari,toro-rosso,DNF,9,7,1,24,1044.453167,1022.730663,-21.722504,0.0,0.43445,50.0,24
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,lewis-hamilton,Lewis Hamilton,mclaren,1,56,3,0,1,1272.193336,1286.120498,13.927162,1.0,0.721457,50.0,24
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,sebastian-vettel,Sebastian Vettel,red-bull,2,56,1,0,2,1318.907335,1328.220698,9.313363,0.956522,0.770254,50.0,24
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,mark-webber,Mark Webber,red-bull,3,56,18,0,3,1279.155226,1288.355148,9.199922,0.913043,0.729045,50.0,24
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,jenson-button,Jenson Button,mclaren,4,56,2,0,4,1291.526932,1297.892047,6.365115,0.869565,0.742263,50.0,24
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,nico-rosberg,Nico Rosberg,mercedes,5,56,4,0,5,1169.983395,1181.319865,11.33647,0.826087,0.599358,50.0,24
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,felipe-massa,Felipe Massa,ferrari,6,56,6,0,6,1236.616535,1241.692782,5.076247,0.782609,0.681084,50.0,24
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,fernando-alonso,Fernando Alonso,ferrari,7,56,5,0,7,1299.775888,1299.188327,-0.587561,0.73913,0.750882,50.0,24
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,michael-schumacher,Michael Schumacher,mercedes,8,56,14,0,8,1194.055041,1197.354187,3.299147,0.695652,0.629669,50.0,24
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,vitaly-petrov,Vitaly Petrov,renault,9,56,10,0,9,1065.09042,1074.614722,9.524302,0.652174,0.461688,50.0,24
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,kamui-kobayashi,Kamui Kobayashi,sauber,10,56,13,0,10,1044.895516,1053.578717,8.683201,0.608696,0.435032,50.0,24
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,paul-di-resta,Paul di Resta,force-india,11,56,8,0,11,1021.603822,1029.634518,8.030696,0.565217,0.404603,50.0,24
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,nick-heidfeld,Nick Heidfeld,renault,12,56,16,0,12,1146.59611,1144.220726,-2.375383,0.521739,0.569247,50.0,24
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,rubens-barrichello,Rubens Barrichello,williams,13,56,15,0,13,1119.890924,1117.089884,-2.80104,0.478261,0.534282,50.0,24
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,sebastien-buemi,Sébastien Buemi,toro-rosso,14,56,9,0,14,1033.122448,1033.881669,0.759221,0.434783,0.419598,50.0,24
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,adrian-sutil,Adrian Sutil,force-india,15,55,11,0,15,1059.13686,1056.011523,-3.125337,0.391304,0.453811,50.0,24
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,heikki-kovalainen,Heikki Kovalainen,lotus-racing,16,55,19,0,16,988.737007,987.998769,-0.738238,0.347826,0.362591,50.0,24
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,sergio-perez,Sergio Pérez,sauber,17,55,12,0,17,972.055046,970.181263,-1.873784,0.304348,0.341823,50.0,24
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,pastor-maldonado,Pastor Maldonado,williams,18,55,17,0,18,968.880069,965.027503,-3.852566,0.26087,0.337921,50.0,24
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,jarno-trulli,Jarno Trulli,lotus-racing,19,55,20,0,19,928.356538,924.739617,-3.616921,0.217391,0.28973,50.0,24
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,jerome-dambrosio,Jérôme d'Ambrosio,virgin,20,54,21,0,20,993.127485,983.416892,-9.710593,0.173913,0.368125,50.0,24
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,timo-glock,Timo Glock,virgin,21,54,22,0,21,957.046253,947.391617,-9.654636,0.130435,0.323528,50.0,24
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,vitantonio-liuzzi,Vitantonio Liuzzi,hrt,22,54,23,0,22,978.35038,965.2177,-13.13268,0.086957,0.34961,50.0,24
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,narain-karthikeyan,Narain Karthikeyan,hrt,23,54,24,0,23,928.548553,916.224948,-12.323605,0.043478,0.28995,50.0,24
+2011,3,2011-04-17,china,2011 Formula 1 UBS Chinese Grand Prix,842,jaime-alguersuari,Jaime Alguersuari,toro-rosso,DNF,9,7,1,24,1044.453167,1022.730663,-21.722504,0.0,0.43445,50.0,24

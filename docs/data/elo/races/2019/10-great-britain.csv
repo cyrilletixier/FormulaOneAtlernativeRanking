@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,lewis-hamilton,Lewis Hamilton,mercedes,1,52,2,0,1,1568.710436,1573.423734,4.713299,1.0,0.905734,50.0,20
-2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,valtteri-bottas,Valtteri Bottas,mercedes,2,52,1,0,2,1438.868858,1445.070211,6.201353,0.947368,0.823341,50.0,20
-2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,charles-leclerc,Charles Leclerc,ferrari,3,52,3,0,3,1174.073163,1191.001695,16.928532,0.894737,0.556166,50.0,20
-2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,pierre-gasly,Pierre Gasly,red-bull,4,52,5,0,4,1103.47695,1122.207393,18.730443,0.842105,0.467496,50.0,20
-2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,max-verstappen,Max Verstappen,red-bull,5,52,4,0,5,1374.850894,1375.77907,0.928176,0.789474,0.77091,50.0,20
-2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,6,52,13,0,6,1117.260441,1129.851192,12.590752,0.736842,0.485027,50.0,20
-2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,daniel-ricciardo,Daniel Ricciardo,renault,7,52,7,0,7,1134.90476,1143.747198,8.842438,0.684211,0.507362,50.0,20
-2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,8,52,12,0,8,1229.009272,1229.502596,0.493324,0.631579,0.621712,50.0,20
-2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,daniil-kvyat,Daniil Kvyat,toro-rosso,9,52,17,0,9,1025.631001,1036.126474,10.495474,0.578947,0.369038,50.0,20
-2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,nico-hulkenberg,Nico Hülkenberg,renault,10,52,10,0,10,1053.51541,1059.632556,6.117146,0.526316,0.403973,50.0,20
-2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,lando-norris,Lando Norris,mclaren,11,52,8,0,11,1028.971664,1033.996472,5.024809,0.473684,0.373188,50.0,20
-2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,alexander-albon,Alexander Albon,toro-rosso,12,52,9,0,12,1017.020055,1020.152984,3.132929,0.421053,0.358394,50.0,20
-2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,lance-stroll,Lance Stroll,racing-point,13,52,18,0,13,1003.129462,1004.480173,1.350711,0.368421,0.341407,50.0,20
-2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,george-russell,George Russell,williams,14,51,19,0,14,946.728468,948.744539,2.01607,0.315789,0.275468,50.0,20
-2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,robert-kubica,Robert Kubica,williams,15,51,20,0,15,1033.966658,1028.153887,-5.812771,0.263158,0.379413,50.0,20
-2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,sebastian-vettel,Sebastian Vettel,ferrari,16,51,6,0,16,1442.512436,1411.734562,-30.777875,0.210526,0.826084,50.0,20
-2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,sergio-perez,Sergio Pérez,racing-point,17,51,15,0,17,1130.943551,1113.720218,-17.223333,0.157895,0.502361,50.0,20
-2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,DNF,18,11,1,18,985.95043,975.175563,-10.774868,0.105263,0.320761,50.0,20
-2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,romain-grosjean,Romain Grosjean,haas,DNF,9,14,1,19,1001.159599,986.840281,-14.319318,0.052632,0.339018,50.0,20
-2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,kevin-magnussen,Kevin Magnussen,haas,DNF,6,16,1,20,1028.937706,1010.280416,-18.65729,0.0,0.373146,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,1007,lewis-hamilton,Lewis Hamilton,mercedes,1,52,2,0,1,1568.710436,1573.423734,4.713299,1.0,0.905734,50.0,20
+2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,1007,valtteri-bottas,Valtteri Bottas,mercedes,2,52,1,0,2,1438.868858,1445.070211,6.201353,0.947368,0.823341,50.0,20
+2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,1007,charles-leclerc,Charles Leclerc,ferrari,3,52,3,0,3,1174.073163,1191.001695,16.928532,0.894737,0.556166,50.0,20
+2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,1007,pierre-gasly,Pierre Gasly,red-bull,4,52,5,0,4,1103.47695,1122.207393,18.730443,0.842105,0.467496,50.0,20
+2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,1007,max-verstappen,Max Verstappen,red-bull,5,52,4,0,5,1374.850894,1375.77907,0.928176,0.789474,0.77091,50.0,20
+2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,1007,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,6,52,13,0,6,1117.260441,1129.851192,12.590752,0.736842,0.485027,50.0,20
+2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,1007,daniel-ricciardo,Daniel Ricciardo,renault,7,52,7,0,7,1134.90476,1143.747198,8.842438,0.684211,0.507362,50.0,20
+2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,1007,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,8,52,12,0,8,1229.009272,1229.502596,0.493324,0.631579,0.621712,50.0,20
+2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,1007,daniil-kvyat,Daniil Kvyat,toro-rosso,9,52,17,0,9,1025.631001,1036.126474,10.495474,0.578947,0.369038,50.0,20
+2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,1007,nico-hulkenberg,Nico Hülkenberg,renault,10,52,10,0,10,1053.51541,1059.632556,6.117146,0.526316,0.403973,50.0,20
+2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,1007,lando-norris,Lando Norris,mclaren,11,52,8,0,11,1028.971664,1033.996472,5.024809,0.473684,0.373188,50.0,20
+2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,1007,alexander-albon,Alexander Albon,toro-rosso,12,52,9,0,12,1017.020055,1020.152984,3.132929,0.421053,0.358394,50.0,20
+2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,1007,lance-stroll,Lance Stroll,racing-point,13,52,18,0,13,1003.129462,1004.480173,1.350711,0.368421,0.341407,50.0,20
+2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,1007,george-russell,George Russell,williams,14,51,19,0,14,946.728468,948.744539,2.01607,0.315789,0.275468,50.0,20
+2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,1007,robert-kubica,Robert Kubica,williams,15,51,20,0,15,1033.966658,1028.153887,-5.812771,0.263158,0.379413,50.0,20
+2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,1007,sebastian-vettel,Sebastian Vettel,ferrari,16,51,6,0,16,1442.512436,1411.734562,-30.777875,0.210526,0.826084,50.0,20
+2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,1007,sergio-perez,Sergio Pérez,racing-point,17,51,15,0,17,1130.943551,1113.720218,-17.223333,0.157895,0.502361,50.0,20
+2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,1007,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,DNF,18,11,1,18,985.95043,975.175563,-10.774868,0.105263,0.320761,50.0,20
+2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,1007,romain-grosjean,Romain Grosjean,haas,DNF,9,14,1,19,1001.159599,986.840281,-14.319318,0.052632,0.339018,50.0,20
+2019,10,2019-07-14,great-britain,Formula 1 Rolex British Grand Prix 2019,1007,kevin-magnussen,Kevin Magnussen,haas,DNF,6,16,1,20,1028.937706,1010.280416,-18.65729,0.0,0.373146,50.0,20

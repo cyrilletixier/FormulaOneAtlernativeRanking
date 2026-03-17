@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,robert-kubica,Robert Kubica,bmw-sauber,1,70,2,0,1,1216.130284,1233.787864,17.657581,1.0,0.646848,50.0,20
-2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,nick-heidfeld,Nick Heidfeld,bmw-sauber,2,70,8,0,2,1224.564855,1239.072876,14.508022,0.947368,0.657208,50.0,20
-2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,david-coulthard,David Coulthard,red-bull,3,70,13,0,3,1035.1323,1059.415076,24.282775,0.894737,0.409081,50.0,20
-2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,timo-glock,Timo Glock,toyota,4,70,11,0,4,1010.446465,1033.701506,23.255041,0.842105,0.377004,50.0,20
-2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,felipe-massa,Felipe Massa,ferrari,5,70,6,0,5,1288.454036,1291.364316,2.910281,0.789474,0.731268,50.0,20
-2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,jarno-trulli,Jarno Trulli,toyota,6,70,14,0,6,1096.029226,1108.36316,12.333933,0.736842,0.490163,50.0,20
-2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,rubens-barrichello,Rubens Barrichello,honda,7,70,9,0,7,1057.75353,1070.015,12.26147,0.684211,0.438981,50.0,20
-2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,sebastian-vettel,Sebastian Vettel,toro-rosso,8,70,PL,0,8,948.198109,964.773325,16.575215,0.631579,0.300075,50.0,20
-2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,heikki-kovalainen,Heikki Kovalainen,mclaren,9,70,7,0,9,1150.016876,1150.857425,0.840549,0.578947,0.562136,50.0,20
-2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,nico-rosberg,Nico Rosberg,williams,10,70,5,0,10,1080.344339,1083.203059,2.858719,0.526316,0.469141,50.0,20
-2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,jenson-button,Jenson Button,honda,11,70,PL,0,11,1063.501808,1064.854315,1.352506,0.473684,0.446634,50.0,20
-2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,mark-webber,Mark Webber,red-bull,12,70,10,0,12,1078.454172,1076.176265,-2.277907,0.421053,0.466611,50.0,20
-2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,sebastien-bourdais,Sébastien Bourdais,toro-rosso,13,69,18,0,13,955.647079,958.622513,2.975434,0.368421,0.308912,50.0,20
-2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,giancarlo-fisichella,Giancarlo Fisichella,force-india,DNF,51,17,1,14,1073.413796,1066.209895,-7.2039,0.315789,0.459867,50.0,20
-2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,kazuki-nakajima,Kazuki Nakajima,williams,DNF,46,12,1,15,1030.060922,1023.096933,-6.963989,0.263158,0.402438,50.0,20
-2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,fernando-alonso,Fernando Alonso,renault,DNF,44,4,1,16,1322.628862,1294.794184,-27.834678,0.210526,0.76722,50.0,20
-2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,nelson-piquet-jr,Nelson Piquet Jr.,renault,DNF,39,15,1,17,969.337837,960.960564,-8.377272,0.157895,0.32544,50.0,20
-2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,19,3,1,18,1341.781459,1306.421976,-35.359483,0.078947,0.786137,50.0,20
-2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,lewis-hamilton,Lewis Hamilton,mclaren,DNF,19,1,1,19,1275.138736,1243.259472,-31.879264,0.078947,0.716533,50.0,20
-2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,adrian-sutil,Adrian Sutil,force-india,DNF,13,16,1,20,892.890394,880.975363,-11.915032,0.0,0.238301,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,792,robert-kubica,Robert Kubica,bmw-sauber,1,70,2,0,1,1216.130284,1233.787864,17.657581,1.0,0.646848,50.0,20
+2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,792,nick-heidfeld,Nick Heidfeld,bmw-sauber,2,70,8,0,2,1224.564855,1239.072876,14.508022,0.947368,0.657208,50.0,20
+2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,792,david-coulthard,David Coulthard,red-bull,3,70,13,0,3,1035.1323,1059.415076,24.282775,0.894737,0.409081,50.0,20
+2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,792,timo-glock,Timo Glock,toyota,4,70,11,0,4,1010.446465,1033.701506,23.255041,0.842105,0.377004,50.0,20
+2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,792,felipe-massa,Felipe Massa,ferrari,5,70,6,0,5,1288.454036,1291.364316,2.910281,0.789474,0.731268,50.0,20
+2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,792,jarno-trulli,Jarno Trulli,toyota,6,70,14,0,6,1096.029226,1108.36316,12.333933,0.736842,0.490163,50.0,20
+2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,792,rubens-barrichello,Rubens Barrichello,honda,7,70,9,0,7,1057.75353,1070.015,12.26147,0.684211,0.438981,50.0,20
+2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,792,sebastian-vettel,Sebastian Vettel,toro-rosso,8,70,PL,0,8,948.198109,964.773325,16.575215,0.631579,0.300075,50.0,20
+2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,792,heikki-kovalainen,Heikki Kovalainen,mclaren,9,70,7,0,9,1150.016876,1150.857425,0.840549,0.578947,0.562136,50.0,20
+2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,792,nico-rosberg,Nico Rosberg,williams,10,70,5,0,10,1080.344339,1083.203059,2.858719,0.526316,0.469141,50.0,20
+2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,792,jenson-button,Jenson Button,honda,11,70,PL,0,11,1063.501808,1064.854315,1.352506,0.473684,0.446634,50.0,20
+2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,792,mark-webber,Mark Webber,red-bull,12,70,10,0,12,1078.454172,1076.176265,-2.277907,0.421053,0.466611,50.0,20
+2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,792,sebastien-bourdais,Sébastien Bourdais,toro-rosso,13,69,18,0,13,955.647079,958.622513,2.975434,0.368421,0.308912,50.0,20
+2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,792,giancarlo-fisichella,Giancarlo Fisichella,force-india,DNF,51,17,1,14,1073.413796,1066.209895,-7.2039,0.315789,0.459867,50.0,20
+2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,792,kazuki-nakajima,Kazuki Nakajima,williams,DNF,46,12,1,15,1030.060922,1023.096933,-6.963989,0.263158,0.402438,50.0,20
+2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,792,fernando-alonso,Fernando Alonso,renault,DNF,44,4,1,16,1322.628862,1294.794184,-27.834678,0.210526,0.76722,50.0,20
+2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,792,nelson-piquet-jr,Nelson Piquet Jr.,renault,DNF,39,15,1,17,969.337837,960.960564,-8.377272,0.157895,0.32544,50.0,20
+2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,792,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,19,3,1,18,1341.781459,1306.421976,-35.359483,0.078947,0.786137,50.0,20
+2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,792,lewis-hamilton,Lewis Hamilton,mclaren,DNF,19,1,1,19,1275.138736,1243.259472,-31.879264,0.078947,0.716533,50.0,20
+2008,7,2008-06-08,canada,Formula 1 Grand Prix du Canada 2008,792,adrian-sutil,Adrian Sutil,force-india,DNF,13,16,1,20,892.890394,880.975363,-11.915032,0.0,0.238301,50.0,20

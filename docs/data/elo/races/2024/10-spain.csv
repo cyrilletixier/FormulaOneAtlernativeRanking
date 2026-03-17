@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,max-verstappen,Max Verstappen,red-bull,1,66,2,0,1,1562.103635,1567.083722,4.980087,1.0,0.900398,50.0,20
-2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,lando-norris,Lando Norris,mclaren,2,66,1,0,2,1353.552093,1364.116874,10.564781,0.947368,0.736073,50.0,20
-2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,lewis-hamilton,Lewis Hamilton,mercedes,3,66,3,0,3,1305.776964,1316.233555,10.456591,0.894737,0.685605,50.0,20
-2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,george-russell,George Russell,mercedes,4,66,4,0,4,1277.926321,1287.313348,9.387027,0.842105,0.654365,50.0,20
-2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,charles-leclerc,Charles Leclerc,ferrari,5,66,5,0,5,1326.726177,1330.787309,4.061131,0.789474,0.708251,50.0,20
-2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,6,66,6,0,6,1302.388743,1305.137291,2.748548,0.736842,0.681871,50.0,20
-2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,oscar-piastri,Oscar Piastri,mclaren,7,66,9,0,7,1215.411582,1220.603254,5.191672,0.684211,0.580377,50.0,20
-2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,sergio-perez,Sergio Pérez,red-bull,8,66,11,0,8,1309.660761,1306.746648,-2.914113,0.631579,0.689861,50.0,20
-2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,pierre-gasly,Pierre Gasly,alpine,9,66,7,0,9,1080.426516,1088.751517,8.325001,0.578947,0.412447,50.0,20
-2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,esteban-ocon,Esteban Ocon,alpine,10,66,8,0,10,1074.630412,1080.68121,6.050798,0.526316,0.4053,50.0,20
-2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,nico-hulkenberg,Nico Hülkenberg,haas,11,66,13,0,11,1034.774789,1040.611751,5.836962,0.473684,0.356945,50.0,20
-2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,fernando-alonso,Fernando Alonso,aston-martin,12,65,10,0,12,1223.023144,1214.594814,-8.42833,0.421053,0.589619,50.0,20
-2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,guanyu-zhou,Guanyu Zhou,kick-sauber,13,65,15,0,13,972.383585,976.538262,4.154677,0.368421,0.285328,50.0,20
-2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,lance-stroll,Lance Stroll,aston-martin,14,65,14,0,14,1101.891563,1095.726315,-6.165248,0.315789,0.439094,50.0,20
-2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,daniel-ricciardo,Daniel Ricciardo,rb,15,65,18,0,15,1052.094992,1046.364544,-5.730448,0.263158,0.377767,50.0,20
-2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,valtteri-bottas,Valtteri Bottas,kick-sauber,16,65,12,0,16,972.891982,969.124028,-3.767954,0.210526,0.285885,50.0,20
-2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,kevin-magnussen,Kevin Magnussen,haas,17,65,16,0,17,953.534585,948.179912,-5.354673,0.157895,0.264988,50.0,20
-2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,alexander-albon,Alexander Albon,williams,18,65,PL,0,18,1024.511859,1012.536343,-11.975516,0.105263,0.344773,50.0,20
-2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,yuki-tsunoda,Yuki Tsunoda,rb,19,65,17,0,19,1059.355969,1042.658106,-16.697863,0.052632,0.386589,50.0,20
-2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,logan-sargeant,Logan Sargeant,williams,20,64,19,0,20,903.413751,892.690621,-10.72313,0.0,0.214463,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,1111,max-verstappen,Max Verstappen,red-bull,1,66,2,0,1,1562.103635,1567.083722,4.980087,1.0,0.900398,50.0,20
+2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,1111,lando-norris,Lando Norris,mclaren,2,66,1,0,2,1353.552093,1364.116874,10.564781,0.947368,0.736073,50.0,20
+2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,1111,lewis-hamilton,Lewis Hamilton,mercedes,3,66,3,0,3,1305.776964,1316.233555,10.456591,0.894737,0.685605,50.0,20
+2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,1111,george-russell,George Russell,mercedes,4,66,4,0,4,1277.926321,1287.313348,9.387027,0.842105,0.654365,50.0,20
+2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,1111,charles-leclerc,Charles Leclerc,ferrari,5,66,5,0,5,1326.726177,1330.787309,4.061131,0.789474,0.708251,50.0,20
+2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,1111,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,6,66,6,0,6,1302.388743,1305.137291,2.748548,0.736842,0.681871,50.0,20
+2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,1111,oscar-piastri,Oscar Piastri,mclaren,7,66,9,0,7,1215.411582,1220.603254,5.191672,0.684211,0.580377,50.0,20
+2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,1111,sergio-perez,Sergio Pérez,red-bull,8,66,11,0,8,1309.660761,1306.746648,-2.914113,0.631579,0.689861,50.0,20
+2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,1111,pierre-gasly,Pierre Gasly,alpine,9,66,7,0,9,1080.426516,1088.751517,8.325001,0.578947,0.412447,50.0,20
+2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,1111,esteban-ocon,Esteban Ocon,alpine,10,66,8,0,10,1074.630412,1080.68121,6.050798,0.526316,0.4053,50.0,20
+2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,1111,nico-hulkenberg,Nico Hülkenberg,haas,11,66,13,0,11,1034.774789,1040.611751,5.836962,0.473684,0.356945,50.0,20
+2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,1111,fernando-alonso,Fernando Alonso,aston-martin,12,65,10,0,12,1223.023144,1214.594814,-8.42833,0.421053,0.589619,50.0,20
+2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,1111,guanyu-zhou,Guanyu Zhou,kick-sauber,13,65,15,0,13,972.383585,976.538262,4.154677,0.368421,0.285328,50.0,20
+2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,1111,lance-stroll,Lance Stroll,aston-martin,14,65,14,0,14,1101.891563,1095.726315,-6.165248,0.315789,0.439094,50.0,20
+2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,1111,daniel-ricciardo,Daniel Ricciardo,rb,15,65,18,0,15,1052.094992,1046.364544,-5.730448,0.263158,0.377767,50.0,20
+2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,1111,valtteri-bottas,Valtteri Bottas,kick-sauber,16,65,12,0,16,972.891982,969.124028,-3.767954,0.210526,0.285885,50.0,20
+2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,1111,kevin-magnussen,Kevin Magnussen,haas,17,65,16,0,17,953.534585,948.179912,-5.354673,0.157895,0.264988,50.0,20
+2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,1111,alexander-albon,Alexander Albon,williams,18,65,PL,0,18,1024.511859,1012.536343,-11.975516,0.105263,0.344773,50.0,20
+2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,1111,yuki-tsunoda,Yuki Tsunoda,rb,19,65,17,0,19,1059.355969,1042.658106,-16.697863,0.052632,0.386589,50.0,20
+2024,10,2024-06-23,spain,Formula 1 Aramco Gran Premio de España 2024,1111,logan-sargeant,Logan Sargeant,williams,20,64,19,0,20,903.413751,892.690621,-10.72313,0.0,0.214463,50.0,20

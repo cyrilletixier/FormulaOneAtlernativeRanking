@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,charles-leclerc,Charles Leclerc,ferrari,1,53,4,0,1,1328.157407,1342.996543,14.839136,1.0,0.703217,50.0,20
-2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,oscar-piastri,Oscar Piastri,mclaren,2,53,2,0,2,1293.553125,1307.650442,14.097316,0.947368,0.665422,50.0,20
-2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,lando-norris,Lando Norris,mclaren,3,53,1,0,3,1364.127424,1371.849928,7.722504,0.894737,0.740287,50.0,20
-2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,4,53,5,0,4,1328.174747,1335.118225,6.943478,0.842105,0.703236,50.0,20
-2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,lewis-hamilton,Lewis Hamilton,mercedes,5,53,6,0,5,1355.152556,1358.063059,2.910503,0.789474,0.731264,50.0,20
-2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,max-verstappen,Max Verstappen,red-bull,6,53,7,0,6,1558.092268,1550.228244,-7.864024,0.736842,0.894123,50.0,20
-2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,george-russell,George Russell,mercedes,7,53,3,0,7,1243.246429,1247.09008,3.843651,0.684211,0.607338,50.0,20
-2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,sergio-perez,Sergio Pérez,red-bull,8,53,8,0,8,1286.887277,1285.570013,-1.317264,0.631579,0.657924,50.0,20
-2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,alexander-albon,Alexander Albon,williams,9,53,9,0,9,1022.945199,1034.998448,12.053249,0.578947,0.337882,50.0,20
-2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,kevin-magnussen,Kevin Magnussen,haas,10,53,13,0,10,964.91477,977.599512,12.684743,0.526316,0.272621,50.0,20
-2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,fernando-alonso,Fernando Alonso,aston-martin,11,53,11,0,11,1193.599992,1189.919311,-3.680681,0.473684,0.547298,50.0,20
-2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,franco-colapinto,Franco Colapinto,williams,12,53,18,0,12,1000.0,1005.481229,5.481229,0.421053,0.311428,50.0,20
-2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,daniel-ricciardo,Daniel Ricciardo,rb,13,53,12,0,13,1066.311327,1065.247886,-1.063441,0.368421,0.38969,50.0,20
-2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,esteban-ocon,Esteban Ocon,alpine,14,52,15,0,14,1059.348337,1056.075797,-3.272541,0.315789,0.38124,50.0,20
-2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,pierre-gasly,Pierre Gasly,alpine,15,52,14,0,15,1061.858945,1055.802742,-6.056203,0.263158,0.384282,50.0,20
-2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,valtteri-bottas,Valtteri Bottas,kick-sauber,16,52,19,0,16,949.780561,947.477786,-2.302775,0.210526,0.256582,50.0,20
-2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,nico-hulkenberg,Nico Hülkenberg,haas,17,52,10,0,17,1064.031596,1052.580395,-11.4512,0.157895,0.386919,50.0,20
-2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,guanyu-zhou,Guanyu Zhou,kick-sauber,18,52,20,0,18,926.90436,920.506251,-6.398109,0.105263,0.233225,50.0,20
-2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,lance-stroll,Lance Stroll,aston-martin,19,52,17,0,19,1106.69301,1087.356082,-19.336927,0.052632,0.43937,50.0,20
-2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,yuki-tsunoda,Yuki Tsunoda,rb,DNF,7,16,1,20,1038.86095,1021.028306,-17.832644,0.0,0.356653,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,1117,charles-leclerc,Charles Leclerc,ferrari,1,53,4,0,1,1328.157407,1342.996543,14.839136,1.0,0.703217,50.0,20
+2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,1117,oscar-piastri,Oscar Piastri,mclaren,2,53,2,0,2,1293.553125,1307.650442,14.097316,0.947368,0.665422,50.0,20
+2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,1117,lando-norris,Lando Norris,mclaren,3,53,1,0,3,1364.127424,1371.849928,7.722504,0.894737,0.740287,50.0,20
+2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,1117,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,4,53,5,0,4,1328.174747,1335.118225,6.943478,0.842105,0.703236,50.0,20
+2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,1117,lewis-hamilton,Lewis Hamilton,mercedes,5,53,6,0,5,1355.152556,1358.063059,2.910503,0.789474,0.731264,50.0,20
+2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,1117,max-verstappen,Max Verstappen,red-bull,6,53,7,0,6,1558.092268,1550.228244,-7.864024,0.736842,0.894123,50.0,20
+2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,1117,george-russell,George Russell,mercedes,7,53,3,0,7,1243.246429,1247.09008,3.843651,0.684211,0.607338,50.0,20
+2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,1117,sergio-perez,Sergio Pérez,red-bull,8,53,8,0,8,1286.887277,1285.570013,-1.317264,0.631579,0.657924,50.0,20
+2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,1117,alexander-albon,Alexander Albon,williams,9,53,9,0,9,1022.945199,1034.998448,12.053249,0.578947,0.337882,50.0,20
+2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,1117,kevin-magnussen,Kevin Magnussen,haas,10,53,13,0,10,964.91477,977.599512,12.684743,0.526316,0.272621,50.0,20
+2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,1117,fernando-alonso,Fernando Alonso,aston-martin,11,53,11,0,11,1193.599992,1189.919311,-3.680681,0.473684,0.547298,50.0,20
+2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,1117,franco-colapinto,Franco Colapinto,williams,12,53,18,0,12,1000.0,1005.481229,5.481229,0.421053,0.311428,50.0,20
+2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,1117,daniel-ricciardo,Daniel Ricciardo,rb,13,53,12,0,13,1066.311327,1065.247886,-1.063441,0.368421,0.38969,50.0,20
+2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,1117,esteban-ocon,Esteban Ocon,alpine,14,52,15,0,14,1059.348337,1056.075797,-3.272541,0.315789,0.38124,50.0,20
+2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,1117,pierre-gasly,Pierre Gasly,alpine,15,52,14,0,15,1061.858945,1055.802742,-6.056203,0.263158,0.384282,50.0,20
+2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,1117,valtteri-bottas,Valtteri Bottas,kick-sauber,16,52,19,0,16,949.780561,947.477786,-2.302775,0.210526,0.256582,50.0,20
+2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,1117,nico-hulkenberg,Nico Hülkenberg,haas,17,52,10,0,17,1064.031596,1052.580395,-11.4512,0.157895,0.386919,50.0,20
+2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,1117,guanyu-zhou,Guanyu Zhou,kick-sauber,18,52,20,0,18,926.90436,920.506251,-6.398109,0.105263,0.233225,50.0,20
+2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,1117,lance-stroll,Lance Stroll,aston-martin,19,52,17,0,19,1106.69301,1087.356082,-19.336927,0.052632,0.43937,50.0,20
+2024,16,2024-09-01,italy,Formula 1 Pirelli Gran Premio d'Italia 2024,1117,yuki-tsunoda,Yuki Tsunoda,rb,DNF,7,16,1,20,1038.86095,1021.028306,-17.832644,0.0,0.356653,50.0,20

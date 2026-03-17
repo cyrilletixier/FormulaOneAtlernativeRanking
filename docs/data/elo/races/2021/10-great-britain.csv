@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,lewis-hamilton,Lewis Hamilton,mercedes,1,52,2,0,1,1560.684377,1565.236827,4.552451,1.0,0.908951,50.0,20
-2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,charles-leclerc,Charles Leclerc,ferrari,2,52,4,0,2,1200.44903,1218.550516,18.101486,0.947368,0.585339,50.0,20
-2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,valtteri-bottas,Valtteri Bottas,mercedes,3,52,3,0,3,1339.735898,1347.406098,7.6702,0.894737,0.741333,50.0,20
-2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,lando-norris,Lando Norris,mclaren,4,52,5,0,4,1267.94037,1276.805172,8.864802,0.842105,0.664809,50.0,20
-2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,daniel-ricciardo,Daniel Ricciardo,mclaren,5,52,6,0,5,1221.457749,1230.396553,8.938805,0.789474,0.610698,50.0,20
-2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,6,52,10,0,6,1236.358057,1241.781673,5.423616,0.736842,0.62837,50.0,20
-2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,fernando-alonso,Fernando Alonso,alpine,7,52,7,0,7,1058.267319,1072.082984,13.815665,0.684211,0.407897,50.0,20
-2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,lance-stroll,Lance Stroll,aston-martin,8,52,14,0,8,1091.706948,1100.806319,9.099371,0.631579,0.449592,50.0,20
-2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,esteban-ocon,Esteban Ocon,alpine,9,52,9,0,9,1076.521665,1083.939865,7.4182,0.578947,0.430583,50.0,20
-2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,yuki-tsunoda,Yuki Tsunoda,alphatauri,10,52,16,0,10,1019.44657,1027.733683,8.287113,0.526316,0.360574,50.0,20
-2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,pierre-gasly,Pierre Gasly,alphatauri,11,52,11,0,11,1148.552013,1146.182623,-2.369391,0.473684,0.521072,50.0,20
-2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,george-russell,George Russell,williams,12,51,12,0,12,937.732137,945.402902,7.670765,0.421053,0.267637,50.0,20
-2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,13,51,15,0,13,991.773767,993.799276,2.025509,0.368421,0.327911,50.0,20
-2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,nicholas-latifi,Nicholas Latifi,williams,14,51,17,0,14,899.913609,904.261546,4.347937,0.315789,0.228831,50.0,20
-2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,15,51,13,0,15,1043.567985,1037.235519,-6.332466,0.263158,0.389807,50.0,20
-2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,sergio-perez,Sergio Pérez,red-bull,16,51,PL,0,16,1282.164709,1258.655421,-23.509288,0.210526,0.680712,50.0,20
-2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,nikita-mazepin,Nikita Mazepin,haas,17,51,19,0,17,915.073406,910.767112,-4.306294,0.157895,0.244021,50.0,20
-2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,mick-schumacher,Mick Schumacher,haas,18,51,18,0,18,939.298447,931.096173,-8.202274,0.105263,0.269309,50.0,20
-2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,sebastian-vettel,Sebastian Vettel,aston-martin,DNF,40,8,1,19,1142.340454,1119.308059,-23.032395,0.052632,0.513279,50.0,20
-2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,max-verstappen,Max Verstappen,red-bull,DNF,0,1,1,20,1368.643468,1330.179656,-38.463812,0.0,0.769276,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,1045,lewis-hamilton,Lewis Hamilton,mercedes,1,52,2,0,1,1560.684377,1565.236827,4.552451,1.0,0.908951,50.0,20
+2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,1045,charles-leclerc,Charles Leclerc,ferrari,2,52,4,0,2,1200.44903,1218.550516,18.101486,0.947368,0.585339,50.0,20
+2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,1045,valtteri-bottas,Valtteri Bottas,mercedes,3,52,3,0,3,1339.735898,1347.406098,7.6702,0.894737,0.741333,50.0,20
+2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,1045,lando-norris,Lando Norris,mclaren,4,52,5,0,4,1267.94037,1276.805172,8.864802,0.842105,0.664809,50.0,20
+2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,1045,daniel-ricciardo,Daniel Ricciardo,mclaren,5,52,6,0,5,1221.457749,1230.396553,8.938805,0.789474,0.610698,50.0,20
+2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,1045,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,6,52,10,0,6,1236.358057,1241.781673,5.423616,0.736842,0.62837,50.0,20
+2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,1045,fernando-alonso,Fernando Alonso,alpine,7,52,7,0,7,1058.267319,1072.082984,13.815665,0.684211,0.407897,50.0,20
+2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,1045,lance-stroll,Lance Stroll,aston-martin,8,52,14,0,8,1091.706948,1100.806319,9.099371,0.631579,0.449592,50.0,20
+2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,1045,esteban-ocon,Esteban Ocon,alpine,9,52,9,0,9,1076.521665,1083.939865,7.4182,0.578947,0.430583,50.0,20
+2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,1045,yuki-tsunoda,Yuki Tsunoda,alphatauri,10,52,16,0,10,1019.44657,1027.733683,8.287113,0.526316,0.360574,50.0,20
+2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,1045,pierre-gasly,Pierre Gasly,alphatauri,11,52,11,0,11,1148.552013,1146.182623,-2.369391,0.473684,0.521072,50.0,20
+2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,1045,george-russell,George Russell,williams,12,51,12,0,12,937.732137,945.402902,7.670765,0.421053,0.267637,50.0,20
+2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,1045,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,13,51,15,0,13,991.773767,993.799276,2.025509,0.368421,0.327911,50.0,20
+2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,1045,nicholas-latifi,Nicholas Latifi,williams,14,51,17,0,14,899.913609,904.261546,4.347937,0.315789,0.228831,50.0,20
+2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,1045,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,15,51,13,0,15,1043.567985,1037.235519,-6.332466,0.263158,0.389807,50.0,20
+2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,1045,sergio-perez,Sergio Pérez,red-bull,16,51,PL,0,16,1282.164709,1258.655421,-23.509288,0.210526,0.680712,50.0,20
+2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,1045,nikita-mazepin,Nikita Mazepin,haas,17,51,19,0,17,915.073406,910.767112,-4.306294,0.157895,0.244021,50.0,20
+2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,1045,mick-schumacher,Mick Schumacher,haas,18,51,18,0,18,939.298447,931.096173,-8.202274,0.105263,0.269309,50.0,20
+2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,1045,sebastian-vettel,Sebastian Vettel,aston-martin,DNF,40,8,1,19,1142.340454,1119.308059,-23.032395,0.052632,0.513279,50.0,20
+2021,10,2021-07-18,great-britain,Formula 1 Pirelli British Grand Prix 2021,1045,max-verstappen,Max Verstappen,red-bull,DNF,0,1,1,20,1368.643468,1330.179656,-38.463812,0.0,0.769276,50.0,20

@@ -1,6 +1,6 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-2003-08-03,2003,12,germany,minardi,Minardi,12,62,20,1000.0,1001.417407,1.417407,0.421053,0.392704,50.0
-2003-08-24,2003,13,hungary,minardi,Minardi,13,66,20,1001.417407,1000.340506,-1.076901,0.368421,0.389959,50.0
-2003-09-14,2003,14,italy,minardi,Minardi,12,51,20,1000.340506,1001.185907,0.845401,0.421053,0.404145,50.0
-2003-09-28,2003,15,united-states,minardi,Minardi,11,69,20,1001.185907,1005.184108,3.998201,0.473684,0.39372,50.0
-2003-10-12,2003,16,japan,minardi,Minardi,16,50,20,1005.184108,995.859394,-9.324714,0.210526,0.397021,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+2003-08-03,2003,12,germany,709,minardi,Minardi,12,62,20,1000.0,1001.417407,1.417407,0.421053,0.392704,50.0
+2003-08-24,2003,13,hungary,710,minardi,Minardi,13,66,20,1001.417407,1000.340506,-1.076901,0.368421,0.389959,50.0
+2003-09-14,2003,14,italy,711,minardi,Minardi,12,51,20,1000.340506,1001.185907,0.845401,0.421053,0.404145,50.0
+2003-09-28,2003,15,united-states,712,minardi,Minardi,11,69,20,1001.185907,1005.184108,3.998201,0.473684,0.39372,50.0
+2003-10-12,2003,16,japan,713,minardi,Minardi,16,50,20,1005.184108,995.859394,-9.324714,0.210526,0.397021,50.0

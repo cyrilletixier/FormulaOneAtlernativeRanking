@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,1,55,1,0,1,1535.378267,1540.560711,5.182445,1.0,0.896351,50.0,20
-2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,2,55,3,0,2,1415.283943,1421.903096,6.619153,0.947368,0.814985,50.0,20
-2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,max-verstappen,Max Verstappen,red-bull,3,55,6,0,3,1311.781676,1320.427807,8.646131,0.894737,0.721814,50.0,20
-2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,4,55,5,0,4,1183.353214,1196.519965,13.166751,0.842105,0.57877,50.0,20
-2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,valtteri-bottas,Valtteri Bottas,mercedes,5,55,2,0,5,1379.486229,1379.700869,0.21464,0.789474,0.785181,50.0,20
-2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,renault,6,55,11,0,6,1087.512313,1101.408423,13.89611,0.736842,0.45892,50.0,20
-2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,charles-leclerc,Charles Leclerc,sauber,7,55,8,0,7,1032.031048,1046.80672,14.775671,0.684211,0.388697,50.0,20
-2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,sergio-perez,Sergio Pérez,force-india,8,55,14,0,8,1146.325868,1151.243231,4.917363,0.631579,0.533232,50.0,20
-2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,romain-grosjean,Romain Grosjean,haas,9,54,7,0,9,1042.431499,1051.291219,8.85972,0.578947,0.401753,50.0,20
-2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,kevin-magnussen,Kevin Magnussen,haas,10,54,13,0,10,1049.816472,1055.578962,5.76249,0.526316,0.411066,50.0,20
-2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,fernando-alonso,Fernando Alonso,mclaren,11,54,15,0,11,1003.169121,1009.205166,6.036045,0.473684,0.352963,50.0,20
-2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,brendon-hartley,Brendon Hartley,toro-rosso,12,54,16,0,12,954.809209,961.086748,6.277538,0.421053,0.295502,50.0,20
-2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,lance-stroll,Lance Stroll,williams,13,54,20,0,13,980.851061,982.972025,2.120965,0.368421,0.326002,50.0,20
-2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,stoffel-vandoorne,Stoffel Vandoorne,mclaren,14,54,18,0,14,1016.48048,1013.802949,-2.677531,0.315789,0.36934,50.0,20
-2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,sergey-sirotkin,Sergey Sirotkin,williams,15,54,19,0,15,942.592557,941.669989,-0.922568,0.263158,0.281609,50.0,20
-2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,pierre-gasly,Pierre Gasly,toro-rosso,DNF,46,17,1,16,1026.395679,1017.839124,-8.556555,0.210526,0.381657,50.0,20
-2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,esteban-ocon,Esteban Ocon,force-india,DNF,44,9,1,17,1091.154893,1075.871922,-15.28297,0.157895,0.463554,50.0,20
-2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,DNF,24,12,1,18,997.042005,985.030411,-12.011593,0.105263,0.345495,50.0,20
-2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,6,4,1,19,1347.207967,1312.034554,-35.173413,0.052632,0.7561,50.0,20
-2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,nico-hulkenberg,Nico Hülkenberg,renault,DNF,0,10,1,20,1070.284239,1048.433849,-21.85039,0.0,0.437008,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,997,lewis-hamilton,Lewis Hamilton,mercedes,1,55,1,0,1,1535.378267,1540.560711,5.182445,1.0,0.896351,50.0,20
+2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,997,sebastian-vettel,Sebastian Vettel,ferrari,2,55,3,0,2,1415.283943,1421.903096,6.619153,0.947368,0.814985,50.0,20
+2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,997,max-verstappen,Max Verstappen,red-bull,3,55,6,0,3,1311.781676,1320.427807,8.646131,0.894737,0.721814,50.0,20
+2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,997,daniel-ricciardo,Daniel Ricciardo,red-bull,4,55,5,0,4,1183.353214,1196.519965,13.166751,0.842105,0.57877,50.0,20
+2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,997,valtteri-bottas,Valtteri Bottas,mercedes,5,55,2,0,5,1379.486229,1379.700869,0.21464,0.789474,0.785181,50.0,20
+2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,997,carlos-sainz-jr,Carlos Sainz Jr.,renault,6,55,11,0,6,1087.512313,1101.408423,13.89611,0.736842,0.45892,50.0,20
+2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,997,charles-leclerc,Charles Leclerc,sauber,7,55,8,0,7,1032.031048,1046.80672,14.775671,0.684211,0.388697,50.0,20
+2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,997,sergio-perez,Sergio Pérez,force-india,8,55,14,0,8,1146.325868,1151.243231,4.917363,0.631579,0.533232,50.0,20
+2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,997,romain-grosjean,Romain Grosjean,haas,9,54,7,0,9,1042.431499,1051.291219,8.85972,0.578947,0.401753,50.0,20
+2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,997,kevin-magnussen,Kevin Magnussen,haas,10,54,13,0,10,1049.816472,1055.578962,5.76249,0.526316,0.411066,50.0,20
+2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,997,fernando-alonso,Fernando Alonso,mclaren,11,54,15,0,11,1003.169121,1009.205166,6.036045,0.473684,0.352963,50.0,20
+2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,997,brendon-hartley,Brendon Hartley,toro-rosso,12,54,16,0,12,954.809209,961.086748,6.277538,0.421053,0.295502,50.0,20
+2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,997,lance-stroll,Lance Stroll,williams,13,54,20,0,13,980.851061,982.972025,2.120965,0.368421,0.326002,50.0,20
+2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,997,stoffel-vandoorne,Stoffel Vandoorne,mclaren,14,54,18,0,14,1016.48048,1013.802949,-2.677531,0.315789,0.36934,50.0,20
+2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,997,sergey-sirotkin,Sergey Sirotkin,williams,15,54,19,0,15,942.592557,941.669989,-0.922568,0.263158,0.281609,50.0,20
+2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,997,pierre-gasly,Pierre Gasly,toro-rosso,DNF,46,17,1,16,1026.395679,1017.839124,-8.556555,0.210526,0.381657,50.0,20
+2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,997,esteban-ocon,Esteban Ocon,force-india,DNF,44,9,1,17,1091.154893,1075.871922,-15.28297,0.157895,0.463554,50.0,20
+2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,997,marcus-ericsson,Marcus Ericsson,sauber,DNF,24,12,1,18,997.042005,985.030411,-12.011593,0.105263,0.345495,50.0,20
+2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,997,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,6,4,1,19,1347.207967,1312.034554,-35.173413,0.052632,0.7561,50.0,20
+2018,21,2018-11-25,abu-dhabi,Formula 1 2018 Etihad Airways Abu Dhabi Grand Prix,997,nico-hulkenberg,Nico Hülkenberg,renault,DNF,0,10,1,20,1070.284239,1048.433849,-21.85039,0.0,0.437008,50.0,20

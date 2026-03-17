@@ -1,25 +1,25 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,nico-rosberg,Nico Rosberg,mercedes,1,56,1,0,1,1199.842624,1218.453208,18.610584,1.0,0.627788,50.0,24
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,jenson-button,Jenson Button,mclaren,2,56,5,0,2,1343.263413,1352.193124,8.92971,0.956522,0.777928,50.0,24
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,3,56,7,0,3,1297.419928,1306.371452,8.951524,0.913043,0.734013,50.0,24
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,mark-webber,Mark Webber,red-bull,4,56,6,0,4,1365.779972,1369.362231,3.582259,0.869565,0.79792,50.0,24
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,5,56,11,0,5,1392.698849,1392.982721,0.283872,0.826087,0.82041,50.0,24
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,6,56,10,0,6,921.247262,945.877429,24.630166,0.782609,0.290005,50.0,24
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,bruno-senna,Bruno Senna,williams,7,56,14,0,7,978.998514,998.121965,19.123451,0.73913,0.356661,50.0,24
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,pastor-maldonado,Pastor Maldonado,williams,8,56,13,0,8,960.403903,978.453933,18.05003,0.695652,0.334652,50.0,24
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,fernando-alonso,Fernando Alonso,ferrari,9,56,9,0,9,1382.051575,1374.075284,-7.976291,0.652174,0.8117,50.0,24
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,kamui-kobayashi,Kamui Kobayashi,sauber,10,56,3,0,10,1056.176931,1064.032703,7.855772,0.608696,0.45158,50.0,24
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,sergio-perez,Sergio Pérez,sauber,11,56,8,0,11,1076.455275,1080.866874,4.411599,0.565217,0.476985,50.0,24
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,paul-di-resta,Paul di Resta,force-india,12,56,15,0,12,1115.265373,1115.077932,-0.187441,0.521739,0.525488,50.0,24
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,felipe-massa,Felipe Massa,ferrari,13,56,12,0,13,1199.942432,1192.460249,-7.482182,0.478261,0.627905,50.0,24
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,kimi-raikkonen,Kimi Räikkönen,lotus-f1,14,56,4,0,14,1239.900454,1227.975259,-11.925195,0.434783,0.673287,50.0,24
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,15,56,16,0,15,1037.216473,1035.386266,-1.830207,0.391304,0.427908,50.0,24
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,16,56,PL,0,16,1024.25918,1021.059302,-3.199878,0.347826,0.411824,50.0,24
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,daniel-ricciardo,Daniel Ricciardo,toro-rosso,17,56,17,0,17,952.515008,951.459457,-1.055551,0.304348,0.325459,50.0,24
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,vitaly-petrov,Vitaly Petrov,caterham,18,55,19,0,18,1051.870662,1042.604459,-9.266203,0.26087,0.446194,50.0,24
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,timo-glock,Timo Glock,marussia,19,55,20,0,19,887.50457,885.685517,-1.819053,0.217391,0.253772,50.0,24
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,charles-pic,Charles Pic,marussia,20,55,21,0,20,990.008423,980.209291,-9.799132,0.173913,0.369896,50.0,24
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,hrt,21,55,22,0,21,984.057353,972.442839,-11.614514,0.130435,0.362725,50.0,24
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,narain-karthikeyan,Narain Karthikeyan,hrt,22,54,23,0,22,874.201944,866.542888,-7.659056,0.086957,0.240138,50.0,24
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,heikki-kovalainen,Heikki Kovalainen,caterham,23,53,18,0,23,944.600621,930.95796,-13.642661,0.043478,0.316331,50.0,24
-2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,michael-schumacher,Michael Schumacher,mercedes,DNF,12,2,1,24,1126.509939,1099.538336,-26.971603,0.0,0.539432,50.0,24
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,nico-rosberg,Nico Rosberg,mercedes,1,56,1,0,1,1199.842624,1218.453208,18.610584,1.0,0.627788,50.0,24
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,jenson-button,Jenson Button,mclaren,2,56,5,0,2,1343.263413,1352.193124,8.92971,0.956522,0.777928,50.0,24
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,lewis-hamilton,Lewis Hamilton,mclaren,3,56,7,0,3,1297.419928,1306.371452,8.951524,0.913043,0.734013,50.0,24
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,mark-webber,Mark Webber,red-bull,4,56,6,0,4,1365.779972,1369.362231,3.582259,0.869565,0.79792,50.0,24
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,sebastian-vettel,Sebastian Vettel,red-bull,5,56,11,0,5,1392.698849,1392.982721,0.283872,0.826087,0.82041,50.0,24
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,romain-grosjean,Romain Grosjean,lotus-f1,6,56,10,0,6,921.247262,945.877429,24.630166,0.782609,0.290005,50.0,24
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,bruno-senna,Bruno Senna,williams,7,56,14,0,7,978.998514,998.121965,19.123451,0.73913,0.356661,50.0,24
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,pastor-maldonado,Pastor Maldonado,williams,8,56,13,0,8,960.403903,978.453933,18.05003,0.695652,0.334652,50.0,24
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,fernando-alonso,Fernando Alonso,ferrari,9,56,9,0,9,1382.051575,1374.075284,-7.976291,0.652174,0.8117,50.0,24
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,kamui-kobayashi,Kamui Kobayashi,sauber,10,56,3,0,10,1056.176931,1064.032703,7.855772,0.608696,0.45158,50.0,24
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,sergio-perez,Sergio Pérez,sauber,11,56,8,0,11,1076.455275,1080.866874,4.411599,0.565217,0.476985,50.0,24
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,paul-di-resta,Paul di Resta,force-india,12,56,15,0,12,1115.265373,1115.077932,-0.187441,0.521739,0.525488,50.0,24
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,felipe-massa,Felipe Massa,ferrari,13,56,12,0,13,1199.942432,1192.460249,-7.482182,0.478261,0.627905,50.0,24
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,kimi-raikkonen,Kimi Räikkönen,lotus-f1,14,56,4,0,14,1239.900454,1227.975259,-11.925195,0.434783,0.673287,50.0,24
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,nico-hulkenberg,Nico Hülkenberg,force-india,15,56,16,0,15,1037.216473,1035.386266,-1.830207,0.391304,0.427908,50.0,24
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,16,56,PL,0,16,1024.25918,1021.059302,-3.199878,0.347826,0.411824,50.0,24
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,daniel-ricciardo,Daniel Ricciardo,toro-rosso,17,56,17,0,17,952.515008,951.459457,-1.055551,0.304348,0.325459,50.0,24
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,vitaly-petrov,Vitaly Petrov,caterham,18,55,19,0,18,1051.870662,1042.604459,-9.266203,0.26087,0.446194,50.0,24
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,timo-glock,Timo Glock,marussia,19,55,20,0,19,887.50457,885.685517,-1.819053,0.217391,0.253772,50.0,24
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,charles-pic,Charles Pic,marussia,20,55,21,0,20,990.008423,980.209291,-9.799132,0.173913,0.369896,50.0,24
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,pedro-de-la-rosa,Pedro de la Rosa,hrt,21,55,22,0,21,984.057353,972.442839,-11.614514,0.130435,0.362725,50.0,24
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,narain-karthikeyan,Narain Karthikeyan,hrt,22,54,23,0,22,874.201944,866.542888,-7.659056,0.086957,0.240138,50.0,24
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,heikki-kovalainen,Heikki Kovalainen,caterham,23,53,18,0,23,944.600621,930.95796,-13.642661,0.043478,0.316331,50.0,24
+2012,3,2012-04-15,china,2012 Formula 1 UBS Chinese Grand Prix,861,michael-schumacher,Michael Schumacher,mercedes,DNF,12,2,1,24,1126.509939,1099.538336,-26.971603,0.0,0.539432,50.0,24

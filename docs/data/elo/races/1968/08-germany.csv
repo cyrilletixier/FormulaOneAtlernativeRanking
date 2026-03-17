@@ -1,22 +1,22 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,jackie-stewart,Jackie Stewart,matra,1,14,6,0,1,1098.743064,1120.387904,21.64484,1.0,0.567103,50.0,21
-1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,graham-hill,Graham Hill,lotus,2,14,4,0,2,1091.474327,1111.14786,19.673533,0.95,0.556529,50.0,21
-1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,jochen-rindt,Jochen Rindt,brabham,3,14,3,0,3,1007.419744,1030.766286,23.346542,0.9,0.433069,50.0,21
-1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,jacky-ickx,Jacky Ickx,ferrari,4,14,1,0,4,1086.255833,1101.310394,15.054561,0.85,0.548909,50.0,21
-1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,jack-brabham,Jack Brabham,brabham,5,14,15,0,5,1068.440947,1082.303177,13.862229,0.8,0.522755,50.0,21
-1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,pedro-rodriguez,Pedro Rodríguez,brm,6,14,14,0,6,1096.463943,1105.77428,9.310337,0.75,0.563793,50.0,21
-1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,denny-hulme,Denny Hulme,mclaren,7,14,11,0,7,1179.150837,1180.214537,1.0637,0.7,0.678726,50.0,21
-1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,piers-courage,Piers Courage,brm,8,14,8,0,8,1017.525328,1027.635345,10.110017,0.65,0.4478,50.0,21
-1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,dan-gurney,Dan Gurney,eagle,9,14,10,0,9,1014.847108,1022.652757,7.805649,0.6,0.443887,50.0,21
-1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,hubert-hahne,Hubert Hahne,lola,10,14,18,0,10,1010.235046,1015.876866,5.64182,0.55,0.437164,50.0,21
-1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,jackie-oliver,Jackie Oliver,lotus,11,13,13,0,11,1002.35642,1006.070141,3.71372,0.5,0.425726,50.0,21
-1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,kurt-ahrens-jr,"Kurt Ahrens, Jr.",brabham,12,13,17,0,12,981.832963,984.519015,2.686052,0.45,0.396279,50.0,21
-1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,bruce-mclaren,Bruce McLaren,mclaren,13,13,16,0,13,1025.903836,1022.900133,-3.003703,0.4,0.460074,50.0,21
-1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,richard-attwood,Richard Attwood,brm,14,13,20,0,14,1036.063322,1029.812707,-6.250615,0.35,0.475012,50.0,21
-1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,chris-amon,Chris Amon,ferrari,DNF,11,2,1,15,1104.022175,1090.284732,-13.737443,0.3,0.574749,50.0,21
-1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,DNF,8,12,1,16,1062.406958,1049.21375,-13.193209,0.25,0.513864,50.0,21
-1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,jo-siffert,Jo Siffert,lotus,DNF,6,9,1,17,1080.794091,1062.498556,-18.295534,0.175,0.540911,50.0,21
-1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,lucien-bianchi,Lucien Bianchi,cooper,DNF,6,19,1,18,1000.001134,987.635176,-12.365957,0.175,0.422319,50.0,21
-1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,john-surtees,John Surtees,honda,DNF,3,7,1,19,1159.394261,1131.771304,-27.622957,0.1,0.652459,50.0,21
-1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,vic-elford,Vic Elford,cooper,DNF,0,5,1,20,1012.498148,992.97513,-19.523018,0.05,0.44046,50.0,21
-1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,silvio-moser,Silvio Moser,brabham,DNS,,,2,21,983.332886,963.412321,-19.920565,0.0,0.398411,50.0,21
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,169,jackie-stewart,Jackie Stewart,matra,1,14,6,0,1,1098.743064,1120.387904,21.64484,1.0,0.567103,50.0,21
+1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,169,graham-hill,Graham Hill,lotus,2,14,4,0,2,1091.474327,1111.14786,19.673533,0.95,0.556529,50.0,21
+1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,169,jochen-rindt,Jochen Rindt,brabham,3,14,3,0,3,1007.419744,1030.766286,23.346542,0.9,0.433069,50.0,21
+1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,169,jacky-ickx,Jacky Ickx,ferrari,4,14,1,0,4,1086.255833,1101.310394,15.054561,0.85,0.548909,50.0,21
+1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,169,jack-brabham,Jack Brabham,brabham,5,14,15,0,5,1068.440947,1082.303177,13.862229,0.8,0.522755,50.0,21
+1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,169,pedro-rodriguez,Pedro Rodríguez,brm,6,14,14,0,6,1096.463943,1105.77428,9.310337,0.75,0.563793,50.0,21
+1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,169,denny-hulme,Denny Hulme,mclaren,7,14,11,0,7,1179.150837,1180.214537,1.0637,0.7,0.678726,50.0,21
+1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,169,piers-courage,Piers Courage,brm,8,14,8,0,8,1017.525328,1027.635345,10.110017,0.65,0.4478,50.0,21
+1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,169,dan-gurney,Dan Gurney,eagle,9,14,10,0,9,1014.847108,1022.652757,7.805649,0.6,0.443887,50.0,21
+1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,169,hubert-hahne,Hubert Hahne,lola,10,14,18,0,10,1010.235046,1015.876866,5.64182,0.55,0.437164,50.0,21
+1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,169,jackie-oliver,Jackie Oliver,lotus,11,13,13,0,11,1002.35642,1006.070141,3.71372,0.5,0.425726,50.0,21
+1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,169,kurt-ahrens-jr,"Kurt Ahrens, Jr.",brabham,12,13,17,0,12,981.832963,984.519015,2.686052,0.45,0.396279,50.0,21
+1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,169,bruce-mclaren,Bruce McLaren,mclaren,13,13,16,0,13,1025.903836,1022.900133,-3.003703,0.4,0.460074,50.0,21
+1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,169,richard-attwood,Richard Attwood,brm,14,13,20,0,14,1036.063322,1029.812707,-6.250615,0.35,0.475012,50.0,21
+1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,169,chris-amon,Chris Amon,ferrari,DNF,11,2,1,15,1104.022175,1090.284732,-13.737443,0.3,0.574749,50.0,21
+1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,169,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,DNF,8,12,1,16,1062.406958,1049.21375,-13.193209,0.25,0.513864,50.0,21
+1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,169,jo-siffert,Jo Siffert,lotus,DNF,6,9,1,17,1080.794091,1062.498556,-18.295534,0.175,0.540911,50.0,21
+1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,169,lucien-bianchi,Lucien Bianchi,cooper,DNF,6,19,1,18,1000.001134,987.635176,-12.365957,0.175,0.422319,50.0,21
+1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,169,john-surtees,John Surtees,honda,DNF,3,7,1,19,1159.394261,1131.771304,-27.622957,0.1,0.652459,50.0,21
+1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,169,vic-elford,Vic Elford,cooper,DNF,0,5,1,20,1012.498148,992.97513,-19.523018,0.05,0.44046,50.0,21
+1968,8,1968-08-04,germany,Grosser Preis von Deutschland 1968,169,silvio-moser,Silvio Moser,brabham,DNS,,,2,21,983.332886,963.412321,-19.920565,0.0,0.398411,50.0,21

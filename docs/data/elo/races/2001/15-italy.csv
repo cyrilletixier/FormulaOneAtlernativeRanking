@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,juan-pablo-montoya,Juan Pablo Montoya,williams,1,53,1,0,1,1020.688993,1049.297331,28.608338,1.0,0.427833,50.0,22
-2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,rubens-barrichello,Rubens Barrichello,ferrari,2,53,2,0,2,1252.736192,1263.780706,11.044514,0.952381,0.731491,50.0,22
-2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,ralf-schumacher,Ralf Schumacher,williams,3,53,4,0,3,1171.866197,1185.400326,13.534129,0.904762,0.634079,50.0,22
-2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,michael-schumacher,Michael Schumacher,ferrari,4,53,3,0,4,1351.287407,1352.736882,1.449475,0.857143,0.828153,50.0,22
-2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,pedro-de-la-rosa,Pedro de la Rosa,jaguar,5,53,10,0,5,959.178158,982.380315,23.202157,0.809524,0.345481,50.0,22
-2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,jacques-villeneuve,Jacques Villeneuve,bar,6,53,15,0,6,1126.595726,1135.98373,9.388004,0.761905,0.574145,50.0,22
-2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,kimi-raikkonen,Kimi Räikkönen,sauber,7,53,9,0,7,1056.501111,1068.344554,11.843443,0.714286,0.477417,50.0,22
-2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,jean-alesi,Jean Alesi,jordan,8,52,16,0,8,1089.459872,1096.632741,7.172869,0.666667,0.523209,50.0,22
-2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,olivier-panis,Olivier Panis,bar,9,52,17,0,9,1035.295942,1043.849166,8.553224,0.619048,0.447983,50.0,22
-2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,giancarlo-fisichella,Giancarlo Fisichella,benetton,10,52,PL,0,10,1059.520019,1064.010655,4.490636,0.571429,0.481616,50.0,22
-2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,nick-heidfeld,Nick Heidfeld,sauber,11,52,PL,0,11,1001.948082,1008.026782,6.0787,0.52381,0.402236,50.0,22
-2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,tomas-enge,Tomáš Enge,prost,12,52,20,0,12,1000.0,1003.829753,3.829753,0.47619,0.399595,50.0,22
-2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,fernando-alonso,Fernando Alonso,minardi,13,51,21,0,13,946.325721,951.303105,4.977385,0.428571,0.329024,50.0,22
-2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,enrique-bernoldi,Enrique Bernoldi,arrows,DNF,46,18,1,14,952.970022,955.143052,2.17303,0.380952,0.337492,50.0,22
-2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,alex-yoong,Alex Yoong,minardi,DNF,44,22,1,15,1000.0,996.686895,-3.313105,0.333333,0.399595,50.0,22
-2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,heinz-harald-frentzen,Heinz-Harald Frentzen,prost,DNF,28,12,1,16,1068.152701,1057.757184,-10.395517,0.285714,0.493625,50.0,22
-2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,jos-verstappen,Jos Verstappen,arrows,DNF,25,19,1,17,1039.736056,1028.934177,-10.801879,0.238095,0.454133,50.0,22
-2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,mika-hakkinen,Mika Häkkinen,mclaren,DNF,19,7,1,18,1185.325704,1162.286835,-23.03887,0.190476,0.651254,50.0,22
-2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,eddie-irvine,Eddie Irvine,jaguar,DNF,14,13,1,19,1035.023801,1019.786332,-15.23747,0.142857,0.447607,50.0,22
-2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,david-coulthard,David Coulthard,mclaren,DNF,6,6,1,20,1278.374668,1245.180185,-33.194483,0.095238,0.759128,50.0,22
-2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,jenson-button,Jenson Button,benetton,DNF,4,11,1,21,1027.708098,1008.214131,-19.493967,0.047619,0.437498,50.0,22
-2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,jarno-trulli,Jarno Trulli,jordan,DNF,0,5,1,22,1013.085296,992.214931,-20.870364,0.0,0.417407,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,678,juan-pablo-montoya,Juan Pablo Montoya,williams,1,53,1,0,1,1020.688993,1049.297331,28.608338,1.0,0.427833,50.0,22
+2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,678,rubens-barrichello,Rubens Barrichello,ferrari,2,53,2,0,2,1252.736192,1263.780706,11.044514,0.952381,0.731491,50.0,22
+2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,678,ralf-schumacher,Ralf Schumacher,williams,3,53,4,0,3,1171.866197,1185.400326,13.534129,0.904762,0.634079,50.0,22
+2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,678,michael-schumacher,Michael Schumacher,ferrari,4,53,3,0,4,1351.287407,1352.736882,1.449475,0.857143,0.828153,50.0,22
+2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,678,pedro-de-la-rosa,Pedro de la Rosa,jaguar,5,53,10,0,5,959.178158,982.380315,23.202157,0.809524,0.345481,50.0,22
+2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,678,jacques-villeneuve,Jacques Villeneuve,bar,6,53,15,0,6,1126.595726,1135.98373,9.388004,0.761905,0.574145,50.0,22
+2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,678,kimi-raikkonen,Kimi Räikkönen,sauber,7,53,9,0,7,1056.501111,1068.344554,11.843443,0.714286,0.477417,50.0,22
+2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,678,jean-alesi,Jean Alesi,jordan,8,52,16,0,8,1089.459872,1096.632741,7.172869,0.666667,0.523209,50.0,22
+2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,678,olivier-panis,Olivier Panis,bar,9,52,17,0,9,1035.295942,1043.849166,8.553224,0.619048,0.447983,50.0,22
+2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,678,giancarlo-fisichella,Giancarlo Fisichella,benetton,10,52,PL,0,10,1059.520019,1064.010655,4.490636,0.571429,0.481616,50.0,22
+2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,678,nick-heidfeld,Nick Heidfeld,sauber,11,52,PL,0,11,1001.948082,1008.026782,6.0787,0.52381,0.402236,50.0,22
+2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,678,tomas-enge,Tomáš Enge,prost,12,52,20,0,12,1000.0,1003.829753,3.829753,0.47619,0.399595,50.0,22
+2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,678,fernando-alonso,Fernando Alonso,minardi,13,51,21,0,13,946.325721,951.303105,4.977385,0.428571,0.329024,50.0,22
+2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,678,enrique-bernoldi,Enrique Bernoldi,arrows,DNF,46,18,1,14,952.970022,955.143052,2.17303,0.380952,0.337492,50.0,22
+2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,678,alex-yoong,Alex Yoong,minardi,DNF,44,22,1,15,1000.0,996.686895,-3.313105,0.333333,0.399595,50.0,22
+2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,678,heinz-harald-frentzen,Heinz-Harald Frentzen,prost,DNF,28,12,1,16,1068.152701,1057.757184,-10.395517,0.285714,0.493625,50.0,22
+2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,678,jos-verstappen,Jos Verstappen,arrows,DNF,25,19,1,17,1039.736056,1028.934177,-10.801879,0.238095,0.454133,50.0,22
+2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,678,mika-hakkinen,Mika Häkkinen,mclaren,DNF,19,7,1,18,1185.325704,1162.286835,-23.03887,0.190476,0.651254,50.0,22
+2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,678,eddie-irvine,Eddie Irvine,jaguar,DNF,14,13,1,19,1035.023801,1019.786332,-15.23747,0.142857,0.447607,50.0,22
+2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,678,david-coulthard,David Coulthard,mclaren,DNF,6,6,1,20,1278.374668,1245.180185,-33.194483,0.095238,0.759128,50.0,22
+2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,678,jenson-button,Jenson Button,benetton,DNF,4,11,1,21,1027.708098,1008.214131,-19.493967,0.047619,0.437498,50.0,22
+2001,15,2001-09-16,italy,Gran Premio Campari d'Italia 2001,678,jarno-trulli,Jarno Trulli,jordan,DNF,0,5,1,22,1013.085296,992.214931,-20.870364,0.0,0.417407,50.0,22

@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,nico-rosberg,Nico Rosberg,mercedes,1,44,1,0,1,1423.248286,1432.343556,9.095271,1.0,0.818095,50.0,22
-2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,2,44,5,0,2,1309.867329,1322.025946,12.158617,0.952381,0.709209,50.0,22
-2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,3,44,21,0,3,1479.644793,1481.817931,2.173138,0.904762,0.861299,50.0,22
-2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,4,44,7,0,4,1127.07438,1145.644504,18.570124,0.857143,0.48574,50.0,22
-2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,sergio-perez,Sergio Pérez,force-india,5,44,6,0,5,1201.097817,1212.527907,11.43009,0.809524,0.580922,50.0,22
-2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,6,44,4,0,6,1338.766553,1339.878646,1.112093,0.761905,0.739663,50.0,22
-2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,fernando-alonso,Fernando Alonso,mclaren,7,44,22,0,7,1080.471417,1094.924071,14.452654,0.714286,0.425233,50.0,22
-2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,valtteri-bottas,Valtteri Bottas,williams,8,44,8,0,8,1245.08343,1246.663957,1.580527,0.666667,0.635056,50.0,22
-2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,9,44,3,0,9,1281.174748,1278.261882,-2.912867,0.619048,0.677305,50.0,22
-2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,felipe-massa,Felipe Massa,williams,10,44,10,0,10,1128.393991,1132.592518,4.198528,0.571429,0.487458,50.0,22
-2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,max-verstappen,Max Verstappen,red-bull,11,44,2,0,11,1217.081821,1213.228166,-3.853655,0.52381,0.600883,50.0,22
-2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,esteban-gutierrez,Esteban Gutiérrez,haas,12,44,18,0,12,1005.970035,1013.189497,7.219462,0.47619,0.331801,50.0,22
-2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,romain-grosjean,Romain Grosjean,haas,13,44,11,0,13,1084.096835,1084.029794,-0.067041,0.428571,0.429912,50.0,22
-2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,daniil-kvyat,Daniil Kvyat,toro-rosso,14,44,19,0,14,1079.864741,1077.689845,-2.174896,0.380952,0.42445,50.0,22
-2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,jolyon-palmer,Jolyon Palmer,renault,15,44,13,0,15,970.403439,972.568297,2.164858,0.333333,0.290036,50.0,22
-2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,esteban-ocon,Esteban Ocon,manor,16,43,17,0,16,1000.0,998.054074,-1.945926,0.285714,0.324633,50.0,22
-2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,felipe-nasr,Felipe Nasr,sauber,17,43,16,0,17,998.822021,994.565511,-4.256509,0.238095,0.323225,50.0,22
-2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,kevin-magnussen,Kevin Magnussen,renault,DNF,5,12,1,18,1057.694226,1047.415993,-10.278233,0.190476,0.396041,50.0,22
-2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,DNF,3,20,1,19,968.832112,961.562643,-7.269469,0.142857,0.288247,50.0,22
-2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,1,14,1,20,1104.187223,1084.960882,-19.226341,0.071429,0.455955,50.0,22
-2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,jenson-button,Jenson Button,mclaren,DNF,1,9,1,21,1085.398341,1067.39007,-18.008271,0.071429,0.431594,50.0,22
-2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,pascal-wehrlein,Pascal Wehrlein,manor,DNF,0,15,1,22,964.415281,950.253129,-14.162153,0.0,0.283243,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,948,nico-rosberg,Nico Rosberg,mercedes,1,44,1,0,1,1423.248286,1432.343556,9.095271,1.0,0.818095,50.0,22
+2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,948,daniel-ricciardo,Daniel Ricciardo,red-bull,2,44,5,0,2,1309.867329,1322.025946,12.158617,0.952381,0.709209,50.0,22
+2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,948,lewis-hamilton,Lewis Hamilton,mercedes,3,44,21,0,3,1479.644793,1481.817931,2.173138,0.904762,0.861299,50.0,22
+2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,948,nico-hulkenberg,Nico Hülkenberg,force-india,4,44,7,0,4,1127.07438,1145.644504,18.570124,0.857143,0.48574,50.0,22
+2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,948,sergio-perez,Sergio Pérez,force-india,5,44,6,0,5,1201.097817,1212.527907,11.43009,0.809524,0.580922,50.0,22
+2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,948,sebastian-vettel,Sebastian Vettel,ferrari,6,44,4,0,6,1338.766553,1339.878646,1.112093,0.761905,0.739663,50.0,22
+2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,948,fernando-alonso,Fernando Alonso,mclaren,7,44,22,0,7,1080.471417,1094.924071,14.452654,0.714286,0.425233,50.0,22
+2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,948,valtteri-bottas,Valtteri Bottas,williams,8,44,8,0,8,1245.08343,1246.663957,1.580527,0.666667,0.635056,50.0,22
+2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,948,kimi-raikkonen,Kimi Räikkönen,ferrari,9,44,3,0,9,1281.174748,1278.261882,-2.912867,0.619048,0.677305,50.0,22
+2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,948,felipe-massa,Felipe Massa,williams,10,44,10,0,10,1128.393991,1132.592518,4.198528,0.571429,0.487458,50.0,22
+2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,948,max-verstappen,Max Verstappen,red-bull,11,44,2,0,11,1217.081821,1213.228166,-3.853655,0.52381,0.600883,50.0,22
+2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,948,esteban-gutierrez,Esteban Gutiérrez,haas,12,44,18,0,12,1005.970035,1013.189497,7.219462,0.47619,0.331801,50.0,22
+2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,948,romain-grosjean,Romain Grosjean,haas,13,44,11,0,13,1084.096835,1084.029794,-0.067041,0.428571,0.429912,50.0,22
+2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,948,daniil-kvyat,Daniil Kvyat,toro-rosso,14,44,19,0,14,1079.864741,1077.689845,-2.174896,0.380952,0.42445,50.0,22
+2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,948,jolyon-palmer,Jolyon Palmer,renault,15,44,13,0,15,970.403439,972.568297,2.164858,0.333333,0.290036,50.0,22
+2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,948,esteban-ocon,Esteban Ocon,manor,16,43,17,0,16,1000.0,998.054074,-1.945926,0.285714,0.324633,50.0,22
+2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,948,felipe-nasr,Felipe Nasr,sauber,17,43,16,0,17,998.822021,994.565511,-4.256509,0.238095,0.323225,50.0,22
+2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,948,kevin-magnussen,Kevin Magnussen,renault,DNF,5,12,1,18,1057.694226,1047.415993,-10.278233,0.190476,0.396041,50.0,22
+2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,948,marcus-ericsson,Marcus Ericsson,sauber,DNF,3,20,1,19,968.832112,961.562643,-7.269469,0.142857,0.288247,50.0,22
+2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,948,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,1,14,1,20,1104.187223,1084.960882,-19.226341,0.071429,0.455955,50.0,22
+2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,948,jenson-button,Jenson Button,mclaren,DNF,1,9,1,21,1085.398341,1067.39007,-18.008271,0.071429,0.431594,50.0,22
+2016,13,2016-08-28,belgium,2016 Formula 1 Belgian Grand Prix,948,pascal-wehrlein,Pascal Wehrlein,manor,DNF,0,15,1,22,964.415281,950.253129,-14.162153,0.0,0.283243,50.0,22

@@ -1,5 +1,5 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1960-05-29,1960,2,monaco,scarab,Scarab,DNQ,,25,1000.0,985.293596,-14.706404,0.166667,0.460795,50.0
-1960-06-06,1960,4,netherlands,scarab,Scarab,DNS,,21,985.293596,967.906354,-17.387242,0.075,0.422745,50.0
-1960-06-19,1960,5,belgium,scarab,Scarab,DNF,1,19,967.906354,953.052563,-14.853791,0.111111,0.408187,50.0
-1960-07-16,1960,7,great-britain,cooper,Cooper,DNS,,25,953.052563,933.009264,-20.043299,0.0,0.400866,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1960-05-29,1960,2,monaco,86,scarab,Scarab,DNQ,,25,1000.0,985.293596,-14.706404,0.166667,0.460795,50.0
+1960-06-06,1960,4,netherlands,88,scarab,Scarab,DNS,,21,985.293596,967.906354,-17.387242,0.075,0.422745,50.0
+1960-06-19,1960,5,belgium,89,scarab,Scarab,DNF,1,19,967.906354,953.052563,-14.853791,0.111111,0.408187,50.0
+1960-07-16,1960,7,great-britain,91,cooper,Cooper,DNS,,25,953.052563,933.009264,-20.043299,0.0,0.400866,50.0

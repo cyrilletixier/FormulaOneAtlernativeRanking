@@ -1,29 +1,29 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,alain-prost,Alain Prost,renault,1,40,1,0,1,1224.70365,1238.902709,14.199059,1.0,0.716019,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,patrick-tambay,Patrick Tambay,ferrari,2,40,2,0,2,1142.38407,1159.9281,17.544031,0.962963,0.612082,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,eddie-cheever,Eddie Cheever,renault,3,40,8,0,3,1083.013059,1102.782683,19.769624,0.925926,0.530533,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,nelson-piquet,Nelson Piquet,brabham,4,40,4,0,4,1179.547893,1190.956159,11.408266,0.888889,0.660724,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,keke-rosberg,Keke Rosberg,williams,5,40,9,0,5,1175.296253,1185.124494,9.828241,0.851852,0.655287,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,jacques-laffite,Jacques Laffite,williams,6,40,11,0,6,1160.97147,1169.876493,8.905023,0.814815,0.636714,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,derek-warwick,Derek Warwick,toleman,7,40,22,0,7,930.233447,952.953204,22.719757,0.777778,0.323383,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,bruno-giacomelli,Bruno Giacomelli,toleman,8,40,16,0,8,1034.538907,1048.440866,13.901959,0.740741,0.462702,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,elio-de-angelis,Elio de Angelis,lotus,9,39,13,0,9,1115.6144,1122.012563,6.398164,0.703704,0.57574,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,johnny-cecotto,Johnny Cecotto,theodore,10,39,25,0,10,1014.4602,1026.051976,11.591777,0.666667,0.434831,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,marc-surer,Marc Surer,arrows,11,39,10,0,11,1171.020114,1170.012432,-1.007682,0.62963,0.649783,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,danny-sullivan,Danny Sullivan,tyrrell,12,39,23,0,12,1037.105943,1043.421435,6.315492,0.592593,0.466283,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,raul-boesel,Raul Boesel,ligier,13,39,26,0,13,994.449358,1001.856733,7.407374,0.555556,0.407408,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,michele-alboreto,Michele Alboreto,tyrrell,14,38,17,0,14,1109.718987,1107.263551,-2.455436,0.518519,0.567627,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,niki-lauda,Niki Lauda,mclaren,DNF,33,15,1,15,1107.907982,1103.725635,-4.182347,0.481481,0.565128,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,nigel-mansell,Nigel Mansell,lotus,DNF,30,19,1,16,1060.922896,1058.164528,-2.758367,0.444444,0.499612,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,DNF,25,3,1,17,1050.554109,1046.670169,-3.883939,0.407407,0.485086,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,roberto-guerrero,Roberto Guerrero,theodore,DNF,23,14,1,18,923.530528,926.295546,2.765019,0.37037,0.31507,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,rene-arnoux,René Arnoux,ferrari,DNF,22,5,1,19,1147.369395,1133.098904,-14.270491,0.333333,0.618743,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,corrado-fabi,Corrado Fabi,osella,DNF,19,24,1,20,957.387064,954.30077,-3.086295,0.296296,0.358022,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,18,7,1,21,971.226352,965.378735,-5.847617,0.259259,0.376212,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,jean-pierre-jarier,Jean-Pierre Jarier,ligier,DNF,8,21,1,22,994.821323,984.610822,-10.210501,0.203704,0.407914,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,john-watson,John Watson,mclaren,DNF,8,20,1,23,1179.611283,1156.75625,-22.855033,0.203704,0.660804,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,thierry-boutsen,Thierry Boutsen,arrows,DNF,4,18,1,24,1000.0,986.658853,-13.341147,0.148148,0.414971,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,mauro-baldi,Mauro Baldi,alfa-romeo,DNF,3,12,1,25,1038.330938,1020.486853,-17.844084,0.111111,0.467993,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,riccardo-patrese,Riccardo Patrese,brabham,DNF,0,6,1,26,1067.712617,1045.960059,-21.752557,0.074074,0.509125,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,eliseo-salazar,Eliseo Salazar,ram,DNQ,,,2,27,928.638354,913.494508,-15.143846,0.018519,0.321395,50.0,28
-1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNQ,,,2,28,911.831672,897.71723,-14.114442,0.018519,0.300807,50.0,28
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,alain-prost,Alain Prost,renault,1,40,1,0,1,1224.70365,1238.902709,14.199059,1.0,0.716019,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,patrick-tambay,Patrick Tambay,ferrari,2,40,2,0,2,1142.38407,1159.9281,17.544031,0.962963,0.612082,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,eddie-cheever,Eddie Cheever,renault,3,40,8,0,3,1083.013059,1102.782683,19.769624,0.925926,0.530533,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,nelson-piquet,Nelson Piquet,brabham,4,40,4,0,4,1179.547893,1190.956159,11.408266,0.888889,0.660724,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,keke-rosberg,Keke Rosberg,williams,5,40,9,0,5,1175.296253,1185.124494,9.828241,0.851852,0.655287,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,jacques-laffite,Jacques Laffite,williams,6,40,11,0,6,1160.97147,1169.876493,8.905023,0.814815,0.636714,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,derek-warwick,Derek Warwick,toleman,7,40,22,0,7,930.233447,952.953204,22.719757,0.777778,0.323383,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,bruno-giacomelli,Bruno Giacomelli,toleman,8,40,16,0,8,1034.538907,1048.440866,13.901959,0.740741,0.462702,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,elio-de-angelis,Elio de Angelis,lotus,9,39,13,0,9,1115.6144,1122.012563,6.398164,0.703704,0.57574,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,johnny-cecotto,Johnny Cecotto,theodore,10,39,25,0,10,1014.4602,1026.051976,11.591777,0.666667,0.434831,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,marc-surer,Marc Surer,arrows,11,39,10,0,11,1171.020114,1170.012432,-1.007682,0.62963,0.649783,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,danny-sullivan,Danny Sullivan,tyrrell,12,39,23,0,12,1037.105943,1043.421435,6.315492,0.592593,0.466283,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,raul-boesel,Raul Boesel,ligier,13,39,26,0,13,994.449358,1001.856733,7.407374,0.555556,0.407408,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,michele-alboreto,Michele Alboreto,tyrrell,14,38,17,0,14,1109.718987,1107.263551,-2.455436,0.518519,0.567627,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,niki-lauda,Niki Lauda,mclaren,DNF,33,15,1,15,1107.907982,1103.725635,-4.182347,0.481481,0.565128,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,nigel-mansell,Nigel Mansell,lotus,DNF,30,19,1,16,1060.922896,1058.164528,-2.758367,0.444444,0.499612,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,DNF,25,3,1,17,1050.554109,1046.670169,-3.883939,0.407407,0.485086,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,roberto-guerrero,Roberto Guerrero,theodore,DNF,23,14,1,18,923.530528,926.295546,2.765019,0.37037,0.31507,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,rene-arnoux,René Arnoux,ferrari,DNF,22,5,1,19,1147.369395,1133.098904,-14.270491,0.333333,0.618743,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,corrado-fabi,Corrado Fabi,osella,DNF,19,24,1,20,957.387064,954.30077,-3.086295,0.296296,0.358022,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,18,7,1,21,971.226352,965.378735,-5.847617,0.259259,0.376212,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,jean-pierre-jarier,Jean-Pierre Jarier,ligier,DNF,8,21,1,22,994.821323,984.610822,-10.210501,0.203704,0.407914,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,john-watson,John Watson,mclaren,DNF,8,20,1,23,1179.611283,1156.75625,-22.855033,0.203704,0.660804,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,thierry-boutsen,Thierry Boutsen,arrows,DNF,4,18,1,24,1000.0,986.658853,-13.341147,0.148148,0.414971,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,mauro-baldi,Mauro Baldi,alfa-romeo,DNF,3,12,1,25,1038.330938,1020.486853,-17.844084,0.111111,0.467993,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,riccardo-patrese,Riccardo Patrese,brabham,DNF,0,6,1,26,1067.712617,1045.960059,-21.752557,0.074074,0.509125,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,eliseo-salazar,Eliseo Salazar,ram,DNQ,,,2,27,928.638354,913.494508,-15.143846,0.018519,0.321395,50.0,28
+1983,6,1983-05-22,belgium,1983 Belgian Grand Prix,379,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNQ,,,2,28,911.831672,897.71723,-14.114442,0.018519,0.300807,50.0,28

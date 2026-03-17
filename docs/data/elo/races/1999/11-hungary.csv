@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,mika-hakkinen,Mika Häkkinen,mclaren,1,77,1,0,1,1231.377476,1245.586963,14.209487,1.0,0.71581,50.0,22
-1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,david-coulthard,David Coulthard,mclaren,2,77,3,0,2,1200.642611,1214.33415,13.691539,0.952381,0.67855,50.0,22
-1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,eddie-irvine,Eddie Irvine,ferrari,3,77,2,0,3,1283.388421,1289.959872,6.57145,0.904762,0.773333,50.0,22
-1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,4,77,5,0,4,1214.960006,1223.007741,8.047736,0.857143,0.696188,50.0,22
-1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,rubens-barrichello,Rubens Barrichello,stewart,5,77,8,0,5,1013.389338,1032.776873,19.387535,0.809524,0.421773,50.0,22
-1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,damon-hill,Damon Hill,jordan,6,77,6,0,6,1083.532465,1095.595066,12.0626,0.761905,0.520653,50.0,22
-1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,alexander-wurz,Alexander Wurz,benetton,7,77,7,0,7,1094.099395,1103.036339,8.936944,0.714286,0.535547,50.0,22
-1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,jarno-trulli,Jarno Trulli,prost,8,76,13,0,8,1022.406632,1034.0221,11.615469,0.666667,0.434357,50.0,22
-1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,ralf-schumacher,Ralf Schumacher,williams,9,76,16,0,9,1132.492847,1133.998008,1.505161,0.619048,0.588944,50.0,22
-1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,olivier-panis,Olivier Panis,prost,10,76,14,0,10,1066.216571,1069.979901,3.76333,0.571429,0.496162,50.0,22
-1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,johnny-herbert,Johnny Herbert,stewart,11,76,10,0,11,1008.771078,1014.193667,5.422588,0.52381,0.415358,50.0,22
-1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,mika-salo,Mika Salo,ferrari,12,75,18,0,12,1022.197035,1024.303359,2.106324,0.47619,0.434064,50.0,22
-1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,ricardo-zonta,Ricardo Zonta,bar,13,75,17,0,13,981.174804,983.725619,2.550815,0.428571,0.377555,50.0,22
-1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,luca-badoer,Luca Badoer,minardi,14,75,19,0,14,996.997184,996.089373,-0.907811,0.380952,0.399109,50.0,22
-1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,pedro-de-la-rosa,Pedro de la Rosa,arrows,15,75,20,0,15,984.751654,982.298517,-2.453137,0.333333,0.382396,50.0,22
-1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,jean-alesi,Jean Alesi,sauber,16,74,11,0,16,1069.796273,1059.020505,-10.775768,0.285714,0.50123,50.0,22
-1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,marc-gene,Marc Gené,minardi,17,74,22,0,17,1013.394802,1004.210528,-9.184274,0.238095,0.421781,50.0,22
-1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,jacques-villeneuve,Jacques Villeneuve,bar,DNF,60,9,1,18,1039.444894,1026.053637,-13.391257,0.190476,0.458301,50.0,22
-1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,52,4,1,19,1152.060188,1128.428287,-23.631901,0.142857,0.615495,50.0,22
-1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,toranosuke-takagi,Toranosuke Takagi,arrows,DNF,26,21,1,20,963.842958,950.885227,-12.95773,0.095238,0.354393,50.0,22
-1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,pedro-diniz,Pedro Diniz,sauber,DNF,19,12,1,21,989.511199,972.448798,-17.062401,0.047619,0.388867,50.0,22
-1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,alex-zanardi,Alex Zanardi,williams,DNF,10,15,1,22,990.440282,970.933581,-19.506701,0.0,0.390134,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,641,mika-hakkinen,Mika Häkkinen,mclaren,1,77,1,0,1,1231.377476,1245.586963,14.209487,1.0,0.71581,50.0,22
+1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,641,david-coulthard,David Coulthard,mclaren,2,77,3,0,2,1200.642611,1214.33415,13.691539,0.952381,0.67855,50.0,22
+1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,641,eddie-irvine,Eddie Irvine,ferrari,3,77,2,0,3,1283.388421,1289.959872,6.57145,0.904762,0.773333,50.0,22
+1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,641,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,4,77,5,0,4,1214.960006,1223.007741,8.047736,0.857143,0.696188,50.0,22
+1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,641,rubens-barrichello,Rubens Barrichello,stewart,5,77,8,0,5,1013.389338,1032.776873,19.387535,0.809524,0.421773,50.0,22
+1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,641,damon-hill,Damon Hill,jordan,6,77,6,0,6,1083.532465,1095.595066,12.0626,0.761905,0.520653,50.0,22
+1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,641,alexander-wurz,Alexander Wurz,benetton,7,77,7,0,7,1094.099395,1103.036339,8.936944,0.714286,0.535547,50.0,22
+1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,641,jarno-trulli,Jarno Trulli,prost,8,76,13,0,8,1022.406632,1034.0221,11.615469,0.666667,0.434357,50.0,22
+1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,641,ralf-schumacher,Ralf Schumacher,williams,9,76,16,0,9,1132.492847,1133.998008,1.505161,0.619048,0.588944,50.0,22
+1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,641,olivier-panis,Olivier Panis,prost,10,76,14,0,10,1066.216571,1069.979901,3.76333,0.571429,0.496162,50.0,22
+1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,641,johnny-herbert,Johnny Herbert,stewart,11,76,10,0,11,1008.771078,1014.193667,5.422588,0.52381,0.415358,50.0,22
+1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,641,mika-salo,Mika Salo,ferrari,12,75,18,0,12,1022.197035,1024.303359,2.106324,0.47619,0.434064,50.0,22
+1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,641,ricardo-zonta,Ricardo Zonta,bar,13,75,17,0,13,981.174804,983.725619,2.550815,0.428571,0.377555,50.0,22
+1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,641,luca-badoer,Luca Badoer,minardi,14,75,19,0,14,996.997184,996.089373,-0.907811,0.380952,0.399109,50.0,22
+1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,641,pedro-de-la-rosa,Pedro de la Rosa,arrows,15,75,20,0,15,984.751654,982.298517,-2.453137,0.333333,0.382396,50.0,22
+1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,641,jean-alesi,Jean Alesi,sauber,16,74,11,0,16,1069.796273,1059.020505,-10.775768,0.285714,0.50123,50.0,22
+1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,641,marc-gene,Marc Gené,minardi,17,74,22,0,17,1013.394802,1004.210528,-9.184274,0.238095,0.421781,50.0,22
+1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,641,jacques-villeneuve,Jacques Villeneuve,bar,DNF,60,9,1,18,1039.444894,1026.053637,-13.391257,0.190476,0.458301,50.0,22
+1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,641,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,52,4,1,19,1152.060188,1128.428287,-23.631901,0.142857,0.615495,50.0,22
+1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,641,toranosuke-takagi,Toranosuke Takagi,arrows,DNF,26,21,1,20,963.842958,950.885227,-12.95773,0.095238,0.354393,50.0,22
+1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,641,pedro-diniz,Pedro Diniz,sauber,DNF,19,12,1,21,989.511199,972.448798,-17.062401,0.047619,0.388867,50.0,22
+1999,11,1999-08-15,hungary,Marlboro Magyar Nagydíj 1999,641,alex-zanardi,Alex Zanardi,williams,DNF,10,15,1,22,990.440282,970.933581,-19.506701,0.0,0.390134,50.0,22

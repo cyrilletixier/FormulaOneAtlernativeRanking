@@ -1,22 +1,22 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,stirling-moss,Stirling Moss,lotus,1,100,1,0,1,1116.537682,1136.64736,20.109678,1.0,0.597806,50.0,21
-1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,richie-ginther,Richie Ginther,ferrari,2,100,2,0,2,1028.721296,1052.73232,24.011024,0.95,0.46978,50.0,21
-1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,phil-hill,Phil Hill,ferrari,3,100,5,0,3,1133.538892,1147.452718,13.913826,0.9,0.621723,50.0,21
-1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,wolfgang-von-trips,Wolfgang von Trips,ferrari,4,98,6,0,4,1097.861017,1111.808662,13.947645,0.85,0.571047,50.0,21
-1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,dan-gurney,Dan Gurney,porsche,5,98,10,0,5,1010.611379,1028.446538,17.835159,0.8,0.443297,50.0,21
-1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,bruce-mclaren,Bruce McLaren,cooper,6,95,7,0,6,1161.951985,1166.426941,4.474956,0.75,0.660501,50.0,21
-1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,maurice-trintignant,Maurice Trintignant,cooper,7,95,15,0,7,1069.375554,1077.898165,8.522611,0.7,0.529548,50.0,21
-1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,cliff-allison,Cliff Allison,lotus,8,93,14,0,8,1026.113424,1035.315722,9.202298,0.65,0.465954,50.0,21
-1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,hans-herrmann,Hans Herrmann,porsche,9,91,12,0,9,1005.184629,1013.414202,8.229573,0.6,0.435409,50.0,21
-1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,jim-clark,Jim Clark,lotus,10,89,3,0,10,1036.745353,1040.167009,3.421656,0.55,0.481567,50.0,21
-1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,john-surtees,John Surtees,cooper,11,68,11,0,11,1001.766447,1005.243742,3.477295,0.5,0.430454,50.0,21
-1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,jo-bonnier,Jo Bonnier,porsche,12,59,9,0,12,1012.706358,1012.888917,0.182559,0.45,0.446349,50.0,21
-1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,tony-brooks,Tony Brooks,brm,13,54,8,0,13,1029.570101,1026.018836,-3.551264,0.4,0.471025,50.0,21
-1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,michael-may,Michael May,lotus,DNF,42,13,1,14,1000.0,996.10508,-3.89492,0.35,0.427898,50.0,21
-1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,jack-brabham,Jack Brabham,cooper,DNF,38,16,1,15,1176.428124,1157.449062,-18.979061,0.3,0.679581,50.0,21
-1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,graham-hill,Graham Hill,brm,DNF,11,4,1,16,958.780722,952.808609,-5.972112,0.25,0.369442,50.0,21
-1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,henry-taylor,Henry Taylor,lotus,DNQ,,,2,17,1020.436684,1003.804735,-16.631949,0.125,0.457639,50.0,21
-1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,lucien-bianchi,Lucien Bianchi,emeryson,DNQ,,,2,18,987.384223,973.146767,-14.237455,0.125,0.409749,50.0,21
-1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,masten-gregory,Masten Gregory,cooper,DNQ,,,2,19,1021.0686,1004.390417,-16.678183,0.125,0.458564,50.0,21
-1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,olivier-gendebien,Olivier Gendebien,emeryson,DNQ,,,2,20,1067.031891,1046.97643,-20.055462,0.125,0.526109,50.0,21
-1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,innes-ireland,Innes Ireland,lotus,DNS,,,2,21,1080.999337,1053.671463,-27.327874,0.0,0.546557,50.0,21
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,95,stirling-moss,Stirling Moss,lotus,1,100,1,0,1,1116.537682,1136.64736,20.109678,1.0,0.597806,50.0,21
+1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,95,richie-ginther,Richie Ginther,ferrari,2,100,2,0,2,1028.721296,1052.73232,24.011024,0.95,0.46978,50.0,21
+1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,95,phil-hill,Phil Hill,ferrari,3,100,5,0,3,1133.538892,1147.452718,13.913826,0.9,0.621723,50.0,21
+1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,95,wolfgang-von-trips,Wolfgang von Trips,ferrari,4,98,6,0,4,1097.861017,1111.808662,13.947645,0.85,0.571047,50.0,21
+1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,95,dan-gurney,Dan Gurney,porsche,5,98,10,0,5,1010.611379,1028.446538,17.835159,0.8,0.443297,50.0,21
+1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,95,bruce-mclaren,Bruce McLaren,cooper,6,95,7,0,6,1161.951985,1166.426941,4.474956,0.75,0.660501,50.0,21
+1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,95,maurice-trintignant,Maurice Trintignant,cooper,7,95,15,0,7,1069.375554,1077.898165,8.522611,0.7,0.529548,50.0,21
+1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,95,cliff-allison,Cliff Allison,lotus,8,93,14,0,8,1026.113424,1035.315722,9.202298,0.65,0.465954,50.0,21
+1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,95,hans-herrmann,Hans Herrmann,porsche,9,91,12,0,9,1005.184629,1013.414202,8.229573,0.6,0.435409,50.0,21
+1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,95,jim-clark,Jim Clark,lotus,10,89,3,0,10,1036.745353,1040.167009,3.421656,0.55,0.481567,50.0,21
+1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,95,john-surtees,John Surtees,cooper,11,68,11,0,11,1001.766447,1005.243742,3.477295,0.5,0.430454,50.0,21
+1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,95,jo-bonnier,Jo Bonnier,porsche,12,59,9,0,12,1012.706358,1012.888917,0.182559,0.45,0.446349,50.0,21
+1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,95,tony-brooks,Tony Brooks,brm,13,54,8,0,13,1029.570101,1026.018836,-3.551264,0.4,0.471025,50.0,21
+1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,95,michael-may,Michael May,lotus,DNF,42,13,1,14,1000.0,996.10508,-3.89492,0.35,0.427898,50.0,21
+1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,95,jack-brabham,Jack Brabham,cooper,DNF,38,16,1,15,1176.428124,1157.449062,-18.979061,0.3,0.679581,50.0,21
+1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,95,graham-hill,Graham Hill,brm,DNF,11,4,1,16,958.780722,952.808609,-5.972112,0.25,0.369442,50.0,21
+1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,95,henry-taylor,Henry Taylor,lotus,DNQ,,,2,17,1020.436684,1003.804735,-16.631949,0.125,0.457639,50.0,21
+1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,95,lucien-bianchi,Lucien Bianchi,emeryson,DNQ,,,2,18,987.384223,973.146767,-14.237455,0.125,0.409749,50.0,21
+1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,95,masten-gregory,Masten Gregory,cooper,DNQ,,,2,19,1021.0686,1004.390417,-16.678183,0.125,0.458564,50.0,21
+1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,95,olivier-gendebien,Olivier Gendebien,emeryson,DNQ,,,2,20,1067.031891,1046.97643,-20.055462,0.125,0.526109,50.0,21
+1961,1,1961-05-14,monaco,Grand Prix de Monaco 1961,95,innes-ireland,Innes Ireland,lotus,DNS,,,2,21,1080.999337,1053.671463,-27.327874,0.0,0.546557,50.0,21

@@ -1,27 +1,27 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,nigel-mansell,Nigel Mansell,williams,1,52,2,0,1,1227.991095,1241.897192,13.906097,1.0,0.721878,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,nelson-piquet,Nelson Piquet,williams,2,52,1,0,2,1277.479108,1286.744769,9.265661,0.96,0.774687,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,teo-fabi,Teo Fabi,benetton,3,51,5,0,3,1019.146944,1042.692073,23.545129,0.92,0.449097,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,thierry-boutsen,Thierry Boutsen,benetton,4,51,4,0,4,1107.721838,1123.178976,15.457139,0.88,0.570857,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,ayrton-senna,Ayrton Senna,lotus,5,50,7,0,5,1224.209103,1230.32984,6.120737,0.84,0.717585,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,alain-prost,Alain Prost,mclaren,6,50,9,0,6,1290.004508,1290.653362,0.648854,0.8,0.787023,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,stefan-johansson,Stefan Johansson,mclaren,7,50,14,0,7,1156.873116,1163.085109,6.211993,0.76,0.63576,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,piercarlo-ghinzani,Piercarlo Ghinzani,ligier,8,50,18,0,8,909.505149,930.224396,20.719247,0.72,0.305615,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,christian-danner,Christian Danner,zakspeed,9,49,20,0,9,991.745678,1005.159362,13.413684,0.68,0.411726,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,rene-arnoux,René Arnoux,ligier,10,49,16,0,10,1088.634028,1093.38985,4.755822,0.64,0.544884,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,ivan-capelli,Ivan Capelli,march,11,49,23,0,11,966.50222,977.60294,11.100719,0.6,0.377986,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,philippe-alliot,Philippe Alliot,lola,12,49,22,0,12,997.608253,1004.62485,7.016597,0.56,0.419668,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,satoru-nakajima,Satoru Nakajima,lotus,13,49,13,0,13,1018.742172,1022.315102,3.57293,0.52,0.448541,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,jonathan-palmer,Jonathan Palmer,tyrrell,14,47,24,0,14,1084.609613,1081.641078,-2.968534,0.48,0.539371,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,philippe-streiff,Philippe Streiff,tyrrell,25,0,25,0,15,1101.981763,1095.827742,-6.154021,0.44,0.56308,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,pascal-fabre,Pascal Fabre,ags,NC,45,26,1,16,1038.782451,1034.974592,-3.807859,0.4,0.476157,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,riccardo-patrese,Riccardo Patrese,brabham,DNF,43,8,1,17,998.191785,995.168767,-3.023019,0.36,0.42046,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,michele-alboreto,Michele Alboreto,ferrari,DNF,42,6,1,18,1078.494354,1067.945631,-10.548723,0.32,0.530974,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,andrea-de-cesaris,Andrea de Cesaris,brabham,DNF,35,10,1,19,934.03376,930.233834,-3.799925,0.26,0.335999,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,derek-warwick,Derek Warwick,arrows,DNF,35,11,1,20,1044.371487,1033.177507,-11.193979,0.26,0.48388,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,eddie-cheever,Eddie Cheever,arrows,DNF,31,12,1,21,1004.937996,993.455863,-11.482133,0.2,0.429643,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,gerhard-berger,Gerhard Berger,ferrari,DNF,5,3,1,22,1058.541128,1041.367929,-17.173199,0.16,0.503464,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,adrian-campos,Adrián Campos,minardi,DNF,3,19,1,23,941.281523,930.021035,-11.260488,0.12,0.34521,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,alessandro-nannini,Alessandro Nannini,minardi,DNF,1,15,1,24,916.833742,905.105812,-11.72793,0.08,0.314559,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,alex-caffi,Alex Caffi,osella,DNF,0,21,1,25,967.886919,950.896193,-16.990725,0.04,0.379815,50.0,26
-1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,martin-brundle,Martin Brundle,zakspeed,DSQ,48,17,2,26,1064.781351,1039.177278,-25.604074,0.0,0.512081,50.0,26
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,nigel-mansell,Nigel Mansell,williams,1,52,2,0,1,1227.991095,1241.897192,13.906097,1.0,0.721878,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,nelson-piquet,Nelson Piquet,williams,2,52,1,0,2,1277.479108,1286.744769,9.265661,0.96,0.774687,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,teo-fabi,Teo Fabi,benetton,3,51,5,0,3,1019.146944,1042.692073,23.545129,0.92,0.449097,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,thierry-boutsen,Thierry Boutsen,benetton,4,51,4,0,4,1107.721838,1123.178976,15.457139,0.88,0.570857,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,ayrton-senna,Ayrton Senna,lotus,5,50,7,0,5,1224.209103,1230.32984,6.120737,0.84,0.717585,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,alain-prost,Alain Prost,mclaren,6,50,9,0,6,1290.004508,1290.653362,0.648854,0.8,0.787023,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,stefan-johansson,Stefan Johansson,mclaren,7,50,14,0,7,1156.873116,1163.085109,6.211993,0.76,0.63576,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,piercarlo-ghinzani,Piercarlo Ghinzani,ligier,8,50,18,0,8,909.505149,930.224396,20.719247,0.72,0.305615,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,christian-danner,Christian Danner,zakspeed,9,49,20,0,9,991.745678,1005.159362,13.413684,0.68,0.411726,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,rene-arnoux,René Arnoux,ligier,10,49,16,0,10,1088.634028,1093.38985,4.755822,0.64,0.544884,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,ivan-capelli,Ivan Capelli,march,11,49,23,0,11,966.50222,977.60294,11.100719,0.6,0.377986,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,philippe-alliot,Philippe Alliot,lola,12,49,22,0,12,997.608253,1004.62485,7.016597,0.56,0.419668,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,satoru-nakajima,Satoru Nakajima,lotus,13,49,13,0,13,1018.742172,1022.315102,3.57293,0.52,0.448541,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,jonathan-palmer,Jonathan Palmer,tyrrell,14,47,24,0,14,1084.609613,1081.641078,-2.968534,0.48,0.539371,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,philippe-streiff,Philippe Streiff,tyrrell,25,0,25,0,15,1101.981763,1095.827742,-6.154021,0.44,0.56308,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,pascal-fabre,Pascal Fabre,ags,NC,45,26,1,16,1038.782451,1034.974592,-3.807859,0.4,0.476157,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,riccardo-patrese,Riccardo Patrese,brabham,DNF,43,8,1,17,998.191785,995.168767,-3.023019,0.36,0.42046,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,michele-alboreto,Michele Alboreto,ferrari,DNF,42,6,1,18,1078.494354,1067.945631,-10.548723,0.32,0.530974,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,andrea-de-cesaris,Andrea de Cesaris,brabham,DNF,35,10,1,19,934.03376,930.233834,-3.799925,0.26,0.335999,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,derek-warwick,Derek Warwick,arrows,DNF,35,11,1,20,1044.371487,1033.177507,-11.193979,0.26,0.48388,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,eddie-cheever,Eddie Cheever,arrows,DNF,31,12,1,21,1004.937996,993.455863,-11.482133,0.2,0.429643,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,gerhard-berger,Gerhard Berger,ferrari,DNF,5,3,1,22,1058.541128,1041.367929,-17.173199,0.16,0.503464,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,adrian-campos,Adrián Campos,minardi,DNF,3,19,1,23,941.281523,930.021035,-11.260488,0.12,0.34521,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,alessandro-nannini,Alessandro Nannini,minardi,DNF,1,15,1,24,916.833742,905.105812,-11.72793,0.08,0.314559,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,alex-caffi,Alex Caffi,osella,DNF,0,21,1,25,967.886919,950.896193,-16.990725,0.04,0.379815,50.0,26
+1987,10,1987-08-16,austria,Grosser Preis von Österreich 1987,446,martin-brundle,Martin Brundle,zakspeed,DSQ,48,17,2,26,1064.781351,1039.177278,-25.604074,0.0,0.512081,50.0,26

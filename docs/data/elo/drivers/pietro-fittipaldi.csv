@@ -1,3 +1,3 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-2020-12-06,2020,16,sakhir,haas,Haas,17,87,20,1000.0,990.576229,-9.423771,0.157895,0.34637,50.0
-2020-12-13,2020,17,abu-dhabi,haas,Haas,19,53,20,990.576229,977.775593,-12.800636,0.052632,0.308644,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+2020-12-06,2020,16,sakhir,1034,haas,Haas,17,87,20,1000.0,990.576229,-9.423771,0.157895,0.34637,50.0
+2020-12-13,2020,17,abu-dhabi,1035,haas,Haas,19,53,20,990.576229,977.775593,-12.800636,0.052632,0.308644,50.0

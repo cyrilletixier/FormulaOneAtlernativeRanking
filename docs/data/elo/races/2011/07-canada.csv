@@ -1,25 +1,25 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,jenson-button,Jenson Button,mclaren,1,70,7,0,1,1315.889353,1327.832827,11.943474,1.0,0.761131,50.0,24
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,sebastian-vettel,Sebastian Vettel,red-bull,2,70,1,0,2,1360.30556,1367.994015,7.688455,0.956522,0.802753,50.0,24
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,mark-webber,Mark Webber,red-bull,3,70,4,0,3,1311.342325,1319.163768,7.821444,0.913043,0.756615,50.0,24
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,michael-schumacher,Michael Schumacher,mercedes,4,70,8,0,4,1173.422938,1186.883151,13.460213,0.869565,0.600361,50.0,24
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,vitaly-petrov,Vitaly Petrov,renault,5,70,10,0,5,1075.568446,1093.118387,17.549941,0.826087,0.475088,50.0,24
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,felipe-massa,Felipe Massa,ferrari,6,70,3,0,6,1179.509709,1188.24491,8.735201,0.782609,0.607905,50.0,24
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,kamui-kobayashi,Kamui Kobayashi,sauber,7,70,13,0,7,1087.045988,1099.503753,12.457765,0.73913,0.489975,50.0,24
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,jaime-alguersuari,Jaime Alguersuari,toro-rosso,8,70,PL,0,8,1005.553696,1021.068305,15.514609,0.695652,0.38536,50.0,24
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,rubens-barrichello,Rubens Barrichello,williams,9,70,16,0,9,1106.508499,1113.357628,6.849129,0.652174,0.515191,50.0,24
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,sebastien-buemi,Sébastien Buemi,toro-rosso,10,70,15,0,10,1053.833154,1061.920355,8.0872,0.608696,0.446952,50.0,24
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,nico-rosberg,Nico Rosberg,mercedes,11,70,6,0,11,1194.361189,1191.316265,-3.044923,0.565217,0.626116,50.0,24
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,pedro-de-la-rosa,Pedro de la Rosa,sauber,12,70,17,0,12,1008.783151,1015.399195,6.616044,0.521739,0.389418,50.0,24
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,vitantonio-liuzzi,Vitantonio Liuzzi,hrt,13,69,20,0,13,938.912292,947.586991,8.674698,0.478261,0.304767,50.0,24
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,jerome-dambrosio,Jérôme d'Ambrosio,virgin,14,69,23,0,14,968.225223,972.995156,4.769933,0.434783,0.339384,50.0,24
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,timo-glock,Timo Glock,virgin,15,69,21,0,15,915.202993,920.871307,5.668314,0.391304,0.277938,50.0,24
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,jarno-trulli,Jarno Trulli,lotus-racing,16,69,18,0,16,931.611308,934.1833,2.571992,0.347826,0.296386,50.0,24
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,narain-karthikeyan,Narain Karthikeyan,hrt,17,69,22,0,17,903.765353,905.712137,1.946784,0.304348,0.265412,50.0,24
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,paul-di-resta,Paul di Resta,force-india,18,67,11,0,18,1023.406934,1016.054211,-7.352723,0.26087,0.407924,50.0,24
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,pastor-maldonado,Pastor Maldonado,williams,DNF,61,12,1,19,962.437153,956.685057,-5.752096,0.217391,0.332433,50.0,24
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,nick-heidfeld,Nick Heidfeld,renault,DNF,55,9,1,20,1164.453362,1143.690666,-20.762697,0.173913,0.589167,50.0,24
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,adrian-sutil,Adrian Sutil,force-india,DNF,49,14,1,21,1072.882414,1055.823882,-17.058532,0.130435,0.471605,50.0,24
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,fernando-alonso,Fernando Alonso,ferrari,DNF,36,2,1,22,1320.921294,1286.965427,-33.955867,0.086957,0.766074,50.0,24
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,heikki-kovalainen,Heikki Kovalainen,lotus-racing,DNF,28,19,1,23,969.978897,955.077796,-14.901101,0.043478,0.3415,50.0,24
-2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,lewis-hamilton,Lewis Hamilton,mclaren,DNF,7,5,1,24,1305.302683,1267.775426,-37.527257,0.0,0.750545,50.0,24
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,jenson-button,Jenson Button,mclaren,1,70,7,0,1,1315.889353,1327.832827,11.943474,1.0,0.761131,50.0,24
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,sebastian-vettel,Sebastian Vettel,red-bull,2,70,1,0,2,1360.30556,1367.994015,7.688455,0.956522,0.802753,50.0,24
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,mark-webber,Mark Webber,red-bull,3,70,4,0,3,1311.342325,1319.163768,7.821444,0.913043,0.756615,50.0,24
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,michael-schumacher,Michael Schumacher,mercedes,4,70,8,0,4,1173.422938,1186.883151,13.460213,0.869565,0.600361,50.0,24
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,vitaly-petrov,Vitaly Petrov,renault,5,70,10,0,5,1075.568446,1093.118387,17.549941,0.826087,0.475088,50.0,24
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,felipe-massa,Felipe Massa,ferrari,6,70,3,0,6,1179.509709,1188.24491,8.735201,0.782609,0.607905,50.0,24
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,kamui-kobayashi,Kamui Kobayashi,sauber,7,70,13,0,7,1087.045988,1099.503753,12.457765,0.73913,0.489975,50.0,24
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,jaime-alguersuari,Jaime Alguersuari,toro-rosso,8,70,PL,0,8,1005.553696,1021.068305,15.514609,0.695652,0.38536,50.0,24
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,rubens-barrichello,Rubens Barrichello,williams,9,70,16,0,9,1106.508499,1113.357628,6.849129,0.652174,0.515191,50.0,24
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,sebastien-buemi,Sébastien Buemi,toro-rosso,10,70,15,0,10,1053.833154,1061.920355,8.0872,0.608696,0.446952,50.0,24
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,nico-rosberg,Nico Rosberg,mercedes,11,70,6,0,11,1194.361189,1191.316265,-3.044923,0.565217,0.626116,50.0,24
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,pedro-de-la-rosa,Pedro de la Rosa,sauber,12,70,17,0,12,1008.783151,1015.399195,6.616044,0.521739,0.389418,50.0,24
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,vitantonio-liuzzi,Vitantonio Liuzzi,hrt,13,69,20,0,13,938.912292,947.586991,8.674698,0.478261,0.304767,50.0,24
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,jerome-dambrosio,Jérôme d'Ambrosio,virgin,14,69,23,0,14,968.225223,972.995156,4.769933,0.434783,0.339384,50.0,24
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,timo-glock,Timo Glock,virgin,15,69,21,0,15,915.202993,920.871307,5.668314,0.391304,0.277938,50.0,24
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,jarno-trulli,Jarno Trulli,lotus-racing,16,69,18,0,16,931.611308,934.1833,2.571992,0.347826,0.296386,50.0,24
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,narain-karthikeyan,Narain Karthikeyan,hrt,17,69,22,0,17,903.765353,905.712137,1.946784,0.304348,0.265412,50.0,24
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,paul-di-resta,Paul di Resta,force-india,18,67,11,0,18,1023.406934,1016.054211,-7.352723,0.26087,0.407924,50.0,24
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,pastor-maldonado,Pastor Maldonado,williams,DNF,61,12,1,19,962.437153,956.685057,-5.752096,0.217391,0.332433,50.0,24
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,nick-heidfeld,Nick Heidfeld,renault,DNF,55,9,1,20,1164.453362,1143.690666,-20.762697,0.173913,0.589167,50.0,24
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,adrian-sutil,Adrian Sutil,force-india,DNF,49,14,1,21,1072.882414,1055.823882,-17.058532,0.130435,0.471605,50.0,24
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,fernando-alonso,Fernando Alonso,ferrari,DNF,36,2,1,22,1320.921294,1286.965427,-33.955867,0.086957,0.766074,50.0,24
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,heikki-kovalainen,Heikki Kovalainen,lotus-racing,DNF,28,19,1,23,969.978897,955.077796,-14.901101,0.043478,0.3415,50.0,24
+2011,7,2011-06-12,canada,Formula 1 Grand Prix du Canada 2011,846,lewis-hamilton,Lewis Hamilton,mclaren,DNF,7,5,1,24,1305.302683,1267.775426,-37.527257,0.0,0.750545,50.0,24

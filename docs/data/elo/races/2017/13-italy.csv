@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,lewis-hamilton,Lewis Hamilton,mercedes,1,53,1,0,1,1505.692067,1511.606032,5.913965,1.0,0.881721,50.0,20
-2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,valtteri-bottas,Valtteri Bottas,mercedes,2,53,4,0,2,1305.898157,1317.60058,11.702423,0.947368,0.71332,50.0,20
-2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,sebastian-vettel,Sebastian Vettel,ferrari,3,53,6,0,3,1422.984006,1426.593376,3.60937,0.894737,0.822549,50.0,20
-2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,daniel-ricciardo,Daniel Ricciardo,red-bull,4,53,16,0,4,1327.063786,1332.407821,5.344035,0.842105,0.735225,50.0,20
-2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,kimi-raikkonen,Kimi Räikkönen,ferrari,5,53,5,0,5,1295.017006,1299.40518,4.388173,0.789474,0.70171,50.0,20
-2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,esteban-ocon,Esteban Ocon,force-india,6,53,3,0,6,1106.694537,1119.887478,13.192941,0.736842,0.472983,50.0,20
-2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,lance-stroll,Lance Stroll,williams,7,53,2,0,7,1019.063066,1035.207009,16.143943,0.684211,0.361332,50.0,20
-2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,felipe-massa,Felipe Massa,williams,8,53,7,0,8,1126.380575,1133.040534,6.659959,0.631579,0.49838,50.0,20
-2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,sergio-perez,Sergio Pérez,force-india,9,53,10,0,9,1209.261826,1208.067025,-1.194801,0.578947,0.602843,50.0,20
-2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,max-verstappen,Max Verstappen,red-bull,10,52,13,0,10,1159.443194,1158.72331,-0.719884,0.526316,0.540713,50.0,20
-2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,kevin-magnussen,Kevin Magnussen,haas,11,52,9,0,11,1020.147415,1025.697866,5.550451,0.473684,0.362675,50.0,20
-2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,daniil-kvyat,Daniil Kvyat,toro-rosso,12,52,8,0,12,1022.466321,1025.241296,2.774975,0.421053,0.365553,50.0,20
-2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,nico-hulkenberg,Nico Hülkenberg,renault,13,52,14,0,13,1124.79936,1118.403269,-6.396091,0.368421,0.496343,50.0,20
-2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,14,52,15,0,14,1087.151054,1080.552596,-6.598459,0.315789,0.447759,50.0,20
-2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,romain-grosjean,Romain Grosjean,haas,15,52,20,0,15,1058.712348,1051.307544,-7.404804,0.263158,0.411254,50.0,20
-2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,pascal-wehrlein,Pascal Wehrlein,sauber,16,51,12,0,16,937.788006,935.019774,-2.768232,0.210526,0.265891,50.0,20
-2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,fernando-alonso,Fernando Alonso,mclaren,17,50,19,0,17,1041.720564,1030.131362,-11.589202,0.157895,0.389679,50.0,20
-2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,marcus-ericsson,Marcus Ericsson,sauber,18,49,11,0,18,963.779819,954.286884,-9.492936,0.105263,0.295122,50.0,20
-2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,stoffel-vandoorne,Stoffel Vandoorne,mclaren,DNF,33,18,1,19,997.507883,983.39209,-14.115793,0.052632,0.334947,50.0,20
-2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,jolyon-palmer,Jolyon Palmer,renault,DNF,29,17,1,20,968.005164,953.00513,-15.000034,0.0,0.300001,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,969,lewis-hamilton,Lewis Hamilton,mercedes,1,53,1,0,1,1505.692067,1511.606032,5.913965,1.0,0.881721,50.0,20
+2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,969,valtteri-bottas,Valtteri Bottas,mercedes,2,53,4,0,2,1305.898157,1317.60058,11.702423,0.947368,0.71332,50.0,20
+2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,969,sebastian-vettel,Sebastian Vettel,ferrari,3,53,6,0,3,1422.984006,1426.593376,3.60937,0.894737,0.822549,50.0,20
+2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,969,daniel-ricciardo,Daniel Ricciardo,red-bull,4,53,16,0,4,1327.063786,1332.407821,5.344035,0.842105,0.735225,50.0,20
+2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,969,kimi-raikkonen,Kimi Räikkönen,ferrari,5,53,5,0,5,1295.017006,1299.40518,4.388173,0.789474,0.70171,50.0,20
+2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,969,esteban-ocon,Esteban Ocon,force-india,6,53,3,0,6,1106.694537,1119.887478,13.192941,0.736842,0.472983,50.0,20
+2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,969,lance-stroll,Lance Stroll,williams,7,53,2,0,7,1019.063066,1035.207009,16.143943,0.684211,0.361332,50.0,20
+2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,969,felipe-massa,Felipe Massa,williams,8,53,7,0,8,1126.380575,1133.040534,6.659959,0.631579,0.49838,50.0,20
+2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,969,sergio-perez,Sergio Pérez,force-india,9,53,10,0,9,1209.261826,1208.067025,-1.194801,0.578947,0.602843,50.0,20
+2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,969,max-verstappen,Max Verstappen,red-bull,10,52,13,0,10,1159.443194,1158.72331,-0.719884,0.526316,0.540713,50.0,20
+2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,969,kevin-magnussen,Kevin Magnussen,haas,11,52,9,0,11,1020.147415,1025.697866,5.550451,0.473684,0.362675,50.0,20
+2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,969,daniil-kvyat,Daniil Kvyat,toro-rosso,12,52,8,0,12,1022.466321,1025.241296,2.774975,0.421053,0.365553,50.0,20
+2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,969,nico-hulkenberg,Nico Hülkenberg,renault,13,52,14,0,13,1124.79936,1118.403269,-6.396091,0.368421,0.496343,50.0,20
+2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,969,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,14,52,15,0,14,1087.151054,1080.552596,-6.598459,0.315789,0.447759,50.0,20
+2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,969,romain-grosjean,Romain Grosjean,haas,15,52,20,0,15,1058.712348,1051.307544,-7.404804,0.263158,0.411254,50.0,20
+2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,969,pascal-wehrlein,Pascal Wehrlein,sauber,16,51,12,0,16,937.788006,935.019774,-2.768232,0.210526,0.265891,50.0,20
+2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,969,fernando-alonso,Fernando Alonso,mclaren,17,50,19,0,17,1041.720564,1030.131362,-11.589202,0.157895,0.389679,50.0,20
+2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,969,marcus-ericsson,Marcus Ericsson,sauber,18,49,11,0,18,963.779819,954.286884,-9.492936,0.105263,0.295122,50.0,20
+2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,969,stoffel-vandoorne,Stoffel Vandoorne,mclaren,DNF,33,18,1,19,997.507883,983.39209,-14.115793,0.052632,0.334947,50.0,20
+2017,13,2017-09-03,italy,Formula 1 Gran Premio Heineken d'Italia 2017,969,jolyon-palmer,Jolyon Palmer,renault,DNF,29,17,1,20,968.005164,953.00513,-15.000034,0.0,0.300001,50.0,20

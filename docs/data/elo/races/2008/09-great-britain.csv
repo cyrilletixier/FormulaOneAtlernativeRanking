@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,1,60,4,0,1,1235.54971,1252.01036,16.46065,1.0,0.670787,50.0,20
-2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,nick-heidfeld,Nick Heidfeld,bmw-sauber,2,60,5,0,2,1223.721105,1238.275195,14.55409,0.947368,0.656287,50.0,20
-2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,rubens-barrichello,Rubens Barrichello,honda,3,60,16,0,3,1063.135555,1085.653918,22.518363,0.894737,0.44437,50.0,20
-2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,4,59,3,0,4,1316.179248,1320.189635,4.010386,0.842105,0.761898,50.0,20
-2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,heikki-kovalainen,Heikki Kovalainen,mclaren,5,59,1,0,5,1164.840428,1175.270522,10.430094,0.789474,0.580872,50.0,20
-2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,fernando-alonso,Fernando Alonso,renault,6,59,6,0,6,1289.387835,1289.567472,0.179636,0.736842,0.733249,50.0,20
-2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,jarno-trulli,Jarno Trulli,toyota,7,59,14,0,7,1127.838211,1135.470916,7.632705,0.684211,0.531556,50.0,20
-2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,kazuki-nakajima,Kazuki Nakajima,williams,8,59,15,0,8,1016.704971,1029.130724,12.425753,0.631579,0.383064,50.0,20
-2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,nico-rosberg,Nico Rosberg,williams,9,59,PL,0,9,1070.170524,1076.427538,6.257014,0.578947,0.453807,50.0,20
-2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,mark-webber,Mark Webber,red-bull,10,59,2,0,10,1089.934106,1092.228472,2.294366,0.526316,0.480428,50.0,20
-2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,sebastien-bourdais,Sébastien Bourdais,toro-rosso,11,59,13,0,11,951.022654,959.638289,8.615635,0.473684,0.301372,50.0,20
-2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,timo-glock,Timo Glock,toyota,12,59,12,0,12,1037.139775,1037.702882,0.563107,0.421053,0.40979,50.0,20
-2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,felipe-massa,Felipe Massa,ferrari,13,58,9,0,13,1304.566725,1285.503142,-19.063583,0.368421,0.749693,50.0,20
-2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,robert-kubica,Robert Kubica,bmw-sauber,DNF,39,10,1,14,1239.810159,1221.802302,-18.007857,0.315789,0.675947,50.0,20
-2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,jenson-button,Jenson Button,honda,DNF,38,17,1,15,1042.532582,1034.844586,-7.687996,0.263158,0.416918,50.0,20
-2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,nelson-piquet-jr,Nelson Piquet Jr.,renault,DNF,35,7,1,16,979.535895,973.266614,-6.26928,0.210526,0.335912,50.0,20
-2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,force-india,DNF,26,19,1,17,1049.060193,1035.675928,-13.384265,0.157895,0.42558,50.0,20
-2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,adrian-sutil,Adrian Sutil,force-india,DNF,10,18,1,18,872.4293,866.913431,-5.515869,0.105263,0.215581,50.0,20
-2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,david-coulthard,David Coulthard,red-bull,DNF,0,11,1,19,1066.405813,1045.283933,-21.12188,0.026316,0.448753,50.0,20
-2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,sebastian-vettel,Sebastian Vettel,toro-rosso,DNF,0,8,1,20,969.960299,955.069228,-14.891071,0.026316,0.324137,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,794,lewis-hamilton,Lewis Hamilton,mclaren,1,60,4,0,1,1235.54971,1252.01036,16.46065,1.0,0.670787,50.0,20
+2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,794,nick-heidfeld,Nick Heidfeld,bmw-sauber,2,60,5,0,2,1223.721105,1238.275195,14.55409,0.947368,0.656287,50.0,20
+2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,794,rubens-barrichello,Rubens Barrichello,honda,3,60,16,0,3,1063.135555,1085.653918,22.518363,0.894737,0.44437,50.0,20
+2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,794,kimi-raikkonen,Kimi Räikkönen,ferrari,4,59,3,0,4,1316.179248,1320.189635,4.010386,0.842105,0.761898,50.0,20
+2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,794,heikki-kovalainen,Heikki Kovalainen,mclaren,5,59,1,0,5,1164.840428,1175.270522,10.430094,0.789474,0.580872,50.0,20
+2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,794,fernando-alonso,Fernando Alonso,renault,6,59,6,0,6,1289.387835,1289.567472,0.179636,0.736842,0.733249,50.0,20
+2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,794,jarno-trulli,Jarno Trulli,toyota,7,59,14,0,7,1127.838211,1135.470916,7.632705,0.684211,0.531556,50.0,20
+2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,794,kazuki-nakajima,Kazuki Nakajima,williams,8,59,15,0,8,1016.704971,1029.130724,12.425753,0.631579,0.383064,50.0,20
+2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,794,nico-rosberg,Nico Rosberg,williams,9,59,PL,0,9,1070.170524,1076.427538,6.257014,0.578947,0.453807,50.0,20
+2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,794,mark-webber,Mark Webber,red-bull,10,59,2,0,10,1089.934106,1092.228472,2.294366,0.526316,0.480428,50.0,20
+2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,794,sebastien-bourdais,Sébastien Bourdais,toro-rosso,11,59,13,0,11,951.022654,959.638289,8.615635,0.473684,0.301372,50.0,20
+2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,794,timo-glock,Timo Glock,toyota,12,59,12,0,12,1037.139775,1037.702882,0.563107,0.421053,0.40979,50.0,20
+2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,794,felipe-massa,Felipe Massa,ferrari,13,58,9,0,13,1304.566725,1285.503142,-19.063583,0.368421,0.749693,50.0,20
+2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,794,robert-kubica,Robert Kubica,bmw-sauber,DNF,39,10,1,14,1239.810159,1221.802302,-18.007857,0.315789,0.675947,50.0,20
+2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,794,jenson-button,Jenson Button,honda,DNF,38,17,1,15,1042.532582,1034.844586,-7.687996,0.263158,0.416918,50.0,20
+2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,794,nelson-piquet-jr,Nelson Piquet Jr.,renault,DNF,35,7,1,16,979.535895,973.266614,-6.26928,0.210526,0.335912,50.0,20
+2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,794,giancarlo-fisichella,Giancarlo Fisichella,force-india,DNF,26,19,1,17,1049.060193,1035.675928,-13.384265,0.157895,0.42558,50.0,20
+2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,794,adrian-sutil,Adrian Sutil,force-india,DNF,10,18,1,18,872.4293,866.913431,-5.515869,0.105263,0.215581,50.0,20
+2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,794,david-coulthard,David Coulthard,red-bull,DNF,0,11,1,19,1066.405813,1045.283933,-21.12188,0.026316,0.448753,50.0,20
+2008,9,2008-07-06,great-britain,2008 Formula 1 Santander British Grand Prix,794,sebastian-vettel,Sebastian Vettel,toro-rosso,DNF,0,8,1,20,969.960299,955.069228,-14.891071,0.026316,0.324137,50.0,20

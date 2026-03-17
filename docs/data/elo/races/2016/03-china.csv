@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,nico-rosberg,Nico Rosberg,mercedes,1,56,1,0,1,1425.179985,1433.928438,8.748453,1.0,0.825031,50.0,22
-2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,2,56,4,0,2,1367.544151,1376.451575,8.907424,0.952381,0.774232,50.0,22
-2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,daniil-kvyat,Daniil Kvyat,red-bull,3,56,6,0,3,1145.549962,1165.052341,19.502379,0.904762,0.514714,50.0,22
-2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,4,56,2,0,4,1233.185464,1244.699894,11.514429,0.857143,0.626854,50.0,22
-2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,5,56,3,0,5,1226.45072,1235.998897,9.548177,0.809524,0.61856,50.0,22
-2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,felipe-massa,Felipe Massa,williams,6,56,10,0,6,1205.487626,1213.966526,8.4789,0.761905,0.592327,50.0,22
-2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,7,56,22,0,7,1480.624976,1473.014606,-7.610369,0.714286,0.866493,50.0,22
-2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,max-verstappen,Max Verstappen,toro-rosso,8,56,9,0,8,1116.022681,1125.569216,9.546535,0.666667,0.475736,50.0,22
-2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,9,56,8,0,9,1036.334186,1048.693583,12.359397,0.619048,0.37186,50.0,22
-2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,valtteri-bottas,Valtteri Bottas,williams,10,56,5,0,10,1236.199851,1233.244089,-2.955762,0.571429,0.630544,50.0,22
-2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,sergio-perez,Sergio Pérez,force-india,11,56,7,0,11,1170.311476,1169.145072,-1.166404,0.52381,0.547138,50.0,22
-2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,fernando-alonso,Fernando Alonso,mclaren,12,56,11,0,12,1054.043535,1058.127289,4.083753,0.47619,0.394515,50.0,22
-2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,jenson-button,Jenson Button,mclaren,13,56,12,0,13,1065.531375,1066.490616,0.959241,0.428571,0.409387,50.0,22
-2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,esteban-gutierrez,Esteban Gutiérrez,haas,14,55,18,0,14,946.17302,952.008309,5.835289,0.380952,0.264247,50.0,22
-2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,15,55,13,0,15,1123.381578,1115.775103,-7.606475,0.333333,0.485463,50.0,22
-2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,16,55,15,0,16,996.106102,994.291833,-1.814269,0.285714,0.322,50.0,22
-2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,kevin-magnussen,Kevin Magnussen,renault,17,55,17,0,17,1110.360149,1098.852288,-11.50786,0.238095,0.468252,50.0,22
-2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,pascal-wehrlein,Pascal Wehrlein,manor,18,55,21,0,18,1003.046235,996.049266,-6.99697,0.190476,0.330416,50.0,22
-2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,romain-grosjean,Romain Grosjean,haas,19,55,14,0,19,1116.894985,1100.193393,-16.701592,0.142857,0.476889,50.0,22
-2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,felipe-nasr,Felipe Nasr,sauber,20,55,16,0,20,1038.832569,1024.842795,-13.989774,0.095238,0.375034,50.0,22
-2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,rio-haryanto,Rio Haryanto,manor,21,55,20,0,21,986.81086,973.648556,-13.162304,0.047619,0.310865,50.0,22
-2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,jolyon-palmer,Jolyon Palmer,renault,22,55,19,0,22,993.984367,978.012168,-15.972198,0.0,0.319444,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,938,nico-rosberg,Nico Rosberg,mercedes,1,56,1,0,1,1425.179985,1433.928438,8.748453,1.0,0.825031,50.0,22
+2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,938,sebastian-vettel,Sebastian Vettel,ferrari,2,56,4,0,2,1367.544151,1376.451575,8.907424,0.952381,0.774232,50.0,22
+2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,938,daniil-kvyat,Daniil Kvyat,red-bull,3,56,6,0,3,1145.549962,1165.052341,19.502379,0.904762,0.514714,50.0,22
+2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,938,daniel-ricciardo,Daniel Ricciardo,red-bull,4,56,2,0,4,1233.185464,1244.699894,11.514429,0.857143,0.626854,50.0,22
+2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,938,kimi-raikkonen,Kimi Räikkönen,ferrari,5,56,3,0,5,1226.45072,1235.998897,9.548177,0.809524,0.61856,50.0,22
+2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,938,felipe-massa,Felipe Massa,williams,6,56,10,0,6,1205.487626,1213.966526,8.4789,0.761905,0.592327,50.0,22
+2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,938,lewis-hamilton,Lewis Hamilton,mercedes,7,56,22,0,7,1480.624976,1473.014606,-7.610369,0.714286,0.866493,50.0,22
+2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,938,max-verstappen,Max Verstappen,toro-rosso,8,56,9,0,8,1116.022681,1125.569216,9.546535,0.666667,0.475736,50.0,22
+2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,938,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,9,56,8,0,9,1036.334186,1048.693583,12.359397,0.619048,0.37186,50.0,22
+2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,938,valtteri-bottas,Valtteri Bottas,williams,10,56,5,0,10,1236.199851,1233.244089,-2.955762,0.571429,0.630544,50.0,22
+2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,938,sergio-perez,Sergio Pérez,force-india,11,56,7,0,11,1170.311476,1169.145072,-1.166404,0.52381,0.547138,50.0,22
+2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,938,fernando-alonso,Fernando Alonso,mclaren,12,56,11,0,12,1054.043535,1058.127289,4.083753,0.47619,0.394515,50.0,22
+2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,938,jenson-button,Jenson Button,mclaren,13,56,12,0,13,1065.531375,1066.490616,0.959241,0.428571,0.409387,50.0,22
+2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,938,esteban-gutierrez,Esteban Gutiérrez,haas,14,55,18,0,14,946.17302,952.008309,5.835289,0.380952,0.264247,50.0,22
+2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,938,nico-hulkenberg,Nico Hülkenberg,force-india,15,55,13,0,15,1123.381578,1115.775103,-7.606475,0.333333,0.485463,50.0,22
+2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,938,marcus-ericsson,Marcus Ericsson,sauber,16,55,15,0,16,996.106102,994.291833,-1.814269,0.285714,0.322,50.0,22
+2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,938,kevin-magnussen,Kevin Magnussen,renault,17,55,17,0,17,1110.360149,1098.852288,-11.50786,0.238095,0.468252,50.0,22
+2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,938,pascal-wehrlein,Pascal Wehrlein,manor,18,55,21,0,18,1003.046235,996.049266,-6.99697,0.190476,0.330416,50.0,22
+2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,938,romain-grosjean,Romain Grosjean,haas,19,55,14,0,19,1116.894985,1100.193393,-16.701592,0.142857,0.476889,50.0,22
+2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,938,felipe-nasr,Felipe Nasr,sauber,20,55,16,0,20,1038.832569,1024.842795,-13.989774,0.095238,0.375034,50.0,22
+2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,938,rio-haryanto,Rio Haryanto,manor,21,55,20,0,21,986.81086,973.648556,-13.162304,0.047619,0.310865,50.0,22
+2016,3,2016-04-17,china,2016 Formula 1 Pirelli Chinese Grand Prix,938,jolyon-palmer,Jolyon Palmer,renault,22,55,19,0,22,993.984367,978.012168,-15.972198,0.0,0.319444,50.0,22

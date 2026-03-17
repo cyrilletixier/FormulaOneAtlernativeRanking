@@ -1,7 +1,7 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1974-05-12,1974,5,belgium,surtees,Surtees,DNQ,,32,1000.0,977.262384,-22.737616,0.0,0.454752,50.0
-1974-06-09,1974,7,sweden,surtees,Surtees,DNF,8,28,977.262384,970.264243,-6.998141,0.277778,0.417741,50.0
-1974-07-07,1974,9,france,surtees,Surtees,DNQ,,30,970.264243,955.967804,-14.296438,0.12069,0.406618,50.0
-1974-07-20,1974,10,great-britain,surtees,Surtees,DNQ,,35,955.967804,942.652675,-13.31513,0.132353,0.398656,50.0
-1974-08-18,1974,12,austria,surtees,Surtees,DNQ,,31,942.652675,928.809068,-13.843607,0.083333,0.360205,50.0
-1974-09-08,1974,13,italy,surtees,Surtees,DNQ,,31,928.809068,915.850858,-12.95821,0.083333,0.342498,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1974-05-12,1974,5,belgium,240,surtees,Surtees,DNQ,,32,1000.0,977.262384,-22.737616,0.0,0.454752,50.0
+1974-06-09,1974,7,sweden,242,surtees,Surtees,DNF,8,28,977.262384,970.264243,-6.998141,0.277778,0.417741,50.0
+1974-07-07,1974,9,france,244,surtees,Surtees,DNQ,,30,970.264243,955.967804,-14.296438,0.12069,0.406618,50.0
+1974-07-20,1974,10,great-britain,245,surtees,Surtees,DNQ,,35,955.967804,942.652675,-13.31513,0.132353,0.398656,50.0
+1974-08-18,1974,12,austria,247,surtees,Surtees,DNQ,,31,942.652675,928.809068,-13.843607,0.083333,0.360205,50.0
+1974-09-08,1974,13,italy,248,surtees,Surtees,DNQ,,31,928.809068,915.850858,-12.95821,0.083333,0.342498,50.0

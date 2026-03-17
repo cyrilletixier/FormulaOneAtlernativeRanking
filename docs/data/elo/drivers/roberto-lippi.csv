@@ -1,4 +1,4 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1961-09-10,1961,7,italy,de-tomaso,De Tomaso,DNF,1,34,1000.0,984.585119,-15.414881,0.151515,0.459813,50.0
-1962-09-16,1962,7,italy,de-tomaso,De Tomaso,DNQ,,30,984.585119,969.75266,-14.83246,0.137931,0.43458,50.0
-1963-09-08,1963,7,italy,de-tomaso,De Tomaso,DNQ,,28,969.75266,957.590683,-12.161976,0.148148,0.391388,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1961-09-10,1961,7,italy,101,de-tomaso,De Tomaso,DNF,1,34,1000.0,984.585119,-15.414881,0.151515,0.459813,50.0
+1962-09-16,1962,7,italy,109,de-tomaso,De Tomaso,DNQ,,30,984.585119,969.75266,-14.83246,0.137931,0.43458,50.0
+1963-09-08,1963,7,italy,118,de-tomaso,De Tomaso,DNQ,,28,969.75266,957.590683,-12.161976,0.148148,0.391388,50.0

@@ -1,27 +1,27 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,jean-pierre-jabouille,Jean-Pierre Jabouille,renault,1,54,2,0,1,992.06507,1023.600841,31.535772,1.0,0.369285,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,alan-jones,Alan Jones,williams,2,54,3,0,2,1258.928102,1270.757974,11.829871,0.96,0.723403,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,carlos-reutemann,Carlos Reutemann,williams,3,54,4,0,3,1207.43441,1220.382631,12.948221,0.92,0.661036,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,jacques-laffite,Jacques Laffite,ligier,4,54,5,0,4,1191.850764,1203.797818,11.947054,0.88,0.641059,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,nelson-piquet,Nelson Piquet,brabham,5,54,7,0,5,1178.928921,1189.720475,10.791554,0.84,0.624169,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,elio-de-angelis,Elio de Angelis,lotus,6,54,9,0,6,1040.340421,1058.638602,18.298181,0.8,0.434036,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,alain-prost,Alain Prost,mclaren,7,54,12,0,7,1037.157025,1053.672879,16.515854,0.76,0.429683,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,gilles-villeneuve,Gilles Villeneuve,ferrari,8,53,15,0,8,1216.408161,1218.791892,2.383731,0.72,0.672325,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,rene-arnoux,René Arnoux,renault,9,53,1,0,9,1122.97336,1129.550393,6.577033,0.68,0.548459,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,hector-rebaque,Héctor Rebaque,brabham,10,53,14,0,10,964.971314,980.245454,15.27414,0.64,0.334517,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,emerson-fittipaldi,Emerson Fittipaldi,fittipaldi,11,53,23,0,11,1112.313027,1115.627036,3.314008,0.6,0.53372,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,marc-surer,Marc Surer,ats-wheels,12,53,16,0,12,1003.681798,1012.452823,8.771025,0.56,0.38458,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,jody-scheckter,Jody Scheckter,ferrari,13,53,22,0,13,1229.189342,1220.783652,-8.405689,0.52,0.688114,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,riccardo-patrese,Riccardo Patrese,arrows,14,53,18,0,14,1139.955557,1135.366351,-4.589206,0.48,0.571784,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,rupert-keegan,Rupert Keegan,williams,15,52,20,0,15,922.873475,930.697696,7.824221,0.44,0.283516,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,keke-rosberg,Keke Rosberg,fittipaldi,16,52,11,0,16,1004.395412,1005.119121,0.723709,0.4,0.385526,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,nigel-mansell,Nigel Mansell,lotus,DNF,40,24,1,17,1000.0,999.014541,-0.985459,0.36,0.379709,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,john-watson,John Watson,mclaren,DNF,34,21,1,18,1155.529874,1141.882744,-13.64713,0.32,0.592943,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,DNF,28,8,1,19,1051.764532,1043.278105,-8.486427,0.28,0.449729,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,didier-pironi,Didier Pironi,ligier,DNF,25,6,1,20,1177.26625,1157.16745,-20.0988,0.22,0.621976,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,jean-pierre-jarier,Jean-Pierre Jarier,tyrrell,DNF,25,13,1,21,1116.29658,1100.334849,-15.961731,0.22,0.539235,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,eddie-cheever,Eddie Cheever,osella,DNF,23,19,1,22,914.814375,909.102974,-5.711401,0.16,0.274228,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,derek-daly,Derek Daly,tyrrell,DNF,12,10,1,23,1093.40843,1074.0347,-19.37373,0.12,0.507475,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,mario-andretti,Mario Andretti,lotus,DNF,6,17,1,24,1089.332211,1068.241845,-21.090366,0.08,0.501807,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,jan-lammers,Jan Lammers,ensign,DNQ,,,2,25,952.614859,937.657967,-14.956892,0.02,0.319138,50.0,26
-1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,jochen-mass,Jochen Mass,arrows,DNQ,,,2,26,1108.583752,1083.156211,-25.427541,0.02,0.528551,50.0,26
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,jean-pierre-jabouille,Jean-Pierre Jabouille,renault,1,54,2,0,1,992.06507,1023.600841,31.535772,1.0,0.369285,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,alan-jones,Alan Jones,williams,2,54,3,0,2,1258.928102,1270.757974,11.829871,0.96,0.723403,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,carlos-reutemann,Carlos Reutemann,williams,3,54,4,0,3,1207.43441,1220.382631,12.948221,0.92,0.661036,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,jacques-laffite,Jacques Laffite,ligier,4,54,5,0,4,1191.850764,1203.797818,11.947054,0.88,0.641059,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,nelson-piquet,Nelson Piquet,brabham,5,54,7,0,5,1178.928921,1189.720475,10.791554,0.84,0.624169,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,elio-de-angelis,Elio de Angelis,lotus,6,54,9,0,6,1040.340421,1058.638602,18.298181,0.8,0.434036,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,alain-prost,Alain Prost,mclaren,7,54,12,0,7,1037.157025,1053.672879,16.515854,0.76,0.429683,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,gilles-villeneuve,Gilles Villeneuve,ferrari,8,53,15,0,8,1216.408161,1218.791892,2.383731,0.72,0.672325,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,rene-arnoux,René Arnoux,renault,9,53,1,0,9,1122.97336,1129.550393,6.577033,0.68,0.548459,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,hector-rebaque,Héctor Rebaque,brabham,10,53,14,0,10,964.971314,980.245454,15.27414,0.64,0.334517,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,emerson-fittipaldi,Emerson Fittipaldi,fittipaldi,11,53,23,0,11,1112.313027,1115.627036,3.314008,0.6,0.53372,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,marc-surer,Marc Surer,ats-wheels,12,53,16,0,12,1003.681798,1012.452823,8.771025,0.56,0.38458,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,jody-scheckter,Jody Scheckter,ferrari,13,53,22,0,13,1229.189342,1220.783652,-8.405689,0.52,0.688114,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,riccardo-patrese,Riccardo Patrese,arrows,14,53,18,0,14,1139.955557,1135.366351,-4.589206,0.48,0.571784,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,rupert-keegan,Rupert Keegan,williams,15,52,20,0,15,922.873475,930.697696,7.824221,0.44,0.283516,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,keke-rosberg,Keke Rosberg,fittipaldi,16,52,11,0,16,1004.395412,1005.119121,0.723709,0.4,0.385526,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,nigel-mansell,Nigel Mansell,lotus,DNF,40,24,1,17,1000.0,999.014541,-0.985459,0.36,0.379709,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,john-watson,John Watson,mclaren,DNF,34,21,1,18,1155.529874,1141.882744,-13.64713,0.32,0.592943,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,DNF,28,8,1,19,1051.764532,1043.278105,-8.486427,0.28,0.449729,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,didier-pironi,Didier Pironi,ligier,DNF,25,6,1,20,1177.26625,1157.16745,-20.0988,0.22,0.621976,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,jean-pierre-jarier,Jean-Pierre Jarier,tyrrell,DNF,25,13,1,21,1116.29658,1100.334849,-15.961731,0.22,0.539235,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,eddie-cheever,Eddie Cheever,osella,DNF,23,19,1,22,914.814375,909.102974,-5.711401,0.16,0.274228,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,derek-daly,Derek Daly,tyrrell,DNF,12,10,1,23,1093.40843,1074.0347,-19.37373,0.12,0.507475,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,mario-andretti,Mario Andretti,lotus,DNF,6,17,1,24,1089.332211,1068.241845,-21.090366,0.08,0.501807,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,jan-lammers,Jan Lammers,ensign,DNQ,,,2,25,952.614859,937.657967,-14.956892,0.02,0.319138,50.0,26
+1980,10,1980-08-17,austria,Grosser Preis von Österreich 1980,338,jochen-mass,Jochen Mass,arrows,DNQ,,,2,26,1108.583752,1083.156211,-25.427541,0.02,0.528551,50.0,26

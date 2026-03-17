@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,max-verstappen,Max Verstappen,red-bull,1,57,2,0,1,1542.296693,1548.156447,5.859754,1.0,0.882805,50.0,20
-2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,charles-leclerc,Charles Leclerc,ferrari,2,57,5,0,2,1384.473764,1393.88965,9.415886,0.947368,0.759051,50.0,20
-2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,oscar-piastri,Oscar Piastri,mclaren,3,57,4,0,3,1328.683566,1338.237694,9.554127,0.894737,0.703654,50.0,20
-2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,george-russell,George Russell,mercedes,4,57,1,0,4,1309.996513,1317.905921,7.909408,0.842105,0.683917,50.0,20
-2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,pierre-gasly,Pierre Gasly,alpine,5,57,11,0,5,1061.992764,1081.958833,19.966069,0.789474,0.390152,50.0,20
-2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,6,57,7,0,6,1319.763845,1321.890824,2.126979,0.736842,0.694303,50.0,20
-2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,fernando-alonso,Fernando Alonso,aston-martin,7,57,8,0,7,1159.483573,1168.233188,8.749615,0.684211,0.509218,50.0,20
-2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,guanyu-zhou,Guanyu Zhou,kick-sauber,8,57,12,0,8,927.598678,947.204473,19.605795,0.631579,0.239463,50.0,20
-2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,kevin-magnussen,Kevin Magnussen,haas,9,57,10,0,9,1000.833637,1013.865081,13.031444,0.578947,0.318318,50.0,20
-2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,lando-norris,Lando Norris,mclaren,10,57,3,0,10,1398.253019,1385.976056,-12.276963,0.526316,0.771855,50.0,20
-2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,valtteri-bottas,Valtteri Bottas,kick-sauber,11,57,13,0,11,939.86263,950.948163,11.085533,0.473684,0.251974,50.0,20
-2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,lewis-hamilton,Lewis Hamilton,mercedes,12,57,6,0,12,1326.786073,1312.75492,-14.031153,0.421053,0.701676,50.0,20
-2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,yuki-tsunoda,Yuki Tsunoda,rb,13,57,14,0,13,1025.130055,1026.233121,1.103066,0.368421,0.34636,50.0,20
-2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,liam-lawson,Liam Lawson,rb,14,57,17,0,14,1028.213853,1026.504776,-1.709077,0.315789,0.349971,50.0,20
-2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,alexander-albon,Alexander Albon,williams,15,56,16,0,15,984.444526,982.608978,-1.835548,0.263158,0.299869,50.0,20
-2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,nico-hulkenberg,Nico Hülkenberg,haas,DNF,39,18,1,16,1078.730237,1068.736649,-9.993588,0.210526,0.410398,50.0,20
-2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,sergio-perez,Sergio Pérez,red-bull,DNF,38,9,1,17,1225.756415,1204.206475,-21.549939,0.157895,0.588894,50.0,20
-2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,lance-stroll,Lance Stroll,aston-martin,DNF,8,15,1,18,1042.337778,1029.268838,-13.068941,0.105263,0.366642,50.0,20
-2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,esteban-ocon,Esteban Ocon,alpine,DNF,0,20,1,19,1054.884117,1037.119299,-17.764818,0.026316,0.381612,50.0,20
-2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,franco-colapinto,Franco Colapinto,williams,DNF,0,19,1,20,1028.126684,1011.949034,-16.17765,0.026316,0.349869,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,1124,max-verstappen,Max Verstappen,red-bull,1,57,2,0,1,1542.296693,1548.156447,5.859754,1.0,0.882805,50.0,20
+2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,1124,charles-leclerc,Charles Leclerc,ferrari,2,57,5,0,2,1384.473764,1393.88965,9.415886,0.947368,0.759051,50.0,20
+2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,1124,oscar-piastri,Oscar Piastri,mclaren,3,57,4,0,3,1328.683566,1338.237694,9.554127,0.894737,0.703654,50.0,20
+2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,1124,george-russell,George Russell,mercedes,4,57,1,0,4,1309.996513,1317.905921,7.909408,0.842105,0.683917,50.0,20
+2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,1124,pierre-gasly,Pierre Gasly,alpine,5,57,11,0,5,1061.992764,1081.958833,19.966069,0.789474,0.390152,50.0,20
+2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,1124,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,6,57,7,0,6,1319.763845,1321.890824,2.126979,0.736842,0.694303,50.0,20
+2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,1124,fernando-alonso,Fernando Alonso,aston-martin,7,57,8,0,7,1159.483573,1168.233188,8.749615,0.684211,0.509218,50.0,20
+2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,1124,guanyu-zhou,Guanyu Zhou,kick-sauber,8,57,12,0,8,927.598678,947.204473,19.605795,0.631579,0.239463,50.0,20
+2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,1124,kevin-magnussen,Kevin Magnussen,haas,9,57,10,0,9,1000.833637,1013.865081,13.031444,0.578947,0.318318,50.0,20
+2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,1124,lando-norris,Lando Norris,mclaren,10,57,3,0,10,1398.253019,1385.976056,-12.276963,0.526316,0.771855,50.0,20
+2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,1124,valtteri-bottas,Valtteri Bottas,kick-sauber,11,57,13,0,11,939.86263,950.948163,11.085533,0.473684,0.251974,50.0,20
+2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,1124,lewis-hamilton,Lewis Hamilton,mercedes,12,57,6,0,12,1326.786073,1312.75492,-14.031153,0.421053,0.701676,50.0,20
+2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,1124,yuki-tsunoda,Yuki Tsunoda,rb,13,57,14,0,13,1025.130055,1026.233121,1.103066,0.368421,0.34636,50.0,20
+2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,1124,liam-lawson,Liam Lawson,rb,14,57,17,0,14,1028.213853,1026.504776,-1.709077,0.315789,0.349971,50.0,20
+2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,1124,alexander-albon,Alexander Albon,williams,15,56,16,0,15,984.444526,982.608978,-1.835548,0.263158,0.299869,50.0,20
+2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,1124,nico-hulkenberg,Nico Hülkenberg,haas,DNF,39,18,1,16,1078.730237,1068.736649,-9.993588,0.210526,0.410398,50.0,20
+2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,1124,sergio-perez,Sergio Pérez,red-bull,DNF,38,9,1,17,1225.756415,1204.206475,-21.549939,0.157895,0.588894,50.0,20
+2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,1124,lance-stroll,Lance Stroll,aston-martin,DNF,8,15,1,18,1042.337778,1029.268838,-13.068941,0.105263,0.366642,50.0,20
+2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,1124,esteban-ocon,Esteban Ocon,alpine,DNF,0,20,1,19,1054.884117,1037.119299,-17.764818,0.026316,0.381612,50.0,20
+2024,23,2024-12-01,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2024,1124,franco-colapinto,Franco Colapinto,williams,DNF,0,19,1,20,1028.126684,1011.949034,-16.17765,0.026316,0.349869,50.0,20

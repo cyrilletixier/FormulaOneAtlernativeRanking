@@ -1,24 +1,24 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1951,4,1951-07-01,france,Grand Prix de France 1951,juan-manuel-fangio,Juan Manuel Fangio,alfa-romeo,1,,,0,1,1062.115312,1082.147392,20.032081,0.977273,0.576631,50.0,23
-1951,4,1951-07-01,france,Grand Prix de France 1951,luigi-fagioli,Luigi Fagioli,alfa-romeo,1,77,7,0,2,1085.249356,1103.61691,18.367554,0.977273,0.609922,50.0,23
-1951,4,1951-07-01,france,Grand Prix de France 1951,alberto-ascari,Alberto Ascari,ferrari,2,,,0,3,1060.867769,1076.445197,15.577428,0.886364,0.574815,50.0,23
-1951,4,1951-07-01,france,Grand Prix de France 1951,jose-froilan-gonzalez,José Froilán González,ferrari,2,77,6,0,4,957.594626,980.796971,23.202345,0.886364,0.422317,50.0,23
-1951,4,1951-07-01,france,Grand Prix de France 1951,luigi-villoresi,Luigi Villoresi,ferrari,3,74,4,0,5,996.13005,1013.085267,16.955217,0.818182,0.479077,50.0,23
-1951,4,1951-07-01,france,Grand Prix de France 1951,reg-parnell,Reg Parnell,ferrari,4,73,9,0,6,1008.266727,1022.047262,13.780535,0.772727,0.497117,50.0,23
-1951,4,1951-07-01,france,Grand Prix de France 1951,nino-farina,Nino Farina,alfa-romeo,5,73,2,0,7,1105.232772,1109.698406,4.465634,0.727273,0.63796,50.0,23
-1951,4,1951-07-01,france,Grand Prix de France 1951,louis-chiron,Louis Chiron,talbot-lago,6,71,8,0,8,979.916782,991.254658,11.337876,0.681818,0.455061,50.0,23
-1951,4,1951-07-01,france,Grand Prix de France 1951,yves-giraud-cabantous,Yves Giraud-Cabantous,talbot-lago,7,71,11,0,9,969.22218,979.074681,9.852501,0.636364,0.439314,50.0,23
-1951,4,1951-07-01,france,Grand Prix de France 1951,eugene-chaboud,Eugène Chaboud,talbot-lago,8,69,14,0,10,1000.968783,1006.200932,5.23215,0.590909,0.486266,50.0,23
-1951,4,1951-07-01,france,Grand Prix de France 1951,guy-mairesse,Guy Mairesse,talbot-lago,9,66,19,0,11,996.958513,1000.21585,3.257337,0.545455,0.480308,50.0,23
-1951,4,1951-07-01,france,Grand Prix de France 1951,consalvo-sanesi,Consalvo Sanesi,alfa-romeo,10,58,5,0,12,986.798112,988.536251,1.738139,0.5,0.465237,50.0,23
-1951,4,1951-07-01,france,Grand Prix de France 1951,johnny-claes,Johnny Claes,talbot-lago,DNF,54,12,1,13,990.950962,990.108653,-0.842309,0.454545,0.471392,50.0,23
-1951,4,1951-07-01,france,Grand Prix de France 1951,louis-rosier,Louis Rosier,talbot-lago,DNF,43,13,1,14,1069.140544,1060.254028,-8.886516,0.409091,0.586821,50.0,23
-1951,4,1951-07-01,france,Grand Prix de France 1951,philippe-etancelin,Philippe Étancelin,talbot-lago,DNF,37,10,1,15,989.520645,984.238914,-5.281731,0.363636,0.469271,50.0,23
-1951,4,1951-07-01,france,Grand Prix de France 1951,aldo-gordini,Aldo Gordini,simca-gordini,DNF,27,17,1,16,1000.0,991.667773,-8.332227,0.318182,0.484826,50.0,23
-1951,4,1951-07-01,france,Grand Prix de France 1951,harry-schell,Harry Schell,maserati,DNF,24,22,1,17,994.101493,983.934564,-10.166929,0.272727,0.476066,50.0,23
-1951,4,1951-07-01,france,Grand Prix de France 1951,maurice-trintignant,Maurice Trintignant,simca-gordini,DNF,11,18,1,18,976.98521,965.8121,-11.173111,0.227273,0.450735,50.0,23
-1951,4,1951-07-01,france,Grand Prix de France 1951,andre-simon,André Simon,simca-gordini,DNF,7,21,1,19,1000.0,984.849591,-15.150409,0.181818,0.484826,50.0,23
-1951,4,1951-07-01,france,Grand Prix de France 1951,robert-manzon,Robert Manzon,simca-gordini,DNF,3,23,1,20,988.723652,972.137346,-16.586306,0.136364,0.46809,50.0,23
-1951,4,1951-07-01,france,Grand Prix de France 1951,onofre-marimon,Onofre Marimón,maserati,DNF,2,15,1,21,1000.0,980.304137,-19.695863,0.090909,0.484826,50.0,23
-1951,4,1951-07-01,france,Grand Prix de France 1951,emmanuel-de-graffenried,Emmanuel de Graffenried,maserati,DNF,1,16,1,22,1019.832472,995.253217,-24.579255,0.022727,0.514312,50.0,23
-1951,4,1951-07-01,france,Grand Prix de France 1951,peter-whitehead,Peter Whitehead,ferrari,DNF,1,20,1,23,999.989029,976.884889,-23.104139,0.022727,0.48481,50.0,23
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1951,4,1951-07-01,france,Grand Prix de France 1951,11,juan-manuel-fangio,Juan Manuel Fangio,alfa-romeo,1,,,0,1,1062.115312,1082.147392,20.032081,0.977273,0.576631,50.0,23
+1951,4,1951-07-01,france,Grand Prix de France 1951,11,luigi-fagioli,Luigi Fagioli,alfa-romeo,1,77,7,0,2,1085.249356,1103.61691,18.367554,0.977273,0.609922,50.0,23
+1951,4,1951-07-01,france,Grand Prix de France 1951,11,alberto-ascari,Alberto Ascari,ferrari,2,,,0,3,1060.867769,1076.445197,15.577428,0.886364,0.574815,50.0,23
+1951,4,1951-07-01,france,Grand Prix de France 1951,11,jose-froilan-gonzalez,José Froilán González,ferrari,2,77,6,0,4,957.594626,980.796971,23.202345,0.886364,0.422317,50.0,23
+1951,4,1951-07-01,france,Grand Prix de France 1951,11,luigi-villoresi,Luigi Villoresi,ferrari,3,74,4,0,5,996.13005,1013.085267,16.955217,0.818182,0.479077,50.0,23
+1951,4,1951-07-01,france,Grand Prix de France 1951,11,reg-parnell,Reg Parnell,ferrari,4,73,9,0,6,1008.266727,1022.047262,13.780535,0.772727,0.497117,50.0,23
+1951,4,1951-07-01,france,Grand Prix de France 1951,11,nino-farina,Nino Farina,alfa-romeo,5,73,2,0,7,1105.232772,1109.698406,4.465634,0.727273,0.63796,50.0,23
+1951,4,1951-07-01,france,Grand Prix de France 1951,11,louis-chiron,Louis Chiron,talbot-lago,6,71,8,0,8,979.916782,991.254658,11.337876,0.681818,0.455061,50.0,23
+1951,4,1951-07-01,france,Grand Prix de France 1951,11,yves-giraud-cabantous,Yves Giraud-Cabantous,talbot-lago,7,71,11,0,9,969.22218,979.074681,9.852501,0.636364,0.439314,50.0,23
+1951,4,1951-07-01,france,Grand Prix de France 1951,11,eugene-chaboud,Eugène Chaboud,talbot-lago,8,69,14,0,10,1000.968783,1006.200932,5.23215,0.590909,0.486266,50.0,23
+1951,4,1951-07-01,france,Grand Prix de France 1951,11,guy-mairesse,Guy Mairesse,talbot-lago,9,66,19,0,11,996.958513,1000.21585,3.257337,0.545455,0.480308,50.0,23
+1951,4,1951-07-01,france,Grand Prix de France 1951,11,consalvo-sanesi,Consalvo Sanesi,alfa-romeo,10,58,5,0,12,986.798112,988.536251,1.738139,0.5,0.465237,50.0,23
+1951,4,1951-07-01,france,Grand Prix de France 1951,11,johnny-claes,Johnny Claes,talbot-lago,DNF,54,12,1,13,990.950962,990.108653,-0.842309,0.454545,0.471392,50.0,23
+1951,4,1951-07-01,france,Grand Prix de France 1951,11,louis-rosier,Louis Rosier,talbot-lago,DNF,43,13,1,14,1069.140544,1060.254028,-8.886516,0.409091,0.586821,50.0,23
+1951,4,1951-07-01,france,Grand Prix de France 1951,11,philippe-etancelin,Philippe Étancelin,talbot-lago,DNF,37,10,1,15,989.520645,984.238914,-5.281731,0.363636,0.469271,50.0,23
+1951,4,1951-07-01,france,Grand Prix de France 1951,11,aldo-gordini,Aldo Gordini,simca-gordini,DNF,27,17,1,16,1000.0,991.667773,-8.332227,0.318182,0.484826,50.0,23
+1951,4,1951-07-01,france,Grand Prix de France 1951,11,harry-schell,Harry Schell,maserati,DNF,24,22,1,17,994.101493,983.934564,-10.166929,0.272727,0.476066,50.0,23
+1951,4,1951-07-01,france,Grand Prix de France 1951,11,maurice-trintignant,Maurice Trintignant,simca-gordini,DNF,11,18,1,18,976.98521,965.8121,-11.173111,0.227273,0.450735,50.0,23
+1951,4,1951-07-01,france,Grand Prix de France 1951,11,andre-simon,André Simon,simca-gordini,DNF,7,21,1,19,1000.0,984.849591,-15.150409,0.181818,0.484826,50.0,23
+1951,4,1951-07-01,france,Grand Prix de France 1951,11,robert-manzon,Robert Manzon,simca-gordini,DNF,3,23,1,20,988.723652,972.137346,-16.586306,0.136364,0.46809,50.0,23
+1951,4,1951-07-01,france,Grand Prix de France 1951,11,onofre-marimon,Onofre Marimón,maserati,DNF,2,15,1,21,1000.0,980.304137,-19.695863,0.090909,0.484826,50.0,23
+1951,4,1951-07-01,france,Grand Prix de France 1951,11,emmanuel-de-graffenried,Emmanuel de Graffenried,maserati,DNF,1,16,1,22,1019.832472,995.253217,-24.579255,0.022727,0.514312,50.0,23
+1951,4,1951-07-01,france,Grand Prix de France 1951,11,peter-whitehead,Peter Whitehead,ferrari,DNF,1,20,1,23,999.989029,976.884889,-23.104139,0.022727,0.48481,50.0,23

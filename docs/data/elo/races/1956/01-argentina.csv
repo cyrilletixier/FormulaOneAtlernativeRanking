@@ -1,16 +1,16 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,juan-manuel-fangio,Juan Manuel Fangio,ferrari,1,,,0,1,1285.997528,1293.644601,7.647073,0.964286,0.811344,50.0,15
-1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,luigi-musso,Luigi Musso,ferrari,1,98,3,0,2,1034.050716,1057.700064,23.649348,0.964286,0.491299,50.0,15
-1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,jean-behra,Jean Behra,maserati,2,98,4,0,3,1016.606917,1036.167748,19.560831,0.857143,0.465926,50.0,15
-1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,mike-hawthorn,Mike Hawthorn,maserati,3,96,8,0,4,1120.465353,1129.01138,8.546027,0.785714,0.614794,50.0,15
-1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,chico-landi,Chico Landi,maserati,4,92,11,0,5,991.296633,1003.759075,12.462442,0.678571,0.429323,50.0,15
-1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,gerino-gerini,Gerino Gerini,maserati,4,,,0,6,1000.0,1011.835362,11.835362,0.678571,0.441864,50.0,15
-1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,olivier-gendebien,Olivier Gendebien,ferrari,5,91,10,0,7,1000.0,1006.478219,6.478219,0.571429,0.441864,50.0,15
-1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,alberto-uria,Alberto Uria,maserati,6,88,13,0,8,989.724595,991.58569,1.861095,0.464286,0.427064,50.0,15
-1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,oscar-gonzalez,Óscar González,maserati,6,,,0,9,1000.0,1001.121077,1.121077,0.464286,0.441864,50.0,15
-1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,stirling-moss,Stirling Moss,maserati,DNF,81,7,1,10,1071.814381,1062.36888,-9.445502,0.357143,0.546053,50.0,15
-1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,peter-collins,Peter Collins,ferrari,DNF,58,9,1,11,932.246025,929.20171,-3.044315,0.285714,0.346601,50.0,15
-1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,luigi-piotti,Luigi Piotti,maserati,DNF,57,12,1,12,980.278965,970.316206,-9.962759,0.214286,0.413541,50.0,15
-1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,carlos-menditeguy,Carlos Menditéguy,maserati,DNF,42,6,1,13,968.418461,955.726373,-12.692088,0.142857,0.396699,50.0,15
-1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,eugenio-castellotti,Eugenio Castellotti,ferrari,DNF,40,2,1,14,1056.453467,1033.832067,-22.6214,0.071429,0.523857,50.0,15
-1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,jose-froilan-gonzalez,José Froilán González,maserati,DNF,24,5,1,15,1191.660448,1156.265036,-35.395412,0.0,0.707908,50.0,15
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,49,juan-manuel-fangio,Juan Manuel Fangio,ferrari,1,,,0,1,1285.997528,1293.644601,7.647073,0.964286,0.811344,50.0,15
+1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,49,luigi-musso,Luigi Musso,ferrari,1,98,3,0,2,1034.050716,1057.700064,23.649348,0.964286,0.491299,50.0,15
+1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,49,jean-behra,Jean Behra,maserati,2,98,4,0,3,1016.606917,1036.167748,19.560831,0.857143,0.465926,50.0,15
+1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,49,mike-hawthorn,Mike Hawthorn,maserati,3,96,8,0,4,1120.465353,1129.01138,8.546027,0.785714,0.614794,50.0,15
+1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,49,chico-landi,Chico Landi,maserati,4,92,11,0,5,991.296633,1003.759075,12.462442,0.678571,0.429323,50.0,15
+1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,49,gerino-gerini,Gerino Gerini,maserati,4,,,0,6,1000.0,1011.835362,11.835362,0.678571,0.441864,50.0,15
+1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,49,olivier-gendebien,Olivier Gendebien,ferrari,5,91,10,0,7,1000.0,1006.478219,6.478219,0.571429,0.441864,50.0,15
+1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,49,alberto-uria,Alberto Uria,maserati,6,88,13,0,8,989.724595,991.58569,1.861095,0.464286,0.427064,50.0,15
+1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,49,oscar-gonzalez,Óscar González,maserati,6,,,0,9,1000.0,1001.121077,1.121077,0.464286,0.441864,50.0,15
+1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,49,stirling-moss,Stirling Moss,maserati,DNF,81,7,1,10,1071.814381,1062.36888,-9.445502,0.357143,0.546053,50.0,15
+1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,49,peter-collins,Peter Collins,ferrari,DNF,58,9,1,11,932.246025,929.20171,-3.044315,0.285714,0.346601,50.0,15
+1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,49,luigi-piotti,Luigi Piotti,maserati,DNF,57,12,1,12,980.278965,970.316206,-9.962759,0.214286,0.413541,50.0,15
+1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,49,carlos-menditeguy,Carlos Menditéguy,maserati,DNF,42,6,1,13,968.418461,955.726373,-12.692088,0.142857,0.396699,50.0,15
+1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,49,eugenio-castellotti,Eugenio Castellotti,ferrari,DNF,40,2,1,14,1056.453467,1033.832067,-22.6214,0.071429,0.523857,50.0,15
+1956,1,1956-01-22,argentina,Gran Premio de Argentina 1956,49,jose-froilan-gonzalez,José Froilán González,maserati,DNF,24,5,1,15,1191.660448,1156.265036,-35.395412,0.0,0.707908,50.0,15

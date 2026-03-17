@@ -1,25 +1,25 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,sebastian-vettel,Sebastian Vettel,red-bull,1,71,2,0,1,1265.375147,1279.849809,14.474662,1.0,0.710507,50.0,24
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,mark-webber,Mark Webber,red-bull,2,71,3,0,2,1254.332278,1267.267902,12.935624,0.956522,0.697809,50.0,24
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,fernando-alonso,Fernando Alonso,ferrari,3,71,5,0,3,1282.733069,1291.888663,9.155594,0.913043,0.729932,50.0,24
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,lewis-hamilton,Lewis Hamilton,mclaren,4,71,4,0,4,1237.894413,1247.450238,9.555825,0.869565,0.678449,50.0,24
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,jenson-button,Jenson Button,mclaren,5,71,11,0,5,1261.993609,1267.965664,5.972055,0.826087,0.706646,50.0,24
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,nico-rosberg,Nico Rosberg,mercedes,6,71,13,0,6,1170.283036,1179.714359,9.431323,0.782609,0.593982,50.0,24
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,michael-schumacher,Michael Schumacher,mercedes,7,71,8,0,7,1247.790789,1250.238872,2.448082,0.73913,0.690169,50.0,24
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,nico-hulkenberg,Nico Hülkenberg,williams,8,70,1,0,8,1032.633291,1046.827726,14.194434,0.695652,0.411763,50.0,24
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,robert-kubica,Robert Kubica,renault,9,70,7,0,9,1184.414317,1186.414201,1.999884,0.652174,0.612176,50.0,24
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,kamui-kobayashi,Kamui Kobayashi,sauber,10,70,12,0,10,1038.93595,1048.37049,9.43454,0.608696,0.420005,50.0,24
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,jaime-alguersuari,Jaime Alguersuari,toro-rosso,11,70,14,0,11,1017.581725,1026.230406,8.648681,0.565217,0.392244,50.0,24
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,adrian-sutil,Adrian Sutil,force-india,12,70,22,0,12,1034.721076,1040.083562,5.362486,0.521739,0.414489,50.0,24
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,sebastien-buemi,Sébastien Buemi,toro-rosso,13,70,19,0,13,1010.740362,1015.480562,4.7402,0.478261,0.383457,50.0,24
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,rubens-barrichello,Rubens Barrichello,williams,14,70,6,0,14,1168.78125,1160.918612,-7.862638,0.434783,0.592035,50.0,24
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,felipe-massa,Felipe Massa,ferrari,15,70,9,0,15,1243.588636,1228.893076,-14.69556,0.391304,0.685216,50.0,24
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,vitaly-petrov,Vitaly Petrov,renault,16,70,10,0,16,1034.045342,1030.756312,-3.28903,0.347826,0.413607,50.0,24
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,nick-heidfeld,Nick Heidfeld,sauber,17,70,15,0,17,1142.420631,1129.762191,-12.65844,0.304348,0.557517,50.0,24
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,heikki-kovalainen,Heikki Kovalainen,lotus-racing,18,69,20,0,18,1005.633112,999.829799,-5.803313,0.26087,0.376936,50.0,24
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,jarno-trulli,Jarno Trulli,lotus-racing,19,69,18,0,19,938.488155,934.603264,-3.884891,0.217391,0.295089,50.0,24
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,timo-glock,Timo Glock,virgin,20,69,17,0,20,974.445219,966.243965,-8.201254,0.173913,0.337938,50.0,24
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,bruno-senna,Bruno Senna,hrt,21,69,24,0,21,913.558123,906.731945,-6.826178,0.130435,0.266958,50.0,24
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,christian-klien,Christian Klien,hrt,22,65,23,0,22,1009.819032,995.052958,-14.766073,0.086957,0.382278,50.0,24
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,lucas-di-grassi,Lucas di Grassi,virgin,NC,62,21,1,23,902.61014,892.031306,-10.578834,0.043478,0.255055,50.0,24
-2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,DNF,49,16,1,24,1020.294552,1000.507372,-19.78718,0.0,0.395744,50.0,24
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,sebastian-vettel,Sebastian Vettel,red-bull,1,71,2,0,1,1265.375147,1279.849809,14.474662,1.0,0.710507,50.0,24
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,mark-webber,Mark Webber,red-bull,2,71,3,0,2,1254.332278,1267.267902,12.935624,0.956522,0.697809,50.0,24
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,fernando-alonso,Fernando Alonso,ferrari,3,71,5,0,3,1282.733069,1291.888663,9.155594,0.913043,0.729932,50.0,24
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,lewis-hamilton,Lewis Hamilton,mclaren,4,71,4,0,4,1237.894413,1247.450238,9.555825,0.869565,0.678449,50.0,24
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,jenson-button,Jenson Button,mclaren,5,71,11,0,5,1261.993609,1267.965664,5.972055,0.826087,0.706646,50.0,24
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,nico-rosberg,Nico Rosberg,mercedes,6,71,13,0,6,1170.283036,1179.714359,9.431323,0.782609,0.593982,50.0,24
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,michael-schumacher,Michael Schumacher,mercedes,7,71,8,0,7,1247.790789,1250.238872,2.448082,0.73913,0.690169,50.0,24
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,nico-hulkenberg,Nico Hülkenberg,williams,8,70,1,0,8,1032.633291,1046.827726,14.194434,0.695652,0.411763,50.0,24
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,robert-kubica,Robert Kubica,renault,9,70,7,0,9,1184.414317,1186.414201,1.999884,0.652174,0.612176,50.0,24
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,kamui-kobayashi,Kamui Kobayashi,sauber,10,70,12,0,10,1038.93595,1048.37049,9.43454,0.608696,0.420005,50.0,24
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,jaime-alguersuari,Jaime Alguersuari,toro-rosso,11,70,14,0,11,1017.581725,1026.230406,8.648681,0.565217,0.392244,50.0,24
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,adrian-sutil,Adrian Sutil,force-india,12,70,22,0,12,1034.721076,1040.083562,5.362486,0.521739,0.414489,50.0,24
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,sebastien-buemi,Sébastien Buemi,toro-rosso,13,70,19,0,13,1010.740362,1015.480562,4.7402,0.478261,0.383457,50.0,24
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,rubens-barrichello,Rubens Barrichello,williams,14,70,6,0,14,1168.78125,1160.918612,-7.862638,0.434783,0.592035,50.0,24
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,felipe-massa,Felipe Massa,ferrari,15,70,9,0,15,1243.588636,1228.893076,-14.69556,0.391304,0.685216,50.0,24
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,vitaly-petrov,Vitaly Petrov,renault,16,70,10,0,16,1034.045342,1030.756312,-3.28903,0.347826,0.413607,50.0,24
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,nick-heidfeld,Nick Heidfeld,sauber,17,70,15,0,17,1142.420631,1129.762191,-12.65844,0.304348,0.557517,50.0,24
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,heikki-kovalainen,Heikki Kovalainen,lotus-racing,18,69,20,0,18,1005.633112,999.829799,-5.803313,0.26087,0.376936,50.0,24
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,jarno-trulli,Jarno Trulli,lotus-racing,19,69,18,0,19,938.488155,934.603264,-3.884891,0.217391,0.295089,50.0,24
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,timo-glock,Timo Glock,virgin,20,69,17,0,20,974.445219,966.243965,-8.201254,0.173913,0.337938,50.0,24
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,bruno-senna,Bruno Senna,hrt,21,69,24,0,21,913.558123,906.731945,-6.826178,0.130435,0.266958,50.0,24
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,christian-klien,Christian Klien,hrt,22,65,23,0,22,1009.819032,995.052958,-14.766073,0.086957,0.382278,50.0,24
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,lucas-di-grassi,Lucas di Grassi,virgin,NC,62,21,1,23,902.61014,892.031306,-10.578834,0.043478,0.255055,50.0,24
+2010,18,2010-11-07,brazil,Formula 1 Grande Prêmio Petrobras do Brasil 2010,838,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,DNF,49,16,1,24,1020.294552,1000.507372,-19.78718,0.0,0.395744,50.0,24

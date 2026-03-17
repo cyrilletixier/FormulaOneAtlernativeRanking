@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,sergio-perez,Sergio Pérez,red-bull,1,51,3,0,1,1368.002039,1379.913673,11.911634,1.0,0.761767,50.0,20
-2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,max-verstappen,Max Verstappen,red-bull,2,51,2,0,2,1492.845875,1496.927044,4.081169,0.947368,0.865745,50.0,20
-2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,charles-leclerc,Charles Leclerc,ferrari,3,51,1,0,3,1272.575697,1284.344764,11.769067,0.894737,0.659356,50.0,20
-2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,fernando-alonso,Fernando Alonso,aston-martin,4,51,6,0,4,1184.178128,1198.73934,14.561211,0.842105,0.550881,50.0,20
-2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,5,51,4,0,5,1267.592901,1274.389893,6.796992,0.789474,0.653534,50.0,20
-2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,lewis-hamilton,Lewis Hamilton,mercedes,6,51,5,0,6,1421.083352,1417.409687,-3.673665,0.736842,0.810315,50.0,20
-2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,lance-stroll,Lance Stroll,aston-martin,7,51,9,0,7,1098.935998,1111.116842,12.180844,0.684211,0.440594,50.0,20
-2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,george-russell,George Russell,mercedes,8,51,11,0,8,1258.083921,1257.547326,-0.536595,0.631579,0.642311,50.0,20
-2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,lando-norris,Lando Norris,mclaren,9,51,7,0,9,1189.564679,1190.62476,1.060081,0.578947,0.557746,50.0,20
-2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,yuki-tsunoda,Yuki Tsunoda,alphatauri,10,51,8,0,10,1005.175628,1015.344515,10.168887,0.526316,0.322938,50.0,20
-2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,oscar-piastri,Oscar Piastri,mclaren,11,51,10,0,11,999.046881,1006.948878,7.901997,0.473684,0.315644,50.0,20
-2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,alexander-albon,Alexander Albon,williams,12,51,12,0,12,1028.08404,1031.599893,3.515853,0.421053,0.350736,50.0,20
-2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,kevin-magnussen,Kevin Magnussen,haas,13,51,16,0,13,970.650601,974.93432,4.283719,0.368421,0.282747,50.0,20
-2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,pierre-gasly,Pierre Gasly,alpine,14,51,17,0,14,1101.547514,1095.138239,-6.409274,0.315789,0.443975,50.0,20
-2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,esteban-ocon,Esteban Ocon,alpine,15,51,PL,0,15,1167.510694,1154.193338,-13.317357,0.263158,0.529505,50.0,20
-2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,logan-sargeant,Logan Sargeant,williams,16,51,14,0,16,994.181714,989.212987,-4.968727,0.210526,0.309901,50.0,20
-2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,nico-hulkenberg,Nico Hülkenberg,haas,17,50,PL,0,17,1076.430418,1063.745509,-12.684909,0.157895,0.411593,50.0,20
-2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,valtteri-bottas,Valtteri Bottas,alfa-romeo,18,50,13,0,18,1099.587165,1082.778497,-16.808668,0.105263,0.441437,50.0,20
-2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,guanyu-zhou,Guanyu Zhou,alfa-romeo,DNF,36,15,1,19,1005.385984,991.858086,-13.527897,0.052632,0.32319,50.0,20
-2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,nyck-de-vries,Nyck de Vries,alphatauri,DNF,9,18,1,20,1007.805469,991.501107,-16.304363,0.0,0.326087,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,1083,sergio-perez,Sergio Pérez,red-bull,1,51,3,0,1,1368.002039,1379.913673,11.911634,1.0,0.761767,50.0,20
+2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,1083,max-verstappen,Max Verstappen,red-bull,2,51,2,0,2,1492.845875,1496.927044,4.081169,0.947368,0.865745,50.0,20
+2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,1083,charles-leclerc,Charles Leclerc,ferrari,3,51,1,0,3,1272.575697,1284.344764,11.769067,0.894737,0.659356,50.0,20
+2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,1083,fernando-alonso,Fernando Alonso,aston-martin,4,51,6,0,4,1184.178128,1198.73934,14.561211,0.842105,0.550881,50.0,20
+2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,1083,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,5,51,4,0,5,1267.592901,1274.389893,6.796992,0.789474,0.653534,50.0,20
+2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,1083,lewis-hamilton,Lewis Hamilton,mercedes,6,51,5,0,6,1421.083352,1417.409687,-3.673665,0.736842,0.810315,50.0,20
+2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,1083,lance-stroll,Lance Stroll,aston-martin,7,51,9,0,7,1098.935998,1111.116842,12.180844,0.684211,0.440594,50.0,20
+2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,1083,george-russell,George Russell,mercedes,8,51,11,0,8,1258.083921,1257.547326,-0.536595,0.631579,0.642311,50.0,20
+2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,1083,lando-norris,Lando Norris,mclaren,9,51,7,0,9,1189.564679,1190.62476,1.060081,0.578947,0.557746,50.0,20
+2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,1083,yuki-tsunoda,Yuki Tsunoda,alphatauri,10,51,8,0,10,1005.175628,1015.344515,10.168887,0.526316,0.322938,50.0,20
+2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,1083,oscar-piastri,Oscar Piastri,mclaren,11,51,10,0,11,999.046881,1006.948878,7.901997,0.473684,0.315644,50.0,20
+2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,1083,alexander-albon,Alexander Albon,williams,12,51,12,0,12,1028.08404,1031.599893,3.515853,0.421053,0.350736,50.0,20
+2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,1083,kevin-magnussen,Kevin Magnussen,haas,13,51,16,0,13,970.650601,974.93432,4.283719,0.368421,0.282747,50.0,20
+2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,1083,pierre-gasly,Pierre Gasly,alpine,14,51,17,0,14,1101.547514,1095.138239,-6.409274,0.315789,0.443975,50.0,20
+2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,1083,esteban-ocon,Esteban Ocon,alpine,15,51,PL,0,15,1167.510694,1154.193338,-13.317357,0.263158,0.529505,50.0,20
+2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,1083,logan-sargeant,Logan Sargeant,williams,16,51,14,0,16,994.181714,989.212987,-4.968727,0.210526,0.309901,50.0,20
+2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,1083,nico-hulkenberg,Nico Hülkenberg,haas,17,50,PL,0,17,1076.430418,1063.745509,-12.684909,0.157895,0.411593,50.0,20
+2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,1083,valtteri-bottas,Valtteri Bottas,alfa-romeo,18,50,13,0,18,1099.587165,1082.778497,-16.808668,0.105263,0.441437,50.0,20
+2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,1083,guanyu-zhou,Guanyu Zhou,alfa-romeo,DNF,36,15,1,19,1005.385984,991.858086,-13.527897,0.052632,0.32319,50.0,20
+2023,4,2023-04-30,azerbaijan,Formula 1 Azerbaijan Grand Prix 2023,1083,nyck-de-vries,Nyck de Vries,alphatauri,DNF,9,18,1,20,1007.805469,991.501107,-16.304363,0.0,0.326087,50.0,20

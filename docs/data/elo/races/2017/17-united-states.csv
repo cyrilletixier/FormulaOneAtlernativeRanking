@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,1,56,1,0,1,1525.725132,1531.005251,5.280119,1.0,0.894398,50.0,20
-2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,2,56,2,0,2,1353.242214,1362.549532,9.307317,0.947368,0.761222,50.0,20
-2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,3,56,5,0,3,1241.012643,1253.744275,12.731633,0.894737,0.640104,50.0,20
-2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,max-verstappen,Max Verstappen,red-bull,4,56,16,0,4,1179.187418,1193.078419,13.891001,0.842105,0.564285,50.0,20
-2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,valtteri-bottas,Valtteri Bottas,mercedes,5,56,3,0,5,1334.012244,1336.37194,2.359697,0.789474,0.74228,50.0,20
-2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,esteban-ocon,Esteban Ocon,force-india,6,56,6,0,6,1135.394616,1146.825222,11.430607,0.736842,0.50823,50.0,20
-2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,renault,7,56,7,0,7,1058.003481,1071.80839,13.804908,0.684211,0.408112,50.0,20
-2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,sergio-perez,Sergio Pérez,force-india,8,55,9,0,8,1226.767871,1227.192126,0.424255,0.631579,0.623094,50.0,20
-2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,felipe-massa,Felipe Massa,williams,9,55,10,0,9,1135.802876,1139.312356,3.50948,0.578947,0.508758,50.0,20
-2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,daniil-kvyat,Daniil Kvyat,toro-rosso,10,55,11,0,10,1017.25652,1025.735435,8.478915,0.526316,0.356737,50.0,20
-2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,lance-stroll,Lance Stroll,williams,11,55,15,0,11,1049.208132,1053.048057,3.839925,0.473684,0.396886,50.0,20
-2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,stoffel-vandoorne,Stoffel Vandoorne,mclaren,12,55,20,0,12,1016.499245,1019.761853,3.262608,0.421053,0.3558,50.0,20
-2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,brendon-hartley,Brendon Hartley,toro-rosso,13,55,19,0,13,1000.0,1001.641852,1.641852,0.368421,0.335584,50.0,20
-2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,romain-grosjean,Romain Grosjean,haas,14,55,12,0,14,1066.230577,1061.086775,-5.143801,0.315789,0.418666,50.0,20
-2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,15,55,13,0,15,935.809823,935.897152,0.087329,0.263158,0.261411,50.0,20
-2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,kevin-magnussen,Kevin Magnussen,haas,16,55,17,0,16,1041.026163,1032.227382,-8.798781,0.210526,0.386502,50.0,20
-2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,fernando-alonso,Fernando Alonso,mclaren,DNF,24,8,1,17,1030.000085,1019.264105,-10.73598,0.157895,0.372614,50.0,20
-2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,DNF,14,4,1,18,1356.723277,1323.75819,-32.965087,0.105263,0.764565,50.0,20
-2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,pascal-wehrlein,Pascal Wehrlein,sauber,DNF,5,14,1,19,937.001808,926.497748,-10.50406,0.052632,0.262713,50.0,20
-2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,nico-hulkenberg,Nico Hülkenberg,renault,DNF,3,18,1,20,1081.254409,1059.352472,-21.901938,0.0,0.438039,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,973,lewis-hamilton,Lewis Hamilton,mercedes,1,56,1,0,1,1525.725132,1531.005251,5.280119,1.0,0.894398,50.0,20
+2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,973,sebastian-vettel,Sebastian Vettel,ferrari,2,56,2,0,2,1353.242214,1362.549532,9.307317,0.947368,0.761222,50.0,20
+2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,973,kimi-raikkonen,Kimi Räikkönen,ferrari,3,56,5,0,3,1241.012643,1253.744275,12.731633,0.894737,0.640104,50.0,20
+2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,973,max-verstappen,Max Verstappen,red-bull,4,56,16,0,4,1179.187418,1193.078419,13.891001,0.842105,0.564285,50.0,20
+2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,973,valtteri-bottas,Valtteri Bottas,mercedes,5,56,3,0,5,1334.012244,1336.37194,2.359697,0.789474,0.74228,50.0,20
+2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,973,esteban-ocon,Esteban Ocon,force-india,6,56,6,0,6,1135.394616,1146.825222,11.430607,0.736842,0.50823,50.0,20
+2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,973,carlos-sainz-jr,Carlos Sainz Jr.,renault,7,56,7,0,7,1058.003481,1071.80839,13.804908,0.684211,0.408112,50.0,20
+2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,973,sergio-perez,Sergio Pérez,force-india,8,55,9,0,8,1226.767871,1227.192126,0.424255,0.631579,0.623094,50.0,20
+2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,973,felipe-massa,Felipe Massa,williams,9,55,10,0,9,1135.802876,1139.312356,3.50948,0.578947,0.508758,50.0,20
+2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,973,daniil-kvyat,Daniil Kvyat,toro-rosso,10,55,11,0,10,1017.25652,1025.735435,8.478915,0.526316,0.356737,50.0,20
+2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,973,lance-stroll,Lance Stroll,williams,11,55,15,0,11,1049.208132,1053.048057,3.839925,0.473684,0.396886,50.0,20
+2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,973,stoffel-vandoorne,Stoffel Vandoorne,mclaren,12,55,20,0,12,1016.499245,1019.761853,3.262608,0.421053,0.3558,50.0,20
+2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,973,brendon-hartley,Brendon Hartley,toro-rosso,13,55,19,0,13,1000.0,1001.641852,1.641852,0.368421,0.335584,50.0,20
+2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,973,romain-grosjean,Romain Grosjean,haas,14,55,12,0,14,1066.230577,1061.086775,-5.143801,0.315789,0.418666,50.0,20
+2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,973,marcus-ericsson,Marcus Ericsson,sauber,15,55,13,0,15,935.809823,935.897152,0.087329,0.263158,0.261411,50.0,20
+2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,973,kevin-magnussen,Kevin Magnussen,haas,16,55,17,0,16,1041.026163,1032.227382,-8.798781,0.210526,0.386502,50.0,20
+2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,973,fernando-alonso,Fernando Alonso,mclaren,DNF,24,8,1,17,1030.000085,1019.264105,-10.73598,0.157895,0.372614,50.0,20
+2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,973,daniel-ricciardo,Daniel Ricciardo,red-bull,DNF,14,4,1,18,1356.723277,1323.75819,-32.965087,0.105263,0.764565,50.0,20
+2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,973,pascal-wehrlein,Pascal Wehrlein,sauber,DNF,5,14,1,19,937.001808,926.497748,-10.50406,0.052632,0.262713,50.0,20
+2017,17,2017-10-22,united-states,2017 Formula 1 United States Grand Prix,973,nico-hulkenberg,Nico Hülkenberg,renault,DNF,3,18,1,20,1081.254409,1059.352472,-21.901938,0.0,0.438039,50.0,20

@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,felipe-massa,Felipe Massa,ferrari,1,57,2,0,1,1237.399794,1252.848686,15.448892,1.0,0.691022,50.0,22
-2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,2,57,4,0,2,1329.045788,1337.263083,8.217295,0.952381,0.788035,50.0,22
-2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,robert-kubica,Robert Kubica,bmw-sauber,3,57,1,0,3,1161.178643,1176.564456,15.385814,0.904762,0.597046,50.0,22
-2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,nick-heidfeld,Nick Heidfeld,bmw-sauber,4,57,6,0,4,1231.993293,1240.615178,8.621885,0.857143,0.684705,50.0,22
-2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,heikki-kovalainen,Heikki Kovalainen,mclaren,5,57,5,0,5,1161.616618,1172.212225,10.595607,0.809524,0.597612,50.0,22
-2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,jarno-trulli,Jarno Trulli,toyota,6,57,7,0,6,1079.394277,1093.069627,13.675349,0.761905,0.488398,50.0,22
-2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,mark-webber,Mark Webber,red-bull,7,57,11,0,7,1009.619917,1025.5723,15.952383,0.714286,0.395238,50.0,22
-2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,nico-rosberg,Nico Rosberg,williams,8,57,8,0,8,1084.144502,1092.737958,8.593456,0.666667,0.494798,50.0,22
-2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,timo-glock,Timo Glock,toyota,9,57,13,0,9,988.886878,1001.422075,12.535197,0.619048,0.368344,50.0,22
-2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,fernando-alonso,Fernando Alonso,renault,10,57,10,0,10,1375.916359,1363.005111,-12.911248,0.571429,0.829654,50.0,22
-2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,rubens-barrichello,Rubens Barrichello,honda,11,57,12,0,11,1050.827864,1054.520404,3.69254,0.52381,0.449959,50.0,22
-2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,force-india,12,56,18,0,12,1120.102481,1116.759985,-3.342496,0.47619,0.54304,50.0,22
-2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,13,56,3,0,13,1250.004357,1236.157359,-13.846997,0.428571,0.705511,50.0,22
-2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,kazuki-nakajima,Kazuki Nakajima,williams,14,56,16,0,14,1018.490898,1017.193623,-1.297275,0.380952,0.406898,50.0,22
-2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,sebastien-bourdais,Sébastien Bourdais,toro-rosso,15,56,15,0,15,996.344742,994.113673,-2.23107,0.333333,0.377955,50.0,22
-2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,anthony-davidson,Anthony Davidson,super-aguri,16,56,21,0,16,929.867552,929.37725,-0.490302,0.285714,0.29552,50.0,22
-2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,takuma-sato,Takuma Sato,super-aguri,17,56,22,0,17,975.574687,969.910075,-5.664613,0.238095,0.351387,50.0,22
-2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,david-coulthard,David Coulthard,red-bull,18,56,17,0,18,1059.934415,1046.348626,-13.585789,0.190476,0.462192,50.0,22
-2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,adrian-sutil,Adrian Sutil,force-india,19,55,20,0,19,911.741831,905.15697,-6.584861,0.142857,0.274554,50.0,22
-2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,nelson-piquet-jr,Nelson Piquet Jr.,renault,DNF,40,14,1,20,1011.413312,996.295786,-15.117526,0.095238,0.397589,50.0,22
-2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,jenson-button,Jenson Button,honda,DNF,19,9,1,21,1065.571263,1044.463365,-21.107898,0.047619,0.469777,50.0,22
-2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,sebastian-vettel,Sebastian Vettel,toro-rosso,DNF,0,19,1,22,959.073303,942.534959,-16.538343,0.0,0.330767,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,788,felipe-massa,Felipe Massa,ferrari,1,57,2,0,1,1237.399794,1252.848686,15.448892,1.0,0.691022,50.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,788,kimi-raikkonen,Kimi Räikkönen,ferrari,2,57,4,0,2,1329.045788,1337.263083,8.217295,0.952381,0.788035,50.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,788,robert-kubica,Robert Kubica,bmw-sauber,3,57,1,0,3,1161.178643,1176.564456,15.385814,0.904762,0.597046,50.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,788,nick-heidfeld,Nick Heidfeld,bmw-sauber,4,57,6,0,4,1231.993293,1240.615178,8.621885,0.857143,0.684705,50.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,788,heikki-kovalainen,Heikki Kovalainen,mclaren,5,57,5,0,5,1161.616618,1172.212225,10.595607,0.809524,0.597612,50.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,788,jarno-trulli,Jarno Trulli,toyota,6,57,7,0,6,1079.394277,1093.069627,13.675349,0.761905,0.488398,50.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,788,mark-webber,Mark Webber,red-bull,7,57,11,0,7,1009.619917,1025.5723,15.952383,0.714286,0.395238,50.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,788,nico-rosberg,Nico Rosberg,williams,8,57,8,0,8,1084.144502,1092.737958,8.593456,0.666667,0.494798,50.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,788,timo-glock,Timo Glock,toyota,9,57,13,0,9,988.886878,1001.422075,12.535197,0.619048,0.368344,50.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,788,fernando-alonso,Fernando Alonso,renault,10,57,10,0,10,1375.916359,1363.005111,-12.911248,0.571429,0.829654,50.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,788,rubens-barrichello,Rubens Barrichello,honda,11,57,12,0,11,1050.827864,1054.520404,3.69254,0.52381,0.449959,50.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,788,giancarlo-fisichella,Giancarlo Fisichella,force-india,12,56,18,0,12,1120.102481,1116.759985,-3.342496,0.47619,0.54304,50.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,788,lewis-hamilton,Lewis Hamilton,mclaren,13,56,3,0,13,1250.004357,1236.157359,-13.846997,0.428571,0.705511,50.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,788,kazuki-nakajima,Kazuki Nakajima,williams,14,56,16,0,14,1018.490898,1017.193623,-1.297275,0.380952,0.406898,50.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,788,sebastien-bourdais,Sébastien Bourdais,toro-rosso,15,56,15,0,15,996.344742,994.113673,-2.23107,0.333333,0.377955,50.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,788,anthony-davidson,Anthony Davidson,super-aguri,16,56,21,0,16,929.867552,929.37725,-0.490302,0.285714,0.29552,50.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,788,takuma-sato,Takuma Sato,super-aguri,17,56,22,0,17,975.574687,969.910075,-5.664613,0.238095,0.351387,50.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,788,david-coulthard,David Coulthard,red-bull,18,56,17,0,18,1059.934415,1046.348626,-13.585789,0.190476,0.462192,50.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,788,adrian-sutil,Adrian Sutil,force-india,19,55,20,0,19,911.741831,905.15697,-6.584861,0.142857,0.274554,50.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,788,nelson-piquet-jr,Nelson Piquet Jr.,renault,DNF,40,14,1,20,1011.413312,996.295786,-15.117526,0.095238,0.397589,50.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,788,jenson-button,Jenson Button,honda,DNF,19,9,1,21,1065.571263,1044.463365,-21.107898,0.047619,0.469777,50.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,788,sebastian-vettel,Sebastian Vettel,toro-rosso,DNF,0,19,1,22,959.073303,942.534959,-16.538343,0.0,0.330767,50.0,22

@@ -1,8 +1,8 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1989-08-27,1989,11,belgium,coloni,Coloni,DNPQ,,39,1000.0,988.477536,-11.522464,0.210526,0.440976,50.0
-1989-09-10,1989,12,italy,coloni,Coloni,DNPQ,,39,988.477536,977.70597,-10.771567,0.210526,0.425958,50.0
-1989-09-24,1989,13,portugal,coloni,Coloni,DNPQ,,39,977.70597,968.92352,-8.782449,0.236842,0.412491,50.0
-1989-10-01,1989,14,spain,coloni,Coloni,DNPQ,,38,968.92352,958.281074,-10.642446,0.189189,0.402038,50.0
-1989-10-22,1989,15,japan,coloni,Coloni,DNPQ,,39,958.281074,950.886154,-7.39492,0.236842,0.384741,50.0
-1989-11-05,1989,16,australia,coloni,Coloni,DNPQ,,39,950.886154,942.780879,-8.105275,0.210526,0.372632,50.0
-1992-03-01,1992,1,south-africa,andrea-moda,Andrea Moda,EX,,32,942.780879,932.746135,-10.034744,0.145161,0.345856,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1989-08-27,1989,11,belgium,479,coloni,Coloni,DNPQ,,39,1000.0,988.477536,-11.522464,0.210526,0.440976,50.0
+1989-09-10,1989,12,italy,480,coloni,Coloni,DNPQ,,39,988.477536,977.70597,-10.771567,0.210526,0.425958,50.0
+1989-09-24,1989,13,portugal,481,coloni,Coloni,DNPQ,,39,977.70597,968.92352,-8.782449,0.236842,0.412491,50.0
+1989-10-01,1989,14,spain,482,coloni,Coloni,DNPQ,,38,968.92352,958.281074,-10.642446,0.189189,0.402038,50.0
+1989-10-22,1989,15,japan,483,coloni,Coloni,DNPQ,,39,958.281074,950.886154,-7.39492,0.236842,0.384741,50.0
+1989-11-05,1989,16,australia,484,coloni,Coloni,DNPQ,,39,950.886154,942.780879,-8.105275,0.210526,0.372632,50.0
+1992-03-01,1992,1,south-africa,517,andrea-moda,Andrea Moda,EX,,32,942.780879,932.746135,-10.034744,0.145161,0.345856,50.0

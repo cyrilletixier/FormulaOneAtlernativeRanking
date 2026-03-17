@@ -1,3 +1,3 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1960-02-07,1960,1,argentina,maserati,Maserati,14,70,22,1000.0,994.012406,-5.987594,0.333333,0.453085,50.0
-1962-09-16,1962,7,italy,de-tomaso,De Tomaso,DNQ,,30,994.012406,978.505733,-15.506672,0.137931,0.448064,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1960-02-07,1960,1,argentina,85,maserati,Maserati,14,70,22,1000.0,994.012406,-5.987594,0.333333,0.453085,50.0
+1962-09-16,1962,7,italy,109,de-tomaso,De Tomaso,DNQ,,30,994.012406,978.505733,-15.506672,0.137931,0.448064,50.0

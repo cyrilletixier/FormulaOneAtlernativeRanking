@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,max-verstappen,Max Verstappen,red-bull,1,78,2,0,1,1351.664686,1363.89838,12.233694,1.0,0.755326,50.0,20
-2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,2,78,4,0,2,1211.149925,1228.442264,17.292339,0.947368,0.601522,50.0,20
-2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,lando-norris,Lando Norris,mclaren,3,78,5,0,3,1218.44191,1232.663818,14.221908,0.894737,0.610299,50.0,20
-2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,sergio-perez,Sergio Pérez,red-bull,4,78,9,0,4,1229.565607,1240.493093,10.927486,0.842105,0.623556,50.0,20
-2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,sebastian-vettel,Sebastian Vettel,aston-martin,5,78,8,0,5,1129.672847,1144.140237,14.46739,0.789474,0.500126,50.0,20
-2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,pierre-gasly,Pierre Gasly,alphatauri,6,78,6,0,6,1135.846871,1147.291661,11.44479,0.736842,0.507946,50.0,20
-2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,lewis-hamilton,Lewis Hamilton,mercedes,7,78,7,0,7,1606.034535,1593.766316,-12.268218,0.684211,0.929575,50.0,20
-2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,lance-stroll,Lance Stroll,aston-martin,8,77,13,0,8,1093.700394,1102.55468,8.854286,0.631579,0.454493,50.0,20
-2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,esteban-ocon,Esteban Ocon,alpine,9,77,11,0,9,1137.361018,1140.815258,3.454239,0.578947,0.509863,50.0,20
-2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,10,77,10,0,10,981.448863,991.916421,10.467558,0.526316,0.316965,50.0,20
-2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,11,77,14,0,11,1048.462026,1052.263682,3.801656,0.473684,0.397651,50.0,20
-2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,daniel-ricciardo,Daniel Ricciardo,mclaren,12,77,12,0,12,1236.731335,1226.183706,-10.547629,0.421053,0.632005,50.0,20
-2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,fernando-alonso,Fernando Alonso,alpine,13,77,17,0,13,1008.813275,1009.773515,0.96024,0.368421,0.349216,50.0,20
-2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,george-russell,George Russell,williams,14,77,15,0,14,931.620575,934.334225,2.713649,0.315789,0.261516,50.0,20
-2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,nicholas-latifi,Nicholas Latifi,williams,15,77,18,0,15,911.336512,912.476048,1.139537,0.263158,0.240367,50.0,20
-2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,yuki-tsunoda,Yuki Tsunoda,alphatauri,16,77,16,0,16,993.618993,987.5868,-6.032193,0.210526,0.33117,50.0,20
-2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,nikita-mazepin,Nikita Mazepin,haas,17,75,19,0,17,950.607214,944.397428,-6.209786,0.157895,0.28209,50.0,20
-2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,mick-schumacher,Mick Schumacher,haas,18,75,20,0,18,969.324204,959.434714,-9.88949,0.105263,0.303053,50.0,20
-2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,valtteri-bottas,Valtteri Bottas,mercedes,DNF,29,3,1,19,1365.68172,1329.886026,-35.795694,0.052632,0.768545,50.0,20
-2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,charles-leclerc,Charles Leclerc,ferrari,DNS,,,2,20,1230.545469,1199.309706,-31.235763,0.0,0.624715,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,1040,max-verstappen,Max Verstappen,red-bull,1,78,2,0,1,1351.664686,1363.89838,12.233694,1.0,0.755326,50.0,20
+2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,1040,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,2,78,4,0,2,1211.149925,1228.442264,17.292339,0.947368,0.601522,50.0,20
+2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,1040,lando-norris,Lando Norris,mclaren,3,78,5,0,3,1218.44191,1232.663818,14.221908,0.894737,0.610299,50.0,20
+2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,1040,sergio-perez,Sergio Pérez,red-bull,4,78,9,0,4,1229.565607,1240.493093,10.927486,0.842105,0.623556,50.0,20
+2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,1040,sebastian-vettel,Sebastian Vettel,aston-martin,5,78,8,0,5,1129.672847,1144.140237,14.46739,0.789474,0.500126,50.0,20
+2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,1040,pierre-gasly,Pierre Gasly,alphatauri,6,78,6,0,6,1135.846871,1147.291661,11.44479,0.736842,0.507946,50.0,20
+2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,1040,lewis-hamilton,Lewis Hamilton,mercedes,7,78,7,0,7,1606.034535,1593.766316,-12.268218,0.684211,0.929575,50.0,20
+2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,1040,lance-stroll,Lance Stroll,aston-martin,8,77,13,0,8,1093.700394,1102.55468,8.854286,0.631579,0.454493,50.0,20
+2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,1040,esteban-ocon,Esteban Ocon,alpine,9,77,11,0,9,1137.361018,1140.815258,3.454239,0.578947,0.509863,50.0,20
+2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,1040,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,10,77,10,0,10,981.448863,991.916421,10.467558,0.526316,0.316965,50.0,20
+2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,1040,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,11,77,14,0,11,1048.462026,1052.263682,3.801656,0.473684,0.397651,50.0,20
+2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,1040,daniel-ricciardo,Daniel Ricciardo,mclaren,12,77,12,0,12,1236.731335,1226.183706,-10.547629,0.421053,0.632005,50.0,20
+2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,1040,fernando-alonso,Fernando Alonso,alpine,13,77,17,0,13,1008.813275,1009.773515,0.96024,0.368421,0.349216,50.0,20
+2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,1040,george-russell,George Russell,williams,14,77,15,0,14,931.620575,934.334225,2.713649,0.315789,0.261516,50.0,20
+2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,1040,nicholas-latifi,Nicholas Latifi,williams,15,77,18,0,15,911.336512,912.476048,1.139537,0.263158,0.240367,50.0,20
+2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,1040,yuki-tsunoda,Yuki Tsunoda,alphatauri,16,77,16,0,16,993.618993,987.5868,-6.032193,0.210526,0.33117,50.0,20
+2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,1040,nikita-mazepin,Nikita Mazepin,haas,17,75,19,0,17,950.607214,944.397428,-6.209786,0.157895,0.28209,50.0,20
+2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,1040,mick-schumacher,Mick Schumacher,haas,18,75,20,0,18,969.324204,959.434714,-9.88949,0.105263,0.303053,50.0,20
+2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,1040,valtteri-bottas,Valtteri Bottas,mercedes,DNF,29,3,1,19,1365.68172,1329.886026,-35.795694,0.052632,0.768545,50.0,20
+2021,5,2021-05-23,monaco,Formula 1 Grand Prix de Monaco 2021,1040,charles-leclerc,Charles Leclerc,ferrari,DNS,,,2,20,1230.545469,1199.309706,-31.235763,0.0,0.624715,50.0,20

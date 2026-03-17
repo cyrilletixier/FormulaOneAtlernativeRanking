@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1973,4,1973-04-29,spain,Gran Premio de España 1973,emerson-fittipaldi,Emerson Fittipaldi,lotus,1,75,7,0,1,1210.602804,1224.769526,14.166722,1.0,0.716666,50.0,22
-1973,4,1973-04-29,spain,Gran Premio de España 1973,francois-cevert,François Cevert,tyrrell,2,75,3,0,2,1112.907654,1131.000829,18.093175,0.952381,0.590517,50.0,22
-1973,4,1973-04-29,spain,Gran Premio de España 1973,george-follmer,George Follmer,shadow,3,75,14,0,3,1017.506397,1039.95925,22.452854,0.904762,0.455705,50.0,22
-1973,4,1973-04-29,spain,Gran Premio de España 1973,peter-revson,Peter Revson,mclaren,4,74,5,0,4,1086.707407,1101.865188,15.157781,0.857143,0.553987,50.0,22
-1973,4,1973-04-29,spain,Gran Premio de España 1973,jean-pierre-beltoise,Jean-Pierre Beltoise,brm,5,74,10,0,5,1038.85271,1055.026263,16.173553,0.809524,0.486053,50.0,22
-1973,4,1973-04-29,spain,Gran Premio de España 1973,denny-hulme,Denny Hulme,mclaren,6,74,2,0,6,1208.121744,1210.530774,2.409031,0.761905,0.713724,50.0,22
-1973,4,1973-04-29,spain,Gran Premio de España 1973,mike-beuttler,Mike Beuttler,march,7,74,19,0,7,987.258406,1002.314184,15.055778,0.714286,0.41317,50.0,22
-1973,4,1973-04-29,spain,Gran Premio de España 1973,henri-pescarolo,Henri Pescarolo,march,8,73,18,0,8,972.621752,986.308775,13.687023,0.666667,0.392926,50.0,22
-1973,4,1973-04-29,spain,Gran Premio de España 1973,clay-regazzoni,Clay Regazzoni,brm,9,69,8,0,9,1074.400923,1078.52267,4.121746,0.619048,0.536613,50.0,22
-1973,4,1973-04-29,spain,Gran Premio de España 1973,wilson-fittipaldi,Wilson Fittipaldi,brabham,10,69,12,0,10,993.528494,1001.003937,7.475443,0.571429,0.42192,50.0,22
-1973,4,1973-04-29,spain,Gran Premio de España 1973,nanni-galli,Nanni Galli,iso-marlboro,11,69,20,0,11,928.391357,937.892458,9.501101,0.52381,0.333788,50.0,22
-1973,4,1973-04-29,spain,Gran Premio de España 1973,jacky-ickx,Jacky Ickx,ferrari,12,69,6,0,12,1114.63439,1108.799059,-5.83533,0.47619,0.592897,50.0,22
-1973,4,1973-04-29,spain,Gran Premio de España 1973,carlos-reutemann,Carlos Reutemann,brabham,DNF,66,15,1,13,997.304538,997.372687,0.068149,0.428571,0.427208,50.0,22
-1973,4,1973-04-29,spain,Gran Premio de España 1973,howden-ganley,Howden Ganley,iso-marlboro,DNF,63,21,1,14,1044.258743,1038.618634,-5.640109,0.380952,0.493755,50.0,22
-1973,4,1973-04-29,spain,Gran Premio de España 1973,ronnie-peterson,Ronnie Peterson,lotus,DNF,56,1,1,15,1101.42326,1089.360116,-12.063144,0.333333,0.574596,50.0,22
-1973,4,1973-04-29,spain,Gran Premio de España 1973,jackie-stewart,Jackie Stewart,tyrrell,DNF,47,4,1,16,1243.13092,1219.730753,-23.400167,0.285714,0.753718,50.0,22
-1973,4,1973-04-29,spain,Gran Premio de España 1973,niki-lauda,Niki Lauda,brm,DNF,28,11,1,17,976.194234,968.206904,-7.987331,0.238095,0.397842,50.0,22
-1973,4,1973-04-29,spain,Gran Premio de España 1973,graham-hill,Graham Hill,shadow,DNF,27,22,1,18,1086.618569,1068.449267,-18.169302,0.190476,0.553862,50.0,22
-1973,4,1973-04-29,spain,Gran Premio de España 1973,mike-hailwood,Mike Hailwood,surtees,DNF,25,PL,1,19,991.720741,977.893957,-13.826783,0.142857,0.419393,50.0,22
-1973,4,1973-04-29,spain,Gran Premio de España 1973,jackie-oliver,Jackie Oliver,shadow,DNF,23,13,1,20,961.297184,947.18581,-14.111375,0.095238,0.377466,50.0,22
-1973,4,1973-04-29,spain,Gran Premio de España 1973,andrea-de-adamich,Andrea de Adamich,brabham,DNF,17,17,1,21,966.021266,949.207638,-16.813628,0.047619,0.383892,50.0,22
-1973,4,1973-04-29,spain,Gran Premio de España 1973,carlos-pace,Carlos Pace,surtees,DNF,13,16,1,22,985.197501,964.682314,-20.515187,0.0,0.410304,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1973,4,1973-04-29,spain,Gran Premio de España 1973,224,emerson-fittipaldi,Emerson Fittipaldi,lotus,1,75,7,0,1,1210.602804,1224.769526,14.166722,1.0,0.716666,50.0,22
+1973,4,1973-04-29,spain,Gran Premio de España 1973,224,francois-cevert,François Cevert,tyrrell,2,75,3,0,2,1112.907654,1131.000829,18.093175,0.952381,0.590517,50.0,22
+1973,4,1973-04-29,spain,Gran Premio de España 1973,224,george-follmer,George Follmer,shadow,3,75,14,0,3,1017.506397,1039.95925,22.452854,0.904762,0.455705,50.0,22
+1973,4,1973-04-29,spain,Gran Premio de España 1973,224,peter-revson,Peter Revson,mclaren,4,74,5,0,4,1086.707407,1101.865188,15.157781,0.857143,0.553987,50.0,22
+1973,4,1973-04-29,spain,Gran Premio de España 1973,224,jean-pierre-beltoise,Jean-Pierre Beltoise,brm,5,74,10,0,5,1038.85271,1055.026263,16.173553,0.809524,0.486053,50.0,22
+1973,4,1973-04-29,spain,Gran Premio de España 1973,224,denny-hulme,Denny Hulme,mclaren,6,74,2,0,6,1208.121744,1210.530774,2.409031,0.761905,0.713724,50.0,22
+1973,4,1973-04-29,spain,Gran Premio de España 1973,224,mike-beuttler,Mike Beuttler,march,7,74,19,0,7,987.258406,1002.314184,15.055778,0.714286,0.41317,50.0,22
+1973,4,1973-04-29,spain,Gran Premio de España 1973,224,henri-pescarolo,Henri Pescarolo,march,8,73,18,0,8,972.621752,986.308775,13.687023,0.666667,0.392926,50.0,22
+1973,4,1973-04-29,spain,Gran Premio de España 1973,224,clay-regazzoni,Clay Regazzoni,brm,9,69,8,0,9,1074.400923,1078.52267,4.121746,0.619048,0.536613,50.0,22
+1973,4,1973-04-29,spain,Gran Premio de España 1973,224,wilson-fittipaldi,Wilson Fittipaldi,brabham,10,69,12,0,10,993.528494,1001.003937,7.475443,0.571429,0.42192,50.0,22
+1973,4,1973-04-29,spain,Gran Premio de España 1973,224,nanni-galli,Nanni Galli,iso-marlboro,11,69,20,0,11,928.391357,937.892458,9.501101,0.52381,0.333788,50.0,22
+1973,4,1973-04-29,spain,Gran Premio de España 1973,224,jacky-ickx,Jacky Ickx,ferrari,12,69,6,0,12,1114.63439,1108.799059,-5.83533,0.47619,0.592897,50.0,22
+1973,4,1973-04-29,spain,Gran Premio de España 1973,224,carlos-reutemann,Carlos Reutemann,brabham,DNF,66,15,1,13,997.304538,997.372687,0.068149,0.428571,0.427208,50.0,22
+1973,4,1973-04-29,spain,Gran Premio de España 1973,224,howden-ganley,Howden Ganley,iso-marlboro,DNF,63,21,1,14,1044.258743,1038.618634,-5.640109,0.380952,0.493755,50.0,22
+1973,4,1973-04-29,spain,Gran Premio de España 1973,224,ronnie-peterson,Ronnie Peterson,lotus,DNF,56,1,1,15,1101.42326,1089.360116,-12.063144,0.333333,0.574596,50.0,22
+1973,4,1973-04-29,spain,Gran Premio de España 1973,224,jackie-stewart,Jackie Stewart,tyrrell,DNF,47,4,1,16,1243.13092,1219.730753,-23.400167,0.285714,0.753718,50.0,22
+1973,4,1973-04-29,spain,Gran Premio de España 1973,224,niki-lauda,Niki Lauda,brm,DNF,28,11,1,17,976.194234,968.206904,-7.987331,0.238095,0.397842,50.0,22
+1973,4,1973-04-29,spain,Gran Premio de España 1973,224,graham-hill,Graham Hill,shadow,DNF,27,22,1,18,1086.618569,1068.449267,-18.169302,0.190476,0.553862,50.0,22
+1973,4,1973-04-29,spain,Gran Premio de España 1973,224,mike-hailwood,Mike Hailwood,surtees,DNF,25,PL,1,19,991.720741,977.893957,-13.826783,0.142857,0.419393,50.0,22
+1973,4,1973-04-29,spain,Gran Premio de España 1973,224,jackie-oliver,Jackie Oliver,shadow,DNF,23,13,1,20,961.297184,947.18581,-14.111375,0.095238,0.377466,50.0,22
+1973,4,1973-04-29,spain,Gran Premio de España 1973,224,andrea-de-adamich,Andrea de Adamich,brabham,DNF,17,17,1,21,966.021266,949.207638,-16.813628,0.047619,0.383892,50.0,22
+1973,4,1973-04-29,spain,Gran Premio de España 1973,224,carlos-pace,Carlos Pace,surtees,DNF,13,16,1,22,985.197501,964.682314,-20.515187,0.0,0.410304,50.0,22

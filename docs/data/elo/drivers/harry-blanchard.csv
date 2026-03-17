@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1959-12-12,1959,9,united-states,porsche,Porsche,7,38,19,1000.0,1010.730861,10.730861,0.666667,0.452049,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1959-12-12,1959,9,united-states,84,porsche,Porsche,7,38,19,1000.0,1010.730861,10.730861,0.666667,0.452049,50.0

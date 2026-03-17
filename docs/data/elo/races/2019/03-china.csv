@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,lewis-hamilton,Lewis Hamilton,mercedes,1,56,2,0,1,1548.340133,1553.379102,5.038969,1.0,0.899221,50.0,20
-2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,valtteri-bottas,Valtteri Bottas,mercedes,2,56,1,0,2,1398.829347,1406.463331,7.633984,0.947368,0.794689,50.0,20
-2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,sebastian-vettel,Sebastian Vettel,ferrari,3,56,3,0,3,1422.072971,1426.113887,4.040917,0.894737,0.813919,50.0,20
-2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,max-verstappen,Max Verstappen,red-bull,4,56,5,0,4,1334.764857,1340.075518,5.310661,0.842105,0.735892,50.0,20
-2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,charles-leclerc,Charles Leclerc,ferrari,5,56,4,0,5,1090.633859,1107.709156,17.075297,0.789474,0.447968,50.0,20
-2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,pierre-gasly,Pierre Gasly,red-bull,6,56,6,0,6,1037.233158,1055.090093,17.856935,0.736842,0.379703,50.0,20
-2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,daniel-ricciardo,Daniel Ricciardo,renault,7,55,7,0,7,1147.960836,1156.093555,8.132718,0.684211,0.521556,50.0,20
-2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,sergio-perez,Sergio Pérez,racing-point,8,55,12,0,8,1144.026599,1149.778001,5.751403,0.631579,0.516551,50.0,20
-2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,9,55,13,0,9,1306.827477,1300.393035,-6.434442,0.578947,0.707636,50.0,20
-2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,alexander-albon,Alexander Albon,toro-rosso,10,55,PL,0,10,1011.465738,1020.402825,8.937087,0.526316,0.347574,50.0,20
-2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,romain-grosjean,Romain Grosjean,haas,11,55,10,0,11,1017.790811,1023.705566,5.914756,0.473684,0.355389,50.0,20
-2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,lance-stroll,Lance Stroll,racing-point,12,55,16,0,12,995.625324,1000.265836,4.640512,0.421053,0.328242,50.0,20
-2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,kevin-magnussen,Kevin Magnussen,haas,13,55,9,0,13,1069.547951,1066.92679,-2.621161,0.368421,0.420844,50.0,20
-2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,14,55,14,0,14,1059.435109,1054.829801,-4.605308,0.315789,0.407896,50.0,20
-2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,15,55,19,0,15,995.020651,991.802956,-3.217695,0.263158,0.327512,50.0,20
-2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,george-russell,George Russell,williams,16,54,17,0,16,990.730414,985.139502,-5.590912,0.210526,0.322345,50.0,20
-2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,robert-kubica,Robert Kubica,williams,17,54,18,0,17,1158.598718,1139.741799,-18.856919,0.157895,0.535033,50.0,20
-2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,lando-norris,Lando Norris,mclaren,18,50,15,0,18,1024.304257,1011.392999,-12.911258,0.105263,0.363488,50.0,20
-2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,daniil-kvyat,Daniil Kvyat,toro-rosso,DNF,41,11,1,19,1036.121081,1019.837558,-16.283523,0.052632,0.378302,50.0,20
-2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,nico-hulkenberg,Nico Hülkenberg,renault,DNF,16,8,1,20,1050.291923,1030.479904,-19.812019,0.0,0.39624,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,1000,lewis-hamilton,Lewis Hamilton,mercedes,1,56,2,0,1,1548.340133,1553.379102,5.038969,1.0,0.899221,50.0,20
+2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,1000,valtteri-bottas,Valtteri Bottas,mercedes,2,56,1,0,2,1398.829347,1406.463331,7.633984,0.947368,0.794689,50.0,20
+2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,1000,sebastian-vettel,Sebastian Vettel,ferrari,3,56,3,0,3,1422.072971,1426.113887,4.040917,0.894737,0.813919,50.0,20
+2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,1000,max-verstappen,Max Verstappen,red-bull,4,56,5,0,4,1334.764857,1340.075518,5.310661,0.842105,0.735892,50.0,20
+2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,1000,charles-leclerc,Charles Leclerc,ferrari,5,56,4,0,5,1090.633859,1107.709156,17.075297,0.789474,0.447968,50.0,20
+2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,1000,pierre-gasly,Pierre Gasly,red-bull,6,56,6,0,6,1037.233158,1055.090093,17.856935,0.736842,0.379703,50.0,20
+2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,1000,daniel-ricciardo,Daniel Ricciardo,renault,7,55,7,0,7,1147.960836,1156.093555,8.132718,0.684211,0.521556,50.0,20
+2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,1000,sergio-perez,Sergio Pérez,racing-point,8,55,12,0,8,1144.026599,1149.778001,5.751403,0.631579,0.516551,50.0,20
+2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,1000,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,9,55,13,0,9,1306.827477,1300.393035,-6.434442,0.578947,0.707636,50.0,20
+2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,1000,alexander-albon,Alexander Albon,toro-rosso,10,55,PL,0,10,1011.465738,1020.402825,8.937087,0.526316,0.347574,50.0,20
+2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,1000,romain-grosjean,Romain Grosjean,haas,11,55,10,0,11,1017.790811,1023.705566,5.914756,0.473684,0.355389,50.0,20
+2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,1000,lance-stroll,Lance Stroll,racing-point,12,55,16,0,12,995.625324,1000.265836,4.640512,0.421053,0.328242,50.0,20
+2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,1000,kevin-magnussen,Kevin Magnussen,haas,13,55,9,0,13,1069.547951,1066.92679,-2.621161,0.368421,0.420844,50.0,20
+2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,1000,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,14,55,14,0,14,1059.435109,1054.829801,-4.605308,0.315789,0.407896,50.0,20
+2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,1000,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,15,55,19,0,15,995.020651,991.802956,-3.217695,0.263158,0.327512,50.0,20
+2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,1000,george-russell,George Russell,williams,16,54,17,0,16,990.730414,985.139502,-5.590912,0.210526,0.322345,50.0,20
+2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,1000,robert-kubica,Robert Kubica,williams,17,54,18,0,17,1158.598718,1139.741799,-18.856919,0.157895,0.535033,50.0,20
+2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,1000,lando-norris,Lando Norris,mclaren,18,50,15,0,18,1024.304257,1011.392999,-12.911258,0.105263,0.363488,50.0,20
+2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,1000,daniil-kvyat,Daniil Kvyat,toro-rosso,DNF,41,11,1,19,1036.121081,1019.837558,-16.283523,0.052632,0.378302,50.0,20
+2019,3,2019-04-14,china,Formula 1 Heineken Chinese Grand Prix 2019,1000,nico-hulkenberg,Nico Hülkenberg,renault,DNF,16,8,1,20,1050.291923,1030.479904,-19.812019,0.0,0.39624,50.0,20

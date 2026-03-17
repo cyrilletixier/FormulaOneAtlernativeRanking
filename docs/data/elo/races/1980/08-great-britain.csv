@@ -1,28 +1,28 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,alan-jones,Alan Jones,williams,1,76,3,0,1,1233.250338,1248.589212,15.338875,1.0,0.693223,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,nelson-piquet,Nelson Piquet,brabham,2,76,5,0,2,1146.282848,1165.338198,19.05535,0.961538,0.580431,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,carlos-reutemann,Carlos Reutemann,williams,3,76,4,0,3,1176.466087,1191.56972,15.103632,0.923077,0.621004,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,derek-daly,Derek Daly,tyrrell,4,75,10,0,4,1065.602524,1086.399654,20.79713,0.884615,0.468673,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,jean-pierre-jarier,Jean-Pierre Jarier,tyrrell,5,75,11,0,5,1105.652145,1121.739597,16.087452,0.846154,0.524405,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,alain-prost,Alain Prost,mclaren,6,75,7,0,6,1007.18826,1028.126015,20.937755,0.807692,0.388937,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,hector-rebaque,Héctor Rebaque,brabham,7,74,17,0,7,956.368031,978.65861,22.290579,0.769231,0.323419,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,john-watson,John Watson,mclaren,8,74,12,0,8,1161.648264,1168.125023,6.476759,0.730769,0.601234,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,riccardo-patrese,Riccardo Patrese,arrows,9,73,21,0,9,1127.369023,1134.25976,6.890737,0.692308,0.554493,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,jody-scheckter,Jody Scheckter,ferrari,10,73,23,0,10,1240.651565,1238.237009,-2.414556,0.653846,0.702137,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,rupert-keegan,Rupert Keegan,williams,11,73,18,0,11,920.196456,936.963172,16.766716,0.615385,0.28005,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,emerson-fittipaldi,Emerson Fittipaldi,fittipaldi,12,72,22,0,12,1130.518076,1131.422606,0.90453,0.576923,0.558832,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,jochen-mass,Jochen Mass,arrows,13,69,24,0,13,1097.113294,1098.410186,1.296892,0.538462,0.512524,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,rene-arnoux,René Arnoux,renault,NC,67,16,1,14,1141.172095,1137.499371,-3.672724,0.5,0.573454,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,didier-pironi,Didier Pironi,ligier,DNF,63,1,1,15,1211.23011,1201.008365,-10.221745,0.461538,0.665973,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,marc-surer,Marc Surer,ats-wheels,DNF,59,15,1,16,991.660838,994.392985,2.732148,0.423077,0.368434,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,mario-andretti,Mario Andretti,lotus,DNF,57,9,1,17,1080.832062,1075.570402,-5.26166,0.384615,0.489849,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,DNF,42,6,1,18,1034.936422,1030.923927,-4.012495,0.346154,0.426404,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,gilles-villeneuve,Gilles Villeneuve,ferrari,DNF,35,19,1,19,1228.701062,1209.701666,-18.999396,0.307692,0.68768,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,jacques-laffite,Jacques Laffite,ligier,DNF,30,2,1,20,1191.31571,1172.753381,-18.562329,0.269231,0.640477,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,patrick-depailler,Patrick Depailler,alfa-romeo,DNF,27,8,1,21,1140.45057,1123.365661,-17.084909,0.230769,0.572467,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,eddie-cheever,Eddie Cheever,osella,DNF,17,20,1,22,921.155314,916.712723,-4.442591,0.192308,0.28116,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,elio-de-angelis,Elio de Angelis,lotus,DNF,16,14,1,23,1057.452824,1042.276222,-15.176602,0.153846,0.457378,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,jean-pierre-jabouille,Jean-Pierre Jabouille,renault,DNF,6,13,1,24,1008.573184,994.80323,-13.769954,0.115385,0.390784,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,desire-wilson,Desiré Wilson,williams,DNQ,,,2,25,1000.0,982.953144,-17.046856,0.038462,0.379399,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,jan-lammers,Jan Lammers,ensign,DNQ,,,2,26,958.519866,944.138303,-14.381563,0.038462,0.326093,50.0,27
-1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,keke-rosberg,Keke Rosberg,fittipaldi,DNQ,,,2,27,1038.359155,1018.72798,-19.631175,0.038462,0.431085,50.0,27
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,alan-jones,Alan Jones,williams,1,76,3,0,1,1233.250338,1248.589212,15.338875,1.0,0.693223,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,nelson-piquet,Nelson Piquet,brabham,2,76,5,0,2,1146.282848,1165.338198,19.05535,0.961538,0.580431,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,carlos-reutemann,Carlos Reutemann,williams,3,76,4,0,3,1176.466087,1191.56972,15.103632,0.923077,0.621004,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,derek-daly,Derek Daly,tyrrell,4,75,10,0,4,1065.602524,1086.399654,20.79713,0.884615,0.468673,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,jean-pierre-jarier,Jean-Pierre Jarier,tyrrell,5,75,11,0,5,1105.652145,1121.739597,16.087452,0.846154,0.524405,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,alain-prost,Alain Prost,mclaren,6,75,7,0,6,1007.18826,1028.126015,20.937755,0.807692,0.388937,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,hector-rebaque,Héctor Rebaque,brabham,7,74,17,0,7,956.368031,978.65861,22.290579,0.769231,0.323419,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,john-watson,John Watson,mclaren,8,74,12,0,8,1161.648264,1168.125023,6.476759,0.730769,0.601234,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,riccardo-patrese,Riccardo Patrese,arrows,9,73,21,0,9,1127.369023,1134.25976,6.890737,0.692308,0.554493,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,jody-scheckter,Jody Scheckter,ferrari,10,73,23,0,10,1240.651565,1238.237009,-2.414556,0.653846,0.702137,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,rupert-keegan,Rupert Keegan,williams,11,73,18,0,11,920.196456,936.963172,16.766716,0.615385,0.28005,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,emerson-fittipaldi,Emerson Fittipaldi,fittipaldi,12,72,22,0,12,1130.518076,1131.422606,0.90453,0.576923,0.558832,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,jochen-mass,Jochen Mass,arrows,13,69,24,0,13,1097.113294,1098.410186,1.296892,0.538462,0.512524,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,rene-arnoux,René Arnoux,renault,NC,67,16,1,14,1141.172095,1137.499371,-3.672724,0.5,0.573454,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,didier-pironi,Didier Pironi,ligier,DNF,63,1,1,15,1211.23011,1201.008365,-10.221745,0.461538,0.665973,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,marc-surer,Marc Surer,ats-wheels,DNF,59,15,1,16,991.660838,994.392985,2.732148,0.423077,0.368434,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,mario-andretti,Mario Andretti,lotus,DNF,57,9,1,17,1080.832062,1075.570402,-5.26166,0.384615,0.489849,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,DNF,42,6,1,18,1034.936422,1030.923927,-4.012495,0.346154,0.426404,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,gilles-villeneuve,Gilles Villeneuve,ferrari,DNF,35,19,1,19,1228.701062,1209.701666,-18.999396,0.307692,0.68768,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,jacques-laffite,Jacques Laffite,ligier,DNF,30,2,1,20,1191.31571,1172.753381,-18.562329,0.269231,0.640477,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,patrick-depailler,Patrick Depailler,alfa-romeo,DNF,27,8,1,21,1140.45057,1123.365661,-17.084909,0.230769,0.572467,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,eddie-cheever,Eddie Cheever,osella,DNF,17,20,1,22,921.155314,916.712723,-4.442591,0.192308,0.28116,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,elio-de-angelis,Elio de Angelis,lotus,DNF,16,14,1,23,1057.452824,1042.276222,-15.176602,0.153846,0.457378,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,jean-pierre-jabouille,Jean-Pierre Jabouille,renault,DNF,6,13,1,24,1008.573184,994.80323,-13.769954,0.115385,0.390784,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,desire-wilson,Desiré Wilson,williams,DNQ,,,2,25,1000.0,982.953144,-17.046856,0.038462,0.379399,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,jan-lammers,Jan Lammers,ensign,DNQ,,,2,26,958.519866,944.138303,-14.381563,0.038462,0.326093,50.0,27
+1980,8,1980-07-13,great-britain,1980 Marlboro British Grand Prix,336,keke-rosberg,Keke Rosberg,fittipaldi,DNQ,,,2,27,1038.359155,1018.72798,-19.631175,0.038462,0.431085,50.0,27

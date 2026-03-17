@@ -1,3 +1,3 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1967-08-27,1967,8,canada,lotus,Lotus,11,81,19,1000.0,1001.255819,1.255819,0.444444,0.419328,50.0
-1967-10-22,1967,11,mexico,lotus,Lotus,DNF,1,19,1001.255819,980.948608,-20.30721,0.0,0.406144,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1967-08-27,1967,8,canada,158,lotus,Lotus,11,81,19,1000.0,1001.255819,1.255819,0.444444,0.419328,50.0
+1967-10-22,1967,11,mexico,161,lotus,Lotus,DNF,1,19,1001.255819,980.948608,-20.30721,0.0,0.406144,50.0

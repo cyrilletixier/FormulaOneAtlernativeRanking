@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,michael-schumacher,Michael Schumacher,ferrari,1,71,3,0,1,1397.982089,1404.48521,6.503121,1.0,0.869938,50.0,22
-2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,rubens-barrichello,Rubens Barrichello,ferrari,2,71,1,0,2,1159.735626,1175.972781,16.237155,0.952381,0.627638,50.0,22
-2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,juan-pablo-montoya,Juan Pablo Montoya,williams,3,71,4,0,3,1149.438316,1163.970746,14.53243,0.904762,0.614113,50.0,22
-2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,ralf-schumacher,Ralf Schumacher,williams,4,71,2,0,4,1185.770963,1195.579934,9.808972,0.857143,0.660963,50.0,22
-2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,giancarlo-fisichella,Giancarlo Fisichella,jordan,5,71,15,0,5,998.780614,1018.94815,20.167536,0.809524,0.406173,50.0,22
-2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,david-coulthard,David Coulthard,mclaren,6,71,8,0,6,1244.821433,1246.365142,1.543709,0.761905,0.731031,50.0,22
-2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,jenson-button,Jenson Button,renault,7,71,13,0,7,1077.410279,1087.34131,9.931032,0.714286,0.515665,50.0,22
-2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,mika-salo,Mika Salo,toyota,8,71,10,0,8,1097.023624,1103.208929,6.185305,0.666667,0.542961,50.0,22
-2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,allan-mcnish,Allan McNish,toyota,9,71,14,0,9,995.850362,1006.694333,10.843971,0.619048,0.402168,50.0,22
-2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,jacques-villeneuve,Jacques Villeneuve,bar,10,70,17,0,10,1137.749451,1136.393219,-1.356231,0.571429,0.598553,50.0,22
-2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,heinz-harald-frentzen,Heinz-Harald Frentzen,arrows,11,69,11,0,11,1031.656526,1035.264532,3.608006,0.52381,0.451649,50.0,22
-2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,mark-webber,Mark Webber,minardi,12,69,21,0,12,1004.643859,1007.742645,3.098785,0.47619,0.414215,50.0,22
-2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,jarno-trulli,Jarno Trulli,renault,DNF,44,16,1,13,1021.565609,1021.114014,-0.451594,0.428571,0.437603,50.0,22
-2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,alex-yoong,Alex Yoong,minardi,DNF,42,22,1,14,955.135637,956.795736,1.660099,0.380952,0.34775,50.0,22
-2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,eddie-irvine,Eddie Irvine,jaguar,DNF,38,20,1,15,1039.661695,1033.186935,-6.47476,0.333333,0.462829,50.0,22
-2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,nick-heidfeld,Nick Heidfeld,sauber,DNF,27,5,1,16,1064.093479,1053.527347,-10.566132,0.285714,0.497037,50.0,22
-2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,takuma-sato,Takuma Sato,jordan,DNF,26,18,1,17,1001.52808,992.936,-8.59208,0.238095,0.409937,50.0,22
-2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,olivier-panis,Olivier Panis,bar,DNF,22,9,1,18,999.059018,988.255122,-10.803896,0.190476,0.406554,50.0,22
-2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,felipe-massa,Felipe Massa,sauber,DNF,7,7,1,19,1035.811783,1020.082195,-15.729588,0.142857,0.457449,50.0,22
-2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,5,6,1,20,1015.035883,998.370287,-16.665596,0.095238,0.42855,50.0,22
-2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,enrique-bernoldi,Enrique Bernoldi,arrows,DNF,2,12,1,21,932.357083,918.809603,-13.54748,0.047619,0.318569,50.0,22
-2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,pedro-de-la-rosa,Pedro de la Rosa,jaguar,DNF,0,19,1,22,993.274046,973.341282,-19.932764,0.0,0.398655,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,686,michael-schumacher,Michael Schumacher,ferrari,1,71,3,0,1,1397.982089,1404.48521,6.503121,1.0,0.869938,50.0,22
+2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,686,rubens-barrichello,Rubens Barrichello,ferrari,2,71,1,0,2,1159.735626,1175.972781,16.237155,0.952381,0.627638,50.0,22
+2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,686,juan-pablo-montoya,Juan Pablo Montoya,williams,3,71,4,0,3,1149.438316,1163.970746,14.53243,0.904762,0.614113,50.0,22
+2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,686,ralf-schumacher,Ralf Schumacher,williams,4,71,2,0,4,1185.770963,1195.579934,9.808972,0.857143,0.660963,50.0,22
+2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,686,giancarlo-fisichella,Giancarlo Fisichella,jordan,5,71,15,0,5,998.780614,1018.94815,20.167536,0.809524,0.406173,50.0,22
+2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,686,david-coulthard,David Coulthard,mclaren,6,71,8,0,6,1244.821433,1246.365142,1.543709,0.761905,0.731031,50.0,22
+2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,686,jenson-button,Jenson Button,renault,7,71,13,0,7,1077.410279,1087.34131,9.931032,0.714286,0.515665,50.0,22
+2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,686,mika-salo,Mika Salo,toyota,8,71,10,0,8,1097.023624,1103.208929,6.185305,0.666667,0.542961,50.0,22
+2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,686,allan-mcnish,Allan McNish,toyota,9,71,14,0,9,995.850362,1006.694333,10.843971,0.619048,0.402168,50.0,22
+2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,686,jacques-villeneuve,Jacques Villeneuve,bar,10,70,17,0,10,1137.749451,1136.393219,-1.356231,0.571429,0.598553,50.0,22
+2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,686,heinz-harald-frentzen,Heinz-Harald Frentzen,arrows,11,69,11,0,11,1031.656526,1035.264532,3.608006,0.52381,0.451649,50.0,22
+2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,686,mark-webber,Mark Webber,minardi,12,69,21,0,12,1004.643859,1007.742645,3.098785,0.47619,0.414215,50.0,22
+2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,686,jarno-trulli,Jarno Trulli,renault,DNF,44,16,1,13,1021.565609,1021.114014,-0.451594,0.428571,0.437603,50.0,22
+2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,686,alex-yoong,Alex Yoong,minardi,DNF,42,22,1,14,955.135637,956.795736,1.660099,0.380952,0.34775,50.0,22
+2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,686,eddie-irvine,Eddie Irvine,jaguar,DNF,38,20,1,15,1039.661695,1033.186935,-6.47476,0.333333,0.462829,50.0,22
+2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,686,nick-heidfeld,Nick Heidfeld,sauber,DNF,27,5,1,16,1064.093479,1053.527347,-10.566132,0.285714,0.497037,50.0,22
+2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,686,takuma-sato,Takuma Sato,jordan,DNF,26,18,1,17,1001.52808,992.936,-8.59208,0.238095,0.409937,50.0,22
+2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,686,olivier-panis,Olivier Panis,bar,DNF,22,9,1,18,999.059018,988.255122,-10.803896,0.190476,0.406554,50.0,22
+2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,686,felipe-massa,Felipe Massa,sauber,DNF,7,7,1,19,1035.811783,1020.082195,-15.729588,0.142857,0.457449,50.0,22
+2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,686,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,5,6,1,20,1015.035883,998.370287,-16.665596,0.095238,0.42855,50.0,22
+2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,686,enrique-bernoldi,Enrique Bernoldi,arrows,DNF,2,12,1,21,932.357083,918.809603,-13.54748,0.047619,0.318569,50.0,22
+2002,6,2002-05-12,austria,Grosser A1 Preis von Österreich 2002,686,pedro-de-la-rosa,Pedro de la Rosa,jaguar,DNF,0,19,1,22,993.274046,973.341282,-19.932764,0.0,0.398655,50.0,22

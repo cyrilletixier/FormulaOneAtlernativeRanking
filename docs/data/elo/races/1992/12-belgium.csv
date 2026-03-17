@@ -1,31 +1,31 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,michael-schumacher,Michael Schumacher,benetton,1,44,3,0,1,1173.084104,1191.982017,18.897913,1.0,0.622042,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,nigel-mansell,Nigel Mansell,williams,2,44,1,0,2,1334.564291,1342.762095,8.197804,0.965517,0.801561,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,riccardo-patrese,Riccardo Patrese,williams,3,44,4,0,3,1305.462596,1313.31946,7.856863,0.931034,0.773897,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,martin-brundle,Martin Brundle,benetton,4,44,9,0,4,1169.35745,1183.322064,13.964614,0.896552,0.617259,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,ayrton-senna,Ayrton Senna,mclaren,5,44,2,0,5,1299.463293,1304.170985,4.707692,0.862069,0.767915,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,mika-hakkinen,Mika Häkkinen,lotus,6,44,8,0,6,1110.375105,1124.78669,14.411585,0.827586,0.539354,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,jj-lehto,JJ Lehto,dallara,7,44,16,0,7,1102.712997,1115.917043,13.204046,0.793103,0.529023,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,andrea-de-cesaris,Andrea de Cesaris,tyrrell,8,43,13,0,8,1109.169837,1120.214311,11.044475,0.758621,0.537731,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,aguri-suzuki,Aguri Suzuki,footwork,9,43,25,0,9,993.769491,1010.818232,17.048741,0.724138,0.383163,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,eric-van-de-poele,Eric van de Poele,fondmetal,10,43,15,0,10,801.506452,827.309081,25.802629,0.689655,0.173603,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,karl-wendlinger,Karl Wendlinger,march,11,43,18,0,11,1023.68971,1035.326272,11.636562,0.655172,0.422441,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,emanuele-naspetti,Emanuele Naspetti,march,12,43,21,0,12,1000.0,1011.471894,11.471894,0.62069,0.391252,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,johnny-herbert,Johnny Herbert,lotus,13,42,10,0,13,1044.164096,1050.982942,6.818846,0.586207,0.44983,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,mauricio-gugelmin,Maurício Gugelmin,jordan,14,42,24,0,14,1071.981016,1075.196568,3.215552,0.551724,0.487413,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,stefano-modena,Stefano Modena,jordan,15,42,17,0,15,1014.917158,1020.238306,5.321148,0.517241,0.410818,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,gianni-morbidelli,Gianni Morbidelli,minardi,16,42,23,0,16,1067.307857,1067.391645,0.083789,0.482759,0.481083,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,ukyo-katayama,Ukyo Katayama,venturi,17,42,26,0,17,1007.711401,1010.058525,2.347124,0.448276,0.401333,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,bertrand-gachot,Bertrand Gachot,venturi,18,40,20,0,18,1002.961259,1003.895197,0.933938,0.413793,0.395114,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,thierry-boutsen,Thierry Boutsen,ligier,DNF,27,7,1,19,1127.530497,1118.378044,-9.152453,0.37931,0.562359,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,gabriele-tarquini,Gabriele Tarquini,fondmetal,DNF,25,11,1,20,931.179005,932.283234,1.104229,0.327586,0.305502,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,ivan-capelli,Ivan Capelli,ferrari,DNF,25,12,1,21,1079.888274,1071.361132,-8.527142,0.327586,0.498129,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,michele-alboreto,Michele Alboreto,footwork,DNF,20,14,1,22,1132.643561,1117.978058,-14.665503,0.275862,0.569172,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,jean-alesi,Jean Alesi,ferrari,DNF,7,5,1,23,1159.617573,1141.453242,-18.164331,0.241379,0.604666,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,olivier-grouillard,Olivier Grouillard,tyrrell,DNF,1,22,1,24,1003.481627,994.036742,-9.444885,0.206897,0.395794,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,gerhard-berger,Gerhard Berger,mclaren,DNF,0,6,1,25,1219.733537,1193.49716,-26.236377,0.155172,0.6799,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,pierluigi-martini,Pierluigi Martini,dallara,DNF,0,19,1,26,1130.070908,1109.542171,-20.528737,0.155172,0.565747,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,christian-fittipaldi,Christian Fittipaldi,minardi,DNQ,,,2,27,1010.885305,993.196317,-17.688989,0.051724,0.405504,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,erik-comas,Érik Comas,ligier,DNQ,,,2,28,1136.44841,1110.323302,-26.125108,0.051724,0.574226,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,perry-mccarthy,Perry McCarthy,andrea-moda,DNQ,,,2,29,931.811276,919.085095,-12.726182,0.051724,0.306248,50.0,30
-1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,roberto-moreno,Roberto Moreno,andrea-moda,DNQ,,,2,30,966.073953,951.264215,-14.809738,0.051724,0.347919,50.0,30
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,michael-schumacher,Michael Schumacher,benetton,1,44,3,0,1,1173.084104,1191.982017,18.897913,1.0,0.622042,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,nigel-mansell,Nigel Mansell,williams,2,44,1,0,2,1334.564291,1342.762095,8.197804,0.965517,0.801561,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,riccardo-patrese,Riccardo Patrese,williams,3,44,4,0,3,1305.462596,1313.31946,7.856863,0.931034,0.773897,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,martin-brundle,Martin Brundle,benetton,4,44,9,0,4,1169.35745,1183.322064,13.964614,0.896552,0.617259,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,ayrton-senna,Ayrton Senna,mclaren,5,44,2,0,5,1299.463293,1304.170985,4.707692,0.862069,0.767915,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,mika-hakkinen,Mika Häkkinen,lotus,6,44,8,0,6,1110.375105,1124.78669,14.411585,0.827586,0.539354,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,jj-lehto,JJ Lehto,dallara,7,44,16,0,7,1102.712997,1115.917043,13.204046,0.793103,0.529023,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,andrea-de-cesaris,Andrea de Cesaris,tyrrell,8,43,13,0,8,1109.169837,1120.214311,11.044475,0.758621,0.537731,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,aguri-suzuki,Aguri Suzuki,footwork,9,43,25,0,9,993.769491,1010.818232,17.048741,0.724138,0.383163,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,eric-van-de-poele,Eric van de Poele,fondmetal,10,43,15,0,10,801.506452,827.309081,25.802629,0.689655,0.173603,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,karl-wendlinger,Karl Wendlinger,march,11,43,18,0,11,1023.68971,1035.326272,11.636562,0.655172,0.422441,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,emanuele-naspetti,Emanuele Naspetti,march,12,43,21,0,12,1000.0,1011.471894,11.471894,0.62069,0.391252,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,johnny-herbert,Johnny Herbert,lotus,13,42,10,0,13,1044.164096,1050.982942,6.818846,0.586207,0.44983,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,mauricio-gugelmin,Maurício Gugelmin,jordan,14,42,24,0,14,1071.981016,1075.196568,3.215552,0.551724,0.487413,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,stefano-modena,Stefano Modena,jordan,15,42,17,0,15,1014.917158,1020.238306,5.321148,0.517241,0.410818,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,gianni-morbidelli,Gianni Morbidelli,minardi,16,42,23,0,16,1067.307857,1067.391645,0.083789,0.482759,0.481083,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,ukyo-katayama,Ukyo Katayama,venturi,17,42,26,0,17,1007.711401,1010.058525,2.347124,0.448276,0.401333,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,bertrand-gachot,Bertrand Gachot,venturi,18,40,20,0,18,1002.961259,1003.895197,0.933938,0.413793,0.395114,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,thierry-boutsen,Thierry Boutsen,ligier,DNF,27,7,1,19,1127.530497,1118.378044,-9.152453,0.37931,0.562359,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,gabriele-tarquini,Gabriele Tarquini,fondmetal,DNF,25,11,1,20,931.179005,932.283234,1.104229,0.327586,0.305502,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,ivan-capelli,Ivan Capelli,ferrari,DNF,25,12,1,21,1079.888274,1071.361132,-8.527142,0.327586,0.498129,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,michele-alboreto,Michele Alboreto,footwork,DNF,20,14,1,22,1132.643561,1117.978058,-14.665503,0.275862,0.569172,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,jean-alesi,Jean Alesi,ferrari,DNF,7,5,1,23,1159.617573,1141.453242,-18.164331,0.241379,0.604666,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,olivier-grouillard,Olivier Grouillard,tyrrell,DNF,1,22,1,24,1003.481627,994.036742,-9.444885,0.206897,0.395794,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,gerhard-berger,Gerhard Berger,mclaren,DNF,0,6,1,25,1219.733537,1193.49716,-26.236377,0.155172,0.6799,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,pierluigi-martini,Pierluigi Martini,dallara,DNF,0,19,1,26,1130.070908,1109.542171,-20.528737,0.155172,0.565747,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,christian-fittipaldi,Christian Fittipaldi,minardi,DNQ,,,2,27,1010.885305,993.196317,-17.688989,0.051724,0.405504,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,erik-comas,Érik Comas,ligier,DNQ,,,2,28,1136.44841,1110.323302,-26.125108,0.051724,0.574226,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,perry-mccarthy,Perry McCarthy,andrea-moda,DNQ,,,2,29,931.811276,919.085095,-12.726182,0.051724,0.306248,50.0,30
+1992,12,1992-08-30,belgium,1992 Belgian Grand Prix,528,roberto-moreno,Roberto Moreno,andrea-moda,DNQ,,,2,30,966.073953,951.264215,-14.809738,0.051724,0.347919,50.0,30

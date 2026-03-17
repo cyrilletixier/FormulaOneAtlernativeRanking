@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,1,56,1,0,1,1467.513436,1473.91323,6.399795,1.0,0.872004,50.0,22
-2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,2,56,3,0,2,1169.438576,1188.053525,18.614949,0.952381,0.580082,50.0,22
-2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,mark-webber,Mark Webber,red-bull,3,56,2,0,3,1269.101918,1279.500489,10.39857,0.904762,0.696791,50.0,22
-2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,4,56,5,0,4,1281.600294,1288.942564,7.34227,0.857143,0.710297,50.0,22
-2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,fernando-alonso,Fernando Alonso,ferrari,5,56,6,0,5,1388.209107,1388.064145,-0.144962,0.809524,0.812423,50.0,22
-2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,nico-hulkenberg,Nico Hülkenberg,sauber,6,56,4,0,6,1124.78379,1136.670268,11.886479,0.761905,0.524175,50.0,22
-2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,sergio-perez,Sergio Pérez,mclaren,7,56,7,0,7,1122.57666,1132.221864,9.645204,0.714286,0.521382,50.0,22
-2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,valtteri-bottas,Valtteri Bottas,williams,8,56,9,0,8,1002.295615,1017.126766,14.831151,0.666667,0.370044,50.0,22
-2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,nico-rosberg,Nico Rosberg,mercedes,9,56,12,0,9,1247.410585,1244.729226,-2.681358,0.619048,0.672675,50.0,22
-2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,jenson-button,Jenson Button,mclaren,10,56,15,0,10,1230.811849,1226.699174,-4.112675,0.571429,0.653682,50.0,22
-2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,daniel-ricciardo,Daniel Ricciardo,toro-rosso,11,56,10,0,11,1046.97201,1051.888559,4.916549,0.52381,0.425479,50.0,22
-2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,felipe-massa,Felipe Massa,ferrari,12,56,13,0,12,1249.165611,1239.242312,-9.923298,0.47619,0.674656,50.0,22
-2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,esteban-gutierrez,Esteban Gutiérrez,sauber,13,56,20,0,13,1021.443826,1023.193215,1.749389,0.428571,0.393584,50.0,22
-2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,heikki-kovalainen,Heikki Kovalainen,lotus-f1,14,56,8,0,14,959.349573,962.451157,3.101584,0.380952,0.318921,50.0,22
-2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,paul-di-resta,Paul di Resta,force-india,15,56,11,0,15,1088.471101,1081.23481,-7.236291,0.333333,0.478059,50.0,22
-2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,16,56,14,0,16,1000.342126,996.244609,-4.097517,0.285714,0.367665,50.0,22
-2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,pastor-maldonado,Pastor Maldonado,williams,17,55,17,0,17,1026.58426,1018.490798,-8.093462,0.238095,0.399964,50.0,22
-2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,jules-bianchi,Jules Bianchi,marussia,18,55,19,0,18,915.212444,911.259147,-3.953297,0.190476,0.269542,50.0,22
-2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,giedo-van-der-garde,Giedo van der Garde,caterham,19,55,18,0,19,911.441682,905.309602,-6.13208,0.142857,0.265499,50.0,22
-2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,charles-pic,Charles Pic,caterham,20,55,22,0,20,893.519515,885.946794,-7.572721,0.095238,0.246693,50.0,22
-2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,max-chilton,Max Chilton,marussia,21,54,21,0,21,911.202807,900.32158,-10.881227,0.047619,0.265244,50.0,22
-2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,adrian-sutil,Adrian Sutil,force-india,DNF,0,16,1,22,1090.8941,1066.837049,-24.057051,0.0,0.481141,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,896,sebastian-vettel,Sebastian Vettel,red-bull,1,56,1,0,1,1467.513436,1473.91323,6.399795,1.0,0.872004,50.0,22
+2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,896,romain-grosjean,Romain Grosjean,lotus-f1,2,56,3,0,2,1169.438576,1188.053525,18.614949,0.952381,0.580082,50.0,22
+2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,896,mark-webber,Mark Webber,red-bull,3,56,2,0,3,1269.101918,1279.500489,10.39857,0.904762,0.696791,50.0,22
+2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,896,lewis-hamilton,Lewis Hamilton,mercedes,4,56,5,0,4,1281.600294,1288.942564,7.34227,0.857143,0.710297,50.0,22
+2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,896,fernando-alonso,Fernando Alonso,ferrari,5,56,6,0,5,1388.209107,1388.064145,-0.144962,0.809524,0.812423,50.0,22
+2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,896,nico-hulkenberg,Nico Hülkenberg,sauber,6,56,4,0,6,1124.78379,1136.670268,11.886479,0.761905,0.524175,50.0,22
+2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,896,sergio-perez,Sergio Pérez,mclaren,7,56,7,0,7,1122.57666,1132.221864,9.645204,0.714286,0.521382,50.0,22
+2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,896,valtteri-bottas,Valtteri Bottas,williams,8,56,9,0,8,1002.295615,1017.126766,14.831151,0.666667,0.370044,50.0,22
+2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,896,nico-rosberg,Nico Rosberg,mercedes,9,56,12,0,9,1247.410585,1244.729226,-2.681358,0.619048,0.672675,50.0,22
+2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,896,jenson-button,Jenson Button,mclaren,10,56,15,0,10,1230.811849,1226.699174,-4.112675,0.571429,0.653682,50.0,22
+2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,896,daniel-ricciardo,Daniel Ricciardo,toro-rosso,11,56,10,0,11,1046.97201,1051.888559,4.916549,0.52381,0.425479,50.0,22
+2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,896,felipe-massa,Felipe Massa,ferrari,12,56,13,0,12,1249.165611,1239.242312,-9.923298,0.47619,0.674656,50.0,22
+2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,896,esteban-gutierrez,Esteban Gutiérrez,sauber,13,56,20,0,13,1021.443826,1023.193215,1.749389,0.428571,0.393584,50.0,22
+2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,896,heikki-kovalainen,Heikki Kovalainen,lotus-f1,14,56,8,0,14,959.349573,962.451157,3.101584,0.380952,0.318921,50.0,22
+2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,896,paul-di-resta,Paul di Resta,force-india,15,56,11,0,15,1088.471101,1081.23481,-7.236291,0.333333,0.478059,50.0,22
+2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,896,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,16,56,14,0,16,1000.342126,996.244609,-4.097517,0.285714,0.367665,50.0,22
+2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,896,pastor-maldonado,Pastor Maldonado,williams,17,55,17,0,17,1026.58426,1018.490798,-8.093462,0.238095,0.399964,50.0,22
+2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,896,jules-bianchi,Jules Bianchi,marussia,18,55,19,0,18,915.212444,911.259147,-3.953297,0.190476,0.269542,50.0,22
+2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,896,giedo-van-der-garde,Giedo van der Garde,caterham,19,55,18,0,19,911.441682,905.309602,-6.13208,0.142857,0.265499,50.0,22
+2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,896,charles-pic,Charles Pic,caterham,20,55,22,0,20,893.519515,885.946794,-7.572721,0.095238,0.246693,50.0,22
+2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,896,max-chilton,Max Chilton,marussia,21,54,21,0,21,911.202807,900.32158,-10.881227,0.047619,0.265244,50.0,22
+2013,18,2013-11-17,united-states,2013 Formula 1 United States Grand Prix,896,adrian-sutil,Adrian Sutil,force-india,DNF,0,16,1,22,1090.8941,1066.837049,-24.057051,0.0,0.481141,50.0,22

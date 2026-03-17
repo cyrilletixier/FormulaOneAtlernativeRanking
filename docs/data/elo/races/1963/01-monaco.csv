@@ -1,18 +1,18 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,graham-hill,Graham Hill,brm,1,100,2,0,1,1148.05708,1166.425578,18.368498,1.0,0.63263,50.0,17
-1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,richie-ginther,Richie Ginther,brm,2,100,4,0,2,1099.773726,1118.452995,18.679269,0.9375,0.563915,50.0,17
-1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,bruce-mclaren,Bruce McLaren,cooper,3,100,8,0,3,1207.635892,1215.822836,8.186944,0.875,0.711261,50.0,17
-1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,john-surtees,John Surtees,ferrari,4,100,3,0,4,1029.297741,1046.90789,17.61015,0.8125,0.460297,50.0,17
-1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,tony-maggs,Tony Maggs,cooper,5,98,10,0,5,1102.021445,1111.162415,9.14097,0.75,0.567181,50.0,17
-1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,trevor-taylor,Trevor Taylor,lotus,6,98,9,0,6,975.608836,990.842629,15.233793,0.6875,0.382824,50.0,17
-1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,jo-bonnier,Jo Bonnier,cooper,7,94,11,0,7,1068.32264,1073.681872,5.359232,0.625,0.517815,50.0,17
-1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,jim-clark,Jim Clark,lotus,8,78,1,0,8,1112.181751,1111.212911,-0.968839,0.5625,0.581877,50.0,17
-1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,jack-brabham,Jack Brabham,lotus,9,77,15,0,9,1083.231969,1081.2447,-1.987269,0.5,0.539745,50.0,17
-1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,innes-ireland,Innes Ireland,lotus,DNF,40,5,1,10,1031.588539,1030.280431,-1.308108,0.4375,0.463662,50.0,17
-1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,willy-mairesse,Willy Mairesse,ferrari,DNF,37,7,1,11,1028.670539,1024.451731,-4.218808,0.375,0.459376,50.0,17
-1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,maurice-trintignant,Maurice Trintignant,lola,DNF,34,14,1,12,1037.462862,1029.472698,-7.990164,0.3125,0.472303,50.0,17
-1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,dan-gurney,Dan Gurney,brabham,DNF,25,6,1,13,1117.211657,1100.256298,-16.955358,0.25,0.589107,50.0,17
-1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,jim-hall,Jim Hall,lotus,DNF,20,13,1,14,984.974801,974.545788,-10.429013,0.1875,0.39608,50.0,17
-1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,jo-siffert,Jo Siffert,lotus,DNF,3,12,1,15,968.258389,955.882306,-12.376083,0.125,0.372522,50.0,17
-1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,bernard-collomb,Bernard Collomb,lotus,DNQ,,,2,16,967.736409,952.271727,-15.464682,0.0625,0.371794,50.0,17
-1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,chris-amon,Chris Amon,lola,DNS,,,2,17,1000.0,979.119467,-20.880533,0.0,0.417611,50.0,17
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,112,graham-hill,Graham Hill,brm,1,100,2,0,1,1148.05708,1166.425578,18.368498,1.0,0.63263,50.0,17
+1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,112,richie-ginther,Richie Ginther,brm,2,100,4,0,2,1099.773726,1118.452995,18.679269,0.9375,0.563915,50.0,17
+1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,112,bruce-mclaren,Bruce McLaren,cooper,3,100,8,0,3,1207.635892,1215.822836,8.186944,0.875,0.711261,50.0,17
+1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,112,john-surtees,John Surtees,ferrari,4,100,3,0,4,1029.297741,1046.90789,17.61015,0.8125,0.460297,50.0,17
+1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,112,tony-maggs,Tony Maggs,cooper,5,98,10,0,5,1102.021445,1111.162415,9.14097,0.75,0.567181,50.0,17
+1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,112,trevor-taylor,Trevor Taylor,lotus,6,98,9,0,6,975.608836,990.842629,15.233793,0.6875,0.382824,50.0,17
+1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,112,jo-bonnier,Jo Bonnier,cooper,7,94,11,0,7,1068.32264,1073.681872,5.359232,0.625,0.517815,50.0,17
+1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,112,jim-clark,Jim Clark,lotus,8,78,1,0,8,1112.181751,1111.212911,-0.968839,0.5625,0.581877,50.0,17
+1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,112,jack-brabham,Jack Brabham,lotus,9,77,15,0,9,1083.231969,1081.2447,-1.987269,0.5,0.539745,50.0,17
+1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,112,innes-ireland,Innes Ireland,lotus,DNF,40,5,1,10,1031.588539,1030.280431,-1.308108,0.4375,0.463662,50.0,17
+1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,112,willy-mairesse,Willy Mairesse,ferrari,DNF,37,7,1,11,1028.670539,1024.451731,-4.218808,0.375,0.459376,50.0,17
+1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,112,maurice-trintignant,Maurice Trintignant,lola,DNF,34,14,1,12,1037.462862,1029.472698,-7.990164,0.3125,0.472303,50.0,17
+1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,112,dan-gurney,Dan Gurney,brabham,DNF,25,6,1,13,1117.211657,1100.256298,-16.955358,0.25,0.589107,50.0,17
+1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,112,jim-hall,Jim Hall,lotus,DNF,20,13,1,14,984.974801,974.545788,-10.429013,0.1875,0.39608,50.0,17
+1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,112,jo-siffert,Jo Siffert,lotus,DNF,3,12,1,15,968.258389,955.882306,-12.376083,0.125,0.372522,50.0,17
+1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,112,bernard-collomb,Bernard Collomb,lotus,DNQ,,,2,16,967.736409,952.271727,-15.464682,0.0625,0.371794,50.0,17
+1963,1,1963-05-26,monaco,Grand Prix de Monaco 1963,112,chris-amon,Chris Amon,lola,DNS,,,2,17,1000.0,979.119467,-20.880533,0.0,0.417611,50.0,17

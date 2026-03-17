@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,kimi-raikkonen,Kimi Räikkönen,mclaren,1,56,7,0,1,1078.258314,1103.244779,24.986466,1.0,0.500271,50.0,20
-2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,rubens-barrichello,Rubens Barrichello,ferrari,2,56,5,0,2,1230.650989,1243.096859,12.44587,0.947368,0.698451,50.0,20
-2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,fernando-alonso,Fernando Alonso,renault,3,56,1,0,3,966.365751,993.684754,27.319002,0.894737,0.348357,50.0,20
-2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,ralf-schumacher,Ralf Schumacher,williams,4,56,17,0,4,1177.401473,1187.83961,10.438137,0.842105,0.633343,50.0,20
-2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,jarno-trulli,Jarno Trulli,renault,5,55,2,0,5,1082.567764,1096.730147,14.162383,0.789474,0.506226,50.0,20
-2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,michael-schumacher,Michael Schumacher,ferrari,6,55,3,0,6,1452.875672,1444.99839,-7.877282,0.736842,0.894388,50.0,20
-2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,jenson-button,Jenson Button,bar,7,55,9,0,7,1076.552279,1085.867218,9.314939,0.684211,0.497912,50.0,20
-2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,nick-heidfeld,Nick Heidfeld,sauber,8,55,6,0,8,1100.952215,1105.953795,5.001581,0.631579,0.531547,50.0,20
-2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,9,55,13,0,9,1013.190843,1021.605669,8.414825,0.578947,0.410651,50.0,20
-2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,ralph-firman,Ralph Firman,jordan,10,55,20,0,10,982.965695,990.777002,7.811306,0.526316,0.37009,50.0,20
-2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,cristiano-da-matta,Cristiano da Matta,toyota,11,55,PL,0,11,985.597274,990.602774,5.0055,0.473684,0.373574,50.0,20
-2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,juan-pablo-montoya,Juan Pablo Montoya,williams,12,53,8,0,12,1186.345685,1175.164249,-11.181435,0.421053,0.644681,50.0,20
-2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,jos-verstappen,Jos Verstappen,minardi,13,52,18,0,13,1017.383374,1014.986568,-2.396806,0.368421,0.416357,50.0,20
-2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,antonio-pizzonia,Antônio Pizzonia,jaguar,DNF,42,15,1,14,998.755169,994.987651,-3.767518,0.315789,0.39114,50.0,20
-2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,justin-wilson,Justin Wilson,minardi,DNF,41,19,1,15,990.860432,984.989686,-5.870746,0.263158,0.380573,50.0,20
-2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,mark-webber,Mark Webber,jaguar,DNF,35,16,1,16,948.223853,942.492425,-5.731428,0.210526,0.325155,50.0,20
-2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,olivier-panis,Olivier Panis,toyota,DNF,12,10,1,17,1012.022129,999.46371,-12.558419,0.157895,0.409063,50.0,20
-2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,david-coulthard,David Coulthard,mclaren,DNF,2,4,1,18,1243.264393,1212.879763,-30.38463,0.105263,0.712956,50.0,20
-2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,0,14,1,19,1053.432082,1032.767632,-20.664451,0.052632,0.465921,50.0,20
-2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,jacques-villeneuve,Jacques Villeneuve,bar,DNS,,12,2,20,1070.360534,1045.893238,-24.467296,0.0,0.489346,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,699,kimi-raikkonen,Kimi Räikkönen,mclaren,1,56,7,0,1,1078.258314,1103.244779,24.986466,1.0,0.500271,50.0,20
+2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,699,rubens-barrichello,Rubens Barrichello,ferrari,2,56,5,0,2,1230.650989,1243.096859,12.44587,0.947368,0.698451,50.0,20
+2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,699,fernando-alonso,Fernando Alonso,renault,3,56,1,0,3,966.365751,993.684754,27.319002,0.894737,0.348357,50.0,20
+2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,699,ralf-schumacher,Ralf Schumacher,williams,4,56,17,0,4,1177.401473,1187.83961,10.438137,0.842105,0.633343,50.0,20
+2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,699,jarno-trulli,Jarno Trulli,renault,5,55,2,0,5,1082.567764,1096.730147,14.162383,0.789474,0.506226,50.0,20
+2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,699,michael-schumacher,Michael Schumacher,ferrari,6,55,3,0,6,1452.875672,1444.99839,-7.877282,0.736842,0.894388,50.0,20
+2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,699,jenson-button,Jenson Button,bar,7,55,9,0,7,1076.552279,1085.867218,9.314939,0.684211,0.497912,50.0,20
+2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,699,nick-heidfeld,Nick Heidfeld,sauber,8,55,6,0,8,1100.952215,1105.953795,5.001581,0.631579,0.531547,50.0,20
+2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,699,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,9,55,13,0,9,1013.190843,1021.605669,8.414825,0.578947,0.410651,50.0,20
+2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,699,ralph-firman,Ralph Firman,jordan,10,55,20,0,10,982.965695,990.777002,7.811306,0.526316,0.37009,50.0,20
+2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,699,cristiano-da-matta,Cristiano da Matta,toyota,11,55,PL,0,11,985.597274,990.602774,5.0055,0.473684,0.373574,50.0,20
+2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,699,juan-pablo-montoya,Juan Pablo Montoya,williams,12,53,8,0,12,1186.345685,1175.164249,-11.181435,0.421053,0.644681,50.0,20
+2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,699,jos-verstappen,Jos Verstappen,minardi,13,52,18,0,13,1017.383374,1014.986568,-2.396806,0.368421,0.416357,50.0,20
+2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,699,antonio-pizzonia,Antônio Pizzonia,jaguar,DNF,42,15,1,14,998.755169,994.987651,-3.767518,0.315789,0.39114,50.0,20
+2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,699,justin-wilson,Justin Wilson,minardi,DNF,41,19,1,15,990.860432,984.989686,-5.870746,0.263158,0.380573,50.0,20
+2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,699,mark-webber,Mark Webber,jaguar,DNF,35,16,1,16,948.223853,942.492425,-5.731428,0.210526,0.325155,50.0,20
+2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,699,olivier-panis,Olivier Panis,toyota,DNF,12,10,1,17,1012.022129,999.46371,-12.558419,0.157895,0.409063,50.0,20
+2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,699,david-coulthard,David Coulthard,mclaren,DNF,2,4,1,18,1243.264393,1212.879763,-30.38463,0.105263,0.712956,50.0,20
+2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,699,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,0,14,1,19,1053.432082,1032.767632,-20.664451,0.052632,0.465921,50.0,20
+2003,2,2003-03-23,malaysia,2003 Petronas Malaysian Grand Prix,699,jacques-villeneuve,Jacques Villeneuve,bar,DNS,,12,2,20,1070.360534,1045.893238,-24.467296,0.0,0.489346,50.0,20

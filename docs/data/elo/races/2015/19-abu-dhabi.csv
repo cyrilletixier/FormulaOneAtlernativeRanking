@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,nico-rosberg,Nico Rosberg,mercedes,1,55,1,0,1,1396.395542,1406.573302,10.17776,1.0,0.796445,50.0,20
-2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,2,55,2,0,2,1469.579007,1474.146782,4.567775,0.947368,0.856013,50.0,20
-2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,3,55,3,0,3,1215.623043,1230.443723,14.82068,0.894737,0.598323,50.0,20
-2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,4,55,15,0,4,1399.79184,1401.922647,2.130807,0.842105,0.799489,50.0,20
-2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,sergio-perez,Sergio Pérez,force-india,5,55,4,0,5,1179.9115,1191.752253,11.840753,0.789474,0.552659,50.0,20
-2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,6,55,5,0,6,1200.051473,1207.964748,7.913274,0.736842,0.578577,50.0,20
-2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,7,55,7,0,7,1108.771921,1120.017871,11.245949,0.684211,0.459292,50.0,20
-2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,felipe-massa,Felipe Massa,williams,8,55,8,0,8,1186.267651,1189.802658,3.535006,0.631579,0.560879,50.0,20
-2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,9,55,18,0,9,1074.512709,1082.737877,8.225168,0.578947,0.414444,50.0,20
-2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,daniil-kvyat,Daniil Kvyat,red-bull,10,55,9,0,10,1161.984467,1161.834732,-0.149735,0.526316,0.52931,50.0,20
-2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,11,55,10,0,11,1027.685978,1033.633394,5.947416,0.473684,0.354736,50.0,20
-2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,jenson-button,Jenson Button,mclaren,12,54,12,0,12,1085.589013,1085.197978,-0.391035,0.421053,0.428873,50.0,20
-2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,valtteri-bottas,Valtteri Bottas,williams,13,54,6,0,13,1248.601037,1235.068071,-13.532966,0.368421,0.63908,50.0,20
-2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,14,54,17,0,14,991.736034,991.97691,0.240876,0.315789,0.310972,50.0,20
-2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,felipe-nasr,Felipe Nasr,sauber,15,54,14,0,15,1046.648386,1040.875671,-5.772714,0.263158,0.378612,50.0,20
-2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,max-verstappen,Max Verstappen,toro-rosso,16,54,11,0,16,1106.983983,1094.663383,-12.3206,0.210526,0.456938,50.0,20
-2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,fernando-alonso,Fernando Alonso,mclaren,17,53,16,0,17,1084.776205,1071.280358,-13.495847,0.157895,0.427812,50.0,20
-2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,will-stevens,Will Stevens,marussia,18,53,19,0,18,916.90739,910.760201,-6.147189,0.105263,0.228207,50.0,20
-2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,roberto-merhi,Roberto Merhi,marussia,19,52,PL,0,19,963.360112,952.085511,-11.2746,0.052632,0.278124,50.0,20
-2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,pastor-maldonado,Pastor Maldonado,lotus-f1,DNF,0,13,1,20,1024.856402,1007.295625,-17.560777,0.0,0.351216,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,935,nico-rosberg,Nico Rosberg,mercedes,1,55,1,0,1,1396.395542,1406.573302,10.17776,1.0,0.796445,50.0,20
+2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,935,lewis-hamilton,Lewis Hamilton,mercedes,2,55,2,0,2,1469.579007,1474.146782,4.567775,0.947368,0.856013,50.0,20
+2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,935,kimi-raikkonen,Kimi Räikkönen,ferrari,3,55,3,0,3,1215.623043,1230.443723,14.82068,0.894737,0.598323,50.0,20
+2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,935,sebastian-vettel,Sebastian Vettel,ferrari,4,55,15,0,4,1399.79184,1401.922647,2.130807,0.842105,0.799489,50.0,20
+2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,935,sergio-perez,Sergio Pérez,force-india,5,55,4,0,5,1179.9115,1191.752253,11.840753,0.789474,0.552659,50.0,20
+2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,935,daniel-ricciardo,Daniel Ricciardo,red-bull,6,55,5,0,6,1200.051473,1207.964748,7.913274,0.736842,0.578577,50.0,20
+2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,935,nico-hulkenberg,Nico Hülkenberg,force-india,7,55,7,0,7,1108.771921,1120.017871,11.245949,0.684211,0.459292,50.0,20
+2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,935,felipe-massa,Felipe Massa,williams,8,55,8,0,8,1186.267651,1189.802658,3.535006,0.631579,0.560879,50.0,20
+2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,935,romain-grosjean,Romain Grosjean,lotus-f1,9,55,18,0,9,1074.512709,1082.737877,8.225168,0.578947,0.414444,50.0,20
+2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,935,daniil-kvyat,Daniil Kvyat,red-bull,10,55,9,0,10,1161.984467,1161.834732,-0.149735,0.526316,0.52931,50.0,20
+2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,935,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,11,55,10,0,11,1027.685978,1033.633394,5.947416,0.473684,0.354736,50.0,20
+2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,935,jenson-button,Jenson Button,mclaren,12,54,12,0,12,1085.589013,1085.197978,-0.391035,0.421053,0.428873,50.0,20
+2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,935,valtteri-bottas,Valtteri Bottas,williams,13,54,6,0,13,1248.601037,1235.068071,-13.532966,0.368421,0.63908,50.0,20
+2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,935,marcus-ericsson,Marcus Ericsson,sauber,14,54,17,0,14,991.736034,991.97691,0.240876,0.315789,0.310972,50.0,20
+2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,935,felipe-nasr,Felipe Nasr,sauber,15,54,14,0,15,1046.648386,1040.875671,-5.772714,0.263158,0.378612,50.0,20
+2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,935,max-verstappen,Max Verstappen,toro-rosso,16,54,11,0,16,1106.983983,1094.663383,-12.3206,0.210526,0.456938,50.0,20
+2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,935,fernando-alonso,Fernando Alonso,mclaren,17,53,16,0,17,1084.776205,1071.280358,-13.495847,0.157895,0.427812,50.0,20
+2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,935,will-stevens,Will Stevens,marussia,18,53,19,0,18,916.90739,910.760201,-6.147189,0.105263,0.228207,50.0,20
+2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,935,roberto-merhi,Roberto Merhi,marussia,19,52,PL,0,19,963.360112,952.085511,-11.2746,0.052632,0.278124,50.0,20
+2015,19,2015-11-29,abu-dhabi,2015 Formula 1 Etihad Airways Abu Dhabi Grand Prix,935,pastor-maldonado,Pastor Maldonado,lotus-f1,DNF,0,13,1,20,1024.856402,1007.295625,-17.560777,0.0,0.351216,50.0,20

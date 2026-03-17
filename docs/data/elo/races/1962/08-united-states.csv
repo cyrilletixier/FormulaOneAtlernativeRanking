@@ -1,22 +1,22 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1962,8,1962-10-07,united-states,1962 United States Grand Prix,jim-clark,Jim Clark,lotus,1,100,1,0,1,1108.050425,1129.23267,21.182244,1.0,0.576355,50.0,21
-1962,8,1962-10-07,united-states,1962 United States Grand Prix,graham-hill,Graham Hill,brm,2,100,3,0,2,1110.671652,1129.165798,18.494146,0.95,0.580117,50.0,21
-1962,8,1962-10-07,united-states,1962 United States Grand Prix,bruce-mclaren,Bruce McLaren,cooper,3,99,6,0,3,1185.482454,1196.349769,10.867315,0.9,0.682654,50.0,21
-1962,8,1962-10-07,united-states,1962 United States Grand Prix,jack-brabham,Jack Brabham,brabham,4,99,5,0,4,1051.58763,1069.3872,17.799571,0.85,0.494009,50.0,21
-1962,8,1962-10-07,united-states,1962 United States Grand Prix,dan-gurney,Dan Gurney,porsche,5,99,4,0,5,1105.872844,1117.211657,11.338812,0.8,0.573224,50.0,21
-1962,8,1962-10-07,united-states,1962 United States Grand Prix,masten-gregory,Masten Gregory,lotus,6,99,7,0,6,989.958451,1007.23437,17.275919,0.75,0.404482,50.0,21
-1962,8,1962-10-07,united-states,1962 United States Grand Prix,tony-maggs,Tony Maggs,cooper,7,97,10,0,7,1077.928573,1086.296398,8.367825,0.7,0.532643,50.0,21
-1962,8,1962-10-07,united-states,1962 United States Grand Prix,innes-ireland,Innes Ireland,lotus,8,96,15,0,8,1005.845376,1016.982753,11.137378,0.65,0.427252,50.0,21
-1962,8,1962-10-07,united-states,1962 United States Grand Prix,roger-penske,Roger Penske,lotus,9,96,12,0,9,1008.741564,1017.169819,8.428255,0.6,0.431435,50.0,21
-1962,8,1962-10-07,united-states,1962 United States Grand Prix,rob-schroeder,Rob Schroeder,lotus,10,93,16,0,10,1000.0,1006.558067,6.558067,0.55,0.418839,50.0,21
-1962,8,1962-10-07,united-states,1962 United States Grand Prix,hap-sharp,Hap Sharp,cooper,11,91,14,0,11,1003.186009,1007.015018,3.829009,0.5,0.42342,50.0,21
-1962,8,1962-10-07,united-states,1962 United States Grand Prix,trevor-taylor,Trevor Taylor,lotus,12,85,8,0,12,995.129751,997.036792,1.907042,0.45,0.411859,50.0,21
-1962,8,1962-10-07,united-states,1962 United States Grand Prix,jo-bonnier,Jo Bonnier,porsche,13,79,9,0,13,1074.720088,1068.32264,-6.397448,0.4,0.527949,50.0,21
-1962,8,1962-10-07,united-states,1962 United States Grand Prix,richie-ginther,Richie Ginther,brm,DNF,35,2,1,14,1108.721767,1097.355797,-11.36597,0.35,0.577319,50.0,21
-1962,8,1962-10-07,united-states,1962 United States Grand Prix,maurice-trintignant,Maurice Trintignant,lotus,DNF,32,17,1,15,1046.812745,1037.462862,-9.349883,0.3,0.486998,50.0,21
-1962,8,1962-10-07,united-states,1962 United States Grand Prix,timmy-mayer,Timmy Mayer,cooper,DNF,31,11,1,16,1000.0,991.558067,-8.441933,0.25,0.418839,50.0,21
-1962,8,1962-10-07,united-states,1962 United States Grand Prix,john-surtees,John Surtees,lola,DNF,19,18,1,17,1067.506511,1051.637594,-15.868916,0.2,0.517378,50.0,21
-1962,8,1962-10-07,united-states,1962 United States Grand Prix,carel-godin-de-beaufort,Carel Godin de Beaufort,porsche,DNF,9,13,1,18,1042.324111,1025.803589,-16.520522,0.15,0.48041,50.0,21
-1962,8,1962-10-07,united-states,1962 United States Grand Prix,jim-hall,Jim Hall,lotus,DNS,,,2,19,1003.681465,984.974801,-18.706664,0.05,0.424133,50.0,21
-1962,8,1962-10-07,united-states,1962 United States Grand Prix,phil-hill,Phil Hill,porsche,DNS,,,2,20,1191.877869,1159.834622,-32.043246,0.05,0.690865,50.0,21
-1962,8,1962-10-07,united-states,1962 United States Grand Prix,roy-salvadori,Roy Salvadori,lola,DNS,,,2,21,1000.683187,982.192186,-18.491001,0.05,0.41982,50.0,21
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1962,8,1962-10-07,united-states,1962 United States Grand Prix,110,jim-clark,Jim Clark,lotus,1,100,1,0,1,1108.050425,1129.23267,21.182244,1.0,0.576355,50.0,21
+1962,8,1962-10-07,united-states,1962 United States Grand Prix,110,graham-hill,Graham Hill,brm,2,100,3,0,2,1110.671652,1129.165798,18.494146,0.95,0.580117,50.0,21
+1962,8,1962-10-07,united-states,1962 United States Grand Prix,110,bruce-mclaren,Bruce McLaren,cooper,3,99,6,0,3,1185.482454,1196.349769,10.867315,0.9,0.682654,50.0,21
+1962,8,1962-10-07,united-states,1962 United States Grand Prix,110,jack-brabham,Jack Brabham,brabham,4,99,5,0,4,1051.58763,1069.3872,17.799571,0.85,0.494009,50.0,21
+1962,8,1962-10-07,united-states,1962 United States Grand Prix,110,dan-gurney,Dan Gurney,porsche,5,99,4,0,5,1105.872844,1117.211657,11.338812,0.8,0.573224,50.0,21
+1962,8,1962-10-07,united-states,1962 United States Grand Prix,110,masten-gregory,Masten Gregory,lotus,6,99,7,0,6,989.958451,1007.23437,17.275919,0.75,0.404482,50.0,21
+1962,8,1962-10-07,united-states,1962 United States Grand Prix,110,tony-maggs,Tony Maggs,cooper,7,97,10,0,7,1077.928573,1086.296398,8.367825,0.7,0.532643,50.0,21
+1962,8,1962-10-07,united-states,1962 United States Grand Prix,110,innes-ireland,Innes Ireland,lotus,8,96,15,0,8,1005.845376,1016.982753,11.137378,0.65,0.427252,50.0,21
+1962,8,1962-10-07,united-states,1962 United States Grand Prix,110,roger-penske,Roger Penske,lotus,9,96,12,0,9,1008.741564,1017.169819,8.428255,0.6,0.431435,50.0,21
+1962,8,1962-10-07,united-states,1962 United States Grand Prix,110,rob-schroeder,Rob Schroeder,lotus,10,93,16,0,10,1000.0,1006.558067,6.558067,0.55,0.418839,50.0,21
+1962,8,1962-10-07,united-states,1962 United States Grand Prix,110,hap-sharp,Hap Sharp,cooper,11,91,14,0,11,1003.186009,1007.015018,3.829009,0.5,0.42342,50.0,21
+1962,8,1962-10-07,united-states,1962 United States Grand Prix,110,trevor-taylor,Trevor Taylor,lotus,12,85,8,0,12,995.129751,997.036792,1.907042,0.45,0.411859,50.0,21
+1962,8,1962-10-07,united-states,1962 United States Grand Prix,110,jo-bonnier,Jo Bonnier,porsche,13,79,9,0,13,1074.720088,1068.32264,-6.397448,0.4,0.527949,50.0,21
+1962,8,1962-10-07,united-states,1962 United States Grand Prix,110,richie-ginther,Richie Ginther,brm,DNF,35,2,1,14,1108.721767,1097.355797,-11.36597,0.35,0.577319,50.0,21
+1962,8,1962-10-07,united-states,1962 United States Grand Prix,110,maurice-trintignant,Maurice Trintignant,lotus,DNF,32,17,1,15,1046.812745,1037.462862,-9.349883,0.3,0.486998,50.0,21
+1962,8,1962-10-07,united-states,1962 United States Grand Prix,110,timmy-mayer,Timmy Mayer,cooper,DNF,31,11,1,16,1000.0,991.558067,-8.441933,0.25,0.418839,50.0,21
+1962,8,1962-10-07,united-states,1962 United States Grand Prix,110,john-surtees,John Surtees,lola,DNF,19,18,1,17,1067.506511,1051.637594,-15.868916,0.2,0.517378,50.0,21
+1962,8,1962-10-07,united-states,1962 United States Grand Prix,110,carel-godin-de-beaufort,Carel Godin de Beaufort,porsche,DNF,9,13,1,18,1042.324111,1025.803589,-16.520522,0.15,0.48041,50.0,21
+1962,8,1962-10-07,united-states,1962 United States Grand Prix,110,jim-hall,Jim Hall,lotus,DNS,,,2,19,1003.681465,984.974801,-18.706664,0.05,0.424133,50.0,21
+1962,8,1962-10-07,united-states,1962 United States Grand Prix,110,phil-hill,Phil Hill,porsche,DNS,,,2,20,1191.877869,1159.834622,-32.043246,0.05,0.690865,50.0,21
+1962,8,1962-10-07,united-states,1962 United States Grand Prix,110,roy-salvadori,Roy Salvadori,lola,DNS,,,2,21,1000.683187,982.192186,-18.491001,0.05,0.41982,50.0,21

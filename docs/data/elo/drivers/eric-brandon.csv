@@ -1,6 +1,6 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1952-05-18,1952,1,switzerland,cooper,Cooper,8,55,22,1000.0,1008.414992,8.414992,0.666667,0.498367,50.0
-1952-06-22,1952,3,belgium,cooper,Cooper,9,33,22,1008.414992,1014.644006,6.229014,0.619048,0.494467,50.0
-1952-07-19,1952,5,great-britain,cooper,Cooper,20,76,32,1014.644006,1008.155616,-6.48839,0.387097,0.516865,50.0
-1952-09-07,1952,8,italy,cooper,Cooper,13,73,35,1008.155616,1015.655487,7.499871,0.647059,0.497061,50.0
-1954-07-17,1954,5,great-britain,cooper,Cooper,DNF,2,33,1015.655487,996.822729,-18.832758,0.109375,0.48603,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1952-05-18,1952,1,switzerland,16,cooper,Cooper,8,55,22,1000.0,1008.414992,8.414992,0.666667,0.498367,50.0
+1952-06-22,1952,3,belgium,18,cooper,Cooper,9,33,22,1008.414992,1014.644006,6.229014,0.619048,0.494467,50.0
+1952-07-19,1952,5,great-britain,20,cooper,Cooper,20,76,32,1014.644006,1008.155616,-6.48839,0.387097,0.516865,50.0
+1952-09-07,1952,8,italy,23,cooper,Cooper,13,73,35,1008.155616,1015.655487,7.499871,0.647059,0.497061,50.0
+1954-07-17,1954,5,great-britain,37,cooper,Cooper,DNF,2,33,1015.655487,996.822729,-18.832758,0.109375,0.48603,50.0

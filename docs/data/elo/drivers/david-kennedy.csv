@@ -1,8 +1,8 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1980-01-13,1980,1,argentina,shadow,Shadow,DNQ,,28,1000.0,983.700744,-16.299256,0.055556,0.381541,50.0
-1980-01-27,1980,2,brazil,shadow,Shadow,DNQ,,28,983.700744,968.504849,-15.195894,0.055556,0.359473,50.0
-1980-03-01,1980,3,south-africa,shadow,Shadow,DNQ,,28,968.504849,956.296489,-12.20836,0.092593,0.33676,50.0
-1980-03-30,1980,4,united-states-west,shadow,Shadow,DNQ,,27,956.296489,942.378576,-13.917913,0.038462,0.31682,50.0
-1980-05-04,1980,5,belgium,shadow,Shadow,DNQ,,27,942.378576,929.073092,-13.305485,0.038462,0.304571,50.0
-1980-05-18,1980,6,monaco,shadow,Shadow,DNQ,,27,929.073092,920.367409,-8.705682,0.115385,0.289498,50.0
-1980-06-29,1980,7,france,shadow,Shadow,DNQ,,27,920.367409,908.330485,-12.036925,0.038462,0.2792,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1980-01-13,1980,1,argentina,329,shadow,Shadow,DNQ,,28,1000.0,983.700744,-16.299256,0.055556,0.381541,50.0
+1980-01-27,1980,2,brazil,330,shadow,Shadow,DNQ,,28,983.700744,968.504849,-15.195894,0.055556,0.359473,50.0
+1980-03-01,1980,3,south-africa,331,shadow,Shadow,DNQ,,28,968.504849,956.296489,-12.20836,0.092593,0.33676,50.0
+1980-03-30,1980,4,united-states-west,332,shadow,Shadow,DNQ,,27,956.296489,942.378576,-13.917913,0.038462,0.31682,50.0
+1980-05-04,1980,5,belgium,333,shadow,Shadow,DNQ,,27,942.378576,929.073092,-13.305485,0.038462,0.304571,50.0
+1980-05-18,1980,6,monaco,334,shadow,Shadow,DNQ,,27,929.073092,920.367409,-8.705682,0.115385,0.289498,50.0
+1980-06-29,1980,7,france,335,shadow,Shadow,DNQ,,27,920.367409,908.330485,-12.036925,0.038462,0.2792,50.0

@@ -1,20 +1,20 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,jim-clark,Jim Clark,lotus,1,80,1,0,1,1132.399743,1152.332498,19.932755,1.0,0.601345,50.0,19
-1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,dan-gurney,Dan Gurney,brabham,2,79,14,0,2,1116.963434,1135.206584,18.24315,0.944444,0.579581,50.0,19
-1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,john-surtees,John Surtees,ferrari,3,79,5,0,3,1051.692752,1071.86711,20.174358,0.888889,0.485402,50.0,19
-1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,innes-ireland,Innes Ireland,brp,4,79,7,0,4,1015.219222,1035.248598,20.029376,0.833333,0.432746,50.0,19
-1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,richie-ginther,Richie Ginther,brm,5,79,6,0,5,1131.231,1140.134477,8.903476,0.777778,0.599708,50.0,19
-1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,ludovico-scarfiotti,Ludovico Scarfiotti,ferrari,6,78,11,0,6,1000.0,1015.556798,15.556798,0.722222,0.411086,50.0,19
-1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,jo-siffert,Jo Siffert,lotus,7,77,17,0,7,957.899468,973.589829,15.69036,0.666667,0.352859,50.0,19
-1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,jim-hall,Jim Hall,lotus,8,77,18,0,8,975.286631,987.014499,11.727868,0.611111,0.376554,50.0,19
-1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,carel-godin-de-beaufort,Carel Godin de Beaufort,porsche,9,75,19,0,9,1035.56261,1040.23916,4.67655,0.555556,0.462025,50.0,19
-1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,trevor-taylor,Trevor Taylor,lotus,10,66,10,0,10,970.708243,977.195171,6.486928,0.5,0.370261,50.0,19
-1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,jo-bonnier,Jo Bonnier,cooper,11,56,8,0,11,1087.045978,1082.433945,-4.612033,0.444444,0.536685,50.0,19
-1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,graham-hill,Graham Hill,brm,DNF,69,2,1,12,1158.792001,1146.350155,-12.441846,0.388889,0.637726,50.0,19
-1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,jack-brabham,Jack Brabham,brabham,DNF,68,4,1,13,1067.744437,1058.975439,-8.768998,0.333333,0.508713,50.0,19
-1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,chris-amon,Chris Amon,lola,DNF,29,12,1,14,970.332363,965.733928,-4.598435,0.277778,0.369746,50.0,19
-1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,giancarlo-baghetti,Giancarlo Baghetti,ats,DNF,17,15,1,15,1022.543467,1011.492017,-11.051449,0.222222,0.443251,50.0,19
-1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,phil-hill,Phil Hill,ats,DNF,15,13,1,16,1143.432544,1120.93119,-22.501355,0.166667,0.616694,50.0,19
-1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,tony-maggs,Tony Maggs,cooper,DNF,14,9,1,17,1116.563369,1093.168252,-23.395117,0.111111,0.579013,50.0,19
-1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,bruce-mclaren,Bruce McLaren,cooper,DNF,7,3,1,18,1227.402422,1193.904346,-33.498076,0.055556,0.725517,50.0,19
-1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,gerhard-mitter,Gerhard Mitter,porsche,DNF,2,16,1,19,1000.0,979.445687,-20.554313,0.0,0.411086,50.0,19
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,114,jim-clark,Jim Clark,lotus,1,80,1,0,1,1132.399743,1152.332498,19.932755,1.0,0.601345,50.0,19
+1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,114,dan-gurney,Dan Gurney,brabham,2,79,14,0,2,1116.963434,1135.206584,18.24315,0.944444,0.579581,50.0,19
+1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,114,john-surtees,John Surtees,ferrari,3,79,5,0,3,1051.692752,1071.86711,20.174358,0.888889,0.485402,50.0,19
+1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,114,innes-ireland,Innes Ireland,brp,4,79,7,0,4,1015.219222,1035.248598,20.029376,0.833333,0.432746,50.0,19
+1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,114,richie-ginther,Richie Ginther,brm,5,79,6,0,5,1131.231,1140.134477,8.903476,0.777778,0.599708,50.0,19
+1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,114,ludovico-scarfiotti,Ludovico Scarfiotti,ferrari,6,78,11,0,6,1000.0,1015.556798,15.556798,0.722222,0.411086,50.0,19
+1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,114,jo-siffert,Jo Siffert,lotus,7,77,17,0,7,957.899468,973.589829,15.69036,0.666667,0.352859,50.0,19
+1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,114,jim-hall,Jim Hall,lotus,8,77,18,0,8,975.286631,987.014499,11.727868,0.611111,0.376554,50.0,19
+1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,114,carel-godin-de-beaufort,Carel Godin de Beaufort,porsche,9,75,19,0,9,1035.56261,1040.23916,4.67655,0.555556,0.462025,50.0,19
+1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,114,trevor-taylor,Trevor Taylor,lotus,10,66,10,0,10,970.708243,977.195171,6.486928,0.5,0.370261,50.0,19
+1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,114,jo-bonnier,Jo Bonnier,cooper,11,56,8,0,11,1087.045978,1082.433945,-4.612033,0.444444,0.536685,50.0,19
+1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,114,graham-hill,Graham Hill,brm,DNF,69,2,1,12,1158.792001,1146.350155,-12.441846,0.388889,0.637726,50.0,19
+1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,114,jack-brabham,Jack Brabham,brabham,DNF,68,4,1,13,1067.744437,1058.975439,-8.768998,0.333333,0.508713,50.0,19
+1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,114,chris-amon,Chris Amon,lola,DNF,29,12,1,14,970.332363,965.733928,-4.598435,0.277778,0.369746,50.0,19
+1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,114,giancarlo-baghetti,Giancarlo Baghetti,ats,DNF,17,15,1,15,1022.543467,1011.492017,-11.051449,0.222222,0.443251,50.0,19
+1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,114,phil-hill,Phil Hill,ats,DNF,15,13,1,16,1143.432544,1120.93119,-22.501355,0.166667,0.616694,50.0,19
+1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,114,tony-maggs,Tony Maggs,cooper,DNF,14,9,1,17,1116.563369,1093.168252,-23.395117,0.111111,0.579013,50.0,19
+1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,114,bruce-mclaren,Bruce McLaren,cooper,DNF,7,3,1,18,1227.402422,1193.904346,-33.498076,0.055556,0.725517,50.0,19
+1963,3,1963-06-23,netherlands,Grote Prijs van Nederland 1963,114,gerhard-mitter,Gerhard Mitter,porsche,DNF,2,16,1,19,1000.0,979.445687,-20.554313,0.0,0.411086,50.0,19

@@ -1,17 +1,17 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,jackie-stewart,Jackie Stewart,matra,1,68,3,0,1,1238.053161,1251.491342,13.438181,1.0,0.731236,50.0,16
-1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,jochen-rindt,Jochen Rindt,lotus,2,68,1,0,2,1001.671249,1028.157615,26.486366,0.933333,0.403606,50.0,16
-1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,3,68,6,0,3,1087.429574,1104.382787,16.953213,0.866667,0.527602,50.0,16
-1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,bruce-mclaren,Bruce McLaren,mclaren,4,68,5,0,4,1146.415264,1155.81972,9.404456,0.8,0.611911,50.0,16
-1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,piers-courage,Piers Courage,brabham,5,68,4,0,5,1020.622535,1035.758562,15.136027,0.733333,0.430613,50.0,16
-1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,pedro-rodriguez,Pedro Rodríguez,ferrari,6,66,12,0,6,1083.873979,1091.085656,7.211677,0.666667,0.522433,50.0,16
-1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,denny-hulme,Denny Hulme,mclaren,7,66,2,0,7,1156.834397,1155.516817,-1.31758,0.6,0.626352,50.0,16
-1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,jo-siffert,Jo Siffert,lotus,8,64,8,0,8,1113.627202,1112.020496,-1.606707,0.533333,0.565467,50.0,16
-1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,graham-hill,Graham Hill,lotus,9,63,9,0,9,1165.48478,1156.908128,-8.576653,0.466667,0.6382,50.0,16
-1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,jacky-ickx,Jacky Ickx,brabham,10,61,15,0,10,1124.69288,1115.628479,-9.064401,0.4,0.581288,50.0,16
-1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,john-surtees,John Surtees,brm,NC,60,10,1,11,1025.140691,1019.95203,-5.188661,0.333333,0.437107,50.0,16
-1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,jackie-oliver,Jackie Oliver,brm,DNF,48,11,1,12,964.081065,959.837186,-4.243879,0.266667,0.351544,50.0,16
-1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,silvio-moser,Silvio Moser,brabham,DNF,9,13,1,13,952.834556,946.011322,-6.823234,0.2,0.336465,50.0,16
-1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,jack-brabham,Jack Brabham,brabham,DNF,6,7,1,14,1052.56455,1035.389718,-17.174832,0.133333,0.47683,50.0,16
-1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,john-miles,John Miles,lotus,DNF,3,14,1,15,983.482782,967.909813,-15.572969,0.066667,0.378126,50.0,16
-1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,ernesto-brambilla,Ernesto Brambilla,ferrari,DNS,,,2,16,985.710633,966.649629,-19.061004,0.0,0.38122,50.0,16
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,181,jackie-stewart,Jackie Stewart,matra,1,68,3,0,1,1238.053161,1251.491342,13.438181,1.0,0.731236,50.0,16
+1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,181,jochen-rindt,Jochen Rindt,lotus,2,68,1,0,2,1001.671249,1028.157615,26.486366,0.933333,0.403606,50.0,16
+1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,181,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,3,68,6,0,3,1087.429574,1104.382787,16.953213,0.866667,0.527602,50.0,16
+1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,181,bruce-mclaren,Bruce McLaren,mclaren,4,68,5,0,4,1146.415264,1155.81972,9.404456,0.8,0.611911,50.0,16
+1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,181,piers-courage,Piers Courage,brabham,5,68,4,0,5,1020.622535,1035.758562,15.136027,0.733333,0.430613,50.0,16
+1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,181,pedro-rodriguez,Pedro Rodríguez,ferrari,6,66,12,0,6,1083.873979,1091.085656,7.211677,0.666667,0.522433,50.0,16
+1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,181,denny-hulme,Denny Hulme,mclaren,7,66,2,0,7,1156.834397,1155.516817,-1.31758,0.6,0.626352,50.0,16
+1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,181,jo-siffert,Jo Siffert,lotus,8,64,8,0,8,1113.627202,1112.020496,-1.606707,0.533333,0.565467,50.0,16
+1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,181,graham-hill,Graham Hill,lotus,9,63,9,0,9,1165.48478,1156.908128,-8.576653,0.466667,0.6382,50.0,16
+1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,181,jacky-ickx,Jacky Ickx,brabham,10,61,15,0,10,1124.69288,1115.628479,-9.064401,0.4,0.581288,50.0,16
+1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,181,john-surtees,John Surtees,brm,NC,60,10,1,11,1025.140691,1019.95203,-5.188661,0.333333,0.437107,50.0,16
+1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,181,jackie-oliver,Jackie Oliver,brm,DNF,48,11,1,12,964.081065,959.837186,-4.243879,0.266667,0.351544,50.0,16
+1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,181,silvio-moser,Silvio Moser,brabham,DNF,9,13,1,13,952.834556,946.011322,-6.823234,0.2,0.336465,50.0,16
+1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,181,jack-brabham,Jack Brabham,brabham,DNF,6,7,1,14,1052.56455,1035.389718,-17.174832,0.133333,0.47683,50.0,16
+1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,181,john-miles,John Miles,lotus,DNF,3,14,1,15,983.482782,967.909813,-15.572969,0.066667,0.378126,50.0,16
+1969,8,1969-09-07,italy,Gran Premio d'Italia 1969,181,ernesto-brambilla,Ernesto Brambilla,ferrari,DNS,,,2,16,985.710633,966.649629,-19.061004,0.0,0.38122,50.0,16

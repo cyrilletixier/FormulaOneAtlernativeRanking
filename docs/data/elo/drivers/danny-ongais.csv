@@ -1,7 +1,7 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1977-10-02,1977,15,united-states,penske,Penske,DNF,6,27,1000.0,984.459985,-15.540015,0.076923,0.387723,50.0
-1977-10-09,1977,16,canada,penske,Penske,7,78,27,984.459985,1003.864526,19.40454,0.769231,0.38114,50.0
-1978-01-15,1978,1,argentina,ensign,Ensign,DNF,35,27,1003.864526,995.351704,-8.512822,0.230769,0.401026,50.0
-1978-01-29,1978,2,brazil,ensign,Ensign,DNF,13,28,995.351704,992.487379,-2.864325,0.333333,0.39062,50.0
-1978-04-02,1978,4,united-states-west,shadow,Shadow,DNPQ,,30,992.487379,982.610824,-9.876555,0.189655,0.387186,50.0
-1978-08-27,1978,13,netherlands,shadow,Shadow,DNPQ,,33,982.610824,973.109929,-9.500895,0.1875,0.377518,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1977-10-02,1977,15,united-states,295,penske,Penske,DNF,6,27,1000.0,984.459985,-15.540015,0.076923,0.387723,50.0
+1977-10-09,1977,16,canada,296,penske,Penske,7,78,27,984.459985,1003.864526,19.40454,0.769231,0.38114,50.0
+1978-01-15,1978,1,argentina,298,ensign,Ensign,DNF,35,27,1003.864526,995.351704,-8.512822,0.230769,0.401026,50.0
+1978-01-29,1978,2,brazil,299,ensign,Ensign,DNF,13,28,995.351704,992.487379,-2.864325,0.333333,0.39062,50.0
+1978-04-02,1978,4,united-states-west,301,shadow,Shadow,DNPQ,,30,992.487379,982.610824,-9.876555,0.189655,0.387186,50.0
+1978-08-27,1978,13,netherlands,310,shadow,Shadow,DNPQ,,33,982.610824,973.109929,-9.500895,0.1875,0.377518,50.0

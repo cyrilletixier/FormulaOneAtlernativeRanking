@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,jarno-trulli,Jarno Trulli,renault,1,77,1,0,1,1157.031954,1177.363567,20.331613,1.0,0.593368,50.0,20
-2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,jenson-button,Jenson Button,bar,2,77,2,0,2,1140.893199,1159.668863,18.775664,0.947368,0.571855,50.0,20
-2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,rubens-barrichello,Rubens Barrichello,ferrari,3,77,6,0,3,1253.986611,1263.04868,9.062069,0.894737,0.713495,50.0,20
-2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,juan-pablo-montoya,Juan Pablo Montoya,williams,4,76,9,0,4,1216.619743,1225.25567,8.635927,0.842105,0.669387,50.0,20
-2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,felipe-massa,Felipe Massa,sauber,5,76,16,0,5,1039.92121,1057.707151,17.785941,0.789474,0.433755,50.0,20
-2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,cristiano-da-matta,Cristiano da Matta,toyota,6,76,15,0,6,1039.799157,1054.96184,15.162682,0.736842,0.433588,50.0,20
-2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,nick-heidfeld,Nick Heidfeld,jordan,7,75,17,0,7,1011.170412,1025.635641,14.465228,0.684211,0.394906,50.0,20
-2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,olivier-panis,Olivier Panis,toyota,8,74,PL,0,8,996.727835,1009.520195,12.79236,0.631579,0.375732,50.0,20
-2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,zsolt-baumgartner,Zsolt Baumgartner,minardi,9,71,19,0,9,938.729339,952.569769,13.840431,0.578947,0.302139,50.0,20
-2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,ralf-schumacher,Ralf Schumacher,williams,10,69,12,0,10,1183.608611,1178.523403,-5.085209,0.526316,0.62802,50.0,20
-2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,michael-schumacher,Michael Schumacher,ferrari,DNF,45,4,1,11,1444.909177,1424.397155,-20.512022,0.473684,0.883925,50.0,20
-2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,fernando-alonso,Fernando Alonso,renault,DNF,41,3,1,12,1142.524609,1134.875065,-7.649544,0.421053,0.574044,50.0,20
-2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,27,5,1,13,1113.565009,1105.244631,-8.320378,0.368421,0.534829,50.0,20
-2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,gianmaria-bruni,Gianmaria Bruni,minardi,DNF,15,20,1,14,947.873317,947.997173,0.123856,0.315789,0.313312,50.0,20
-2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,giorgio-pantano,Giorgio Pantano,jordan,DNF,12,18,1,15,969.041999,965.208118,-3.833881,0.263158,0.339836,50.0,20
-2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,mark-webber,Mark Webber,jaguar,DNF,11,11,1,16,1009.694948,1000.574512,-9.120436,0.210526,0.392935,50.0,20
-2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,david-coulthard,David Coulthard,mclaren,DNF,2,8,1,17,1152.839153,1128.71185,-24.127303,0.105263,0.587809,50.0,20
-2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,giancarlo-fisichella,Giancarlo Fisichella,sauber,DNF,2,10,1,18,1029.700051,1013.97032,-15.729731,0.105263,0.419858,50.0,20
-2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,takuma-sato,Takuma Sato,bar,DNF,2,7,1,19,1061.307776,1043.418878,-17.888899,0.105263,0.463041,50.0,20
-2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,christian-klien,Christian Klien,jaguar,DNF,0,14,1,20,995.540139,976.831772,-18.708368,0.0,0.374167,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,719,jarno-trulli,Jarno Trulli,renault,1,77,1,0,1,1157.031954,1177.363567,20.331613,1.0,0.593368,50.0,20
+2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,719,jenson-button,Jenson Button,bar,2,77,2,0,2,1140.893199,1159.668863,18.775664,0.947368,0.571855,50.0,20
+2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,719,rubens-barrichello,Rubens Barrichello,ferrari,3,77,6,0,3,1253.986611,1263.04868,9.062069,0.894737,0.713495,50.0,20
+2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,719,juan-pablo-montoya,Juan Pablo Montoya,williams,4,76,9,0,4,1216.619743,1225.25567,8.635927,0.842105,0.669387,50.0,20
+2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,719,felipe-massa,Felipe Massa,sauber,5,76,16,0,5,1039.92121,1057.707151,17.785941,0.789474,0.433755,50.0,20
+2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,719,cristiano-da-matta,Cristiano da Matta,toyota,6,76,15,0,6,1039.799157,1054.96184,15.162682,0.736842,0.433588,50.0,20
+2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,719,nick-heidfeld,Nick Heidfeld,jordan,7,75,17,0,7,1011.170412,1025.635641,14.465228,0.684211,0.394906,50.0,20
+2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,719,olivier-panis,Olivier Panis,toyota,8,74,PL,0,8,996.727835,1009.520195,12.79236,0.631579,0.375732,50.0,20
+2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,719,zsolt-baumgartner,Zsolt Baumgartner,minardi,9,71,19,0,9,938.729339,952.569769,13.840431,0.578947,0.302139,50.0,20
+2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,719,ralf-schumacher,Ralf Schumacher,williams,10,69,12,0,10,1183.608611,1178.523403,-5.085209,0.526316,0.62802,50.0,20
+2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,719,michael-schumacher,Michael Schumacher,ferrari,DNF,45,4,1,11,1444.909177,1424.397155,-20.512022,0.473684,0.883925,50.0,20
+2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,719,fernando-alonso,Fernando Alonso,renault,DNF,41,3,1,12,1142.524609,1134.875065,-7.649544,0.421053,0.574044,50.0,20
+2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,719,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,27,5,1,13,1113.565009,1105.244631,-8.320378,0.368421,0.534829,50.0,20
+2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,719,gianmaria-bruni,Gianmaria Bruni,minardi,DNF,15,20,1,14,947.873317,947.997173,0.123856,0.315789,0.313312,50.0,20
+2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,719,giorgio-pantano,Giorgio Pantano,jordan,DNF,12,18,1,15,969.041999,965.208118,-3.833881,0.263158,0.339836,50.0,20
+2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,719,mark-webber,Mark Webber,jaguar,DNF,11,11,1,16,1009.694948,1000.574512,-9.120436,0.210526,0.392935,50.0,20
+2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,719,david-coulthard,David Coulthard,mclaren,DNF,2,8,1,17,1152.839153,1128.71185,-24.127303,0.105263,0.587809,50.0,20
+2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,719,giancarlo-fisichella,Giancarlo Fisichella,sauber,DNF,2,10,1,18,1029.700051,1013.97032,-15.729731,0.105263,0.419858,50.0,20
+2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,719,takuma-sato,Takuma Sato,bar,DNF,2,7,1,19,1061.307776,1043.418878,-17.888899,0.105263,0.463041,50.0,20
+2004,6,2004-05-23,monaco,Formula 1 Grand Prix de Monaco 2004,719,christian-klien,Christian Klien,jaguar,DNF,0,14,1,20,995.540139,976.831772,-18.708368,0.0,0.374167,50.0,20

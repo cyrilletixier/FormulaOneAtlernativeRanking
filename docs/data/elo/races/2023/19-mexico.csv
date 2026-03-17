@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,max-verstappen,Max Verstappen,red-bull,1,71,3,0,1,1566.444263,1571.165238,4.720975,1.0,0.905581,50.0,20
-2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,lewis-hamilton,Lewis Hamilton,mercedes,2,71,6,0,2,1349.530607,1360.09075,10.560143,0.947368,0.736166,50.0,20
-2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,charles-leclerc,Charles Leclerc,ferrari,3,71,1,0,3,1273.523757,1285.627078,12.103322,0.894737,0.65267,50.0,20
-2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,4,71,2,0,4,1274.220585,1283.651679,9.431094,0.842105,0.653483,50.0,20
-2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,lando-norris,Lando Norris,mclaren,5,71,17,0,5,1281.504547,1287.881541,6.376994,0.789474,0.661934,50.0,20
-2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,george-russell,George Russell,mercedes,6,71,8,0,6,1259.782565,1264.800542,5.017978,0.736842,0.636483,50.0,20
-2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,daniel-ricciardo,Daniel Ricciardo,alphatauri,7,71,4,0,7,1077.220236,1091.124901,13.904665,0.684211,0.406117,50.0,20
-2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,oscar-piastri,Oscar Piastri,mclaren,8,71,7,0,8,1100.002105,1109.825763,9.823658,0.631579,0.435106,50.0,20
-2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,alexander-albon,Alexander Albon,williams,9,71,14,0,9,1081.771876,1090.12518,8.353304,0.578947,0.411881,50.0,20
-2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,esteban-ocon,Esteban Ocon,alpine,10,71,15,0,10,1097.121722,1101.866332,4.74461,0.526316,0.431424,50.0,20
-2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,pierre-gasly,Pierre Gasly,alpine,11,71,11,0,11,1128.035565,1128.164784,0.129219,0.473684,0.4711,50.0,20
-2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,yuki-tsunoda,Yuki Tsunoda,alphatauri,12,71,18,0,12,997.414719,1003.026635,5.611915,0.421053,0.308814,50.0,20
-2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,nico-hulkenberg,Nico Hülkenberg,haas,13,71,12,0,13,1005.827843,1008.316818,2.488975,0.368421,0.318642,50.0,20
-2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,guanyu-zhou,Guanyu Zhou,alfa-romeo,14,71,10,0,14,1011.581847,1011.099738,-0.482109,0.315789,0.325432,50.0,20
-2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,valtteri-bottas,Valtteri Bottas,alfa-romeo,15,71,9,0,15,1053.623597,1047.955201,-5.668396,0.263158,0.376526,50.0,20
-2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,logan-sargeant,Logan Sargeant,williams,16,70,19,0,16,941.155064,939.351212,-1.803851,0.210526,0.246603,50.0,20
-2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,lance-stroll,Lance Stroll,aston-martin,17,66,PL,0,17,1085.300169,1072.376913,-12.923257,0.157895,0.41636,50.0,20
-2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,fernando-alonso,Fernando Alonso,aston-martin,DNF,47,13,1,18,1242.093145,1216.594649,-25.498496,0.105263,0.615233,50.0,20
-2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,kevin-magnussen,Kevin Magnussen,haas,DNF,31,16,1,19,947.995916,937.936853,-10.059064,0.052632,0.253813,50.0,20
-2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,sergio-perez,Sergio Pérez,red-bull,DNF,1,5,1,20,1349.988112,1313.156434,-36.831678,0.0,0.736634,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,1098,max-verstappen,Max Verstappen,red-bull,1,71,3,0,1,1566.444263,1571.165238,4.720975,1.0,0.905581,50.0,20
+2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,1098,lewis-hamilton,Lewis Hamilton,mercedes,2,71,6,0,2,1349.530607,1360.09075,10.560143,0.947368,0.736166,50.0,20
+2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,1098,charles-leclerc,Charles Leclerc,ferrari,3,71,1,0,3,1273.523757,1285.627078,12.103322,0.894737,0.65267,50.0,20
+2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,1098,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,4,71,2,0,4,1274.220585,1283.651679,9.431094,0.842105,0.653483,50.0,20
+2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,1098,lando-norris,Lando Norris,mclaren,5,71,17,0,5,1281.504547,1287.881541,6.376994,0.789474,0.661934,50.0,20
+2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,1098,george-russell,George Russell,mercedes,6,71,8,0,6,1259.782565,1264.800542,5.017978,0.736842,0.636483,50.0,20
+2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,1098,daniel-ricciardo,Daniel Ricciardo,alphatauri,7,71,4,0,7,1077.220236,1091.124901,13.904665,0.684211,0.406117,50.0,20
+2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,1098,oscar-piastri,Oscar Piastri,mclaren,8,71,7,0,8,1100.002105,1109.825763,9.823658,0.631579,0.435106,50.0,20
+2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,1098,alexander-albon,Alexander Albon,williams,9,71,14,0,9,1081.771876,1090.12518,8.353304,0.578947,0.411881,50.0,20
+2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,1098,esteban-ocon,Esteban Ocon,alpine,10,71,15,0,10,1097.121722,1101.866332,4.74461,0.526316,0.431424,50.0,20
+2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,1098,pierre-gasly,Pierre Gasly,alpine,11,71,11,0,11,1128.035565,1128.164784,0.129219,0.473684,0.4711,50.0,20
+2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,1098,yuki-tsunoda,Yuki Tsunoda,alphatauri,12,71,18,0,12,997.414719,1003.026635,5.611915,0.421053,0.308814,50.0,20
+2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,1098,nico-hulkenberg,Nico Hülkenberg,haas,13,71,12,0,13,1005.827843,1008.316818,2.488975,0.368421,0.318642,50.0,20
+2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,1098,guanyu-zhou,Guanyu Zhou,alfa-romeo,14,71,10,0,14,1011.581847,1011.099738,-0.482109,0.315789,0.325432,50.0,20
+2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,1098,valtteri-bottas,Valtteri Bottas,alfa-romeo,15,71,9,0,15,1053.623597,1047.955201,-5.668396,0.263158,0.376526,50.0,20
+2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,1098,logan-sargeant,Logan Sargeant,williams,16,70,19,0,16,941.155064,939.351212,-1.803851,0.210526,0.246603,50.0,20
+2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,1098,lance-stroll,Lance Stroll,aston-martin,17,66,PL,0,17,1085.300169,1072.376913,-12.923257,0.157895,0.41636,50.0,20
+2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,1098,fernando-alonso,Fernando Alonso,aston-martin,DNF,47,13,1,18,1242.093145,1216.594649,-25.498496,0.105263,0.615233,50.0,20
+2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,1098,kevin-magnussen,Kevin Magnussen,haas,DNF,31,16,1,19,947.995916,937.936853,-10.059064,0.052632,0.253813,50.0,20
+2023,19,2023-10-29,mexico,Formula 1 Gran Premio de la Ciudad de México 2023,1098,sergio-perez,Sergio Pérez,red-bull,DNF,1,5,1,20,1349.988112,1313.156434,-36.831678,0.0,0.736634,50.0,20

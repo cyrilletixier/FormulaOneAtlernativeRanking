@@ -1,35 +1,35 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,ayrton-senna,Ayrton Senna,mclaren,1,81,1,0,1,1287.581202,1299.160252,11.57905,1.0,0.768419,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,alain-prost,Alain Prost,ferrari,2,81,2,0,2,1352.061828,1359.234644,7.172816,0.969697,0.826241,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,nelson-piquet,Nelson Piquet,benetton,3,81,5,0,3,1278.766643,1287.75139,8.984747,0.939394,0.759699,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,stefano-modena,Stefano Modena,tyrrell,4,81,11,0,4,1057.700711,1078.557989,20.857278,0.909091,0.491945,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,satoru-nakajima,Satoru Nakajima,tyrrell,5,80,16,0,5,1061.724486,1080.798952,19.074466,0.878788,0.497299,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,aguri-suzuki,Aguri Suzuki,lola,6,79,21,0,6,1035.058783,1054.39063,19.331847,0.848485,0.461848,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,nicola-larini,Nicola Larini,modena,7,78,17,0,7,1098.09095,1111.725562,13.634612,0.818182,0.54549,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,gabriele-tarquini,Gabriele Tarquini,ags,8,77,22,0,8,874.911783,901.088314,26.176531,0.787879,0.264348,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,pierluigi-martini,Pierluigi Martini,minardi,9,75,15,0,9,1082.571266,1094.200688,11.629422,0.757576,0.524987,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,bertrand-gachot,Bertrand Gachot,jordan,10,75,14,0,10,831.883786,857.245503,25.361717,0.727273,0.220038,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,martin-brundle,Martin Brundle,brabham,11,73,12,0,11,1114.833805,1121.310981,6.477176,0.69697,0.567426,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,jean-alesi,Jean Alesi,ferrari,12,72,6,0,12,1112.09908,1117.239469,5.14039,0.666667,0.563859,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,mika-hakkinen,Mika Häkkinen,lotus,DNF,59,13,1,13,1000.0,1011.034591,11.034591,0.636364,0.415672,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,riccardo-patrese,Riccardo Patrese,williams,DNF,49,3,1,14,1254.199372,1247.025108,-7.174264,0.590909,0.734394,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,roberto-moreno,Roberto Moreno,benetton,DNF,49,8,1,15,907.410827,921.916215,14.505388,0.590909,0.300801,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,michele-alboreto,Michele Alboreto,footwork,DNF,41,25,1,16,1054.213137,1057.120603,2.907466,0.545455,0.487305,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,ivan-capelli,Ivan Capelli,leyton-house,DNF,40,18,1,17,1078.454451,1077.477987,-0.976464,0.5,0.519529,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,thierry-boutsen,Thierry Boutsen,ligier,DNF,40,20,1,18,1240.838224,1229.836654,-11.001571,0.5,0.720031,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,gerhard-berger,Gerhard Berger,mclaren,DNF,36,7,1,19,1244.390908,1230.923644,-13.467264,0.454545,0.723891,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,nigel-mansell,Nigel Mansell,williams,DNF,35,4,1,20,1215.715614,1202.33085,-13.384765,0.424242,0.691938,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,mauricio-gugelmin,Maurício Gugelmin,leyton-house,DNF,34,23,1,21,1050.758921,1046.320394,-4.438527,0.393939,0.48271,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,mark-blundell,Mark Blundell,brabham,DNF,32,24,1,22,1000.0,997.398228,-2.601772,0.363636,0.415672,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,emanuele-pirro,Emanuele Pirro,dallara,DNF,16,9,1,23,1040.128222,1033.366009,-6.762213,0.333333,0.468578,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,gianni-morbidelli,Gianni Morbidelli,minardi,DNF,15,26,1,24,986.047738,981.320665,-4.727072,0.30303,0.397572,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,jj-lehto,JJ Lehto,dallara,DNF,12,10,1,25,963.924229,959.09354,-4.83069,0.272727,0.369341,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,eric-bernard,Éric Bernard,lola,DNF,4,19,1,26,1083.722835,1069.518406,-14.204429,0.242424,0.526513,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,andrea-de-cesaris,Andrea de Cesaris,jordan,DNPQ,,,1,27,1021.960491,1008.068456,-13.892034,0.166667,0.444507,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,eric-van-de-poele,Eric van de Poele,modena,DNPQ,,,1,28,1000.0,987.549743,-12.450257,0.166667,0.415672,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,olivier-grouillard,Olivier Grouillard,fondmetal,DNPQ,,,1,29,963.609369,953.495498,-10.113871,0.166667,0.368944,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,pedro-chaves,Pedro Chaves,coloni,DNPQ,,,1,30,1000.0,987.549743,-12.450257,0.166667,0.415672,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,alex-caffi,Alex Caffi,footwork,DNQ,,,2,31,1107.741233,1082.105918,-25.635315,0.045455,0.558161,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,erik-comas,Érik Comas,ligier,DNQ,,,2,32,1000.0,981.489137,-18.510863,0.045455,0.415672,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,julian-bailey,Julian Bailey,lotus,DNQ,,,2,33,890.712109,878.89641,-11.815699,0.045455,0.281769,50.0,34
-1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,stefan-johansson,Stefan Johansson,ags,DNQ,,,2,34,951.715287,936.285116,-15.430171,0.045455,0.354058,50.0,34
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,ayrton-senna,Ayrton Senna,mclaren,1,81,1,0,1,1287.581202,1299.160252,11.57905,1.0,0.768419,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,alain-prost,Alain Prost,ferrari,2,81,2,0,2,1352.061828,1359.234644,7.172816,0.969697,0.826241,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,nelson-piquet,Nelson Piquet,benetton,3,81,5,0,3,1278.766643,1287.75139,8.984747,0.939394,0.759699,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,stefano-modena,Stefano Modena,tyrrell,4,81,11,0,4,1057.700711,1078.557989,20.857278,0.909091,0.491945,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,satoru-nakajima,Satoru Nakajima,tyrrell,5,80,16,0,5,1061.724486,1080.798952,19.074466,0.878788,0.497299,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,aguri-suzuki,Aguri Suzuki,lola,6,79,21,0,6,1035.058783,1054.39063,19.331847,0.848485,0.461848,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,nicola-larini,Nicola Larini,modena,7,78,17,0,7,1098.09095,1111.725562,13.634612,0.818182,0.54549,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,gabriele-tarquini,Gabriele Tarquini,ags,8,77,22,0,8,874.911783,901.088314,26.176531,0.787879,0.264348,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,pierluigi-martini,Pierluigi Martini,minardi,9,75,15,0,9,1082.571266,1094.200688,11.629422,0.757576,0.524987,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,bertrand-gachot,Bertrand Gachot,jordan,10,75,14,0,10,831.883786,857.245503,25.361717,0.727273,0.220038,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,martin-brundle,Martin Brundle,brabham,11,73,12,0,11,1114.833805,1121.310981,6.477176,0.69697,0.567426,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,jean-alesi,Jean Alesi,ferrari,12,72,6,0,12,1112.09908,1117.239469,5.14039,0.666667,0.563859,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,mika-hakkinen,Mika Häkkinen,lotus,DNF,59,13,1,13,1000.0,1011.034591,11.034591,0.636364,0.415672,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,riccardo-patrese,Riccardo Patrese,williams,DNF,49,3,1,14,1254.199372,1247.025108,-7.174264,0.590909,0.734394,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,roberto-moreno,Roberto Moreno,benetton,DNF,49,8,1,15,907.410827,921.916215,14.505388,0.590909,0.300801,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,michele-alboreto,Michele Alboreto,footwork,DNF,41,25,1,16,1054.213137,1057.120603,2.907466,0.545455,0.487305,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,ivan-capelli,Ivan Capelli,leyton-house,DNF,40,18,1,17,1078.454451,1077.477987,-0.976464,0.5,0.519529,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,thierry-boutsen,Thierry Boutsen,ligier,DNF,40,20,1,18,1240.838224,1229.836654,-11.001571,0.5,0.720031,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,gerhard-berger,Gerhard Berger,mclaren,DNF,36,7,1,19,1244.390908,1230.923644,-13.467264,0.454545,0.723891,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,nigel-mansell,Nigel Mansell,williams,DNF,35,4,1,20,1215.715614,1202.33085,-13.384765,0.424242,0.691938,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,mauricio-gugelmin,Maurício Gugelmin,leyton-house,DNF,34,23,1,21,1050.758921,1046.320394,-4.438527,0.393939,0.48271,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,mark-blundell,Mark Blundell,brabham,DNF,32,24,1,22,1000.0,997.398228,-2.601772,0.363636,0.415672,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,emanuele-pirro,Emanuele Pirro,dallara,DNF,16,9,1,23,1040.128222,1033.366009,-6.762213,0.333333,0.468578,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,gianni-morbidelli,Gianni Morbidelli,minardi,DNF,15,26,1,24,986.047738,981.320665,-4.727072,0.30303,0.397572,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,jj-lehto,JJ Lehto,dallara,DNF,12,10,1,25,963.924229,959.09354,-4.83069,0.272727,0.369341,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,eric-bernard,Éric Bernard,lola,DNF,4,19,1,26,1083.722835,1069.518406,-14.204429,0.242424,0.526513,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,andrea-de-cesaris,Andrea de Cesaris,jordan,DNPQ,,,1,27,1021.960491,1008.068456,-13.892034,0.166667,0.444507,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,eric-van-de-poele,Eric van de Poele,modena,DNPQ,,,1,28,1000.0,987.549743,-12.450257,0.166667,0.415672,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,olivier-grouillard,Olivier Grouillard,fondmetal,DNPQ,,,1,29,963.609369,953.495498,-10.113871,0.166667,0.368944,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,pedro-chaves,Pedro Chaves,coloni,DNPQ,,,1,30,1000.0,987.549743,-12.450257,0.166667,0.415672,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,alex-caffi,Alex Caffi,footwork,DNQ,,,2,31,1107.741233,1082.105918,-25.635315,0.045455,0.558161,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,erik-comas,Érik Comas,ligier,DNQ,,,2,32,1000.0,981.489137,-18.510863,0.045455,0.415672,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,julian-bailey,Julian Bailey,lotus,DNQ,,,2,33,890.712109,878.89641,-11.815699,0.045455,0.281769,50.0,34
+1991,1,1991-03-10,united-states,1991 Iceberg USA Grand Prix,501,stefan-johansson,Stefan Johansson,ags,DNQ,,,2,34,951.715287,936.285116,-15.430171,0.045455,0.354058,50.0,34

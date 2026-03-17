@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,1,56,1,0,1,1458.063804,1466.021066,7.957262,1.0,0.840855,50.0,22
-2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,nico-rosberg,Nico Rosberg,mercedes,2,56,2,0,2,1461.219856,1466.677305,5.457449,0.952381,0.843232,50.0,22
-2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,3,56,3,0,3,1351.743198,1359.58022,7.837022,0.904762,0.748021,50.0,22
-2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,sebastian-vettel,Sebastian Vettel,ferrari,4,56,6,0,4,1321.196764,1328.206746,7.009981,0.857143,0.716943,50.0,22
-2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,fernando-alonso,Fernando Alonso,mclaren,5,56,12,0,5,1108.692288,1126.015664,17.323376,0.809524,0.463056,50.0,22
-2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,6,56,10,0,6,1073.182518,1090.369475,17.186958,0.761905,0.418166,50.0,22
-2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,felipe-massa,Felipe Massa,williams,7,55,9,0,7,1140.21978,1150.780785,10.561005,0.714286,0.503066,50.0,22
-2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,sergio-perez,Sergio Pérez,force-india,8,55,11,0,8,1232.591181,1235.057847,2.466667,0.666667,0.617333,50.0,22
-2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,jenson-button,Jenson Button,mclaren,9,55,19,0,9,1057.166885,1068.212756,11.045871,0.619048,0.39813,50.0,22
-2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,romain-grosjean,Romain Grosjean,haas,10,55,17,0,10,1055.55259,1064.31795,8.765359,0.571429,0.396121,50.0,22
-2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,daniil-kvyat,Daniil Kvyat,toro-rosso,11,55,13,0,11,1073.041457,1078.332514,5.291056,0.52381,0.417988,50.0,22
-2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,kevin-magnussen,Kevin Magnussen,renault,12,55,18,0,12,1035.744479,1040.970711,5.226232,0.47619,0.371666,50.0,22
-2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,jolyon-palmer,Jolyon Palmer,renault,13,55,15,0,13,985.903378,991.72003,5.816652,0.428571,0.312238,50.0,22
-2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,marcus-ericsson,Marcus Ericsson,sauber,14,55,16,0,14,971.308092,975.577458,4.269366,0.380952,0.295565,50.0,22
-2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,felipe-nasr,Felipe Nasr,sauber,15,55,21,0,15,973.139133,974.924001,1.784868,0.333333,0.297636,50.0,22
-2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,valtteri-bottas,Valtteri Bottas,williams,16,55,8,0,16,1233.029954,1216.422861,-16.607093,0.285714,0.617856,50.0,22
-2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,pascal-wehrlein,Pascal Wehrlein,manor,17,55,20,0,17,932.963871,932.183525,-0.780345,0.238095,0.253702,50.0,22
-2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,esteban-ocon,Esteban Ocon,manor,18,54,22,0,18,970.762194,965.538562,-5.223633,0.190476,0.294949,50.0,22
-2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,38,5,1,19,1309.947751,1281.838523,-28.109227,0.142857,0.705042,50.0,22
-2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,max-verstappen,Max Verstappen,red-bull,DNF,28,4,1,20,1260.17668,1232.454127,-27.722553,0.095238,0.649689,50.0,22
-2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,esteban-gutierrez,Esteban Gutiérrez,haas,DNF,16,14,1,21,1002.912998,988.687935,-14.225063,0.047619,0.33212,50.0,22
-2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,DNF,1,7,1,22,1143.029969,1117.698759,-25.33121,0.0,0.506624,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,953,lewis-hamilton,Lewis Hamilton,mercedes,1,56,1,0,1,1458.063804,1466.021066,7.957262,1.0,0.840855,50.0,22
+2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,953,nico-rosberg,Nico Rosberg,mercedes,2,56,2,0,2,1461.219856,1466.677305,5.457449,0.952381,0.843232,50.0,22
+2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,953,daniel-ricciardo,Daniel Ricciardo,red-bull,3,56,3,0,3,1351.743198,1359.58022,7.837022,0.904762,0.748021,50.0,22
+2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,953,sebastian-vettel,Sebastian Vettel,ferrari,4,56,6,0,4,1321.196764,1328.206746,7.009981,0.857143,0.716943,50.0,22
+2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,953,fernando-alonso,Fernando Alonso,mclaren,5,56,12,0,5,1108.692288,1126.015664,17.323376,0.809524,0.463056,50.0,22
+2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,953,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,6,56,10,0,6,1073.182518,1090.369475,17.186958,0.761905,0.418166,50.0,22
+2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,953,felipe-massa,Felipe Massa,williams,7,55,9,0,7,1140.21978,1150.780785,10.561005,0.714286,0.503066,50.0,22
+2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,953,sergio-perez,Sergio Pérez,force-india,8,55,11,0,8,1232.591181,1235.057847,2.466667,0.666667,0.617333,50.0,22
+2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,953,jenson-button,Jenson Button,mclaren,9,55,19,0,9,1057.166885,1068.212756,11.045871,0.619048,0.39813,50.0,22
+2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,953,romain-grosjean,Romain Grosjean,haas,10,55,17,0,10,1055.55259,1064.31795,8.765359,0.571429,0.396121,50.0,22
+2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,953,daniil-kvyat,Daniil Kvyat,toro-rosso,11,55,13,0,11,1073.041457,1078.332514,5.291056,0.52381,0.417988,50.0,22
+2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,953,kevin-magnussen,Kevin Magnussen,renault,12,55,18,0,12,1035.744479,1040.970711,5.226232,0.47619,0.371666,50.0,22
+2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,953,jolyon-palmer,Jolyon Palmer,renault,13,55,15,0,13,985.903378,991.72003,5.816652,0.428571,0.312238,50.0,22
+2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,953,marcus-ericsson,Marcus Ericsson,sauber,14,55,16,0,14,971.308092,975.577458,4.269366,0.380952,0.295565,50.0,22
+2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,953,felipe-nasr,Felipe Nasr,sauber,15,55,21,0,15,973.139133,974.924001,1.784868,0.333333,0.297636,50.0,22
+2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,953,valtteri-bottas,Valtteri Bottas,williams,16,55,8,0,16,1233.029954,1216.422861,-16.607093,0.285714,0.617856,50.0,22
+2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,953,pascal-wehrlein,Pascal Wehrlein,manor,17,55,20,0,17,932.963871,932.183525,-0.780345,0.238095,0.253702,50.0,22
+2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,953,esteban-ocon,Esteban Ocon,manor,18,54,22,0,18,970.762194,965.538562,-5.223633,0.190476,0.294949,50.0,22
+2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,953,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,38,5,1,19,1309.947751,1281.838523,-28.109227,0.142857,0.705042,50.0,22
+2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,953,max-verstappen,Max Verstappen,red-bull,DNF,28,4,1,20,1260.17668,1232.454127,-27.722553,0.095238,0.649689,50.0,22
+2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,953,esteban-gutierrez,Esteban Gutiérrez,haas,DNF,16,14,1,21,1002.912998,988.687935,-14.225063,0.047619,0.33212,50.0,22
+2016,18,2016-10-23,united-states,2016 Formula 1 United States Grand Prix,953,nico-hulkenberg,Nico Hülkenberg,force-india,DNF,1,7,1,22,1143.029969,1117.698759,-25.33121,0.0,0.506624,50.0,22

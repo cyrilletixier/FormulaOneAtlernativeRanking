@@ -1,27 +1,27 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1986,8,1986-07-06,france,Grand Prix de France 1986,nigel-mansell,Nigel Mansell,williams,1,80,2,0,1,1172.197776,1190.281773,18.083997,1.0,0.63832,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,alain-prost,Alain Prost,mclaren,2,80,5,0,2,1315.640391,1323.613742,7.973351,0.96,0.800533,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,nelson-piquet,Nelson Piquet,williams,3,80,3,0,3,1141.855818,1157.940481,16.084663,0.92,0.598307,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,keke-rosberg,Keke Rosberg,mclaren,4,80,7,0,4,1135.828193,1150.318145,14.489952,0.88,0.590201,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,rene-arnoux,René Arnoux,ligier,5,79,4,0,5,1192.785239,1201.556647,8.771408,0.84,0.664572,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,jacques-laffite,Jacques Laffite,ligier,6,79,11,0,6,1154.033447,1163.306715,9.273267,0.8,0.614535,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,riccardo-patrese,Riccardo Patrese,brabham,7,78,16,0,7,1046.731862,1061.365475,14.633613,0.76,0.467328,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,michele-alboreto,Michele Alboreto,ferrari,8,78,6,0,8,1167.333281,1171.733097,4.399816,0.72,0.632004,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,derek-warwick,Derek Warwick,brabham,9,77,14,0,9,1057.914934,1067.772703,9.857769,0.68,0.482845,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,martin-brundle,Martin Brundle,tyrrell,10,77,15,0,10,1053.851922,1061.991778,8.139856,0.64,0.477203,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,christian-danner,Christian Danner,arrows,11,76,18,0,11,959.660604,972.15301,12.492406,0.6,0.350152,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,thierry-boutsen,Thierry Boutsen,arrows,NC,67,21,1,12,1129.374088,1128.30043,-1.073658,0.56,0.581473,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,patrick-tambay,Patrick Tambay,lola,DNF,64,13,1,13,1018.891469,1023.44289,4.551421,0.52,0.428972,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,johnny-dumfries,Johnny Dumfries,lotus,DNF,56,12,1,14,999.147508,1003.038898,3.89139,0.48,0.402172,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,jonathan-palmer,Jonathan Palmer,zakspeed,DNF,46,22,1,15,959.908948,964.385399,4.476451,0.44,0.350471,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,philippe-streiff,Philippe Streiff,tyrrell,DNF,43,17,1,16,1088.292207,1082.040128,-6.252079,0.4,0.525042,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,huub-rothengatter,Huub Rothengatter,zakspeed,DNF,32,24,1,17,974.520837,974.048891,-0.471947,0.36,0.369439,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,allen-berg,Allen Berg,osella,DNF,25,26,1,18,991.713666,988.103635,-3.610032,0.32,0.392201,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,gerhard-berger,Gerhard Berger,benetton,DNF,22,8,1,19,1089.456223,1077.123472,-12.332751,0.28,0.526655,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,teo-fabi,Teo Fabi,benetton,DNF,7,9,1,20,1008.268816,999.543788,-8.725029,0.24,0.414501,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,stefan-johansson,Stefan Johansson,ferrari,DNF,5,10,1,21,1100.526649,1083.428186,-17.098463,0.2,0.541969,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,alessandro-nannini,Alessandro Nannini,minardi,DNF,3,19,1,22,920.831478,910.741843,-10.089635,0.1,0.301793,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,andrea-de-cesaris,Andrea de Cesaris,minardi,DNF,3,23,1,23,983.006981,968.97607,-14.030911,0.1,0.380618,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,ayrton-senna,Ayrton Senna,lotus,DNF,3,1,1,24,1220.592659,1190.660371,-29.932288,0.1,0.698646,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNF,3,25,1,25,886.12572,878.050551,-8.075168,0.1,0.261503,50.0,26
-1986,8,1986-07-06,france,Grand Prix de France 1986,alan-jones,Alan Jones,lola,DNF,2,20,1,26,1076.409971,1050.982573,-25.427398,0.0,0.508548,50.0,26
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,nigel-mansell,Nigel Mansell,williams,1,80,2,0,1,1172.197776,1190.281773,18.083997,1.0,0.63832,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,alain-prost,Alain Prost,mclaren,2,80,5,0,2,1315.640391,1323.613742,7.973351,0.96,0.800533,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,nelson-piquet,Nelson Piquet,williams,3,80,3,0,3,1141.855818,1157.940481,16.084663,0.92,0.598307,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,keke-rosberg,Keke Rosberg,mclaren,4,80,7,0,4,1135.828193,1150.318145,14.489952,0.88,0.590201,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,rene-arnoux,René Arnoux,ligier,5,79,4,0,5,1192.785239,1201.556647,8.771408,0.84,0.664572,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,jacques-laffite,Jacques Laffite,ligier,6,79,11,0,6,1154.033447,1163.306715,9.273267,0.8,0.614535,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,riccardo-patrese,Riccardo Patrese,brabham,7,78,16,0,7,1046.731862,1061.365475,14.633613,0.76,0.467328,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,michele-alboreto,Michele Alboreto,ferrari,8,78,6,0,8,1167.333281,1171.733097,4.399816,0.72,0.632004,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,derek-warwick,Derek Warwick,brabham,9,77,14,0,9,1057.914934,1067.772703,9.857769,0.68,0.482845,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,martin-brundle,Martin Brundle,tyrrell,10,77,15,0,10,1053.851922,1061.991778,8.139856,0.64,0.477203,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,christian-danner,Christian Danner,arrows,11,76,18,0,11,959.660604,972.15301,12.492406,0.6,0.350152,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,thierry-boutsen,Thierry Boutsen,arrows,NC,67,21,1,12,1129.374088,1128.30043,-1.073658,0.56,0.581473,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,patrick-tambay,Patrick Tambay,lola,DNF,64,13,1,13,1018.891469,1023.44289,4.551421,0.52,0.428972,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,johnny-dumfries,Johnny Dumfries,lotus,DNF,56,12,1,14,999.147508,1003.038898,3.89139,0.48,0.402172,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,jonathan-palmer,Jonathan Palmer,zakspeed,DNF,46,22,1,15,959.908948,964.385399,4.476451,0.44,0.350471,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,philippe-streiff,Philippe Streiff,tyrrell,DNF,43,17,1,16,1088.292207,1082.040128,-6.252079,0.4,0.525042,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,huub-rothengatter,Huub Rothengatter,zakspeed,DNF,32,24,1,17,974.520837,974.048891,-0.471947,0.36,0.369439,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,allen-berg,Allen Berg,osella,DNF,25,26,1,18,991.713666,988.103635,-3.610032,0.32,0.392201,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,gerhard-berger,Gerhard Berger,benetton,DNF,22,8,1,19,1089.456223,1077.123472,-12.332751,0.28,0.526655,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,teo-fabi,Teo Fabi,benetton,DNF,7,9,1,20,1008.268816,999.543788,-8.725029,0.24,0.414501,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,stefan-johansson,Stefan Johansson,ferrari,DNF,5,10,1,21,1100.526649,1083.428186,-17.098463,0.2,0.541969,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,alessandro-nannini,Alessandro Nannini,minardi,DNF,3,19,1,22,920.831478,910.741843,-10.089635,0.1,0.301793,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,andrea-de-cesaris,Andrea de Cesaris,minardi,DNF,3,23,1,23,983.006981,968.97607,-14.030911,0.1,0.380618,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,ayrton-senna,Ayrton Senna,lotus,DNF,3,1,1,24,1220.592659,1190.660371,-29.932288,0.1,0.698646,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNF,3,25,1,25,886.12572,878.050551,-8.075168,0.1,0.261503,50.0,26
+1986,8,1986-07-06,france,Grand Prix de France 1986,428,alan-jones,Alan Jones,lola,DNF,2,20,1,26,1076.409971,1050.982573,-25.427398,0.0,0.508548,50.0,26

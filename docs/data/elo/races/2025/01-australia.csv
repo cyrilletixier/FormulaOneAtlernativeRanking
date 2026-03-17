@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,lando-norris,Lando Norris,mclaren,1,57,1,0,1,1397.874993,1409.140534,11.265541,1.0,0.774689,50.0,20
-2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,max-verstappen,Max Verstappen,red-bull,2,57,3,0,2,1540.651427,1543.862374,3.210948,0.947368,0.883149,50.0,20
-2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,george-russell,George Russell,mercedes,3,57,4,0,3,1322.657308,1332.307167,9.649859,0.894737,0.70174,50.0,20
-2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,kimi-antonelli,Kimi Antonelli,mercedes,4,57,16,0,4,1000.0,1026.072638,26.072638,0.842105,0.320653,50.0,20
-2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,alexander-albon,Alexander Albon,williams,5,57,6,0,5,991.259049,1015.203786,23.944737,0.789474,0.310579,50.0,20
-2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,lance-stroll,Lance Stroll,aston-martin,6,57,13,0,6,1027.343026,1046.543967,19.200941,0.736842,0.352823,50.0,20
-2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,nico-hulkenberg,Nico Hülkenberg,kick-sauber,7,57,17,0,7,1080.240532,1093.596141,13.35561,0.684211,0.417098,50.0,20
-2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,charles-leclerc,Charles Leclerc,ferrari,8,57,7,0,8,1400.159751,1392.901564,-7.258187,0.631579,0.776743,50.0,20
-2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,oscar-piastri,Oscar Piastri,mclaren,9,57,2,0,9,1328.780078,1322.325027,-6.455051,0.578947,0.708048,50.0,20
-2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,lewis-hamilton,Lewis Hamilton,ferrari,10,57,8,0,10,1320.40947,1311.754857,-8.654613,0.526316,0.699408,50.0,20
-2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,pierre-gasly,Pierre Gasly,alpine,11,57,9,0,11,1095.291672,1097.192461,1.900788,0.473684,0.435668,50.0,20
-2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,yuki-tsunoda,Yuki Tsunoda,racing-bulls,12,57,5,0,12,1029.749029,1033.01685,3.267821,0.421053,0.355696,50.0,20
-2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,esteban-ocon,Esteban Ocon,haas,13,57,19,0,13,1037.119299,1037.313679,0.19438,0.368421,0.364533,50.0,20
-2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,oliver-bearman,Oliver Bearman,haas,14,57,PL,0,14,1031.220019,1029.136712,-2.083308,0.315789,0.357456,50.0,20
-2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,liam-lawson,Liam Lawson,red-bull,DNF,46,PL,1,15,1016.84683,1012.986473,-3.860358,0.263158,0.340365,50.0,20
-2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,DNF,45,15,1,16,1000.0,994.49369,-5.50631,0.210526,0.320653,50.0,20
-2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,fernando-alonso,Fernando Alonso,aston-martin,DNF,32,12,1,17,1171.031376,1152.47668,-18.554696,0.157895,0.528989,50.0,20
-2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,carlos-sainz-jr,Carlos Sainz Jr.,williams,DNF,0,10,1,18,1334.328287,1301.274316,-33.053971,0.052632,0.713711,50.0,20
-2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,isack-hadjar,Isack Hadjar,racing-bulls,DNF,0,11,1,19,1000.0,986.598954,-13.401046,0.052632,0.320653,50.0,20
-2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,jack-doohan,Jack Doohan,alpine,DNF,0,14,1,20,997.14155,983.905829,-13.235721,0.052632,0.317346,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,1126,lando-norris,Lando Norris,mclaren,1,57,1,0,1,1397.874993,1409.140534,11.265541,1.0,0.774689,50.0,20
+2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,1126,max-verstappen,Max Verstappen,red-bull,2,57,3,0,2,1540.651427,1543.862374,3.210948,0.947368,0.883149,50.0,20
+2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,1126,george-russell,George Russell,mercedes,3,57,4,0,3,1322.657308,1332.307167,9.649859,0.894737,0.70174,50.0,20
+2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,1126,kimi-antonelli,Kimi Antonelli,mercedes,4,57,16,0,4,1000.0,1026.072638,26.072638,0.842105,0.320653,50.0,20
+2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,1126,alexander-albon,Alexander Albon,williams,5,57,6,0,5,991.259049,1015.203786,23.944737,0.789474,0.310579,50.0,20
+2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,1126,lance-stroll,Lance Stroll,aston-martin,6,57,13,0,6,1027.343026,1046.543967,19.200941,0.736842,0.352823,50.0,20
+2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,1126,nico-hulkenberg,Nico Hülkenberg,kick-sauber,7,57,17,0,7,1080.240532,1093.596141,13.35561,0.684211,0.417098,50.0,20
+2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,1126,charles-leclerc,Charles Leclerc,ferrari,8,57,7,0,8,1400.159751,1392.901564,-7.258187,0.631579,0.776743,50.0,20
+2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,1126,oscar-piastri,Oscar Piastri,mclaren,9,57,2,0,9,1328.780078,1322.325027,-6.455051,0.578947,0.708048,50.0,20
+2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,1126,lewis-hamilton,Lewis Hamilton,ferrari,10,57,8,0,10,1320.40947,1311.754857,-8.654613,0.526316,0.699408,50.0,20
+2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,1126,pierre-gasly,Pierre Gasly,alpine,11,57,9,0,11,1095.291672,1097.192461,1.900788,0.473684,0.435668,50.0,20
+2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,1126,yuki-tsunoda,Yuki Tsunoda,racing-bulls,12,57,5,0,12,1029.749029,1033.01685,3.267821,0.421053,0.355696,50.0,20
+2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,1126,esteban-ocon,Esteban Ocon,haas,13,57,19,0,13,1037.119299,1037.313679,0.19438,0.368421,0.364533,50.0,20
+2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,1126,oliver-bearman,Oliver Bearman,haas,14,57,PL,0,14,1031.220019,1029.136712,-2.083308,0.315789,0.357456,50.0,20
+2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,1126,liam-lawson,Liam Lawson,red-bull,DNF,46,PL,1,15,1016.84683,1012.986473,-3.860358,0.263158,0.340365,50.0,20
+2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,1126,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,DNF,45,15,1,16,1000.0,994.49369,-5.50631,0.210526,0.320653,50.0,20
+2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,1126,fernando-alonso,Fernando Alonso,aston-martin,DNF,32,12,1,17,1171.031376,1152.47668,-18.554696,0.157895,0.528989,50.0,20
+2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,1126,carlos-sainz-jr,Carlos Sainz Jr.,williams,DNF,0,10,1,18,1334.328287,1301.274316,-33.053971,0.052632,0.713711,50.0,20
+2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,1126,isack-hadjar,Isack Hadjar,racing-bulls,DNF,0,11,1,19,1000.0,986.598954,-13.401046,0.052632,0.320653,50.0,20
+2025,1,2025-03-16,australia,Formula 1 Louis Vuitton Australian Grand Prix 2025,1126,jack-doohan,Jack Doohan,alpine,DNF,0,14,1,20,997.14155,983.905829,-13.235721,0.052632,0.317346,50.0,20

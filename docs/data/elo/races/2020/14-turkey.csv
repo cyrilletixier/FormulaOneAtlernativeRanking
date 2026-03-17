@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,lewis-hamilton,Lewis Hamilton,mercedes,1,58,6,0,1,1588.167539,1592.095747,3.928208,1.0,0.921436,50.0,20
-2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,sergio-perez,Sergio Pérez,racing-point,2,58,3,0,2,1228.499299,1245.099933,16.600634,0.947368,0.615356,50.0,20
-2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,sebastian-vettel,Sebastian Vettel,ferrari,3,58,11,0,3,1187.810726,1204.319261,16.508535,0.894737,0.564566,50.0,20
-2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,charles-leclerc,Charles Leclerc,ferrari,4,58,12,0,4,1227.439687,1238.841957,11.40227,0.842105,0.61406,50.0,20
-2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,5,58,15,0,5,1154.329208,1167.724097,13.394889,0.789474,0.521576,50.0,20
-2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,max-verstappen,Max Verstappen,red-bull,6,58,2,0,6,1313.821813,1314.994188,1.172375,0.736842,0.713395,50.0,20
-2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,alexander-albon,Alexander Albon,red-bull,7,58,4,0,7,1160.710233,1168.42946,7.719227,0.684211,0.529826,50.0,20
-2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,lando-norris,Lando Norris,mclaren,8,58,14,0,8,1144.827367,1150.943473,6.116106,0.631579,0.509257,50.0,20
-2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,lance-stroll,Lance Stroll,racing-point,9,58,1,0,9,1067.667927,1076.152402,8.484475,0.578947,0.409258,50.0,20
-2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,daniel-ricciardo,Daniel Ricciardo,renault,10,58,5,0,10,1211.388312,1207.992043,-3.39627,0.526316,0.594241,50.0,20
-2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,esteban-ocon,Esteban Ocon,renault,11,57,7,0,11,1087.743658,1089.673948,1.930291,0.473684,0.435078,50.0,20
-2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,daniil-kvyat,Daniil Kvyat,alphatauri,12,57,16,0,12,1093.926037,1092.824741,-1.101296,0.421053,0.443079,50.0,20
-2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,pierre-gasly,Pierre Gasly,alphatauri,13,57,19,0,13,1131.373705,1125.206421,-6.167284,0.368421,0.491767,50.0,20
-2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,valtteri-bottas,Valtteri Bottas,mercedes,14,57,9,0,14,1415.736224,1391.010005,-24.726219,0.315789,0.810314,50.0,20
-2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,15,57,8,0,15,1090.730762,1081.941583,-8.789179,0.263158,0.438941,50.0,20
-2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,george-russell,George Russell,williams,16,57,PL,0,16,912.030099,911.147628,-0.882472,0.210526,0.228176,50.0,20
-2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,kevin-magnussen,Kevin Magnussen,haas,17,55,13,0,17,951.20795,945.632736,-5.575214,0.157895,0.269399,50.0,20
-2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,romain-grosjean,Romain Grosjean,haas,DNF,49,17,1,18,967.451186,958.339713,-9.111473,0.105263,0.287493,50.0,20
-2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,nicholas-latifi,Nicholas Latifi,williams,DNF,39,PL,1,19,964.578961,952.997888,-11.581072,0.052632,0.284253,50.0,20
-2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,DNF,11,10,1,20,994.276889,978.35036,-15.926529,0.0,0.318531,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,1032,lewis-hamilton,Lewis Hamilton,mercedes,1,58,6,0,1,1588.167539,1592.095747,3.928208,1.0,0.921436,50.0,20
+2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,1032,sergio-perez,Sergio Pérez,racing-point,2,58,3,0,2,1228.499299,1245.099933,16.600634,0.947368,0.615356,50.0,20
+2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,1032,sebastian-vettel,Sebastian Vettel,ferrari,3,58,11,0,3,1187.810726,1204.319261,16.508535,0.894737,0.564566,50.0,20
+2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,1032,charles-leclerc,Charles Leclerc,ferrari,4,58,12,0,4,1227.439687,1238.841957,11.40227,0.842105,0.61406,50.0,20
+2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,1032,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,5,58,15,0,5,1154.329208,1167.724097,13.394889,0.789474,0.521576,50.0,20
+2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,1032,max-verstappen,Max Verstappen,red-bull,6,58,2,0,6,1313.821813,1314.994188,1.172375,0.736842,0.713395,50.0,20
+2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,1032,alexander-albon,Alexander Albon,red-bull,7,58,4,0,7,1160.710233,1168.42946,7.719227,0.684211,0.529826,50.0,20
+2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,1032,lando-norris,Lando Norris,mclaren,8,58,14,0,8,1144.827367,1150.943473,6.116106,0.631579,0.509257,50.0,20
+2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,1032,lance-stroll,Lance Stroll,racing-point,9,58,1,0,9,1067.667927,1076.152402,8.484475,0.578947,0.409258,50.0,20
+2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,1032,daniel-ricciardo,Daniel Ricciardo,renault,10,58,5,0,10,1211.388312,1207.992043,-3.39627,0.526316,0.594241,50.0,20
+2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,1032,esteban-ocon,Esteban Ocon,renault,11,57,7,0,11,1087.743658,1089.673948,1.930291,0.473684,0.435078,50.0,20
+2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,1032,daniil-kvyat,Daniil Kvyat,alphatauri,12,57,16,0,12,1093.926037,1092.824741,-1.101296,0.421053,0.443079,50.0,20
+2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,1032,pierre-gasly,Pierre Gasly,alphatauri,13,57,19,0,13,1131.373705,1125.206421,-6.167284,0.368421,0.491767,50.0,20
+2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,1032,valtteri-bottas,Valtteri Bottas,mercedes,14,57,9,0,14,1415.736224,1391.010005,-24.726219,0.315789,0.810314,50.0,20
+2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,1032,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,15,57,8,0,15,1090.730762,1081.941583,-8.789179,0.263158,0.438941,50.0,20
+2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,1032,george-russell,George Russell,williams,16,57,PL,0,16,912.030099,911.147628,-0.882472,0.210526,0.228176,50.0,20
+2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,1032,kevin-magnussen,Kevin Magnussen,haas,17,55,13,0,17,951.20795,945.632736,-5.575214,0.157895,0.269399,50.0,20
+2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,1032,romain-grosjean,Romain Grosjean,haas,DNF,49,17,1,18,967.451186,958.339713,-9.111473,0.105263,0.287493,50.0,20
+2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,1032,nicholas-latifi,Nicholas Latifi,williams,DNF,39,PL,1,19,964.578961,952.997888,-11.581072,0.052632,0.284253,50.0,20
+2020,14,2020-11-15,turkey,Formula 1 DHL Turkish Grand Prix 2020,1032,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,DNF,11,10,1,20,994.276889,978.35036,-15.926529,0.0,0.318531,50.0,20

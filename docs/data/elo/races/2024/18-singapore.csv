@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,lando-norris,Lando Norris,mclaren,1,62,1,0,1,1376.68655,1389.077836,12.391286,1.0,0.752174,50.0,20
-2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,max-verstappen,Max Verstappen,red-bull,2,62,2,0,2,1545.309192,1548.37005,3.060859,0.947368,0.886151,50.0,20
-2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,oscar-piastri,Oscar Piastri,mclaren,3,62,5,0,3,1323.728841,1333.557037,9.828197,0.894737,0.698173,50.0,20
-2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,george-russell,George Russell,mercedes,4,62,4,0,4,1261.35914,1272.032411,10.673271,0.842105,0.62864,50.0,20
-2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,charles-leclerc,Charles Leclerc,ferrari,5,62,9,0,5,1354.555387,1357.517453,2.962066,0.789474,0.730232,50.0,20
-2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,lewis-hamilton,Lewis Hamilton,mercedes,6,62,3,0,6,1350.429286,1350.969403,0.540117,0.736842,0.72604,50.0,20
-2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,7,62,10,0,7,1304.983396,1305.299561,0.316165,0.684211,0.677887,50.0,20
-2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,fernando-alonso,Fernando Alonso,aston-martin,8,61,7,0,8,1199.740775,1203.556837,3.816062,0.631579,0.555258,50.0,20
-2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,nico-hulkenberg,Nico Hülkenberg,haas,9,61,6,0,9,1057.707198,1067.632793,9.925595,0.578947,0.380435,50.0,20
-2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,sergio-perez,Sergio Pérez,red-bull,10,61,13,0,10,1260.773258,1255.690997,-5.082261,0.526316,0.627961,50.0,20
-2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,franco-colapinto,Franco Colapinto,williams,11,61,12,0,11,1021.266635,1028.092262,6.825627,0.473684,0.337172,50.0,20
-2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,yuki-tsunoda,Yuki Tsunoda,rb,12,61,8,0,12,1004.33828,1009.509263,5.170983,0.421053,0.317633,50.0,20
-2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,esteban-ocon,Esteban Ocon,alpine,13,61,15,0,13,1050.466038,1050.300798,-0.16524,0.368421,0.371726,50.0,20
-2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,lance-stroll,Lance Stroll,aston-martin,14,61,17,0,14,1069.315623,1065.380383,-3.93524,0.315789,0.394494,50.0,20
-2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,guanyu-zhou,Guanyu Zhou,kick-sauber,15,61,20,0,15,925.030845,926.561215,1.53037,0.263158,0.23255,50.0,20
-2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,valtteri-bottas,Valtteri Bottas,kick-sauber,16,61,19,0,16,945.378354,943.243275,-2.135078,0.210526,0.253228,50.0,20
-2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,pierre-gasly,Pierre Gasly,alpine,17,61,18,0,17,1058.104166,1046.953186,-11.15098,0.157895,0.380914,50.0,20
-2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,daniel-ricciardo,Daniel Ricciardo,rb,18,61,16,0,18,1064.346894,1050.186897,-14.159997,0.105263,0.388463,50.0,20
-2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,kevin-magnussen,Kevin Magnussen,haas,19,57,14,0,19,977.599512,965.848002,-11.751511,0.052632,0.287662,50.0,20
-2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,alexander-albon,Alexander Albon,williams,DNF,15,11,1,20,1051.699396,1033.039105,-18.660291,0.0,0.373206,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,1119,lando-norris,Lando Norris,mclaren,1,62,1,0,1,1376.68655,1389.077836,12.391286,1.0,0.752174,50.0,20
+2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,1119,max-verstappen,Max Verstappen,red-bull,2,62,2,0,2,1545.309192,1548.37005,3.060859,0.947368,0.886151,50.0,20
+2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,1119,oscar-piastri,Oscar Piastri,mclaren,3,62,5,0,3,1323.728841,1333.557037,9.828197,0.894737,0.698173,50.0,20
+2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,1119,george-russell,George Russell,mercedes,4,62,4,0,4,1261.35914,1272.032411,10.673271,0.842105,0.62864,50.0,20
+2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,1119,charles-leclerc,Charles Leclerc,ferrari,5,62,9,0,5,1354.555387,1357.517453,2.962066,0.789474,0.730232,50.0,20
+2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,1119,lewis-hamilton,Lewis Hamilton,mercedes,6,62,3,0,6,1350.429286,1350.969403,0.540117,0.736842,0.72604,50.0,20
+2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,1119,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,7,62,10,0,7,1304.983396,1305.299561,0.316165,0.684211,0.677887,50.0,20
+2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,1119,fernando-alonso,Fernando Alonso,aston-martin,8,61,7,0,8,1199.740775,1203.556837,3.816062,0.631579,0.555258,50.0,20
+2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,1119,nico-hulkenberg,Nico Hülkenberg,haas,9,61,6,0,9,1057.707198,1067.632793,9.925595,0.578947,0.380435,50.0,20
+2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,1119,sergio-perez,Sergio Pérez,red-bull,10,61,13,0,10,1260.773258,1255.690997,-5.082261,0.526316,0.627961,50.0,20
+2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,1119,franco-colapinto,Franco Colapinto,williams,11,61,12,0,11,1021.266635,1028.092262,6.825627,0.473684,0.337172,50.0,20
+2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,1119,yuki-tsunoda,Yuki Tsunoda,rb,12,61,8,0,12,1004.33828,1009.509263,5.170983,0.421053,0.317633,50.0,20
+2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,1119,esteban-ocon,Esteban Ocon,alpine,13,61,15,0,13,1050.466038,1050.300798,-0.16524,0.368421,0.371726,50.0,20
+2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,1119,lance-stroll,Lance Stroll,aston-martin,14,61,17,0,14,1069.315623,1065.380383,-3.93524,0.315789,0.394494,50.0,20
+2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,1119,guanyu-zhou,Guanyu Zhou,kick-sauber,15,61,20,0,15,925.030845,926.561215,1.53037,0.263158,0.23255,50.0,20
+2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,1119,valtteri-bottas,Valtteri Bottas,kick-sauber,16,61,19,0,16,945.378354,943.243275,-2.135078,0.210526,0.253228,50.0,20
+2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,1119,pierre-gasly,Pierre Gasly,alpine,17,61,18,0,17,1058.104166,1046.953186,-11.15098,0.157895,0.380914,50.0,20
+2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,1119,daniel-ricciardo,Daniel Ricciardo,rb,18,61,16,0,18,1064.346894,1050.186897,-14.159997,0.105263,0.388463,50.0,20
+2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,1119,kevin-magnussen,Kevin Magnussen,haas,19,57,14,0,19,977.599512,965.848002,-11.751511,0.052632,0.287662,50.0,20
+2024,18,2024-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2024,1119,alexander-albon,Alexander Albon,williams,DNF,15,11,1,20,1051.699396,1033.039105,-18.660291,0.0,0.373206,50.0,20

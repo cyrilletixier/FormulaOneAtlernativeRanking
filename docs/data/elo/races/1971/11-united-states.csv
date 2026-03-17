@@ -1,33 +1,33 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,francois-cevert,François Cevert,tyrrell,1,59,5,0,1,1088.278392,1109.443046,21.164654,1.0,0.576707,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,jo-siffert,Jo Siffert,brm,2,59,6,0,2,1060.660844,1082.173148,21.512304,0.967742,0.537496,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,ronnie-peterson,Ronnie Peterson,march,3,59,11,0,3,1128.440382,1143.611221,15.170839,0.935484,0.632067,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,howden-ganley,Howden Ganley,brm,4,59,12,0,4,992.327011,1015.51117,23.184159,0.903226,0.439543,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,jackie-stewart,Jackie Stewart,tyrrell,5,59,1,0,5,1192.267492,1200.142049,7.874557,0.870968,0.713477,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,clay-regazzoni,Clay Regazzoni,ferrari,6,59,4,0,6,1057.455101,1072.745213,15.290112,0.83871,0.532907,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,graham-hill,Graham Hill,brabham,7,58,18,0,7,1035.213731,1050.487944,15.274213,0.806452,0.500967,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,8,58,10,0,8,1122.102768,1129.63727,7.534503,0.774194,0.623503,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,peter-gethin,Peter Gethin,brm,9,58,21,0,9,1040.215129,1051.903929,11.688799,0.741935,0.508159,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,david-hobbs,David Hobbs,mclaren,10,58,22,0,10,1034.513422,1044.999285,10.485863,0.709677,0.49996,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,andrea-de-adamich,Andrea de Adamich,march,11,57,26,0,11,932.441926,948.472328,16.030402,0.677419,0.356811,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,chris-amon,Chris Amon,matra,12,57,8,0,12,1120.002475,1121.228059,1.225584,0.645161,0.62065,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,helmut-marko,Helmut Marko,brm,13,57,16,0,13,976.016058,985.835353,9.819296,0.612903,0.416517,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,john-cannon,John Cannon,brm,14,56,24,0,14,1000.0,1006.509213,6.509213,0.580645,0.450461,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,mike-hailwood,Mike Hailwood,surtees,15,54,14,0,15,1011.913072,1015.957749,4.044677,0.548387,0.467494,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,jo-bonnier,Jo Bonnier,mclaren,16,54,28,0,16,930.002043,938.130139,8.128096,0.516129,0.353567,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,john-surtees,John Surtees,surtees,17,54,13,0,17,1054.800158,1052.538537,-2.261622,0.483871,0.529103,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,skip-barber,Skip Barber,march,NC,52,25,1,18,975.611636,977.394774,1.783137,0.451613,0.41595,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,jacky-ickx,Jacky Ickx,ferrari,DNF,49,7,1,19,1110.929546,1101.485521,-9.444026,0.419355,0.608235,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,emerson-fittipaldi,Emerson Fittipaldi,lotus,NC,49,2,1,20,1106.689042,1095.118033,-11.571009,0.370968,0.602388,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,pete-lovely,Pete Lovely,lotus,NC,49,29,1,21,954.960476,954.144708,-0.815767,0.370968,0.387283,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,denny-hulme,Denny Hulme,mclaren,DNF,47,3,1,22,1113.577261,1099.112686,-14.464575,0.322581,0.611872,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,tim-schenken,Tim Schenken,brabham,DNF,41,15,1,23,1013.772521,1004.780698,-8.991823,0.290323,0.470159,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,chris-craft,Chris Craft,brabham,DNF,30,27,1,24,980.081171,971.872947,-8.208224,0.258065,0.422229,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,henri-pescarolo,Henri Pescarolo,march,DNF,23,20,1,25,1062.693332,1046.963557,-15.729775,0.225806,0.540402,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,sam-posey,Sam Posey,surtees,DNF,15,17,1,26,1000.0,987.154375,-12.845625,0.193548,0.450461,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,nanni-galli,Nanni Galli,march,DNF,11,23,1,27,960.844122,949.139258,-11.704864,0.16129,0.395388,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,reine-wisell,Reine Wisell,lotus,DNF,5,9,1,28,1076.546042,1054.991083,-21.554959,0.129032,0.560131,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,peter-revson,Peter Revson,tyrrell,DNF,1,19,1,29,964.432932,949.253798,-15.179134,0.096774,0.400357,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,gijs-van-lennep,Gijs van Lennep,surtees,DNS,,,2,30,1013.794391,991.897774,-21.896617,0.032258,0.47019,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,mario-andretti,Mario Andretti,ferrari,DNS,,,2,31,978.690369,959.289639,-19.400731,0.032258,0.420273,50.0,32
-1971,11,1971-10-03,united-states,1971 United States Grand Prix,mark-donohue,Mark Donohue,mclaren,DNS,,,2,32,1024.311941,1001.660281,-22.65166,0.032258,0.485291,50.0,32
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,francois-cevert,François Cevert,tyrrell,1,59,5,0,1,1088.278392,1109.443046,21.164654,1.0,0.576707,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,jo-siffert,Jo Siffert,brm,2,59,6,0,2,1060.660844,1082.173148,21.512304,0.967742,0.537496,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,ronnie-peterson,Ronnie Peterson,march,3,59,11,0,3,1128.440382,1143.611221,15.170839,0.935484,0.632067,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,howden-ganley,Howden Ganley,brm,4,59,12,0,4,992.327011,1015.51117,23.184159,0.903226,0.439543,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,jackie-stewart,Jackie Stewart,tyrrell,5,59,1,0,5,1192.267492,1200.142049,7.874557,0.870968,0.713477,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,clay-regazzoni,Clay Regazzoni,ferrari,6,59,4,0,6,1057.455101,1072.745213,15.290112,0.83871,0.532907,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,graham-hill,Graham Hill,brabham,7,58,18,0,7,1035.213731,1050.487944,15.274213,0.806452,0.500967,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,8,58,10,0,8,1122.102768,1129.63727,7.534503,0.774194,0.623503,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,peter-gethin,Peter Gethin,brm,9,58,21,0,9,1040.215129,1051.903929,11.688799,0.741935,0.508159,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,david-hobbs,David Hobbs,mclaren,10,58,22,0,10,1034.513422,1044.999285,10.485863,0.709677,0.49996,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,andrea-de-adamich,Andrea de Adamich,march,11,57,26,0,11,932.441926,948.472328,16.030402,0.677419,0.356811,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,chris-amon,Chris Amon,matra,12,57,8,0,12,1120.002475,1121.228059,1.225584,0.645161,0.62065,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,helmut-marko,Helmut Marko,brm,13,57,16,0,13,976.016058,985.835353,9.819296,0.612903,0.416517,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,john-cannon,John Cannon,brm,14,56,24,0,14,1000.0,1006.509213,6.509213,0.580645,0.450461,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,mike-hailwood,Mike Hailwood,surtees,15,54,14,0,15,1011.913072,1015.957749,4.044677,0.548387,0.467494,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,jo-bonnier,Jo Bonnier,mclaren,16,54,28,0,16,930.002043,938.130139,8.128096,0.516129,0.353567,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,john-surtees,John Surtees,surtees,17,54,13,0,17,1054.800158,1052.538537,-2.261622,0.483871,0.529103,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,skip-barber,Skip Barber,march,NC,52,25,1,18,975.611636,977.394774,1.783137,0.451613,0.41595,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,jacky-ickx,Jacky Ickx,ferrari,DNF,49,7,1,19,1110.929546,1101.485521,-9.444026,0.419355,0.608235,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,emerson-fittipaldi,Emerson Fittipaldi,lotus,NC,49,2,1,20,1106.689042,1095.118033,-11.571009,0.370968,0.602388,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,pete-lovely,Pete Lovely,lotus,NC,49,29,1,21,954.960476,954.144708,-0.815767,0.370968,0.387283,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,denny-hulme,Denny Hulme,mclaren,DNF,47,3,1,22,1113.577261,1099.112686,-14.464575,0.322581,0.611872,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,tim-schenken,Tim Schenken,brabham,DNF,41,15,1,23,1013.772521,1004.780698,-8.991823,0.290323,0.470159,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,chris-craft,Chris Craft,brabham,DNF,30,27,1,24,980.081171,971.872947,-8.208224,0.258065,0.422229,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,henri-pescarolo,Henri Pescarolo,march,DNF,23,20,1,25,1062.693332,1046.963557,-15.729775,0.225806,0.540402,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,sam-posey,Sam Posey,surtees,DNF,15,17,1,26,1000.0,987.154375,-12.845625,0.193548,0.450461,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,nanni-galli,Nanni Galli,march,DNF,11,23,1,27,960.844122,949.139258,-11.704864,0.16129,0.395388,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,reine-wisell,Reine Wisell,lotus,DNF,5,9,1,28,1076.546042,1054.991083,-21.554959,0.129032,0.560131,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,peter-revson,Peter Revson,tyrrell,DNF,1,19,1,29,964.432932,949.253798,-15.179134,0.096774,0.400357,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,gijs-van-lennep,Gijs van Lennep,surtees,DNS,,,2,30,1013.794391,991.897774,-21.896617,0.032258,0.47019,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,mario-andretti,Mario Andretti,ferrari,DNS,,,2,31,978.690369,959.289639,-19.400731,0.032258,0.420273,50.0,32
+1971,11,1971-10-03,united-states,1971 United States Grand Prix,208,mark-donohue,Mark Donohue,mclaren,DNS,,,2,32,1024.311941,1001.660281,-22.65166,0.032258,0.485291,50.0,32

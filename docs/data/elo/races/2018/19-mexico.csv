@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,max-verstappen,Max Verstappen,red-bull,1,71,2,0,1,1284.642871,1299.940644,15.297773,1.0,0.694045,50.0,20
-2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,sebastian-vettel,Sebastian Vettel,ferrari,2,71,4,0,2,1412.735948,1419.406517,6.670569,0.947368,0.813957,50.0,20
-2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,kimi-raikkonen,Kimi Räikkönen,ferrari,3,71,6,0,3,1332.3722,1339.980784,7.608584,0.894737,0.742565,50.0,20
-2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,lewis-hamilton,Lewis Hamilton,mercedes,4,71,3,0,4,1532.792946,1530.095065,-2.69788,0.842105,0.896063,50.0,20
-2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,valtteri-bottas,Valtteri Bottas,mercedes,5,70,5,0,5,1379.125393,1379.313568,0.188175,0.789474,0.78571,50.0,20
-2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,nico-hulkenberg,Nico Hülkenberg,renault,6,69,7,0,6,1076.087493,1090.776538,14.689045,0.736842,0.443061,50.0,20
-2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,charles-leclerc,Charles Leclerc,sauber,7,69,9,0,7,999.363473,1016.223721,16.860248,0.684211,0.347006,50.0,20
-2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,stoffel-vandoorne,Stoffel Vandoorne,mclaren,8,69,15,0,8,1008.414903,1022.090648,13.675745,0.631579,0.358064,50.0,20
-2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,marcus-ericsson,Marcus Ericsson,sauber,9,69,10,0,9,1004.084395,1015.39373,11.309335,0.578947,0.352761,50.0,20
-2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,pierre-gasly,Pierre Gasly,toro-rosso,10,69,20,0,10,1019.311994,1027.052583,7.740589,0.526316,0.371504,50.0,20
-2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,esteban-ocon,Esteban Ocon,force-india,11,69,11,0,11,1098.941029,1099.01569,0.074661,0.473684,0.472191,50.0,20
-2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,lance-stroll,Lance Stroll,williams,12,69,17,0,12,988.158686,992.538084,4.379398,0.421053,0.333465,50.0,20
-2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,sergey-sirotkin,Sergey Sirotkin,williams,13,69,19,0,13,941.861004,946.300255,4.43925,0.368421,0.279636,50.0,20
-2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,brendon-hartley,Brendon Hartley,toro-rosso,14,69,14,0,14,943.591959,945.302509,1.71055,0.315789,0.281578,50.0,20
-2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,kevin-magnussen,Kevin Magnussen,haas,15,69,16,0,15,1048.026505,1040.811883,-7.214622,0.263158,0.40745,50.0,20
-2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,romain-grosjean,Romain Grosjean,haas,16,68,18,0,16,1039.427382,1030.122816,-9.304567,0.210526,0.396618,50.0,20
-2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,daniel-ricciardo,Daniel Ricciardo,red-bull,DNF,61,1,1,17,1190.784269,1169.328742,-21.455527,0.157895,0.587005,50.0,20
-2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,sergio-perez,Sergio Pérez,force-india,DNF,38,13,1,18,1169.467728,1146.682465,-22.785263,0.105263,0.560968,50.0,20
-2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,carlos-sainz-jr,Carlos Sainz Jr.,renault,DNF,28,8,1,19,1111.264595,1089.502111,-21.762484,0.052632,0.487881,50.0,20
-2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,fernando-alonso,Fernando Alonso,mclaren,DNF,3,12,1,20,1032.932964,1013.509386,-19.423578,0.0,0.388472,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,995,max-verstappen,Max Verstappen,red-bull,1,71,2,0,1,1284.642871,1299.940644,15.297773,1.0,0.694045,50.0,20
+2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,995,sebastian-vettel,Sebastian Vettel,ferrari,2,71,4,0,2,1412.735948,1419.406517,6.670569,0.947368,0.813957,50.0,20
+2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,995,kimi-raikkonen,Kimi Räikkönen,ferrari,3,71,6,0,3,1332.3722,1339.980784,7.608584,0.894737,0.742565,50.0,20
+2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,995,lewis-hamilton,Lewis Hamilton,mercedes,4,71,3,0,4,1532.792946,1530.095065,-2.69788,0.842105,0.896063,50.0,20
+2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,995,valtteri-bottas,Valtteri Bottas,mercedes,5,70,5,0,5,1379.125393,1379.313568,0.188175,0.789474,0.78571,50.0,20
+2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,995,nico-hulkenberg,Nico Hülkenberg,renault,6,69,7,0,6,1076.087493,1090.776538,14.689045,0.736842,0.443061,50.0,20
+2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,995,charles-leclerc,Charles Leclerc,sauber,7,69,9,0,7,999.363473,1016.223721,16.860248,0.684211,0.347006,50.0,20
+2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,995,stoffel-vandoorne,Stoffel Vandoorne,mclaren,8,69,15,0,8,1008.414903,1022.090648,13.675745,0.631579,0.358064,50.0,20
+2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,995,marcus-ericsson,Marcus Ericsson,sauber,9,69,10,0,9,1004.084395,1015.39373,11.309335,0.578947,0.352761,50.0,20
+2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,995,pierre-gasly,Pierre Gasly,toro-rosso,10,69,20,0,10,1019.311994,1027.052583,7.740589,0.526316,0.371504,50.0,20
+2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,995,esteban-ocon,Esteban Ocon,force-india,11,69,11,0,11,1098.941029,1099.01569,0.074661,0.473684,0.472191,50.0,20
+2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,995,lance-stroll,Lance Stroll,williams,12,69,17,0,12,988.158686,992.538084,4.379398,0.421053,0.333465,50.0,20
+2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,995,sergey-sirotkin,Sergey Sirotkin,williams,13,69,19,0,13,941.861004,946.300255,4.43925,0.368421,0.279636,50.0,20
+2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,995,brendon-hartley,Brendon Hartley,toro-rosso,14,69,14,0,14,943.591959,945.302509,1.71055,0.315789,0.281578,50.0,20
+2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,995,kevin-magnussen,Kevin Magnussen,haas,15,69,16,0,15,1048.026505,1040.811883,-7.214622,0.263158,0.40745,50.0,20
+2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,995,romain-grosjean,Romain Grosjean,haas,16,68,18,0,16,1039.427382,1030.122816,-9.304567,0.210526,0.396618,50.0,20
+2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,995,daniel-ricciardo,Daniel Ricciardo,red-bull,DNF,61,1,1,17,1190.784269,1169.328742,-21.455527,0.157895,0.587005,50.0,20
+2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,995,sergio-perez,Sergio Pérez,force-india,DNF,38,13,1,18,1169.467728,1146.682465,-22.785263,0.105263,0.560968,50.0,20
+2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,995,carlos-sainz-jr,Carlos Sainz Jr.,renault,DNF,28,8,1,19,1111.264595,1089.502111,-21.762484,0.052632,0.487881,50.0,20
+2018,19,2018-10-28,mexico,Formula 1 Gran Premio de México 2018,995,fernando-alonso,Fernando Alonso,mclaren,DNF,3,12,1,20,1032.932964,1013.509386,-19.423578,0.0,0.388472,50.0,20

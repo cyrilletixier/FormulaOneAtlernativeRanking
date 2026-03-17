@@ -1,23 +1,23 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,nico-rosberg,Nico Rosberg,mercedes,1,78,1,0,1,1135.146457,1159.242111,24.095654,1.0,0.518087,50.0,22
-2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,sebastian-vettel,Sebastian Vettel,red-bull,2,78,3,0,2,1422.927314,1428.908527,5.981213,0.952381,0.832757,50.0,22
-2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,mark-webber,Mark Webber,red-bull,3,78,4,0,3,1274.748257,1285.522452,10.774195,0.904762,0.689278,50.0,22
-2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,lewis-hamilton,Lewis Hamilton,mercedes,4,78,2,0,4,1240.000709,1250.402107,10.401398,0.857143,0.649115,50.0,22
-2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,adrian-sutil,Adrian Sutil,force-india,5,78,8,0,5,1089.705025,1107.225642,17.520617,0.809524,0.459111,50.0,22
-2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,jenson-button,Jenson Button,mclaren,6,78,9,0,6,1261.618921,1265.996688,4.377767,0.761905,0.674349,50.0,22
-2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,fernando-alonso,Fernando Alonso,ferrari,7,78,6,0,7,1363.335087,1360.001715,-3.333372,0.714286,0.780953,50.0,22
-2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,8,78,10,0,8,1004.924393,1020.688402,15.764008,0.666667,0.351387,50.0,22
-2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,paul-di-resta,Paul di Resta,force-india,9,78,17,0,9,1143.811385,1148.299878,4.488492,0.619048,0.529278,50.0,22
-2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,kimi-raikkonen,Kimi Räikkönen,lotus-f1,10,78,5,0,10,1359.893781,1349.579701,-10.31408,0.571429,0.77771,50.0,22
-2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,nico-hulkenberg,Nico Hülkenberg,sauber,11,78,11,0,11,1105.280567,1107.504088,2.223521,0.52381,0.479339,50.0,22
-2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,valtteri-bottas,Valtteri Bottas,williams,12,78,14,0,12,1011.441906,1017.280776,5.83887,0.47619,0.359413,50.0,22
-2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,esteban-gutierrez,Esteban Gutiérrez,sauber,13,78,19,0,13,995.412323,999.851867,4.439544,0.428571,0.339781,50.0,22
-2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,max-chilton,Max Chilton,marussia,14,78,22,0,14,967.099959,970.842793,3.742834,0.380952,0.306096,50.0,22
-2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,giedo-van-der-garde,Giedo van der Garde,caterham,15,78,15,0,15,958.112942,959.994461,1.881519,0.333333,0.295703,50.0,22
-2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,sergio-perez,Sergio Pérez,mclaren,16,72,7,0,16,1089.752786,1081.079829,-8.672957,0.285714,0.459173,50.0,22
-2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,romain-grosjean,Romain Grosjean,lotus-f1,DNF,63,13,1,17,1077.879208,1067.594572,-10.284637,0.238095,0.443788,50.0,22
-2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,daniel-ricciardo,Daniel Ricciardo,toro-rosso,DNF,61,12,1,18,1055.10414,1043.905206,-11.198934,0.190476,0.414455,50.0,22
-2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,jules-bianchi,Jules Bianchi,marussia,DNF,58,20,1,19,985.541716,976.290389,-9.251327,0.142857,0.327884,50.0,22
-2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,pastor-maldonado,Pastor Maldonado,williams,DNF,44,16,1,20,1006.00266,993.129045,-12.873615,0.095238,0.35271,50.0,22
-2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,felipe-massa,Felipe Massa,ferrari,DNF,28,21,1,21,1278.742643,1246.43575,-32.306892,0.047619,0.693757,50.0,22
-2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,charles-pic,Charles Pic,caterham,DNF,7,18,1,22,931.496426,918.202606,-13.293819,0.0,0.265876,50.0,22
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,884,nico-rosberg,Nico Rosberg,mercedes,1,78,1,0,1,1135.146457,1159.242111,24.095654,1.0,0.518087,50.0,22
+2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,884,sebastian-vettel,Sebastian Vettel,red-bull,2,78,3,0,2,1422.927314,1428.908527,5.981213,0.952381,0.832757,50.0,22
+2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,884,mark-webber,Mark Webber,red-bull,3,78,4,0,3,1274.748257,1285.522452,10.774195,0.904762,0.689278,50.0,22
+2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,884,lewis-hamilton,Lewis Hamilton,mercedes,4,78,2,0,4,1240.000709,1250.402107,10.401398,0.857143,0.649115,50.0,22
+2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,884,adrian-sutil,Adrian Sutil,force-india,5,78,8,0,5,1089.705025,1107.225642,17.520617,0.809524,0.459111,50.0,22
+2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,884,jenson-button,Jenson Button,mclaren,6,78,9,0,6,1261.618921,1265.996688,4.377767,0.761905,0.674349,50.0,22
+2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,884,fernando-alonso,Fernando Alonso,ferrari,7,78,6,0,7,1363.335087,1360.001715,-3.333372,0.714286,0.780953,50.0,22
+2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,884,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,8,78,10,0,8,1004.924393,1020.688402,15.764008,0.666667,0.351387,50.0,22
+2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,884,paul-di-resta,Paul di Resta,force-india,9,78,17,0,9,1143.811385,1148.299878,4.488492,0.619048,0.529278,50.0,22
+2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,884,kimi-raikkonen,Kimi Räikkönen,lotus-f1,10,78,5,0,10,1359.893781,1349.579701,-10.31408,0.571429,0.77771,50.0,22
+2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,884,nico-hulkenberg,Nico Hülkenberg,sauber,11,78,11,0,11,1105.280567,1107.504088,2.223521,0.52381,0.479339,50.0,22
+2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,884,valtteri-bottas,Valtteri Bottas,williams,12,78,14,0,12,1011.441906,1017.280776,5.83887,0.47619,0.359413,50.0,22
+2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,884,esteban-gutierrez,Esteban Gutiérrez,sauber,13,78,19,0,13,995.412323,999.851867,4.439544,0.428571,0.339781,50.0,22
+2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,884,max-chilton,Max Chilton,marussia,14,78,22,0,14,967.099959,970.842793,3.742834,0.380952,0.306096,50.0,22
+2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,884,giedo-van-der-garde,Giedo van der Garde,caterham,15,78,15,0,15,958.112942,959.994461,1.881519,0.333333,0.295703,50.0,22
+2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,884,sergio-perez,Sergio Pérez,mclaren,16,72,7,0,16,1089.752786,1081.079829,-8.672957,0.285714,0.459173,50.0,22
+2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,884,romain-grosjean,Romain Grosjean,lotus-f1,DNF,63,13,1,17,1077.879208,1067.594572,-10.284637,0.238095,0.443788,50.0,22
+2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,884,daniel-ricciardo,Daniel Ricciardo,toro-rosso,DNF,61,12,1,18,1055.10414,1043.905206,-11.198934,0.190476,0.414455,50.0,22
+2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,884,jules-bianchi,Jules Bianchi,marussia,DNF,58,20,1,19,985.541716,976.290389,-9.251327,0.142857,0.327884,50.0,22
+2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,884,pastor-maldonado,Pastor Maldonado,williams,DNF,44,16,1,20,1006.00266,993.129045,-12.873615,0.095238,0.35271,50.0,22
+2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,884,felipe-massa,Felipe Massa,ferrari,DNF,28,21,1,21,1278.742643,1246.43575,-32.306892,0.047619,0.693757,50.0,22
+2013,6,2013-05-26,monaco,Formula 1 Grand Prix de Monaco 2013,884,charles-pic,Charles Pic,caterham,DNF,7,18,1,22,931.496426,918.202606,-13.293819,0.0,0.265876,50.0,22

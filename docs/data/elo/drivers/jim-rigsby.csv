@@ -1,2 +1,2 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1952-05-30,1952,2,indianapolis,watson,Watson,12,200,33,1000.0,1007.987922,7.987922,0.65625,0.496492,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1952-05-30,1952,2,indianapolis,17,watson,Watson,12,200,33,1000.0,1007.987922,7.987922,0.65625,0.496492,50.0

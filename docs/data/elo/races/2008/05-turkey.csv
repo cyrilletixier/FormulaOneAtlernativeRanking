@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,felipe-massa,Felipe Massa,ferrari,1,58,1,0,1,1265.082326,1279.783315,14.700989,1.0,0.70598,50.0,20
-2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,2,58,3,0,2,1246.966599,1260.092021,13.125422,0.947368,0.68486,50.0,20
-2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,3,58,4,0,3,1347.526215,1352.630694,5.104479,0.894737,0.792647,50.0,20
-2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,robert-kubica,Robert Kubica,bmw-sauber,4,58,5,0,4,1188.622962,1200.093346,11.470384,0.842105,0.612698,50.0,20
-2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,nick-heidfeld,Nick Heidfeld,bmw-sauber,5,58,9,0,5,1236.880396,1242.713368,5.832972,0.789474,0.672814,50.0,20
-2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,fernando-alonso,Fernando Alonso,renault,6,58,7,0,6,1337.591315,1335.279256,-2.312059,0.736842,0.783083,50.0,20
-2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,mark-webber,Mark Webber,red-bull,7,58,6,0,7,1045.227222,1058.347574,13.120352,0.684211,0.421803,50.0,20
-2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,nico-rosberg,Nico Rosberg,williams,8,58,11,0,8,1086.482703,1094.209086,7.726383,0.631579,0.477051,50.0,20
-2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,david-coulthard,David Coulthard,red-bull,9,58,10,0,9,1047.959506,1055.635291,7.675786,0.578947,0.425432,50.0,20
-2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,jarno-trulli,Jarno Trulli,toyota,10,58,8,0,10,1101.077887,1102.557674,1.479787,0.526316,0.49672,50.0,20
-2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,jenson-button,Jenson Button,honda,11,57,13,0,11,1060.485502,1062.06302,1.577518,0.473684,0.442134,50.0,20
-2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,heikki-kovalainen,Heikki Kovalainen,mclaren,12,57,2,0,12,1153.594772,1146.296597,-7.298175,0.421053,0.567016,50.0,20
-2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,timo-glock,Timo Glock,toyota,13,57,15,0,13,1008.369191,1008.111113,-0.258078,0.368421,0.373583,50.0,20
-2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,rubens-barrichello,Rubens Barrichello,honda,14,57,12,0,14,1047.252803,1041.817644,-5.43516,0.315789,0.424493,50.0,20
-2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,nelson-piquet-jr,Nelson Piquet Jr.,renault,15,57,17,0,15,982.145103,978.285018,-3.860086,0.263158,0.34036,50.0,20
-2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,adrian-sutil,Adrian Sutil,force-india,16,57,19,0,16,892.95059,891.607794,-1.342795,0.210526,0.237382,50.0,20
-2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,sebastian-vettel,Sebastian Vettel,toro-rosso,17,57,14,0,17,928.162466,922.261308,-5.901158,0.157895,0.275918,50.0,20
-2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,sebastien-bourdais,Sébastien Bourdais,toro-rosso,DNF,24,18,1,18,982.484237,970.708284,-11.775953,0.105263,0.340782,50.0,20
-2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,kazuki-nakajima,Kazuki Nakajima,williams,DNF,1,16,1,19,1032.637398,1015.010514,-17.626884,0.052632,0.405169,50.0,20
-2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,force-india,DNF,0,20,1,20,1118.425891,1092.422167,-26.003724,0.0,0.520074,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,790,felipe-massa,Felipe Massa,ferrari,1,58,1,0,1,1265.082326,1279.783315,14.700989,1.0,0.70598,50.0,20
+2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,790,lewis-hamilton,Lewis Hamilton,mclaren,2,58,3,0,2,1246.966599,1260.092021,13.125422,0.947368,0.68486,50.0,20
+2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,790,kimi-raikkonen,Kimi Räikkönen,ferrari,3,58,4,0,3,1347.526215,1352.630694,5.104479,0.894737,0.792647,50.0,20
+2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,790,robert-kubica,Robert Kubica,bmw-sauber,4,58,5,0,4,1188.622962,1200.093346,11.470384,0.842105,0.612698,50.0,20
+2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,790,nick-heidfeld,Nick Heidfeld,bmw-sauber,5,58,9,0,5,1236.880396,1242.713368,5.832972,0.789474,0.672814,50.0,20
+2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,790,fernando-alonso,Fernando Alonso,renault,6,58,7,0,6,1337.591315,1335.279256,-2.312059,0.736842,0.783083,50.0,20
+2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,790,mark-webber,Mark Webber,red-bull,7,58,6,0,7,1045.227222,1058.347574,13.120352,0.684211,0.421803,50.0,20
+2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,790,nico-rosberg,Nico Rosberg,williams,8,58,11,0,8,1086.482703,1094.209086,7.726383,0.631579,0.477051,50.0,20
+2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,790,david-coulthard,David Coulthard,red-bull,9,58,10,0,9,1047.959506,1055.635291,7.675786,0.578947,0.425432,50.0,20
+2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,790,jarno-trulli,Jarno Trulli,toyota,10,58,8,0,10,1101.077887,1102.557674,1.479787,0.526316,0.49672,50.0,20
+2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,790,jenson-button,Jenson Button,honda,11,57,13,0,11,1060.485502,1062.06302,1.577518,0.473684,0.442134,50.0,20
+2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,790,heikki-kovalainen,Heikki Kovalainen,mclaren,12,57,2,0,12,1153.594772,1146.296597,-7.298175,0.421053,0.567016,50.0,20
+2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,790,timo-glock,Timo Glock,toyota,13,57,15,0,13,1008.369191,1008.111113,-0.258078,0.368421,0.373583,50.0,20
+2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,790,rubens-barrichello,Rubens Barrichello,honda,14,57,12,0,14,1047.252803,1041.817644,-5.43516,0.315789,0.424493,50.0,20
+2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,790,nelson-piquet-jr,Nelson Piquet Jr.,renault,15,57,17,0,15,982.145103,978.285018,-3.860086,0.263158,0.34036,50.0,20
+2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,790,adrian-sutil,Adrian Sutil,force-india,16,57,19,0,16,892.95059,891.607794,-1.342795,0.210526,0.237382,50.0,20
+2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,790,sebastian-vettel,Sebastian Vettel,toro-rosso,17,57,14,0,17,928.162466,922.261308,-5.901158,0.157895,0.275918,50.0,20
+2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,790,sebastien-bourdais,Sébastien Bourdais,toro-rosso,DNF,24,18,1,18,982.484237,970.708284,-11.775953,0.105263,0.340782,50.0,20
+2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,790,kazuki-nakajima,Kazuki Nakajima,williams,DNF,1,16,1,19,1032.637398,1015.010514,-17.626884,0.052632,0.405169,50.0,20
+2008,5,2008-05-11,turkey,2008 Formula 1 Petrol Ofisi Turkish Grand Prix,790,giancarlo-fisichella,Giancarlo Fisichella,force-india,DNF,0,20,1,20,1118.425891,1092.422167,-26.003724,0.0,0.520074,50.0,20

@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,kimi-raikkonen,Kimi Räikkönen,mclaren,1,53,17,0,1,1257.882631,1272.967371,15.08474,1.0,0.698305,50.0,20
-2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,renault,2,53,3,0,2,1145.443097,1165.142128,19.699031,0.947368,0.553388,50.0,20
-2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,fernando-alonso,Fernando Alonso,renault,3,53,16,0,3,1301.496997,1308.832519,7.335521,0.894737,0.748026,50.0,20
-2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,mark-webber,Mark Webber,williams,4,53,7,0,4,1046.868601,1068.042627,21.174025,0.842105,0.418625,50.0,20
-2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,jenson-button,Jenson Button,bar,5,53,2,0,5,1196.12387,1204.545231,8.421361,0.789474,0.621046,50.0,20
-2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,david-coulthard,David Coulthard,red-bull,6,53,6,0,6,1067.560295,1082.067941,14.507646,0.736842,0.446689,50.0,20
-2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,michael-schumacher,Michael Schumacher,ferrari,7,53,14,0,7,1282.807976,1280.654818,-2.153158,0.684211,0.727274,50.0,20
-2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,ralf-schumacher,Ralf Schumacher,toyota,8,53,1,0,8,1187.383491,1188.482772,1.099281,0.631579,0.609593,50.0,20
-2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,christian-klien,Christian Klien,red-bull,9,53,4,0,9,1020.322697,1030.108785,9.786088,0.578947,0.383226,50.0,20
-2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,felipe-massa,Felipe Massa,sauber,10,53,10,0,10,1068.038952,1071.987642,3.94869,0.526316,0.447342,50.0,20
-2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,rubens-barrichello,Rubens Barrichello,ferrari,11,53,9,0,11,1236.894501,1226.935871,-9.95863,0.473684,0.672857,50.0,20
-2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,jacques-villeneuve,Jacques Villeneuve,sauber,12,53,8,0,12,1050.31862,1050.207246,-0.111374,0.421053,0.42328,50.0,20
-2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,tiago-monteiro,Tiago Monteiro,jordan,13,52,20,0,13,998.069627,998.77717,0.707544,0.368421,0.35427,50.0,20
-2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,robert-doornbos,Robert Doornbos,minardi,14,51,15,0,14,959.222124,959.722435,0.50031,0.315789,0.305783,50.0,20
-2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,narain-karthikeyan,Narain Karthikeyan,jordan,15,51,11,0,15,952.860861,951.112058,-1.748802,0.263158,0.298134,50.0,20
-2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,christijan-albers,Christijan Albers,minardi,16,49,13,0,16,958.922681,954.177936,-4.744745,0.210526,0.305421,50.0,20
-2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,jarno-trulli,Jarno Trulli,toyota,DNF,9,PL,1,17,1156.634478,1136.101527,-20.532951,0.157895,0.568554,50.0,20
-2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,antonio-pizzonia,Antônio Pizzonia,williams,NC,9,12,1,18,1007.869913,994.78659,-13.083323,0.105263,0.36693,50.0,20
-2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,juan-pablo-montoya,Juan Pablo Montoya,mclaren,DNF,0,18,1,19,1216.204043,1186.489526,-29.714517,0.052632,0.646922,50.0,20
-2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,takuma-sato,Takuma Sato,bar,DSQ,52,5,2,20,1036.224309,1016.007572,-20.216737,0.0,0.404335,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,749,kimi-raikkonen,Kimi Räikkönen,mclaren,1,53,17,0,1,1257.882631,1272.967371,15.08474,1.0,0.698305,50.0,20
+2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,749,giancarlo-fisichella,Giancarlo Fisichella,renault,2,53,3,0,2,1145.443097,1165.142128,19.699031,0.947368,0.553388,50.0,20
+2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,749,fernando-alonso,Fernando Alonso,renault,3,53,16,0,3,1301.496997,1308.832519,7.335521,0.894737,0.748026,50.0,20
+2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,749,mark-webber,Mark Webber,williams,4,53,7,0,4,1046.868601,1068.042627,21.174025,0.842105,0.418625,50.0,20
+2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,749,jenson-button,Jenson Button,bar,5,53,2,0,5,1196.12387,1204.545231,8.421361,0.789474,0.621046,50.0,20
+2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,749,david-coulthard,David Coulthard,red-bull,6,53,6,0,6,1067.560295,1082.067941,14.507646,0.736842,0.446689,50.0,20
+2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,749,michael-schumacher,Michael Schumacher,ferrari,7,53,14,0,7,1282.807976,1280.654818,-2.153158,0.684211,0.727274,50.0,20
+2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,749,ralf-schumacher,Ralf Schumacher,toyota,8,53,1,0,8,1187.383491,1188.482772,1.099281,0.631579,0.609593,50.0,20
+2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,749,christian-klien,Christian Klien,red-bull,9,53,4,0,9,1020.322697,1030.108785,9.786088,0.578947,0.383226,50.0,20
+2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,749,felipe-massa,Felipe Massa,sauber,10,53,10,0,10,1068.038952,1071.987642,3.94869,0.526316,0.447342,50.0,20
+2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,749,rubens-barrichello,Rubens Barrichello,ferrari,11,53,9,0,11,1236.894501,1226.935871,-9.95863,0.473684,0.672857,50.0,20
+2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,749,jacques-villeneuve,Jacques Villeneuve,sauber,12,53,8,0,12,1050.31862,1050.207246,-0.111374,0.421053,0.42328,50.0,20
+2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,749,tiago-monteiro,Tiago Monteiro,jordan,13,52,20,0,13,998.069627,998.77717,0.707544,0.368421,0.35427,50.0,20
+2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,749,robert-doornbos,Robert Doornbos,minardi,14,51,15,0,14,959.222124,959.722435,0.50031,0.315789,0.305783,50.0,20
+2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,749,narain-karthikeyan,Narain Karthikeyan,jordan,15,51,11,0,15,952.860861,951.112058,-1.748802,0.263158,0.298134,50.0,20
+2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,749,christijan-albers,Christijan Albers,minardi,16,49,13,0,16,958.922681,954.177936,-4.744745,0.210526,0.305421,50.0,20
+2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,749,jarno-trulli,Jarno Trulli,toyota,DNF,9,PL,1,17,1156.634478,1136.101527,-20.532951,0.157895,0.568554,50.0,20
+2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,749,antonio-pizzonia,Antônio Pizzonia,williams,NC,9,12,1,18,1007.869913,994.78659,-13.083323,0.105263,0.36693,50.0,20
+2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,749,juan-pablo-montoya,Juan Pablo Montoya,mclaren,DNF,0,18,1,19,1216.204043,1186.489526,-29.714517,0.052632,0.646922,50.0,20
+2005,18,2005-10-09,japan,2005 Formula 1 Fuji Television Japanese Grand Prix,749,takuma-sato,Takuma Sato,bar,DSQ,52,5,2,20,1036.224309,1016.007572,-20.216737,0.0,0.404335,50.0,20

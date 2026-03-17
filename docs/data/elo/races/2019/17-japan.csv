@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,valtteri-bottas,Valtteri Bottas,mercedes,1,52,3,0,1,1425.433068,1434.60071,9.167642,1.0,0.816647,50.0,20
-2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,sebastian-vettel,Sebastian Vettel,ferrari,2,52,1,0,2,1377.390626,1385.957566,8.56694,0.947368,0.77603,50.0,20
-2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,lewis-hamilton,Lewis Hamilton,mercedes,3,52,4,0,3,1564.894081,1564.239521,-0.65456,0.894737,0.907828,50.0,20
-2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,alexander-albon,Alexander Albon,red-bull,4,52,6,0,4,1113.627499,1131.887329,18.25983,0.842105,0.476909,50.0,20
-2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,5,52,7,0,5,1119.562337,1134.808745,15.246408,0.789474,0.484546,50.0,20
-2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,charles-leclerc,Charles Leclerc,ferrari,6,51,2,0,6,1255.873607,1260.114819,4.241212,0.736842,0.652018,50.0,20
-2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,pierre-gasly,Pierre Gasly,toro-rosso,7,51,9,0,7,1126.476769,1136.015732,9.538964,0.684211,0.493431,50.0,20
-2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,sergio-perez,Sergio Pérez,racing-point,8,51,17,0,8,1106.367958,1114.56894,8.200982,0.631579,0.467559,50.0,20
-2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,lance-stroll,Lance Stroll,racing-point,9,51,12,0,9,1034.938666,1045.070791,10.132125,0.578947,0.376305,50.0,20
-2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,daniil-kvyat,Daniil Kvyat,toro-rosso,10,51,14,0,10,1045.09926,1051.960292,6.861032,0.526316,0.389095,50.0,20
-2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,lando-norris,Lando Norris,mclaren,11,51,8,0,11,1069.715879,1072.378856,2.662977,0.473684,0.420425,50.0,20
-2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,12,51,13,0,12,1154.751135,1149.326809,-5.424326,0.421053,0.529539,50.0,20
-2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,romain-grosjean,Romain Grosjean,haas,13,51,10,0,13,976.404387,979.568401,3.164013,0.368421,0.305141,50.0,20
-2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,14,51,11,0,14,981.770341,981.987593,0.217252,0.315789,0.311444,50.0,20
-2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,kevin-magnussen,Kevin Magnussen,haas,15,51,19,0,15,1016.550782,1012.036816,-4.513966,0.263158,0.353437,50.0,20
-2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,george-russell,George Russell,williams,16,50,18,0,16,936.154364,933.69866,-2.455704,0.210526,0.25964,50.0,20
-2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,robert-kubica,Robert Kubica,williams,17,50,PL,0,17,988.153734,980.098033,-8.055701,0.157895,0.319009,50.0,20
-2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,max-verstappen,Max Verstappen,red-bull,DNF,14,5,1,18,1361.104626,1328.310075,-32.794551,0.105263,0.761154,50.0,20
-2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,daniel-ricciardo,Daniel Ricciardo,renault,DSQ,51,16,2,19,1092.782069,1071.594959,-21.18711,0.026316,0.450058,50.0,20
-2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,nico-hulkenberg,Nico Hülkenberg,renault,DSQ,51,15,2,20,1092.570027,1071.396569,-21.173458,0.026316,0.449785,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,1014,valtteri-bottas,Valtteri Bottas,mercedes,1,52,3,0,1,1425.433068,1434.60071,9.167642,1.0,0.816647,50.0,20
+2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,1014,sebastian-vettel,Sebastian Vettel,ferrari,2,52,1,0,2,1377.390626,1385.957566,8.56694,0.947368,0.77603,50.0,20
+2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,1014,lewis-hamilton,Lewis Hamilton,mercedes,3,52,4,0,3,1564.894081,1564.239521,-0.65456,0.894737,0.907828,50.0,20
+2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,1014,alexander-albon,Alexander Albon,red-bull,4,52,6,0,4,1113.627499,1131.887329,18.25983,0.842105,0.476909,50.0,20
+2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,1014,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,5,52,7,0,5,1119.562337,1134.808745,15.246408,0.789474,0.484546,50.0,20
+2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,1014,charles-leclerc,Charles Leclerc,ferrari,6,51,2,0,6,1255.873607,1260.114819,4.241212,0.736842,0.652018,50.0,20
+2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,1014,pierre-gasly,Pierre Gasly,toro-rosso,7,51,9,0,7,1126.476769,1136.015732,9.538964,0.684211,0.493431,50.0,20
+2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,1014,sergio-perez,Sergio Pérez,racing-point,8,51,17,0,8,1106.367958,1114.56894,8.200982,0.631579,0.467559,50.0,20
+2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,1014,lance-stroll,Lance Stroll,racing-point,9,51,12,0,9,1034.938666,1045.070791,10.132125,0.578947,0.376305,50.0,20
+2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,1014,daniil-kvyat,Daniil Kvyat,toro-rosso,10,51,14,0,10,1045.09926,1051.960292,6.861032,0.526316,0.389095,50.0,20
+2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,1014,lando-norris,Lando Norris,mclaren,11,51,8,0,11,1069.715879,1072.378856,2.662977,0.473684,0.420425,50.0,20
+2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,1014,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,12,51,13,0,12,1154.751135,1149.326809,-5.424326,0.421053,0.529539,50.0,20
+2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,1014,romain-grosjean,Romain Grosjean,haas,13,51,10,0,13,976.404387,979.568401,3.164013,0.368421,0.305141,50.0,20
+2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,1014,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,14,51,11,0,14,981.770341,981.987593,0.217252,0.315789,0.311444,50.0,20
+2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,1014,kevin-magnussen,Kevin Magnussen,haas,15,51,19,0,15,1016.550782,1012.036816,-4.513966,0.263158,0.353437,50.0,20
+2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,1014,george-russell,George Russell,williams,16,50,18,0,16,936.154364,933.69866,-2.455704,0.210526,0.25964,50.0,20
+2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,1014,robert-kubica,Robert Kubica,williams,17,50,PL,0,17,988.153734,980.098033,-8.055701,0.157895,0.319009,50.0,20
+2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,1014,max-verstappen,Max Verstappen,red-bull,DNF,14,5,1,18,1361.104626,1328.310075,-32.794551,0.105263,0.761154,50.0,20
+2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,1014,daniel-ricciardo,Daniel Ricciardo,renault,DSQ,51,16,2,19,1092.782069,1071.594959,-21.18711,0.026316,0.450058,50.0,20
+2019,17,2019-10-13,japan,Formula 1 Japanese Grand Prix 2019,1014,nico-hulkenberg,Nico Hülkenberg,renault,DSQ,51,15,2,20,1092.570027,1071.396569,-21.173458,0.026316,0.449785,50.0,20

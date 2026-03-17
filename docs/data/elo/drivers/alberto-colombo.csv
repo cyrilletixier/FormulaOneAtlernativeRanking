@@ -1,4 +1,4 @@
-date,year,round,grandPrixId,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1978-05-21,1978,6,belgium,ats-wheels,ATS,DNQ,,32,1000.0,982.216038,-17.783962,0.048387,0.404066,50.0
-1978-06-04,1978,7,spain,ats-wheels,ATS,DNQ,,29,982.216038,966.45251,-15.763528,0.053571,0.368842,50.0
-1978-09-10,1978,14,italy,merzario,Merzario,DNPQ,,31,966.45251,956.390754,-10.061756,0.15,0.351235,50.0
+date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1978-05-21,1978,6,belgium,303,ats-wheels,ATS,DNQ,,32,1000.0,982.216038,-17.783962,0.048387,0.404066,50.0
+1978-06-04,1978,7,spain,304,ats-wheels,ATS,DNQ,,29,982.216038,966.45251,-15.763528,0.053571,0.368842,50.0
+1978-09-10,1978,14,italy,311,merzario,Merzario,DNPQ,,31,966.45251,956.390754,-10.061756,0.15,0.351235,50.0

@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,max-verstappen,Max Verstappen,red-bull,1,78,1,0,1,1503.563082,1510.041968,6.478886,1.0,0.870422,50.0,20
-2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,fernando-alonso,Fernando Alonso,aston-martin,2,78,2,0,2,1215.01262,1232.923353,17.910732,0.947368,0.589154,50.0,20
-2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,esteban-ocon,Esteban Ocon,alpine,3,78,3,0,3,1157.511264,1176.400747,18.889483,0.894737,0.516947,50.0,20
-2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,lewis-hamilton,Lewis Hamilton,mercedes,4,78,5,0,4,1413.958613,1415.989438,2.030824,0.842105,0.801489,50.0,20
-2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,george-russell,George Russell,mercedes,5,78,8,0,5,1267.598644,1274.469396,6.870752,0.789474,0.652059,50.0,20
-2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,charles-leclerc,Charles Leclerc,ferrari,6,78,6,0,6,1284.94771,1288.194299,3.246588,0.736842,0.67191,50.0,20
-2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,pierre-gasly,Pierre Gasly,alpine,7,78,7,0,7,1104.895538,1116.628517,11.732979,0.684211,0.449551,50.0,20
-2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,8,78,4,0,8,1280.826208,1279.043174,-1.783035,0.631579,0.66724,50.0,20
-2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,lando-norris,Lando Norris,mclaren,9,77,10,0,9,1170.566721,1172.836432,2.269711,0.578947,0.533553,50.0,20
-2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,oscar-piastri,Oscar Piastri,mclaren,10,77,11,0,10,993.26622,1004.012947,10.746727,0.526316,0.311381,50.0,20
-2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,valtteri-bottas,Valtteri Bottas,alfa-romeo,11,77,15,0,11,1080.170505,1082.954486,2.783981,0.473684,0.418005,50.0,20
-2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,nyck-de-vries,Nyck de Vries,alphatauri,12,77,12,0,12,981.363006,987.535238,6.172232,0.421053,0.297608,50.0,20
-2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,guanyu-zhou,Guanyu Zhou,alfa-romeo,13,77,19,0,13,986.962278,990.180559,3.218281,0.368421,0.304055,50.0,20
-2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,alexander-albon,Alexander Albon,williams,14,77,13,0,14,1029.579489,1027.627965,-1.951525,0.315789,0.35482,50.0,20
-2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,yuki-tsunoda,Yuki Tsunoda,alphatauri,15,76,9,0,15,1022.210121,1018.075579,-4.134543,0.263158,0.345849,50.0,20
-2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,sergio-perez,Sergio Pérez,red-bull,16,76,20,0,16,1388.68298,1360.267539,-28.41544,0.210526,0.778835,50.0,20
-2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,nico-hulkenberg,Nico Hülkenberg,haas,17,76,18,0,17,1057.085606,1045.536512,-11.549094,0.157895,0.388877,50.0,20
-2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,logan-sargeant,Logan Sargeant,williams,18,76,16,0,18,973.945198,964.750556,-9.194642,0.105263,0.289156,50.0,20
-2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,kevin-magnussen,Kevin Magnussen,haas,19,70,17,0,19,986.804253,974.242197,-12.562056,0.052632,0.303873,50.0,20
-2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,lance-stroll,Lance Stroll,aston-martin,DNF,53,14,1,20,1109.31864,1086.557798,-22.760842,0.0,0.455217,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,1085,max-verstappen,Max Verstappen,red-bull,1,78,1,0,1,1503.563082,1510.041968,6.478886,1.0,0.870422,50.0,20
+2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,1085,fernando-alonso,Fernando Alonso,aston-martin,2,78,2,0,2,1215.01262,1232.923353,17.910732,0.947368,0.589154,50.0,20
+2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,1085,esteban-ocon,Esteban Ocon,alpine,3,78,3,0,3,1157.511264,1176.400747,18.889483,0.894737,0.516947,50.0,20
+2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,1085,lewis-hamilton,Lewis Hamilton,mercedes,4,78,5,0,4,1413.958613,1415.989438,2.030824,0.842105,0.801489,50.0,20
+2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,1085,george-russell,George Russell,mercedes,5,78,8,0,5,1267.598644,1274.469396,6.870752,0.789474,0.652059,50.0,20
+2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,1085,charles-leclerc,Charles Leclerc,ferrari,6,78,6,0,6,1284.94771,1288.194299,3.246588,0.736842,0.67191,50.0,20
+2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,1085,pierre-gasly,Pierre Gasly,alpine,7,78,7,0,7,1104.895538,1116.628517,11.732979,0.684211,0.449551,50.0,20
+2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,1085,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,8,78,4,0,8,1280.826208,1279.043174,-1.783035,0.631579,0.66724,50.0,20
+2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,1085,lando-norris,Lando Norris,mclaren,9,77,10,0,9,1170.566721,1172.836432,2.269711,0.578947,0.533553,50.0,20
+2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,1085,oscar-piastri,Oscar Piastri,mclaren,10,77,11,0,10,993.26622,1004.012947,10.746727,0.526316,0.311381,50.0,20
+2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,1085,valtteri-bottas,Valtteri Bottas,alfa-romeo,11,77,15,0,11,1080.170505,1082.954486,2.783981,0.473684,0.418005,50.0,20
+2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,1085,nyck-de-vries,Nyck de Vries,alphatauri,12,77,12,0,12,981.363006,987.535238,6.172232,0.421053,0.297608,50.0,20
+2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,1085,guanyu-zhou,Guanyu Zhou,alfa-romeo,13,77,19,0,13,986.962278,990.180559,3.218281,0.368421,0.304055,50.0,20
+2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,1085,alexander-albon,Alexander Albon,williams,14,77,13,0,14,1029.579489,1027.627965,-1.951525,0.315789,0.35482,50.0,20
+2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,1085,yuki-tsunoda,Yuki Tsunoda,alphatauri,15,76,9,0,15,1022.210121,1018.075579,-4.134543,0.263158,0.345849,50.0,20
+2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,1085,sergio-perez,Sergio Pérez,red-bull,16,76,20,0,16,1388.68298,1360.267539,-28.41544,0.210526,0.778835,50.0,20
+2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,1085,nico-hulkenberg,Nico Hülkenberg,haas,17,76,18,0,17,1057.085606,1045.536512,-11.549094,0.157895,0.388877,50.0,20
+2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,1085,logan-sargeant,Logan Sargeant,williams,18,76,16,0,18,973.945198,964.750556,-9.194642,0.105263,0.289156,50.0,20
+2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,1085,kevin-magnussen,Kevin Magnussen,haas,19,70,17,0,19,986.804253,974.242197,-12.562056,0.052632,0.303873,50.0,20
+2023,6,2023-05-28,monaco,Formula 1 Grand Prix de Monaco 2023,1085,lance-stroll,Lance Stroll,aston-martin,DNF,53,14,1,20,1109.31864,1086.557798,-22.760842,0.0,0.455217,50.0,20

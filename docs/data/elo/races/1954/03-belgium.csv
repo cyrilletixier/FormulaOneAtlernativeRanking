@@ -1,15 +1,15 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,juan-manuel-fangio,Juan Manuel Fangio,maserati,1,36,1,0,1,1176.505629,1192.053306,15.547677,1.0,0.689046,50.0,14
-1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,maurice-trintignant,Maurice Trintignant,ferrari,2,36,6,0,2,998.896024,1023.264293,24.36827,0.923077,0.435712,50.0,14
-1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,stirling-moss,Stirling Moss,maserati,3,35,9,0,3,997.312443,1017.950176,20.637733,0.846154,0.433399,50.0,14
-1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,jose-froilan-gonzalez,José Froilán González,ferrari,4,,,0,4,1140.431131,1144.923412,4.492281,0.730769,0.640924,50.0,14
-1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,mike-hawthorn,Mike Hawthorn,ferrari,4,35,5,0,5,1124.46533,1130.064951,5.599621,0.730769,0.618777,50.0,14
-1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,andre-pilette,André Pilette,gordini,5,35,8,0,6,1007.942508,1016.263802,8.321294,0.615385,0.448959,50.0,14
-1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,birabongse-bhanudej,Birabongse Bhanudej,maserati,6,35,13,0,7,1012.526173,1016.664657,4.138484,0.538462,0.455692,50.0,14
-1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,sergio-mantovani,Sergio Mantovani,maserati,7,34,11,0,8,1015.251661,1015.343533,0.091873,0.461538,0.459701,50.0,14
-1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,nino-farina,Nino Farina,ferrari,DNF,14,3,1,9,1212.08375,1192.720319,-19.363431,0.346154,0.733422,50.0,14
-1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,paul-frere,Paul Frère,gordini,DNF,14,10,1,10,980.711456,977.553934,-3.157522,0.346154,0.409304,50.0,14
-1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,jean-behra,Jean Behra,gordini,DNF,12,7,1,11,979.803554,970.942253,-8.861301,0.230769,0.407995,50.0,14
-1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,onofre-marimon,Onofre Marimón,maserati,DNF,3,4,1,12,998.819962,984.732249,-14.087713,0.153846,0.4356,50.0,14
-1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,jacques-swaters,Jacques Swaters,ferrari,DNF,1,14,1,13,980.442422,963.842762,-16.59966,0.076923,0.408916,50.0,14
-1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,roberto-mieres,Roberto Mieres,maserati,DNF,0,12,1,14,989.863111,968.735508,-21.127603,0.0,0.422552,50.0,14
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,35,juan-manuel-fangio,Juan Manuel Fangio,maserati,1,36,1,0,1,1176.505629,1192.053306,15.547677,1.0,0.689046,50.0,14
+1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,35,maurice-trintignant,Maurice Trintignant,ferrari,2,36,6,0,2,998.896024,1023.264293,24.36827,0.923077,0.435712,50.0,14
+1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,35,stirling-moss,Stirling Moss,maserati,3,35,9,0,3,997.312443,1017.950176,20.637733,0.846154,0.433399,50.0,14
+1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,35,jose-froilan-gonzalez,José Froilán González,ferrari,4,,,0,4,1140.431131,1144.923412,4.492281,0.730769,0.640924,50.0,14
+1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,35,mike-hawthorn,Mike Hawthorn,ferrari,4,35,5,0,5,1124.46533,1130.064951,5.599621,0.730769,0.618777,50.0,14
+1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,35,andre-pilette,André Pilette,gordini,5,35,8,0,6,1007.942508,1016.263802,8.321294,0.615385,0.448959,50.0,14
+1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,35,birabongse-bhanudej,Birabongse Bhanudej,maserati,6,35,13,0,7,1012.526173,1016.664657,4.138484,0.538462,0.455692,50.0,14
+1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,35,sergio-mantovani,Sergio Mantovani,maserati,7,34,11,0,8,1015.251661,1015.343533,0.091873,0.461538,0.459701,50.0,14
+1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,35,nino-farina,Nino Farina,ferrari,DNF,14,3,1,9,1212.08375,1192.720319,-19.363431,0.346154,0.733422,50.0,14
+1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,35,paul-frere,Paul Frère,gordini,DNF,14,10,1,10,980.711456,977.553934,-3.157522,0.346154,0.409304,50.0,14
+1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,35,jean-behra,Jean Behra,gordini,DNF,12,7,1,11,979.803554,970.942253,-8.861301,0.230769,0.407995,50.0,14
+1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,35,onofre-marimon,Onofre Marimón,maserati,DNF,3,4,1,12,998.819962,984.732249,-14.087713,0.153846,0.4356,50.0,14
+1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,35,jacques-swaters,Jacques Swaters,ferrari,DNF,1,14,1,13,980.442422,963.842762,-16.59966,0.076923,0.408916,50.0,14
+1954,3,1954-06-20,belgium,1954 Belgian Grand Prix,35,roberto-mieres,Roberto Mieres,maserati,DNF,0,12,1,14,989.863111,968.735508,-21.127603,0.0,0.422552,50.0,14

@@ -1,28 +1,28 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,clay-regazzoni,Clay Regazzoni,ferrari,1,68,3,0,1,1066.669453,1090.091094,23.421641,1.0,0.531567,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,jackie-stewart,Jackie Stewart,march,2,68,4,0,2,1157.30141,1172.550144,15.248734,0.961538,0.656564,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,3,68,14,0,3,1111.012151,1127.461373,16.449221,0.923077,0.594092,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,denny-hulme,Denny Hulme,mclaren,4,68,9,0,4,1176.066919,1186.262871,10.195952,0.884615,0.680696,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,rolf-stommelen,Rolf Stommelen,brabham,5,68,17,0,5,1029.426543,1047.820032,18.393489,0.846154,0.478284,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,francois-cevert,François Cevert,march,6,68,11,0,6,1010.286555,1028.121075,17.834521,0.807692,0.451002,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,chris-amon,Chris Amon,march,7,67,18,0,7,1083.203953,1093.911403,10.70745,0.769231,0.555082,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,andrea-de-adamich,Andrea de Adamich,mclaren,8,61,12,0,8,924.970822,944.788837,19.818015,0.730769,0.334409,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,peter-gethin,Peter Gethin,mclaren,NC,60,16,1,9,987.843907,1001.49171,13.647803,0.692308,0.419352,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,jackie-oliver,Jackie Oliver,brm,DNF,36,6,1,10,956.654646,970.528415,13.873769,0.653846,0.376371,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,ronnie-peterson,Ronnie Peterson,march,DNF,35,13,1,11,1022.798474,1030.126902,7.328429,0.615385,0.468816,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,jack-brabham,Jack Brabham,brabham,DNF,31,8,1,12,1128.929374,1126.840161,-2.089213,0.576923,0.618707,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,jacky-ickx,Jacky Ickx,ferrari,DNF,25,1,1,13,1120.446299,1117.013716,-3.432583,0.538462,0.607113,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,george-eaton,George Eaton,brm,DNF,21,20,1,14,966.048182,971.589948,5.541767,0.5,0.389165,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,tim-schenken,Tim Schenken,de-tomaso,DNF,17,19,1,15,990.930087,992.82328,1.893193,0.461538,0.423675,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,henri-pescarolo,Henri Pescarolo,matra,DNF,14,15,1,16,1085.409575,1077.691682,-7.717893,0.403846,0.558204,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,ignazio-giunti,Ignazio Giunti,ferrari,DNF,14,5,1,17,1030.867017,1027.042135,-3.824881,0.403846,0.480344,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,pedro-rodriguez,Pedro Rodríguez,brm,DNF,12,2,1,18,1103.65478,1091.769727,-11.885053,0.346154,0.583855,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,jo-siffert,Jo Siffert,march,DNF,3,7,1,19,1050.106381,1040.09671,-10.009671,0.307692,0.507886,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,john-surtees,John Surtees,surtees,DNF,0,10,1,20,1039.589548,1028.409769,-11.179778,0.269231,0.492826,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,jo-bonnier,Jo Bonnier,mclaren,DNQ,,,2,21,986.153411,974.919382,-11.234029,0.192308,0.416988,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,nanni-galli,Nanni Galli,mclaren,DNQ,,,2,22,1000.0,987.793523,-12.206477,0.192308,0.436437,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,silvio-moser,Silvio Moser,bellasi,DNQ,,,2,23,899.721276,894.210607,-5.510669,0.192308,0.302521,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,emerson-fittipaldi,Emerson Fittipaldi,lotus,DNS,,,2,24,1029.612701,1008.569806,-21.042895,0.057692,0.47855,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,graham-hill,Graham Hill,lotus,DNS,,,2,25,1159.011365,1128.956241,-30.055124,0.057692,0.658795,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,jochen-rindt,Jochen Rindt,lotus,DNS,,,2,26,1127.927497,1099.944911,-27.982586,0.057692,0.617344,50.0,27
-1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,john-miles,John Miles,lotus,DNS,,,2,27,960.326718,944.143588,-16.183129,0.057692,0.381355,50.0,27
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,clay-regazzoni,Clay Regazzoni,ferrari,1,68,3,0,1,1066.669453,1090.091094,23.421641,1.0,0.531567,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,jackie-stewart,Jackie Stewart,march,2,68,4,0,2,1157.30141,1172.550144,15.248734,0.961538,0.656564,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,3,68,14,0,3,1111.012151,1127.461373,16.449221,0.923077,0.594092,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,denny-hulme,Denny Hulme,mclaren,4,68,9,0,4,1176.066919,1186.262871,10.195952,0.884615,0.680696,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,rolf-stommelen,Rolf Stommelen,brabham,5,68,17,0,5,1029.426543,1047.820032,18.393489,0.846154,0.478284,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,francois-cevert,François Cevert,march,6,68,11,0,6,1010.286555,1028.121075,17.834521,0.807692,0.451002,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,chris-amon,Chris Amon,march,7,67,18,0,7,1083.203953,1093.911403,10.70745,0.769231,0.555082,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,andrea-de-adamich,Andrea de Adamich,mclaren,8,61,12,0,8,924.970822,944.788837,19.818015,0.730769,0.334409,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,peter-gethin,Peter Gethin,mclaren,NC,60,16,1,9,987.843907,1001.49171,13.647803,0.692308,0.419352,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,jackie-oliver,Jackie Oliver,brm,DNF,36,6,1,10,956.654646,970.528415,13.873769,0.653846,0.376371,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,ronnie-peterson,Ronnie Peterson,march,DNF,35,13,1,11,1022.798474,1030.126902,7.328429,0.615385,0.468816,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,jack-brabham,Jack Brabham,brabham,DNF,31,8,1,12,1128.929374,1126.840161,-2.089213,0.576923,0.618707,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,jacky-ickx,Jacky Ickx,ferrari,DNF,25,1,1,13,1120.446299,1117.013716,-3.432583,0.538462,0.607113,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,george-eaton,George Eaton,brm,DNF,21,20,1,14,966.048182,971.589948,5.541767,0.5,0.389165,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,tim-schenken,Tim Schenken,de-tomaso,DNF,17,19,1,15,990.930087,992.82328,1.893193,0.461538,0.423675,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,henri-pescarolo,Henri Pescarolo,matra,DNF,14,15,1,16,1085.409575,1077.691682,-7.717893,0.403846,0.558204,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,ignazio-giunti,Ignazio Giunti,ferrari,DNF,14,5,1,17,1030.867017,1027.042135,-3.824881,0.403846,0.480344,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,pedro-rodriguez,Pedro Rodríguez,brm,DNF,12,2,1,18,1103.65478,1091.769727,-11.885053,0.346154,0.583855,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,jo-siffert,Jo Siffert,march,DNF,3,7,1,19,1050.106381,1040.09671,-10.009671,0.307692,0.507886,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,john-surtees,John Surtees,surtees,DNF,0,10,1,20,1039.589548,1028.409769,-11.179778,0.269231,0.492826,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,jo-bonnier,Jo Bonnier,mclaren,DNQ,,,2,21,986.153411,974.919382,-11.234029,0.192308,0.416988,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,nanni-galli,Nanni Galli,mclaren,DNQ,,,2,22,1000.0,987.793523,-12.206477,0.192308,0.436437,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,silvio-moser,Silvio Moser,bellasi,DNQ,,,2,23,899.721276,894.210607,-5.510669,0.192308,0.302521,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,emerson-fittipaldi,Emerson Fittipaldi,lotus,DNS,,,2,24,1029.612701,1008.569806,-21.042895,0.057692,0.47855,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,graham-hill,Graham Hill,lotus,DNS,,,2,25,1159.011365,1128.956241,-30.055124,0.057692,0.658795,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,jochen-rindt,Jochen Rindt,lotus,DNS,,,2,26,1127.927497,1099.944911,-27.982586,0.057692,0.617344,50.0,27
+1970,10,1970-09-06,italy,Gran Premio d'Italia 1970,194,john-miles,John Miles,lotus,DNS,,,2,27,960.326718,944.143588,-16.183129,0.057692,0.381355,50.0,27

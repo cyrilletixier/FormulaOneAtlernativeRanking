@@ -1,19 +1,19 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,nino-farina,Nino Farina,alfa-romeo,1,42,2,0,1,1013.327315,1037.765007,24.437691,1.0,0.511246,50.0,18
-1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,luigi-fagioli,Luigi Fagioli,alfa-romeo,2,42,3,0,2,1011.22553,1032.881919,21.656389,0.941176,0.508049,50.0,18
-1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,louis-rosier,Louis Rosier,talbot-lago,3,41,10,0,3,1004.920883,1024.115794,19.194911,0.882353,0.498455,50.0,18
-1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,birabongse-bhanudej,Birabongse Bhanudej,maserati,4,40,8,0,4,1008.908652,1024.858958,15.950306,0.823529,0.504523,50.0,18
-1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,felice-bonetto,Felice Bonetto,maserati,5,40,12,0,5,1000.0,1013.686952,13.686952,0.764706,0.490967,50.0,18
-1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,emmanuel-de-graffenried,Emmanuel de Graffenried,maserati,6,40,11,0,6,977.604441,990.049615,12.445175,0.705882,0.456979,50.0,18
-1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,nello-pagani,Nello Pagani,maserati,7,39,15,0,7,1000.0,1007.804599,7.804599,0.647059,0.490967,50.0,18
-1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,harry-schell,Harry Schell,talbot-lago,8,39,18,0,8,990.212307,995.819717,5.60741,0.588235,0.476087,50.0,18
-1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,louis-chiron,Louis Chiron,maserati,9,39,16,0,9,1005.502845,1007.006415,1.503571,0.529412,0.49934,50.0,18
-1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,johnny-claes,Johnny Claes,talbot-lago,10,39,14,0,10,1010.212307,1008.416367,-1.795939,0.470588,0.506507,50.0,18
-1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,toni-branca,Toni Branca,maserati,11,35,17,0,11,1000.0,996.039893,-3.960107,0.411765,0.490967,50.0,18
-1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,juan-manuel-fangio,Juan Manuel Fangio,alfa-romeo,DNF,33,1,1,12,1023.111126,1014.452386,-8.658741,0.352941,0.526116,50.0,18
-1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,philippe-etancelin,Philippe Étancelin,talbot-lago,DNF,25,6,1,13,1013.616994,1002.738536,-10.878458,0.294118,0.511687,50.0,18
-1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,eugene-martin,Eugène Martin,talbot-lago,DNF,19,9,1,14,981.818182,968.944546,-12.873636,0.205882,0.463355,50.0,18
-1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,raymond-sommer,Raymond Sommer,ferrari,DNF,19,13,1,15,1017.712307,1002.110712,-15.601594,0.205882,0.517914,50.0,18
-1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,luigi-villoresi,Luigi Villoresi,ferrari,DNF,9,4,1,16,1007.712307,988.459522,-19.252785,0.117647,0.502703,50.0,18
-1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,alberto-ascari,Alberto Ascari,ferrari,DNF,4,5,1,17,1022.712307,999.377958,-23.334348,0.058824,0.52551,50.0,18
-1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,yves-giraud-cabantous,Yves Giraud-Cabantous,talbot-lago,DNF,0,7,1,18,1018.181818,992.250423,-25.931396,0.0,0.518628,50.0,18
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,4,nino-farina,Nino Farina,alfa-romeo,1,42,2,0,1,1013.327315,1037.765007,24.437691,1.0,0.511246,50.0,18
+1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,4,luigi-fagioli,Luigi Fagioli,alfa-romeo,2,42,3,0,2,1011.22553,1032.881919,21.656389,0.941176,0.508049,50.0,18
+1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,4,louis-rosier,Louis Rosier,talbot-lago,3,41,10,0,3,1004.920883,1024.115794,19.194911,0.882353,0.498455,50.0,18
+1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,4,birabongse-bhanudej,Birabongse Bhanudej,maserati,4,40,8,0,4,1008.908652,1024.858958,15.950306,0.823529,0.504523,50.0,18
+1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,4,felice-bonetto,Felice Bonetto,maserati,5,40,12,0,5,1000.0,1013.686952,13.686952,0.764706,0.490967,50.0,18
+1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,4,emmanuel-de-graffenried,Emmanuel de Graffenried,maserati,6,40,11,0,6,977.604441,990.049615,12.445175,0.705882,0.456979,50.0,18
+1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,4,nello-pagani,Nello Pagani,maserati,7,39,15,0,7,1000.0,1007.804599,7.804599,0.647059,0.490967,50.0,18
+1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,4,harry-schell,Harry Schell,talbot-lago,8,39,18,0,8,990.212307,995.819717,5.60741,0.588235,0.476087,50.0,18
+1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,4,louis-chiron,Louis Chiron,maserati,9,39,16,0,9,1005.502845,1007.006415,1.503571,0.529412,0.49934,50.0,18
+1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,4,johnny-claes,Johnny Claes,talbot-lago,10,39,14,0,10,1010.212307,1008.416367,-1.795939,0.470588,0.506507,50.0,18
+1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,4,toni-branca,Toni Branca,maserati,11,35,17,0,11,1000.0,996.039893,-3.960107,0.411765,0.490967,50.0,18
+1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,4,juan-manuel-fangio,Juan Manuel Fangio,alfa-romeo,DNF,33,1,1,12,1023.111126,1014.452386,-8.658741,0.352941,0.526116,50.0,18
+1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,4,philippe-etancelin,Philippe Étancelin,talbot-lago,DNF,25,6,1,13,1013.616994,1002.738536,-10.878458,0.294118,0.511687,50.0,18
+1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,4,eugene-martin,Eugène Martin,talbot-lago,DNF,19,9,1,14,981.818182,968.944546,-12.873636,0.205882,0.463355,50.0,18
+1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,4,raymond-sommer,Raymond Sommer,ferrari,DNF,19,13,1,15,1017.712307,1002.110712,-15.601594,0.205882,0.517914,50.0,18
+1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,4,luigi-villoresi,Luigi Villoresi,ferrari,DNF,9,4,1,16,1007.712307,988.459522,-19.252785,0.117647,0.502703,50.0,18
+1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,4,alberto-ascari,Alberto Ascari,ferrari,DNF,4,5,1,17,1022.712307,999.377958,-23.334348,0.058824,0.52551,50.0,18
+1950,4,1950-06-04,switzerland,Grosser Preis der Schweiz 1950,4,yves-giraud-cabantous,Yves Giraud-Cabantous,talbot-lago,DNF,0,7,1,18,1018.181818,992.250423,-25.931396,0.0,0.518628,50.0,18

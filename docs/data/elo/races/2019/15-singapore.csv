@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,sebastian-vettel,Sebastian Vettel,ferrari,1,61,3,0,1,1402.314491,1412.414087,10.099596,1.0,0.798008,50.0,20
-2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,charles-leclerc,Charles Leclerc,ferrari,2,61,1,0,2,1226.563749,1243.011602,16.447854,0.947368,0.618411,50.0,20
-2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,max-verstappen,Max Verstappen,red-bull,3,61,4,0,3,1349.646004,1356.846687,7.200683,0.894737,0.750723,50.0,20
-2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,lewis-hamilton,Lewis Hamilton,mercedes,4,61,2,0,4,1563.390762,1560.138012,-3.25275,0.842105,0.90716,50.0,20
-2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,valtteri-bottas,Valtteri Bottas,mercedes,5,61,5,0,5,1419.747732,1418.603006,-1.144725,0.789474,0.812368,50.0,20
-2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,alexander-albon,Alexander Albon,red-bull,6,61,6,0,6,1081.931363,1096.957191,15.025827,0.736842,0.436326,50.0,20
-2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,lando-norris,Lando Norris,mclaren,7,61,9,0,7,1043.629008,1058.471545,14.842537,0.684211,0.38736,50.0,20
-2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,pierre-gasly,Pierre Gasly,toro-rosso,8,61,11,0,8,1129.288545,1135.998628,6.710084,0.631579,0.497377,50.0,20
-2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,nico-hulkenberg,Nico Hülkenberg,renault,9,61,8,0,9,1081.345372,1088.514194,7.168822,0.578947,0.435571,50.0,20
-2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,10,61,10,0,10,973.108193,984.363809,11.255615,0.526316,0.301203,50.0,20
-2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,romain-grosjean,Romain Grosjean,haas,11,61,17,0,11,984.708929,992.650065,7.941137,0.473684,0.314861,50.0,20
-2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,12,61,7,0,12,1108.596645,1106.113088,-2.483558,0.421053,0.470724,50.0,20
-2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,lance-stroll,Lance Stroll,racing-point,13,61,16,0,13,1029.857095,1029.776792,-0.080303,0.368421,0.370027,50.0,20
-2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,daniel-ricciardo,Daniel Ricciardo,renault,14,61,20,0,14,1122.710731,1114.054334,-8.656397,0.315789,0.488917,50.0,20
-2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,daniil-kvyat,Daniil Kvyat,toro-rosso,15,61,14,0,15,1050.043338,1043.426609,-6.616729,0.263158,0.395492,50.0,20
-2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,robert-kubica,Robert Kubica,williams,16,61,19,0,16,1000.091141,993.951225,-6.139916,0.210526,0.333325,50.0,20
-2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,kevin-magnussen,Kevin Magnussen,haas,17,61,13,0,17,1014.204001,1004.569683,-9.634318,0.157895,0.350581,50.0,20
-2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,DNF,49,12,1,18,1186.612238,1163.379155,-23.233083,0.105263,0.569925,50.0,20
-2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,sergio-perez,Sergio Pérez,racing-point,DNF,42,15,1,19,1116.219636,1094.823438,-21.396198,0.052632,0.480556,50.0,20
-2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,george-russell,George Russell,williams,DNF,34,18,1,20,955.612242,941.558067,-14.054176,0.0,0.281084,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,1012,sebastian-vettel,Sebastian Vettel,ferrari,1,61,3,0,1,1402.314491,1412.414087,10.099596,1.0,0.798008,50.0,20
+2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,1012,charles-leclerc,Charles Leclerc,ferrari,2,61,1,0,2,1226.563749,1243.011602,16.447854,0.947368,0.618411,50.0,20
+2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,1012,max-verstappen,Max Verstappen,red-bull,3,61,4,0,3,1349.646004,1356.846687,7.200683,0.894737,0.750723,50.0,20
+2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,1012,lewis-hamilton,Lewis Hamilton,mercedes,4,61,2,0,4,1563.390762,1560.138012,-3.25275,0.842105,0.90716,50.0,20
+2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,1012,valtteri-bottas,Valtteri Bottas,mercedes,5,61,5,0,5,1419.747732,1418.603006,-1.144725,0.789474,0.812368,50.0,20
+2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,1012,alexander-albon,Alexander Albon,red-bull,6,61,6,0,6,1081.931363,1096.957191,15.025827,0.736842,0.436326,50.0,20
+2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,1012,lando-norris,Lando Norris,mclaren,7,61,9,0,7,1043.629008,1058.471545,14.842537,0.684211,0.38736,50.0,20
+2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,1012,pierre-gasly,Pierre Gasly,toro-rosso,8,61,11,0,8,1129.288545,1135.998628,6.710084,0.631579,0.497377,50.0,20
+2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,1012,nico-hulkenberg,Nico Hülkenberg,renault,9,61,8,0,9,1081.345372,1088.514194,7.168822,0.578947,0.435571,50.0,20
+2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,1012,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,10,61,10,0,10,973.108193,984.363809,11.255615,0.526316,0.301203,50.0,20
+2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,1012,romain-grosjean,Romain Grosjean,haas,11,61,17,0,11,984.708929,992.650065,7.941137,0.473684,0.314861,50.0,20
+2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,1012,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,12,61,7,0,12,1108.596645,1106.113088,-2.483558,0.421053,0.470724,50.0,20
+2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,1012,lance-stroll,Lance Stroll,racing-point,13,61,16,0,13,1029.857095,1029.776792,-0.080303,0.368421,0.370027,50.0,20
+2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,1012,daniel-ricciardo,Daniel Ricciardo,renault,14,61,20,0,14,1122.710731,1114.054334,-8.656397,0.315789,0.488917,50.0,20
+2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,1012,daniil-kvyat,Daniil Kvyat,toro-rosso,15,61,14,0,15,1050.043338,1043.426609,-6.616729,0.263158,0.395492,50.0,20
+2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,1012,robert-kubica,Robert Kubica,williams,16,61,19,0,16,1000.091141,993.951225,-6.139916,0.210526,0.333325,50.0,20
+2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,1012,kevin-magnussen,Kevin Magnussen,haas,17,61,13,0,17,1014.204001,1004.569683,-9.634318,0.157895,0.350581,50.0,20
+2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,1012,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,DNF,49,12,1,18,1186.612238,1163.379155,-23.233083,0.105263,0.569925,50.0,20
+2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,1012,sergio-perez,Sergio Pérez,racing-point,DNF,42,15,1,19,1116.219636,1094.823438,-21.396198,0.052632,0.480556,50.0,20
+2019,15,2019-09-22,singapore,Formula 1 Singapore Airlines Singapore Grand Prix 2019,1012,george-russell,George Russell,williams,DNF,34,18,1,20,955.612242,941.558067,-14.054176,0.0,0.281084,50.0,20

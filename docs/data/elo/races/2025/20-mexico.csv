@@ -1,21 +1,21 @@
-year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,lando-norris,Lando Norris,mclaren,1,71,1,0,1,1437.506946,1447.022654,9.515707,1.0,0.809686,50.0,20
-2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,charles-leclerc,Charles Leclerc,ferrari,2,71,2,0,2,1354.682201,1365.293159,10.610958,0.947368,0.735149,50.0,20
-2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,max-verstappen,Max Verstappen,red-bull,3,71,5,0,3,1506.573288,1508.234529,1.66124,0.894737,0.861512,50.0,20
-2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,oliver-bearman,Oliver Bearman,haas,4,71,9,0,4,1071.324063,1093.26372,21.939657,0.842105,0.403312,50.0,20
-2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,oscar-piastri,Oscar Piastri,mclaren,5,71,7,0,5,1418.388468,1418.179008,-0.20946,0.789474,0.793663,50.0,20
-2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,kimi-antonelli,Kimi Antonelli,mercedes,6,71,6,0,6,1091.523181,1106.933488,15.410306,0.736842,0.428636,50.0,20
-2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,george-russell,George Russell,mercedes,7,71,4,0,7,1395.517714,1391.050587,-4.467126,0.684211,0.773553,50.0,20
-2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,lewis-hamilton,Lewis Hamilton,ferrari,8,71,3,0,8,1284.804661,1283.262967,-1.541694,0.631579,0.662413,50.0,20
-2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,esteban-ocon,Esteban Ocon,haas,9,71,11,0,9,1026.646264,1038.178029,11.531765,0.578947,0.348312,50.0,20
-2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,10,71,16,0,10,1003.594893,1013.870493,10.2756,0.526316,0.320804,50.0,20
-2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,yuki-tsunoda,Yuki Tsunoda,red-bull,11,71,10,0,11,1065.449188,1069.334095,3.884907,0.473684,0.395986,50.0,20
-2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,alexander-albon,Alexander Albon,williams,12,70,17,0,12,1088.715049,1088.512403,-0.202646,0.421053,0.425106,50.0,20
-2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,isack-hadjar,Isack Hadjar,racing-bulls,13,70,8,0,13,1071.568954,1069.809109,-1.759845,0.368421,0.403618,50.0,20
-2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,lance-stroll,Lance Stroll,aston-martin,14,70,19,0,14,1021.605577,1020.283256,-1.322321,0.315789,0.342236,50.0,20
-2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,pierre-gasly,Pierre Gasly,alpine,15,70,18,0,15,996.703132,994.22457,-2.478562,0.263158,0.312729,50.0,20
-2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,franco-colapinto,Franco Colapinto,alpine,16,70,20,0,16,942.983634,940.875103,-2.108531,0.210526,0.252697,50.0,20
-2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,carlos-sainz-jr,Carlos Sainz Jr.,williams,17,67,12,0,17,1139.741621,1123.168372,-16.573249,0.157895,0.48936,50.0,20
-2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,fernando-alonso,Fernando Alonso,aston-martin,DNF,34,14,1,18,1121.756912,1103.683627,-18.073286,0.105263,0.466729,50.0,20
-2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,nico-hulkenberg,Nico Hülkenberg,kick-sauber,DNF,25,13,1,19,1056.114997,1039.526842,-16.588155,0.052632,0.384395,50.0,20
-2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,liam-lawson,Liam Lawson,racing-bulls,DNF,5,15,1,20,1060.720032,1041.214766,-19.505266,0.0,0.390105,50.0,20
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,1145,lando-norris,Lando Norris,mclaren,1,71,1,0,1,1437.506946,1447.022654,9.515707,1.0,0.809686,50.0,20
+2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,1145,charles-leclerc,Charles Leclerc,ferrari,2,71,2,0,2,1354.682201,1365.293159,10.610958,0.947368,0.735149,50.0,20
+2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,1145,max-verstappen,Max Verstappen,red-bull,3,71,5,0,3,1506.573288,1508.234529,1.66124,0.894737,0.861512,50.0,20
+2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,1145,oliver-bearman,Oliver Bearman,haas,4,71,9,0,4,1071.324063,1093.26372,21.939657,0.842105,0.403312,50.0,20
+2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,1145,oscar-piastri,Oscar Piastri,mclaren,5,71,7,0,5,1418.388468,1418.179008,-0.20946,0.789474,0.793663,50.0,20
+2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,1145,kimi-antonelli,Kimi Antonelli,mercedes,6,71,6,0,6,1091.523181,1106.933488,15.410306,0.736842,0.428636,50.0,20
+2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,1145,george-russell,George Russell,mercedes,7,71,4,0,7,1395.517714,1391.050587,-4.467126,0.684211,0.773553,50.0,20
+2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,1145,lewis-hamilton,Lewis Hamilton,ferrari,8,71,3,0,8,1284.804661,1283.262967,-1.541694,0.631579,0.662413,50.0,20
+2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,1145,esteban-ocon,Esteban Ocon,haas,9,71,11,0,9,1026.646264,1038.178029,11.531765,0.578947,0.348312,50.0,20
+2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,1145,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,10,71,16,0,10,1003.594893,1013.870493,10.2756,0.526316,0.320804,50.0,20
+2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,1145,yuki-tsunoda,Yuki Tsunoda,red-bull,11,71,10,0,11,1065.449188,1069.334095,3.884907,0.473684,0.395986,50.0,20
+2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,1145,alexander-albon,Alexander Albon,williams,12,70,17,0,12,1088.715049,1088.512403,-0.202646,0.421053,0.425106,50.0,20
+2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,1145,isack-hadjar,Isack Hadjar,racing-bulls,13,70,8,0,13,1071.568954,1069.809109,-1.759845,0.368421,0.403618,50.0,20
+2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,1145,lance-stroll,Lance Stroll,aston-martin,14,70,19,0,14,1021.605577,1020.283256,-1.322321,0.315789,0.342236,50.0,20
+2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,1145,pierre-gasly,Pierre Gasly,alpine,15,70,18,0,15,996.703132,994.22457,-2.478562,0.263158,0.312729,50.0,20
+2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,1145,franco-colapinto,Franco Colapinto,alpine,16,70,20,0,16,942.983634,940.875103,-2.108531,0.210526,0.252697,50.0,20
+2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,1145,carlos-sainz-jr,Carlos Sainz Jr.,williams,17,67,12,0,17,1139.741621,1123.168372,-16.573249,0.157895,0.48936,50.0,20
+2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,1145,fernando-alonso,Fernando Alonso,aston-martin,DNF,34,14,1,18,1121.756912,1103.683627,-18.073286,0.105263,0.466729,50.0,20
+2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,1145,nico-hulkenberg,Nico Hülkenberg,kick-sauber,DNF,25,13,1,19,1056.114997,1039.526842,-16.588155,0.052632,0.384395,50.0,20
+2025,20,2025-10-26,mexico,Formula 1 Gran Premio de la Ciudad de México 2025,1145,liam-lawson,Liam Lawson,racing-bulls,DNF,5,15,1,20,1060.720032,1041.214766,-19.505266,0.0,0.390105,50.0,20
