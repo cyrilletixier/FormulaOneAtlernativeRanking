@@ -128,10 +128,13 @@ function renderAgeChart(container, points) {
 
 document.addEventListener('DOMContentLoaded', () => {
     const viewSelector = document.getElementById('elo-view');
+    const ageButton = document.getElementById('elo-age-button');
     const driverSelectorWrap = document.getElementById('elo-driver-selector');
     const driverSelector = document.getElementById('elo-driver');
     const yearSelectorWrap = document.getElementById('elo-year-selector');
     const yearSelector = document.getElementById('elo-year');
+    const yearPrevBtn = document.getElementById('elo-year-prev');
+    const yearNextBtn = document.getElementById('elo-year-next');
     const raceSelectorWrap = document.getElementById('elo-race-selector');
     const raceSelector = document.getElementById('elo-race');
 
@@ -143,6 +146,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const body = document.getElementById('elo-body');
 
     let indexData = null;
+    let raceYears = [];
 
     function setView(view) {
         if (view === 'driver') {
@@ -272,6 +276,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const racesByYear = indexData?.racesByYear || {};
         const years = Object.keys(racesByYear).sort((a, b) => a.localeCompare(b, 'fr'));
+        raceYears = years;
 
         for (const y of years) {
             const opt = document.createElement('option');
@@ -283,6 +288,20 @@ document.addEventListener('DOMContentLoaded', () => {
         if (years.length) {
             populateRacesForYear(years[0]);
         }
+
+        updateYearNavButtons();
+    }
+
+    function updateYearNavButtons() {
+        if (!yearPrevBtn || !yearNextBtn) return;
+        if (!raceYears.length) {
+            yearPrevBtn.disabled = true;
+            yearNextBtn.disabled = true;
+            return;
+        }
+        const idx = raceYears.indexOf(yearSelector.value);
+        yearPrevBtn.disabled = idx <= 0;
+        yearNextBtn.disabled = idx < 0 || idx >= raceYears.length - 1;
     }
 
     function populateRacesForYear(year) {
@@ -325,13 +344,44 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
+    if (ageButton) {
+        ageButton.addEventListener('click', () => {
+            viewSelector.value = 'age';
+            // Déclenche la même logique que si l'utilisateur changeait le select.
+            viewSelector.dispatchEvent(new Event('change'));
+        });
+    }
+
     driverSelector.addEventListener('change', () => {
         loadDriver(driverSelector.value);
     });
 
     yearSelector.addEventListener('change', () => {
         populateRacesForYear(yearSelector.value);
+        updateYearNavButtons();
     });
+
+    if (yearPrevBtn) {
+        yearPrevBtn.addEventListener('click', () => {
+            if (!raceYears.length) return;
+            const idx = raceYears.indexOf(yearSelector.value);
+            if (idx > 0) {
+                yearSelector.value = raceYears[idx - 1];
+                yearSelector.dispatchEvent(new Event('change'));
+            }
+        });
+    }
+
+    if (yearNextBtn) {
+        yearNextBtn.addEventListener('click', () => {
+            if (!raceYears.length) return;
+            const idx = raceYears.indexOf(yearSelector.value);
+            if (idx >= 0 && idx < raceYears.length - 1) {
+                yearSelector.value = raceYears[idx + 1];
+                yearSelector.dispatchEvent(new Event('change'));
+            }
+        });
+    }
 
     raceSelector.addEventListener('change', () => {
         loadRace(yearSelector.value, raceSelector.value);

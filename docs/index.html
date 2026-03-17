@@ -51,9 +51,11 @@
             <div class="controls">
                 <div class="year-selector">
                     <label for="qualif-year">Année :</label>
+                    <button id="qualif-prev" class="tab-button" type="button">&lt;&lt;</button>
                     <select id="qualif-year">
                         <!-- Les années seront ajoutées dynamiquement -->
                     </select>
+                    <button id="qualif-next" class="tab-button" type="button">&gt;&gt;</button>
                 </div>
             </div>
             <div class="table-container">
@@ -77,9 +79,11 @@
             <div class="controls">
                 <div class="year-selector">
                     <label for="deuxieme-year">Année :</label>
+                    <button id="deuxieme-prev" class="tab-button" type="button">&lt;&lt;</button>
                     <select id="deuxieme-year">
                         <!-- Les années seront ajoutées dynamiquement -->
                     </select>
+                    <button id="deuxieme-next" class="tab-button" type="button">&gt;&gt;</button>
                 </div>
             </div>
             <div class="table-container">
@@ -110,6 +114,10 @@
                     </select>
                 </div>
 
+                <div class="year-selector" id="elo-age-shortcut">
+                    <button id="elo-age-button" class="tab-button" type="button">ELO par âge</button>
+                </div>
+
                 <div class="year-selector" id="elo-driver-selector">
                     <label for="elo-driver">Pilote :</label>
                     <select id="elo-driver"></select>
@@ -117,7 +125,9 @@
 
                 <div class="year-selector" id="elo-year-selector" style="display:none">
                     <label for="elo-year">Année :</label>
+                    <button id="elo-year-prev" class="tab-button" type="button">&lt;&lt;</button>
                     <select id="elo-year"></select>
+                    <button id="elo-year-next" class="tab-button" type="button">&gt;&gt;</button>
                 </div>
 
                 <div class="year-selector" id="elo-race-selector" style="display:none">
@@ -148,6 +158,6 @@
     <script src="js/historique.js"></script>
     <script src="js/qualifications.js"></script>
     <script src="js/deuxieme_pilote.js"></script>
-    <script src="js/elo.js"></script>
+    <script src="js/elo.js?v=20260317"></script>
 </body>
 </html>

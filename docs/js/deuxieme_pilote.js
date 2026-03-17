@@ -1,8 +1,11 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Sélecteurs pour le classement des deuxièmes pilotes
     const yearSelector = document.getElementById('deuxieme-year');
+    const prevBtn = document.getElementById('deuxieme-prev');
+    const nextBtn = document.getElementById('deuxieme-next');
     const tableBody = document.getElementById('deuxieme-pilote-body');
     const tableHead = document.querySelector('#deuxieme-pilote-table thead tr');
+    let years = [];
 
     // Charger les années disponibles
     async function loadYears() {
@@ -12,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const rows = data.split('\n');
             if (rows.length > 0) {
                 const header = rows[0].split(',');
-                const years = header.slice(3); // Les années commencent à partir de la 4ème colonne
+                years = header.slice(3); // Les années commencent à partir de la 4ème colonne
 
                 // Mettre à jour le sélecteur d'année
                 yearSelector.innerHTML = '';
@@ -27,6 +30,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (years.length > 0) {
                     loadDeuxiemePiloteData(years[0]);
                 }
+
+                updateNavButtons();
             }
         } catch (error) {
             console.error('Erreur lors du chargement des années:', error);
@@ -34,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Charger les données pour une année spécifique
-    async function loadDeuxiemePiloteData(year) {
+                                    years = header.slice(3); // Les années commencent à partir de la 4ème colonne
         try {
             const response = await fetch(`data/${year}/deuxieme_pilote.csv`);
             const data = await response.text();
@@ -75,5 +80,40 @@ document.addEventListener('DOMContentLoaded', () => {
     yearSelector.addEventListener('change', (event) => {
         const year = event.target.value;
         loadDeuxiemePiloteData(year);
+        updateNavButtons();
     });
+
+    if (prevBtn) {
+        prevBtn.addEventListener('click', () => {
+            if (!years.length) return;
+            const idx = years.indexOf(yearSelector.value);
+            if (idx > 0) {
+                yearSelector.value = years[idx - 1];
+                yearSelector.dispatchEvent(new Event('change'));
+            }
+        });
+    }
+
+    if (nextBtn) {
+        nextBtn.addEventListener('click', () => {
+            if (!years.length) return;
+            const idx = years.indexOf(yearSelector.value);
+            if (idx >= 0 && idx < years.length - 1) {
+                yearSelector.value = years[idx + 1];
+                yearSelector.dispatchEvent(new Event('change'));
+            }
+        });
+    }
+
+    function updateNavButtons() {
+        if (!prevBtn || !nextBtn) return;
+        if (!years.length) {
+            prevBtn.disabled = true;
+            nextBtn.disabled = true;
+            return;
+        }
+        const idx = years.indexOf(yearSelector.value);
+        prevBtn.disabled = idx <= 0;
+        nextBtn.disabled = idx < 0 || idx >= years.length - 1;
+    }
 });
