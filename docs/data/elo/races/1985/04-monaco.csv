@@ -1,0 +1,27 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,alain-prost,Alain Prost,mclaren,1,78,5,0,1,1678.688681,1685.923681,7.235,1.0,0.698542,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,michele-alboreto,Michele Alboreto,ferrari,2,78,3,0,2,1611.140159,1619.539226,8.399068,0.96,0.610039,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,elio-de-angelis,Elio de Angelis,lotus,3,78,9,0,3,1626.059317,1633.010308,6.950991,0.92,0.630375,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,andrea-de-cesaris,Andrea de Cesaris,ligier,4,77,8,0,4,1538.855605,1547.790662,8.935057,0.88,0.507706,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,derek-warwick,Derek Warwick,renault,5,77,10,0,5,1543.755901,1551.561824,7.805923,0.84,0.514753,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,jacques-laffite,Jacques Laffite,ligier,6,77,16,0,6,1547.232213,1553.958229,6.726017,0.8,0.519749,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,nigel-mansell,Nigel Mansell,williams,7,77,2,0,7,1573.04792,1577.927717,4.879798,0.76,0.556675,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,keke-rosberg,Keke Rosberg,williams,8,76,7,0,8,1562.224154,1566.514361,4.290207,0.72,0.541241,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,thierry-boutsen,Thierry Boutsen,arrows,9,76,6,0,9,1551.653181,1555.34684,3.69366,0.68,0.526098,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,martin-brundle,Martin Brundle,tyrrell,10,74,18,0,10,1436.750249,1443.378529,6.62828,0.64,0.363822,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,jonathan-palmer,Jonathan Palmer,zakspeed,11,74,19,0,11,1478.004179,1482.307017,4.302839,0.6,0.420715,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,niki-lauda,Niki Lauda,mclaren,DNF,17,14,1,12,1655.217924,1652.604236,-2.613688,0.56,0.668904,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,nelson-piquet,Nelson Piquet,brabham,DNF,16,13,1,13,1633.742005,1629.885373,-3.856632,0.48,0.640693,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,riccardo-patrese,Riccardo Patrese,alfa-romeo,DNF,16,12,1,14,1534.744864,1534.221865,-0.522999,0.48,0.501792,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,teo-fabi,Teo Fabi,toleman,DNF,16,20,1,15,1494.058391,1494.935661,0.87727,0.48,0.443447,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,ayrton-senna,Ayrton Senna,lotus,DNF,13,1,1,16,1535.956822,1533.47197,-2.484852,0.4,0.503535,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,eddie-cheever,Eddie Cheever,alfa-romeo,DNF,10,4,1,17,1538.178758,1534.657184,-3.521574,0.36,0.506732,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,stefan-johansson,Stefan Johansson,ferrari,DNF,1,15,1,18,1488.716917,1485.936359,-2.780558,0.32,0.435857,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,gerhard-berger,Gerhard Berger,arrows,DNF,0,11,1,19,1491.282801,1486.974806,-4.307995,0.26,0.4395,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,patrick-tambay,Patrick Tambay,renault,DNF,0,17,1,20,1621.768437,1613.018864,-8.749573,0.26,0.624566,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,francois-hesnault,François Hesnault,brabham,DNQ,,,2,21,1467.867506,1460.511348,-7.356158,0.1,0.406507,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,manfred-winkelhock,Manfred Winkelhock,ram,DNQ,,,2,22,1468.886022,1461.495741,-7.390282,0.1,0.407928,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,philippe-alliot,Philippe Alliot,ram,DNQ,,,2,23,1462.158355,1454.992849,-7.165506,0.1,0.398563,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNQ,,,2,24,1453.008158,1446.145847,-6.862311,0.1,0.38593,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,pierluigi-martini,Pierluigi Martini,minardi,DNQ,,,2,25,1479.692517,1471.938275,-7.754242,0.1,0.423093,24.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,stefan-bellof,Stefan Bellof,tyrrell,DNQ,,,2,26,1405.862861,1400.505124,-5.357736,0.1,0.323239,24.0,26

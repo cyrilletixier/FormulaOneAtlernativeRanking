@@ -1,0 +1,36 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,ayrton-senna,Ayrton Senna,mclaren,1,72,5,0,1,1719.067028,1725.343551,6.276522,1.0,0.738478,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,jean-alesi,Jean Alesi,tyrrell,2,72,4,0,2,1544.880961,1555.81076,10.929799,0.970588,0.51518,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,thierry-boutsen,Thierry Boutsen,williams,3,72,9,0,3,1677.784134,1683.789981,6.005847,0.941176,0.690933,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,nelson-piquet,Nelson Piquet,benetton,4,72,6,0,4,1676.719115,1682.049864,5.33075,0.911765,0.68965,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,stefano-modena,Stefano Modena,brabham,5,72,10,0,5,1517.639885,1527.365299,9.725414,0.882353,0.477127,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,satoru-nakajima,Satoru Nakajima,tyrrell,6,71,11,0,6,1543.115767,1551.281157,8.16539,0.852941,0.512717,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,pierluigi-martini,Pierluigi Martini,minardi,7,71,2,0,7,1530.093991,1537.990064,7.896073,0.823529,0.494526,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,eric-bernard,Éric Bernard,lola,8,71,15,0,8,1509.557779,1517.436115,7.878335,0.794118,0.465854,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,riccardo-patrese,Riccardo Patrese,williams,9,71,12,0,9,1625.355044,1628.711274,3.35623,0.764706,0.624863,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,michele-alboreto,Michele Alboreto,arrows,10,70,21,0,10,1554.282888,1559.251176,4.968289,0.735294,0.528282,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,alessandro-nannini,Alessandro Nannini,benetton,11,70,22,0,11,1569.933767,1573.675173,3.741406,0.705882,0.54999,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,bernd-schneider,Bernd Schneider,arrows,12,70,20,0,12,1389.343978,1398.221788,8.87781,0.676471,0.306562,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,roberto-moreno,Roberto Moreno,eurobrun,13,67,16,0,13,1429.472816,1436.430366,6.957549,0.647059,0.357161,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,mauricio-gugelmin,Maurício Gugelmin,leyton-house,14,66,25,0,14,1572.203203,1573.751753,1.54855,0.617647,0.553124,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,paolo-barilla,Paolo Barilla,minardi,DNF,54,14,1,15,1498.146815,1501.464863,3.318048,0.588235,0.449983,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,aguri-suzuki,Aguri Suzuki,lola,DNF,53,18,1,16,1427.338809,1432.245275,4.906466,0.558824,0.354387,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,nigel-mansell,Nigel Mansell,ferrari,DNF,49,17,1,17,1628.800919,1626.401874,-2.399045,0.529412,0.629372,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,gerhard-berger,Gerhard Berger,mclaren,DNF,44,1,1,18,1616.57222,1613.853512,-2.718709,0.5,0.61328,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,gregor-foitek,Gregor Foitek,brabham,DNF,39,23,1,19,1434.02445,1436.251125,2.226675,0.455882,0.363104,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,olivier-grouillard,Olivier Grouillard,osella,DNF,39,8,1,20,1501.259548,1501.297388,0.03784,0.455882,0.454306,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,andrea-de-cesaris,Andrea de Cesaris,dallara,DNF,25,3,1,21,1534.75588,1532.613249,-2.142631,0.411765,0.501041,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,alain-prost,Alain Prost,ferrari,DNF,21,7,1,22,1801.740518,1791.243803,-10.496715,0.382353,0.819716,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,ivan-capelli,Ivan Capelli,leyton-house,DNF,20,26,1,23,1540.005851,1536.275445,-3.730406,0.352941,0.508375,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,derek-warwick,Derek Warwick,lotus,DNF,6,24,1,24,1604.264104,1597.704568,-6.559536,0.323529,0.596843,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,nicola-larini,Nicola Larini,ligier,DNF,4,13,1,25,1423.222491,1421.90383,-1.318661,0.294118,0.349062,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,martin-donnelly,Martin Donnelly,lotus,DNF,0,19,1,26,1505.797734,1501.095866,-4.701868,0.264706,0.460617,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,bertrand-gachot,Bertrand Gachot,coloni,DNPQ,,,1,27,1464.480976,1459.026518,-5.454458,0.176471,0.40374,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,claudio-langes,Claudio Langes,eurobrun,DNPQ,,,1,28,1500.0,1493.373951,-6.626049,0.176471,0.452556,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,gabriele-tarquini,Gabriele Tarquini,ags,DNPQ,,,1,29,1443.406128,1438.630185,-4.775942,0.176471,0.375468,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,gary-brabham,Gary Brabham,life,DNPQ,,,1,30,1500.0,1493.373951,-6.626049,0.176471,0.452556,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,yannick-dalmas,Yannick Dalmas,ags,DNPQ,,,1,31,1435.149913,1430.635299,-4.514614,0.176471,0.36458,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,gianni-morbidelli,Gianni Morbidelli,dallara,DNQ,,,2,32,1500.0,1490.550422,-9.449578,0.058824,0.452556,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,jj-lehto,JJ Lehto,onyx,DNQ,,,2,33,1497.224088,1487.866978,-9.35711,0.058824,0.448703,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,stefan-johansson,Stefan Johansson,onyx,DNQ,,,2,34,1499.227269,1489.803442,-9.423827,0.058824,0.451483,24.0,35
+1990,1,1990-03-11,united-states,1990 Iceberg USA Grand Prix,philippe-alliot,Philippe Alliot,ligier,DSQ,,,2,35,1529.592006,1517.74021,-11.851796,0.0,0.493825,24.0,35

@@ -1,0 +1,25 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,jenson-button,Jenson Button,mclaren,1,58,4,0,1,1645.495922,1654.785658,9.289735,1.0,0.612928,24.0,24
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,robert-kubica,Robert Kubica,renault,2,58,9,0,2,1606.594538,1616.11404,9.519502,0.956522,0.559876,24.0,24
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,felipe-massa,Felipe Massa,ferrari,3,58,5,0,3,1694.643647,1700.318834,5.675187,0.913043,0.676577,24.0,24
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,fernando-alonso,Fernando Alonso,ferrari,4,58,3,0,4,1697.576125,1702.120346,4.544222,0.869565,0.680223,24.0,24
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,nico-rosberg,Nico Rosberg,mercedes,5,58,6,0,5,1596.407421,1603.136075,6.728654,0.826087,0.545726,24.0,24
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,6,58,11,0,6,1666.978512,1670.369857,3.391346,0.782609,0.641303,24.0,24
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,7,58,13,0,7,1468.199201,1477.099759,8.900558,0.73913,0.368274,24.0,24
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,rubens-barrichello,Rubens Barrichello,williams,8,58,8,0,8,1633.345444,1635.72368,2.378237,0.695652,0.596559,24.0,24
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,mark-webber,Mark Webber,red-bull,9,58,2,0,9,1606.616686,1608.831104,2.214418,0.652174,0.559907,24.0,24
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,michael-schumacher,Michael Schumacher,mercedes,10,58,7,0,10,1801.260502,1796.784253,-4.47625,0.608696,0.795206,24.0,24
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,jaime-alguersuari,Jaime Alguersuari,toro-rosso,11,58,17,0,11,1461.554101,1466.491102,4.937002,0.565217,0.359509,24.0,24
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,sauber,12,58,14,0,12,1497.505384,1500.241239,2.735854,0.521739,0.407745,24.0,24
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,heikki-kovalainen,Heikki Kovalainen,lotus-racing,13,56,19,0,13,1586.461563,1585.175557,-1.286006,0.478261,0.531844,24.0,24
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,karun-chandhok,Karun Chandhok,hrt,14,53,22,0,14,1490.142473,1491.032077,0.889604,0.434783,0.397716,24.0,24
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,timo-glock,Timo Glock,virgin,DNF,41,PL,1,15,1567.806107,1565.060835,-2.745272,0.391304,0.505691,24.0,24
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,lucas-di-grassi,Lucas di Grassi,virgin,DNF,26,PL,1,16,1491.185951,1489.954585,-1.231366,0.347826,0.399133,24.0,24
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,DNF,25,1,1,17,1619.431222,1612.873742,-6.55748,0.304348,0.577576,24.0,24
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,adrian-sutil,Adrian Sutil,force-india,DNF,9,10,1,18,1395.326157,1394.415136,-0.91102,0.23913,0.27709,24.0,24
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,vitaly-petrov,Vitaly Petrov,renault,DNF,9,18,1,19,1493.272908,1489.364719,-3.908189,0.23913,0.401972,24.0,24
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,bruno-senna,Bruno Senna,hrt,DNF,4,21,1,20,1495.359864,1489.818199,-5.541665,0.173913,0.404816,24.0,24
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,kamui-kobayashi,Kamui Kobayashi,sauber,DNF,0,16,1,21,1503.627994,1495.727726,-7.900268,0.086957,0.416134,24.0,24
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,nico-hulkenberg,Nico Hülkenberg,williams,DNF,0,15,1,22,1500.577255,1492.777437,-7.799818,0.086957,0.411949,24.0,24
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,sebastien-buemi,Sébastien Buemi,toro-rosso,DNF,0,12,1,23,1468.324195,1461.568606,-6.75559,0.086957,0.368439,24.0,24
+2010,2,2010-03-28,australia,2010 Formula 1 Qantas Australian Grand Prix,jarno-trulli,Jarno Trulli,lotus-racing,DNS,,20,2,24,1566.465597,1554.374203,-12.091394,0.0,0.503808,24.0,24

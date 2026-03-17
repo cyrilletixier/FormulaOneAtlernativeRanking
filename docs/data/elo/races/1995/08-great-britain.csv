@@ -1,0 +1,25 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,johnny-herbert,Johnny Herbert,benetton,1,61,5,0,1,1544.036638,1555.795308,11.758669,1.0,0.510055,24.0,24
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,jean-alesi,Jean Alesi,ferrari,2,61,6,0,2,1621.648099,1629.740558,8.092459,0.956522,0.619336,24.0,24
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,david-coulthard,David Coulthard,williams,3,61,3,0,3,1547.2282,1556.790027,9.561827,0.913043,0.514634,24.0,24
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,olivier-panis,Olivier Panis,ligier,4,61,13,0,4,1574.154634,1581.74976,7.595126,0.869565,0.553102,24.0,24
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,mark-blundell,Mark Blundell,mclaren,5,61,10,0,5,1556.359889,1563.520724,7.160834,0.826087,0.527719,24.0,24
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,6,60,12,0,6,1531.053478,1538.042018,6.988541,0.782609,0.49142,24.0,24
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,pierluigi-martini,Pierluigi Martini,minardi,7,60,15,0,7,1543.848535,1549.352812,5.504278,0.73913,0.509786,24.0,24
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,mika-salo,Mika Salo,tyrrell,8,60,23,0,8,1516.858971,1522.249026,5.390055,0.695652,0.471067,24.0,24
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,jean-christophe-boullion,Jean-Christophe Boullion,sauber,9,60,16,0,9,1495.301225,1500.385499,5.084274,0.652174,0.440329,24.0,24
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,luca-badoer,Luca Badoer,minardi,10,60,18,0,10,1486.363922,1490.708081,4.344159,0.608696,0.427689,24.0,24
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,rubens-barrichello,Rubens Barrichello,jordan,11,59,9,0,11,1549.345811,1550.486932,1.141121,0.565217,0.517671,24.0,24
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,bertrand-gachot,Bertrand Gachot,pacific,12,58,21,0,12,1368.976509,1374.925278,5.948769,0.521739,0.273874,24.0,24
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,roberto-moreno,Roberto Moreno,forti,DNF,48,22,1,13,1449.037616,1451.493521,2.455905,0.478261,0.375932,24.0,24
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,damon-hill,Damon Hill,williams,DNF,45,1,1,14,1683.535074,1676.652744,-6.88233,0.413043,0.699807,24.0,24
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,michael-schumacher,Michael Schumacher,benetton,DNF,45,2,1,15,1693.591179,1686.415078,-7.176102,0.413043,0.712048,24.0,24
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,max-papis,Max Papis,footwork,DNF,28,17,1,16,1500.0,1497.619766,-2.380234,0.347826,0.447002,24.0,24
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,ukyo-katayama,Ukyo Katayama,tyrrell,DNF,22,14,1,17,1455.532508,1453.601827,-1.930681,0.304348,0.384793,24.0,24
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,andrea-montermini,Andrea Montermini,pacific,DNF,21,24,1,18,1454.346788,1451.411578,-2.93521,0.26087,0.38317,24.0,24
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,gerhard-berger,Gerhard Berger,ferrari,DNF,20,4,1,19,1657.047847,1645.750461,-11.297385,0.195652,0.666377,24.0,24
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,mika-hakkinen,Mika Häkkinen,mclaren,DNF,20,8,1,20,1570.60504,1562.147381,-8.457659,0.195652,0.548055,24.0,24
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,martin-brundle,Martin Brundle,ligier,DNF,16,11,1,21,1616.655227,1604.56352,-12.091707,0.108696,0.612517,24.0,24
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,taki-inoue,Taki Inoue,footwork,DNF,16,19,1,22,1475.66337,1468.368149,-7.295221,0.108696,0.412663,24.0,24
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,pedro-diniz,Pedro Diniz,forti,DNF,13,20,1,23,1487.349452,1478.095031,-9.254421,0.043478,0.429079,24.0,24
+1995,8,1995-07-16,great-britain,1995 RAC British Grand Prix,eddie-irvine,Eddie Irvine,jordan,DNF,2,7,1,24,1517.425532,1506.100466,-11.325066,0.0,0.471878,24.0,24

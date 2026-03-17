@@ -1,0 +1,32 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,alain-prost,Alain Prost,renault,1,63,1,0,1,1585.414773,1595.871352,10.45658,1.0,0.564309,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,john-watson,John Watson,mclaren,2,63,12,0,2,1657.828237,1665.138866,7.310629,0.966667,0.662057,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,nigel-mansell,Nigel Mansell,lotus,3,63,14,0,3,1502.709444,1514.378056,11.668612,0.933333,0.447141,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,michele-alboreto,Michele Alboreto,tyrrell,4,63,13,0,4,1514.573079,1525.039187,10.466107,0.9,0.463912,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,manfred-winkelhock,Manfred Winkelhock,ats-wheels,5,62,15,0,5,1497.240524,1507.493899,10.253375,0.866667,0.439443,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,didier-pironi,Didier Pironi,ferrari,6,62,8,0,6,1606.47666,1612.231228,5.754567,0.833333,0.59356,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,slim-borgudd,Slim Borgudd,tyrrell,7,61,21,0,7,1486.784596,1495.78947,9.004874,0.8,0.424797,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,jochen-mass,Jochen Mass,march,8,61,22,0,8,1552.81586,1558.777358,5.961497,0.766667,0.518271,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,jean-pierre-jarier,Jean-Pierre Jarier,osella,9,60,23,0,9,1574.898601,1579.309756,4.411155,0.733333,0.549535,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,mauro-baldi,Mauro Baldi,arrows,10,57,19,0,10,1490.647221,1497.122536,6.475315,0.7,0.430195,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,eliseo-salazar,Eliseo Salazar,ats-wheels,DNF,38,18,1,11,1483.791327,1489.696344,5.905016,0.666667,0.420624,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,chico-serra,Chico Serra,fittipaldi,DNF,36,25,1,12,1441.121769,1447.622777,6.501008,0.633333,0.362458,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,riccardo-patrese,Riccardo Patrese,brabham,DNF,34,9,1,13,1555.950915,1557.805552,1.854637,0.6,0.522723,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,gilles-villeneuve,Gilles Villeneuve,ferrari,DNF,29,2,1,14,1606.355402,1605.713974,-0.641428,0.566667,0.593393,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,niki-lauda,Niki Lauda,mclaren,DNF,22,5,1,15,1614.79193,1613.073061,-1.718869,0.533333,0.604953,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,carlos-reutemann,Carlos Reutemann,williams,DNF,21,6,1,16,1724.003874,1717.400981,-6.602892,0.466667,0.741787,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,elio-de-angelis,Elio de Angelis,lotus,DNF,21,11,1,17,1599.498576,1596.684344,-2.814232,0.466667,0.583926,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,rene-arnoux,René Arnoux,renault,DNF,21,4,1,18,1593.901497,1591.273746,-2.627751,0.466667,0.576156,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,eddie-cheever,Eddie Cheever,ligier,DNF,19,26,1,19,1496.411025,1495.492373,-0.918652,0.4,0.438277,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,DNF,16,16,1,20,1559.726824,1555.852872,-3.873952,0.366667,0.528081,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,jacques-laffite,Jacques Laffite,ligier,DNF,15,24,1,21,1671.253675,1662.955116,-8.298559,0.333333,0.679107,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,DNF,14,10,1,22,1506.082655,1502.437038,-3.645617,0.3,0.451901,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,derek-daly,Derek Daly,theodore,DNF,12,20,1,23,1486.070057,1482.298857,-3.7712,0.266667,0.4238,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,raul-boesel,Raul Boesel,march,DNF,11,17,1,24,1501.819635,1496.718346,-5.101289,0.233333,0.445887,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,riccardo-paletti,Riccardo Paletti,osella,DNPQ,,,1,25,1490.647221,1485.122536,-5.524685,0.2,0.430195,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,keke-rosberg,Keke Rosberg,williams,DSQ,63,3,2,26,1483.398783,1476.916915,-6.481868,0.15,0.420078,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,nelson-piquet,Nelson Piquet,brabham,DSQ,63,7,2,27,1653.994533,1641.823757,-12.170776,0.15,0.657116,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,brian-henton,Brian Henton,arrows,DNQ,,,2,28,1397.740501,1391.577887,-6.162614,0.05,0.306776,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,derek-warwick,Derek Warwick,toleman,DNQ,,,2,29,1428.637667,1421.533145,-7.104522,0.05,0.346022,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,roberto-guerrero,Roberto Guerrero,ensign,DNQ,,,2,30,1500.0,1490.560219,-9.439781,0.05,0.443324,24.0,31
+1982,2,1982-03-21,brazil,Grande Prêmio do Brasil 1982,teo-fabi,Teo Fabi,toleman,DNQ,,,2,31,1490.647221,1481.522536,-9.124685,0.05,0.430195,24.0,31

@@ -1,0 +1,25 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,mark-webber,Mark Webber,red-bull,1,78,1,0,1,1763.960788,1770.28449,6.323702,1.0,0.736512,24.0,24
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,nico-rosberg,Nico Rosberg,mercedes,2,78,2,0,2,1670.804792,1678.687262,7.88247,0.956522,0.628085,24.0,24
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,fernando-alonso,Fernando Alonso,ferrari,3,78,5,0,3,1798.576766,1801.959698,3.382932,0.913043,0.772088,24.0,24
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,sebastian-vettel,Sebastian Vettel,red-bull,4,78,9,0,4,1788.506787,1791.08757,2.580782,0.869565,0.762033,24.0,24
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,lewis-hamilton,Lewis Hamilton,mclaren,5,78,3,0,5,1741.450299,1744.190754,2.740455,0.826087,0.711901,24.0,24
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,felipe-massa,Felipe Massa,ferrari,6,78,7,0,6,1672.364969,1676.026868,3.661899,0.782609,0.63003,24.0,24
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,paul-di-resta,Paul di Resta,force-india,7,78,14,0,7,1564.443458,1570.432402,5.988945,0.73913,0.489591,24.0,24
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,nico-hulkenberg,Nico Hülkenberg,force-india,8,78,10,0,8,1515.784318,1522.277988,6.49367,0.695652,0.425083,24.0,24
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,kimi-raikkonen,Kimi Räikkönen,lotus-f1,9,78,8,0,9,1712.755771,1712.112543,-0.643228,0.652174,0.678975,24.0,24
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,bruno-senna,Bruno Senna,williams,10,78,13,0,10,1456.489982,1462.723907,6.233925,0.608696,0.348949,24.0,24
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,sergio-perez,Sergio Pérez,sauber,11,77,23,0,11,1528.471013,1531.432826,2.961813,0.565217,0.441809,24.0,24
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,12,77,16,0,12,1512.005508,1514.444325,2.438817,0.521739,0.420122,24.0,24
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,heikki-kovalainen,Heikki Kovalainen,caterham,13,77,17,0,13,1452.790127,1456.003933,3.213806,0.478261,0.344352,24.0,24
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,timo-glock,Timo Glock,marussia,14,77,19,0,14,1413.984152,1417.276421,3.292269,0.434783,0.297605,24.0,24
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,narain-karthikeyan,Narain Karthikeyan,hrt,15,76,22,0,15,1396.233317,1398.971157,2.73784,0.391304,0.277228,24.0,24
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,jenson-button,Jenson Button,mclaren,16,70,12,0,16,1748.104982,1739.189775,-8.915207,0.347826,0.719293,24.0,24
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,daniel-ricciardo,Daniel Ricciardo,toro-rosso,DNF,65,15,1,17,1467.038886,1465.651139,-1.387747,0.304348,0.362171,24.0,24
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,charles-pic,Charles Pic,marussia,DNF,64,21,1,18,1473.52318,1470.894969,-2.628211,0.26087,0.370378,24.0,24
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,michael-schumacher,Michael Schumacher,mercedes,DNF,63,6,1,19,1627.76748,1619.228158,-8.539322,0.217391,0.573196,24.0,24
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,vitaly-petrov,Vitaly Petrov,caterham,DNF,15,18,1,20,1520.706157,1514.522645,-6.183512,0.173913,0.431559,24.0,24
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,kamui-kobayashi,Kamui Kobayashi,sauber,DNF,5,11,1,21,1542.710956,1534.785024,-7.925932,0.130435,0.460682,24.0,24
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,pastor-maldonado,Pastor Maldonado,williams,DNF,0,24,1,22,1481.364473,1473.278853,-8.08562,0.043478,0.380379,24.0,24
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,pedro-de-la-rosa,Pedro de la Rosa,hrt,DNF,0,20,1,23,1456.501783,1449.170138,-7.331645,0.043478,0.348963,24.0,24
+2012,6,2012-05-27,monaco,Formula 1 Grand Prix de Monaco 2012,romain-grosjean,Romain Grosjean,lotus-f1,DNF,0,4,1,24,1488.088651,1479.795748,-8.292903,0.043478,0.389016,24.0,24

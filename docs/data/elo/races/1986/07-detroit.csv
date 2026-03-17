@@ -1,0 +1,27 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,ayrton-senna,Ayrton Senna,lotus,1,63,1,0,1,1617.625667,1627.190866,9.565199,1.0,0.60145,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,jacques-laffite,Jacques Laffite,ligier,2,63,6,0,2,1592.092209,1601.551774,9.459565,0.96,0.565851,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,alain-prost,Alain Prost,mclaren,3,63,7,0,3,1738.556609,1742.563392,4.006783,0.92,0.753051,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,michele-alboreto,Michele Alboreto,ferrari,4,63,11,0,4,1619.952793,1626.561139,6.608347,0.88,0.604652,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,nigel-mansell,Nigel Mansell,williams,5,62,2,0,5,1604.695421,1610.850908,6.155486,0.84,0.583521,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,riccardo-patrese,Riccardo Patrese,brabham,6,62,8,0,6,1516.565196,1524.76953,8.204334,0.8,0.458153,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,johnny-dumfries,Johnny Dumfries,lotus,7,61,14,0,7,1486.942238,1495.190519,8.248281,0.76,0.416322,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,jonathan-palmer,Jonathan Palmer,zakspeed,8,61,20,0,8,1451.939894,1460.381891,8.441996,0.72,0.36825,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,philippe-streiff,Philippe Streiff,tyrrell,9,61,18,0,9,1538.663806,1543.230546,4.566739,0.68,0.489719,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,derek-warwick,Derek Warwick,brabham,10,60,15,0,10,1527.814169,1531.793377,3.979208,0.64,0.4742,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,christian-danner,Christian Danner,arrows,DNF,51,19,1,11,1467.694497,1472.742673,5.048176,0.6,0.389659,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,rene-arnoux,René Arnoux,ligier,DNF,46,4,1,12,1655.534039,1653.314434,-2.219605,0.56,0.652484,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,thierry-boutsen,Thierry Boutsen,arrows,DNF,44,13,1,13,1590.721282,1589.667215,-1.054066,0.52,0.563919,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,andrea-de-cesaris,Andrea de Cesaris,minardi,DNF,43,23,1,14,1493.015681,1494.339738,1.324056,0.48,0.424831,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,nelson-piquet,Nelson Piquet,williams,DNF,41,3,1,15,1627.320572,1623.126901,-4.193671,0.44,0.614736,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,stefan-johansson,Stefan Johansson,ferrari,DNF,40,5,1,16,1551.231534,1548.646427,-2.585107,0.4,0.507713,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,teo-fabi,Teo Fabi,benetton,DNF,38,17,1,17,1483.445189,1482.210598,-1.234591,0.36,0.411441,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,eddie-cheever,Eddie Cheever,lola,DNF,37,10,1,18,1492.734546,1490.228077,-2.506469,0.32,0.424436,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,alan-jones,Alan Jones,lola,DNF,33,21,1,19,1611.877905,1604.353715,-7.52419,0.28,0.593508,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,allen-berg,Allen Berg,osella,DNF,28,25,1,20,1500.0,1495.328057,-4.671943,0.24,0.434664,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,martin-brundle,Martin Brundle,tyrrell,DNF,15,16,1,21,1513.958035,1507.851403,-6.106632,0.2,0.454443,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNF,14,22,1,22,1398.247933,1394.912232,-3.335701,0.16,0.298988,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,keke-rosberg,Keke Rosberg,mclaren,DNF,12,9,1,23,1614.874387,1603.410687,-11.463699,0.12,0.597654,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,gerhard-berger,Gerhard Berger,benetton,DNF,8,12,1,24,1556.448773,1546.004491,-10.444282,0.08,0.515178,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,alessandro-nannini,Alessandro Nannini,minardi,DNF,3,24,1,25,1461.928356,1453.72573,-8.202626,0.04,0.381776,24.0,26
+1986,7,1986-06-22,detroit,1986 Detroit Grand Prix,huub-rothengatter,Huub Rothengatter,zakspeed,DNS,,26,2,26,1489.142433,1479.076844,-10.065588,0.0,0.4194,24.0,26

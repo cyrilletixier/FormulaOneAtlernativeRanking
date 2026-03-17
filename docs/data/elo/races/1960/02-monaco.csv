@@ -1,0 +1,26 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,stirling-moss,Stirling Moss,lotus,1,100,1,0,1,1594.518482,1603.656331,9.137849,1.0,0.619256,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,bruce-mclaren,Bruce McLaren,cooper,2,100,11,0,2,1545.331245,1555.176925,9.84568,0.958333,0.548097,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,phil-hill,Phil Hill,ferrari,3,100,10,0,3,1554.361467,1562.888333,8.526865,0.916667,0.561381,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,tony-brooks,Tony Brooks,cooper,4,99,3,0,4,1530.260093,1538.641043,8.38095,0.875,0.525794,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,jo-bonnier,Jo Bonnier,brm,5,83,5,0,5,1491.526631,1500.28903,8.762399,0.833333,0.468233,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,richie-ginther,Richie Ginther,ferrari,6,70,9,0,6,1500.0,1507.460596,7.460596,0.791667,0.480808,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,graham-hill,Graham Hill,brm,7,66,6,0,7,1457.569225,1465.528892,7.959667,0.75,0.418347,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,wolfgang-von-trips,Wolfgang von Trips,ferrari,8,61,8,0,8,1522.410876,1527.071631,4.660756,0.708333,0.514135,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,innes-ireland,Innes Ireland,lotus,9,56,7,0,9,1492.734105,1497.453542,4.719437,0.666667,0.470023,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,dan-gurney,Dan Gurney,brm,DNF,44,14,1,10,1526.338303,1528.858994,2.520692,0.625,0.519971,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,roy-salvadori,Roy Salvadori,cooper,DNF,29,12,1,11,1509.91932,1512.025967,2.106647,0.583333,0.495556,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,alan-stacey,Alan Stacey,lotus,DNF,23,13,1,12,1482.724877,1484.799843,2.074967,0.541667,0.45521,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,chris-bristow,Chris Bristow,cooper,DNF,17,4,1,13,1504.728948,1504.520857,-0.20809,0.479167,0.487837,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,john-surtees,John Surtees,lotus,DNF,17,15,1,14,1500.0,1499.960596,-0.039404,0.479167,0.480808,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,maurice-trintignant,Maurice Trintignant,cooper,DNF,4,16,1,15,1570.116257,1566.091742,-4.024516,0.416667,0.584355,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,jack-brabham,Jack Brabham,cooper,DSQ,40,2,2,16,1541.596605,1537.574605,-4.021999,0.375,0.542583,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,brian-naylor,Brian Naylor,jbw,DNQ,,,2,17,1485.518921,1478.494791,-7.024129,0.166667,0.459339,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,bruce-halford,Bruce Halford,cooper,DNQ,,,2,18,1476.063984,1469.374629,-6.689356,0.166667,0.44539,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,chuck-daigh,Chuck Daigh,scarab,DNQ,,,2,19,1500.0,1492.460596,-7.539404,0.166667,0.480808,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,cliff-allison,Cliff Allison,ferrari,DNQ,,,2,20,1518.004467,1509.822469,-8.181998,0.166667,0.507583,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,gino-munaron,Gino Munaron,cooper,DNQ,,,2,21,1497.758973,1490.299455,-7.459518,0.166667,0.47748,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,giorgio-scarlatti,Giorgio Scarlatti,cooper,DNQ,,,2,22,1486.978783,1479.902828,-7.075955,0.166667,0.461498,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,ian-burgess,Ian Burgess,cooper,DNQ,,,2,23,1498.770258,1491.274696,-7.495562,0.166667,0.478982,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,lance-reventlow,Lance Reventlow,scarab,DNQ,,,2,24,1500.0,1492.460596,-7.539404,0.166667,0.480808,24.0,25
+1960,2,1960-05-29,monaco,Grand Prix de Monaco 1960,masten-gregory,Masten Gregory,cooper,DNQ,,,2,25,1536.953396,1528.096226,-8.85717,0.166667,0.535715,24.0,25

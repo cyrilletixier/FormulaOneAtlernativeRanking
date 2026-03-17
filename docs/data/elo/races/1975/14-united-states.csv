@@ -1,0 +1,25 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,niki-lauda,Niki Lauda,ferrari,1,59,1,0,1,1611.948926,1621.311079,9.362153,1.0,0.60991,24.0,24
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,emerson-fittipaldi,Emerson Fittipaldi,mclaren,2,59,2,0,2,1674.336402,1680.661796,6.325394,0.956522,0.692964,24.0,24
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,jochen-mass,Jochen Mass,mclaren,3,59,9,0,3,1509.827905,1520.632954,10.805049,0.913043,0.462833,24.0,24
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,james-hunt,James Hunt,hesketh,4,59,15,0,4,1576.536647,1583.972822,7.436175,0.869565,0.559725,24.0,24
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,ronnie-peterson,Ronnie Peterson,lotus,5,59,14,0,5,1577.497787,1583.85733,6.359543,0.826087,0.561106,24.0,24
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,jody-scheckter,Jody Scheckter,tyrrell,6,59,10,0,6,1592.180819,1596.99325,4.812431,0.782609,0.582091,24.0,24
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,vittorio-brambilla,Vittorio Brambilla,march,7,59,6,0,7,1487.281258,1494.693299,7.412041,0.73913,0.430295,24.0,24
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,hans-joachim-stuck,Hans-Joachim Stuck,march,8,58,13,0,8,1466.588718,1473.663233,7.074515,0.695652,0.400881,24.0,24
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,john-watson,John Watson,penske,9,57,12,0,9,1521.290997,1525.435286,4.144289,0.652174,0.479495,24.0,24
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,wilson-fittipaldi,Wilson Fittipaldi,fittipaldi,10,55,23,0,10,1452.519869,1457.979262,5.459393,0.608696,0.381221,24.0,24
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,tom-pryce,Tom Pryce,shadow,NC,52,7,1,11,1533.846958,1535.465283,1.618325,0.565217,0.497787,24.0,24
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,brian-henton,Brian Henton,lotus,NC,49,19,1,12,1489.483202,1491.602039,2.118837,0.521739,0.433454,24.0,24
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,brett-lunger,Brett Lunger,hesketh,DNF,46,18,1,13,1508.004674,1508.438409,0.433736,0.478261,0.460189,24.0,24
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,roelof-wunderink,Roelof Wunderink,ensign,DNF,41,22,1,14,1472.47912,1473.093121,0.614001,0.434783,0.409199,24.0,24
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,clay-regazzoni,Clay Regazzoni,ferrari,DNF,28,11,1,15,1644.815711,1638.494172,-6.321539,0.391304,0.654702,24.0,24
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,jean-pierre-jarier,Jean-Pierre Jarier,shadow,DNF,19,4,1,16,1487.841307,1485.842772,-1.998535,0.347826,0.431098,24.0,24
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,carlos-reutemann,Carlos Reutemann,brabham,DNF,9,3,1,17,1627.978547,1619.592865,-8.385682,0.282609,0.632012,24.0,24
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,mario-andretti,Mario Andretti,parnelli,DNF,9,5,1,18,1499.76735,1495.791569,-3.97578,0.282609,0.448266,24.0,24
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,michel-leclere,Michel Leclère,tyrrell,DNF,5,20,1,19,1500.0,1493.929197,-6.070803,0.195652,0.448602,24.0,24
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,tony-brise,Tony Brise,hill,DNF,5,17,1,20,1517.270924,1510.599074,-6.671851,0.195652,0.473646,24.0,24
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,carlos-pace,Carlos Pace,brabham,DNF,2,16,1,21,1548.882406,1539.018578,-9.863829,0.108696,0.519689,24.0,24
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,patrick-depailler,Patrick Depailler,tyrrell,DNF,2,8,1,22,1598.569198,1586.990503,-11.578695,0.108696,0.591141,24.0,24
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,jacques-laffite,Jacques Laffite,frank-williams-racing-cars,DNS,,21,2,23,1483.640341,1473.960085,-9.680256,0.021739,0.425083,24.0,24
+1975,14,1975-10-05,united-states,1975 United States Grand Prix,lella-lombardi,Lella Lombardi,frank-williams-racing-cars,DNS,,24,2,24,1476.293459,1466.864547,-9.428913,0.021739,0.41461,24.0,24

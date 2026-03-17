@@ -1,0 +1,26 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,mario-andretti,Mario Andretti,ferrari,1,79,4,0,1,1460.701762,1474.957126,14.255364,1.0,0.406027,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,jackie-stewart,Jackie Stewart,tyrrell,2,79,1,0,2,1608.636618,1616.74955,8.112932,0.958333,0.620295,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,clay-regazzoni,Clay Regazzoni,ferrari,3,79,3,0,3,1564.875193,1573.484827,8.609635,0.916667,0.557932,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,reine-wisell,Reine Wisell,lotus,4,79,14,0,4,1511.873866,1521.347358,9.473492,0.875,0.480271,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,chris-amon,Chris Amon,matra,5,78,2,0,5,1568.556032,1575.037579,6.481546,0.833333,0.563269,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,denny-hulme,Denny Hulme,mclaren,6,78,7,0,6,1637.69976,1640.86167,3.16191,0.791667,0.65992,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,brian-redman,Brian Redman,surtees,7,78,17,0,7,1468.445492,1476.435231,7.989739,0.75,0.417094,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,jacky-ickx,Jacky Ickx,ferrari,8,78,8,0,8,1602.177002,1604.506612,2.32961,0.708333,0.611266,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,graham-hill,Graham Hill,brabham,9,77,19,0,9,1594.443322,1596.03454,1.591218,0.666667,0.600366,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,ronnie-peterson,Ronnie Peterson,march,10,77,13,0,10,1513.011383,1516.444788,3.433405,0.625,0.481941,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,henri-pescarolo,Henri Pescarolo,march,11,77,18,0,11,1550.494533,1551.607181,1.112649,0.583333,0.536973,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,rolf-stommelen,Rolf Stommelen,surtees,12,77,15,0,12,1506.040087,1507.719006,1.678919,0.541667,0.471712,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,andrea-de-adamich,Andrea de Adamich,march,13,75,22,0,13,1453.672704,1456.167424,2.49472,0.5,0.396053,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,emerson-fittipaldi,Emerson Fittipaldi,lotus,DNF,58,5,1,14,1505.559811,1505.255628,-0.304183,0.458333,0.471008,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,john-surtees,John Surtees,surtees,DNF,56,6,1,15,1533.978948,1531.672794,-2.306154,0.416667,0.512756,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,francois-cevert,François Cevert,tyrrell,DNF,45,9,1,16,1505.676143,1503.367867,-2.308276,0.375,0.471178,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,howden-ganley,Howden Ganley,brm,DNF,42,24,1,17,1500.0,1496.891242,-3.108758,0.333333,0.462865,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,pedro-rodriguez,Pedro Rodríguez,brm,DNF,33,10,1,18,1584.485693,1577.416939,-7.068754,0.291667,0.586198,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,dave-charlton,Dave Charlton,brabham,DNF,31,12,1,19,1491.413,1486.105217,-5.307783,0.229167,0.450324,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,jo-siffert,Jo Siffert,brm,DNF,31,16,1,20,1514.517305,1508.397627,-6.119678,0.229167,0.484153,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,john-love,John Love,march,DNF,30,21,1,21,1508.872335,1501.451558,-7.420777,0.166667,0.475866,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,jackie-pretorius,Jackie Pretorius,brabham,DNF,22,20,1,22,1497.897954,1489.862979,-8.034976,0.125,0.459791,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,peter-gethin,Peter Gethin,mclaren,DNF,7,11,1,23,1502.756931,1493.551315,-9.205616,0.083333,0.466901,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,alex-soler-roig,Alex Soler-Roig,march,DNF,5,25,1,24,1472.7998,1463.13937,-9.660429,0.020833,0.423351,24.0,25
+1971,1,1971-03-06,south-africa,South African Grand Prix 1971,jo-bonnier,Jo Bonnier,mclaren,DNF,5,23,1,25,1479.132371,1469.252616,-9.879755,0.020833,0.43249,24.0,25

@@ -1,0 +1,29 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,michael-schumacher,Michael Schumacher,benetton,1,69,1,0,1,1667.548306,1675.285745,7.73744,1.0,0.677607,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,damon-hill,Damon Hill,williams,2,69,2,0,2,1658.201367,1665.336207,7.13484,0.962963,0.665678,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,mika-hakkinen,Mika Häkkinen,mclaren,3,69,9,0,3,1581.427608,1590.173209,8.7456,0.925926,0.561526,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,eddie-irvine,Eddie Irvine,jordan,4,69,10,0,4,1491.300316,1502.235011,10.934695,0.888889,0.433277,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,gerhard-berger,Gerhard Berger,ferrari,5,68,6,0,5,1627.808553,1633.238232,5.429679,0.851852,0.625615,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,6,68,4,0,6,1487.29587,1496.587925,9.292055,0.814815,0.427646,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,ukyo-katayama,Ukyo Katayama,tyrrell,7,68,13,0,7,1472.70289,1481.594957,8.892067,0.777778,0.407275,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,johnny-herbert,Johnny Herbert,ligier,8,68,7,0,8,1547.808773,1553.256669,5.447896,0.740741,0.513745,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,olivier-panis,Olivier Panis,ligier,9,68,11,0,9,1542.427997,1547.171593,4.743596,0.703704,0.506054,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,jean-alesi,Jean Alesi,ferrari,10,68,16,0,10,1583.655365,1586.103424,2.448059,0.666667,0.564664,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,gianni-morbidelli,Gianni Morbidelli,footwork,11,68,8,0,11,1511.007819,1515.050495,4.042676,0.62963,0.461185,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,rubens-barrichello,Rubens Barrichello,jordan,12,68,5,0,12,1529.141043,1531.673943,2.5329,0.592593,0.487055,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,mark-blundell,Mark Blundell,tyrrell,13,68,14,0,13,1551.184734,1552.072446,0.887712,0.555556,0.518568,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,michele-alboreto,Michele Alboreto,minardi,14,67,20,0,14,1505.592397,1507.153129,1.560731,0.518519,0.453488,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,pierluigi-martini,Pierluigi Martini,minardi,15,67,17,0,15,1562.322506,1561.051272,-1.271234,0.481481,0.53445,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,alex-zanardi,Alex Zanardi,lotus,16,67,21,0,16,1477.261198,1478.001202,0.740004,0.444444,0.413611,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,christian-fittipaldi,Christian Fittipaldi,footwork,17,66,19,0,17,1563.466248,1560.37817,-3.088078,0.407407,0.536077,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,eric-bernard,Éric Bernard,lotus,18,66,22,0,18,1548.63689,1545.167501,-3.46939,0.37037,0.514928,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,domenico-schiattarella,Domenico Schiattarella,simtek,19,64,26,0,19,1500.0,1497.306557,-2.693443,0.333333,0.44556,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,nigel-mansell,Nigel Mansell,williams,DNF,47,3,1,20,1724.352453,1713.573921,-10.778532,0.296296,0.745402,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,david-brabham,David Brabham,simtek,DNF,42,25,1,21,1473.806711,1470.217568,-3.589142,0.259259,0.408807,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,andrea-de-cesaris,Andrea de Cesaris,sauber,DNF,37,18,1,22,1520.268792,1513.7725,-6.496291,0.203704,0.474383,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,erik-comas,Érik Comas,larrousse,DNF,37,23,1,23,1532.338245,1525.428114,-6.910131,0.203704,0.491626,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,jos-verstappen,Jos Verstappen,benetton,DNF,15,12,1,24,1523.769957,1515.820373,-7.949584,0.148148,0.479381,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,hideki-noda,Hideki Noda,larrousse,DNF,10,24,1,25,1500.0,1491.973224,-8.026776,0.111111,0.44556,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,martin-brundle,Martin Brundle,mclaren,DNF,8,15,1,26,1624.547427,1611.416109,-13.131318,0.074074,0.621212,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,bertrand-gachot,Bertrand Gachot,pacific,DNQ,,,2,27,1387.927099,1381.264972,-6.662127,0.018519,0.296107,24.0,28
+1994,14,1994-10-16,europe,1994 Grand Prix of Europe,paul-belmondo,Paul Belmondo,pacific,DNQ,,,2,28,1382.481443,1375.977538,-6.503906,0.018519,0.289515,24.0,28

@@ -1,0 +1,31 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,nelson-piquet,Nelson Piquet,brabham,1,45,6,0,1,1626.289981,1635.537639,9.247659,1.0,0.614681,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,alain-prost,Alain Prost,renault,2,45,1,0,2,1533.129631,1544.674211,11.544579,0.965517,0.484493,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,jacques-laffite,Jacques Laffite,ligier,3,45,7,0,3,1667.279325,1673.581635,6.302311,0.931034,0.668438,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,hector-rebaque,Héctor Rebaque,brabham,4,45,16,0,4,1491.396975,1502.697267,11.300292,0.896552,0.425706,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,eddie-cheever,Eddie Cheever,tyrrell,5,45,18,0,5,1495.641769,1505.972323,10.330554,0.862069,0.431629,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,john-watson,John Watson,mclaren,6,44,9,0,6,1636.731602,1641.505501,4.773899,0.827586,0.628674,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,elio-de-angelis,Elio de Angelis,lotus,7,44,14,0,7,1568.316408,1574.526301,6.209893,0.793103,0.534358,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,jean-pierre-jarier,Jean-Pierre Jarier,osella,8,44,17,0,8,1585.486575,1590.289371,4.802796,0.758621,0.558504,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,mario-andretti,Mario Andretti,alfa-romeo,9,44,12,0,9,1586.271459,1590.220308,3.948849,0.724138,0.559603,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,gilles-villeneuve,Gilles Villeneuve,ferrari,10,44,8,0,10,1644.952419,1646.154815,1.202396,0.689655,0.639555,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,alan-jones,Alan Jones,williams,11,44,4,0,11,1698.560869,1697.316313,-1.244556,0.655172,0.707029,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,siegfried-stohr,Siegfried Stohr,arrows,12,44,24,0,12,1471.748981,1477.08032,5.331339,0.62069,0.398551,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,rene-arnoux,René Arnoux,renault,13,44,2,0,13,1595.366715,1595.700763,0.334048,0.586207,0.572288,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,marc-surer,Marc Surer,theodore,14,43,22,0,14,1541.522627,1542.850393,1.327765,0.551724,0.496401,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,15,43,19,0,15,1530.366462,1531.246454,0.879992,0.517241,0.480575,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,eliseo-salazar,Eliseo Salazar,ensign,NC,39,23,1,16,1458.520816,1460.973616,2.452799,0.482759,0.380559,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,slim-borgudd,Slim Borgudd,ats-wheels,DNF,35,20,1,17,1485.273838,1486.019785,0.745946,0.448276,0.417195,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,carlos-reutemann,Carlos Reutemann,williams,DNF,27,3,1,18,1726.465264,1717.824024,-8.64124,0.37931,0.739362,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,patrick-tambay,Patrick Tambay,ligier,DNF,27,11,1,19,1541.655997,1538.841289,-2.814708,0.37931,0.49659,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,riccardo-patrese,Riccardo Patrese,arrows,DNF,27,13,1,20,1573.360016,1569.468146,-3.89187,0.37931,0.541472,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,derek-daly,Derek Daly,march,DNF,15,21,1,21,1475.646815,1473.401493,-2.245321,0.310345,0.4039,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,nigel-mansell,Nigel Mansell,lotus,DNF,12,15,1,22,1506.8863,1502.76948,-4.11682,0.275862,0.447396,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,andrea-de-cesaris,Andrea de Cesaris,mclaren,DNF,4,10,1,23,1492.424609,1487.966388,-4.458221,0.241379,0.427139,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,didier-pironi,Didier Pironi,ferrari,DNF,1,5,1,24,1620.264557,1610.673467,-9.591091,0.206897,0.606525,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,beppe-gabbiani,Beppe Gabbiani,osella,DNQ,,,2,25,1440.811293,1434.314193,-6.4971,0.086207,0.356919,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,brian-henton,Brian Henton,toleman,DNQ,,,2,26,1423.706322,1417.74366,-5.962663,0.086207,0.334651,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,chico-serra,Chico Serra,fittipaldi,DNQ,,,2,27,1474.036063,1466.464545,-7.571519,0.086207,0.401687,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,derek-warwick,Derek Warwick,toleman,DNQ,,,2,28,1457.357051,1450.330287,-7.026763,0.086207,0.378989,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,keke-rosberg,Keke Rosberg,fittipaldi,DNQ,,,2,29,1496.403915,1488.088213,-8.315702,0.086207,0.432694,24.0,30
+1981,10,1981-08-02,germany,Grosser Preis von Deutschland 1981,michele-alboreto,Michele Alboreto,tyrrell,DNQ,,,2,30,1497.650502,1489.292955,-8.357547,0.086207,0.434438,24.0,30

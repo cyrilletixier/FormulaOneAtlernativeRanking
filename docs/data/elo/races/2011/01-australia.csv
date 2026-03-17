@@ -1,0 +1,23 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2011,1,2011-03-27,australia,2011 Formula 1 Qantas Australian Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,1,58,1,0,1,1689.995895,1698.406793,8.410898,1.0,0.649546,24.0,22
+2011,1,2011-03-27,australia,2011 Formula 1 Qantas Australian Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,2,58,2,0,2,1704.553078,1711.376183,6.823105,0.952381,0.668085,24.0,22
+2011,1,2011-03-27,australia,2011 Formula 1 Qantas Australian Grand Prix,vitaly-petrov,Vitaly Petrov,renault,3,58,6,0,3,1517.80173,1529.587428,11.785697,0.904762,0.413691,24.0,22
+2011,1,2011-03-27,australia,2011 Formula 1 Qantas Australian Grand Prix,fernando-alonso,Fernando Alonso,ferrari,4,58,5,0,4,1740.77881,1744.25571,3.4769,0.857143,0.712272,24.0,22
+2011,1,2011-03-27,australia,2011 Formula 1 Qantas Australian Grand Prix,mark-webber,Mark Webber,red-bull,5,58,3,0,5,1680.309474,1684.450289,4.140815,0.809524,0.63699,24.0,22
+2011,1,2011-03-27,australia,2011 Formula 1 Qantas Australian Grand Prix,jenson-button,Jenson Button,mclaren,6,58,4,0,6,1698.012569,1700.462927,2.450358,0.761905,0.659807,24.0,22
+2011,1,2011-03-27,australia,2011 Formula 1 Qantas Australian Grand Prix,felipe-massa,Felipe Massa,ferrari,7,58,8,0,7,1696.53323,1697.88595,1.35272,0.714286,0.657922,24.0,22
+2011,1,2011-03-27,australia,2011 Formula 1 Qantas Australian Grand Prix,sebastien-buemi,Sébastien Buemi,toro-rosso,8,57,10,0,8,1485.669185,1492.779041,7.109856,0.666667,0.370423,24.0,22
+2011,1,2011-03-27,australia,2011 Formula 1 Qantas Australian Grand Prix,adrian-sutil,Adrian Sutil,force-india,9,57,16,0,9,1478.810903,1484.994885,6.183982,0.619048,0.361382,24.0,22
+2011,1,2011-03-27,australia,2011 Formula 1 Qantas Australian Grand Prix,paul-di-resta,Paul di Resta,force-india,10,57,14,0,10,1500.0,1504.365104,4.365104,0.571429,0.389549,24.0,22
+2011,1,2011-03-27,australia,2011 Formula 1 Qantas Australian Grand Prix,jaime-alguersuari,Jaime Alguersuari,toro-rosso,11,57,12,0,11,1502.170938,1505.323035,3.152096,0.52381,0.392472,24.0,22
+2011,1,2011-03-27,australia,2011 Formula 1 Qantas Australian Grand Prix,nick-heidfeld,Nick Heidfeld,renault,12,57,18,0,12,1620.935496,1618.996146,-1.93935,0.47619,0.556997,24.0,22
+2011,1,2011-03-27,australia,2011 Formula 1 Qantas Australian Grand Prix,jarno-trulli,Jarno Trulli,lotus-racing,13,56,20,0,13,1467.46638,1469.433609,1.967228,0.428571,0.346604,24.0,22
+2011,1,2011-03-27,australia,2011 Formula 1 Qantas Australian Grand Prix,jerome-dambrosio,Jérôme d'Ambrosio,virgin,14,54,22,0,14,1500.0,1499.793676,-0.206324,0.380952,0.389549,24.0,22
+2011,1,2011-03-27,australia,2011 Formula 1 Qantas Australian Grand Prix,timo-glock,Timo Glock,virgin,NC,49,21,1,15,1478.754912,1478.083515,-0.671397,0.333333,0.361308,24.0,22
+2011,1,2011-03-27,australia,2011 Formula 1 Qantas Australian Grand Prix,rubens-barrichello,Rubens Barrichello,williams,DNF,48,17,1,16,1622.962762,1616.384857,-6.577905,0.285714,0.559794,24.0,22
+2011,1,2011-03-27,australia,2011 Formula 1 Qantas Australian Grand Prix,nico-rosberg,Nico Rosberg,mercedes,DNF,22,7,1,17,1636.029398,1627.878078,-8.15132,0.238095,0.577734,24.0,22
+2011,1,2011-03-27,australia,2011 Formula 1 Qantas Australian Grand Prix,heikki-kovalainen,Heikki Kovalainen,lotus-racing,DNF,19,19,1,18,1512.219346,1506.473429,-5.745918,0.166667,0.40608,24.0,22
+2011,1,2011-03-27,australia,2011 Formula 1 Qantas Australian Grand Prix,michael-schumacher,Michael Schumacher,mercedes,DNF,19,11,1,19,1732.404624,1719.548889,-12.855736,0.166667,0.702322,24.0,22
+2011,1,2011-03-27,australia,2011 Formula 1 Qantas Australian Grand Prix,pastor-maldonado,Pastor Maldonado,williams,DNF,9,15,1,20,1500.0,1492.936533,-7.063467,0.095238,0.389549,24.0,22
+2011,1,2011-03-27,australia,2011 Formula 1 Qantas Australian Grand Prix,kamui-kobayashi,Kamui Kobayashi,sauber,DSQ,58,9,2,21,1513.905948,1504.676356,-9.229591,0.02381,0.408376,24.0,22
+2011,1,2011-03-27,australia,2011 Formula 1 Qantas Australian Grand Prix,sergio-perez,Sergio Pérez,sauber,DSQ,58,13,2,22,1500.0,1491.222247,-8.777753,0.02381,0.389549,24.0,22

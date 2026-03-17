@@ -1,0 +1,25 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,peter-gethin,Peter Gethin,brm,1,55,11,0,1,1500.785632,1513.39588,12.610249,1.0,0.474573,24.0,24
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,ronnie-peterson,Ronnie Peterson,march,2,55,6,0,2,1545.50683,1555.496145,9.989315,0.956522,0.5403,24.0,24
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,francois-cevert,François Cevert,tyrrell,3,55,5,0,3,1524.924437,1534.595451,9.671014,0.913043,0.510085,24.0,24
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,mike-hailwood,Mike Hailwood,surtees,4,55,17,0,4,1490.301574,1500.150319,9.848745,0.869565,0.459201,24.0,24
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,howden-ganley,Howden Ganley,brm,5,55,4,0,5,1493.980224,1502.656196,8.675972,0.826087,0.464588,24.0,24
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,chris-amon,Chris Amon,matra,6,55,1,0,6,1566.099496,1571.195801,5.096305,0.782609,0.570263,24.0,24
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,jackie-oliver,Jackie Oliver,mclaren,7,55,13,0,7,1456.05822,1463.966839,7.908619,0.73913,0.409605,24.0,24
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,emerson-fittipaldi,Emerson Fittipaldi,lotus,8,54,18,0,8,1544.077375,1547.85603,3.778655,0.695652,0.538208,24.0,24
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,jo-siffert,Jo Siffert,brm,9,53,3,0,9,1526.170725,1529.536863,3.366138,0.652174,0.511918,24.0,24
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,jo-bonnier,Jo Bonnier,mclaren,10,51,21,0,10,1450.234825,1455.212169,4.977344,0.608696,0.401306,24.0,24
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,graham-hill,Graham Hill,brabham,DNF,47,14,1,11,1566.703163,1566.561141,-0.142021,0.565217,0.571135,24.0,24
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,jean-pierre-jarier,Jean-Pierre Jarier,march,NC,47,24,1,12,1500.0,1501.159677,1.159677,0.521739,0.473419,24.0,24
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,mike-beuttler,Mike Beuttler,march,DNF,41,16,1,13,1483.395488,1484.095089,0.699601,0.478261,0.449111,24.0,24
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,henri-pescarolo,Henri Pescarolo,march,DNF,40,10,1,14,1557.73083,1554.770467,-2.960363,0.434783,0.558131,24.0,24
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,andrea-de-adamich,Andrea de Adamich,march,DNF,33,20,1,15,1448.36644,1448.19004,-0.1764,0.391304,0.398654,24.0,24
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,clay-regazzoni,Clay Regazzoni,ferrari,DNF,17,8,1,16,1554.695212,1549.753898,-4.941314,0.347826,0.553714,24.0,24
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,jackie-stewart,Jackie Stewart,tyrrell,DNF,15,7,1,17,1649.513818,1639.852944,-9.660874,0.282609,0.685145,24.0,24
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,jacky-ickx,Jacky Ickx,ferrari,DNF,15,2,1,18,1590.533661,1582.791393,-7.742268,0.282609,0.605203,24.0,24
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,nanni-galli,Nanni Galli,march,DNF,11,19,1,19,1478.05708,1472.6824,-5.37468,0.217391,0.441336,24.0,24
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,silvio-moser,Silvio Moser,bellasi,DNF,5,22,1,20,1427.573158,1422.356672,-5.216486,0.152174,0.369527,24.0,24
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,tim-schenken,Tim Schenken,brabham,DNF,5,9,1,21,1520.110273,1511.690455,-8.419818,0.152174,0.503,24.0,24
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,helmut-marko,Helmut Marko,brm,DNF,3,12,1,22,1491.452811,1481.956766,-9.496045,0.065217,0.460886,24.0,24
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,john-surtees,John Surtees,surtees,DNF,3,15,1,23,1552.292232,1540.652355,-11.639877,0.065217,0.550212,24.0,24
+1971,9,1971-09-05,italy,Gran Premio d'Italia 1971,rolf-stommelen,Rolf Stommelen,surtees,DNS,,23,2,24,1518.397492,1506.386007,-12.011485,0.0,0.500479,24.0,24

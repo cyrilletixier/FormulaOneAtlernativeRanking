@@ -1,0 +1,23 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2001,7,2001-05-27,monaco,Grand Prix de Monaco 2001,michael-schumacher,Michael Schumacher,ferrari,1,78,2,0,1,1767.351226,1772.752188,5.400962,1.0,0.77496,24.0,22
+2001,7,2001-05-27,monaco,Grand Prix de Monaco 2001,rubens-barrichello,Rubens Barrichello,ferrari,2,78,4,0,2,1631.311292,1639.528045,8.216753,0.952381,0.610016,24.0,22
+2001,7,2001-05-27,monaco,Grand Prix de Monaco 2001,eddie-irvine,Eddie Irvine,jaguar,3,78,6,0,3,1615.780995,1623.36567,7.584675,0.904762,0.588734,24.0,22
+2001,7,2001-05-27,monaco,Grand Prix de Monaco 2001,jacques-villeneuve,Jacques Villeneuve,bar,4,78,9,0,4,1587.801859,1595.181767,7.379909,0.857143,0.549647,24.0,22
+2001,7,2001-05-27,monaco,Grand Prix de Monaco 2001,david-coulthard,David Coulthard,mclaren,5,77,1,0,5,1725.130696,1727.070483,1.939787,0.809524,0.728699,24.0,22
+2001,7,2001-05-27,monaco,Grand Prix de Monaco 2001,jean-alesi,Jean Alesi,prost,6,77,11,0,6,1530.282953,1537.340511,7.057557,0.761905,0.46784,24.0,22
+2001,7,2001-05-27,monaco,Grand Prix de Monaco 2001,jenson-button,Jenson Button,benetton,7,77,17,0,7,1527.582638,1533.589527,6.006889,0.714286,0.463999,24.0,22
+2001,7,2001-05-27,monaco,Grand Prix de Monaco 2001,jos-verstappen,Jos Verstappen,arrows,8,77,19,0,8,1473.094307,1479.790244,6.695936,0.666667,0.387669,24.0,22
+2001,7,2001-05-27,monaco,Grand Prix de Monaco 2001,enrique-bernoldi,Enrique Bernoldi,arrows,9,76,20,0,9,1471.586742,1477.189355,5.602613,0.619048,0.385605,24.0,22
+2001,7,2001-05-27,monaco,Grand Prix de Monaco 2001,kimi-raikkonen,Kimi Räikkönen,sauber,10,73,15,0,10,1507.757445,1511.009756,3.252311,0.571429,0.435916,24.0,22
+2001,7,2001-05-27,monaco,Grand Prix de Monaco 2001,ralf-schumacher,Ralf Schumacher,williams,DNF,57,5,1,11,1583.742894,1583.260354,-0.48254,0.52381,0.543915,24.0,22
+2001,7,2001-05-27,monaco,Grand Prix de Monaco 2001,tarso-marques,Tarso Marques,minardi,DNF,56,22,1,12,1450.184617,1453.052423,2.867806,0.47619,0.356699,24.0,22
+2001,7,2001-05-27,monaco,Grand Prix de Monaco 2001,fernando-alonso,Fernando Alonso,minardi,DNF,54,18,1,13,1483.496269,1484.134043,0.637774,0.428571,0.401998,24.0,22
+2001,7,2001-05-27,monaco,Grand Prix de Monaco 2001,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,DNF,49,13,1,14,1580.236849,1576.444778,-3.792072,0.380952,0.538955,24.0,22
+2001,7,2001-05-27,monaco,Grand Prix de Monaco 2001,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,43,10,1,15,1544.944453,1541.214894,-3.729559,0.333333,0.488732,24.0,22
+2001,7,2001-05-27,monaco,Grand Prix de Monaco 2001,jarno-trulli,Jarno Trulli,jordan,DNF,30,8,1,16,1512.041339,1508.291389,-3.74995,0.285714,0.441962,24.0,22
+2001,7,2001-05-27,monaco,Grand Prix de Monaco 2001,luciano-burti,Luciano Burti,prost,DNF,24,21,1,17,1511.697164,1506.816028,-4.881136,0.238095,0.441476,24.0,22
+2001,7,2001-05-27,monaco,Grand Prix de Monaco 2001,pedro-de-la-rosa,Pedro de la Rosa,jaguar,DNF,18,14,1,18,1442.112421,1438.379672,-3.732748,0.190476,0.346007,24.0,22
+2001,7,2001-05-27,monaco,Grand Prix de Monaco 2001,mika-hakkinen,Mika Häkkinen,mclaren,DNF,15,3,1,19,1696.18348,1682.950891,-13.232589,0.142857,0.694215,24.0,22
+2001,7,2001-05-27,monaco,Grand Prix de Monaco 2001,olivier-panis,Olivier Panis,bar,DNF,13,12,1,20,1556.010756,1546.188158,-9.822598,0.095238,0.504513,24.0,22
+2001,7,2001-05-27,monaco,Grand Prix de Monaco 2001,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,2,7,1,21,1500.548776,1491.473028,-9.075748,0.047619,0.425775,24.0,22
+2001,7,2001-05-27,monaco,Grand Prix de Monaco 2001,nick-heidfeld,Nick Heidfeld,sauber,DNF,0,16,1,22,1498.333094,1488.189061,-10.144033,0.0,0.422668,24.0,22

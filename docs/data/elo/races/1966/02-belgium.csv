@@ -1,0 +1,20 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1966,2,1966-06-12,belgium,1966 Belgian Grand Prix,john-surtees,John Surtees,ferrari,1,28,1,0,1,1571.659311,1583.236247,11.576935,1.0,0.517628,24.0,19
+1966,2,1966-06-12,belgium,1966 Belgian Grand Prix,jochen-rindt,Jochen Rindt,cooper,2,28,2,0,2,1500.81245,1513.564103,12.751653,0.944444,0.413126,24.0,19
+1966,2,1966-06-12,belgium,1966 Belgian Grand Prix,lorenzo-bandini,Lorenzo Bandini,ferrari,3,27,5,0,3,1596.510167,1604.539004,8.028837,0.888889,0.554354,24.0,19
+1966,2,1966-06-12,belgium,1966 Belgian Grand Prix,jack-brabham,Jack Brabham,brabham,4,26,4,0,4,1563.202198,1571.080507,7.878308,0.833333,0.50507,24.0,19
+1966,2,1966-06-12,belgium,1966 Belgian Grand Prix,richie-ginther,Richie Ginther,cooper,5,25,8,0,5,1618.139961,1622.744921,4.60496,0.777778,0.585904,24.0,19
+1966,2,1966-06-12,belgium,1966 Belgian Grand Prix,guy-ligier,Guy Ligier,cooper,NC,24,12,1,6,1506.549554,1513.76809,7.218535,0.722222,0.42145,24.0,19
+1966,2,1966-06-12,belgium,1966 Belgian Grand Prix,dan-gurney,Dan Gurney,eagle,NC,23,15,1,7,1620.533411,1622.388729,1.855318,0.666667,0.589362,24.0,19
+1966,2,1966-06-12,belgium,1966 Belgian Grand Prix,bob-bondurant,Bob Bondurant,brm,DNF,0,11,1,8,1507.149826,1507.01407,-0.135757,0.416667,0.422323,24.0,19
+1966,2,1966-06-12,belgium,1966 Belgian Grand Prix,denny-hulme,Denny Hulme,brabham,DNF,0,13,1,9,1503.189003,1503.19135,0.002346,0.416667,0.416569,24.0,19
+1966,2,1966-06-12,belgium,1966 Belgian Grand Prix,graham-hill,Graham Hill,brm,DNF,0,9,1,10,1677.517724,1671.467055,-6.050669,0.416667,0.668778,24.0,19
+1966,2,1966-06-12,belgium,1966 Belgian Grand Prix,jackie-stewart,Jackie Stewart,brm,DNF,0,3,1,11,1562.60949,1560.50893,-2.10056,0.416667,0.50419,24.0,19
+1966,2,1966-06-12,belgium,1966 Belgian Grand Prix,jim-clark,Jim Clark,lotus,DNF,0,10,1,12,1659.96666,1654.486701,-5.479959,0.416667,0.644998,24.0,19
+1966,2,1966-06-12,belgium,1966 Belgian Grand Prix,jo-bonnier,Jo Bonnier,cooper,DNF,0,6,1,13,1538.265679,1537.032329,-1.23335,0.416667,0.468056,24.0,19
+1966,2,1966-06-12,belgium,1966 Belgian Grand Prix,jo-siffert,Jo Siffert,cooper,DNF,0,14,1,14,1530.497966,1529.540286,-0.95768,0.416667,0.45657,24.0,19
+1966,2,1966-06-12,belgium,1966 Belgian Grand Prix,mike-spence,Mike Spence,lotus,DNF,0,7,1,15,1552.045627,1550.321709,-1.723919,0.416667,0.488497,24.0,19
+1966,2,1966-06-12,belgium,1966 Belgian Grand Prix,bruce-mclaren,Bruce McLaren,mclaren,DNS,,,2,16,1567.995514,1557.702969,-10.292546,0.083333,0.512189,24.0,19
+1966,2,1966-06-12,belgium,1966 Belgian Grand Prix,peter-arundell,Peter Arundell,lotus,DNS,,,2,17,1523.378376,1514.672542,-8.705833,0.083333,0.446076,24.0,19
+1966,2,1966-06-12,belgium,1966 Belgian Grand Prix,phil-hill,Phil Hill,mclaren,DNS,,,2,18,1550.353354,1540.689749,-9.663605,0.083333,0.485984,24.0,19
+1966,2,1966-06-12,belgium,1966 Belgian Grand Prix,vic-wilson,Vic Wilson,brm,DNS,,,2,19,1490.92078,1483.347764,-7.573015,0.083333,0.398876,24.0,19

@@ -1,0 +1,29 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,michael-schumacher,Michael Schumacher,benetton,1,77,1,0,1,1675.410679,1682.656647,7.245967,1.0,0.698085,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,damon-hill,Damon Hill,williams,2,77,2,0,2,1625.770413,1633.676456,7.906043,0.962963,0.633545,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,jos-verstappen,Jos Verstappen,benetton,3,77,12,0,3,1502.061548,1513.304941,11.243393,0.925926,0.457451,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,martin-brundle,Martin Brundle,mclaren,4,76,6,0,4,1613.425058,1619.95784,6.532782,0.888889,0.61669,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,mark-blundell,Mark Blundell,tyrrell,5,76,11,0,5,1539.787477,1547.943366,8.155889,0.851852,0.512023,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,olivier-panis,Olivier Panis,ligier,6,76,9,0,6,1536.804228,1544.174921,7.370693,0.814815,0.507703,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,michele-alboreto,Michele Alboreto,minardi,7,75,20,0,7,1490.822606,1498.89775,8.075143,0.777778,0.441313,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,erik-comas,Érik Comas,larrousse,8,75,21,0,8,1538.196226,1543.740753,5.544527,0.740741,0.509719,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,olivier-beretta,Olivier Beretta,larrousse,9,75,25,0,9,1489.626509,1495.964952,6.338442,0.703704,0.439602,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,eric-bernard,Éric Bernard,ligier,10,75,18,0,10,1531.156386,1535.167901,4.011515,0.666667,0.49952,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,david-brabham,David Brabham,simtek,11,74,23,0,11,1465.936627,1471.303443,5.366816,0.62963,0.406012,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,gerhard-berger,Gerhard Berger,ferrari,12,72,4,0,12,1645.074177,1643.473096,-1.60108,0.592593,0.659304,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,alex-zanardi,Alex Zanardi,lotus,13,72,22,0,13,1482.173735,1485.211842,3.038108,0.555556,0.428968,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,christian-fittipaldi,Christian Fittipaldi,footwork,14,69,16,0,14,1559.612037,1559.080595,-0.531441,0.518519,0.540662,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,david-coulthard,David Coulthard,williams,DNF,59,3,1,15,1518.571995,1518.576512,0.004517,0.481481,0.481293,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,jean-alesi,Jean Alesi,ferrari,DNF,58,13,1,16,1616.692837,1612.006796,-4.686041,0.425926,0.621178,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,pierluigi-martini,Pierluigi Martini,minardi,DNF,58,15,1,17,1561.930208,1559.096483,-2.833726,0.425926,0.543998,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,DNF,39,8,1,18,1503.436385,1501.29892,-2.137464,0.37037,0.459431,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,johnny-herbert,Johnny Herbert,lotus,DNF,34,24,1,19,1557.233226,1552.339581,-4.893645,0.333333,0.537235,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,andrea-de-cesaris,Andrea de Cesaris,sauber,DNF,30,17,1,20,1535.443093,1529.972218,-5.470874,0.277778,0.505731,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,gianni-morbidelli,Gianni Morbidelli,footwork,DNF,30,19,1,21,1510.434738,1505.832749,-4.60199,0.277778,0.469527,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,philippe-alliot,Philippe Alliot,mclaren,DNF,21,14,1,22,1562.030883,1554.304793,-7.72609,0.222222,0.544143,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,jean-marc-gounon,Jean-Marc Gounon,simtek,DNF,9,26,1,23,1505.234276,1498.590179,-6.644097,0.185185,0.462023,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,eddie-irvine,Eddie Irvine,jordan,DNF,0,7,1,24,1485.671454,1477.923277,-7.748177,0.111111,0.433952,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,rubens-barrichello,Rubens Barrichello,jordan,DNF,0,10,1,25,1521.037144,1512.067128,-8.970016,0.111111,0.484862,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,ukyo-katayama,Ukyo Katayama,tyrrell,DNF,0,5,1,26,1485.408966,1477.669776,-7.73919,0.111111,0.433577,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,bertrand-gachot,Bertrand Gachot,pacific,DNQ,,,2,27,1417.708651,1409.986655,-7.721995,0.018519,0.340268,24.0,28
+1994,10,1994-08-14,hungary,Marlboro Magyar Nagydíj 1994,paul-belmondo,Paul Belmondo,pacific,DNQ,,,2,28,1411.535082,1404.007075,-7.528007,0.018519,0.332185,24.0,28

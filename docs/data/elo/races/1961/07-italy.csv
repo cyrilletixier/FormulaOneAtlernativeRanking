@@ -1,0 +1,35 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,phil-hill,Phil Hill,ferrari,1,43,4,0,1,1622.339126,1630.693985,8.354859,1.0,0.651881,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,dan-gurney,Dan Gurney,porsche,2,43,12,0,2,1542.900248,1553.207642,10.307395,0.969697,0.540222,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,bruce-mclaren,Bruce McLaren,cooper,3,43,14,0,3,1593.386634,1601.23619,7.849557,0.939394,0.612329,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,jackie-lewis,Jackie Lewis,cooper,4,43,16,0,4,1493.448145,1504.034618,10.586473,0.909091,0.467988,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,tony-brooks,Tony Brooks,brm,5,43,13,0,5,1506.661189,1516.057242,9.396053,0.878788,0.487286,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,roy-salvadori,Roy Salvadori,cooper,6,42,18,0,6,1516.739308,1525.054228,8.31492,0.848485,0.50203,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,carel-godin-de-beaufort,Carel Godin de Beaufort,porsche,7,41,15,0,7,1493.471129,1501.874979,8.40385,0.818182,0.468021,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,lorenzo-bandini,Lorenzo Bandini,cooper,8,41,21,0,8,1496.908447,1504.464686,7.556239,0.787879,0.473036,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,maurice-trintignant,Maurice Trintignant,cooper,9,41,22,0,9,1545.005444,1550.148502,5.143058,0.757576,0.543282,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,tim-parnell,Tim Parnell,lotus,10,40,27,0,10,1483.215524,1489.795679,6.580155,0.727273,0.4531,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,henry-taylor,Henry Taylor,lotus,11,39,23,0,11,1486.539706,1492.276682,5.736976,0.69697,0.457929,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,renato-pirocchi,Renato Pirocchi,cooper,12,38,29,0,12,1500.0,1504.538813,4.538813,0.666667,0.477549,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,stirling-moss,Stirling Moss,lotus,DNF,36,11,1,13,1606.287373,1606.436342,0.148969,0.636364,0.630157,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,richie-ginther,Richie Ginther,ferrari,DNF,23,3,1,14,1553.011101,1554.239283,1.228182,0.606061,0.554886,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,gaetano-starrabba,Gaetano Starrabba,lotus,DNF,19,30,1,15,1500.0,1502.356995,2.356995,0.575758,0.477549,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,jo-bonnier,Jo Bonnier,porsche,DNF,14,8,1,16,1507.83386,1509.188751,1.354891,0.545455,0.489001,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,giancarlo-baghetti,Giancarlo Baghetti,ferrari,DNF,13,6,1,17,1507.26788,1507.188093,-0.079787,0.484848,0.488173,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,nino-vaccarella,Nino Vaccarella,de-tomaso,DNF,13,20,1,18,1500.0,1500.175177,0.175177,0.484848,0.477549,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,ricardo-rodriguez,Ricardo Rodríguez,ferrari,DNF,13,2,1,19,1500.0,1500.175177,0.175177,0.484848,0.477549,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,masten-gregory,Masten Gregory,lotus,DNF,11,17,1,20,1506.206057,1504.708993,-1.497064,0.424242,0.48662,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,graham-hill,Graham Hill,brm,DNF,10,5,1,21,1463.563623,1462.824387,-0.739237,0.393939,0.424741,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,jack-brabham,Jack Brabham,cooper,DNF,8,10,1,22,1570.371184,1565.182236,-5.188949,0.363636,0.579843,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,brian-naylor,Brian Naylor,jbw,DNF,6,31,1,23,1471.100802,1468.64704,-2.453761,0.333333,0.435573,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,innes-ireland,Innes Ireland,lotus,DNF,5,9,1,24,1520.498672,1515.227047,-5.271626,0.287879,0.50753,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,jack-fairman,Jack Fairman,cooper,DNF,5,26,1,25,1462.798974,1459.540573,-3.258401,0.287879,0.423646,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,john-surtees,John Surtees,cooper,DNF,2,19,1,26,1506.312874,1500.448425,-5.864449,0.242424,0.486776,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,jim-clark,Jim Clark,lotus,DNF,1,7,1,27,1544.03313,1534.664638,-9.368492,0.151515,0.541869,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,roberto-bussinello,Roberto Bussinello,de-tomaso,DNF,1,24,1,28,1500.0,1492.175177,-7.824823,0.151515,0.477549,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,roberto-lippi,Roberto Lippi,de-tomaso,DNF,1,32,1,29,1500.0,1492.175177,-7.824823,0.151515,0.477549,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,wolfgang-seidel,Wolfgang Seidel,lotus,DNF,1,28,1,30,1459.048687,1452.646256,-6.40243,0.151515,0.418283,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,wolfgang-von-trips,Wolfgang von Trips,ferrari,DNF,1,1,1,31,1592.114642,1581.097681,-11.016961,0.151515,0.610555,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,gerry-ashmore,Gerry Ashmore,lotus,DNF,0,25,1,32,1490.573787,1480.897146,-9.676641,0.060606,0.463799,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,andre-pilette,André Pilette,emeryson,DNQ,,,2,33,1497.693253,1487.04018,-10.653072,0.030303,0.474181,24.0,34
+1961,7,1961-09-10,italy,Gran Premio d'Italia 1961,massimo-natili,Massimo Natili,cooper,DNS,,,2,34,1489.315597,1478.228378,-11.087219,0.0,0.461967,24.0,34

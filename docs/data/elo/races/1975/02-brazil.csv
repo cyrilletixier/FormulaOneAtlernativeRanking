@@ -1,0 +1,24 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1975,2,1975-01-26,brazil,Grande Prêmio do Brasil 1975,carlos-pace,Carlos Pace,brabham,1,40,6,0,1,1520.361792,1533.013252,12.65146,1.0,0.472856,24.0,23
+1975,2,1975-01-26,brazil,Grande Prêmio do Brasil 1975,emerson-fittipaldi,Emerson Fittipaldi,mclaren,2,40,2,0,2,1690.557958,1696.427244,5.869285,0.954545,0.709992,24.0,23
+1975,2,1975-01-26,brazil,Grande Prêmio do Brasil 1975,jochen-mass,Jochen Mass,mclaren,3,40,10,0,3,1477.699155,1489.652376,11.953221,0.909091,0.41104,24.0,23
+1975,2,1975-01-26,brazil,Grande Prêmio do Brasil 1975,clay-regazzoni,Clay Regazzoni,ferrari,4,40,5,0,4,1640.534622,1645.77753,5.242908,0.863636,0.645182,24.0,23
+1975,2,1975-01-26,brazil,Grande Prêmio do Brasil 1975,niki-lauda,Niki Lauda,ferrari,5,40,4,0,5,1526.74256,1534.806036,8.063476,0.818182,0.482204,24.0,23
+1975,2,1975-01-26,brazil,Grande Prêmio do Brasil 1975,james-hunt,James Hunt,hesketh,6,40,7,0,6,1548.711879,1554.91106,6.199181,0.772727,0.514428,24.0,23
+1975,2,1975-01-26,brazil,Grande Prêmio do Brasil 1975,mario-andretti,Mario Andretti,parnelli,7,40,18,0,7,1484.410285,1491.769278,7.358994,0.727273,0.420648,24.0,23
+1975,2,1975-01-26,brazil,Grande Prêmio do Brasil 1975,carlos-reutemann,Carlos Reutemann,brabham,8,40,3,0,8,1589.873219,1592.45384,2.58062,0.681818,0.574292,24.0,23
+1975,2,1975-01-26,brazil,Grande Prêmio do Brasil 1975,jacky-ickx,Jacky Ickx,lotus,9,40,12,0,9,1595.535952,1596.830855,1.294903,0.636364,0.582409,24.0,23
+1975,2,1975-01-26,brazil,Grande Prêmio do Brasil 1975,john-watson,John Watson,surtees,10,40,13,0,10,1527.408173,1529.993684,2.585511,0.590909,0.483179,24.0,23
+1975,2,1975-01-26,brazil,Grande Prêmio do Brasil 1975,jacques-laffite,Jacques Laffite,frank-williams-racing-cars,11,39,19,0,11,1489.400195,1492.223272,2.823078,0.545455,0.427826,24.0,23
+1975,2,1975-01-26,brazil,Grande Prêmio do Brasil 1975,graham-hill,Graham Hill,lola,12,39,20,0,12,1577.882784,1576.515064,-1.367719,0.5,0.556988,24.0,23
+1975,2,1975-01-26,brazil,Grande Prêmio do Brasil 1975,wilson-fittipaldi,Wilson Fittipaldi,fittipaldi,13,39,21,0,13,1485.39778,1486.177278,0.779499,0.454545,0.422066,24.0,23
+1975,2,1975-01-26,brazil,Grande Prêmio do Brasil 1975,rolf-stommelen,Rolf Stommelen,lola,14,39,23,0,14,1509.322048,1508.178873,-1.143175,0.409091,0.456723,24.0,23
+1975,2,1975-01-26,brazil,Grande Prêmio do Brasil 1975,ronnie-peterson,Ronnie Peterson,lotus,15,38,16,0,15,1609.173984,1603.458417,-5.715567,0.363636,0.601785,24.0,23
+1975,2,1975-01-26,brazil,Grande Prêmio do Brasil 1975,jean-pierre-jarier,Jean-Pierre Jarier,shadow,DNF,32,1,1,16,1503.276976,1500.163255,-3.113722,0.318182,0.44792,24.0,23
+1975,2,1975-01-26,brazil,Grande Prêmio do Brasil 1975,patrick-depailler,Patrick Depailler,tyrrell,DNF,31,9,1,17,1573.95524,1566.724268,-7.230972,0.25,0.55129,24.0,23
+1975,2,1975-01-26,brazil,Grande Prêmio do Brasil 1975,tom-pryce,Tom Pryce,shadow,DNF,31,14,1,18,1507.292689,1502.402324,-4.890365,0.25,0.453765,24.0,23
+1975,2,1975-01-26,brazil,Grande Prêmio do Brasil 1975,arturo-merzario,Arturo Merzario,frank-williams-racing-cars,DNF,24,11,1,19,1496.538413,1490.386675,-6.151738,0.181818,0.438141,24.0,23
+1975,2,1975-01-26,brazil,Grande Prêmio do Brasil 1975,mark-donohue,Mark Donohue,penske,DNF,22,15,1,20,1508.330613,1500.13122,-8.199393,0.113636,0.455278,24.0,23
+1975,2,1975-01-26,brazil,Grande Prêmio do Brasil 1975,mike-wilds,Mike Wilds,brm,DNF,22,22,1,21,1465.27977,1458.564963,-6.714807,0.113636,0.39342,24.0,23
+1975,2,1975-01-26,brazil,Grande Prêmio do Brasil 1975,jody-scheckter,Jody Scheckter,tyrrell,DNF,18,8,1,22,1568.65371,1556.698703,-11.955007,0.045455,0.54358,24.0,23
+1975,2,1975-01-26,brazil,Grande Prêmio do Brasil 1975,vittorio-brambilla,Vittorio Brambilla,march,DNF,1,17,1,23,1508.130623,1497.210953,-10.91967,0.0,0.454986,24.0,23

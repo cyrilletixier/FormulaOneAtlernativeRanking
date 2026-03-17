@@ -1,0 +1,29 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,michael-schumacher,Michael Schumacher,benetton,1,58,2,0,1,1656.008036,1664.002955,7.994918,1.0,0.666878,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,nicola-larini,Nicola Larini,ferrari,2,58,6,0,2,1452.562996,1466.527869,13.964873,0.962963,0.381093,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,mika-hakkinen,Mika Häkkinen,mclaren,3,58,8,0,3,1551.870745,1561.550001,9.679256,0.925926,0.522624,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,karl-wendlinger,Karl Wendlinger,sauber,4,58,10,0,4,1544.550942,1553.594806,9.043864,0.888889,0.512061,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,ukyo-katayama,Ukyo Katayama,tyrrell,5,57,9,0,5,1472.926958,1483.545865,10.618907,0.851852,0.409397,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,damon-hill,Damon Hill,williams,6,57,4,0,6,1591.076666,1596.744766,5.6681,0.814815,0.578644,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,7,57,7,0,7,1506.080348,1513.789749,7.709401,0.777778,0.456553,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,martin-brundle,Martin Brundle,mclaren,8,57,13,0,8,1638.653988,1640.974145,2.320157,0.740741,0.644068,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,mark-blundell,Mark Blundell,tyrrell,9,56,12,0,9,1531.901105,1536.939164,5.038059,0.703704,0.493785,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,johnny-herbert,Johnny Herbert,lotus,10,56,20,0,10,1547.204297,1550.822894,3.618597,0.666667,0.515892,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,olivier-panis,Olivier Panis,ligier,11,56,19,0,11,1510.249243,1514.259249,4.010007,0.62963,0.462546,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,eric-bernard,Éric Bernard,ligier,12,55,17,0,12,1514.323245,1517.303586,2.980341,0.592593,0.468412,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,christian-fittipaldi,Christian Fittipaldi,footwork,13,54,16,0,13,1556.816118,1557.435483,0.619365,0.555556,0.529749,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,andrea-de-cesaris,Andrea de Cesaris,jordan,DNF,49,21,1,14,1539.959929,1540.274057,0.314128,0.518519,0.50543,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,michele-alboreto,Michele Alboreto,minardi,DNF,44,15,1,15,1499.716046,1500.533414,0.817368,0.481481,0.447424,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,gianni-morbidelli,Gianni Morbidelli,footwork,DNF,40,11,1,16,1529.12361,1528.035768,-1.087842,0.444444,0.489771,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,pierluigi-martini,Pierluigi Martini,minardi,DNF,37,14,1,17,1559.085233,1556.070673,-3.01456,0.407407,0.533014,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,david-brabham,David Brabham,simtek,DNF,27,24,1,18,1451.038743,1450.831612,-0.207131,0.37037,0.379001,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,bertrand-gachot,Bertrand Gachot,pacific,DNF,23,25,1,19,1441.954474,1441.155708,-0.798765,0.333333,0.366615,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,olivier-beretta,Olivier Beretta,larrousse,DNF,17,23,1,20,1486.677421,1483.496755,-3.180667,0.296296,0.428824,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,gerhard-berger,Gerhard Berger,ferrari,DNF,16,3,1,21,1641.396264,1632.073328,-9.322936,0.259259,0.647715,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,ayrton-senna,Ayrton Senna,williams,DNF,5,1,1,22,1717.986863,1705.060611,-12.926251,0.203704,0.742298,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,erik-comas,Érik Comas,larrousse,DNF,5,18,1,23,1550.304755,1542.704876,-7.599879,0.203704,0.520365,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,jj-lehto,JJ Lehto,benetton,DNF,0,5,1,24,1555.869196,1546.299062,-9.570134,0.12963,0.528385,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,pedro-lamy,Pedro Lamy,lotus,DNF,0,22,1,25,1507.87319,1499.965206,-7.907984,0.12963,0.459129,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,paul-belmondo,Paul Belmondo,pacific,DNQ,,,2,26,1456.134443,1448.203509,-7.930934,0.055556,0.386011,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,rubens-barrichello,Rubens Barrichello,jordan,DNQ,,,2,27,1525.559979,1515.262353,-10.297626,0.055556,0.484623,24.0,28
+1994,3,1994-05-01,san-marino,Gran Premio di San Marino 1994,roland-ratzenberger,Roland Ratzenberger,simtek,DNS,,,2,28,1494.309151,1483.756518,-10.552633,0.0,0.439693,24.0,28

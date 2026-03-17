@@ -1,0 +1,31 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,nigel-mansell,Nigel Mansell,williams,1,69,1,0,1,1720.45358,1726.976634,6.523054,1.0,0.728206,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,riccardo-patrese,Riccardo Patrese,williams,2,69,2,0,2,1720.854389,1726.538978,5.684589,0.965517,0.728659,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,martin-brundle,Martin Brundle,benetton,3,69,7,0,3,1566.86699,1576.495495,9.628505,0.931034,0.529847,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,mika-hakkinen,Mika Häkkinen,lotus,4,68,11,0,4,1534.259814,1544.156808,9.896994,0.896552,0.484177,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,erik-comas,Érik Comas,ligier,5,68,10,0,5,1558.860981,1567.102902,8.241921,0.862069,0.518656,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,johnny-herbert,Johnny Herbert,lotus,6,68,12,0,6,1529.441088,1537.844957,8.403869,0.827586,0.477425,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,michele-alboreto,Michele Alboreto,footwork,7,68,14,0,7,1538.436725,1545.710427,7.273702,0.793103,0.490033,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,gianni-morbidelli,Gianni Morbidelli,minardi,8,68,16,0,8,1535.904634,1542.435949,6.531314,0.758621,0.486483,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,jj-lehto,JJ Lehto,dallara,9,67,17,0,9,1548.714192,1553.986881,5.272689,0.724138,0.504443,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,pierluigi-martini,Pierluigi Martini,dallara,10,67,25,0,10,1574.958658,1578.52336,3.564702,0.689655,0.541126,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,olivier-grouillard,Olivier Grouillard,tyrrell,11,66,22,0,11,1459.675622,1466.246174,6.570552,0.655172,0.381399,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,jean-alesi,Jean Alesi,ferrari,DNF,61,6,1,12,1615.819516,1616.38235,0.562833,0.62069,0.597238,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,andrea-de-cesaris,Andrea de Cesaris,tyrrell,DNF,51,19,1,13,1561.474651,1563.008131,1.533479,0.586207,0.522312,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,ukyo-katayama,Ukyo Katayama,venturi,DNF,49,18,1,14,1502.794441,1505.469795,2.675354,0.551724,0.440251,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,thierry-boutsen,Thierry Boutsen,ligier,DNF,46,9,1,15,1634.090251,1631.584269,-2.505982,0.517241,0.621657,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,ivan-capelli,Ivan Capelli,ferrari,DNF,38,8,1,16,1534.628807,1534.582354,-0.046453,0.482759,0.484694,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,karl-wendlinger,Karl Wendlinger,march,DNF,33,21,1,17,1509.457824,1509.428198,-0.029626,0.448276,0.44951,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,stefano-modena,Stefano Modena,jordan,DNF,25,20,1,18,1535.745156,1534.005974,-1.739182,0.413793,0.486259,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,aguri-suzuki,Aguri Suzuki,footwork,DNF,20,15,1,19,1472.934938,1472.456242,-0.478696,0.37931,0.399256,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,michael-schumacher,Michael Schumacher,benetton,DNF,17,5,1,20,1579.055334,1574.207492,-4.847841,0.344828,0.546821,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,gerhard-berger,Gerhard Berger,mclaren,DNF,10,4,1,21,1686.081796,1677.022481,-9.059315,0.310345,0.687816,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,gabriele-tarquini,Gabriele Tarquini,fondmetal,DNF,6,23,1,22,1398.623967,1397.966944,-0.657023,0.275862,0.303238,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,andrea-chiesa,Andrea Chiesa,fondmetal,DNF,0,26,1,23,1455.556503,1451.086494,-4.470009,0.189655,0.375906,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,ayrton-senna,Ayrton Senna,mclaren,DNF,0,3,1,24,1775.132263,1760.820142,-14.312121,0.189655,0.785994,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,bertrand-gachot,Bertrand Gachot,venturi,DNF,0,13,1,25,1470.392874,1465.445077,-4.947797,0.189655,0.395813,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,mauricio-gugelmin,Maurício Gugelmin,jordan,DNF,0,24,1,26,1553.346779,1545.636074,-7.710705,0.189655,0.510935,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,christian-fittipaldi,Christian Fittipaldi,minardi,DNQ,,,2,27,1510.132986,1500.563562,-9.569424,0.051724,0.45045,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,damon-hill,Damon Hill,brabham,DNQ,,,2,28,1464.09537,1456.040988,-8.054381,0.051724,0.387323,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,eric-van-de-poele,Eric van de Poele,brabham,DNQ,,,2,29,1377.11504,1371.69207,-5.42297,0.051724,0.277681,24.0,30
+1992,8,1992-07-05,france,Rhone Poulenc Grand Prix de France 1992,paul-belmondo,Paul Belmondo,march,DNQ,,,2,30,1478.184602,1469.672572,-8.51203,0.051724,0.406392,24.0,30

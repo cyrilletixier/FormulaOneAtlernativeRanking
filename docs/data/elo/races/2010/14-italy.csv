@@ -1,0 +1,25 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,fernando-alonso,Fernando Alonso,ferrari,1,53,1,0,1,1708.682591,1716.044396,7.361805,1.0,0.693258,24.0,24
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,jenson-button,Jenson Button,mclaren,2,53,2,0,2,1673.450586,1680.816208,7.365622,0.956522,0.649621,24.0,24
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,felipe-massa,Felipe Massa,ferrari,3,53,3,0,3,1707.488994,1712.798298,5.309304,0.913043,0.691822,24.0,24
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,sebastian-vettel,Sebastian Vettel,red-bull,4,53,6,0,4,1658.794647,1664.525765,5.731119,0.869565,0.630769,24.0,24
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,nico-rosberg,Nico Rosberg,mercedes,5,53,7,0,5,1633.788279,1639.26683,5.478551,0.826087,0.597814,24.0,24
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,mark-webber,Mark Webber,red-bull,6,53,4,0,6,1669.240857,1672.561603,3.320746,0.782609,0.644244,24.0,24
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,nico-hulkenberg,Nico Hülkenberg,williams,7,53,8,0,7,1496.087794,1504.008504,7.92071,0.73913,0.409101,24.0,24
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,robert-kubica,Robert Kubica,renault,8,53,9,0,8,1637.895829,1640.112566,2.216737,0.695652,0.603288,24.0,24
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,michael-schumacher,Michael Schumacher,mercedes,9,53,12,0,9,1752.697602,1750.497307,-2.200295,0.652174,0.743853,24.0,24
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,rubens-barrichello,Rubens Barrichello,williams,10,53,10,0,10,1615.534751,1616.385638,0.850887,0.608696,0.573242,24.0,24
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,sebastien-buemi,Sébastien Buemi,toro-rosso,11,53,14,0,11,1477.055998,1481.414429,4.358431,0.565217,0.383616,24.0,24
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,12,53,19,0,12,1491.130286,1493.993952,2.863666,0.521739,0.40242,24.0,24
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,vitaly-petrov,Vitaly Petrov,renault,13,53,20,0,13,1518.102239,1519.042945,0.940706,0.478261,0.439065,24.0,24
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,pedro-de-la-rosa,Pedro de la Rosa,sauber,14,52,16,0,14,1479.812828,1480.952919,1.140091,0.434783,0.387279,24.0,24
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,jaime-alguersuari,Jaime Alguersuari,toro-rosso,15,52,15,0,15,1479.584396,1479.688302,0.103906,0.391304,0.386975,24.0,24
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,adrian-sutil,Adrian Sutil,force-india,16,52,11,0,16,1469.258777,1468.647031,-0.611746,0.347826,0.373315,24.0,24
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,timo-glock,Timo Glock,virgin,17,51,24,0,17,1499.346154,1496.726339,-2.619815,0.304348,0.413507,24.0,24
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,heikki-kovalainen,Heikki Kovalainen,lotus-racing,18,51,18,0,18,1521.819991,1517.420918,-4.399073,0.26087,0.444164,24.0,24
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,sakon-yamamoto,Sakon Yamamoto,hrt,19,51,23,0,19,1419.851432,1417.617258,-2.234174,0.217391,0.310482,24.0,24
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,lucas-di-grassi,Lucas di Grassi,virgin,20,50,21,0,20,1450.086223,1445.898633,-4.187589,0.173913,0.348396,24.0,24
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,jarno-trulli,Jarno Trulli,lotus-racing,DNF,46,17,1,21,1495.957683,1489.273915,-6.683768,0.130435,0.408925,24.0,24
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,bruno-senna,Bruno Senna,hrt,DNF,11,22,1,22,1447.025345,1440.844869,-6.180476,0.086957,0.344476,24.0,24
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,kamui-kobayashi,Kamui Kobayashi,sauber,DNF,0,PL,1,23,1510.001604,1500.251609,-9.749995,0.021739,0.427989,24.0,24
+2010,14,2010-09-12,italy,Formula 1 Gran Premio Santander d'Italia 2010,lewis-hamilton,Lewis Hamilton,mclaren,DNF,0,5,1,24,1707.951198,1691.855847,-16.095351,0.021739,0.692379,24.0,24

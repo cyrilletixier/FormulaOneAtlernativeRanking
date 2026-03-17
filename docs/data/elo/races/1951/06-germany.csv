@@ -1,0 +1,24 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1951,6,1951-07-29,germany,Grosser Preis von Deutschland 1951,alberto-ascari,Alberto Ascari,ferrari,1,20,1,0,1,1530.632641,1541.638747,11.006105,1.0,0.541412,24.0,23
+1951,6,1951-07-29,germany,Grosser Preis von Deutschland 1951,juan-manuel-fangio,Juan Manuel Fangio,alfa-romeo,2,20,3,0,2,1553.438503,1562.543398,9.104895,0.954545,0.575175,24.0,23
+1951,6,1951-07-29,germany,Grosser Preis von Deutschland 1951,jose-froilan-gonzalez,José Froilán González,ferrari,3,20,2,0,3,1501.877055,1511.734206,9.857151,0.909091,0.498376,24.0,23
+1951,6,1951-07-29,germany,Grosser Preis von Deutschland 1951,luigi-villoresi,Luigi Villoresi,ferrari,4,20,5,0,4,1514.379802,1522.696198,8.316395,0.863636,0.51712,24.0,23
+1951,6,1951-07-29,germany,Grosser Preis von Deutschland 1951,piero-taruffi,Piero Taruffi,ferrari,5,20,6,0,5,1500.917469,1508.627339,7.709869,0.818182,0.496937,24.0,23
+1951,6,1951-07-29,germany,Grosser Preis von Deutschland 1951,rudi-fischer,Rudi Fischer,ferrari,6,19,8,0,6,1500.111798,1506.759755,6.647956,0.772727,0.495729,24.0,23
+1951,6,1951-07-29,germany,Grosser Preis von Deutschland 1951,robert-manzon,Robert Manzon,simca-gordini,7,19,9,0,7,1485.955318,1492.02141,6.066092,0.727273,0.474519,24.0,23
+1951,6,1951-07-29,germany,Grosser Preis von Deutschland 1951,louis-rosier,Louis Rosier,talbot-lago,8,19,15,0,8,1533.048571,1536.331955,3.283384,0.681818,0.545011,24.0,23
+1951,6,1951-07-29,germany,Grosser Preis von Deutschland 1951,pierre-levegh,Pierre Levegh,talbot-lago,9,18,19,0,9,1497.326019,1500.801498,3.47548,0.636364,0.491552,24.0,23
+1951,6,1951-07-29,germany,Grosser Preis von Deutschland 1951,jacques-swaters,Jacques Swaters,talbot-lago,10,18,22,0,10,1500.0,1502.288344,2.288344,0.590909,0.495561,24.0,23
+1951,6,1951-07-29,germany,Grosser Preis von Deutschland 1951,johnny-claes,Johnny Claes,talbot-lago,11,17,18,0,11,1491.441249,1492.946584,1.505335,0.545455,0.482732,24.0,23
+1951,6,1951-07-29,germany,Grosser Preis von Deutschland 1951,yves-giraud-cabantous,Yves Giraud-Cabantous,talbot-lago,DNF,17,11,1,12,1486.881251,1487.459545,0.578294,0.5,0.475904,24.0,23
+1951,6,1951-07-29,germany,Grosser Preis von Deutschland 1951,maurice-trintignant,Maurice Trintignant,simca-gordini,DNF,13,14,1,13,1482.659443,1482.298369,-0.361074,0.454545,0.46959,24.0,23
+1951,6,1951-07-29,germany,Grosser Preis von Deutschland 1951,duncan-hamilton,Duncan Hamilton,talbot-lago,DNF,12,20,1,14,1498.364363,1495.802479,-2.561884,0.386364,0.493109,24.0,23
+1951,6,1951-07-29,germany,Grosser Preis von Deutschland 1951,felice-bonetto,Felice Bonetto,alfa-romeo,DNF,12,10,1,15,1500.421826,1497.785898,-2.635929,0.386364,0.496194,24.0,23
+1951,6,1951-07-29,germany,Grosser Preis von Deutschland 1951,andre-simon,André Simon,simca-gordini,DNF,11,12,1,16,1492.550141,1488.015604,-4.534537,0.295455,0.484394,24.0,23
+1951,6,1951-07-29,germany,Grosser Preis von Deutschland 1951,paul-pietsch,Paul Pietsch,alfa-romeo,DNF,11,7,1,17,1489.035849,1484.627645,-4.408203,0.295455,0.47913,24.0,23
+1951,6,1951-07-29,germany,Grosser Preis von Deutschland 1951,nino-farina,Nino Farina,alfa-romeo,DNF,8,4,1,18,1552.740214,1544.415183,-8.325031,0.227273,0.574149,24.0,23
+1951,6,1951-07-29,germany,Grosser Preis von Deutschland 1951,philippe-etancelin,Philippe Étancelin,talbot-lago,DNF,4,21,1,19,1491.756974,1484.523685,-7.233289,0.181818,0.483205,24.0,23
+1951,6,1951-07-29,germany,Grosser Preis von Deutschland 1951,louis-chiron,Louis Chiron,talbot-lago,DNF,3,13,1,20,1483.555033,1474.98001,-8.575023,0.113636,0.470929,24.0,23
+1951,6,1951-07-29,germany,Grosser Preis von Deutschland 1951,toni-branca,Toni Branca,maserati,DNF,3,17,1,21,1493.56308,1484.628478,-8.934602,0.113636,0.485911,24.0,23
+1951,6,1951-07-29,germany,Grosser Preis von Deutschland 1951,emmanuel-de-graffenried,Emmanuel de Graffenried,maserati,DNF,2,16,1,22,1496.863253,1486.173566,-10.689687,0.045455,0.490858,24.0,23
+1951,6,1951-07-29,germany,Grosser Preis von Deutschland 1951,david-murray,David Murray,maserati,DNS,,,2,23,1491.28736,1479.707319,-11.580041,0.0,0.482502,24.0,23

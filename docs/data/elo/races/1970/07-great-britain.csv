@@ -1,0 +1,26 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,jochen-rindt,Jochen Rindt,lotus,1,80,1,0,1,1551.933985,1563.177097,11.243112,1.0,0.531537,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,jack-brabham,Jack Brabham,brabham,2,80,2,0,2,1602.0884,1610.60072,8.51232,0.958333,0.603653,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,denny-hulme,Denny Hulme,mclaren,3,80,5,0,3,1626.057437,1632.771936,6.714498,0.916667,0.636896,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,clay-regazzoni,Clay Regazzoni,ferrari,4,80,6,0,4,1509.754937,1519.479573,9.724636,0.875,0.469807,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,chris-amon,Chris Amon,march,5,79,17,0,5,1523.797443,1532.028966,8.231524,0.833333,0.490353,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,graham-hill,Graham Hill,lotus,6,79,22,0,6,1625.486267,1629.219481,3.733214,0.791667,0.636116,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,francois-cevert,François Cevert,march,7,79,14,0,7,1501.01031,1508.041039,7.030729,0.75,0.457053,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,emerson-fittipaldi,Emerson Fittipaldi,lotus,8,78,21,0,8,1500.0,1506.066024,6.066024,0.708333,0.455582,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,ronnie-peterson,Ronnie Peterson,march,9,72,13,0,9,1507.19178,1512.006237,4.814457,0.666667,0.466064,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,pete-lovely,Pete Lovely,lotus,NC,69,23,1,10,1477.580905,1482.424942,4.844037,0.625,0.423165,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,dan-gurney,Dan Gurney,mclaren,DNF,60,11,1,11,1534.41964,1536.277659,1.858019,0.583333,0.505916,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,pedro-rodriguez,Pedro Rodríguez,brm,DNF,58,15,1,12,1566.73117,1566.457535,-0.273635,0.541667,0.553068,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,jackie-oliver,Jackie Oliver,brm,DNF,54,4,1,13,1445.507125,1448.438748,2.931623,0.5,0.377849,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,jackie-stewart,Jackie Stewart,march,DNF,52,8,1,14,1646.782962,1641.829461,-4.953502,0.458333,0.664729,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,john-surtees,John Surtees,surtees,DNF,51,19,1,15,1543.874329,1541.400121,-2.474208,0.416667,0.519759,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,henri-pescarolo,Henri Pescarolo,matra,DNF,41,12,1,16,1542.242147,1538.825256,-3.416891,0.375,0.51737,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,DNF,24,10,1,17,1579.641935,1573.920925,-5.72101,0.333333,0.571709,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,mario-andretti,Mario Andretti,march,DNF,21,9,1,18,1469.796191,1466.907427,-2.888765,0.291667,0.412032,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,jo-siffert,Jo Siffert,march,DNF,19,20,1,19,1533.39933,1527.293223,-6.106107,0.25,0.504421,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,john-miles,John Miles,lotus,DNF,15,7,1,20,1481.423592,1476.135103,-5.288489,0.208333,0.428687,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,george-eaton,George Eaton,brm,DNF,10,16,1,21,1478.729756,1472.534213,-6.195543,0.166667,0.424814,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,jacky-ickx,Jacky Ickx,ferrari,DNF,6,3,1,22,1563.587623,1553.42346,-10.164163,0.125,0.548507,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,andrea-de-adamich,Andrea de Adamich,mclaren,DNS,,18,2,23,1468.709744,1459.858123,-8.851621,0.041667,0.410484,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,brian-redman,Brian Redman,de-tomaso,DNS,,,2,24,1486.636273,1477.167408,-9.468865,0.041667,0.436203,24.0,25
+1970,7,1970-07-18,great-britain,1970 RAC British Grand Prix,rolf-stommelen,Rolf Stommelen,brabham,DNS,,,2,25,1499.067044,1489.165646,-9.901398,0.041667,0.454225,24.0,25

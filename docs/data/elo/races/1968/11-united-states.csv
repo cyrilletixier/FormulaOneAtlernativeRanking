@@ -1,0 +1,22 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1968,11,1968-10-06,united-states,1968 United States Grand Prix,jackie-stewart,Jackie Stewart,matra,1,108,2,0,1,1573.415993,1583.928048,10.512055,1.0,0.561998,24.0,21
+1968,11,1968-10-06,united-states,1968 United States Grand Prix,graham-hill,Graham Hill,lotus,2,108,3,0,2,1601.3869,1609.723276,8.336376,0.95,0.602651,24.0,21
+1968,11,1968-10-06,united-states,1968 United States Grand Prix,john-surtees,John Surtees,honda,3,107,9,0,3,1579.263233,1587.169415,7.906182,0.9,0.570576,24.0,21
+1968,11,1968-10-06,united-states,1968 United States Grand Prix,dan-gurney,Dan Gurney,mclaren,4,107,7,0,4,1527.656463,1536.198859,8.542396,0.85,0.494067,24.0,21
+1968,11,1968-10-06,united-states,1968 United States Grand Prix,jo-siffert,Jo Siffert,lotus,5,105,12,0,5,1533.038846,1540.188643,7.149797,0.8,0.502092,24.0,21
+1968,11,1968-10-06,united-states,1968 United States Grand Prix,bruce-mclaren,Bruce McLaren,mclaren,6,103,10,0,6,1534.584082,1540.478588,5.894506,0.75,0.504396,24.0,21
+1968,11,1968-10-06,united-states,1968 United States Grand Prix,piers-courage,Piers Courage,brm,DNF,93,14,1,7,1509.711283,1515.294896,5.583613,0.7,0.467349,24.0,21
+1968,11,1968-10-06,united-states,1968 United States Grand Prix,denny-hulme,Denny Hulme,mclaren,DNF,92,5,1,8,1631.642968,1631.757579,0.114611,0.65,0.645225,24.0,21
+1968,11,1968-10-06,united-states,1968 United States Grand Prix,lucien-bianchi,Lucien Bianchi,cooper,NC,88,20,1,9,1486.743518,1490.741665,3.998147,0.6,0.433411,24.0,21
+1968,11,1968-10-06,united-states,1968 United States Grand Prix,jack-brabham,Jack Brabham,brabham,DNF,77,8,1,10,1580.425721,1579.891078,-0.534642,0.55,0.572277,24.0,21
+1968,11,1968-10-06,united-states,1968 United States Grand Prix,jochen-rindt,Jochen Rindt,brabham,DNF,73,6,1,11,1513.376397,1514.02926,0.652863,0.5,0.472797,24.0,21
+1968,11,1968-10-06,united-states,1968 United States Grand Prix,vic-elford,Vic Elford,cooper,DNF,71,17,1,12,1497.406303,1497.42753,0.021227,0.45,0.449116,24.0,21
+1968,11,1968-10-06,united-states,1968 United States Grand Prix,pedro-rodriguez,Pedro Rodríguez,brm,DNF,66,11,1,13,1561.478369,1558.013119,-3.46525,0.4,0.544385,24.0,21
+1968,11,1968-10-06,united-states,1968 United States Grand Prix,jo-bonnier,Jo Bonnier,mclaren,NC,62,18,1,14,1492.22834,1490.032915,-2.195425,0.35,0.441476,24.0,21
+1968,11,1968-10-06,united-states,1968 United States Grand Prix,chris-amon,Chris Amon,ferrari,DNF,59,4,1,15,1531.960316,1527.148707,-4.811609,0.3,0.500484,24.0,21
+1968,11,1968-10-06,united-states,1968 United States Grand Prix,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,DNF,44,13,1,16,1536.741035,1530.558369,-6.182666,0.25,0.507611,24.0,21
+1968,11,1968-10-06,united-states,1968 United States Grand Prix,bobby-unser,Bobby Unser,brm,DNF,35,19,1,17,1489.501729,1483.802619,-5.699109,0.2,0.437463,24.0,21
+1968,11,1968-10-06,united-states,1968 United States Grand Prix,mario-andretti,Mario Andretti,lotus,DNF,32,1,1,18,1489.501729,1482.602619,-6.899109,0.15,0.437463,24.0,21
+1968,11,1968-10-06,united-states,1968 United States Grand Prix,derek-bell,Derek Bell,ferrari,DNF,14,15,1,19,1494.197381,1485.932298,-8.265083,0.1,0.444378,24.0,21
+1968,11,1968-10-06,united-states,1968 United States Grand Prix,henri-pescarolo,Henri Pescarolo,matra,DNS,,,2,20,1501.7296,1491.397348,-10.332251,0.025,0.45551,24.0,21
+1968,11,1968-10-06,united-states,1968 United States Grand Prix,jackie-oliver,Jackie Oliver,lotus,DNS,,16,2,21,1501.571324,1491.244697,-10.326627,0.025,0.455276,24.0,21

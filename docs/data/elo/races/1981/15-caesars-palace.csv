@@ -1,0 +1,31 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,alan-jones,Alan Jones,williams,1,75,2,0,1,1704.489045,1711.404338,6.915292,1.0,0.711863,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,alain-prost,Alain Prost,renault,2,75,5,0,2,1564.013577,1574.545507,10.531929,0.965517,0.526687,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,3,75,8,0,3,1546.21525,1556.52109,10.30584,0.931034,0.501625,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,nigel-mansell,Nigel Mansell,lotus,4,75,9,0,4,1498.840987,1509.915015,11.074029,0.896552,0.435134,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,nelson-piquet,Nelson Piquet,brabham,5,75,4,0,5,1660.183441,1665.0997,4.916259,0.862069,0.657225,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,jacques-laffite,Jacques Laffite,ligier,6,75,12,0,6,1674.990555,1678.628975,3.638419,0.827586,0.675985,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,john-watson,John Watson,mclaren,7,75,6,0,7,1650.111336,1653.684917,3.573581,0.793103,0.644204,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,carlos-reutemann,Carlos Reutemann,williams,8,74,1,0,8,1717.694334,1718.447928,0.753594,0.758621,0.727221,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,didier-pironi,Didier Pironi,ferrari,9,73,18,0,9,1607.607641,1610.891525,3.283884,0.724138,0.587309,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,keke-rosberg,Keke Rosberg,fittipaldi,10,73,20,0,10,1465.162777,1472.380064,7.217288,0.689655,0.388935,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,riccardo-patrese,Riccardo Patrese,arrows,11,71,11,0,11,1557.889266,1561.179678,3.290412,0.655172,0.518072,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,andrea-de-cesaris,Andrea de Cesaris,mclaren,12,69,14,0,12,1498.22514,1502.69902,4.47388,0.62069,0.434278,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,michele-alboreto,Michele Alboreto,tyrrell,13,67,17,0,13,1502.855723,1506.347377,3.491654,0.586207,0.440721,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,eliseo-salazar,Eliseo Salazar,ensign,NC,61,24,1,14,1472.542846,1476.209714,3.666868,0.551724,0.398938,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,derek-warwick,Derek Warwick,toleman,DNF,43,22,1,15,1424.253042,1428.62372,4.370678,0.517241,0.33513,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,mario-andretti,Mario Andretti,alfa-romeo,DNF,29,10,1,16,1600.60412,1598.325824,-2.278296,0.482759,0.577688,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,hector-rebaque,Héctor Rebaque,brabham,DNF,20,16,1,17,1506.248983,1506.31671,0.067727,0.448276,0.445454,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,marc-surer,Marc Surer,theodore,DNF,19,23,1,18,1537.162419,1535.360733,-1.801687,0.413793,0.488863,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,eddie-cheever,Eddie Cheever,tyrrell,DNF,10,19,1,19,1502.26586,1500.397927,-1.867934,0.362069,0.4399,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,rene-arnoux,René Arnoux,renault,DNF,10,13,1,20,1589.85973,1585.041616,-4.818115,0.362069,0.562824,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,elio-de-angelis,Elio de Angelis,lotus,DNF,2,15,1,21,1601.99011,1595.114283,-6.875827,0.293103,0.579596,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,patrick-tambay,Patrick Tambay,ligier,DNF,2,7,1,22,1524.923899,1520.639243,-4.284656,0.293103,0.471631,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,jean-pierre-jarier,Jean-Pierre Jarier,osella,DNF,0,21,1,23,1592.446917,1584.646103,-7.800815,0.241379,0.566413,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,gilles-villeneuve,Gilles Villeneuve,ferrari,DSQ,22,3,2,24,1624.732838,1615.04463,-9.688208,0.206897,0.610572,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,beppe-gabbiani,Beppe Gabbiani,osella,DNQ,,,2,25,1410.137834,1404.590763,-5.547071,0.086207,0.317335,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,brian-henton,Brian Henton,toleman,DNQ,,,2,26,1409.537104,1404.007971,-5.529133,0.086207,0.316587,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,chico-serra,Chico Serra,fittipaldi,DNQ,,,2,27,1445.588755,1438.950207,-6.638548,0.086207,0.362813,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,derek-daly,Derek Daly,march,DNQ,,,2,28,1490.959105,1482.847114,-8.111992,0.086207,0.424207,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,jacques-villeneuve-sr,"Jacques Villeneuve, Sr.",arrows,DNQ,,,2,29,1491.587333,1483.454491,-8.132842,0.086207,0.425075,24.0,30
+1981,15,1981-10-17,caesars-palace,1981 Caesars Palace Grand Prix,slim-borgudd,Slim Borgudd,ats-wheels,DNQ,,,2,30,1493.494878,1485.298669,-8.196209,0.086207,0.427716,24.0,30

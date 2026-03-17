@@ -1,0 +1,36 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,alain-prost,Alain Prost,ferrari,1,69,13,0,1,1794.122723,1798.76185,4.639127,1.0,0.806703,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,nigel-mansell,Nigel Mansell,ferrari,2,69,4,0,2,1643.281449,1651.24078,7.959331,0.970588,0.638949,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,gerhard-berger,Gerhard Berger,mclaren,3,69,1,0,3,1645.534705,1652.718407,7.183702,0.941176,0.641856,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,alessandro-nannini,Alessandro Nannini,benetton,4,69,14,0,4,1582.989987,1591.475136,8.48515,0.911765,0.558217,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,thierry-boutsen,Thierry Boutsen,williams,5,69,5,0,5,1679.748728,1684.492119,4.743391,0.882353,0.684712,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,nelson-piquet,Nelson Piquet,benetton,6,69,8,0,6,1683.484517,1687.413461,3.928944,0.852941,0.689235,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,jean-alesi,Jean Alesi,tyrrell,7,69,6,0,7,1578.263893,1584.787736,6.523843,0.823529,0.551703,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,martin-donnelly,Martin Donnelly,lotus,8,69,12,0,8,1513.381891,1521.368735,7.986844,0.794118,0.461333,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,riccardo-patrese,Riccardo Patrese,williams,9,69,2,0,9,1635.48987,1638.750936,3.261066,0.764706,0.628828,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,derek-warwick,Derek Warwick,lotus,10,68,11,0,10,1611.715026,1615.026528,3.311502,0.735294,0.597315,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,stefano-modena,Stefano Modena,brabham,11,68,10,0,11,1533.989346,1539.168582,5.179236,0.705882,0.490081,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,pierluigi-martini,Pierluigi Martini,minardi,12,68,7,0,12,1524.438795,1529.232232,4.793436,0.676471,0.476744,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,andrea-de-cesaris,Andrea de Cesaris,dallara,13,68,15,0,13,1532.642233,1536.454868,3.812636,0.647059,0.488199,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,paolo-barilla,Paolo Barilla,minardi,14,67,16,0,14,1505.2144,1509.23834,4.023939,0.617647,0.449983,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,gregor-foitek,Gregor Foitek,onyx,15,67,23,0,15,1457.056214,1461.952023,4.895809,0.588235,0.384243,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,nicola-larini,Nicola Larini,ligier,16,67,24,0,16,1441.561917,1446.243988,4.682071,0.558824,0.363737,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,michele-alboreto,Michele Alboreto,arrows,17,66,17,0,17,1529.552409,1530.645093,1.092684,0.529412,0.483883,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,philippe-alliot,Philippe Alliot,ligier,18,66,22,0,18,1533.769264,1534.014703,0.245438,0.5,0.489773,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,olivier-grouillard,Olivier Grouillard,osella,19,65,20,0,19,1497.402281,1498.156424,0.754143,0.470588,0.439166,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,ayrton-senna,Ayrton Senna,mclaren,20,63,3,0,20,1734.078278,1726.73659,-7.341688,0.441176,0.74708,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,jj-lehto,JJ Lehto,onyx,DNF,26,26,1,21,1494.436556,1493.877209,-0.559347,0.411765,0.435071,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,eric-bernard,Éric Bernard,lola,DNF,12,25,1,22,1534.372758,1531.774433,-2.598325,0.382353,0.490616,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,aguri-suzuki,Aguri Suzuki,lola,DNF,11,19,1,23,1444.060206,1443.016512,-1.043695,0.323529,0.367017,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,david-brabham,David Brabham,brabham,DNF,11,21,1,24,1483.158796,1480.853819,-2.304977,0.323529,0.41957,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,satoru-nakajima,Satoru Nakajima,tyrrell,DNF,11,9,1,25,1558.625383,1553.802931,-4.822452,0.323529,0.524465,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,emanuele-pirro,Emanuele Pirro,dallara,DNF,10,18,1,26,1528.930836,1523.691411,-5.239424,0.264706,0.483015,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,bertrand-gachot,Bertrand Gachot,coloni,DNPQ,,,1,27,1440.390184,1435.932608,-4.457575,0.176471,0.362203,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,bruno-giacomelli,Bruno Giacomelli,life,DNPQ,,,1,28,1514.342382,1507.47361,-6.868772,0.176471,0.462669,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,claudio-langes,Claudio Langes,eurobrun,DNPQ,,,1,29,1470.485168,1465.065032,-5.420136,0.176471,0.40231,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,gabriele-tarquini,Gabriele Tarquini,ags,DNPQ,,,1,30,1422.44916,1418.547774,-3.901386,0.176471,0.339028,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,yannick-dalmas,Yannick Dalmas,ags,DNPQ,,,1,31,1421.825762,1417.94343,-3.882332,0.176471,0.338234,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,alex-caffi,Alex Caffi,arrows,DNQ,,,2,32,1539.184264,1528.659906,-10.524358,0.058824,0.497338,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,ivan-capelli,Ivan Capelli,leyton-house,DNQ,,,2,33,1527.267289,1517.142437,-10.124852,0.058824,0.480692,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,mauricio-gugelmin,Maurício Gugelmin,leyton-house,DNQ,,,2,34,1537.43577,1526.970038,-10.465732,0.058824,0.494896,24.0,35
+1990,6,1990-06-24,mexico,Gran Premio de México 1990,roberto-moreno,Roberto Moreno,eurobrun,DSQ,,,2,35,1416.22288,1408.275641,-7.94724,0.0,0.331135,24.0,35

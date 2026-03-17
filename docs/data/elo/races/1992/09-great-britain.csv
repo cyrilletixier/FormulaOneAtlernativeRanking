@@ -1,0 +1,33 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,nigel-mansell,Nigel Mansell,williams,1,59,1,0,1,1726.976634,1733.22646,6.249826,1.0,0.739591,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,riccardo-patrese,Riccardo Patrese,williams,2,59,2,0,2,1726.538978,1732.026198,5.48722,0.967742,0.739108,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,martin-brundle,Martin Brundle,benetton,3,59,6,0,3,1576.495495,1585.781601,9.286106,0.935484,0.548563,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,michael-schumacher,Michael Schumacher,benetton,4,59,4,0,4,1574.207492,1582.795599,8.588107,0.903226,0.545388,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,gerhard-berger,Gerhard Berger,mclaren,5,59,5,0,5,1677.022481,1681.574657,4.552176,0.870968,0.681294,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,mika-hakkinen,Mika Häkkinen,lotus,6,59,9,0,6,1544.156808,1552.203338,8.04653,0.83871,0.503438,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,michele-alboreto,Michele Alboreto,footwork,7,58,12,0,7,1545.710427,1552.93054,7.220113,0.806452,0.505614,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,erik-comas,Érik Comas,ligier,8,58,10,0,8,1567.102902,1572.831364,5.728462,0.774194,0.535508,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,ivan-capelli,Ivan Capelli,ferrari,9,58,14,0,9,1534.582354,1540.628217,6.045863,0.741935,0.490025,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,thierry-boutsen,Thierry Boutsen,ligier,10,57,13,0,10,1631.584269,1633.656654,2.072386,0.709677,0.623328,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,olivier-grouillard,Olivier Grouillard,tyrrell,11,57,20,0,11,1466.246174,1473.012101,6.765927,0.677419,0.395506,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,aguri-suzuki,Aguri Suzuki,footwork,12,57,17,0,12,1472.456242,1478.246067,5.789825,0.645161,0.403919,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,jj-lehto,JJ Lehto,dallara,13,57,19,0,13,1553.986881,1556.283816,2.296935,0.612903,0.517198,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,gabriele-tarquini,Gabriele Tarquini,fondmetal,14,57,15,0,14,1397.966944,1404.52619,6.559246,0.580645,0.307343,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,pierluigi-martini,Pierluigi Martini,dallara,15,56,22,0,15,1578.52336,1578.45169,-0.07167,0.548387,0.551373,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,damon-hill,Damon Hill,brabham,16,55,26,0,16,1456.040988,1459.264946,3.223958,0.516129,0.381797,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,gianni-morbidelli,Gianni Morbidelli,minardi,17,53,25,0,17,1542.435949,1542.024202,-0.411747,0.483871,0.501027,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,ayrton-senna,Ayrton Senna,mclaren,DNF,52,3,1,18,1760.820142,1753.050995,-7.769148,0.451613,0.775327,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,andrea-de-cesaris,Andrea de Cesaris,tyrrell,DNF,46,18,1,19,1563.008131,1560.357455,-2.650676,0.419355,0.5298,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,jean-alesi,Jean Alesi,ferrari,DNF,43,8,1,20,1616.38235,1610.811364,-5.570985,0.370968,0.603092,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,stefano-modena,Stefano Modena,jordan,DNF,43,23,1,21,1534.005974,1531.16799,-2.837984,0.370968,0.489217,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,mauricio-gugelmin,Maurício Gugelmin,jordan,DNF,37,24,1,22,1545.636074,1541.245783,-4.390291,0.322581,0.505509,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,bertrand-gachot,Bertrand Gachot,venturi,DNF,32,11,1,23,1465.445077,1462.946637,-2.498439,0.290323,0.394424,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,johnny-herbert,Johnny Herbert,lotus,DNF,31,7,1,24,1537.844957,1532.168219,-5.676739,0.258065,0.494595,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,karl-wendlinger,Karl Wendlinger,march,DNF,27,21,1,25,1509.428198,1503.543759,-5.884439,0.209677,0.454862,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,ukyo-katayama,Ukyo Katayama,venturi,DNF,27,16,1,26,1505.469795,1499.717561,-5.752234,0.209677,0.449354,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,perry-mccarthy,Perry McCarthy,andrea-moda,DNPQ,,,1,27,1479.289152,1472.855472,-6.43368,0.145161,0.413231,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,roberto-moreno,Roberto Moreno,andrea-moda,DNPQ,,,1,28,1475.516093,1469.205997,-6.310096,0.145161,0.408082,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,alex-zanardi,Alex Zanardi,minardi,DNQ,,,2,29,1513.847651,1503.94439,-9.903261,0.048387,0.461023,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,andrea-chiesa,Andrea Chiesa,fondmetal,DNQ,,,2,30,1451.086494,1443.243004,-7.843491,0.048387,0.375199,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,eric-van-de-poele,Eric van de Poele,brabham,DNQ,,,2,31,1371.69207,1366.226368,-5.465702,0.048387,0.276125,24.0,32
+1992,9,1992-07-12,great-britain,1992 Foster's British Grand Prix,paul-belmondo,Paul Belmondo,march,DNQ,,,2,32,1469.672572,1461.230473,-8.442099,0.048387,0.400141,24.0,32

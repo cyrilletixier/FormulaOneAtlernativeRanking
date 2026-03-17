@@ -1,0 +1,26 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,alain-prost,Alain Prost,mclaren,1,61,6,0,1,1692.689992,1699.860013,7.170021,1.0,0.701249,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,michele-alboreto,Michele Alboreto,ferrari,2,61,1,0,2,1595.47711,1604.759138,9.282028,0.958333,0.571582,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,elio-de-angelis,Elio de Angelis,lotus,3,60,3,0,3,1602.329763,1610.380055,8.050292,0.916667,0.581238,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,rene-arnoux,René Arnoux,ferrari,4,59,7,0,4,1652.089605,1657.505891,5.416286,0.875,0.649321,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,patrick-tambay,Patrick Tambay,renault,5,59,11,0,5,1600.748227,1606.851889,6.103662,0.833333,0.579014,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,jacques-laffite,Jacques Laffite,ligier,6,59,15,0,6,1551.502053,1558.29256,6.790508,0.791667,0.508729,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,stefan-johansson,Stefan Johansson,tyrrell,7,58,23,0,7,1463.503643,1472.289987,8.786344,0.75,0.383902,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,martin-brundle,Martin Brundle,tyrrell,8,58,21,0,8,1419.549986,1428.740169,9.190183,0.708333,0.325409,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,philippe-alliot,Philippe Alliot,ram,9,58,20,0,9,1462.681868,1469.495253,6.813386,0.666667,0.382776,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,derek-warwick,Derek Warwick,renault,10,57,10,0,10,1530.928356,1534.429471,3.501115,0.625,0.47912,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,thierry-boutsen,Thierry Boutsen,arrows,11,57,12,0,11,1540.959542,1543.114281,2.154739,0.583333,0.493553,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,piercarlo-ghinzani,Piercarlo Ghinzani,osella,12,57,22,0,12,1436.583652,1441.240846,4.657194,0.541667,0.347617,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,manfred-winkelhock,Manfred Winkelhock,ram,13,57,16,0,13,1458.310511,1461.267292,2.956781,0.5,0.376801,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,gerhard-berger,Gerhard Berger,arrows,DNF,51,19,1,14,1506.107641,1506.461712,0.35407,0.458333,0.44358,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,ayrton-senna,Ayrton Senna,lotus,DNF,48,4,1,15,1518.062902,1517.007158,-1.055744,0.416667,0.460656,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,eddie-cheever,Eddie Cheever,alfa-romeo,DNF,42,18,1,16,1537.161887,1534.44781,-2.714078,0.375,0.488087,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,pierluigi-martini,Pierluigi Martini,minardi,DNF,41,25,1,17,1490.492257,1488.37731,-2.114947,0.333333,0.421456,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,niki-lauda,Niki Lauda,mclaren,DNF,27,9,1,18,1660.367618,1651.522531,-8.845087,0.291667,0.660212,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,andrea-de-cesaris,Andrea de Cesaris,ligier,DNF,26,13,1,19,1551.614917,1545.401526,-6.213391,0.25,0.508891,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,riccardo-patrese,Riccardo Patrese,alfa-romeo,DNF,20,14,1,20,1562.151275,1554.574253,-7.577022,0.208333,0.524043,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,keke-rosberg,Keke Rosberg,williams,DNF,10,2,1,21,1581.590163,1572.345261,-9.244902,0.166667,0.551871,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,francois-hesnault,François Hesnault,brabham,DNF,9,17,1,22,1489.366446,1482.289549,-7.076896,0.125,0.419871,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,nigel-mansell,Nigel Mansell,williams,DNF,8,5,1,23,1569.543003,1558.711426,-10.831578,0.083333,0.534649,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,mauro-baldi,Mauro Baldi,spirit,DNF,7,24,1,24,1514.904197,1504.956952,-9.947245,0.041667,0.456135,24.0,25
+1985,1,1985-04-07,brazil,Grande Prêmio do Brasil 1985,nelson-piquet,Nelson Piquet,brabham,DNF,2,8,1,25,1652.782434,1637.176713,-15.605721,0.0,0.650238,24.0,25

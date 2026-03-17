@@ -1,0 +1,28 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,keke-rosberg,Keke Rosberg,williams,1,67,8,0,1,1624.042165,1633.149884,9.107719,1.0,0.620512,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,rene-arnoux,René Arnoux,ferrari,2,67,4,0,2,1642.389011,1649.981731,7.59272,0.961538,0.645175,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,elio-de-angelis,Elio de Angelis,lotus,3,66,2,0,3,1599.792624,1607.857082,8.064457,0.923077,0.587058,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,jacques-laffite,Jacques Laffite,williams,4,65,23,0,4,1579.504459,1587.331431,7.826972,0.884615,0.558492,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,piercarlo-ghinzani,Piercarlo Ghinzani,osella,5,65,17,0,5,1421.370607,1433.588441,12.217834,0.846154,0.337077,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,nigel-mansell,Nigel Mansell,lotus,6,64,1,0,6,1561.605219,1568.198065,6.592846,0.807692,0.53299,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,corrado-fabi,Corrado Fabi,brabham,7,64,11,0,7,1454.171811,1463.493817,9.322006,0.769231,0.380814,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,manfred-winkelhock,Manfred Winkelhock,ats-wheels,8,64,13,0,8,1459.908337,1468.118874,8.210537,0.730769,0.388664,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,niki-lauda,Niki Lauda,mclaren,DNF,60,5,1,9,1599.655354,1602.185951,2.530597,0.692308,0.586866,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,alain-prost,Alain Prost,mclaren,DNF,56,7,1,10,1691.206358,1689.923305,-1.283053,0.653846,0.707307,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,thierry-boutsen,Thierry Boutsen,arrows,DNF,55,19,1,11,1539.199562,1541.948122,2.74856,0.615385,0.500861,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,marc-surer,Marc Surer,arrows,DNF,54,21,1,12,1572.39105,1572.614462,0.223412,0.557692,0.548383,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,michele-alboreto,Michele Alboreto,ferrari,DNF,54,9,1,13,1564.648706,1565.137141,0.488435,0.557692,0.537341,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,ayrton-senna,Ayrton Senna,toleman,DNF,47,6,1,14,1516.912584,1517.659189,0.746606,0.5,0.468891,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,jonathan-palmer,Jonathan Palmer,ram,DNF,46,24,1,15,1503.170683,1503.465,0.294317,0.461538,0.449275,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,nelson-piquet,Nelson Piquet,brabham,DNF,45,12,1,16,1657.697596,1651.885538,-5.812058,0.423077,0.665246,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,johnny-cecotto,Johnny Cecotto,toleman,DNF,25,15,1,17,1482.19318,1480.891657,-1.301523,0.365385,0.419615,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,patrick-tambay,Patrick Tambay,renault,DNF,25,10,1,18,1587.766384,1582.851376,-4.915008,0.365385,0.570177,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,andrea-de-cesaris,Andrea de Cesaris,ligier,DNF,15,16,1,19,1556.527312,1550.83306,-5.694252,0.288462,0.525722,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,huub-rothengatter,Huub Rothengatter,spirit,DNF,15,22,1,20,1492.440136,1488.945986,-3.49415,0.288462,0.434051,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,riccardo-patrese,Riccardo Patrese,alfa-romeo,DNF,12,20,1,21,1540.941003,1534.398779,-6.542224,0.230769,0.503362,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,derek-warwick,Derek Warwick,renault,DNF,10,3,1,22,1526.037736,1519.085903,-6.951833,0.192308,0.481967,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,eddie-cheever,Eddie Cheever,alfa-romeo,DNF,8,14,1,23,1554.748758,1545.884895,-8.863863,0.153846,0.523174,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,francois-hesnault,François Hesnault,ligier,DNF,0,18,1,24,1475.663077,1468.580871,-7.082206,0.115385,0.410477,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,philippe-alliot,Philippe Alliot,ram,DNS,,,2,25,1487.217149,1478.823009,-8.394141,0.076923,0.426679,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,martin-brundle,Martin Brundle,tyrrell,DSQ,,,2,26,1427.366339,1419.549986,-7.816353,0.019231,0.344912,24.0,27
+1984,9,1984-07-08,dallas,1984 Dallas Grand Prix,stefan-bellof,Stefan Bellof,tyrrell,DSQ,,,2,27,1427.366339,1419.549986,-7.816353,0.019231,0.344912,24.0,27

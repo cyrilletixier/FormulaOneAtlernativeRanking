@@ -1,0 +1,32 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,gerhard-berger,Gerhard Berger,ferrari,1,51,3,0,1,1605.922637,1615.301504,9.378868,1.0,0.609214,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,michele-alboreto,Michele Alboreto,ferrari,2,51,4,0,2,1598.733097,1607.545422,8.812324,0.966667,0.599486,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,eddie-cheever,Eddie Cheever,arrows,3,51,5,0,3,1553.64547,1563.156783,9.511313,0.933333,0.537029,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,derek-warwick,Derek Warwick,arrows,4,51,6,0,4,1564.029922,1572.391758,8.361837,0.9,0.55159,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,ivan-capelli,Ivan Capelli,march,5,51,11,0,5,1510.791565,1520.156182,9.364618,0.866667,0.476474,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,thierry-boutsen,Thierry Boutsen,benetton,6,51,8,0,6,1617.880822,1622.875797,4.994975,0.833333,0.625209,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,riccardo-patrese,Riccardo Patrese,williams,7,51,10,0,7,1514.276932,1521.923237,7.646305,0.8,0.481404,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,mauricio-gugelmin,Maurício Gugelmin,march,8,51,13,0,8,1531.000659,1537.27892,6.278261,0.766667,0.505072,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,alessandro-nannini,Alessandro Nannini,benetton,9,50,9,0,9,1457.201083,1465.163316,7.962233,0.733333,0.401574,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,ayrton-senna,Ayrton Senna,mclaren,10,49,1,0,10,1709.976193,1709.058026,-0.918167,0.7,0.738257,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,jean-louis-schlesser,Jean-Louis Schlesser,williams,11,49,22,0,11,1490.08078,1495.346238,5.265458,0.666667,0.447273,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,julian-bailey,Julian Bailey,tyrrell,12,49,26,0,12,1440.18659,1446.304073,6.117483,0.633333,0.378438,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,rene-arnoux,René Arnoux,ligier,13,49,24,0,13,1532.671919,1534.893438,2.221519,0.6,0.507437,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,alain-prost,Alain Prost,mclaren,DNF,34,2,1,14,1763.314199,1757.868327,-5.445871,0.566667,0.793578,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,philippe-alliot,Philippe Alliot,lola,DNF,33,20,1,15,1497.449712,1499.266377,1.816664,0.533333,0.457639,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,philippe-streiff,Philippe Streiff,ags,DNF,31,23,1,16,1530.536993,1530.430999,-0.105994,0.5,0.504416,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,bernd-schneider,Bernd Schneider,zakspeed,DNF,28,15,1,17,1448.02321,1449.886221,1.863011,0.466667,0.389041,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,andrea-de-cesaris,Andrea de Cesaris,rial,DNF,27,18,1,18,1473.035545,1473.272822,0.237277,0.433333,0.423447,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,piercarlo-ghinzani,Piercarlo Ghinzani,zakspeed,DNF,25,16,1,19,1403.305965,1404.985913,1.679949,0.4,0.330002,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,alex-caffi,Alex Caffi,dallara,DNF,24,21,1,20,1460.001349,1459.071268,-0.930081,0.366667,0.40542,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,yannick-dalmas,Yannick Dalmas,lola,DNF,17,25,1,21,1532.83046,1528.646597,-4.183864,0.333333,0.507661,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,pierluigi-martini,Pierluigi Martini,minardi,DNF,15,14,1,22,1458.372074,1455.895733,-2.476341,0.3,0.403181,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,satoru-nakajima,Satoru Nakajima,lotus,DNF,14,12,1,23,1537.683067,1531.734536,-5.948531,0.266667,0.514522,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,luis-perez-sala,Luis Pérez-Sala,minardi,DNF,12,19,1,24,1500.714629,1495.220833,-5.493796,0.233333,0.462241,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,nelson-piquet,Nelson Piquet,lotus,DNF,11,7,1,25,1703.559859,1690.814369,-12.74549,0.2,0.731062,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,nicola-larini,Nicola Larini,osella,DNF,2,17,1,26,1444.254138,1439.039824,-5.214315,0.166667,0.38393,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,oscar-larrauri,Oscar Larrauri,eurobrun,DNPQ,,,1,27,1461.923098,1455.329527,-6.593571,0.133333,0.408065,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,gabriele-tarquini,Gabriele Tarquini,coloni,DNQ,,,2,28,1479.055692,1469.891694,-9.163999,0.05,0.431833,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,jonathan-palmer,Jonathan Palmer,tyrrell,DNQ,,,2,29,1547.596873,1536.112523,-11.48435,0.05,0.528515,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,stefan-johansson,Stefan Johansson,ligier,DNQ,,,2,30,1543.545157,1532.197938,-11.347219,0.05,0.522801,24.0,31
+1988,12,1988-09-11,italy,Coca Cola Gran Premio d'Italia 1988,stefano-modena,Stefano Modena,eurobrun,DNQ,,,2,31,1487.883197,1478.42269,-9.460507,0.05,0.444188,24.0,31

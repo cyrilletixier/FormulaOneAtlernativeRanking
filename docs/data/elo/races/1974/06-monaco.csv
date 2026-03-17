@@ -1,0 +1,29 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,ronnie-peterson,Ronnie Peterson,lotus,1,78,3,0,1,1578.921976,1589.073249,10.151273,1.0,0.57703,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,jody-scheckter,Jody Scheckter,tyrrell,2,78,5,0,2,1516.928395,1528.348489,11.420093,0.962963,0.487126,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,jean-pierre-jarier,Jean-Pierre Jarier,shadow,3,78,6,0,3,1475.98093,1487.936938,11.956008,0.925926,0.427759,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,clay-regazzoni,Clay Regazzoni,ferrari,4,78,2,0,4,1587.110933,1594.316148,7.205216,0.888889,0.588672,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,emerson-fittipaldi,Emerson Fittipaldi,mclaren,5,77,13,0,5,1667.508983,1671.23627,3.727286,0.851852,0.696548,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,john-watson,John Watson,brabham,6,77,23,0,6,1497.439294,1505.98508,8.545786,0.814815,0.45874,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,graham-hill,Graham Hill,lola,7,76,21,0,7,1551.554704,1557.318818,5.764115,0.777778,0.537606,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,guy-edwards,Guy Edwards,lola,8,76,26,0,8,1488.112847,1495.205157,7.09231,0.740741,0.445228,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,patrick-depailler,Patrick Depailler,tyrrell,9,75,4,0,9,1527.308682,1532.142833,4.834151,0.703704,0.502281,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,henri-pescarolo,Henri Pescarolo,brm,DNF,62,27,1,10,1490.660805,1495.886889,5.226085,0.666667,0.448913,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,jacky-ickx,Jacky Ickx,lotus,DNF,34,19,1,11,1587.370264,1588.344444,0.97418,0.62963,0.589039,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,niki-lauda,Niki Lauda,ferrari,DNF,32,1,1,12,1492.445403,1495.83169,3.386287,0.592593,0.451497,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,james-hunt,James Hunt,hesketh,DNF,28,7,1,13,1515.313143,1517.012033,1.69889,0.555556,0.484768,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,mike-hailwood,Mike Hailwood,mclaren,DNF,11,10,1,14,1527.335071,1527.723853,0.388781,0.518519,0.502319,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,carlos-reutemann,Carlos Reutemann,brabham,DNF,5,8,1,15,1548.824827,1547.12855,-1.696277,0.462963,0.533641,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,francois-migault,François Migault,brm,DNF,5,22,1,16,1479.634412,1480.35341,0.718998,0.462963,0.433005,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,vern-schuppan,Vern Schuppan,ensign,DNF,4,25,1,17,1491.072189,1490.061759,-1.010429,0.407407,0.449509,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,hans-joachim-stuck,Hans-Joachim Stuck,march,DNF,3,9,1,18,1500.988539,1498.743888,-2.244651,0.37037,0.463897,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,jean-pierre-beltoise,Jean-Pierre Beltoise,brm,DNF,1,11,1,19,1571.131762,1565.106176,-6.025586,0.314815,0.565881,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,vittorio-brambilla,Vittorio Brambilla,march,DNF,1,15,1,20,1499.999119,1496.455655,-3.543464,0.314815,0.462459,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,arturo-merzario,Arturo Merzario,iso-marlboro,DNF,0,14,1,21,1510.200967,1503.189928,-7.011038,0.185185,0.477312,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,brian-redman,Brian Redman,shadow,DNF,0,16,1,22,1495.398332,1488.904099,-6.494233,0.185185,0.455778,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,carlos-pace,Carlos Pace,surtees,DNF,0,18,1,23,1498.552009,1491.9479,-6.604109,0.185185,0.460356,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,denny-hulme,Denny Hulme,mclaren,DNF,0,12,1,24,1671.001425,1658.624305,-12.377119,0.185185,0.700898,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,tim-schenken,Tim Schenken,trojan,DNF,0,24,1,25,1496.346088,1489.818851,-6.527238,0.185185,0.457153,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,rikky-von-opel,Rikky von Opel,brabham,DNQ,,,2,26,1451.73135,1444.068664,-7.662686,0.074074,0.393353,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,chris-amon,Chris Amon,amon,DNS,,20,2,27,1543.18016,1531.014293,-12.165867,0.018519,0.52543,24.0,28
+1974,6,1974-05-26,monaco,Grand Prix de Monaco 1974,jochen-mass,Jochen Mass,surtees,DNS,,17,2,28,1473.217281,1463.490519,-9.726762,0.018519,0.4238,24.0,28

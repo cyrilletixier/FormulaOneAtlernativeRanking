@@ -1,0 +1,23 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2014,3,2014-04-06,bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,1,57,2,0,1,1730.972861,1738.522325,7.549464,1.0,0.685439,24.0,22
+2014,3,2014-04-06,bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,nico-rosberg,Nico Rosberg,mercedes,2,57,1,0,2,1702.431486,1709.661298,7.229813,0.952381,0.651139,24.0,22
+2014,3,2014-04-06,bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,sergio-perez,Sergio Pérez,force-india,3,57,4,0,3,1569.729104,1579.986776,10.257672,0.904762,0.477359,24.0,22
+2014,3,2014-04-06,bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,4,57,13,0,4,1507.946318,1519.042623,11.096305,0.857143,0.394797,24.0,22
+2014,3,2014-04-06,bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,5,57,11,0,5,1598.914103,1605.94164,7.027537,0.809524,0.51671,24.0,22
+2014,3,2014-04-06,bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,6,57,10,0,6,1854.334155,1853.112069,-1.222086,0.761905,0.812825,24.0,22
+2014,3,2014-04-06,bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,felipe-massa,Felipe Massa,williams,7,57,7,0,7,1691.741543,1693.574586,1.833044,0.714286,0.637909,24.0,22
+2014,3,2014-04-06,bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,valtteri-bottas,Valtteri Bottas,williams,8,57,3,0,8,1508.094767,1514.614966,6.520199,0.666667,0.394992,24.0,22
+2014,3,2014-04-06,bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,fernando-alonso,Fernando Alonso,ferrari,9,57,9,0,9,1830.261081,1826.136974,-4.124107,0.619048,0.790885,24.0,22
+2014,3,2014-04-06,bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,10,57,5,0,10,1750.940531,1747.651691,-3.28884,0.571429,0.708464,24.0,22
+2014,3,2014-04-06,bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,daniil-kvyat,Daniil Kvyat,toro-rosso,11,57,12,0,11,1509.941684,1512.975068,3.033384,0.52381,0.397419,24.0,22
+2014,3,2014-04-06,bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,12,57,16,0,12,1578.490386,1578.178569,-0.311818,0.47619,0.489183,24.0,22
+2014,3,2014-04-06,bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,max-chilton,Max Chilton,marussia,13,57,21,0,13,1432.165176,1435.262318,3.097142,0.428571,0.299524,24.0,22
+2014,3,2014-04-06,bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,pastor-maldonado,Pastor Maldonado,lotus-f1,14,57,17,0,14,1477.450166,1478.064821,0.614655,0.380952,0.355342,24.0,22
+2014,3,2014-04-06,bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,kamui-kobayashi,Kamui Kobayashi,caterham,15,57,18,0,15,1547.260114,1544.52992,-2.730194,0.333333,0.447091,24.0,22
+2014,3,2014-04-06,bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,jules-bianchi,Jules Bianchi,marussia,16,56,19,0,16,1433.788163,1433.410375,-0.377788,0.285714,0.301455,24.0,22
+2014,3,2014-04-06,bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,jenson-button,Jenson Button,mclaren,17,55,6,0,17,1720.257243,1709.825661,-10.431582,0.238095,0.672744,24.0,22
+2014,3,2014-04-06,bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,kevin-magnussen,Kevin Magnussen,mclaren,DNF,40,8,1,18,1518.831578,1513.583439,-5.248138,0.190476,0.409149,24.0,22
+2014,3,2014-04-06,bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,esteban-gutierrez,Esteban Gutiérrez,sauber,DNF,39,15,1,19,1500.34467,1494.536844,-5.807826,0.142857,0.38485,24.0,22
+2014,3,2014-04-06,bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,marcus-ericsson,Marcus Ericsson,caterham,DNF,33,20,1,20,1496.514332,1489.683313,-6.831019,0.095238,0.379864,24.0,22
+2014,3,2014-04-06,bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,DNF,18,14,1,21,1487.483612,1479.790057,-7.693554,0.047619,0.368184,24.0,22
+2014,3,2014-04-06,bahrain,2014 Formula 1 Gulf Air Bahrain Grand Prix,adrian-sutil,Adrian Sutil,sauber,DNF,17,22,1,22,1530.518112,1520.32585,-10.192262,0.0,0.424678,24.0,22

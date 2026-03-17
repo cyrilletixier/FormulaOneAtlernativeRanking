@@ -1,0 +1,25 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1995,7,1995-07-02,france,Grand Prix de France 1995,michael-schumacher,Michael Schumacher,benetton,1,72,2,0,1,1686.454731,1693.591179,7.136449,1.0,0.702648,24.0,24
+1995,7,1995-07-02,france,Grand Prix de France 1995,damon-hill,Damon Hill,williams,2,72,1,0,2,1677.165615,1683.535074,6.369459,0.956522,0.691128,24.0,24
+1995,7,1995-07-02,france,Grand Prix de France 1995,david-coulthard,David Coulthard,williams,3,72,3,0,3,1537.284768,1547.2282,9.943432,0.913043,0.498734,24.0,24
+1995,7,1995-07-02,france,Grand Prix de France 1995,martin-brundle,Martin Brundle,ligier,4,72,9,0,4,1610.24557,1616.655227,6.409658,0.869565,0.602496,24.0,24
+1995,7,1995-07-02,france,Grand Prix de France 1995,jean-alesi,Jean Alesi,ferrari,5,72,4,0,5,1616.488873,1621.648099,5.159226,0.826087,0.611119,24.0,24
+1995,7,1995-07-02,france,Grand Prix de France 1995,rubens-barrichello,Rubens Barrichello,jordan,6,71,5,0,6,1542.720739,1549.345811,6.625072,0.782609,0.506564,24.0,24
+1995,7,1995-07-02,france,Grand Prix de France 1995,mika-hakkinen,Mika Häkkinen,mclaren,7,71,8,0,7,1565.820142,1570.60504,4.784898,0.73913,0.53976,24.0,24
+1995,7,1995-07-02,france,Grand Prix de France 1995,olivier-panis,Olivier Panis,ligier,8,71,6,0,8,1570.576517,1574.154634,3.578117,0.695652,0.546564,24.0,24
+1995,7,1995-07-02,france,Grand Prix de France 1995,eddie-irvine,Eddie Irvine,jordan,9,71,11,0,9,1512.901213,1517.425532,4.524319,0.652174,0.463661,24.0,24
+1995,7,1995-07-02,france,Grand Prix de France 1995,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,10,71,12,0,10,1528.096809,1531.053478,2.956669,0.608696,0.485501,24.0,24
+1995,7,1995-07-02,france,Grand Prix de France 1995,mark-blundell,Mark Blundell,mclaren,11,70,13,0,11,1555.389736,1556.359889,0.970153,0.565217,0.524794,24.0,24
+1995,7,1995-07-02,france,Grand Prix de France 1995,gerhard-berger,Gerhard Berger,ferrari,12,70,7,0,12,1660.607816,1657.047847,-3.559969,0.521739,0.670071,24.0,24
+1995,7,1995-07-02,france,Grand Prix de France 1995,luca-badoer,Luca Badoer,minardi,13,69,17,0,13,1485.061883,1486.363922,1.302039,0.478261,0.424009,24.0,24
+1995,7,1995-07-02,france,Grand Prix de France 1995,gianni-morbidelli,Gianni Morbidelli,footwork,14,69,16,0,14,1526.162377,1525.011959,-1.150418,0.434783,0.482717,24.0,24
+1995,7,1995-07-02,france,Grand Prix de France 1995,mika-salo,Mika Salo,tyrrell,15,69,14,0,15,1518.798712,1516.858971,-1.939741,0.391304,0.472127,24.0,24
+1995,7,1995-07-02,france,Grand Prix de France 1995,roberto-moreno,Roberto Moreno,forti,16,66,24,0,16,1449.687064,1449.037616,-0.649448,0.347826,0.374886,24.0,24
+1995,7,1995-07-02,france,Grand Prix de France 1995,andrea-montermini,Andrea Montermini,pacific,NC,62,21,1,17,1456.255236,1454.346788,-1.908448,0.304348,0.383867,24.0,24
+1995,7,1995-07-02,france,Grand Prix de France 1995,jean-christophe-boullion,Jean-Christophe Boullion,sauber,DNF,48,15,1,18,1499.715634,1495.301225,-4.414409,0.26087,0.444803,24.0,24
+1995,7,1995-07-02,france,Grand Prix de France 1995,bertrand-gachot,Bertrand Gachot,pacific,DNF,24,22,1,19,1370.324174,1368.976509,-1.347665,0.217391,0.273544,24.0,24
+1995,7,1995-07-02,france,Grand Prix de France 1995,pierluigi-martini,Pierluigi Martini,minardi,DNF,23,20,1,20,1552.158181,1543.848535,-8.309646,0.173913,0.520148,24.0,24
+1995,7,1995-07-02,france,Grand Prix de France 1995,johnny-herbert,Johnny Herbert,benetton,DNF,2,10,1,21,1553.433788,1544.036638,-9.39715,0.130435,0.521983,24.0,24
+1995,7,1995-07-02,france,Grand Prix de France 1995,pedro-diniz,Pedro Diniz,forti,DNF,0,23,1,22,1496.884468,1487.349452,-9.535016,0.043478,0.440771,24.0,24
+1995,7,1995-07-02,france,Grand Prix de France 1995,taki-inoue,Taki Inoue,footwork,DNF,0,18,1,23,1484.786794,1475.66337,-9.123424,0.043478,0.423621,24.0,24
+1995,7,1995-07-02,france,Grand Prix de France 1995,ukyo-katayama,Ukyo Katayama,tyrrell,DNF,0,19,1,24,1463.956665,1455.532508,-8.424156,0.043478,0.394485,24.0,24

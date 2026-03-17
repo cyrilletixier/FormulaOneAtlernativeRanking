@@ -1,0 +1,25 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,lewis-hamilton,Lewis Hamilton,mclaren,1,53,1,0,1,1713.938777,1721.579048,7.640271,1.0,0.681655,24.0,24
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,sergio-perez,Sergio Pérez,sauber,2,53,12,0,2,1535.688766,1547.725725,12.036959,0.956522,0.454982,24.0,24
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,fernando-alonso,Fernando Alonso,ferrari,3,53,10,0,3,1801.395001,1804.699933,3.304932,0.913043,0.775338,24.0,24
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,felipe-massa,Felipe Massa,ferrari,4,53,3,0,4,1677.064246,1682.631505,5.56726,0.869565,0.637596,24.0,24
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,kimi-raikkonen,Kimi Räikkönen,lotus-f1,5,53,7,0,5,1739.239104,1742.014552,2.775448,0.826087,0.710443,24.0,24
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,michael-schumacher,Michael Schumacher,mercedes,6,53,4,0,6,1615.985272,1621.318976,5.333704,0.782609,0.560371,24.0,24
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,nico-rosberg,Nico Rosberg,mercedes,7,53,6,0,7,1676.331529,1678.789907,2.458378,0.73913,0.636698,24.0,24
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,paul-di-resta,Paul di Resta,force-india,8,53,9,0,8,1571.769307,1576.405047,4.63574,0.695652,0.502496,24.0,24
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,kamui-kobayashi,Kamui Kobayashi,sauber,9,53,8,0,9,1539.906093,1544.505688,4.599595,0.652174,0.460524,24.0,24
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,bruno-senna,Bruno Senna,williams,10,53,13,0,10,1485.073856,1490.339479,5.265622,0.608696,0.389295,24.0,24
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,pastor-maldonado,Pastor Maldonado,williams,11,53,22,0,11,1476.464003,1480.948769,4.484766,0.565217,0.378352,24.0,24
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,daniel-ricciardo,Daniel Ricciardo,toro-rosso,12,53,14,0,12,1484.425057,1487.623584,3.198527,0.521739,0.388467,24.0,24
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,jerome-dambrosio,Jérôme d'Ambrosio,lotus-f1,13,53,15,0,13,1437.395442,1440.954481,3.55904,0.478261,0.329968,24.0,24
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,heikki-kovalainen,Heikki Kovalainen,caterham,14,52,17,0,14,1449.964912,1452.112933,2.148021,0.434783,0.345282,24.0,24
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,vitaly-petrov,Vitaly Petrov,caterham,15,52,18,0,15,1495.967535,1495.680685,-0.28685,0.391304,0.403256,24.0,24
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,charles-pic,Charles Pic,marussia,16,52,20,0,16,1454.776428,1454.695186,-0.081242,0.347826,0.351211,24.0,24
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,timo-glock,Timo Glock,marussia,17,52,19,0,17,1399.560687,1400.010377,0.449689,0.304348,0.285611,24.0,24
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,pedro-de-la-rosa,Pedro de la Rosa,hrt,18,52,23,0,18,1426.034554,1424.702775,-1.331779,0.26087,0.31636,24.0,24
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,narain-karthikeyan,Narain Karthikeyan,hrt,19,52,21,0,19,1376.841115,1375.808787,-1.032328,0.217391,0.260405,24.0,24
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,mark-webber,Mark Webber,red-bull,20,51,11,0,20,1777.492116,1763.63193,-13.860186,0.173913,0.751421,24.0,24
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,nico-hulkenberg,Nico Hülkenberg,force-india,21,50,24,0,21,1552.69312,1544.366977,-8.326143,0.130435,0.477357,24.0,24
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,sebastian-vettel,Sebastian Vettel,red-bull,22,47,5,0,22,1790.925372,1774.651661,-16.273711,0.086957,0.765028,24.0,24
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,jenson-button,Jenson Button,mclaren,DNF,32,2,1,23,1743.494327,1727.37401,-16.120318,0.043478,0.715158,24.0,24
+2012,13,2012-09-09,italy,Formula 1 Gran Premio Santander d'Italia 2012,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,DNF,8,16,1,24,1511.015826,1500.870429,-10.145397,0.0,0.422725,24.0,24

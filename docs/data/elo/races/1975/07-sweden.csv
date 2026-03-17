@@ -1,0 +1,27 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,niki-lauda,Niki Lauda,ferrari,1,80,5,0,1,1555.473417,1566.68434,11.210923,1.0,0.532878,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,carlos-reutemann,Carlos Reutemann,brabham,2,80,4,0,2,1618.133453,1626.245271,8.111818,0.96,0.622008,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,clay-regazzoni,Clay Regazzoni,ferrari,3,80,12,0,3,1638.213599,1644.710284,6.496685,0.92,0.649305,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,mario-andretti,Mario Andretti,parnelli,4,80,15,0,4,1488.131415,1498.812419,10.681004,0.88,0.434958,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,mark-donohue,Mark Donohue,penske,5,80,16,0,5,1508.70878,1517.715335,9.006555,0.84,0.464727,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,tony-brise,Tony Brise,hill,6,79,17,0,6,1501.568497,1509.863787,8.29529,0.8,0.454363,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,jody-scheckter,Jody Scheckter,tyrrell,7,79,8,0,7,1575.523112,1580.278132,4.75502,0.76,0.561874,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,emerson-fittipaldi,Emerson Fittipaldi,mclaren,8,79,11,0,8,1677.421819,1677.901175,0.479356,0.72,0.700027,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,ronnie-peterson,Ronnie Peterson,lotus,9,79,9,0,9,1603.869253,1605.737201,1.867948,0.68,0.602169,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,torsten-palm,Torsten Palm,hesketh,10,78,21,0,10,1492.564137,1497.331906,4.767769,0.64,0.441343,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,alan-jones,Alan Jones,hesketh,11,79,19,0,11,1488.073367,1492.036375,3.963007,0.6,0.434875,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,patrick-depailler,Patrick Depailler,tyrrell,12,78,2,0,12,1579.710658,1579.52137,-0.189287,0.56,0.567887,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,bob-evans,Bob Evans,brm,13,78,23,0,13,1496.188177,1497.950362,1.762185,0.52,0.446576,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,damien-magee,Damien Magee,frank-williams-racing-cars,14,78,22,0,14,1500.0,1500.669826,0.669826,0.48,0.452091,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,jacky-ickx,Jacky Ickx,lotus,15,77,18,0,15,1603.231809,1599.361219,-3.87059,0.44,0.601275,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,john-watson,John Watson,surtees,16,77,10,0,16,1527.702847,1525.485208,-2.217639,0.4,0.492402,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,wilson-fittipaldi,Wilson Fittipaldi,fittipaldi,17,74,25,0,17,1465.671936,1464.641463,-1.030472,0.36,0.402936,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,tom-pryce,Tom Pryce,shadow,DNF,53,7,1,18,1518.097241,1514.295821,-3.801419,0.32,0.478392,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,ian-scheckter,Ian Scheckter,frank-williams-racing-cars,DNF,49,20,1,19,1489.102658,1485.350124,-3.752534,0.28,0.436356,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,vern-schuppan,Vern Schuppan,hill,DNF,47,26,1,20,1457.417369,1453.785315,-3.632054,0.24,0.391336,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,carlos-pace,Carlos Pace,brabham,DNF,41,6,1,21,1559.414228,1551.287831,-8.126397,0.2,0.5386,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,jean-pierre-jarier,Jean-Pierre Jarier,shadow,DNF,38,3,1,22,1494.00928,1487.207002,-6.802278,0.16,0.443428,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,vittorio-brambilla,Vittorio Brambilla,march,DNF,36,1,1,23,1499.292433,1491.346848,-7.945585,0.12,0.451066,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,jochen-mass,Jochen Mass,mclaren,DNF,34,14,1,24,1508.341152,1499.12053,-9.220622,0.08,0.464193,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,james-hunt,James Hunt,hesketh,DNF,21,13,1,25,1537.295483,1526.101885,-11.193598,0.04,0.5064,24.0,26
+1975,7,1975-06-08,sweden,Polar Sveriges Grand Prix 1975,lella-lombardi,Lella Lombardi,march,DNF,10,24,1,26,1483.660804,1473.375893,-10.284911,0.0,0.428538,24.0,26

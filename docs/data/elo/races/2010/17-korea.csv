@@ -1,0 +1,25 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,fernando-alonso,Fernando Alonso,ferrari,1,55,3,0,1,1728.512636,1735.51729,7.004653,1.0,0.708139,24.0,24
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,2,55,4,0,2,1685.419977,1692.641632,7.221654,0.956522,0.655619,24.0,24
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,felipe-massa,Felipe Massa,ferrari,3,55,6,0,3,1699.052699,1704.822109,5.76941,0.913043,0.672651,24.0,24
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,michael-schumacher,Michael Schumacher,mercedes,4,55,9,0,4,1745.761137,1749.158724,3.397587,0.869565,0.727999,24.0,24
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,robert-kubica,Robert Kubica,renault,5,55,8,0,5,1634.388557,1640.076834,5.688277,0.826087,0.589075,24.0,24
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,6,55,17,0,6,1477.939039,1487.690778,9.751738,0.782609,0.376286,24.0,24
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,rubens-barrichello,Rubens Barrichello,williams,7,55,10,0,7,1623.619691,1627.5687,3.949009,0.73913,0.574588,24.0,24
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,kamui-kobayashi,Kamui Kobayashi,sauber,8,55,12,0,8,1501.963014,1508.862303,6.899289,0.695652,0.408182,24.0,24
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,nick-heidfeld,Nick Heidfeld,sauber,9,55,13,0,9,1625.729895,1627.523589,1.793695,0.652174,0.577437,24.0,24
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,nico-hulkenberg,Nico Hülkenberg,williams,10,55,11,0,10,1501.459028,1506.287595,4.828567,0.608696,0.407505,24.0,24
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,jaime-alguersuari,Jaime Alguersuari,toro-rosso,11,55,15,0,11,1487.610216,1491.838583,4.228367,0.565217,0.389035,24.0,24
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,jenson-button,Jenson Button,mclaren,12,55,7,0,12,1691.262886,1687.873506,-3.38938,0.521739,0.662963,24.0,24
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,heikki-kovalainen,Heikki Kovalainen,lotus-racing,13,54,21,0,13,1517.867906,1519.03427,1.166363,0.478261,0.429662,24.0,24
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,bruno-senna,Bruno Senna,hrt,14,53,24,0,14,1436.833871,1439.497454,2.663583,0.434783,0.3238,24.0,24
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,sakon-yamamoto,Sakon Yamamoto,hrt,15,53,23,0,15,1418.760405,1420.909489,2.149084,0.391304,0.301759,24.0,24
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,adrian-sutil,Adrian Sutil,force-india,DNF,46,14,1,16,1472.980828,1472.453385,-0.527443,0.347826,0.369803,24.0,24
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,DNF,45,1,1,17,1681.116255,1672.816535,-8.299721,0.304348,0.65017,24.0,24
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,vitaly-petrov,Vitaly Petrov,renault,DNF,39,20,1,18,1514.519571,1510.577554,-3.942017,0.26087,0.42512,24.0,24
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,timo-glock,Timo Glock,virgin,DNF,31,19,1,19,1495.396714,1491.028713,-4.368002,0.217391,0.399391,24.0,24
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,sebastien-buemi,Sébastien Buemi,toro-rosso,DNF,30,16,1,20,1488.251326,1483.067995,-5.183331,0.173913,0.389885,24.0,24
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,jarno-trulli,Jarno Trulli,lotus-racing,DNF,25,18,1,21,1483.395049,1476.800642,-6.594406,0.108696,0.383463,24.0,24
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,lucas-di-grassi,Lucas di Grassi,virgin,DNF,25,22,1,22,1439.283055,1434.047601,-5.235454,0.108696,0.32684,24.0,24
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,mark-webber,Mark Webber,red-bull,DNF,18,2,1,23,1686.606253,1671.357216,-15.249037,0.021739,0.657116,24.0,24
+2010,17,2010-10-24,korea,2010 Formula 1 Korean Grand Prix,nico-rosberg,Nico Rosberg,mercedes,DNF,18,5,1,24,1637.703607,1623.981121,-13.722487,0.021739,0.593509,24.0,24

@@ -1,0 +1,25 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,1,57,1,0,1,1782.136089,1787.997061,5.860972,1.0,0.755793,24.0,24
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,kimi-raikkonen,Kimi Räikkönen,lotus-f1,2,57,11,0,2,1699.950252,1706.971122,7.02087,0.956522,0.663986,24.0,24
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,3,57,7,0,3,1462.842499,1476.192321,13.349822,0.913043,0.356801,24.0,24
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,mark-webber,Mark Webber,red-bull,4,57,3,0,4,1765.015577,1768.175939,3.160361,0.869565,0.737883,24.0,24
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,nico-rosberg,Nico Rosberg,mercedes,5,57,5,0,5,1663.075212,1668.054967,4.979755,0.826087,0.618597,24.0,24
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,paul-di-resta,Paul di Resta,force-india,6,57,10,0,6,1558.584786,1565.802729,7.217942,0.782609,0.481861,24.0,24
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,fernando-alonso,Fernando Alonso,ferrari,7,57,9,0,7,1794.744594,1794.038807,-0.705788,0.73913,0.768538,24.0,24
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,8,57,2,0,8,1742.265159,1741.847564,-0.417595,0.695652,0.713052,24.0,24
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,felipe-massa,Felipe Massa,ferrari,9,57,14,0,9,1677.906098,1678.267589,0.361491,0.652174,0.637112,24.0,24
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,michael-schumacher,Michael Schumacher,mercedes,10,57,22,0,10,1640.986996,1641.424526,0.43753,0.608696,0.590465,24.0,24
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,sergio-perez,Sergio Pérez,sauber,11,57,8,0,11,1532.27237,1535.11283,2.840459,0.565217,0.446865,24.0,24
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,12,57,13,0,12,1508.692993,1511.236261,2.543268,0.521739,0.41577,24.0,24
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,kamui-kobayashi,Kamui Kobayashi,sauber,13,57,12,0,13,1532.921405,1533.654256,0.73285,0.478261,0.447725,24.0,24
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,14,57,17,0,14,1509.044266,1509.489529,0.445263,0.434783,0.41623,24.0,24
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,daniel-ricciardo,Daniel Ricciardo,toro-rosso,15,56,6,0,15,1463.356285,1464.168867,0.812582,0.391304,0.357447,24.0,24
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,vitaly-petrov,Vitaly Petrov,caterham,16,56,18,0,16,1526.039524,1523.860667,-2.178858,0.347826,0.438612,24.0,24
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,heikki-kovalainen,Heikki Kovalainen,caterham,17,56,16,0,17,1453.691764,1452.707342,-0.984422,0.304348,0.345365,24.0,24
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,jenson-button,Jenson Button,mclaren,18,55,4,0,18,1761.103921,1749.756077,-11.347845,0.26087,0.733696,24.0,24
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,timo-glock,Timo Glock,marussia,19,55,23,0,19,1416.897818,1414.894755,-2.003063,0.217391,0.300852,24.0,24
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,hrt,20,55,20,0,20,1464.190025,1459.760041,-4.429984,0.173913,0.358496,24.0,24
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,narain-karthikeyan,Narain Karthikeyan,hrt,21,55,24,0,21,1404.680578,1400.931153,-3.749425,0.130435,0.286661,24.0,24
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,bruno-senna,Bruno Senna,williams,22,54,15,0,22,1471.32245,1464.58916,-6.73329,0.086957,0.36751,24.0,24
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,pastor-maldonado,Pastor Maldonado,williams,DNF,25,21,1,23,1473.883737,1466.028859,-7.854878,0.043478,0.370765,24.0,24
+2012,4,2012-04-22,bahrain,2012 Formula 1 Gulf Air Bahrain Grand Prix,charles-pic,Charles Pic,marussia,DNF,24,19,1,24,1488.824193,1479.466173,-9.35802,0.0,0.389918,24.0,24

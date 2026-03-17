@@ -1,0 +1,23 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,felipe-massa,Felipe Massa,ferrari,1,57,2,0,1,1677.066766,1685.339056,8.27229,1.0,0.655321,24.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,2,57,4,0,2,1742.389202,1747.61763,5.228428,0.952381,0.73453,24.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,robert-kubica,Robert Kubica,bmw-sauber,3,57,1,0,3,1587.715425,1596.611143,8.895718,0.904762,0.534107,24.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,nick-heidfeld,Nick Heidfeld,bmw-sauber,4,57,6,0,4,1647.9375,1653.699643,5.762144,0.857143,0.617054,24.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,heikki-kovalainen,Heikki Kovalainen,mclaren,5,57,5,0,5,1589.392332,1595.945808,6.553475,0.809524,0.536462,24.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,jarno-trulli,Jarno Trulli,toyota,6,57,7,0,6,1562.056358,1568.391841,6.335482,0.761905,0.497926,24.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,mark-webber,Mark Webber,red-bull,7,57,11,0,7,1493.572975,1501.066311,7.493337,0.714286,0.402063,24.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,nico-rosberg,Nico Rosberg,williams,8,57,8,0,8,1532.670712,1537.715603,5.044891,0.666667,0.456463,24.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,timo-glock,Timo Glock,toyota,9,57,13,0,9,1491.187491,1496.47356,5.286069,0.619048,0.398795,24.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,fernando-alonso,Fernando Alonso,renault,10,57,10,0,10,1797.675969,1792.360158,-5.315811,0.571429,0.792921,24.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,rubens-barrichello,Rubens Barrichello,honda,11,57,12,0,11,1586.635146,1586.424443,-0.210703,0.52381,0.532589,24.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,force-india,12,56,18,0,12,1619.774966,1617.313167,-2.461799,0.47619,0.578765,24.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,13,56,3,0,13,1649.434502,1644.862863,-4.571639,0.428571,0.619056,24.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,kazuki-nakajima,Kazuki Nakajima,williams,14,56,16,0,14,1507.54255,1506.573277,-0.969273,0.380952,0.421339,24.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,sebastien-bourdais,Sébastien Bourdais,toro-rosso,15,56,15,0,15,1497.175194,1495.406895,-1.768299,0.333333,0.407012,24.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,anthony-davidson,Anthony Davidson,super-aguri,16,56,21,0,16,1445.532432,1444.279577,-1.252854,0.285714,0.337917,24.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,takuma-sato,Takuma Sato,super-aguri,17,56,22,0,17,1462.53072,1459.600962,-2.929758,0.238095,0.360168,24.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,david-coulthard,David Coulthard,red-bull,18,56,17,0,18,1548.380444,1541.465334,-6.91511,0.190476,0.478606,24.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,adrian-sutil,Adrian Sutil,force-india,19,55,20,0,19,1436.22784,1431.832924,-4.394915,0.142857,0.325979,24.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,nelson-piquet-jr,Nelson Piquet Jr.,renault,DNF,40,14,1,20,1504.222465,1496.506461,-7.716005,0.095238,0.416738,24.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,jenson-button,Jenson Button,honda,DNF,19,9,1,21,1579.222399,1567.833515,-11.388884,0.047619,0.522156,24.0,22
+2008,3,2008-04-06,bahrain,2008 Formula 1 Gulf Air Bahrain Grand Prix,sebastian-vettel,Sebastian Vettel,toro-rosso,DNF,0,19,1,22,1472.925968,1463.949184,-8.976784,0.0,0.374033,24.0,22

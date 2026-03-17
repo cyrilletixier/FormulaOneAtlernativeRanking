@@ -1,0 +1,27 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,riccardo-patrese,Riccardo Patrese,brabham,1,77,3,0,1,1543.251035,1555.345943,12.094908,1.0,0.496045,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,2,77,9,0,2,1529.021175,1540.648583,11.627408,0.96,0.475525,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,nelson-piquet,Nelson Piquet,brabham,3,77,2,0,3,1663.729428,1669.86708,6.137652,0.92,0.664265,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,derek-warwick,Derek Warwick,toleman,4,76,13,0,4,1468.541612,1480.305602,11.763991,0.88,0.389834,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,keke-rosberg,Keke Rosberg,williams,5,76,6,0,5,1610.428173,1616.379264,5.95109,0.84,0.592038,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,eddie-cheever,Eddie Cheever,renault,6,76,14,0,6,1559.888629,1566.607495,6.718866,0.8,0.520047,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,danny-sullivan,Danny Sullivan,tyrrell,7,75,19,0,7,1495.226402,1503.213865,7.987463,0.76,0.427189,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,marc-surer,Marc Surer,arrows,8,75,22,0,8,1584.67766,1588.622721,3.945061,0.72,0.555622,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,thierry-boutsen,Thierry Boutsen,arrows,9,74,20,0,9,1524.122364,1529.198996,5.076633,0.68,0.468474,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,jean-pierre-jarier,Jean-Pierre Jarier,ligier,10,73,21,0,10,1500.645435,1505.568339,4.922905,0.64,0.434879,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,niki-lauda,Niki Lauda,mclaren,11,71,12,0,11,1569.685677,1571.266137,1.58046,0.6,0.534147,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,kenny-acheson,Kenny Acheson,ram,12,71,24,0,12,1445.895375,1450.719592,4.824217,0.56,0.358991,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,nigel-mansell,Nigel Mansell,lotus,NC,68,7,1,13,1558.656628,1558.698109,0.041481,0.52,0.518272,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,raul-boesel,Raul Boesel,ligier,NC,66,23,1,14,1479.039344,1480.853365,1.814021,0.48,0.404416,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,michele-alboreto,Michele Alboreto,tyrrell,DNF,60,18,1,15,1567.341346,1565.162693,-2.178653,0.44,0.530777,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,bruno-giacomelli,Bruno Giacomelli,toleman,DNF,56,16,1,16,1538.261105,1535.648821,-2.612285,0.38,0.488845,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,patrick-tambay,Patrick Tambay,ferrari,DNF,56,1,1,17,1600.169366,1595.426539,-4.742827,0.38,0.577618,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,alain-prost,Alain Prost,renault,DNF,35,5,1,18,1669.693894,1661.245971,-8.447923,0.32,0.671997,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,corrado-fabi,Corrado Fabi,osella,DNF,28,25,1,19,1453.203407,1451.071155,-2.132252,0.28,0.368844,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,elio-de-angelis,Elio de Angelis,lotus,DNF,20,11,1,20,1540.531629,1534.480721,-6.050908,0.24,0.492121,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,rene-arnoux,René Arnoux,ferrari,DNF,9,4,1,21,1642.614782,1632.144129,-10.470653,0.2,0.636277,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,mauro-baldi,Mauro Baldi,alfa-romeo,DNF,5,17,1,22,1510.208802,1503.284421,-6.92438,0.16,0.448516,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,jacques-laffite,Jacques Laffite,williams,DNF,1,10,1,23,1602.768435,1590.737636,-12.030799,0.08,0.581283,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,1,8,1,24,1466.049941,1458.696409,-7.353533,0.08,0.386397,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNF,1,26,1,25,1428.261417,1422.125633,-6.135784,0.08,0.335658,24.0,26
+1983,15,1983-10-15,south-africa,Southern Sun Hotels South African Grand Prix 1983,john-watson,John Watson,mclaren,DSQ,18,15,2,26,1646.819812,1631.413652,-15.40616,0.0,0.641923,24.0,26

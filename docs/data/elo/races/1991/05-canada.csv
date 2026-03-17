@@ -1,0 +1,35 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,nelson-piquet,Nelson Piquet,benetton,1,69,8,0,1,1706.701646,1713.628459,6.926813,1.0,0.711383,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,stefano-modena,Stefano Modena,tyrrell,2,69,9,0,2,1541.03713,1552.434663,11.397533,0.969697,0.4948,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,riccardo-patrese,Riccardo Patrese,williams,3,69,1,0,3,1666.773137,1673.396491,6.623355,0.939394,0.663421,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,andrea-de-cesaris,Andrea de Cesaris,jordan,4,69,11,0,4,1501.17206,1512.443263,11.271202,0.909091,0.439457,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,bertrand-gachot,Bertrand Gachot,jordan,5,69,14,0,5,1421.075313,1434.176656,13.101343,0.878788,0.332899,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,nigel-mansell,Nigel Mansell,williams,6,68,2,0,6,1654.931248,1659.730398,4.79915,0.848485,0.64852,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,pierluigi-martini,Pierluigi Martini,minardi,7,68,18,0,7,1557.437559,1564.651151,7.213592,0.818182,0.517615,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,erik-comas,Érik Comas,ligier,8,68,26,0,8,1507.979469,1516.11592,8.136452,0.787879,0.44886,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,emanuele-pirro,Emanuele Pirro,dallara,9,68,10,0,9,1526.024824,1532.833004,6.80818,0.757576,0.473902,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,satoru-nakajima,Satoru Nakajima,tyrrell,10,67,12,0,10,1541.518403,1547.081671,5.563268,0.727273,0.49547,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,mauricio-gugelmin,Maurício Gugelmin,leyton-house,DNF,61,23,1,11,1534.216987,1539.296986,5.08,0.69697,0.485303,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,jj-lehto,JJ Lehto,dallara,DNF,50,17,1,12,1491.196679,1496.978876,5.782197,0.666667,0.425742,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,stefan-johansson,Stefan Johansson,footwork,DNF,48,25,1,13,1463.030819,1469.001958,5.97114,0.636364,0.387566,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,ivan-capelli,Ivan Capelli,leyton-house,DNF,42,13,1,14,1538.07521,1540.844456,2.769246,0.606061,0.490675,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,jean-alesi,Jean Alesi,ferrari,DNF,34,7,1,15,1588.433279,1588.80185,0.368572,0.575758,0.5604,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,eric-bernard,Éric Bernard,lola,DNF,29,19,1,16,1547.037073,1548.052317,1.015244,0.545455,0.503153,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,alain-prost,Alain Prost,ferrari,DNF,27,4,1,17,1792.00916,1784.805419,-7.203741,0.5,0.800156,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,thierry-boutsen,Thierry Boutsen,ligier,DNF,27,16,1,18,1691.795135,1687.141247,-4.653888,0.5,0.693912,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,ayrton-senna,Ayrton Senna,mclaren,DNF,25,3,1,19,1764.04155,1756.392752,-7.648798,0.454545,0.773245,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,martin-brundle,Martin Brundle,brabham,DNF,21,20,1,20,1561.952589,1559.197579,-2.75501,0.409091,0.523883,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,mika-hakkinen,Mika Häkkinen,lotus,DNF,21,24,1,21,1526.216093,1524.654251,-1.561842,0.409091,0.474168,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,gianni-morbidelli,Gianni Morbidelli,minardi,DNF,20,15,1,22,1499.264253,1497.50765,-1.756603,0.363636,0.436828,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,roberto-moreno,Roberto Moreno,benetton,DNF,10,5,1,23,1451.014816,1450.096409,-0.918407,0.333333,0.3716,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,gerhard-berger,Gerhard Berger,mclaren,DNF,4,6,1,24,1674.205805,1665.335566,-8.870239,0.30303,0.672624,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,aguri-suzuki,Aguri Suzuki,lola,DNF,3,22,1,25,1494.399931,1490.622095,-3.777835,0.272727,0.430137,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,michele-alboreto,Michele Alboreto,footwork,DNF,2,21,1,26,1525.852301,1520.302603,-5.549697,0.242424,0.473662,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,eric-van-de-poele,Eric van de Poele,modena,DNPQ,,,1,27,1488.676501,1482.541534,-6.134967,0.166667,0.42229,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,nicola-larini,Nicola Larini,modena,DNPQ,,,1,28,1505.693349,1498.996574,-6.696775,0.166667,0.445699,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,olivier-grouillard,Olivier Grouillard,fondmetal,DNPQ,,,1,29,1447.470087,1442.663673,-4.806414,0.166667,0.366934,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,pedro-chaves,Pedro Chaves,coloni,DNPQ,,,1,30,1475.662975,1469.953256,-5.709719,0.166667,0.404572,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,fabrizio-barbazza,Fabrizio Barbazza,ags,DNQ,,,2,31,1481.711799,1472.895878,-8.815921,0.045455,0.412785,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,gabriele-tarquini,Gabriele Tarquini,ags,DNQ,,,2,32,1403.548886,1397.173849,-6.375037,0.045455,0.311081,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,johnny-herbert,Johnny Herbert,lotus,DNQ,,,2,33,1513.733308,1503.860321,-9.872987,0.045455,0.456829,24.0,34
+1991,5,1991-06-02,canada,Grand Prix Molson du Canada 1991,mark-blundell,Mark Blundell,brabham,DNQ,,,2,34,1509.113892,1499.394488,-9.719404,0.045455,0.45043,24.0,34

@@ -1,0 +1,25 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,1,55,2,0,1,1786.633019,1792.39804,5.76502,1.0,0.759791,24.0,24
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,mark-webber,Mark Webber,red-bull,2,55,1,0,2,1757.647385,1763.101563,5.454178,0.956522,0.729264,24.0,24
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,fernando-alonso,Fernando Alonso,ferrari,3,55,4,0,3,1789.734604,1793.337085,3.602481,0.913043,0.76294,24.0,24
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,felipe-massa,Felipe Massa,ferrari,4,55,6,0,4,1691.429238,1696.632122,5.202884,0.869565,0.652778,24.0,24
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,kimi-raikkonen,Kimi Räikkönen,lotus-f1,5,55,5,0,5,1745.36327,1748.011318,2.648048,0.826087,0.715752,24.0,24
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,6,55,8,0,6,1550.364985,1557.864513,7.499528,0.782609,0.470128,24.0,24
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,7,55,7,0,7,1501.783767,1509.773156,7.98939,0.73913,0.406239,24.0,24
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,8,55,16,0,8,1496.732172,1503.835078,7.102906,0.695652,0.399698,24.0,24
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,daniel-ricciardo,Daniel Ricciardo,toro-rosso,9,55,21,0,9,1499.051517,1505.03894,5.987423,0.652174,0.402698,24.0,24
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,10,55,3,0,10,1708.818665,1707.258873,-1.559792,0.608696,0.673687,24.0,24
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,sergio-perez,Sergio Pérez,sauber,11,55,12,0,11,1541.902629,1544.454,2.551371,0.565217,0.45891,24.0,24
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,paul-di-resta,Paul di Resta,force-india,12,55,14,0,12,1585.281345,1585.407257,0.125912,0.521739,0.516493,24.0,24
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,michael-schumacher,Michael Schumacher,mercedes,13,55,10,0,13,1611.769591,1610.012713,-1.756877,0.478261,0.551464,24.0,24
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,pastor-maldonado,Pastor Maldonado,williams,14,55,15,0,14,1481.717232,1483.021968,1.304736,0.434783,0.380419,24.0,24
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,bruno-senna,Bruno Senna,williams,15,55,17,0,15,1488.326984,1488.385325,0.058341,0.391304,0.388873,24.0,24
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,vitaly-petrov,Vitaly Petrov,caterham,16,54,18,0,16,1489.201875,1488.189785,-1.012089,0.347826,0.389996,24.0,24
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,heikki-kovalainen,Heikki Kovalainen,caterham,17,54,19,0,17,1454.368871,1453.367719,-1.001152,0.304348,0.346062,24.0,24
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,timo-glock,Timo Glock,marussia,18,54,20,0,18,1407.191322,1406.49762,-0.693702,0.26087,0.289774,24.0,24
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,charles-pic,Charles Pic,marussia,19,53,24,0,19,1450.570427,1447.594687,-2.97574,0.217391,0.34138,24.0,24
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,narain-karthikeyan,Narain Karthikeyan,hrt,20,53,23,0,20,1367.863915,1366.123428,-1.740487,0.173913,0.246433,24.0,24
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,kamui-kobayashi,Kamui Kobayashi,sauber,DNF,16,13,1,21,1555.679262,1546.835578,-8.843684,0.108696,0.477182,24.0,24
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,hrt,DNF,16,22,1,22,1423.368814,1418.571271,-4.797543,0.108696,0.308593,24.0,24
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,nico-rosberg,Nico Rosberg,mercedes,DNF,1,9,1,23,1668.414567,1654.473926,-13.940641,0.043478,0.624338,24.0,24
+2012,16,2012-10-14,korea,2012 Formula 1 Korean Grand Prix,jenson-button,Jenson Button,mclaren,DNF,0,11,1,24,1737.654099,1720.68359,-16.970509,0.0,0.707105,24.0,24

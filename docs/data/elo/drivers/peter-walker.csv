@@ -1,2 +1,5 @@
 date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
 1950-05-13,1950,1,great-britain,DNF,5,23,1500.0,1490.181818,-9.818182,0.090909,0.5,24.0
+1951-07-14,1951,5,great-britain,7,84,20,1490.181818,1495.217334,5.035516,0.684211,0.474397,24.0
+1955-06-19,1955,5,netherlands,DNF,2,16,1495.217334,1484.01305,-11.204284,0.0,0.466845,24.0
+1955-07-16,1955,6,great-britain,DNF,,26,1484.01305,1473.782889,-10.230161,0.04,0.466257,24.0

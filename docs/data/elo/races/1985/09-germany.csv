@@ -1,0 +1,28 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,michele-alboreto,Michele Alboreto,ferrari,1,67,8,0,1,1631.408849,1640.20862,8.799771,1.0,0.633343,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,alain-prost,Alain Prost,mclaren,2,67,3,0,2,1694.042812,1699.998542,5.95573,0.961538,0.713383,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,jacques-laffite,Jacques Laffite,ligier,3,67,13,0,3,1556.694727,1566.157156,9.462428,0.923077,0.528809,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,thierry-boutsen,Thierry Boutsen,arrows,4,67,15,0,4,1567.375562,1575.5479,8.172339,0.884615,0.544101,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,niki-lauda,Niki Lauda,mclaren,5,67,12,0,5,1621.797418,1627.217361,5.419943,0.846154,0.620323,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,nigel-mansell,Nigel Mansell,williams,6,67,10,0,6,1558.844742,1565.463944,6.619202,0.807692,0.531892,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,gerhard-berger,Gerhard Berger,arrows,7,66,17,0,7,1495.648146,1503.520533,7.872387,0.769231,0.441215,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,stefan-bellof,Stefan Bellof,tyrrell,8,66,19,0,8,1430.960071,1440.053724,9.093653,0.730769,0.351867,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,stefan-johansson,Stefan Johansson,ferrari,9,66,2,0,9,1512.556602,1518.003246,5.446644,0.692308,0.465364,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,martin-brundle,Martin Brundle,tyrrell,10,63,26,0,10,1459.420636,1465.743161,6.322525,0.653846,0.390408,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,pierluigi-martini,Pierluigi Martini,minardi,11,62,27,0,11,1461.034164,1466.380181,5.346016,0.615385,0.392634,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,keke-rosberg,Keke Rosberg,williams,12,61,4,0,12,1588.406539,1588.477495,0.070956,0.576923,0.573967,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,eddie-cheever,Eddie Cheever,alfa-romeo,DNF,45,18,1,13,1532.681651,1533.741936,1.060286,0.538462,0.494283,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,elio-de-angelis,Elio de Angelis,lotus,DNF,40,7,1,14,1641.008009,1637.49983,-3.50818,0.5,0.646174,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,huub-rothengatter,Huub Rothengatter,osella,DNF,32,25,1,15,1504.609181,1504.790355,0.181174,0.461538,0.45399,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,teo-fabi,Teo Fabi,toleman,DNF,29,1,1,16,1472.659278,1473.002259,0.342981,0.423077,0.408786,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,ayrton-senna,Ayrton Senna,lotus,DNF,27,5,1,17,1530.528047,1527.9704,-2.557647,0.384615,0.491184,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,derek-warwick,Derek Warwick,renault,DNF,25,20,1,18,1550.249402,1546.087776,-4.161626,0.346154,0.519555,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,nelson-piquet,Nelson Piquet,brabham,DNF,23,6,1,19,1634.445959,1626.53245,-7.91351,0.307692,0.637422,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,patrick-tambay,Patrick Tambay,renault,DNF,19,16,1,20,1598.555827,1590.900133,-7.655694,0.269231,0.588218,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,marc-surer,Marc Surer,brabham,DNF,15,11,1,21,1555.997883,1548.868921,-7.128963,0.230769,0.527809,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,francois-hesnault,François Hesnault,renault,DNF,8,23,1,22,1460.511348,1454.336227,-6.175122,0.134615,0.391912,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,manfred-winkelhock,Manfred Winkelhock,ram,DNF,8,22,1,23,1450.083566,1444.251793,-5.831772,0.134615,0.377606,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,philippe-alliot,Philippe Alliot,ram,DNF,8,21,1,24,1439.065626,1433.591774,-5.473852,0.134615,0.362693,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,riccardo-patrese,Riccardo Patrese,alfa-romeo,DNF,8,9,1,25,1539.833038,1530.954017,-8.879022,0.134615,0.504575,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,jonathan-palmer,Jonathan Palmer,zakspeed,DNF,7,24,1,26,1470.888728,1462.06027,-8.828458,0.038462,0.406314,24.0,27
+1985,9,1985-08-04,germany,Grosser Preis von Deutschland 1985,andrea-de-cesaris,Andrea de Cesaris,ligier,DNS,,14,2,27,1538.165309,1526.113117,-12.052192,0.0,0.502175,24.0,27

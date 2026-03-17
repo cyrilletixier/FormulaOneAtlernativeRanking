@@ -1,0 +1,28 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,alain-prost,Alain Prost,mclaren,1,61,4,0,1,1661.245971,1669.157874,7.911903,1.0,0.670337,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,keke-rosberg,Keke Rosberg,williams,2,61,9,0,2,1616.379264,1624.813789,8.434526,0.961538,0.6101,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,elio-de-angelis,Elio de Angelis,lotus,3,61,1,0,3,1534.480721,1544.798692,10.31797,0.923077,0.493162,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,eddie-cheever,Eddie Cheever,alfa-romeo,4,60,12,0,4,1566.607495,1574.887554,8.280058,0.884615,0.539613,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,patrick-tambay,Patrick Tambay,renault,5,59,8,0,5,1595.426539,1601.795687,6.369148,0.846154,0.580773,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,thierry-boutsen,Thierry Boutsen,arrows,6,59,19,0,6,1529.198996,1536.931263,7.732266,0.807692,0.485515,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,marc-surer,Marc Surer,arrows,7,59,22,0,7,1588.622721,1593.377203,4.754482,0.769231,0.571127,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,jonathan-palmer,Jonathan Palmer,ram,8,58,24,0,8,1503.063405,1509.854136,6.790732,0.730769,0.447822,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,derek-warwick,Derek Warwick,renault,DNF,51,3,1,9,1480.305602,1486.951021,6.645419,0.692308,0.415415,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,andrea-de-cesaris,Andrea de Cesaris,ligier,DNF,42,14,1,10,1540.648583,1544.290624,3.642041,0.653846,0.502094,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,riccardo-patrese,Riccardo Patrese,alfa-romeo,DNF,41,11,1,11,1555.345943,1557.554424,2.208481,0.615385,0.523365,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,niki-lauda,Niki Lauda,mclaren,DNF,38,6,1,12,1571.266137,1572.00076,0.734623,0.576923,0.546314,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,nigel-mansell,Nigel Mansell,lotus,DNF,35,5,1,13,1558.698109,1558.944209,0.2461,0.538462,0.528207,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,nelson-piquet,Nelson Piquet,brabham,DNF,32,7,1,14,1669.86708,1665.051494,-4.815586,0.480769,0.681419,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,teo-fabi,Teo Fabi,brabham,DNF,32,15,1,15,1433.24918,1436.371154,3.121974,0.480769,0.350687,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,rene-arnoux,René Arnoux,ferrari,DNF,30,10,1,16,1632.144129,1627.136885,-5.007244,0.423077,0.631712,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNF,28,20,1,17,1422.125633,1423.292561,1.166929,0.384615,0.335993,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,francois-hesnault,François Hesnault,ligier,DNF,25,18,1,18,1500.0,1497.665344,-2.334656,0.346154,0.443431,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,philippe-alliot,Philippe Alliot,ram,DNF,24,23,1,19,1500.0,1496.742267,-3.257733,0.307692,0.443431,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,johnny-cecotto,Johnny Cecotto,toleman,DNF,18,17,1,20,1486.480386,1482.762212,-3.718174,0.269231,0.424155,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,jacques-laffite,Jacques Laffite,williams,DNF,15,13,1,21,1590.737636,1582.496951,-8.240685,0.230769,0.574131,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,michele-alboreto,Michele Alboreto,ferrari,DNF,14,2,1,22,1565.162693,1556.877309,-8.285384,0.192308,0.537532,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,mauro-baldi,Mauro Baldi,spirit,DNF,12,21,1,23,1503.284421,1496.221389,-7.063032,0.153846,0.448139,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,ayrton-senna,Ayrton Senna,toleman,DNF,8,16,1,24,1500.0,1492.126883,-7.873117,0.115385,0.443431,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,manfred-winkelhock,Manfred Winkelhock,ats-wheels,EX,,,1,25,1458.696409,1451.296988,-7.399421,0.076923,0.385232,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,martin-brundle,Martin Brundle,tyrrell,DSQ,,,2,26,1500.0,1489.81919,-10.18081,0.019231,0.443431,24.0,27
+1984,1,1984-03-25,brazil,Grande Prêmio do Brasil 1984,stefan-bellof,Stefan Bellof,tyrrell,DSQ,,,2,27,1500.0,1489.81919,-10.18081,0.019231,0.443431,24.0,27

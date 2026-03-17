@@ -1,0 +1,36 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,alain-prost,Alain Prost,ferrari,1,71,6,0,1,1791.243803,1795.856498,4.612694,1.0,0.807804,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,gerhard-berger,Gerhard Berger,mclaren,2,71,2,0,2,1613.853512,1622.628497,8.774985,0.970588,0.604964,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,ayrton-senna,Ayrton Senna,mclaren,3,71,1,0,3,1725.343551,1730.126808,4.783257,0.941176,0.741874,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,nigel-mansell,Nigel Mansell,ferrari,4,71,5,0,4,1626.401874,1633.36448,6.962606,0.911765,0.621656,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,thierry-boutsen,Thierry Boutsen,williams,5,70,3,0,5,1683.789981,1688.306211,4.51623,0.882353,0.694177,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,nelson-piquet,Nelson Piquet,benetton,6,70,13,0,6,1682.049864,1685.910435,3.860571,0.852941,0.692084,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,jean-alesi,Jean Alesi,tyrrell,7,70,7,0,7,1555.81076,1562.970081,7.159321,0.823529,0.525224,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,satoru-nakajima,Satoru Nakajima,tyrrell,8,70,19,0,8,1551.281157,1557.886601,6.605444,0.794118,0.518891,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,pierluigi-martini,Pierluigi Martini,minardi,9,69,8,0,9,1537.990064,1544.336493,6.346429,0.764706,0.500271,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,alessandro-nannini,Alessandro Nannini,benetton,10,68,15,0,10,1573.675173,1578.11989,4.444717,0.735294,0.550098,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,nicola-larini,Nicola Larini,ligier,11,68,20,0,11,1421.90383,1430.637004,8.733174,0.705882,0.342,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,philippe-alliot,Philippe Alliot,ligier,12,68,10,0,12,1517.74021,1522.65018,4.90997,0.676471,0.471889,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,riccardo-patrese,Riccardo Patrese,williams,13,65,4,0,13,1628.711274,1629.247886,0.536613,0.647059,0.6247,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,gianni-morbidelli,Gianni Morbidelli,dallara,14,64,16,0,14,1490.550422,1494.957693,4.407271,0.617647,0.434011,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,alex-caffi,Alex Caffi,arrows,DNF,49,25,1,15,1529.903117,1532.286407,2.383289,0.588235,0.488932,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,martin-donnelly,Martin Donnelly,lotus,DNF,43,14,1,16,1501.095866,1503.740068,2.644202,0.558824,0.448648,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,stefano-modena,Stefano Modena,brabham,DNF,39,12,1,17,1527.365299,1528.422219,1.05692,0.529412,0.485373,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,paolo-barilla,Paolo Barilla,minardi,DNF,38,17,1,18,1501.464863,1502.684974,1.22011,0.5,0.449162,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,yannick-dalmas,Yannick Dalmas,ags,DNF,28,26,1,19,1430.635299,1433.450687,2.815388,0.470588,0.35328,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,derek-warwick,Derek Warwick,lotus,DNF,25,24,1,20,1597.704568,1594.297451,-3.407117,0.441176,0.58314,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,aguri-suzuki,Aguri Suzuki,lola,DNF,24,18,1,21,1432.245275,1433.245652,1.000377,0.397059,0.355376,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,michele-alboreto,Michele Alboreto,arrows,DNF,24,23,1,22,1559.251176,1556.059892,-3.191284,0.397059,0.530029,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,gregor-foitek,Gregor Foitek,brabham,DNF,14,22,1,23,1436.251125,1436.06701,-0.184115,0.352941,0.360613,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,eric-bernard,Éric Bernard,lola,DNF,13,11,1,24,1517.436115,1513.885712,-3.550402,0.323529,0.471463,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,olivier-grouillard,Olivier Grouillard,osella,DNF,8,21,1,25,1501.297388,1497.581917,-3.715471,0.294118,0.448929,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,andrea-de-cesaris,Andrea de Cesaris,dallara,DNF,0,9,1,26,1532.613249,1527.140627,-5.472622,0.264706,0.492732,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,bertrand-gachot,Bertrand Gachot,coloni,DNPQ,,,1,27,1459.026518,1453.8801,-5.146418,0.176471,0.390905,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,claudio-langes,Claudio Langes,eurobrun,DNPQ,,,1,28,1493.373951,1487.099126,-6.274826,0.176471,0.437922,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,gabriele-tarquini,Gabriele Tarquini,ags,DNPQ,,,1,29,1438.630185,1434.13581,-4.494375,0.176471,0.363736,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,gary-brabham,Gary Brabham,life,DNPQ,,,1,30,1493.373951,1487.099126,-6.274826,0.176471,0.437922,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,roberto-moreno,Roberto Moreno,eurobrun,DNPQ,,,1,31,1436.430366,1432.005317,-4.425049,0.176471,0.360848,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,ivan-capelli,Ivan Capelli,leyton-house,DNQ,,,2,32,1536.275445,1525.385456,-10.889989,0.044118,0.497867,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,jj-lehto,JJ Lehto,onyx,DNQ,,,2,33,1487.866978,1478.598598,-9.26838,0.044118,0.4303,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,mauricio-gugelmin,Maurício Gugelmin,leyton-house,DNQ,,,2,34,1573.751753,1561.605687,-12.146066,0.044118,0.550204,24.0,35
+1990,2,1990-03-25,brazil,Grande Prêmio do Brasil 1990,stefan-johansson,Stefan Johansson,onyx,DNQ,,,2,35,1489.803442,1480.470812,-9.33263,0.044118,0.432977,24.0,35

@@ -1,0 +1,28 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,emerson-fittipaldi,Emerson Fittipaldi,lotus,1,108,3,0,1,1503.437942,1516.315999,12.878057,1.0,0.463414,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,pedro-rodriguez,Pedro Rodríguez,brm,2,108,4,0,2,1571.021534,1580.606556,9.585022,0.961538,0.562163,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,reine-wisell,Reine Wisell,lotus,3,108,9,0,3,1500.0,1511.152252,11.152252,0.923077,0.4584,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,jacky-ickx,Jacky Ickx,ferrari,4,107,1,0,4,1584.353033,1591.631723,7.27869,0.884615,0.581337,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,chris-amon,Chris Amon,march,5,107,5,0,5,1553.737788,1561.156152,7.418364,0.846154,0.537055,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,derek-bell,Derek Bell,surtees,6,107,13,0,6,1468.715228,1478.182436,9.467208,0.807692,0.413225,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,denny-hulme,Denny Hulme,mclaren,7,106,11,0,7,1628.329924,1631.365371,3.035447,0.769231,0.642754,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,henri-pescarolo,Henri Pescarolo,matra,8,105,12,0,8,1544.779825,1549.743098,4.963273,0.730769,0.523966,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,jo-siffert,Jo Siffert,march,9,105,23,0,9,1519.201105,1524.141046,4.939941,0.692308,0.486477,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,jack-brabham,Jack Brabham,brabham,10,105,16,0,10,1588.576953,1590.172438,1.595485,0.653846,0.587368,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,ronnie-peterson,Ronnie Peterson,march,11,104,15,0,11,1509.579467,1513.011383,3.431916,0.615385,0.472388,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,rolf-stommelen,Rolf Stommelen,brabham,12,104,19,0,12,1508.408728,1510.958656,2.549928,0.576923,0.470676,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,clay-regazzoni,Clay Regazzoni,ferrari,13,101,6,0,13,1554.398605,1554.40922,0.010615,0.538462,0.538019,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,peter-gethin,Peter Gethin,mclaren,14,100,21,0,14,1505.277562,1506.091154,0.813592,0.5,0.4661,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,jackie-stewart,Jackie Stewart,tyrrell,DNF,82,2,1,15,1618.448065,1614.422998,-4.025067,0.461538,0.62925,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,graham-hill,Graham Hill,lotus,DNF,72,10,1,16,1610.242419,1605.566819,-4.675599,0.423077,0.617894,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,francois-cevert,François Cevert,march,DNF,62,17,1,17,1514.318056,1512.045071,-2.272985,0.384615,0.479323,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,tim-schenken,Tim Schenken,de-tomaso,DNF,61,20,1,18,1496.357015,1493.790442,-2.566573,0.346154,0.453094,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,jo-bonnier,Jo Bonnier,mclaren,DNF,50,24,1,19,1482.127088,1479.132371,-2.994717,0.307692,0.432472,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,DNF,27,18,1,20,1581.611699,1574.215387,-7.396313,0.269231,0.57741,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,gus-hutchison,Gus Hutchison,brabham,DNF,21,22,1,21,1500.0,1494.536867,-5.463133,0.230769,0.4584,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,jackie-oliver,Jackie Oliver,brm,DNF,14,7,1,22,1457.442999,1452.524874,-4.918125,0.192308,0.39723,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,george-eaton,George Eaton,brm,DNF,10,14,1,23,1480.614714,1473.980024,-6.63469,0.153846,0.430292,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,john-surtees,John Surtees,surtees,DNF,6,8,1,24,1540.814342,1531.147707,-9.666635,0.115385,0.518161,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,andrea-de-adamich,Andrea de Adamich,mclaren,DNQ,,,2,25,1462.45323,1453.672704,-8.780526,0.038462,0.404317,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,pete-lovely,Pete Lovely,lotus,DNQ,,,2,26,1482.424942,1472.958373,-9.466569,0.038462,0.432902,24.0,27
+1970,12,1970-10-04,united-states,1970 United States Grand Prix,peter-westbury,Peter Westbury,brm,DNQ,,,2,27,1505.14992,1494.891064,-10.258857,0.038462,0.465914,24.0,27

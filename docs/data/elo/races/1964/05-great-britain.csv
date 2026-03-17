@@ -1,0 +1,26 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,jim-clark,Jim Clark,lotus,1,80,1,0,1,1657.148681,1664.917278,7.768597,1.0,0.676308,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,graham-hill,Graham Hill,brm,2,80,2,0,2,1624.882457,1632.685687,7.80323,0.958333,0.633199,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,john-surtees,John Surtees,ferrari,3,80,5,0,3,1514.951469,1525.549204,10.597735,0.916667,0.475094,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,jack-brabham,Jack Brabham,brabham,4,79,4,0,4,1576.93376,1584.359655,7.425895,0.875,0.565588,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,lorenzo-bandini,Lorenzo Bandini,ferrari,5,78,8,0,5,1521.199141,1529.577324,8.378184,0.833333,0.484242,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,phil-hill,Phil Hill,cooper,6,78,15,0,6,1578.891941,1584.250097,5.358156,0.791667,0.56841,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,bob-anderson,Bob Anderson,brabham,7,78,7,0,7,1503.117971,1510.13051,7.012539,0.75,0.457811,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,richie-ginther,Richie Ginther,brm,8,77,14,0,8,1613.035371,1615.231396,2.196025,0.708333,0.616832,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,mike-spence,Mike Spence,lotus,9,77,13,0,9,1502.248838,1507.291771,5.042933,0.666667,0.456544,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,innes-ireland,Innes Ireland,brp,10,77,10,0,10,1498.954098,1503.112138,4.15804,0.625,0.451748,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,jo-siffert,Jo Siffert,brabham,11,76,16,0,11,1488.15569,1491.689573,3.533883,0.583333,0.436088,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,giancarlo-baghetti,Giancarlo Baghetti,brm,12,76,21,0,12,1493.56827,1495.91406,2.34579,0.541667,0.443925,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,dan-gurney,Dan Gurney,brabham,13,75,3,0,13,1583.872154,1582.058481,-1.813673,0.5,0.57557,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,john-taylor,John Taylor,cooper,14,56,20,0,14,1500.0,1500.121519,0.121519,0.458333,0.45327,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,jo-bonnier,Jo Bonnier,brabham,DNF,46,9,1,15,1556.963785,1554.085187,-2.878598,0.416667,0.536608,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,peter-revson,Peter Revson,lotus,DNF,43,22,1,16,1474.104565,1473.123396,-0.981169,0.375,0.415882,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,ian-raby,Ian Raby,brabham,DNF,37,17,1,17,1479.172307,1476.516847,-2.65546,0.3125,0.423144,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,tony-maggs,Tony Maggs,brm,DNF,37,23,1,18,1532.602502,1528.079516,-4.522986,0.3125,0.500958,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,trevor-taylor,Trevor Taylor,lotus,DNF,22,18,1,19,1470.460871,1466.604542,-3.856329,0.25,0.41068,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,mike-hailwood,Mike Hailwood,lotus,DNF,16,12,1,20,1517.344347,1510.858026,-6.486321,0.208333,0.478597,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,chris-amon,Chris Amon,lotus,DNF,9,11,1,21,1470.978344,1465.104311,-5.874033,0.166667,0.411418,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,bruce-mclaren,Bruce McLaren,cooper,DNF,6,6,1,22,1615.323479,1603.443162,-11.880317,0.125,0.620013,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,frank-gardner,Frank Gardner,brabham,DNF,0,19,1,23,1500.0,1491.121519,-8.878481,0.083333,0.45327,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,maurice-trintignant,Maurice Trintignant,brm,DNQ,,,2,24,1532.991527,1521.954852,-11.036675,0.041667,0.501528,24.0,25
+1964,5,1964-07-11,great-britain,1964 RAC British Grand Prix,richard-attwood,Richard Attwood,brm,DNS,,,2,25,1500.0,1489.121519,-10.878481,0.0,0.45327,24.0,25

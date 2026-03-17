@@ -1,0 +1,35 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,ayrton-senna,Ayrton Senna,mclaren,1,61,1,0,1,1752.776364,1758.485782,5.709418,1.0,0.762108,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,gerhard-berger,Gerhard Berger,mclaren,2,61,5,0,2,1676.713774,1683.74779,7.034017,0.969697,0.676613,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,jj-lehto,JJ Lehto,dallara,3,60,16,0,3,1471.610543,1484.516204,12.905661,0.939394,0.401658,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,pierluigi-martini,Pierluigi Martini,minardi,4,59,9,0,4,1543.987722,1553.78165,9.793928,0.909091,0.501011,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,mika-hakkinen,Mika Häkkinen,lotus,5,58,25,0,5,1512.111608,1522.236504,10.124895,0.878788,0.456917,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,julian-bailey,Julian Bailey,lotus,6,58,26,0,6,1413.713811,1426.244254,12.530443,0.848485,0.326383,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,thierry-boutsen,Thierry Boutsen,ligier,7,58,24,0,7,1685.613723,1688.753804,3.140081,0.818182,0.687345,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,mark-blundell,Mark Blundell,brabham,8,58,23,0,8,1499.963812,1508.307975,8.344163,0.787879,0.440205,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,eric-van-de-poele,Eric van de Poele,modena,9,57,21,0,9,1487.028332,1495.069575,8.041243,0.757576,0.422524,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,erik-comas,Érik Comas,ligier,10,57,19,0,10,1494.032857,1501.117449,7.084592,0.727273,0.432081,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,martin-brundle,Martin Brundle,brabham,11,57,18,0,11,1568.865167,1572.743902,3.878735,0.69697,0.535356,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,mauricio-gugelmin,Maurício Gugelmin,leyton-house,12,55,15,0,12,1527.493923,1532.01775,4.523827,0.666667,0.478174,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,roberto-moreno,Roberto Moreno,benetton,13,54,13,0,13,1430.827912,1437.748117,6.920204,0.636364,0.348022,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,stefano-modena,Stefano Modena,tyrrell,DNF,41,6,1,14,1537.4636,1540.201599,2.737999,0.606061,0.491977,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,andrea-de-cesaris,Andrea de Cesaris,jordan,DNF,37,11,1,15,1500.221808,1503.10293,2.881122,0.560606,0.440559,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,bertrand-gachot,Bertrand Gachot,jordan,DNF,37,12,1,16,1403.957726,1409.868577,5.910851,0.560606,0.314321,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,ivan-capelli,Ivan Capelli,leyton-house,DNF,24,22,1,17,1541.609418,1542.027822,0.418405,0.515152,0.497718,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,eric-bernard,Éric Bernard,lola,DNF,17,17,1,18,1541.432426,1540.765803,-0.666623,0.469697,0.497473,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,riccardo-patrese,Riccardo Patrese,williams,DNF,17,2,1,19,1675.013814,1670.09751,-4.916304,0.469697,0.674543,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,satoru-nakajima,Satoru Nakajima,tyrrell,DNF,15,10,1,20,1545.215923,1543.332687,-1.883237,0.424242,0.502711,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,gianni-morbidelli,Gianni Morbidelli,minardi,DNF,10,8,1,21,1496.096487,1495.113312,-0.983175,0.393939,0.434905,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,aguri-suzuki,Aguri Suzuki,lola,DNF,2,20,1,22,1497.466739,1495.347614,-2.119125,0.348485,0.436782,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,jean-alesi,Jean Alesi,ferrari,DNF,2,7,1,23,1584.053842,1579.069664,-4.984178,0.348485,0.556159,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,nelson-piquet,Nelson Piquet,benetton,DNF,1,14,1,24,1728.705343,1718.2987,-10.406643,0.30303,0.73664,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,nigel-mansell,Nigel Mansell,williams,DNF,0,4,1,25,1656.094027,1647.013271,-9.080757,0.272727,0.651092,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,emanuele-pirro,Emanuele Pirro,dallara,DNPQ,,,1,26,1523.385052,1516.77259,-6.612462,0.19697,0.472489,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,nicola-larini,Nicola Larini,modena,DNPQ,,,1,27,1519.140036,1512.668425,-6.471611,0.19697,0.46662,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,olivier-grouillard,Olivier Grouillard,fondmetal,DNPQ,,,1,28,1456.926422,1452.484427,-4.441995,0.19697,0.382053,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,pedro-chaves,Pedro Chaves,coloni,DNPQ,,,1,29,1487.028332,1481.615029,-5.413302,0.19697,0.422524,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,alex-caffi,Alex Caffi,footwork,DNQ,,,2,30,1532.055043,1522.245514,-9.809528,0.075758,0.484488,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,fabrizio-barbazza,Fabrizio Barbazza,ags,DNQ,,,2,31,1500.0,1491.252062,-8.747938,0.075758,0.440255,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,gabriele-tarquini,Gabriele Tarquini,ags,DNQ,,,2,32,1410.080098,1404.173492,-5.906606,0.075758,0.321866,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,michele-alboreto,Michele Alboreto,footwork,DNQ,,,2,33,1536.325564,1526.374113,-9.951451,0.075758,0.490401,24.0,34
+1991,3,1991-04-28,san-marino,Gran Premio di San Marino 1991,alain-prost,Alain Prost,ferrari,DNS,,3,2,34,1809.682155,1790.097504,-19.584651,0.0,0.816027,24.0,34

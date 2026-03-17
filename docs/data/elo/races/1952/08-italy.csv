@@ -1,0 +1,36 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,alberto-ascari,Alberto Ascari,ferrari,1,80,1,0,1,1595.45943,1604.351939,8.892509,1.0,0.629479,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,jose-froilan-gonzalez,José Froilán González,maserati,2,80,5,0,2,1532.710002,1543.047759,10.337758,0.970588,0.539848,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,luigi-villoresi,Luigi Villoresi,ferrari,3,80,2,0,3,1536.393778,1545.896369,9.502591,0.941176,0.545235,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,nino-farina,Nino Farina,ferrari,4,80,3,0,4,1594.147926,1600.966243,6.818316,0.911765,0.627668,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,felice-bonetto,Felice Bonetto,maserati,5,79,13,0,5,1504.946006,1514.145354,9.199348,0.882353,0.499047,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,andre-simon,André Simon,ferrari,6,79,8,0,6,1495.617454,1504.440515,8.823061,0.852941,0.485314,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,piero-taruffi,Piero Taruffi,ferrari,7,77,6,0,7,1543.158651,1549.600941,6.442291,0.823529,0.555101,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,chico-landi,Chico Landi,maserati,8,76,18,0,8,1494.0092,1501.477283,7.468083,0.794118,0.482948,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,ken-wharton,Ken Wharton,cooper,9,76,15,0,9,1498.205396,1504.819401,6.614005,0.764706,0.489122,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,louis-rosier,Louis Rosier,ferrari,10,75,17,0,10,1512.281328,1517.692059,5.41073,0.735294,0.509847,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,eitel-cantoni,Eitel Cantoni,maserati,11,75,23,0,11,1488.240856,1493.794814,5.553958,0.705882,0.474467,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,dennis-poore,Dennis Poore,connaught,12,74,19,0,12,1509.740789,1513.829516,4.088727,0.676471,0.506107,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,eric-brandon,Eric Brandon,cooper,13,73,20,0,13,1504.100767,1507.682928,3.582161,0.647059,0.497802,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,robert-manzon,Robert Manzon,gordini,14,71,7,0,14,1510.852556,1513.490235,2.637679,0.617647,0.507744,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,alan-brown,Alan Brown,cooper,15,68,21,0,15,1509.046649,1511.042257,1.995608,0.588235,0.505085,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,stirling-moss,Stirling Moss,connaught,DNF,60,9,1,16,1481.827979,1484.078402,2.250424,0.558824,0.465056,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,gino-bianco,Gino Bianco,maserati,DNF,46,24,1,17,1479.362621,1480.99386,1.631239,0.529412,0.461443,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,jean-behra,Jean Behra,gordini,DNF,42,11,1,18,1505.652301,1505.650217,-0.002084,0.5,0.500087,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,mike-hawthorn,Mike Hawthorn,cooper,NC,38,12,1,19,1521.763688,1520.486756,-1.276932,0.470588,0.523794,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,franco-rol,Franco Rol,maserati,DNF,24,16,1,20,1492.844482,1491.883092,-0.96139,0.441176,0.481234,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,maurice-trintignant,Maurice Trintignant,gordini,DNF,5,4,1,21,1471.154716,1470.25037,-0.904346,0.411765,0.449446,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,kenneth-mcalpine,Kenneth McAlpine,connaught,DNF,4,22,1,22,1500.450466,1497.808681,-2.641785,0.382353,0.492427,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,rudi-fischer,Rudi Fischer,ferrari,DNF,3,14,1,23,1519.391892,1515.375092,-4.016799,0.352941,0.520308,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,elie-bayol,Élie Bayol,osca,DNF,0,10,1,24,1500.0,1495.962366,-4.037634,0.323529,0.491764,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,alberto-crespo,Alberto Crespo,maserati,DNQ,,,2,25,1500.0,1491.727072,-8.272928,0.147059,0.491764,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,bill-aston,Bill Aston,aston-butterworth,DNQ,,,2,26,1485.312247,1477.557653,-7.754595,0.147059,0.470167,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,charles-de-tornaco,Charles de Tornaco,ferrari,DNQ,,,2,27,1497.781602,1489.587048,-8.194553,0.147059,0.488499,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,emmanuel-de-graffenried,Emmanuel de Graffenried,maserati,DNQ,,,2,28,1486.468877,1478.673531,-7.795346,0.147059,0.471865,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,hans-stuck,Hans Stuck,ferrari,DNQ,,,2,29,1482.172525,1474.528473,-7.644052,0.147059,0.465561,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,johnny-claes,Johnny Claes,simca-gordini,DNQ,,,2,30,1490.56782,1482.627945,-7.939875,0.147059,0.477887,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,lance-macklin,Lance Macklin,hwm,DNQ,,,2,31,1505.730568,1497.25513,-8.475438,0.147059,0.500202,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,peter-collins,Peter Collins,hwm,DNQ,,,2,32,1475.631768,1468.217562,-7.414206,0.147059,0.455984,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,peter-whitehead,Peter Whitehead,ferrari,DNQ,,,2,33,1483.786522,1476.08566,-7.700862,0.147059,0.467928,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,piero-dusio,Piero Dusio,cisitalia,DNQ,,,2,34,1500.0,1491.727072,-8.272928,0.147059,0.491764,24.0,35
+1952,8,1952-09-07,italy,Gran Premio d'Italia 1952,tony-gaze,Tony Gaze,hwm,DNQ,,,2,35,1490.648887,1482.706152,-7.942735,0.147059,0.478006,24.0,35

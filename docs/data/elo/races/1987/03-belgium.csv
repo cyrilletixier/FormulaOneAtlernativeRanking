@@ -1,0 +1,27 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,alain-prost,Alain Prost,mclaren,1,43,6,0,1,1732.811067,1738.665726,5.854659,1.0,0.756056,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,stefan-johansson,Stefan Johansson,mclaren,2,43,10,0,2,1597.553791,1606.510079,8.956288,0.96,0.586821,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,andrea-de-cesaris,Andrea de Cesaris,brabham,3,42,13,0,3,1472.659541,1484.879836,12.220296,0.92,0.410821,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,eddie-cheever,Eddie Cheever,arrows,4,42,11,0,4,1490.50702,1501.169955,10.662935,0.88,0.435711,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,satoru-nakajima,Satoru Nakajima,lotus,5,42,15,0,5,1515.180469,1524.047205,8.866736,0.84,0.470553,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,rene-arnoux,René Arnoux,ligier,6,41,16,0,6,1643.899663,1647.518023,3.61836,0.8,0.649235,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,piercarlo-ghinzani,Piercarlo Ghinzani,ligier,7,40,17,0,7,1364.016109,1375.75124,11.735131,0.76,0.271036,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,philippe-alliot,Philippe Alliot,lola,8,40,22,0,8,1455.204861,1463.200448,7.995587,0.72,0.386851,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,philippe-streiff,Philippe Streiff,tyrrell,9,39,23,0,9,1540.768098,1544.921932,4.153834,0.68,0.506924,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,pascal-fabre,Pascal Fabre,ags,10,38,25,0,10,1503.449218,1507.914666,4.465448,0.64,0.45394,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,teo-fabi,Teo Fabi,benetton,DNF,34,9,1,11,1474.89323,1479.359217,4.465987,0.6,0.413917,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,martin-brundle,Martin Brundle,zakspeed,DNF,19,18,1,12,1532.046472,1533.617996,1.571524,0.56,0.49452,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,thierry-boutsen,Thierry Boutsen,benetton,DNF,18,7,1,13,1587.437379,1586.170597,-1.266782,0.52,0.572783,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,nigel-mansell,Nigel Mansell,williams,DNF,17,1,1,14,1670.002781,1665.140343,-4.862439,0.48,0.682602,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,ivan-capelli,Ivan Capelli,march,DNF,14,21,1,15,1482.628452,1482.996061,0.367609,0.44,0.424683,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,alex-caffi,Alex Caffi,osella,DNF,11,26,1,16,1502.465901,1500.724688,-1.741213,0.38,0.452551,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,nelson-piquet,Nelson Piquet,williams,DNF,11,2,1,17,1668.984781,1661.752892,-7.231889,0.38,0.681329,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,christian-danner,Christian Danner,zakspeed,DNF,9,20,1,18,1505.648714,1501.879539,-3.769176,0.3,0.457049,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,michele-alboreto,Michele Alboreto,ferrari,DNF,9,5,1,19,1606.115148,1598.948672,-7.166477,0.3,0.598603,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,derek-warwick,Derek Warwick,arrows,DNF,8,12,1,20,1514.390843,1508.884464,-5.506379,0.24,0.469432,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,riccardo-patrese,Riccardo Patrese,brabham,DNF,5,8,1,21,1509.786884,1503.477135,-6.309749,0.2,0.462906,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,gerhard-berger,Gerhard Berger,ferrari,DNF,2,4,1,22,1553.83946,1545.067727,-8.771732,0.16,0.525489,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,alessandro-nannini,Alessandro Nannini,minardi,DNF,1,14,1,23,1433.73324,1428.021009,-5.712231,0.12,0.35801,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,adrian-campos,Adrián Campos,minardi,DNF,0,19,1,24,1487.369974,1477.978464,-9.39151,0.04,0.431313,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,ayrton-senna,Ayrton Senna,lotus,DNF,0,3,1,25,1617.089488,1603.324183,-13.765305,0.04,0.613554,24.0,26
+1987,3,1987-05-17,belgium,1987 Belgian Grand Prix,jonathan-palmer,Jonathan Palmer,tyrrell,DNF,0,24,1,26,1488.797281,1479.357771,-9.43951,0.04,0.433313,24.0,26

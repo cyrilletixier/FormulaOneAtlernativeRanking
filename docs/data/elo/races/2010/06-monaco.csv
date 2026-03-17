@@ -1,0 +1,25 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,mark-webber,Mark Webber,red-bull,1,78,1,0,1,1631.246756,1641.008646,9.76189,1.0,0.593255,24.0,24
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,sebastian-vettel,Sebastian Vettel,red-bull,2,78,3,0,2,1635.811675,1644.38246,8.570785,0.956522,0.599406,24.0,24
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,robert-kubica,Robert Kubica,renault,3,78,2,0,3,1631.60657,1639.269844,7.663274,0.913043,0.59374,24.0,24
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,felipe-massa,Felipe Massa,ferrari,4,78,4,0,4,1703.247684,1707.646059,4.398375,0.869565,0.6863,24.0,24
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,lewis-hamilton,Lewis Hamilton,mclaren,5,78,5,0,5,1675.650255,1679.834268,4.184012,0.826087,0.651753,24.0,24
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,fernando-alonso,Fernando Alonso,ferrari,6,78,PL,0,6,1708.235561,1710.401313,2.165752,0.782609,0.692369,24.0,24
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,nico-rosberg,Nico Rosberg,mercedes,7,78,6,0,7,1617.645648,1621.590098,3.94445,0.73913,0.574778,24.0,24
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,adrian-sutil,Adrian Sutil,force-india,8,78,12,0,8,1424.707723,1433.880825,9.173102,0.695652,0.31344,24.0,24
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,9,78,10,0,9,1465.901414,1472.768032,6.866618,0.652174,0.366065,24.0,24
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,sebastien-buemi,Sébastien Buemi,toro-rosso,10,78,13,0,10,1455.389353,1461.542162,6.152809,0.608696,0.352329,24.0,24
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,jaime-alguersuari,Jaime Alguersuari,toro-rosso,11,78,17,0,11,1481.343599,1485.631145,4.287546,0.565217,0.38657,24.0,24
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,michael-schumacher,Michael Schumacher,mercedes,12,78,7,0,12,1779.345414,1773.333807,-6.011607,0.521739,0.772223,24.0,24
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,vitaly-petrov,Vitaly Petrov,renault,13,73,14,0,13,1497.321116,1499.004061,1.682945,0.478261,0.408138,24.0,24
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,karun-chandhok,Karun Chandhok,hrt,14,70,23,0,14,1482.207811,1483.33713,1.129319,0.434783,0.387728,24.0,24
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,jarno-trulli,Jarno Trulli,lotus-racing,15,70,19,0,15,1540.665321,1538.82679,-1.838531,0.391304,0.46791,24.0,24
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,bruno-senna,Bruno Senna,hrt,DNF,58,22,1,16,1479.054326,1477.67624,-1.378085,0.326087,0.383507,24.0,24
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,heikki-kovalainen,Heikki Kovalainen,lotus-racing,DNF,58,18,1,17,1564.219785,1560.027362,-4.192423,0.326087,0.500771,24.0,24
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,rubens-barrichello,Rubens Barrichello,williams,DNF,30,9,1,18,1633.436371,1625.388239,-8.048132,0.26087,0.596208,24.0,24
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,kamui-kobayashi,Kamui Kobayashi,sauber,DNF,26,16,1,19,1483.964474,1479.819832,-4.144643,0.217391,0.390085,24.0,24
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,lucas-di-grassi,Lucas di Grassi,virgin,DNF,25,21,1,20,1482.276372,1477.142615,-5.133757,0.173913,0.38782,24.0,24
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,timo-glock,Timo Glock,virgin,DNF,22,20,1,21,1537.368598,1529.37933,-7.989268,0.130435,0.463321,24.0,24
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,pedro-de-la-rosa,Pedro de la Rosa,sauber,DNF,21,15,1,22,1477.68297,1470.609696,-7.073274,0.086957,0.381676,24.0,24
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,jenson-button,Jenson Button,mclaren,DNF,2,8,1,23,1669.922929,1655.50097,-14.42196,0.043478,0.644393,24.0,24
+2010,6,2010-05-16,monaco,Formula 1 Grand Prix de Monaco 2010,nico-hulkenberg,Nico Hülkenberg,williams,DNF,0,11,1,24,1495.907043,1486.157847,-9.749196,0.0,0.406216,24.0,24

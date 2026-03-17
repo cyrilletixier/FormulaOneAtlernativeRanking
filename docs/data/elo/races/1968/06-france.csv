@@ -1,0 +1,19 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1968,6,1968-07-07,france,Grand Prix de France 1968,jacky-ickx,Jacky Ickx,ferrari,1,60,3,0,1,1514.851912,1527.58219,12.730278,1.0,0.469572,24.0,18
+1968,6,1968-07-07,france,Grand Prix de France 1968,john-surtees,John Surtees,honda,2,60,7,0,2,1597.061869,1605.436078,8.374209,0.941176,0.592251,24.0,18
+1968,6,1968-07-07,france,Grand Prix de France 1968,jackie-stewart,Jackie Stewart,matra,3,59,2,0,3,1541.420122,1550.368451,8.948329,0.882353,0.509506,24.0,18
+1968,6,1968-07-07,france,Grand Prix de France 1968,vic-elford,Vic Elford,cooper,4,58,17,0,4,1500.0,1509.027944,9.027944,0.823529,0.447365,24.0,18
+1968,6,1968-07-07,france,Grand Prix de France 1968,denny-hulme,Denny Hulme,mclaren,5,58,4,0,5,1602.171312,1606.131823,3.960511,0.764706,0.599685,24.0,18
+1968,6,1968-07-07,france,Grand Prix de France 1968,piers-courage,Piers Courage,brm,6,57,14,0,6,1489.926478,1496.490015,6.563538,0.705882,0.432402,24.0,18
+1968,6,1968-07-07,france,Grand Prix de France 1968,richard-attwood,Richard Attwood,brm,7,57,12,0,7,1513.287385,1517.603369,4.315983,0.647059,0.467226,24.0,18
+1968,6,1968-07-07,france,Grand Prix de France 1968,bruce-mclaren,Bruce McLaren,mclaren,8,56,6,0,8,1517.114207,1519.880684,2.766477,0.588235,0.472965,24.0,18
+1968,6,1968-07-07,france,Grand Prix de France 1968,jean-pierre-beltoise,Jean-Pierre Beltoise,matra,9,56,8,0,9,1535.823845,1536.5036,0.679755,0.529412,0.501089,24.0,18
+1968,6,1968-07-07,france,Grand Prix de France 1968,chris-amon,Chris Amon,ferrari,10,55,5,0,10,1527.647919,1527.211053,-0.436866,0.470588,0.488791,24.0,18
+1968,6,1968-07-07,france,Grand Prix de France 1968,jo-siffert,Jo Siffert,lotus,11,54,11,0,11,1530.00357,1528.069916,-1.933654,0.411765,0.492334,24.0,18
+1968,6,1968-07-07,france,Grand Prix de France 1968,pedro-rodriguez,Pedro Rodríguez,brm,NC,53,10,1,12,1553.73624,1549.534669,-4.201571,0.352941,0.528007,24.0,18
+1968,6,1968-07-07,france,Grand Prix de France 1968,jochen-rindt,Jochen Rindt,brabham,DNF,45,1,1,13,1503.242816,1499.448817,-3.793999,0.294118,0.452201,24.0,18
+1968,6,1968-07-07,france,Grand Prix de France 1968,jack-brabham,Jack Brabham,brabham,DNF,15,13,1,14,1599.419379,1590.76998,-8.649399,0.235294,0.595686,24.0,18
+1968,6,1968-07-07,france,Grand Prix de France 1968,graham-hill,Graham Hill,lotus,DNF,14,9,1,15,1611.146709,1599.972681,-11.174028,0.147059,0.612643,24.0,18
+1968,6,1968-07-07,france,Grand Prix de France 1968,johnny-servoz-gavin,Johnny Servoz-Gavin,cooper,DNF,14,15,1,16,1490.827731,1483.94747,-6.880261,0.147059,0.433736,24.0,18
+1968,6,1968-07-07,france,Grand Prix de France 1968,jo-schlesser,Jo Schlesser,honda,DNF,2,16,1,17,1496.405455,1487.208862,-9.196592,0.058824,0.442015,24.0,18
+1968,6,1968-07-07,france,Grand Prix de France 1968,jackie-oliver,Jackie Oliver,lotus,DNS,,,2,18,1510.1505,1499.049847,-11.100653,0.0,0.462527,24.0,18

@@ -1,0 +1,23 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2014,9,2014-07-06,great-britain,2014 Formula 1 Santander British Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,1,52,6,0,1,1753.32263,1760.285108,6.962478,1.0,0.709897,24.0,22
+2014,9,2014-07-06,great-britain,2014 Formula 1 Santander British Grand Prix,valtteri-bottas,Valtteri Bottas,williams,2,52,14,0,2,1546.608244,1558.773308,12.165064,0.952381,0.445503,24.0,22
+2014,9,2014-07-06,great-britain,2014 Formula 1 Santander British Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,3,52,8,0,3,1570.299749,1580.560517,10.260768,0.904762,0.47723,24.0,22
+2014,9,2014-07-06,great-britain,2014 Formula 1 Santander British Grand Prix,jenson-button,Jenson Button,mclaren,4,52,3,0,4,1707.614834,1712.439494,4.82466,0.857143,0.656115,24.0,22
+2014,9,2014-07-06,great-britain,2014 Formula 1 Santander British Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,5,52,2,0,5,1821.535367,1822.20466,0.669294,0.809524,0.781637,24.0,22
+2014,9,2014-07-06,great-britain,2014 Formula 1 Santander British Grand Prix,fernando-alonso,Fernando Alonso,ferrari,6,52,16,0,6,1829.782537,1829.119133,-0.663404,0.761905,0.789547,24.0,22
+2014,9,2014-07-06,great-britain,2014 Formula 1 Santander British Grand Prix,kevin-magnussen,Kevin Magnussen,mclaren,7,52,5,0,7,1532.085464,1539.000036,6.914571,0.714286,0.426179,24.0,22
+2014,9,2014-07-06,great-britain,2014 Formula 1 Santander British Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,8,52,4,0,8,1627.122735,1629.845989,2.723255,0.666667,0.553198,24.0,22
+2014,9,2014-07-06,great-britain,2014 Formula 1 Santander British Grand Prix,daniil-kvyat,Daniil Kvyat,toro-rosso,9,52,9,0,9,1497.968958,1503.670919,5.701961,0.619048,0.381466,24.0,22
+2014,9,2014-07-06,great-britain,2014 Formula 1 Santander British Grand Prix,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,10,51,10,0,10,1472.577123,1477.913155,5.336032,0.571429,0.349094,24.0,22
+2014,9,2014-07-06,great-britain,2014 Formula 1 Santander British Grand Prix,sergio-perez,Sergio Pérez,force-india,11,51,7,0,11,1582.771945,1583.488048,0.716103,0.52381,0.493972,24.0,22
+2014,9,2014-07-06,great-britain,2014 Formula 1 Santander British Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,12,51,11,0,12,1570.592517,1570.558141,-0.034376,0.47619,0.477623,24.0,22
+2014,9,2014-07-06,great-britain,2014 Formula 1 Santander British Grand Prix,adrian-sutil,Adrian Sutil,sauber,13,51,13,0,13,1503.726363,1504.67785,0.951487,0.428571,0.388926,24.0,22
+2014,9,2014-07-06,great-britain,2014 Formula 1 Santander British Grand Prix,jules-bianchi,Jules Bianchi,marussia,14,51,12,0,14,1431.107473,1433.085405,1.977931,0.380952,0.298539,24.0,22
+2014,9,2014-07-06,great-britain,2014 Formula 1 Santander British Grand Prix,kamui-kobayashi,Kamui Kobayashi,caterham,15,50,22,0,15,1520.596059,1518.732156,-1.863903,0.333333,0.410996,24.0,22
+2014,9,2014-07-06,great-britain,2014 Formula 1 Santander British Grand Prix,max-chilton,Max Chilton,marussia,16,50,17,0,16,1421.94375,1421.893043,-0.050707,0.285714,0.287827,24.0,22
+2014,9,2014-07-06,great-britain,2014 Formula 1 Santander British Grand Prix,pastor-maldonado,Pastor Maldonado,lotus-f1,17,49,20,0,17,1467.949415,1465.424529,-2.524886,0.238095,0.343299,24.0,22
+2014,9,2014-07-06,great-britain,2014 Formula 1 Santander British Grand Prix,nico-rosberg,Nico Rosberg,mercedes,DNF,28,1,1,18,1745.089915,1732.848849,-12.241066,0.190476,0.700521,24.0,22
+2014,9,2014-07-06,great-britain,2014 Formula 1 Santander British Grand Prix,marcus-ericsson,Marcus Ericsson,caterham,DNF,11,21,1,19,1470.489847,1465.603,-4.886847,0.142857,0.346476,24.0,22
+2014,9,2014-07-06,great-britain,2014 Formula 1 Santander British Grand Prix,esteban-gutierrez,Esteban Gutiérrez,sauber,DNF,9,19,1,20,1484.051136,1477.610267,-6.440869,0.095238,0.363608,24.0,22
+2014,9,2014-07-06,great-britain,2014 Formula 1 Santander British Grand Prix,felipe-massa,Felipe Massa,williams,DNF,0,15,1,21,1685.551835,1671.032391,-14.519443,0.02381,0.628786,24.0,22
+2014,9,2014-07-06,great-britain,2014 Formula 1 Santander British Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,0,18,1,22,1735.623289,1719.645186,-15.978103,0.02381,0.689564,24.0,22

@@ -1,0 +1,25 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,michael-schumacher,Michael Schumacher,benetton,1,67,3,0,1,1693.905917,1700.851858,6.94594,1.0,0.710586,24.0,24
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,jean-alesi,Jean Alesi,ferrari,2,67,6,0,2,1603.363482,1612.121897,8.758414,0.956522,0.591588,24.0,24
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,david-coulthard,David Coulthard,williams,3,67,1,0,3,1569.620594,1578.481966,8.861372,0.913043,0.54382,24.0,24
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,rubens-barrichello,Rubens Barrichello,jordan,4,66,11,0,4,1560.035691,1568.183323,8.147633,0.869565,0.530081,24.0,24
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,johnny-herbert,Johnny Herbert,benetton,5,66,7,0,5,1591.558955,1597.584801,6.025846,0.826087,0.57501,24.0,24
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,eddie-irvine,Eddie Irvine,jordan,6,66,5,0,6,1510.037052,1517.824081,7.787029,0.782609,0.458149,24.0,24
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,martin-brundle,Martin Brundle,ligier,7,66,12,0,7,1601.142688,1604.758246,3.615559,0.73913,0.588482,24.0,24
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,mika-hakkinen,Mika Häkkinen,mclaren,8,65,9,0,8,1542.606152,1547.181768,4.575616,0.695652,0.505002,24.0,24
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,pedro-lamy,Pedro Lamy,minardi,9,64,16,0,9,1494.733294,1499.914117,5.180823,0.652174,0.436306,24.0,24
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,mika-salo,Mika Salo,tyrrell,10,64,15,0,10,1524.183349,1527.30889,3.125541,0.608696,0.478465,24.0,24
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,luca-badoer,Luca Badoer,minardi,11,64,18,0,11,1494.850225,1497.940103,3.089878,0.565217,0.436472,24.0,24
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,max-papis,Max Papis,footwork,12,64,17,0,12,1476.041674,1478.725282,2.683608,0.521739,0.409922,24.0,24
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,pedro-diniz,Pedro Diniz,forti,13,62,22,0,13,1472.626555,1474.381317,1.754762,0.478261,0.405146,24.0,24
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,gabriele-tarquini,Gabriele Tarquini,tyrrell,14,61,19,0,14,1410.112194,1412.838668,2.726474,0.434783,0.32118,24.0,24
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,jean-denis-deletraz,Jean-Denis Délétraz,pacific,15,60,24,0,15,1494.379667,1493.31168,-1.067986,0.391304,0.435804,24.0,24
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,damon-hill,Damon Hill,williams,DNF,58,2,1,16,1673.624146,1665.520377,-8.103769,0.347826,0.685483,24.0,24
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,andrea-montermini,Andrea Montermini,pacific,DNF,45,20,1,17,1444.976408,1443.470072,-1.506336,0.304348,0.367112,24.0,24
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,jean-christophe-boullion,Jean-Christophe Boullion,sauber,DNF,44,13,1,18,1524.431465,1519.200612,-5.230854,0.26087,0.478822,24.0,24
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,gerhard-berger,Gerhard Berger,ferrari,DNF,40,4,1,19,1648.629703,1638.170412,-10.459291,0.217391,0.653195,24.0,24
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,roberto-moreno,Roberto Moreno,forti,DNF,22,23,1,20,1438.460386,1434.034174,-4.426212,0.173913,0.358339,24.0,24
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,DNF,17,8,1,21,1571.335292,1561.355207,-9.980085,0.130435,0.546272,24.0,24
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,mark-blundell,Mark Blundell,mclaren,DNF,14,10,1,22,1572.724611,1561.131663,-11.592948,0.065217,0.548257,24.0,24
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,olivier-panis,Olivier Panis,ligier,DNF,14,14,1,23,1565.987591,1554.625972,-11.361619,0.065217,0.538618,24.0,24
+1995,14,1995-10-01,europe,1995 Grand Prix of Europe,taki-inoue,Taki Inoue,footwork,DNF,0,21,1,24,1467.418052,1457.868656,-9.549396,0.0,0.397891,24.0,24

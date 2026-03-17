@@ -1,0 +1,31 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,john-watson,John Watson,mclaren,1,68,5,0,1,1627.526766,1636.731602,9.204836,1.0,0.616465,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,carlos-reutemann,Carlos Reutemann,williams,2,68,9,0,2,1720.889838,1726.465264,5.575426,0.965517,0.733208,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,jacques-laffite,Jacques Laffite,ligier,3,67,14,0,3,1660.780955,1667.279325,6.49837,0.931034,0.660269,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,eddie-cheever,Eddie Cheever,tyrrell,4,67,23,0,4,1484.098052,1495.641769,11.543716,0.896552,0.415564,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,hector-rebaque,Héctor Rebaque,brabham,5,67,13,0,5,1480.56341,1491.396975,10.833564,0.862069,0.41067,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,slim-borgudd,Slim Borgudd,ats-wheels,6,67,21,0,6,1475.086629,1485.273838,10.18721,0.827586,0.403119,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,derek-daly,Derek Daly,march,7,66,17,0,7,1465.98825,1475.646815,9.658565,0.793103,0.390663,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,jean-pierre-jarier,Jean-Pierre Jarier,osella,8,65,20,0,8,1580.518752,1585.486575,4.967823,0.758621,0.551628,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,rene-arnoux,René Arnoux,renault,9,64,1,0,9,1591.598733,1595.366715,3.767983,0.724138,0.567139,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,riccardo-patrese,Riccardo Patrese,arrows,10,64,10,0,10,1569.681018,1573.360016,3.678998,0.689655,0.536364,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,marc-surer,Marc Surer,theodore,11,61,24,0,11,1537.579042,1541.522627,3.943585,0.655172,0.490856,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,mario-andretti,Mario Andretti,alfa-romeo,DNF,59,11,1,12,1584.756668,1586.271459,1.51479,0.62069,0.557573,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,keke-rosberg,Keke Rosberg,fittipaldi,DNF,56,16,1,13,1492.592049,1496.403915,3.811866,0.586207,0.427379,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,alain-prost,Alain Prost,renault,DNF,17,2,1,14,1531.460373,1533.129631,1.669259,0.551724,0.482172,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,patrick-tambay,Patrick Tambay,ligier,DNF,15,15,1,15,1541.144247,1541.655997,0.51175,0.517241,0.495918,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,didier-pironi,Didier Pironi,ferrari,DNF,13,4,1,16,1623.337724,1620.264557,-3.073167,0.482759,0.610807,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,nelson-piquet,Nelson Piquet,brabham,DNF,11,3,1,17,1630.419908,1626.289981,-4.129927,0.448276,0.620356,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,DNF,5,12,1,18,1532.026838,1530.366462,-1.660377,0.413793,0.482975,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,gilles-villeneuve,Gilles Villeneuve,ferrari,DNF,4,8,1,19,1651.404169,1644.952419,-6.45175,0.37931,0.648133,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,alan-jones,Alan Jones,williams,DNF,3,7,1,20,1707.937099,1698.560869,-9.37623,0.327586,0.718262,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,andrea-de-cesaris,Andrea de Cesaris,mclaren,DNF,3,6,1,21,1494.896894,1492.424609,-2.472285,0.327586,0.430598,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,michele-alboreto,Michele Alboreto,tyrrell,DNF,0,19,1,22,1502.01736,1497.650502,-4.366858,0.258621,0.440573,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,siegfried-stohr,Siegfried Stohr,arrows,DNF,0,18,1,23,1475.221392,1471.748981,-3.472411,0.258621,0.403304,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,elio-de-angelis,Elio de Angelis,lotus,DSQ,25,22,2,24,1576.452748,1568.316408,-8.13634,0.206897,0.545911,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,beppe-gabbiani,Beppe Gabbiani,osella,DNQ,,,2,25,1447.520854,1440.811293,-6.709561,0.086207,0.365772,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,brian-henton,Brian Henton,toleman,DNQ,,,2,26,1429.858225,1423.706322,-6.151903,0.086207,0.342536,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,chico-serra,Chico Serra,fittipaldi,DNQ,,,2,27,1481.866439,1474.036063,-7.830376,0.086207,0.412473,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,derek-warwick,Derek Warwick,toleman,DNQ,,,2,28,1464.61927,1457.357051,-7.26222,0.086207,0.388799,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,eliseo-salazar,Eliseo Salazar,ensign,DNQ,,,2,29,1465.822344,1458.520816,-7.301528,0.086207,0.390437,24.0,30
+1981,9,1981-07-18,great-britain,1981 Marlboro British Grand Prix,nigel-mansell,Nigel Mansell,lotus,DNQ,,,2,30,1515.859109,1506.8863,-8.972809,0.086207,0.460074,24.0,30

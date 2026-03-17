@@ -1,0 +1,25 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,fernando-alonso,Fernando Alonso,ferrari,1,49,3,0,1,1689.672006,1697.576125,7.904119,1.0,0.670662,24.0,24
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,felipe-massa,Felipe Massa,ferrari,2,49,2,0,2,1687.723979,1694.643647,6.919668,0.956522,0.668202,24.0,24
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,3,49,4,0,3,1660.250248,1666.978512,6.728263,0.913043,0.632699,24.0,24
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,4,49,1,0,4,1612.184107,1619.431222,7.247115,0.869565,0.567602,24.0,24
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,nico-rosberg,Nico Rosberg,mercedes,5,49,5,0,5,1589.443268,1596.407421,6.964153,0.826087,0.535914,24.0,24
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,michael-schumacher,Michael Schumacher,mercedes,6,49,7,0,6,1801.583459,1801.260502,-0.322957,0.782609,0.796065,24.0,24
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,jenson-button,Jenson Button,mclaren,7,49,8,0,7,1642.369507,1645.495922,3.126415,0.73913,0.608863,24.0,24
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,mark-webber,Mark Webber,red-bull,8,49,6,0,8,1603.245695,1606.616686,3.370991,0.695652,0.555194,24.0,24
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,9,49,12,0,9,1461.15006,1468.199201,7.049141,0.652174,0.35846,24.0,24
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,rubens-barrichello,Rubens Barrichello,williams,10,49,11,0,10,1633.046552,1633.345444,0.298892,0.608696,0.596242,24.0,24
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,robert-kubica,Robert Kubica,renault,11,49,9,0,11,1606.461305,1606.594538,0.133234,0.565217,0.559666,24.0,24
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,adrian-sutil,Adrian Sutil,force-india,12,49,10,0,12,1389.272125,1395.326157,6.054032,0.521739,0.269488,24.0,24
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,jaime-alguersuari,Jaime Alguersuari,toro-rosso,13,49,18,0,13,1458.59853,1461.554101,2.955571,0.478261,0.355112,24.0,24
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,nico-hulkenberg,Nico Hülkenberg,williams,14,48,13,0,14,1500.0,1500.577255,0.577255,0.434783,0.41073,24.0,24
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,heikki-kovalainen,Heikki Kovalainen,lotus-racing,15,47,21,0,15,1589.949205,1586.461563,-3.487642,0.391304,0.536623,24.0,24
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,sebastien-buemi,Sébastien Buemi,toro-rosso,16,46,15,0,16,1468.822675,1468.324195,-0.49848,0.347826,0.368596,24.0,24
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,jarno-trulli,Jarno Trulli,lotus-racing,17,46,20,0,17,1571.415272,1566.465597,-4.949674,0.304348,0.510584,24.0,24
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,pedro-de-la-rosa,Pedro de la Rosa,sauber,DNF,28,14,1,18,1501.139596,1497.505384,-3.634211,0.26087,0.412295,24.0,24
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,bruno-senna,Bruno Senna,hrt,DNF,17,PL,1,19,1500.0,1495.359864,-4.640136,0.217391,0.41073,24.0,24
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,timo-glock,Timo Glock,virgin,DNF,16,19,1,20,1576.0425,1567.806107,-8.236393,0.173913,0.517096,24.0,24
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,vitaly-petrov,Vitaly Petrov,renault,DNF,13,17,1,21,1500.0,1493.272908,-6.727092,0.130435,0.41073,24.0,24
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,kamui-kobayashi,Kamui Kobayashi,sauber,DNF,11,16,1,22,1511.788682,1503.627994,-8.160688,0.086957,0.426985,24.0,24
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,lucas-di-grassi,Lucas di Grassi,virgin,DNF,2,22,1,23,1500.0,1491.185951,-8.814049,0.043478,0.41073,24.0,24
+2010,1,2010-03-14,bahrain,2010 Formula 1 Gulf Air Bahrain Grand Prix,karun-chandhok,Karun Chandhok,hrt,DNF,1,PL,1,24,1500.0,1490.142473,-9.857527,0.0,0.41073,24.0,24

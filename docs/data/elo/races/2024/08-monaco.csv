@@ -1,0 +1,21 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2024,8,2024-05-26,monaco,Formula 1 Grand Prix de Monaco 2024,charles-leclerc,Charles Leclerc,ferrari,1,78,1,0,1,1770.099586,1777.552266,7.452679,1.0,0.689472,24.0,20
+2024,8,2024-05-26,monaco,Formula 1 Grand Prix de Monaco 2024,oscar-piastri,Oscar Piastri,mclaren,2,78,2,0,2,1598.00246,1609.395712,11.393252,0.947368,0.47265,24.0,20
+2024,8,2024-05-26,monaco,Formula 1 Grand Prix de Monaco 2024,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,3,78,3,0,3,1750.670009,1756.137818,5.467809,0.894737,0.666911,24.0,20
+2024,8,2024-05-26,monaco,Formula 1 Grand Prix de Monaco 2024,lando-norris,Lando Norris,mclaren,4,78,4,0,4,1742.891579,1747.317577,4.425998,0.842105,0.657689,24.0,20
+2024,8,2024-05-26,monaco,Formula 1 Grand Prix de Monaco 2024,george-russell,George Russell,mercedes,5,78,5,0,5,1685.277903,1690.149727,4.871824,0.789474,0.586481,24.0,20
+2024,8,2024-05-26,monaco,Formula 1 Grand Prix de Monaco 2024,max-verstappen,Max Verstappen,red-bull,6,78,6,0,6,1950.736752,1947.791656,-2.945096,0.736842,0.859554,24.0,20
+2024,8,2024-05-26,monaco,Formula 1 Grand Prix de Monaco 2024,lewis-hamilton,Lewis Hamilton,mercedes,7,78,7,0,7,1827.384359,1825.767973,-1.616386,0.684211,0.75156,24.0,20
+2024,8,2024-05-26,monaco,Formula 1 Grand Prix de Monaco 2024,yuki-tsunoda,Yuki Tsunoda,rb,8,77,8,0,8,1504.781487,1511.483273,6.701786,0.631579,0.352338,24.0,20
+2024,8,2024-05-26,monaco,Formula 1 Grand Prix de Monaco 2024,alexander-albon,Alexander Albon,williams,9,77,9,0,9,1523.730447,1528.597963,4.867515,0.578947,0.376134,24.0,20
+2024,8,2024-05-26,monaco,Formula 1 Grand Prix de Monaco 2024,pierre-gasly,Pierre Gasly,alpine,10,77,10,0,10,1560.001856,1562.486097,2.484241,0.526316,0.422806,24.0,20
+2024,8,2024-05-26,monaco,Formula 1 Grand Prix de Monaco 2024,fernando-alonso,Fernando Alonso,aston-martin,11,76,14,0,11,1669.877555,1667.644052,-2.233502,0.473684,0.566747,24.0,20
+2024,8,2024-05-26,monaco,Formula 1 Grand Prix de Monaco 2024,daniel-ricciardo,Daniel Ricciardo,rb,12,76,12,0,12,1555.586177,1555.68195,0.095772,0.421053,0.417062,24.0,20
+2024,8,2024-05-26,monaco,Formula 1 Grand Prix de Monaco 2024,valtteri-bottas,Valtteri Bottas,kick-sauber,13,76,17,0,13,1521.970619,1521.839014,-0.131605,0.368421,0.373905,24.0,20
+2024,8,2024-05-26,monaco,Formula 1 Grand Prix de Monaco 2024,lance-stroll,Lance Stroll,aston-martin,14,76,13,0,14,1562.028074,1559.396321,-2.631752,0.315789,0.425446,24.0,20
+2024,8,2024-05-26,monaco,Formula 1 Grand Prix de Monaco 2024,logan-sargeant,Logan Sargeant,williams,15,76,15,0,15,1430.758836,1430.71107,-0.047765,0.263158,0.265148,24.0,20
+2024,8,2024-05-26,monaco,Formula 1 Grand Prix de Monaco 2024,guanyu-zhou,Guanyu Zhou,kick-sauber,16,76,18,0,16,1466.344005,1464.058319,-2.285686,0.210526,0.305763,24.0,20
+2024,8,2024-05-26,monaco,Formula 1 Grand Prix de Monaco 2024,esteban-ocon,Esteban Ocon,alpine,DNF,0,11,1,17,1578.159822,1569.337356,-8.822466,0.078947,0.44655,24.0,20
+2024,8,2024-05-26,monaco,Formula 1 Grand Prix de Monaco 2024,kevin-magnussen,Kevin Magnussen,haas,DNF,0,20,1,18,1437.524334,1432.875182,-4.649152,0.078947,0.272662,24.0,20
+2024,8,2024-05-26,monaco,Formula 1 Grand Prix de Monaco 2024,nico-hulkenberg,Nico Hülkenberg,haas,DNF,0,19,1,19,1517.582771,1510.636818,-6.945953,0.078947,0.368362,24.0,20
+2024,8,2024-05-26,monaco,Formula 1 Grand Prix de Monaco 2024,sergio-perez,Sergio Pérez,red-bull,DNF,0,16,1,20,1800.011061,1784.559548,-15.451513,0.078947,0.72276,24.0,20

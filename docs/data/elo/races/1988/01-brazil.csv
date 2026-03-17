@@ -1,0 +1,32 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,alain-prost,Alain Prost,mclaren,1,60,3,0,1,1725.291572,1731.237386,5.945814,1.0,0.752258,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,gerhard-berger,Gerhard Berger,ferrari,2,60,4,0,2,1568.813009,1578.726697,9.913688,0.966667,0.553596,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,nelson-piquet,Nelson Piquet,lotus,3,60,5,0,3,1717.896073,1722.436136,4.540063,0.933333,0.744164,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,derek-warwick,Derek Warwick,arrows,4,60,11,0,4,1511.637352,1521.893143,10.255791,0.9,0.472675,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,michele-alboreto,Michele Alboreto,ferrari,5,60,6,0,5,1573.895736,1581.238624,7.342888,0.866667,0.560713,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,satoru-nakajima,Satoru Nakajima,lotus,6,59,10,0,6,1518.552358,1526.972802,8.420444,0.833333,0.482481,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,thierry-boutsen,Thierry Boutsen,benetton,7,59,7,0,7,1598.909441,1603.821317,4.911877,0.8,0.595338,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,eddie-cheever,Eddie Cheever,arrows,8,59,15,0,8,1522.341245,1529.032636,6.691392,0.766667,0.487859,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,stefan-johansson,Stefan Johansson,ligier,9,57,21,0,9,1614.37081,1617.179045,2.808236,0.733333,0.616324,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,andrea-de-cesaris,Andrea de Cesaris,rial,DNF,53,14,1,10,1446.41478,1454.049679,7.634899,0.7,0.381879,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,jonathan-palmer,Jonathan Palmer,tyrrell,DNF,47,22,1,11,1546.325014,1549.799744,3.47473,0.666667,0.521886,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,luis-perez-sala,Luis Pérez-Sala,minardi,DNF,46,20,1,12,1500.0,1504.250923,4.250923,0.633333,0.456212,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,philippe-alliot,Philippe Alliot,lola,DNF,40,16,1,13,1475.911807,1480.17389,4.262083,0.6,0.422413,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,gabriele-tarquini,Gabriele Tarquini,coloni,DNF,35,25,1,14,1495.618529,1498.017783,2.399254,0.55,0.450031,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,philippe-streiff,Philippe Streiff,ags,DNF,35,19,1,15,1558.045183,1558.322346,0.277163,0.55,0.538452,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,yannick-dalmas,Yannick Dalmas,lola,DNF,32,17,1,16,1515.917977,1516.428115,0.510138,0.5,0.478744,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,rene-arnoux,René Arnoux,ligier,DNF,23,18,1,17,1582.311821,1579.773193,-2.538627,0.466667,0.572443,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,stefano-modena,Stefano Modena,eurobrun,DNF,20,24,1,18,1496.402345,1495.975085,-0.427261,0.433333,0.451136,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,nigel-mansell,Nigel Mansell,williams,DNF,18,2,1,19,1663.001122,1656.293359,-6.707763,0.4,0.67949,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,alessandro-nannini,Alessandro Nannini,benetton,DNF,7,12,1,20,1418.339142,1418.869322,0.53018,0.366667,0.344576,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,ivan-capelli,Ivan Capelli,march,DNF,6,9,1,21,1493.75385,1490.616141,-3.137709,0.316667,0.447405,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,riccardo-patrese,Riccardo Patrese,williams,DNF,6,8,1,22,1501.336759,1497.942373,-3.394386,0.316667,0.458099,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,adrian-campos,Adrián Campos,minardi,DNF,5,23,1,23,1448.002694,1445.185971,-2.816722,0.266667,0.38403,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,mauricio-gugelmin,Maurício Gugelmin,march,DNF,0,13,1,24,1500.0,1494.250923,-5.749077,0.216667,0.456212,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,oscar-larrauri,Oscar Larrauri,eurobrun,DNF,0,26,1,25,1500.0,1494.250923,-5.749077,0.216667,0.456212,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,alex-caffi,Alex Caffi,dallara,DNPQ,,,1,26,1445.831851,1440.685676,-5.146175,0.166667,0.381091,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,ayrton-senna,Ayrton Senna,mclaren,DSQ,31,1,2,27,1658.332488,1645.365076,-12.967412,0.133333,0.673642,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,bernd-schneider,Bernd Schneider,zakspeed,DNQ,,,2,28,1500.0,1490.250923,-9.749077,0.05,0.456212,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,julian-bailey,Julian Bailey,tyrrell,DNQ,,,2,29,1500.0,1490.250923,-9.749077,0.05,0.456212,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,nicola-larini,Nicola Larini,osella,DNQ,,,2,30,1480.79055,1471.689308,-9.101242,0.05,0.429218,24.0,31
+1988,1,1988-04-03,brazil,Grande Prêmio do Brasil 1988,piercarlo-ghinzani,Piercarlo Ghinzani,zakspeed,DNQ,,,2,31,1414.040342,1407.104386,-6.935955,0.05,0.338998,24.0,31

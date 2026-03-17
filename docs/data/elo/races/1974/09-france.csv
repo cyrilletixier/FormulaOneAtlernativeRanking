@@ -1,0 +1,31 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1974,9,1974-07-07,france,Grand Prix de France 1974,ronnie-peterson,Ronnie Peterson,lotus,1,80,2,0,1,1585.130463,1595.015728,9.885265,1.0,0.588114,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,niki-lauda,Niki Lauda,ferrari,2,80,1,0,2,1512.018561,1523.611378,11.592817,0.965517,0.482483,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,clay-regazzoni,Clay Regazzoni,ferrari,3,80,4,0,3,1597.708268,1605.514295,7.806027,0.931034,0.605783,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,jody-scheckter,Jody Scheckter,tyrrell,4,80,7,0,4,1548.041729,1556.721025,8.679296,0.896552,0.534914,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,jacky-ickx,Jacky Ickx,lotus,5,80,13,0,5,1584.685843,1591.275854,6.590011,0.862069,0.587485,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,denny-hulme,Denny Hulme,mclaren,6,80,11,0,6,1651.202568,1654.800422,3.597854,0.827586,0.677676,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,mike-hailwood,Mike Hailwood,mclaren,7,79,6,0,7,1530.371321,1537.184449,6.813129,0.793103,0.509223,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,patrick-depailler,Patrick Depailler,tyrrell,8,79,9,0,8,1549.794216,1555.102201,5.307986,0.758621,0.537455,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,arturo-merzario,Arturo Merzario,iso-marlboro,9,79,15,0,9,1492.652061,1499.126811,6.47475,0.724138,0.454357,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,jean-pierre-beltoise,Jean-Pierre Beltoise,brm,10,79,17,0,10,1551.407376,1555.00411,3.596735,0.689655,0.539791,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,vittorio-brambilla,Vittorio Brambilla,march,11,79,16,0,11,1506.007777,1510.362245,4.354468,0.655172,0.473736,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,jean-pierre-jarier,Jean-Pierre Jarier,shadow,12,79,12,0,12,1495.899959,1499.77906,3.879101,0.62069,0.45906,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,graham-hill,Graham Hill,lola,13,78,21,0,13,1557.81351,1558.705208,0.891699,0.586207,0.549053,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,francois-migault,François Migault,brm,14,78,22,0,14,1481.980847,1484.687272,2.706425,0.551724,0.438956,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,guy-edwards,Guy Edwards,lola,15,77,20,0,15,1501.878013,1503.066186,1.188173,0.517241,0.467734,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,john-watson,John Watson,brabham,16,76,14,0,16,1516.794468,1516.634126,-0.160342,0.482759,0.48944,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,emerson-fittipaldi,Emerson Fittipaldi,mclaren,DNF,27,5,1,17,1680.915725,1674.521152,-6.394573,0.448276,0.714716,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,carlos-reutemann,Carlos Reutemann,brabham,DNF,24,8,1,18,1546.202996,1543.360096,-2.8429,0.413793,0.532247,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,jochen-mass,Jochen Mass,surtees,DNF,4,18,1,19,1460.835874,1460.128796,-0.707078,0.37931,0.408772,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,henri-pescarolo,Henri Pescarolo,brm,DNF,1,19,1,20,1483.378185,1480.657029,-2.721156,0.327586,0.440968,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,tom-pryce,Tom Pryce,shadow,DNF,1,3,1,21,1490.259181,1487.299752,-2.959429,0.327586,0.450896,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,james-hunt,James Hunt,hesketh,DNF,0,10,1,22,1520.078073,1514.837383,-5.240691,0.275862,0.494224,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,carlos-pace,Carlos Pace,brabham,DNQ,,,2,23,1489.069329,1481.185649,-7.88368,0.12069,0.449176,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,gerard-larrousse,Gérard Larrousse,brabham,DNQ,,,2,24,1494.917512,1486.830778,-8.086734,0.12069,0.457637,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,hans-joachim-stuck,Hans-Joachim Stuck,march,DNQ,,,2,25,1490.963324,1483.013946,-7.949379,0.12069,0.451914,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,jean-pierre-jabouille,Jean-Pierre Jabouille,iso-marlboro,DNQ,,,2,26,1500.0,1491.736377,-8.263623,0.12069,0.465007,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,jose-dolhem,José Dolhem,surtees,DNQ,,,2,27,1500.0,1491.736377,-8.263623,0.12069,0.465007,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,leo-kinnunen,Leo Kinnunen,surtees,DNQ,,,2,28,1484.624023,1476.894279,-7.729744,0.12069,0.442762,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,rikky-von-opel,Rikky von Opel,brabham,DNQ,,,2,29,1458.934789,1452.085303,-6.849486,0.12069,0.406085,24.0,30
+1974,9,1974-07-07,france,Grand Prix de France 1974,vern-schuppan,Vern Schuppan,ensign,DNQ,,,2,30,1472.476829,1465.165532,-7.311297,0.12069,0.425327,24.0,30

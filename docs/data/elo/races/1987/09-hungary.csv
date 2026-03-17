@@ -1,0 +1,27 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,nelson-piquet,Nelson Piquet,williams,1,76,3,0,1,1695.233462,1702.117661,6.8842,1.0,0.713158,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,ayrton-senna,Ayrton Senna,lotus,2,76,6,0,2,1642.398951,1649.903995,7.505044,0.96,0.64729,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,alain-prost,Alain Prost,mclaren,3,76,4,0,3,1739.185557,1742.963651,3.778094,0.92,0.762579,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,thierry-boutsen,Thierry Boutsen,benetton,4,75,7,0,4,1574.215378,1582.025804,7.810426,0.88,0.554566,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,riccardo-patrese,Riccardo Patrese,brabham,5,75,10,0,5,1484.952302,1494.828966,9.876664,0.84,0.428472,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,derek-warwick,Derek Warwick,arrows,6,74,9,0,6,1514.131232,1522.062122,7.93089,0.8,0.469546,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,jonathan-palmer,Jonathan Palmer,tyrrell,7,74,16,0,7,1516.666035,1523.550759,6.884724,0.76,0.473136,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,eddie-cheever,Eddie Cheever,arrows,8,74,11,0,8,1492.438819,1499.183945,6.745126,0.72,0.438953,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,philippe-streiff,Philippe Streiff,tyrrell,9,74,14,0,9,1553.305554,1557.023197,3.717643,0.68,0.525098,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,ivan-capelli,Ivan Capelli,march,10,74,18,0,10,1469.065011,1474.671,5.605989,0.64,0.406417,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,alessandro-nannini,Alessandro Nannini,minardi,11,73,20,0,11,1421.90131,1428.067629,6.166319,0.6,0.34307,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,piercarlo-ghinzani,Piercarlo Ghinzani,ligier,12,73,25,0,12,1387.728007,1393.970677,6.24267,0.56,0.299889,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,pascal-fabre,Pascal Fabre,ags,13,71,26,0,13,1515.545043,1516.70788,1.162837,0.52,0.471548,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,nigel-mansell,Nigel Mansell,williams,14,70,1,0,14,1670.152911,1665.288263,-4.864648,0.48,0.682694,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,alex-caffi,Alex Caffi,osella,DNF,64,21,1,15,1476.947814,1477.492001,0.544187,0.44,0.417326,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,rene-arnoux,René Arnoux,ligier,DNF,57,19,1,16,1610.899897,1605.972912,-4.926985,0.4,0.605291,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,philippe-alliot,Philippe Alliot,lola,DNF,48,15,1,17,1467.946322,1466.869319,-1.077003,0.36,0.404875,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,martin-brundle,Martin Brundle,zakspeed,DNF,45,22,1,18,1533.716784,1529.461001,-4.255783,0.32,0.497324,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,andrea-de-cesaris,Andrea de Cesaris,brabham,DNF,43,13,1,19,1455.840658,1452.76156,-3.079097,0.26,0.388296,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,michele-alboreto,Michele Alboreto,ferrari,DNF,43,5,1,20,1589.822258,1582.230225,-7.592034,0.26,0.576335,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,adrian-campos,Adrián Campos,minardi,DNF,14,24,1,21,1466.846593,1461.005933,-5.84066,0.16,0.403361,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,stefan-johansson,Stefan Johansson,mclaren,DNF,14,8,1,22,1609.765847,1599.115884,-10.649963,0.16,0.603748,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,teo-fabi,Teo Fabi,benetton,DNF,14,12,1,23,1496.756879,1489.916419,-6.84046,0.16,0.445019,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,gerhard-berger,Gerhard Berger,ferrari,DNF,13,2,1,24,1552.13142,1541.488945,-10.642475,0.08,0.523436,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,christian-danner,Christian Danner,zakspeed,DNF,3,23,1,25,1493.257461,1483.655013,-9.602448,0.04,0.440102,24.0,26
+1987,9,1987-08-09,hungary,Magyar Nagydíj 1987,satoru-nakajima,Satoru Nakajima,lotus,DNF,1,17,1,26,1520.428364,1508.945106,-11.483258,0.0,0.478469,24.0,26

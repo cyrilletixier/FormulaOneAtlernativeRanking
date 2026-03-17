@@ -1,0 +1,5 @@
+date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1981-03-15,1981,1,united-states-west,DNQ,,29,1500.0,1491.156826,-8.843174,0.071429,0.439894,24.0
+1981-03-29,1981,2,brazil,DNQ,,31,1491.156826,1483.221078,-7.935748,0.1,0.430656,24.0
+1981-04-12,1981,3,argentina,DNQ,,29,1483.221078,1474.86949,-8.351589,0.071429,0.419411,24.0
+1981-05-03,1981,4,san-marino,DNF,0,30,1474.86949,1469.89499,-4.974499,0.206897,0.414167,24.0

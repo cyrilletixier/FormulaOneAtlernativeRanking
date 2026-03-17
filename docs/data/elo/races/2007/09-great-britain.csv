@@ -1,0 +1,23 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2007,9,2007-07-08,great-britain,2007 Formula 1 Santander British Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,1,59,2,0,1,1693.354132,1701.000963,7.646831,1.0,0.681382,24.0,22
+2007,9,2007-07-08,great-britain,2007 Formula 1 Santander British Grand Prix,fernando-alonso,Fernando Alonso,mclaren,2,59,3,0,2,1790.593289,1794.476335,3.883047,0.952381,0.790587,24.0,22
+2007,9,2007-07-08,great-britain,2007 Formula 1 Santander British Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,3,59,1,0,3,1591.723806,1600.349303,8.625497,0.904762,0.545366,24.0,22
+2007,9,2007-07-08,great-britain,2007 Formula 1 Santander British Grand Prix,robert-kubica,Robert Kubica,bmw-sauber,4,59,5,0,4,1532.682882,1542.166606,9.483723,0.857143,0.461988,24.0,22
+2007,9,2007-07-08,great-britain,2007 Formula 1 Santander British Grand Prix,felipe-massa,Felipe Massa,ferrari,5,59,PL,0,5,1675.358426,1678.980809,3.622384,0.809524,0.658591,24.0,22
+2007,9,2007-07-08,great-britain,2007 Formula 1 Santander British Grand Prix,nick-heidfeld,Nick Heidfeld,bmw-sauber,6,59,9,0,6,1597.336404,1602.344602,5.008198,0.761905,0.55323,24.0,22
+2007,9,2007-07-08,great-britain,2007 Formula 1 Santander British Grand Prix,heikki-kovalainen,Heikki Kovalainen,renault,7,58,7,0,7,1535.485566,1541.445831,5.960265,0.714286,0.465941,24.0,22
+2007,9,2007-07-08,great-britain,2007 Formula 1 Santander British Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,renault,8,58,8,0,8,1670.156623,1670.511579,0.354956,0.666667,0.651877,24.0,22
+2007,9,2007-07-08,great-britain,2007 Formula 1 Santander British Grand Prix,rubens-barrichello,Rubens Barrichello,honda,9,58,14,0,9,1638.747539,1638.958189,0.21065,0.619048,0.610271,24.0,22
+2007,9,2007-07-08,great-britain,2007 Formula 1 Santander British Grand Prix,jenson-button,Jenson Button,honda,10,58,18,0,10,1624.353351,1623.891396,-0.461955,0.571429,0.590677,24.0,22
+2007,9,2007-07-08,great-britain,2007 Formula 1 Santander British Grand Prix,david-coulthard,David Coulthard,red-bull,11,58,12,0,11,1536.385368,1537.743724,1.358356,0.52381,0.467211,24.0,22
+2007,9,2007-07-08,great-britain,2007 Formula 1 Santander British Grand Prix,nico-rosberg,Nico Rosberg,williams,12,58,17,0,12,1497.894245,1499.402509,1.508264,0.47619,0.413346,24.0,22
+2007,9,2007-07-08,great-britain,2007 Formula 1 Santander British Grand Prix,alexander-wurz,Alexander Wurz,williams,13,58,13,0,13,1552.199701,1550.73573,-1.463971,0.428571,0.48957,24.0,22
+2007,9,2007-07-08,great-britain,2007 Formula 1 Santander British Grand Prix,takuma-sato,Takuma Sato,super-aguri,14,57,PL,0,14,1464.631129,1464.939974,0.308845,0.380952,0.368084,24.0,22
+2007,9,2007-07-08,great-britain,2007 Formula 1 Santander British Grand Prix,christijan-albers,Christijan Albers,spyker,15,57,21,0,15,1419.172909,1419.748728,0.575819,0.333333,0.309341,24.0,22
+2007,9,2007-07-08,great-britain,2007 Formula 1 Santander British Grand Prix,vitantonio-liuzzi,Vitantonio Liuzzi,toro-rosso,16,53,16,0,16,1461.649419,1459.767956,-1.881463,0.285714,0.364109,24.0,22
+2007,9,2007-07-08,great-britain,2007 Formula 1 Santander British Grand Prix,jarno-trulli,Jarno Trulli,toyota,DNF,43,10,1,17,1564.607562,1558.150722,-6.456839,0.238095,0.50713,24.0,22
+2007,9,2007-07-08,great-britain,2007 Formula 1 Santander British Grand Prix,anthony-davidson,Anthony Davidson,super-aguri,DNF,35,19,1,18,1470.015111,1465.579351,-4.43576,0.190476,0.3753,24.0,22
+2007,9,2007-07-08,great-britain,2007 Formula 1 Santander British Grand Prix,scott-speed,Scott Speed,toro-rosso,DNF,29,15,1,19,1471.089654,1465.476339,-5.613315,0.142857,0.376745,24.0,22
+2007,9,2007-07-08,great-britain,2007 Formula 1 Santander British Grand Prix,ralf-schumacher,Ralf Schumacher,toyota,DNF,22,6,1,20,1586.532916,1575.904853,-10.628063,0.095238,0.538074,24.0,22
+2007,9,2007-07-08,great-britain,2007 Formula 1 Santander British Grand Prix,adrian-sutil,Adrian Sutil,spyker,DNF,16,20,1,21,1469.928804,1462.067258,-7.861546,0.047619,0.375183,24.0,22
+2007,9,2007-07-08,great-britain,2007 Formula 1 Santander British Grand Prix,mark-webber,Mark Webber,red-bull,DNF,8,11,1,22,1492.566648,1482.822726,-9.743922,0.0,0.405997,24.0,22

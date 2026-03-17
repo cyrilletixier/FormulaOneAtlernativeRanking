@@ -1,0 +1,33 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,gerhard-berger,Gerhard Berger,mclaren,1,53,1,0,1,1667.647127,1676.09292,8.445793,1.0,0.648092,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,ayrton-senna,Ayrton Senna,mclaren,2,53,2,0,2,1790.423007,1794.766235,4.343228,0.967742,0.786774,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,riccardo-patrese,Riccardo Patrese,williams,3,53,5,0,3,1699.854805,1705.793889,5.939084,0.935484,0.688022,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,alain-prost,Alain Prost,ferrari,4,53,4,0,4,1755.373758,1759.024038,3.65028,0.903226,0.751131,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,martin-brundle,Martin Brundle,brabham,5,52,19,0,5,1571.333016,1579.785317,8.452302,0.870968,0.518789,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,stefano-modena,Stefano Modena,tyrrell,6,52,14,0,6,1570.524439,1578.229459,7.70502,0.83871,0.517667,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,nelson-piquet,Nelson Piquet,benetton,7,52,10,0,7,1713.705406,1716.152626,2.44722,0.806452,0.704484,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,mauricio-gugelmin,Maurício Gugelmin,leyton-house,8,52,18,0,8,1555.921961,1562.565265,6.643304,0.774194,0.497389,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,thierry-boutsen,Thierry Boutsen,ligier,9,52,17,0,9,1658.483088,1661.017176,2.534088,0.741935,0.636348,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,alex-caffi,Alex Caffi,footwork,10,51,26,0,10,1469.722301,1477.648099,7.925798,0.709677,0.379436,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,gabriele-tarquini,Gabriele Tarquini,fondmetal,11,50,24,0,11,1370.719789,1380.782617,10.062829,0.677419,0.258135,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,erik-comas,Érik Comas,ligier,DNF,41,20,1,12,1521.440074,1526.134252,4.694178,0.645161,0.449571,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,pierluigi-martini,Pierluigi Martini,minardi,DNF,39,7,1,13,1572.659785,1574.87439,2.214605,0.612903,0.520628,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,michael-schumacher,Michael Schumacher,benetton,DNF,34,9,1,14,1525.419878,1528.433741,3.013864,0.580645,0.455068,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,johnny-herbert,Johnny Herbert,lotus,DNF,31,23,1,15,1524.508219,1526.778129,2.26991,0.548387,0.453808,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,satoru-nakajima,Satoru Nakajima,tyrrell,DNF,30,15,1,16,1550.991742,1551.60594,0.614198,0.516129,0.490537,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,aguri-suzuki,Aguri Suzuki,lola,DNF,26,25,1,17,1467.06757,1469.658252,2.590682,0.483871,0.375926,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,gianni-morbidelli,Gianni Morbidelli,minardi,DNF,15,8,1,18,1530.883713,1530.619357,-0.264357,0.451613,0.462628,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,nigel-mansell,Nigel Mansell,williams,DNF,9,3,1,19,1692.444273,1686.212016,-6.232257,0.419355,0.679032,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,alex-zanardi,Alex Zanardi,jordan,DNF,7,13,1,20,1507.688123,1506.642659,-1.045464,0.387097,0.430658,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,mika-hakkinen,Mika Häkkinen,lotus,DNF,4,21,1,21,1529.702271,1527.154596,-2.547675,0.354839,0.460992,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,andrea-de-cesaris,Andrea de Cesaris,jordan,DNF,1,11,1,22,1563.92537,1558.301814,-5.623556,0.274194,0.508508,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,emanuele-pirro,Emanuele Pirro,dallara,DNF,1,16,1,23,1538.16045,1533.395914,-4.764536,0.274194,0.472716,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,jj-lehto,JJ Lehto,dallara,DNF,1,12,1,24,1516.033389,1512.003192,-4.030196,0.274194,0.442118,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,karl-wendlinger,Karl Wendlinger,leyton-house,DNF,1,22,1,25,1500.0,1496.496981,-3.503019,0.274194,0.420153,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,jean-alesi,Jean Alesi,ferrari,DNF,0,6,1,26,1622.407262,1612.922309,-9.484953,0.193548,0.588755,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,mark-blundell,Mark Blundell,brabham,DNPQ,,,1,27,1524.031036,1516.63935,-7.391686,0.145161,0.453148,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,naoki-hattori,Naoki Hattori,coloni,DNPQ,,,1,28,1500.0,1493.400207,-6.599793,0.145161,0.420153,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,eric-bernard,Éric Bernard,lola,DNQ,,,2,29,1520.442834,1510.847454,-9.59538,0.048387,0.448195,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,eric-van-de-poele,Eric van de Poele,modena,DNQ,,,2,30,1420.220009,1413.795637,-6.424372,0.048387,0.316069,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,michele-alboreto,Michele Alboreto,footwork,DNQ,,,2,31,1485.875998,1477.412943,-8.463056,0.048387,0.401014,24.0,32
+1991,15,1991-10-20,japan,1991 Fuji Television Japanese Grand Prix,nicola-larini,Nicola Larini,modena,DNQ,,,2,32,1458.026557,1450.450473,-7.576084,0.048387,0.364057,24.0,32

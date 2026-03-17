@@ -1,0 +1,4 @@
+date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1967-08-27,1967,8,canada,NC,47,19,1500.0,1495.968043,-4.031957,0.277778,0.445776,24.0
+1968-09-22,1968,10,canada,DNS,,22,1495.968043,1485.840465,-10.127578,0.02381,0.445792,24.0
+1969-09-20,1969,9,canada,DSQ,22,20,1485.840465,1475.582752,-10.257713,0.0,0.427405,24.0

@@ -1,0 +1,21 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2005,14,2005-08-21,turkey,2005 Formula 1 Turkish Grand Prix,kimi-raikkonen,Kimi Räikkönen,mclaren,1,58,1,0,1,1634.303615,1644.431386,10.127771,1.0,0.57801,24.0,20
+2005,14,2005-08-21,turkey,2005 Formula 1 Turkish Grand Prix,fernando-alonso,Fernando Alonso,renault,2,58,3,0,2,1667.474619,1675.252186,7.777566,0.947368,0.623303,24.0,20
+2005,14,2005-08-21,turkey,2005 Formula 1 Turkish Grand Prix,juan-pablo-montoya,Juan Pablo Montoya,mclaren,3,58,4,0,3,1650.059089,1657.139561,7.080472,0.894737,0.599717,24.0,20
+2005,14,2005-08-21,turkey,2005 Formula 1 Turkish Grand Prix,giancarlo-fisichella,Giancarlo Fisichella,renault,4,58,2,0,4,1574.03674,1582.415333,8.378593,0.842105,0.492997,24.0,20
+2005,14,2005-08-21,turkey,2005 Formula 1 Turkish Grand Prix,jenson-button,Jenson Button,bar,5,58,13,0,5,1617.800506,1623.428585,5.628079,0.789474,0.55497,24.0,20
+2005,14,2005-08-21,turkey,2005 Formula 1 Turkish Grand Prix,jarno-trulli,Jarno Trulli,toyota,6,58,5,0,6,1617.950075,1622.309957,4.359882,0.736842,0.55518,24.0,20
+2005,14,2005-08-21,turkey,2005 Formula 1 Turkish Grand Prix,david-coulthard,David Coulthard,red-bull,7,58,12,0,7,1615.802114,1618.971244,3.169131,0.684211,0.552163,24.0,20
+2005,14,2005-08-21,turkey,2005 Formula 1 Turkish Grand Prix,christian-klien,Christian Klien,red-bull,8,58,10,0,8,1476.790508,1483.363402,6.572894,0.631579,0.357708,24.0,20
+2005,14,2005-08-21,turkey,2005 Formula 1 Turkish Grand Prix,takuma-sato,Takuma Sato,bar,9,58,PL,0,9,1522.695139,1526.499455,3.804316,0.578947,0.420434,24.0,20
+2005,14,2005-08-21,turkey,2005 Formula 1 Turkish Grand Prix,rubens-barrichello,Rubens Barrichello,ferrari,10,57,11,0,10,1716.031977,1712.196362,-3.835615,0.526316,0.686133,24.0,20
+2005,14,2005-08-21,turkey,2005 Formula 1 Turkish Grand Prix,jacques-villeneuve,Jacques Villeneuve,sauber,11,57,16,0,11,1517.864831,1519.304365,1.439534,0.473684,0.413704,24.0,20
+2005,14,2005-08-21,turkey,2005 Formula 1 Turkish Grand Prix,ralf-schumacher,Ralf Schumacher,toyota,12,57,9,0,12,1647.694279,1643.48403,-4.210249,0.421053,0.59648,24.0,20
+2005,14,2005-08-21,turkey,2005 Formula 1 Turkish Grand Prix,robert-doornbos,Robert Doornbos,minardi,13,55,17,0,13,1486.604554,1486.546166,-0.058388,0.368421,0.370854,24.0,20
+2005,14,2005-08-21,turkey,2005 Formula 1 Turkish Grand Prix,narain-karthikeyan,Narain Karthikeyan,jordan,14,55,18,0,14,1468.112114,1467.381583,-0.73053,0.315789,0.346228,24.0,20
+2005,14,2005-08-21,turkey,2005 Formula 1 Turkish Grand Prix,tiago-monteiro,Tiago Monteiro,jordan,15,55,14,0,15,1495.42313,1492.551682,-2.871448,0.263158,0.382802,24.0,20
+2005,14,2005-08-21,turkey,2005 Formula 1 Turkish Grand Prix,christijan-albers,Christijan Albers,minardi,DNF,48,15,1,16,1473.302732,1469.881499,-3.421234,0.210526,0.353078,24.0,20
+2005,14,2005-08-21,turkey,2005 Formula 1 Turkish Grand Prix,michael-schumacher,Michael Schumacher,ferrari,DNF,32,19,1,17,1831.834915,1816.125793,-15.709122,0.157895,0.812441,24.0,20
+2005,14,2005-08-21,turkey,2005 Formula 1 Turkish Grand Prix,nick-heidfeld,Nick Heidfeld,williams,DNF,29,6,1,18,1531.541045,1523.679692,-7.861353,0.105263,0.43282,24.0,20
+2005,14,2005-08-21,turkey,2005 Formula 1 Turkish Grand Prix,felipe-massa,Felipe Massa,sauber,DNF,28,8,1,19,1541.27138,1531.818092,-9.453288,0.052632,0.446519,24.0,20
+2005,14,2005-08-21,turkey,2005 Formula 1 Turkish Grand Prix,mark-webber,Mark Webber,williams,DNF,20,7,1,20,1525.575313,1515.388302,-10.187011,0.0,0.424459,24.0,20

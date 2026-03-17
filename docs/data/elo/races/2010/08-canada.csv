@@ -1,0 +1,25 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,lewis-hamilton,Lewis Hamilton,mclaren,1,70,1,0,1,1688.064203,1696.047373,7.98317,1.0,0.667368,24.0,24
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,jenson-button,Jenson Button,mclaren,2,70,4,0,2,1663.443016,1671.136933,7.693916,0.956522,0.635942,24.0,24
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,fernando-alonso,Fernando Alonso,ferrari,3,70,3,0,3,1710.417551,1715.654662,5.23711,0.913043,0.694831,24.0,24
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,sebastian-vettel,Sebastian Vettel,red-bull,4,70,2,0,4,1631.808174,1638.420466,6.612292,0.869565,0.594053,24.0,24
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,mark-webber,Mark Webber,red-bull,5,70,7,0,5,1648.368512,1653.406523,5.038011,0.826087,0.61617,24.0,24
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,nico-rosberg,Nico Rosberg,mercedes,6,70,10,0,6,1627.492038,1632.157155,4.665117,0.782609,0.588229,24.0,24
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,robert-kubica,Robert Kubica,renault,7,70,8,0,7,1643.555121,1646.6595,3.104378,0.73913,0.609781,24.0,24
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,sebastien-buemi,Sébastien Buemi,toro-rosso,8,69,15,0,8,1461.240683,1469.288251,8.047568,0.695652,0.360337,24.0,24
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,9,69,5,0,9,1475.241951,1481.802897,6.560947,0.652174,0.378801,24.0,24
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,adrian-sutil,Adrian Sutil,force-india,10,69,9,0,10,1441.735364,1448.299748,6.564385,0.608696,0.33518,24.0,24
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,michael-schumacher,Michael Schumacher,mercedes,11,69,13,0,11,1775.820067,1770.946502,-4.873565,0.565217,0.768283,24.0,24
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,jaime-alguersuari,Jaime Alguersuari,toro-rosso,12,69,16,0,12,1488.73602,1491.732808,2.996788,0.521739,0.396873,24.0,24
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,nico-hulkenberg,Nico Hülkenberg,williams,13,69,12,0,13,1484.02832,1486.133623,2.105303,0.478261,0.39054,24.0,24
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,rubens-barrichello,Rubens Barrichello,williams,14,69,11,0,14,1621.774968,1618.278229,-3.496739,0.434783,0.58048,24.0,24
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,felipe-massa,Felipe Massa,ferrari,15,69,6,0,15,1708.785736,1701.548327,-7.237409,0.391304,0.692863,24.0,24
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,heikki-kovalainen,Heikki Kovalainen,lotus-racing,16,68,19,0,16,1549.191959,1546.018359,-3.173601,0.347826,0.480059,24.0,24
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,vitaly-petrov,Vitaly Petrov,renault,17,68,14,0,17,1498.544022,1496.004643,-2.539379,0.304348,0.410155,24.0,24
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,karun-chandhok,Karun Chandhok,hrt,18,66,24,0,18,1478.16816,1475.244268,-2.923892,0.26087,0.382698,24.0,24
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,lucas-di-grassi,Lucas di Grassi,virgin,19,65,23,0,19,1473.216017,1469.40676,-3.809257,0.217391,0.37611,24.0,24
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,timo-glock,Timo Glock,virgin,DNF,50,21,1,20,1524.785906,1518.25179,-6.534116,0.173913,0.446168,24.0,24
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,jarno-trulli,Jarno Trulli,lotus-racing,DNF,42,20,1,21,1527.657428,1519.98448,-7.672948,0.130435,0.450141,24.0,24
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,pedro-de-la-rosa,Pedro de la Rosa,sauber,DNF,30,17,1,22,1475.239211,1468.235027,-7.004183,0.086957,0.378797,24.0,24
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,bruno-senna,Bruno Senna,hrt,DNF,13,22,1,23,1471.645604,1463.71239,-7.933214,0.043478,0.374029,24.0,24
+2010,8,2010-06-13,canada,Formula 1 Grand Prix du Canada 2010,kamui-kobayashi,Kamui Kobayashi,sauber,DNF,1,18,1,24,1485.198739,1475.788058,-9.410681,0.0,0.392112,24.0,24

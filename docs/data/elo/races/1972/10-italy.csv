@@ -1,0 +1,28 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,emerson-fittipaldi,Emerson Fittipaldi,lotus,1,55,6,0,1,1609.913055,1619.12279,9.209735,1.0,0.616261,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,mike-hailwood,Mike Hailwood,surtees,2,55,9,0,2,1502.907546,1514.886465,11.978919,0.961538,0.462417,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,denny-hulme,Denny Hulme,mclaren,3,55,5,0,3,1623.693338,1630.603197,6.909859,0.923077,0.635166,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,peter-revson,Peter Revson,mclaren,4,55,8,0,4,1517.364317,1526.992783,9.628466,0.884615,0.483429,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,graham-hill,Graham Hill,brabham,5,55,13,0,5,1559.061999,1566.311976,7.249976,0.846154,0.544071,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,peter-gethin,Peter Gethin,brm,6,55,12,0,6,1472.074631,1481.425515,9.350884,0.807692,0.418072,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,mario-andretti,Mario Andretti,ferrari,7,54,7,0,7,1469.543781,1478.057917,8.514137,0.769231,0.414475,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,jean-pierre-beltoise,Jean-Pierre Beltoise,brm,8,54,16,0,8,1574.854787,1578.789764,3.934977,0.730769,0.566812,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,ronnie-peterson,Ronnie Peterson,march,9,54,24,0,9,1597.139316,1599.39202,2.252704,0.692308,0.598445,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,mike-beuttler,Mike Beuttler,march,10,54,25,0,10,1473.374382,1478.98855,5.614168,0.653846,0.419922,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,howden-ganley,Howden Ganley,brm,11,52,17,0,11,1508.535171,1512.01033,3.475159,0.615385,0.470586,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,reine-wisell,Reine Wisell,brm,12,51,10,0,12,1493.507931,1496.582576,3.074646,0.576923,0.448813,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,niki-lauda,Niki Lauda,march,13,50,20,0,13,1490.372595,1492.632733,2.260138,0.538462,0.444289,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,jacky-ickx,Jacky Ickx,ferrari,DNF,46,1,1,14,1595.338989,1593.037059,-2.30193,0.5,0.595914,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,chris-amon,Chris Amon,matra,DNF,38,2,1,15,1589.567361,1586.537855,-3.029506,0.461538,0.587768,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,andrea-de-adamich,Andrea de Adamich,surtees,DNF,33,21,1,16,1465.190974,1465.545436,0.354463,0.423077,0.408308,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,john-surtees,John Surtees,surtees,DNF,20,19,1,17,1541.887102,1537.735239,-4.151863,0.346154,0.519148,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,tim-schenken,Tim Schenken,surtees,DNF,20,22,1,18,1491.120003,1488.738892,-2.381111,0.346154,0.445367,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,wilson-fittipaldi,Wilson Fittipaldi,brabham,DNF,20,15,1,19,1515.179729,1511.961438,-3.21829,0.346154,0.480249,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,clay-regazzoni,Clay Regazzoni,ferrari,DNF,16,4,1,20,1552.650493,1546.277183,-6.373311,0.269231,0.534785,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,carlos-pace,Carlos Pace,march,DNF,15,18,1,21,1500.015929,1494.556972,-5.458957,0.230769,0.458226,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,carlos-reutemann,Carlos Reutemann,brabham,DNF,14,11,1,22,1493.709539,1487.084889,-6.62465,0.173077,0.449104,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,francois-cevert,François Cevert,tyrrell,DNF,14,14,1,23,1567.695329,1558.492465,-9.202864,0.173077,0.55653,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,nanni-galli,Nanni Galli,tecno,DNF,6,23,1,24,1459.537799,1452.69896,-6.838839,0.115385,0.400336,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,jackie-stewart,Jackie Stewart,tyrrell,DNF,0,3,1,25,1665.09611,1650.392575,-14.703536,0.076923,0.68957,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,derek-bell,Derek Bell,tecno,DNQ,,,2,26,1455.258938,1446.256468,-9.002469,0.019231,0.394334,24.0,27
+1972,10,1972-09-10,italy,Gran Premio d'Italia 1972,henri-pescarolo,Henri Pescarolo,march,DNQ,,,2,27,1499.585135,1489.06423,-10.520905,0.019231,0.457602,24.0,27

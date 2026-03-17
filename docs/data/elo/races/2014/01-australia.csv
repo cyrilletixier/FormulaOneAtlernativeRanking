@@ -1,0 +1,23 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2014,1,2014-03-16,australia,2014 Formula 1 Rolex Australian Grand Prix,nico-rosberg,Nico Rosberg,mercedes,1,57,3,0,1,1686.129565,1694.988411,8.858846,1.0,0.630881,24.0,22
+2014,1,2014-03-16,australia,2014 Formula 1 Rolex Australian Grand Prix,kevin-magnussen,Kevin Magnussen,mclaren,2,57,4,0,2,1500.0,1513.620683,13.620683,0.952381,0.384853,24.0,22
+2014,1,2014-03-16,australia,2014 Formula 1 Rolex Australian Grand Prix,jenson-button,Jenson Button,mclaren,3,57,10,0,3,1712.261922,1718.063267,5.801345,0.904762,0.663039,24.0,22
+2014,1,2014-03-16,australia,2014 Formula 1 Rolex Australian Grand Prix,fernando-alonso,Fernando Alonso,ferrari,4,57,5,0,4,1826.973286,1828.647575,1.674289,0.857143,0.787381,24.0,22
+2014,1,2014-03-16,australia,2014 Formula 1 Rolex Australian Grand Prix,valtteri-bottas,Valtteri Bottas,williams,5,57,15,0,5,1490.877846,1501.35384,10.475993,0.809524,0.373024,24.0,22
+2014,1,2014-03-16,australia,2014 Formula 1 Rolex Australian Grand Prix,nico-hulkenberg,Nico Hülkenberg,force-india,6,57,7,0,6,1585.33349,1591.650309,6.316819,0.761905,0.498704,24.0,22
+2014,1,2014-03-16,australia,2014 Formula 1 Rolex Australian Grand Prix,kimi-raikkonen,Kimi Räikkönen,ferrari,7,57,11,0,7,1756.691513,1756.681221,-0.010292,0.714286,0.714715,24.0,22
+2014,1,2014-03-16,australia,2014 Formula 1 Rolex Australian Grand Prix,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,8,57,6,0,8,1485.851904,1493.054608,7.202704,0.666667,0.366554,24.0,22
+2014,1,2014-03-16,australia,2014 Formula 1 Rolex Australian Grand Prix,daniil-kvyat,Daniil Kvyat,toro-rosso,9,57,8,0,9,1500.0,1505.620683,5.620683,0.619048,0.384853,24.0,22
+2014,1,2014-03-16,australia,2014 Formula 1 Rolex Australian Grand Prix,sergio-perez,Sergio Pérez,force-india,10,57,16,0,10,1579.637142,1581.566639,1.929497,0.571429,0.491033,24.0,22
+2014,1,2014-03-16,australia,2014 Formula 1 Rolex Australian Grand Prix,adrian-sutil,Adrian Sutil,sauber,11,56,13,0,11,1534.062455,1536.318504,2.256049,0.52381,0.429807,24.0,22
+2014,1,2014-03-16,australia,2014 Formula 1 Rolex Australian Grand Prix,esteban-gutierrez,Esteban Gutiérrez,sauber,12,56,20,0,12,1501.837099,1503.971741,2.134641,0.47619,0.387247,24.0,22
+2014,1,2014-03-16,australia,2014 Formula 1 Rolex Australian Grand Prix,max-chilton,Max Chilton,marussia,13,55,PL,0,13,1428.117047,1431.317107,3.20006,0.428571,0.295236,24.0,22
+2014,1,2014-03-16,australia,2014 Formula 1 Rolex Australian Grand Prix,jules-bianchi,Jules Bianchi,marussia,NC,49,PL,1,14,1437.0695,1438.871227,1.801728,0.380952,0.30588,24.0,22
+2014,1,2014-03-16,australia,2014 Formula 1 Rolex Australian Grand Prix,romain-grosjean,Romain Grosjean,lotus-f1,DNF,43,PL,1,15,1581.472728,1577.628602,-3.844126,0.333333,0.493505,24.0,22
+2014,1,2014-03-16,australia,2014 Formula 1 Rolex Australian Grand Prix,pastor-maldonado,Pastor Maldonado,lotus-f1,DNF,29,21,1,16,1487.035608,1485.058959,-1.976649,0.285714,0.368075,24.0,22
+2014,1,2014-03-16,australia,2014 Formula 1 Rolex Australian Grand Prix,marcus-ericsson,Marcus Ericsson,caterham,DNF,27,19,1,17,1500.0,1496.477826,-3.522174,0.238095,0.384853,24.0,22
+2014,1,2014-03-16,australia,2014 Formula 1 Rolex Australian Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,DNF,3,12,1,18,1867.287532,1852.093581,-15.193951,0.190476,0.823557,24.0,22
+2014,1,2014-03-16,australia,2014 Formula 1 Rolex Australian Grand Prix,lewis-hamilton,Lewis Hamilton,mercedes,DNF,2,1,1,19,1736.382319,1723.212546,-13.169773,0.142857,0.691598,24.0,22
+2014,1,2014-03-16,australia,2014 Formula 1 Rolex Australian Grand Prix,felipe-massa,Felipe Massa,williams,DNF,0,9,1,20,1703.811253,1689.859043,-13.95221,0.071429,0.652771,24.0,22
+2014,1,2014-03-16,australia,2014 Formula 1 Rolex Australian Grand Prix,kamui-kobayashi,Kamui Kobayashi,caterham,DNF,0,14,1,21,1557.054441,1547.713801,-9.34064,0.071429,0.460622,24.0,22
+2014,1,2014-03-16,australia,2014 Formula 1 Rolex Australian Grand Prix,daniel-ricciardo,Daniel Ricciardo,red-bull,DSQ,57,2,2,22,1520.524532,1510.641011,-9.883521,0.0,0.411813,24.0,22

@@ -1,0 +1,25 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,sebastian-vettel,Sebastian Vettel,red-bull,1,44,1,0,1,1761.544586,1767.642881,6.098294,1.0,0.745904,24.0,24
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,mark-webber,Mark Webber,red-bull,2,44,3,0,2,1735.67403,1741.410782,5.736752,0.956522,0.71749,24.0,24
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,jenson-button,Jenson Button,mclaren,3,44,13,0,3,1713.930348,1719.22531,5.294962,0.913043,0.69242,24.0,24
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,fernando-alonso,Fernando Alonso,ferrari,4,44,8,0,4,1764.138643,1767.040259,2.901616,0.869565,0.748665,24.0,24
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,michael-schumacher,Michael Schumacher,mercedes,5,44,24,0,5,1684.645642,1688.701472,4.05583,0.826087,0.657094,24.0,24
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,nico-rosberg,Nico Rosberg,mercedes,6,44,5,0,6,1652.501147,1656.487023,3.985876,0.782609,0.616531,24.0,24
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,adrian-sutil,Adrian Sutil,force-india,7,44,15,0,7,1514.388447,1521.774205,7.385758,0.73913,0.431391,24.0,24
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,felipe-massa,Felipe Massa,ferrari,8,44,4,0,8,1693.580889,1694.243327,0.662438,0.695652,0.668051,24.0,24
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,vitaly-petrov,Vitaly Petrov,renault,9,44,10,0,9,1547.869476,1552.081598,4.212123,0.652174,0.476669,24.0,24
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,pastor-maldonado,Pastor Maldonado,williams,10,44,21,0,10,1472.943255,1478.515565,5.57231,0.608696,0.376516,24.0,24
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,paul-di-resta,Paul di Resta,force-india,11,44,17,0,11,1514.815444,1518.01352,3.198076,0.565217,0.431964,24.0,24
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,kamui-kobayashi,Kamui Kobayashi,sauber,12,44,12,0,12,1538.03551,1539.437486,1.401975,0.521739,0.463323,24.0,24
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,bruno-senna,Bruno Senna,renault,13,44,7,0,13,1432.472688,1436.146383,3.673695,0.478261,0.32519,24.0,24
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,jarno-trulli,Jarno Trulli,lotus-racing,14,43,18,0,14,1440.498684,1442.88999,2.391306,0.434783,0.335145,24.0,24
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,heikki-kovalainen,Heikki Kovalainen,lotus-racing,15,43,16,0,15,1464.74544,1465.354988,0.609548,0.391304,0.365907,24.0,24
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,rubens-barrichello,Rubens Barrichello,williams,16,43,14,0,16,1584.883134,1580.58527,-4.297864,0.347826,0.526904,24.0,24
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,jerome-dambrosio,Jérôme d'Ambrosio,virgin,17,43,20,0,17,1466.758024,1465.21832,-1.539705,0.304348,0.368502,24.0,24
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,timo-glock,Timo Glock,virgin,18,43,19,0,18,1446.965388,1444.988217,-1.977171,0.26087,0.343252,24.0,24
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,vitantonio-liuzzi,Vitantonio Liuzzi,hrt,19,43,22,0,19,1433.064958,1430.460254,-2.604704,0.217391,0.325921,24.0,24
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,sergio-perez,Sergio Pérez,sauber,DNF,27,9,1,20,1498.20794,1492.547678,-5.660262,0.173913,0.409757,24.0,24
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,daniel-ricciardo,Daniel Ricciardo,hrt,DNF,13,23,1,21,1488.239675,1481.852838,-6.386837,0.130435,0.396553,24.0,24
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,lewis-hamilton,Lewis Hamilton,mclaren,DNF,12,2,1,22,1734.068811,1718.979552,-15.08926,0.086957,0.715676,24.0,24
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,sebastien-buemi,Sébastien Buemi,toro-rosso,DNF,6,11,1,23,1512.743504,1503.486626,-9.256878,0.043478,0.429182,24.0,24
+2011,12,2011-08-28,belgium,2011 Formula 1 Shell Belgian Grand Prix,jaime-alguersuari,Jaime Alguersuari,toro-rosso,DNF,0,6,1,24,1514.838295,1504.470417,-10.367879,0.0,0.431995,24.0,24

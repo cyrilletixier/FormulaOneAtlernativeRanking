@@ -1,0 +1,35 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,nigel-mansell,Nigel Mansell,williams,1,53,2,0,1,1691.034603,1698.49023,7.455627,1.0,0.689349,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,ayrton-senna,Ayrton Senna,mclaren,2,53,1,0,2,1779.603519,1784.026853,4.423334,0.969697,0.785391,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,alain-prost,Alain Prost,ferrari,3,53,5,0,3,1753.968551,1758.280729,4.312178,0.939394,0.75972,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,gerhard-berger,Gerhard Berger,mclaren,4,53,3,0,4,1674.81264,1680.558936,5.746296,0.909091,0.669662,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,michael-schumacher,Michael Schumacher,benetton,5,53,7,0,5,1495.429383,1506.231488,10.802105,0.878788,0.4287,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,nelson-piquet,Nelson Piquet,benetton,6,53,8,0,6,1706.869631,1710.241588,3.371957,0.848485,0.707987,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,andrea-de-cesaris,Andrea de Cesaris,jordan,7,53,14,0,7,1554.364207,1561.761869,7.397662,0.818182,0.509946,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,ivan-capelli,Ivan Capelli,leyton-house,8,53,12,0,8,1537.117199,1544.360331,7.243132,0.787879,0.486082,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,gianni-morbidelli,Gianni Morbidelli,minardi,9,52,17,0,9,1513.447544,1520.747902,7.300358,0.757576,0.453394,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,emanuele-pirro,Emanuele Pirro,dallara,10,52,16,0,10,1533.194333,1539.113185,5.918852,0.727273,0.480654,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,erik-comas,Érik Comas,ligier,11,52,22,0,11,1510.209696,1516.162394,5.952698,0.69697,0.448941,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,mark-blundell,Mark Blundell,brabham,12,52,11,0,12,1523.110776,1527.909576,4.7988,0.666667,0.466717,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,martin-brundle,Martin Brundle,brabham,13,52,19,0,13,1560.227766,1563.067339,2.839573,0.636364,0.518048,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,mika-hakkinen,Mika Häkkinen,lotus,14,49,25,0,14,1527.258832,1530.465565,3.206733,0.606061,0.472447,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,mauricio-gugelmin,Maurício Gugelmin,leyton-house,15,49,18,0,15,1538.299541,1540.412495,2.112954,0.575758,0.487718,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,nicola-larini,Nicola Larini,modena,16,48,23,0,16,1470.992406,1474.586957,3.594552,0.545455,0.395682,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,olivier-grouillard,Olivier Grouillard,fondmetal,DNF,46,26,1,17,1439.426161,1443.288598,3.862438,0.515152,0.354217,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,jj-lehto,JJ Lehto,dallara,DNF,35,20,1,18,1509.704945,1510.583383,0.878438,0.484848,0.448247,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,stefano-modena,Stefano Modena,tyrrell,DNF,32,13,1,19,1573.491321,1571.528588,-1.962733,0.454545,0.536326,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,jean-alesi,Jean Alesi,ferrari,DNF,29,6,1,20,1609.962894,1606.082464,-3.88043,0.424242,0.585927,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,riccardo-patrese,Riccardo Patrese,williams,DNF,27,4,1,21,1693.381039,1686.224039,-7.157,0.393939,0.692148,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,satoru-nakajima,Satoru Nakajima,tyrrell,DNF,24,15,1,22,1551.077613,1547.675268,-3.402345,0.363636,0.505401,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,eric-bernard,Éric Bernard,lola,DNF,21,24,1,23,1540.252331,1536.48224,-3.770091,0.333333,0.49042,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,pierluigi-martini,Pierluigi Martini,minardi,DNF,8,10,1,24,1566.235074,1560.875723,-5.359351,0.30303,0.526337,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,roberto-moreno,Roberto Moreno,jordan,DNF,2,9,1,25,1497.148632,1493.348985,-3.799647,0.272727,0.431046,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,thierry-boutsen,Thierry Boutsen,ligier,DNF,1,21,1,26,1681.921306,1671.45884,-10.462466,0.242424,0.67836,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,alex-caffi,Alex Caffi,footwork,DNPQ,,,1,27,1486.508956,1480.511207,-5.997749,0.166667,0.416573,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,fabrizio-barbazza,Fabrizio Barbazza,ags,DNPQ,,,1,28,1434.627457,1430.274038,-4.353419,0.166667,0.348059,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,gabriele-tarquini,Gabriele Tarquini,ags,DNPQ,,,1,29,1368.804068,1366.358204,-2.445864,0.166667,0.268578,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,pedro-chaves,Pedro Chaves,coloni,DNPQ,,,1,30,1439.885278,1435.369887,-4.515391,0.166667,0.354808,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,aguri-suzuki,Aguri Suzuki,lola,DNQ,,,2,31,1482.880969,1474.091956,-8.789014,0.045455,0.411663,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,eric-van-de-poele,Eric van de Poele,modena,DNQ,,,2,32,1441.790393,1434.306925,-7.483469,0.045455,0.357266,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,michael-bartels,Michael Bartels,lotus,DNQ,,,2,33,1481.928617,1473.170477,-8.758141,0.045455,0.410377,24.0,34
+1991,12,1991-09-08,italy,Coca Cola Gran Premio d'Italia 1991,michele-alboreto,Michele Alboreto,footwork,DNQ,,,2,34,1491.840458,1482.75988,-9.080578,0.045455,0.423812,24.0,34

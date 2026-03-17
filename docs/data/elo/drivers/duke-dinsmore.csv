@@ -1,2 +1,5 @@
 date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
 1950-05-30,1950,3,indianapolis,33,10,34,1500.0,1488.0,-12.0,0.0,0.5,24.0
+1951-05-30,1951,2,indianapolis,24,73,34,1488.0,1482.99729,-5.00271,0.272727,0.481174,24.0
+1953-05-30,1953,2,indianapolis,16,,37,1482.99729,1480.966859,-2.030432,0.388889,0.47349,24.0
+1956-05-30,1956,3,indianapolis,17,191,34,1480.966859,1481.984503,1.017645,0.515152,0.47275,24.0

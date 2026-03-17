@@ -1,0 +1,23 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2016,5,2016-05-15,spain,Formula 1 Gran Premio de España Pirelli 2016,max-verstappen,Max Verstappen,red-bull,1,66,4,0,1,1552.27843,1565.943945,13.665515,1.0,0.430604,24.0,22
+2016,5,2016-05-15,spain,Formula 1 Gran Premio de España Pirelli 2016,kimi-raikkonen,Kimi Räikkönen,ferrari,2,66,5,0,2,1712.617772,1720.001575,7.383804,0.952381,0.644722,24.0,22
+2016,5,2016-05-15,spain,Formula 1 Gran Premio de España Pirelli 2016,sebastian-vettel,Sebastian Vettel,ferrari,3,66,6,0,3,1815.524332,1818.938967,3.414635,0.904762,0.762485,24.0,22
+2016,5,2016-05-15,spain,Formula 1 Gran Premio de España Pirelli 2016,daniel-ricciardo,Daniel Ricciardo,red-bull,4,66,3,0,4,1666.92376,1673.435231,6.511471,0.857143,0.585832,24.0,22
+2016,5,2016-05-15,spain,Formula 1 Gran Premio de España Pirelli 2016,valtteri-bottas,Valtteri Bottas,williams,5,66,7,0,5,1669.331544,1674.623922,5.292379,0.809524,0.589008,24.0,22
+2016,5,2016-05-15,spain,Formula 1 Gran Premio de España Pirelli 2016,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,6,66,8,0,6,1518.79979,1527.824043,9.024253,0.761905,0.385894,24.0,22
+2016,5,2016-05-15,spain,Formula 1 Gran Premio de España Pirelli 2016,sergio-perez,Sergio Pérez,force-india,7,66,9,0,7,1618.63075,1623.27074,4.639991,0.714286,0.520953,24.0,22
+2016,5,2016-05-15,spain,Formula 1 Gran Premio de España Pirelli 2016,felipe-massa,Felipe Massa,williams,8,66,18,0,8,1688.249067,1689.52019,1.271123,0.666667,0.613703,24.0,22
+2016,5,2016-05-15,spain,Formula 1 Gran Premio de España Pirelli 2016,jenson-button,Jenson Button,mclaren,9,65,12,0,9,1594.055466,1597.214001,3.158535,0.619048,0.487442,24.0,22
+2016,5,2016-05-15,spain,Formula 1 Gran Premio de España Pirelli 2016,daniil-kvyat,Daniil Kvyat,toro-rosso,10,65,13,0,10,1582.173325,1584.578276,2.404951,0.571429,0.471222,24.0,22
+2016,5,2016-05-15,spain,Formula 1 Gran Premio de España Pirelli 2016,esteban-gutierrez,Esteban Gutiérrez,haas,11,65,16,0,11,1451.243258,1456.601095,5.357837,0.52381,0.300566,24.0,22
+2016,5,2016-05-15,spain,Formula 1 Gran Premio de España Pirelli 2016,marcus-ericsson,Marcus Ericsson,sauber,12,65,19,0,12,1470.646488,1474.293805,3.647317,0.47619,0.324219,24.0,22
+2016,5,2016-05-15,spain,Formula 1 Gran Premio de España Pirelli 2016,jolyon-palmer,Jolyon Palmer,renault,13,65,17,0,13,1489.003652,1490.954713,1.951061,0.428571,0.347277,24.0,22
+2016,5,2016-05-15,spain,Formula 1 Gran Premio de España Pirelli 2016,felipe-nasr,Felipe Nasr,sauber,14,65,20,0,14,1506.06982,1506.35106,0.28124,0.380952,0.369234,24.0,22
+2016,5,2016-05-15,spain,Formula 1 Gran Premio de España Pirelli 2016,kevin-magnussen,Kevin Magnussen,renault,15,65,15,0,15,1560.944034,1558.328062,-2.615973,0.333333,0.442332,24.0,22
+2016,5,2016-05-15,spain,Formula 1 Gran Premio de España Pirelli 2016,pascal-wehrlein,Pascal Wehrlein,manor,16,65,21,0,16,1491.645863,1490.087509,-1.558354,0.285714,0.350646,24.0,22
+2016,5,2016-05-15,spain,Formula 1 Gran Premio de España Pirelli 2016,rio-haryanto,Rio Haryanto,manor,17,65,22,0,17,1477.478898,1475.207709,-2.27119,0.238095,0.332728,24.0,22
+2016,5,2016-05-15,spain,Formula 1 Gran Premio de España Pirelli 2016,romain-grosjean,Romain Grosjean,haas,DNF,56,14,1,18,1561.908894,1555.83294,-6.075954,0.190476,0.443641,24.0,22
+2016,5,2016-05-15,spain,Formula 1 Gran Premio de España Pirelli 2016,fernando-alonso,Fernando Alonso,mclaren,DNF,45,10,1,19,1628.871252,1619.4633,-9.407952,0.142857,0.534855,24.0,22
+2016,5,2016-05-15,spain,Formula 1 Gran Premio de España Pirelli 2016,nico-hulkenberg,Nico Hülkenberg,force-india,DNF,20,11,1,20,1579.324108,1570.393757,-8.930351,0.095238,0.467336,24.0,22
+2016,5,2016-05-15,spain,Formula 1 Gran Premio de España Pirelli 2016,lewis-hamilton,Lewis Hamilton,mercedes,DNF,0,1,1,21,1870.142376,1851.165095,-18.977282,0.02381,0.81453,24.0,22
+2016,5,2016-05-15,spain,Formula 1 Gran Premio de España Pirelli 2016,nico-rosberg,Nico Rosberg,mercedes,DNF,0,2,1,22,1833.808964,1815.641908,-18.167057,0.02381,0.78077,24.0,22

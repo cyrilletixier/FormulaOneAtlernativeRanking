@@ -1,0 +1,4 @@
+date,year,round,grandPrixId,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
+1961-05-14,1961,1,monaco,DNF,42,21,1500.0,1497.346508,-2.653492,0.35,0.460562,24.0
+1961-07-02,1961,4,france,11,48,28,1497.346508,1501.155086,3.808578,0.62963,0.470939,24.0
+1961-08-06,1961,6,germany,DNS,,27,1501.155086,1489.846359,-11.308726,0.0,0.471197,24.0

@@ -1,0 +1,29 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,nelson-piquet,Nelson Piquet,williams,1,50,1,0,1,1707.844619,1714.307286,6.462666,1.0,0.730722,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,ayrton-senna,Ayrton Senna,lotus,2,50,4,0,2,1654.291248,1661.415982,7.124734,0.962963,0.666099,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,nigel-mansell,Nigel Mansell,williams,3,50,2,0,3,1673.045714,1678.719249,5.673535,0.925926,0.689529,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,gerhard-berger,Gerhard Berger,ferrari,4,50,3,0,4,1533.124131,1542.442568,9.318437,0.888889,0.500621,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,thierry-boutsen,Thierry Boutsen,benetton,5,50,6,0,5,1589.569459,1596.095629,6.52617,0.851852,0.579928,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,stefan-johansson,Stefan Johansson,mclaren,6,50,11,0,6,1603.211141,1608.398931,5.18779,0.814815,0.598657,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,teo-fabi,Teo Fabi,benetton,7,49,7,0,7,1501.542989,1509.268122,7.725132,0.777778,0.455897,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,piercarlo-ghinzani,Piercarlo Ghinzani,ligier,8,48,19,0,8,1403.86797,1413.8768,10.008829,0.740741,0.323706,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,christian-danner,Christian Danner,zakspeed,9,48,16,0,9,1489.731846,1496.078044,6.346199,0.703704,0.439279,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,rene-arnoux,René Arnoux,ligier,10,48,15,0,10,1606.962539,1608.472238,1.509699,0.666667,0.603763,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,satoru-nakajima,Satoru Nakajima,lotus,11,47,14,0,11,1510.328273,1514.199937,3.871664,0.62963,0.46831,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,philippe-streiff,Philippe Streiff,tyrrell,12,47,24,0,12,1554.850177,1556.319377,1.4692,0.592593,0.531376,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,ivan-capelli,Ivan Capelli,march,13,47,25,0,13,1479.127903,1482.274394,3.146491,0.555556,0.424452,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,jonathan-palmer,Jonathan Palmer,tyrrell,14,47,22,0,14,1523.477141,1524.235053,0.757912,0.518519,0.486939,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,alain-prost,Alain Prost,mclaren,15,46,5,0,15,1743.763518,1736.843287,-6.920231,0.481481,0.769824,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,alessandro-nannini,Alessandro Nannini,minardi,16,45,18,0,16,1421.558656,1423.909793,2.351137,0.444444,0.34648,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,martin-brundle,Martin Brundle,zakspeed,DNF,43,17,1,17,1517.666018,1515.954973,-1.711044,0.407407,0.478701,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,philippe-alliot,Philippe Alliot,lola,DNF,37,23,1,18,1470.625023,1469.610491,-1.014532,0.37037,0.412643,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,adrian-campos,Adrián Campos,minardi,DNF,34,20,1,19,1454.394916,1453.026664,-1.368252,0.333333,0.390344,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,eddie-cheever,Eddie Cheever,arrows,DNF,27,13,1,20,1493.217877,1489.224375,-3.993502,0.277778,0.444174,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,franco-forini,Franco Forini,osella,DNF,27,26,1,21,1500.0,1495.777359,-4.222641,0.277778,0.453721,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,alex-caffi,Alex Caffi,osella,DNF,16,21,1,22,1468.414904,1463.918166,-4.496737,0.222222,0.409586,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,michele-alboreto,Michele Alboreto,ferrari,DNF,13,8,1,23,1576.327036,1567.294616,-9.03242,0.185185,0.561536,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,derek-warwick,Derek Warwick,arrows,DNF,9,12,1,24,1516.759203,1508.856775,-7.902428,0.148148,0.477416,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,andrea-de-cesaris,Andrea de Cesaris,brabham,DNF,7,10,1,25,1449.780349,1443.229321,-6.551028,0.111111,0.384071,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,riccardo-patrese,Riccardo Patrese,brabham,DNF,5,9,1,26,1492.850006,1483.980022,-8.869983,0.074074,0.443657,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,nicola-larini,Nicola Larini,coloni,DNQ,,,2,27,1500.0,1489.555137,-10.444863,0.018519,0.453721,24.0,28
+1987,11,1987-09-06,italy,Gran Premio d'Italia 1987,pascal-fabre,Pascal Fabre,ags,DNQ,,,2,28,1514.947213,1503.99528,-10.951934,0.018519,0.474849,24.0,28

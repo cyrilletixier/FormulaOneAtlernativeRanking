@@ -1,0 +1,32 @@
+year,round,date,grandPrixId,officialName,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,juan-manuel-fangio,Juan Manuel Fangio,maserati,1,80,2,0,1,1586.846214,1596.163167,9.316953,1.0,0.611794,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,nino-farina,Nino Farina,ferrari,2,80,3,0,2,1621.67968,1629.060042,7.380361,0.966667,0.659152,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,luigi-villoresi,Luigi Villoresi,ferrari,3,79,5,0,3,1575.687951,1583.78034,8.092389,0.933333,0.59615,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,mike-hawthorn,Mike Hawthorn,ferrari,4,79,6,0,4,1575.268473,1582.575067,7.306594,0.9,0.595559,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,maurice-trintignant,Maurice Trintignant,gordini,5,79,8,0,5,1467.515137,1477.769511,10.254374,0.866667,0.439401,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,roberto-mieres,Roberto Mieres,gordini,6,77,16,0,6,1483.774091,1492.662629,8.888537,0.833333,0.462978,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,luigi-musso,Luigi Musso,maserati,7,,,0,7,1500.0,1507.120342,7.120342,0.783333,0.486652,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,sergio-mantovani,Sergio Mantovani,maserati,7,76,12,0,8,1500.0,1507.120342,7.120342,0.783333,0.486652,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,umberto-maglioli,Umberto Maglioli,ferrari,8,75,11,0,9,1500.0,1505.920342,5.920342,0.733333,0.486652,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,harry-schell,Harry Schell,gordini,9,75,15,0,10,1468.099848,1474.33396,6.234112,0.7,0.440245,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,louis-chiron,Louis Chiron,osca,10,72,25,0,11,1446.783055,1452.950185,6.16713,0.666667,0.409703,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,birabongse-bhanudej,Birabongse Bhanudej,maserati,11,72,23,0,12,1495.564627,1499.2405,3.675873,0.633333,0.480172,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,alan-brown,Alan Brown,cooper,12,70,24,0,13,1509.616026,1511.998938,2.382912,0.6,0.500712,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,stirling-moss,Stirling Moss,cooper,13,70,10,0,14,1492.208269,1494.401749,2.193481,0.566667,0.475272,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,hans-stuck,Hans Stuck,afm,14,67,29,0,15,1464.837008,1467.184086,2.347078,0.533333,0.435538,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,yves-giraud-cabantous,Yves Giraud-Cabantous,hwm,15,67,28,0,16,1485.95376,1486.766122,0.812363,0.5,0.466152,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,louis-rosier,Louis Rosier,ferrari,16,65,17,0,17,1528.036148,1526.573352,-1.462796,0.466667,0.527616,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,alberto-ascari,Alberto Ascari,ferrari,DNF,79,1,1,18,1652.918651,1646.535746,-6.382905,0.433333,0.699288,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,felice-bonetto,Felice Bonetto,maserati,DNF,77,7,1,19,1539.131216,1535.681083,-3.450133,0.4,0.543756,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,onofre-marimon,Onofre Marimón,maserati,DNF,75,4,1,20,1505.555601,1502.481013,-3.074588,0.366667,0.494775,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,emmanuel-de-graffenried,Emmanuel de Graffenried,maserati,DNF,70,9,1,21,1508.675467,1504.691388,-3.984079,0.333333,0.499337,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,jack-fairman,Jack Fairman,connaught,NC,61,22,1,22,1498.706898,1494.272595,-4.434303,0.3,0.484763,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,ken-wharton,Ken Wharton,cooper,NC,57,19,1,23,1502.365668,1497.003016,-5.362652,0.266667,0.49011,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,kenneth-mcalpine,Kenneth McAlpine,connaught,NC,56,18,1,24,1490.033385,1484.303023,-5.730362,0.233333,0.472098,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,piero-carini,Piero Carini,ferrari,DNF,40,20,1,25,1482.78343,1476.506569,-6.276862,0.2,0.461536,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,roy-salvadori,Roy Salvadori,connaught,DNF,33,14,1,26,1476.088228,1469.244827,-6.843401,0.166667,0.451808,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,chico-landi,Chico Landi,maserati,DNF,18,21,1,27,1503.129719,1494.540258,-8.58946,0.133333,0.491228,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,elie-bayol,Élie Bayol,osca,DNF,17,13,1,28,1480.586417,1471.986241,-8.600176,0.1,0.458341,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,john-fitch,John Fitch,hwm,DNF,14,26,1,29,1500.0,1489.920342,-10.079658,0.066667,0.486652,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,johnny-claes,Johnny Claes,connaught,DNF,7,30,1,30,1481.398765,1471.170242,-10.228522,0.033333,0.459522,24.0,31
+1953,9,1953-09-13,italy,Gran Premio d'Italia 1953,lance-macklin,Lance Macklin,hwm,DNF,6,27,1,31,1472.347224,1461.63394,-10.713285,0.0,0.446387,24.0,31
