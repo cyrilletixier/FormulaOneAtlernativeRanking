@@ -26,9 +26,11 @@ function hashToHue(str) {
 }
 
 function teamFill(teamKey) {
-    if (!teamKey) return 'rgba(0,0,0,0.03)';
+    // Saturation et clarté viennent de la feuille de style (--band-s / --band-l),
+    // pour rester dans la palette du design system en thème clair comme sombre.
+    if (!teamKey) return 'color-mix(in srgb, var(--ink) 3%, transparent)';
     const hue = hashToHue(teamKey);
-    return `hsl(${hue} 45% 92%)`;
+    return `hsl(${hue} var(--band-s) var(--band-l))`;
 }
 
 function addGapRects(svg, points, xScale, pad, width, height, gapShadeRaces) {
