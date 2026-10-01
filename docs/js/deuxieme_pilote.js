@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Charger les données pour une année spécifique
-                                    years = header.slice(3); // Les années commencent à partir de la 4ème colonne
+    async function loadDeuxiemePiloteData(year) {
         try {
             const response = await fetch(`data/${year}/deuxieme_pilote.csv`);
             const data = await response.text();
