@@ -1,0 +1,23 @@
+year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
+2026,12,2026-08-23,netherlands,Formula 1 Heineken Dutch Grand Prix 2026,1161,lando-norris,Lando Norris,mclaren,1,72,1,0,1,1360.502846,1372.490358,11.987512,1.0,0.76025,50.0,22
+2026,12,2026-08-23,netherlands,Formula 1 Heineken Dutch Grand Prix 2026,1161,kimi-antonelli,Kimi Antonelli,mercedes,2,72,3,0,2,1283.883995,1297.519068,13.635073,0.952381,0.679679,50.0,22
+2026,12,2026-08-23,netherlands,Formula 1 Heineken Dutch Grand Prix 2026,1161,george-russell,George Russell,mercedes,3,72,2,0,3,1361.686114,1368.854114,7.168,0.904762,0.761402,50.0,22
+2026,12,2026-08-23,netherlands,Formula 1 Heineken Dutch Grand Prix 2026,1161,lewis-hamilton,Lewis Hamilton,ferrari,4,72,5,0,4,1345.891716,1351.459793,5.568077,0.857143,0.745781,50.0,22
+2026,12,2026-08-23,netherlands,Formula 1 Heineken Dutch Grand Prix 2026,1161,charles-leclerc,Charles Leclerc,ferrari,5,72,6,0,5,1346.221462,1349.392016,3.170554,0.809524,0.746113,50.0,22
+2026,12,2026-08-23,netherlands,Formula 1 Heineken Dutch Grand Prix 2026,1161,oscar-piastri,Oscar Piastri,mclaren,6,72,4,0,6,1311.189154,1313.8001,2.610947,0.761905,0.709686,50.0,22
+2026,12,2026-08-23,netherlands,Formula 1 Heineken Dutch Grand Prix 2026,1161,liam-lawson,Liam Lawson,red-bull,7,72,8,0,7,1139.339371,1149.876823,10.537452,0.714286,0.503537,50.0,22
+2026,12,2026-08-23,netherlands,Formula 1 Heineken Dutch Grand Prix 2026,1161,nico-hulkenberg,Nico Hülkenberg,audi,8,71,13,0,8,1037.973634,1052.574191,14.600557,0.666667,0.374656,50.0,22
+2026,12,2026-08-23,netherlands,Formula 1 Heineken Dutch Grand Prix 2026,1161,fernando-alonso,Fernando Alonso,aston-martin,9,71,18,0,9,1029.913161,1042.630486,12.717325,0.619048,0.364701,50.0,22
+2026,12,2026-08-23,netherlands,Formula 1 Heineken Dutch Grand Prix 2026,1161,pierre-gasly,Pierre Gasly,alpine,10,71,11,0,10,1088.561072,1095.20912,6.648048,0.571429,0.438468,50.0,22
+2026,12,2026-08-23,netherlands,Formula 1 Heineken Dutch Grand Prix 2026,1161,yuki-tsunoda,Yuki Tsunoda,racing-bulls,11,71,12,0,11,1062.082433,1068.031594,5.949162,0.52381,0.404826,50.0,22
+2026,12,2026-08-23,netherlands,Formula 1 Heineken Dutch Grand Prix 2026,1161,arvid-lindblad,Arvid Lindblad,racing-bulls,12,71,10,0,12,1086.951896,1088.940789,1.988893,0.47619,0.436413,50.0,22
+2026,12,2026-08-23,netherlands,Formula 1 Heineken Dutch Grand Prix 2026,1161,gabriel-bortoleto,Gabriel Bortoleto,audi,13,71,9,0,13,1077.435134,1077.649538,0.214404,0.428571,0.424283,50.0,22
+2026,12,2026-08-23,netherlands,Formula 1 Heineken Dutch Grand Prix 2026,1161,franco-colapinto,Franco Colapinto,alpine,14,70,14,0,14,1037.949412,1038.265756,0.316344,0.380952,0.374626,50.0,22
+2026,12,2026-08-23,netherlands,Formula 1 Heineken Dutch Grand Prix 2026,1161,sergio-perez,Sergio Pérez,cadillac,15,70,PL,0,15,1046.072955,1043.503135,-2.56982,0.333333,0.38473,50.0,22
+2026,12,2026-08-23,netherlands,Formula 1 Heineken Dutch Grand Prix 2026,1161,carlos-sainz-jr,Carlos Sainz Jr.,williams,16,70,17,0,16,1083.792888,1076.459521,-7.333367,0.285714,0.432382,50.0,22
+2026,12,2026-08-23,netherlands,Formula 1 Heineken Dutch Grand Prix 2026,1161,alexander-albon,Alexander Albon,williams,17,66,16,0,17,1012.643988,1007.366415,-5.277573,0.238095,0.343647,50.0,22
+2026,12,2026-08-23,netherlands,Formula 1 Heineken Dutch Grand Prix 2026,1161,valtteri-bottas,Valtteri Bottas,cadillac,DNF,61,21,1,18,896.620465,895.342839,-1.277626,0.190476,0.216029,50.0,22
+2026,12,2026-08-23,netherlands,Formula 1 Heineken Dutch Grand Prix 2026,1161,esteban-ocon,Esteban Ocon,haas,DNF,52,15,1,19,1062.145339,1049.042912,-13.102427,0.142857,0.404906,50.0,22
+2026,12,2026-08-23,netherlands,Formula 1 Heineken Dutch Grand Prix 2026,1161,lance-stroll,Lance Stroll,aston-martin,DNF,45,19,1,20,946.293649,937.693098,-8.600551,0.095238,0.267249,50.0,22
+2026,12,2026-08-23,netherlands,Formula 1 Heineken Dutch Grand Prix 2026,1161,oliver-bearman,Oliver Bearman,haas,DNF,2,20,1,21,1065.517877,1047.440515,-18.077362,0.047619,0.409166,50.0,22
+2026,12,2026-08-23,netherlands,Formula 1 Heineken Dutch Grand Prix 2026,1161,max-verstappen,Max Verstappen,red-bull,DNF,0,7,1,22,1423.641994,1382.768373,-40.873621,0.0,0.817472,50.0,22
