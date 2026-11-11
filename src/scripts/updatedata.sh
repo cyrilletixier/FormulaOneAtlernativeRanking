@@ -20,6 +20,7 @@ git submodule update --init --remote
 cd "$ROOT/src/scripts"
 step "Génération Historique";                 "$PYTHON" generate_historique.py
 step "Génération Qualifications";             "$PYTHON" generate_qualifications.py
+step "Génération Sprint";                     "$PYTHON" generate_sprint.py
 step "Génération Deuxième Pilote Par Course"; "$PYTHON" generate_deuxieme_pilote_par_course.py
 step "Génération Deuxième Pilote";            "$PYTHON" generate_deuxieme_pilote.py
 step "Génération ELO des pilotes";            "$PYTHON" generate_elo_pilotes.py
