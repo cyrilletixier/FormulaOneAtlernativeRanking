@@ -1,6 +1,7 @@
 /* Colonnes verticales et étroites à partir de la 3ème colonne */
 #historique-table th:nth-child(n+4),
 #qualifications-table th:nth-child(n+4),
+#sprint-table th:nth-child(n+4),
 #deuxieme-pilote-table th:nth-child(n+4) {
   writing-mode: vertical-lr;
   text-orientation: mixed;
@@ -404,4 +405,11 @@ td a.driver-link:hover {
   body {
     padding: var(--space-5);
   }
+}
+
+.sprint-info,
+.sprint-rules {
+  margin: 0.75rem 0;
+  font-size: 0.9rem;
+  opacity: 0.8;
 }

@@ -16,6 +16,7 @@
             <nav class="tabs">
                 <button class="tab-button active" data-tab="historique">Classement Historique</button>
                 <button class="tab-button" data-tab="qualifications">Qualifications</button>
+                <button class="tab-button" data-tab="sprint">Sprint</button>
                 <button class="tab-button" data-tab="deuxieme-pilote">2ème Pilote</button>
                 <button class="tab-button" data-tab="elo">ELO</button>
                 <a class="tab-button" href="champions.html">Champions</a>
@@ -73,6 +74,41 @@
                     </tbody>
                 </table>
             </div>
+        </div>
+
+        <div class="tab-content" id="sprint">
+            <div class="controls">
+                <div class="year-selector">
+                    <label for="sprint-year">Année :</label>
+                    <button id="sprint-prev" class="tab-button" type="button">&lt;&lt;</button>
+                    <select id="sprint-year">
+                        <!-- Les années avec sprints seront ajoutées dynamiquement -->
+                    </select>
+                    <button id="sprint-next" class="tab-button" type="button">&gt;&gt;</button>
+                </div>
+            </div>
+            <p class="sprint-info" id="sprint-info"></p>
+            <div class="table-container">
+                <table id="sprint-table">
+                    <thead>
+                        <tr>
+                            <th>Pilote</th>
+                            <th>Rang</th>
+                            <th>Points</th>
+                            <!-- Les colonnes des sprints seront ajoutées dynamiquement -->
+                        </tr>
+                    </thead>
+                    <tbody id="sprint-body">
+                        <!-- Les données seront ajoutées dynamiquement -->
+                    </tbody>
+                </table>
+            </div>
+            <p class="sprint-rules">
+                Seules les courses sprint comptent, avec les points réellement distribués
+                (3-2-1 en 2021, 8 à 1 depuis 2022). En cas d'égalité, comme au classement
+                officiel : on compare le nombre de victoires en sprint, puis de 2es places,
+                de 3es places, etc.
+            </p>
         </div>
 
         <div class="tab-content" id="deuxieme-pilote">
@@ -157,6 +193,7 @@
     <script src="js/tabs.js"></script>
     <script src="js/historique.js"></script>
     <script src="js/qualifications.js"></script>
+    <script src="js/sprint.js"></script>
     <script src="js/deuxieme_pilote.js"></script>
     <script src="js/elo.js?v=20260317"></script>
 </body>

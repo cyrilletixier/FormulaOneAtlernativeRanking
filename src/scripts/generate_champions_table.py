@@ -144,6 +144,9 @@ def main(argv: List[str]) -> int:
             read_first_value(deuxieme_path, "Équipe") if os.path.exists(deuxieme_path) else ""
         )
 
+        sprint_path = os.path.join(docs_data_dir, str(year), "sprint.csv")
+        champion_sprint = read_first_value(sprint_path, "Pilote") if os.path.exists(sprint_path) else ""
+
         rows_out.append(
             [
                 str(year),
@@ -151,6 +154,7 @@ def main(argv: List[str]) -> int:
                 champion_constructor,
                 champion_qualif,
                 champion_deuxieme_constructor,
+                champion_sprint,
             ]
         )
 
@@ -164,6 +168,7 @@ def main(argv: List[str]) -> int:
                 "champion constructeur",
                 "champion qualif",
                 "champion constructeur 2eme pilote",
+                "champion sprint",
             ]
         )
         w.writerows(rows_out)
