@@ -6,6 +6,24 @@
     const textCache = new Map();
     const jsonCache = new Map();
 
+    const HIDDEN_DRIVER_RESULT_COLUMNS = new Set([
+        'careerRaceNumber',
+        'constructorId',
+        'date',
+        'laps',
+        'actualScore',
+        'expectedScore',
+        'kUsed',
+        'nParticipants',
+    ]);
+
+    const ELO_VALUE_COLUMNS = new Set([
+        'eloBefore',
+        'eloAfter',
+        'eloDelta',
+        'meanElo',
+    ]);
+
     function fetchTextCached(url) {
         if (!textCache.has(url)) {
             const p = fetch(url)
@@ -69,6 +87,12 @@
         return rows;
     }
 
+    function formatEloCell(columnName, value) {
+        if (!ELO_VALUE_COLUMNS.has(columnName)) return value;
+        const num = Number.parseFloat(value);
+        return Number.isFinite(num) ? num.toFixed(2) : value;
+    }
+
     function createDriverCell(driverName, driverNameToId) {
         const td = document.createElement('td');
         const driverId = driverNameToId instanceof Map
@@ -130,12 +154,15 @@
     }
 
     global.F1Utils = {
+        HIDDEN_DRIVER_RESULT_COLUMNS,
+        ELO_VALUE_COLUMNS,
         fetchTextCached,
         fetchJsonCached,
         getEloIndex,
         getHistoriqueCsv,
         buildDriverNameToId,
         parseCsv,
+        formatEloCell,
         createDriverCell,
         createRankCell,
         renderStatusRow,
