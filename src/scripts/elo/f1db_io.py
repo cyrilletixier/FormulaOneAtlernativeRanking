@@ -4,7 +4,7 @@ import glob
 import hashlib
 import os
 from dataclasses import dataclass
-from typing import Any, Dict, Iterable, List, Optional, Tuple
+from typing import Any, Dict, Iterable, List, Optional
 
 import yaml
 
@@ -135,12 +135,14 @@ def _parse_race_result_row(row: Any) -> Optional[RaceEntry]:
         laps_int = None
 
     grid_pos = row.get("gridPosition")
+    reason_retired = row.get("reasonRetired")
     return RaceEntry(
         driver_id=str(driver_id),
         constructor_id=str(constructor_id) if constructor_id is not None else None,
         position_raw=str(position_raw) if position_raw is not None else "",
         laps=laps_int,
         grid_position=str(grid_pos) if grid_pos is not None else None,
+        reason_retired=str(reason_retired).strip() if reason_retired is not None and str(reason_retired).strip() != "" else None,
     )
 
 
@@ -166,10 +168,11 @@ def compute_source_hash(yaml_dir: str, races: List[RaceMeta]) -> str:
             fp = f"{races_dir}/{meta.race_dir_name}/{name}"
             file_hash = get_file_hash(fp) or ""
             h.update(file_hash.encode("ascii"))
-    # Include drivers mapping too
-    drivers_dir = f"{yaml_dir}/drivers"
-    for driver_file in sorted(glob.glob(f"{drivers_dir}/*.yml")):
-        file_hash = get_file_hash(driver_file) or ""
-        h.update(file_hash.encode("ascii"))
+    # Include drivers and constructors mappings too
+    for subdir in ("drivers", "constructors"):
+        target_dir = f"{yaml_dir}/{subdir}"
+        for yml_file in sorted(glob.glob(f"{target_dir}/*.yml")):
+            file_hash = get_file_hash(yml_file) or ""
+            h.update(file_hash.encode("ascii"))
 
     return h.hexdigest()

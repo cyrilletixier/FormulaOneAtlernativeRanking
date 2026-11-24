@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ELO Constructeurs — Classements F1</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css?v=20260420">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-top">
+                <h1>ELO Constructeurs</h1>
+                <span id="constructors-subtitle" class="header-subtitle">Comparaison des voitures contre les n−2 concurrents (hors DNF pilote)</span>
+            </div>
+            <nav class="tabs">
+                <a class="tab-button" href="index.html">← Retour aux classements</a>
+                <a class="tab-button" href="champions.html">Champions ↗</a>
+            </nav>
+        </header>
+
+        <section class="tab-content active">
+            <div class="controls">
+                <div class="controls-group">
+                    <div class="year-selector">
+                        <label for="c-elo-view">Vue</label>
+                        <select id="c-elo-view">
+                            <option value="ranking">Classement historique (pic ELO)</option>
+                            <option value="constructor">Par constructeur</option>
+                            <option value="race">Par course</option>
+                        </select>
+                    </div>
+
+                    <div class="search-box" id="c-elo-search-wrap">
+                        <label for="c-elo-search">Écurie</label>
+                        <input id="c-elo-search" class="search-input" type="search" placeholder="Filtrer par nom…" autocomplete="off">
+                    </div>
+
+                    <div class="year-selector" id="c-elo-constructor-wrap" style="display:none">
+                        <label for="c-elo-constructor">Constructeur</label>
+                        <select id="c-elo-constructor"></select>
+                    </div>
+
+                    <div class="year-selector" id="c-elo-year-wrap" style="display:none">
+                        <label for="c-elo-year">Saison</label>
+                        <button id="c-elo-year-prev" class="tab-button icon-btn" type="button" aria-label="Saison précédente">‹</button>
+                        <select id="c-elo-year"></select>
+                        <button id="c-elo-year-next" class="tab-button icon-btn" type="button" aria-label="Saison suivante">›</button>
+                    </div>
+
+                    <div class="year-selector" id="c-elo-race-wrap" style="display:none">
+                        <label for="c-elo-race">Course</label>
+                        <select id="c-elo-race"></select>
+                    </div>
+                </div>
+                <span id="c-elo-count" class="table-meta"></span>
+            </div>
+
+            <div id="c-elo-kpis" class="kpi-grid" style="display:none"></div>
+
+            <div class="chart-container" id="c-elo-chart-container" style="display:none">
+                <div id="c-elo-chart-tooltip" class="chart-tooltip" aria-live="polite"></div>
+                <div id="c-elo-chart" class="elo-chart" aria-label="Graphique évolution ELO constructeur"></div>
+            </div>
+
+            <div class="table-container table-sticky-first" id="c-elo-table-container">
+                <table id="c-elo-table">
+                    <thead>
+                        <tr id="c-elo-head-row">
+                            <th>Chargement…</th>
+                        </tr>
+                    </thead>
+                    <tbody id="c-elo-body"></tbody>
+                </table>
+            </div>
+
+            <p class="sprint-rules">
+                Méthode : ELO initial = 1000, K = 50, échelle = 600. À chaque Grand Prix,
+                les voitures d'un constructeur sont comparées uniquement aux voitures des autres
+                constructeurs (n − 2 concurrents pour une écurie à 2 voitures). Les abandons causés
+                par le pilote (accident, collision, sortie de piste, problème physique…) sont exclus.
+            </p>
+        </section>
+    </div>
+
+    <script src="js/utils.js?v=20260420" defer></script>
+    <script src="js/elo_constructeurs.js?v=20260420" defer></script>
+</body>
+</html>

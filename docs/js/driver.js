@@ -288,7 +288,7 @@ function renderEloChart(container, tooltip, points) {
 
         if (tooltip) {
             const teamPart = closest.team ? ` · ${closest.team}` : '';
-            tooltip.innerHTML = `${closest.date} (${closest.gp})${teamPart} · ELO <strong>${closest.elo.toFixed(1)}</strong>`;
+            tooltip.innerHTML = `${closest.date} (${closest.gp})${teamPart} · ELO <strong>${closest.elo.toFixed(2)}</strong>`;
             tooltip.classList.add('visible');
         }
     });
@@ -373,9 +373,9 @@ function renderKpis(container, points) {
     const lastYear = last.date.slice(0, 4);
 
     const items = [
-        { label: 'ELO pic', value: peak.elo.toFixed(1), sub: `${peak.date.slice(0, 4)} · ${peak.gp}` },
-        { label: 'Dernier ELO', value: last.elo.toFixed(1), sub: last.team || last.date.slice(0, 4) },
-        { label: 'ELO moyen', value: (sum / points.length).toFixed(1), sub: `${points.length} départs` },
+        { label: 'ELO pic', value: peak.elo.toFixed(2), sub: `${peak.date.slice(0, 4)} · ${peak.gp}` },
+        { label: 'Dernier ELO', value: last.elo.toFixed(2), sub: last.team || last.date.slice(0, 4) },
+        { label: 'ELO moyen', value: (sum / points.length).toFixed(2), sub: `${points.length} départs` },
         { label: 'Période', value: firstYear === lastYear ? firstYear : `${firstYear}–${lastYear}`, sub: `${teams.size} écurie${teams.size > 1 ? 's' : ''}` },
     ];
 
@@ -404,14 +404,22 @@ function renderKpis(container, points) {
 
 function renderTable(rows, headRow, body) {
     if (!rows.length) return;
+    const { HIDDEN_DRIVER_RESULT_COLUMNS, formatEloCell } = globalThis.F1Utils;
     const header = rows[0];
 
+    const visibleCols = [];
+    for (let j = 0; j < header.length; j++) {
+        if (!HIDDEN_DRIVER_RESULT_COLUMNS.has(header[j])) {
+            visibleCols.push({ index: j, name: header[j] });
+        }
+    }
+
     const headFrag = document.createDocumentFragment();
-    header.forEach(col => {
+    for (const col of visibleCols) {
         const th = document.createElement('th');
-        th.textContent = col;
+        th.textContent = col.name;
         headFrag.appendChild(th);
-    });
+    }
     headRow.replaceChildren(headFrag);
 
     const bodyFrag = document.createDocumentFragment();
@@ -419,9 +427,9 @@ function renderTable(rows, headRow, body) {
         const row = rows[i];
         if (!row.length) continue;
         const tr = document.createElement('tr');
-        for (let j = 0; j < header.length; j++) {
+        for (const col of visibleCols) {
             const td = document.createElement('td');
-            td.textContent = row[j] || '';
+            td.textContent = formatEloCell(col.name, row[col.index] || '');
             tr.appendChild(td);
         }
         bodyFrag.appendChild(tr);

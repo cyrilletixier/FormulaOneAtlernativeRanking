@@ -163,7 +163,7 @@ function renderAgeChart(container, tooltip, points) {
         hoverDot.style.display = '';
 
         if (tooltip) {
-            tooltip.innerHTML = `${closest.age} ans · ELO moyen <strong>${closest.mean.toFixed(1)}</strong>`;
+            tooltip.innerHTML = `${closest.age} ans · ELO moyen <strong>${closest.mean.toFixed(2)}</strong>`;
             tooltip.classList.add('visible');
         }
     });
@@ -179,9 +179,11 @@ function renderAgeChart(container, tooltip, points) {
 
 document.addEventListener('DOMContentLoaded', () => {
     const {
+        HIDDEN_DRIVER_RESULT_COLUMNS,
         getEloIndex,
         fetchTextCached,
         parseCsv,
+        formatEloCell,
         renderStatusRow,
     } = globalThis.F1Utils;
 
@@ -222,7 +224,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (ageButton) ageButton.classList.toggle('active', isAge);
     }
 
-    function renderTable(csvText) {
+    function renderTable(csvText, { hideDriverDetails = false } = {}) {
         const rows = parseCsv(csvText);
         if (!rows.length) {
             renderStatusRow(body, 1, 'Aucune donnée disponible.');
@@ -233,12 +235,20 @@ document.addEventListener('DOMContentLoaded', () => {
         const idxDriverId = header.indexOf('driverId');
         const idxDriverName = header.indexOf('driverName');
 
+        const visibleCols = [];
+        for (let j = 0; j < header.length; j++) {
+            if (hideDriverDetails && HIDDEN_DRIVER_RESULT_COLUMNS.has(header[j])) {
+                continue;
+            }
+            visibleCols.push({ index: j, name: header[j] });
+        }
+
         const headFrag = document.createDocumentFragment();
-        header.forEach(col => {
+        for (const col of visibleCols) {
             const th = document.createElement('th');
-            th.textContent = col;
+            th.textContent = col.name;
             headFrag.appendChild(th);
-        });
+        }
         headRow.replaceChildren(headFrag);
 
         const bodyFrag = document.createDocumentFragment();
@@ -246,10 +256,10 @@ document.addEventListener('DOMContentLoaded', () => {
             const row = rows[i];
             if (!row.length) continue;
             const tr = document.createElement('tr');
-            for (let j = 0; j < header.length; j++) {
-                const cell = row[j] || '';
+            for (const col of visibleCols) {
+                const cell = row[col.index] || '';
                 const td = document.createElement('td');
-                if (j === idxDriverName && idxDriverId >= 0) {
+                if (col.index === idxDriverName && idxDriverId >= 0) {
                     const driverId = row[idxDriverId];
                     const a = document.createElement('a');
                     a.className = 'driver-link';
@@ -257,7 +267,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     a.textContent = cell;
                     td.appendChild(a);
                 } else {
-                    td.textContent = cell;
+                    td.textContent = formatEloCell(col.name, cell);
                 }
                 tr.appendChild(td);
             }
@@ -272,7 +282,7 @@ document.addEventListener('DOMContentLoaded', () => {
         fetchTextCached(`data/elo/drivers/${driverId}.csv`)
             .then(csvText => {
                 if (seq !== loadSeq) return;
-                renderTable(csvText);
+                renderTable(csvText, { hideDriverDetails: true });
             })
             .catch(err => {
                 if (seq !== loadSeq) return;

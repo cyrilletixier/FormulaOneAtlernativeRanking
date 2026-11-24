@@ -6,7 +6,7 @@ import os
 import sys
 import yaml
 from collections import defaultdict
-from typing import Dict, Iterable, List, Optional
+from typing import Dict, List, Optional
 
 from elo.csv_out import write_driver_csv, write_race_csv
 from elo.elo_math import compute_course_update
@@ -19,7 +19,7 @@ from elo.f1db_io import (
     load_driver_names,
     load_race_data,
 )
-from elo.ranking import dedupe_best_by_driver, rank_entries
+from elo.ranking import classify_dnf, dedupe_best_by_driver, rank_entries
 
 
 def load_config(config_path: str) -> dict:
@@ -85,6 +85,8 @@ def build_cache_value(
     script_hash: str,
     k: float,
     initial_elo: float,
+    scale: float,
+    exclude_mechanical_dnf: bool,
     years: List[int],
 ) -> dict:
     return {
@@ -92,6 +94,8 @@ def build_cache_value(
         "script_hash": script_hash,
         "k": k,
         "initial_elo": initial_elo,
+        "scale": scale,
+        "exclude_mechanical_dnf": exclude_mechanical_dnf,
         "years": years,
     }
 
@@ -109,15 +113,31 @@ def process_one_race(
     output_root: str,
     k: float,
     initial_elo: float,
+    scale: float,
+    exclude_mechanical_dnf: bool,
 ) -> None:
     race_data = load_race_data(yaml_dir, meta)
     entries = dedupe_best_by_driver(race_data.entries)
+
+    if exclude_mechanical_dnf:
+        entries = [
+            e
+            for e in entries
+            if classify_dnf(e.position_raw, e.reason_retired) != "mechanical_dnf"
+        ]
+
     ranked = rank_entries(entries)
 
     for re in ranked:
         ratings.setdefault(re.entry.driver_id, initial_elo)
 
-    elo_rows, _ = compute_course_update(ranked, ratings, k=k)
+    elo_rows, _ = compute_course_update(
+        ranked,
+        ratings,
+        k=k,
+        scale=scale,
+        initial_elo=initial_elo,
+    )
 
     race_filename = f"{meta.round:02d}-{meta.grand_prix_id or meta.race_dir_name}.csv"
     race_out = (
@@ -190,6 +210,8 @@ def generate_all(
     output_root: str,
     k: float,
     initial_elo: float,
+    scale: float,
+    exclude_mechanical_dnf: bool,
 ) -> None:
     ratings: Dict[str, float] = {}
     driver_rows: Dict[str, List[dict]] = defaultdict(list)
@@ -210,6 +232,8 @@ def generate_all(
             output_root=output_root,
             k=k,
             initial_elo=initial_elo,
+            scale=scale,
+            exclude_mechanical_dnf=exclude_mechanical_dnf,
         )
 
     drivers_out_dir = f"{output_root}/drivers"
@@ -221,6 +245,8 @@ def generate_all(
     index_payload = {
         "k": k,
         "initialElo": initial_elo,
+        "scale": scale,
+        "excludeMechanicalDnf": exclude_mechanical_dnf,
         "totalRaces": career_race_number,
         "drivers": [
             {
@@ -277,8 +303,10 @@ def main(argv: List[str]) -> int:
         config = load_config(resolve_from_script_dir(args.config))
         output_root = resolve_from_script_dir(args.output)
 
-        k = float(config.get("k", 24))
-        initial_elo = float(config.get("initial_elo", 1500))
+        k = float(config.get("k", 50))
+        initial_elo = float(config.get("initial_elo", 1000))
+        scale = float(config.get("scale", 600))
+        exclude_mechanical_dnf = bool(config.get("exclude_mechanical_dnf", True))
 
         years = parse_years_arg(args.years, yaml_dir)
         races = iter_races(yaml_dir, years)
@@ -293,6 +321,8 @@ def main(argv: List[str]) -> int:
             script_hash=script_hash,
             k=k,
             initial_elo=initial_elo,
+            scale=scale,
+            exclude_mechanical_dnf=exclude_mechanical_dnf,
             years=years,
         )
 
@@ -311,6 +341,8 @@ def main(argv: List[str]) -> int:
             output_root=output_root,
             k=k,
             initial_elo=initial_elo,
+            scale=scale,
+            exclude_mechanical_dnf=exclude_mechanical_dnf,
         )
 
         save_cache(hash_file, cache_value)
