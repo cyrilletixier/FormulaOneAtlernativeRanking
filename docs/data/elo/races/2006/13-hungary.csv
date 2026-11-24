@@ -1,23 +1,21 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,jenson-button,Jenson Button,honda,1,70,14,0,1,1161.949452,1182.424282,20.47483,1.0,0.590503,50.0,22
-2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,pedro-de-la-rosa,Pedro de la Rosa,mclaren,2,70,4,0,2,983.497623,1013.380152,29.882528,0.952381,0.35473,50.0,22
-2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,nick-heidfeld,Nick Heidfeld,bmw-sauber,3,70,10,0,3,1095.428636,1115.539384,20.110748,0.904762,0.502547,50.0,22
-2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,rubens-barrichello,Rubens Barrichello,honda,4,70,3,0,4,1156.146769,1169.854663,13.707894,0.857143,0.582985,50.0,22
-2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,david-coulthard,David Coulthard,red-bull,5,69,12,0,5,1102.780952,1117.637059,14.856106,0.809524,0.512402,50.0,22
-2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,ralf-schumacher,Ralf Schumacher,toyota,6,69,6,0,6,1147.153677,1156.686002,9.532325,0.761905,0.571258,50.0,22
-2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,felipe-massa,Felipe Massa,ferrari,7,69,2,0,7,1217.666114,1220.367035,2.700921,0.714286,0.660267,50.0,22
-2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,michael-schumacher,Michael Schumacher,ferrari,8,67,11,0,8,1341.019454,1334.718081,-6.301373,0.666667,0.792694,50.0,22
-2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,tiago-monteiro,Tiago Monteiro,midland,9,67,16,0,9,965.260936,979.618173,14.357237,0.619048,0.331903,50.0,22
-2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,christijan-albers,Christijan Albers,midland,10,67,22,0,10,938.481233,952.078802,13.597569,0.571429,0.299477,50.0,22
-2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,scott-speed,Scott Speed,toro-rosso,11,66,20,0,11,1009.709142,1016.479022,6.769879,0.52381,0.388412,50.0,22
-2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,jarno-trulli,Jarno Trulli,toyota,12,65,8,0,12,1101.51901,1099.792964,-1.726046,0.47619,0.510711,50.0,22
-2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,takuma-sato,Takuma Sato,super-aguri,13,65,19,0,13,955.370716,960.810996,5.44028,0.428571,0.319766,50.0,22
-2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,fernando-alonso,Fernando Alonso,renault,DNF,51,15,1,14,1403.205359,1379.976369,-23.22899,0.380952,0.845532,50.0,22
-2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,25,1,1,15,1260.713549,1240.671727,-20.041822,0.309524,0.71036,50.0,22
-2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,vitantonio-liuzzi,Vitantonio Liuzzi,toro-rosso,DNF,25,17,1,16,1032.410809,1026.975498,-5.435311,0.309524,0.41823,50.0,22
-2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,nico-rosberg,Nico Rosberg,williams,DNF,19,18,1,17,1000.337977,993.429473,-6.908505,0.238095,0.376265,50.0,22
-2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,giancarlo-fisichella,Giancarlo Fisichella,renault,DNF,18,7,1,18,1252.671584,1227.130743,-25.540841,0.190476,0.701293,50.0,22
-2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,christian-klien,Christian Klien,red-bull,DNF,6,13,1,19,1020.362713,1007.388442,-12.974271,0.142857,0.402343,50.0,22
-2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,mark-webber,Mark Webber,williams,DNF,1,5,1,20,1011.866018,997.066805,-14.799213,0.095238,0.391222,50.0,22
-2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,sakon-yamamoto,Sakon Yamamoto,super-aguri,DNF,0,21,1,21,988.644262,972.96178,-15.682482,0.047619,0.361269,50.0,22
-2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,robert-kubica,Robert Kubica,bmw-sauber,DSQ,69,9,2,22,1000.0,981.208535,-18.791465,0.0,0.375829,50.0,22
+2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,jenson-button,Jenson Button,honda,1,70,14,0,1,1302.768677,1319.870777,17.102101,1.0,0.657958,50.0,20
+2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,pedro-de-la-rosa,Pedro de la Rosa,mclaren,2,70,4,0,2,945.928461,976.109303,30.180842,0.947368,0.343752,50.0,20
+2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,nick-heidfeld,Nick Heidfeld,bmw-sauber,3,70,10,0,3,1104.18339,1124.746095,20.562705,0.894737,0.483483,50.0,20
+2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,rubens-barrichello,Rubens Barrichello,honda,4,70,3,0,4,1312.350831,1321.165592,8.814761,0.842105,0.66581,50.0,20
+2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,david-coulthard,David Coulthard,red-bull,5,69,12,0,5,1172.812731,1185.013341,12.20061,0.789474,0.545461,50.0,20
+2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,ralf-schumacher,Ralf Schumacher,toyota,6,69,6,0,6,1237.04935,1243.778163,6.728813,0.736842,0.602266,50.0,20
+2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,felipe-massa,Felipe Massa,ferrari,7,69,2,0,7,1239.834383,1243.810735,3.976352,0.684211,0.604683,50.0,20
+2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,michael-schumacher,Michael Schumacher,ferrari,8,67,11,0,8,1519.431257,1510.346018,-9.085239,0.631579,0.813284,50.0,20
+2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,tiago-monteiro,Tiago Monteiro,midland,9,67,16,0,9,886.682081,900.859809,14.177729,0.578947,0.295393,50.0,20
+2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,christijan-albers,Christijan Albers,midland,10,67,22,0,10,877.132558,889.053447,11.920889,0.526316,0.287898,50.0,20
+2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,scott-speed,Scott Speed,toro-rosso,11,66,20,0,11,979.727866,984.782988,5.055122,0.473684,0.372582,50.0,20
+2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,jarno-trulli,Jarno Trulli,toyota,12,65,8,0,12,1158.528199,1152.949615,-5.578585,0.421053,0.532624,50.0,20
+2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,takuma-sato,Takuma Sato,super-aguri,13,65,19,0,13,948.436812,949.564702,1.12789,0.368421,0.345863,50.0,20
+2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,25,1,1,14,1443.663687,1419.902682,-23.761005,0.289474,0.764694,50.0,20
+2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,vitantonio-liuzzi,Vitantonio Liuzzi,toro-rosso,DNF,25,17,1,15,983.122856,978.820567,-4.30229,0.289474,0.375519,50.0,20
+2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,nico-rosberg,Nico Rosberg,williams,DNF,19,18,1,16,996.134929,987.319143,-8.815786,0.210526,0.386842,50.0,20
+2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,giancarlo-fisichella,Giancarlo Fisichella,renault,DNF,18,7,1,17,1319.789829,1294.091913,-25.697916,0.157895,0.671853,50.0,20
+2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,christian-klien,Christian Klien,red-bull,DNF,6,13,1,18,1020.743575,1005.581682,-15.161893,0.105263,0.408501,50.0,20
+2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,mark-webber,Mark Webber,williams,DNF,1,5,1,19,1068.596626,1048.662705,-19.933921,0.052632,0.45131,50.0,20
+2006,13,2006-08-06,hungary,Formula 1 Magyar Nagydíj 2006,763,robert-kubica,Robert Kubica,bmw-sauber,DSQ,69,9,2,20,1000.0,980.488821,-19.511179,0.0,0.390224,50.0,20

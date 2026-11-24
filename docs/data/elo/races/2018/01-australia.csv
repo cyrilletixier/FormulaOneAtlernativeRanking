@@ -1,21 +1,16 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,sebastian-vettel,Sebastian Vettel,ferrari,1,58,3,0,1,1383.00711,1393.41455,10.40744,1.0,0.791851,50.0,20
-2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,lewis-hamilton,Lewis Hamilton,mercedes,2,58,1,0,2,1515.784689,1518.658392,2.873704,0.947368,0.889894,50.0,20
-2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,kimi-raikkonen,Kimi Räikkönen,ferrari,3,58,2,0,3,1285.028151,1294.999954,9.971803,0.894737,0.695301,50.0,20
-2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,daniel-ricciardo,Daniel Ricciardo,red-bull,4,58,8,0,4,1254.589953,1263.621837,9.031883,0.842105,0.661468,50.0,20
-2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,fernando-alonso,Fernando Alonso,mclaren,5,58,10,0,5,1050.109411,1069.246395,19.136984,0.789474,0.406734,50.0,20
-2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,max-verstappen,Max Verstappen,red-bull,6,58,4,0,6,1231.574091,1236.674448,5.100357,0.736842,0.634835,50.0,20
-2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,nico-hulkenberg,Nico Hülkenberg,renault,7,58,7,0,7,1065.266887,1078.173917,12.90703,0.684211,0.42607,50.0,20
-2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,valtteri-bottas,Valtteri Bottas,mercedes,8,58,15,0,8,1367.93432,1360.597851,-7.33647,0.631579,0.778308,50.0,20
-2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,stoffel-vandoorne,Stoffel Vandoorne,mclaren,9,58,11,0,9,1010.836399,1021.909548,11.073149,0.578947,0.357484,50.0,20
-2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,carlos-sainz-jr,Carlos Sainz Jr.,renault,10,58,9,0,10,1045.745589,1052.001682,6.256093,0.526316,0.401194,50.0,20
-2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,sergio-perez,Sergio Pérez,force-india,11,58,12,0,11,1230.757568,1222.748041,-8.009527,0.473684,0.633875,50.0,20
-2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,esteban-ocon,Esteban Ocon,force-india,12,58,14,0,12,1141.797772,1136.636087,-5.161685,0.421053,0.524286,50.0,20
-2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,charles-leclerc,Charles Leclerc,sauber,13,58,18,0,13,1000.0,1001.211299,1.211299,0.368421,0.344195,50.0,20
-2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,lance-stroll,Lance Stroll,williams,14,58,13,0,14,1043.729277,1039.586809,-4.142468,0.315789,0.398639,50.0,20
-2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,brendon-hartley,Brendon Hartley,toro-rosso,15,57,16,0,15,978.928775,976.144959,-2.783816,0.263158,0.318834,50.0,20
-2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,romain-grosjean,Romain Grosjean,haas,DNF,24,6,1,16,1050.444754,1040.613055,-9.831699,0.210526,0.40716,50.0,20
-2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,kevin-magnussen,Kevin Magnussen,haas,DNF,22,5,1,17,1027.751143,1016.720294,-11.030849,0.157895,0.378512,50.0,20
-2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,pierre-gasly,Pierre Gasly,toro-rosso,DNF,13,20,1,18,999.270713,987.368554,-11.902159,0.105263,0.343306,50.0,20
-2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,marcus-ericsson,Marcus Ericsson,sauber,DNF,5,17,1,19,930.82482,920.263504,-10.561316,0.052632,0.263858,50.0,20
-2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,sergey-sirotkin,Sergey Sirotkin,williams,DNF,4,19,1,20,1000.0,982.790247,-17.209753,0.0,0.344195,50.0,20
+2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,sebastian-vettel,Sebastian Vettel,ferrari,1,58,3,0,1,1614.65818,1625.8466,11.18842,1.0,0.776232,50.0,15
+2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,lewis-hamilton,Lewis Hamilton,mercedes,2,58,1,0,2,1754.754135,1758.387284,3.633149,0.928571,0.855908,50.0,15
+2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,kimi-raikkonen,Kimi Räikkönen,ferrari,3,58,2,0,3,1408.488557,1419.976524,11.487967,0.857143,0.627384,50.0,15
+2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,daniel-ricciardo,Daniel Ricciardo,red-bull,4,58,8,0,4,1547.67528,1550.380401,2.705122,0.785714,0.731612,50.0,15
+2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,fernando-alonso,Fernando Alonso,mclaren,5,58,10,0,5,1137.019829,1152.728214,15.708385,0.714286,0.400118,50.0,15
+2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,max-verstappen,Max Verstappen,red-bull,6,58,4,0,6,1367.004968,1369.452275,2.447307,0.642857,0.593911,50.0,15
+2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,nico-hulkenberg,Nico Hülkenberg,renault,7,58,7,0,7,1147.759317,1155.874118,8.114802,0.571429,0.409133,50.0,15
+2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,valtteri-bottas,Valtteri Bottas,mercedes,8,58,15,0,8,1502.23014,1492.27238,-9.95776,0.5,0.699155,50.0,15
+2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,stoffel-vandoorne,Stoffel Vandoorne,mclaren,9,58,11,0,9,967.025097,975.1872,8.162103,0.428571,0.265329,50.0,15
+2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,carlos-sainz-jr,Carlos Sainz Jr.,renault,10,58,9,0,10,1104.575505,1103.776154,-0.799351,0.357143,0.37313,50.0,15
+2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,sergio-perez,Sergio Pérez,force-india,11,58,12,0,11,1271.478574,1260.056031,-11.422542,0.285714,0.514165,50.0,15
+2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,esteban-ocon,Esteban Ocon,force-india,12,58,14,0,12,1113.757903,1105.435879,-8.322024,0.214286,0.380726,50.0,15
+2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,charles-leclerc,Charles Leclerc,sauber,13,58,18,0,13,1000.0,992.64638,-7.35362,0.142857,0.28993,50.0,15
+2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,lance-stroll,Lance Stroll,williams,14,58,13,0,14,1018.337649,1006.709481,-11.628168,0.071429,0.303992,50.0,15
+2018,1,2018-03-25,australia,Formula 1 2018 Rolex Australian Grand Prix,977,brendon-hartley,Brendon Hartley,toro-rosso,15,57,16,0,15,985.869797,971.906009,-13.963788,0.0,0.279276,50.0,15

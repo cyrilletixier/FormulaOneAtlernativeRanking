@@ -1,23 +1,22 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,kimi-antonelli,Kimi Antonelli,mercedes,1,53,1,0,1,1198.15852,1219.438627,21.280107,1.0,0.574398,50.0,22
-2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,oscar-piastri,Oscar Piastri,mclaren,2,53,3,0,2,1325.616415,1337.219829,11.603414,0.952381,0.720313,50.0,22
-2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,charles-leclerc,Charles Leclerc,ferrari,3,53,4,0,3,1353.592164,1361.405618,7.813454,0.904762,0.748493,50.0,22
-2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,george-russell,George Russell,mercedes,4,53,2,0,4,1419.670138,1422.098301,2.428164,0.857143,0.80858,50.0,22
-2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,lando-norris,Lando Norris,mclaren,5,53,5,0,5,1386.724404,1388.211426,1.487023,0.809524,0.779783,50.0,22
-2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,lewis-hamilton,Lewis Hamilton,ferrari,6,53,6,0,6,1270.071604,1275.170457,5.098853,0.761905,0.659928,50.0,22
-2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,pierre-gasly,Pierre Gasly,alpine,7,53,7,0,7,1022.912074,1040.967307,18.055233,0.714286,0.353181,50.0,22
-2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,max-verstappen,Max Verstappen,red-bull,8,53,11,0,8,1493.545596,1483.64886,-9.896736,0.666667,0.864601,50.0,22
-2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,liam-lawson,Liam Lawson,racing-bulls,9,53,14,0,9,1067.440709,1077.963479,10.52277,0.619048,0.408592,50.0,22
-2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,esteban-ocon,Esteban Ocon,haas,10,53,12,0,10,1066.230934,1074.449194,8.21826,0.571429,0.407063,50.0,22
-2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,nico-hulkenberg,Nico Hülkenberg,audi,11,53,13,0,11,1045.164845,1052.324012,7.159167,0.52381,0.380626,50.0,22
-2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,isack-hadjar,Isack Hadjar,red-bull,12,53,8,0,12,1065.996626,1069.467781,3.471155,0.47619,0.406767,50.0,22
-2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,gabriel-bortoleto,Gabriel Bortoleto,audi,13,53,9,0,13,1001.799499,1006.841388,5.041889,0.428571,0.327734,50.0,22
-2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,arvid-lindblad,Arvid Lindblad,racing-bulls,14,53,10,0,14,1023.200829,1024.571779,1.37095,0.380952,0.353533,50.0,22
-2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,carlos-sainz-jr,Carlos Sainz Jr.,williams,15,53,16,0,15,1145.074715,1136.358357,-8.716357,0.333333,0.50766,50.0,22
-2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,franco-colapinto,Franco Colapinto,alpine,16,53,15,0,16,954.720101,955.32247,0.602369,0.285714,0.273667,50.0,22
-2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,sergio-perez,Sergio Pérez,cadillac,17,53,19,0,17,1152.854875,1138.881721,-13.973153,0.238095,0.517558,50.0,22
-2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,fernando-alonso,Fernando Alonso,aston-martin,18,52,21,0,18,1099.63587,1086.681514,-12.954357,0.190476,0.449563,50.0,22
-2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,valtteri-bottas,Valtteri Bottas,cadillac,19,52,20,0,19,945.336609,939.309025,-6.027584,0.142857,0.263409,50.0,22
-2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,alexander-albon,Alexander Albon,williams,20,51,17,0,20,1058.239405,1043.151772,-15.087634,0.095238,0.396991,50.0,22
-2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,lance-stroll,Lance Stroll,aston-martin,DNF,30,22,1,21,993.556279,980.038166,-13.518113,0.047619,0.317981,50.0,22
-2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,oliver-bearman,Oliver Bearman,haas,DNF,20,18,1,22,1123.089116,1099.110242,-23.978875,0.0,0.479577,50.0,22
+2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,kimi-antonelli,Kimi Antonelli,mercedes,1,53,1,0,1,1240.60521,1265.013744,24.408534,1.0,0.511829,50.0,21
+2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,oscar-piastri,Oscar Piastri,mclaren,2,53,3,0,2,1472.261481,1484.896696,12.635215,0.95,0.697296,50.0,21
+2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,charles-leclerc,Charles Leclerc,ferrari,3,53,4,0,3,1533.853812,1541.838452,7.98464,0.9,0.740307,50.0,21
+2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,george-russell,George Russell,mercedes,4,53,2,0,4,1583.264283,1587.148337,3.884054,0.85,0.772319,50.0,21
+2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,lando-norris,Lando Norris,mclaren,5,53,5,0,5,1562.846637,1564.878153,2.031516,0.8,0.75937,50.0,21
+2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,lewis-hamilton,Lewis Hamilton,ferrari,6,53,6,0,6,1424.176287,1428.600448,4.424161,0.75,0.661517,50.0,21
+2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,pierre-gasly,Pierre Gasly,alpine,7,53,7,0,7,1042.305921,1060.067734,17.761813,0.7,0.344764,50.0,21
+2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,max-verstappen,Max Verstappen,red-bull,8,53,11,0,8,1787.429206,1775.960239,-11.468967,0.65,0.879379,50.0,21
+2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,liam-lawson,Liam Lawson,racing-bulls,9,53,14,0,9,1067.937075,1079.654888,11.717813,0.6,0.365644,50.0,21
+2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,esteban-ocon,Esteban Ocon,haas,10,53,12,0,10,1091.908825,1100.134641,8.225815,0.55,0.385484,50.0,21
+2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,nico-hulkenberg,Nico Hülkenberg,audi,11,53,13,0,11,1072.214519,1078.756345,6.541826,0.5,0.369163,50.0,21
+2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,isack-hadjar,Isack Hadjar,red-bull,12,53,8,0,12,1084.974115,1088.488285,3.51417,0.45,0.379717,50.0,21
+2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,gabriel-bortoleto,Gabriel Bortoleto,audi,13,53,9,0,13,991.307251,996.082694,4.775443,0.4,0.304491,50.0,21
+2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,arvid-lindblad,Arvid Lindblad,racing-bulls,14,53,10,0,14,1017.50322,1018.755913,1.252693,0.35,0.324946,50.0,21
+2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,carlos-sainz-jr,Carlos Sainz Jr.,williams,15,53,16,0,15,1236.420385,1226.007091,-10.413294,0.3,0.508266,50.0,21
+2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,franco-colapinto,Franco Colapinto,alpine,16,53,15,0,16,928.446489,928.059155,-0.387333,0.25,0.257747,50.0,21
+2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,sergio-perez,Sergio Pérez,cadillac,17,53,19,0,17,1310.286946,1291.762,-18.524946,0.2,0.570499,50.0,21
+2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,fernando-alonso,Fernando Alonso,aston-martin,18,52,21,0,18,1256.090709,1237.341401,-18.749308,0.15,0.524986,50.0,21
+2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,valtteri-bottas,Valtteri Bottas,cadillac,19,52,20,0,19,972.564265,963.054818,-9.509448,0.1,0.290189,50.0,21
+2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,alexander-albon,Alexander Albon,williams,20,51,17,0,20,1111.092227,1093.515234,-17.576993,0.05,0.40154,50.0,21
+2026,3,2026-03-29,japan,Formula 1 Aramco Japanese Grand Prix 2026,1152,oliver-bearman,Oliver Bearman,haas,DNF,20,18,1,21,1168.86252,1146.335116,-22.527404,0.0,0.450548,50.0,21

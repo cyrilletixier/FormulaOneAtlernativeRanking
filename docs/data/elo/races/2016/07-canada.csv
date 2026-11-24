@@ -1,23 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,lewis-hamilton,Lewis Hamilton,mercedes,1,70,1,0,1,1443.931168,1451.863848,7.93268,1.0,0.841346,50.0,22
-2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,sebastian-vettel,Sebastian Vettel,ferrari,2,70,3,0,2,1352.84828,1362.45257,9.60429,0.952381,0.760295,50.0,22
-2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,valtteri-bottas,Valtteri Bottas,williams,3,70,7,0,3,1244.611533,1257.876916,13.265383,0.904762,0.639454,50.0,22
-2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,max-verstappen,Max Verstappen,red-bull,4,70,5,0,4,1119.619282,1138.562686,18.943404,0.857143,0.478275,50.0,22
-2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,nico-rosberg,Nico Rosberg,mercedes,5,70,2,0,5,1397.125893,1397.491455,0.365562,0.809524,0.802213,50.0,22
-2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,kimi-raikkonen,Kimi Räikkönen,ferrari,6,70,6,0,6,1234.290348,1241.046753,6.756405,0.761905,0.626777,50.0,22
-2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,daniel-ricciardo,Daniel Ricciardo,red-bull,7,70,4,0,7,1265.44573,1267.934435,2.488705,0.714286,0.664512,50.0,22
-2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,nico-hulkenberg,Nico Hülkenberg,force-india,8,69,9,0,8,1093.782938,1104.909261,11.126322,0.666667,0.44414,50.0,22
-2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,9,69,20,0,9,1084.080906,1093.46391,9.383005,0.619048,0.431388,50.0,22
-2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,sergio-perez,Sergio Pérez,force-india,10,69,11,0,10,1198.35504,1197.852889,-0.502152,0.571429,0.581472,50.0,22
-2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,fernando-alonso,Fernando Alonso,mclaren,11,69,10,0,11,1082.50012,1087.224858,4.724737,0.52381,0.429315,50.0,22
-2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,daniil-kvyat,Daniil Kvyat,toro-rosso,12,69,15,0,12,1135.369731,1134.223166,-1.146565,0.47619,0.499122,50.0,22
-2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,esteban-gutierrez,Esteban Gutiérrez,haas,13,68,13,0,13,975.115429,981.781826,6.666396,0.428571,0.295244,50.0,22
-2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,romain-grosjean,Romain Grosjean,haas,14,68,14,0,14,1095.881234,1092.583628,-3.297607,0.380952,0.446905,50.0,22
-2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,marcus-ericsson,Marcus Ericsson,sauber,15,68,21,0,15,1002.631722,1002.9023,0.270578,0.333333,0.327922,50.0,22
-2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,kevin-magnussen,Kevin Magnussen,renault,16,68,22,0,16,1089.252535,1081.629298,-7.623236,0.285714,0.438179,50.0,22
-2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,pascal-wehrlein,Pascal Wehrlein,manor,17,68,17,0,17,991.48394,987.663274,-3.820665,0.238095,0.314509,50.0,22
-2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,felipe-nasr,Felipe Nasr,sauber,18,68,18,0,18,1016.860506,1009.116448,-7.744058,0.190476,0.345357,50.0,22
-2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,rio-haryanto,Rio Haryanto,manor,19,68,19,0,19,961.810258,954.953642,-6.856616,0.142857,0.279989,50.0,22
-2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,felipe-massa,Felipe Massa,williams,DNF,35,8,1,20,1224.6242,1198.648177,-25.976023,0.095238,0.614759,50.0,22
-2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,jolyon-palmer,Jolyon Palmer,renault,DNF,16,16,1,21,974.673496,962.317907,-12.355589,0.047619,0.294731,50.0,22
-2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,jenson-button,Jenson Button,mclaren,DNF,9,12,1,22,1093.751733,1071.546777,-22.204956,0.0,0.444099,50.0,22
+2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,lewis-hamilton,Lewis Hamilton,mercedes,1,70,1,0,1,1670.058199,1677.924931,7.866733,1.0,0.842665,50.0,19
+2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,sebastian-vettel,Sebastian Vettel,ferrari,2,70,3,0,2,1572.922834,1580.765221,7.842387,0.944444,0.787597,50.0,19
+2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,valtteri-bottas,Valtteri Bottas,williams,3,70,7,0,3,1317.018786,1331.485852,14.467066,0.888889,0.599548,50.0,19
+2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,max-verstappen,Max Verstappen,red-bull,4,70,5,0,4,1125.576544,1145.511838,19.935293,0.833333,0.434627,50.0,19
+2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,nico-rosberg,Nico Rosberg,mercedes,5,70,2,0,5,1594.986864,1593.827701,-1.159164,0.777778,0.800961,50.0,19
+2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,kimi-raikkonen,Kimi Räikkönen,ferrari,6,70,6,0,6,1380.180249,1383.746114,3.565865,0.722222,0.650905,50.0,19
+2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,daniel-ricciardo,Daniel Ricciardo,red-bull,7,70,4,0,7,1348.167702,1350.241362,2.07366,0.666667,0.625193,50.0,19
+2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,nico-hulkenberg,Nico Hülkenberg,force-india,8,69,9,0,8,1154.140623,1161.724245,7.583622,0.611111,0.459439,50.0,19
+2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,9,69,20,0,9,1097.691717,1104.940431,7.248714,0.555556,0.410581,50.0,19
+2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,sergio-perez,Sergio Pérez,force-india,10,69,11,0,10,1226.479142,1225.358739,-1.120403,0.5,0.522408,50.0,19
+2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,fernando-alonso,Fernando Alonso,mclaren,11,69,10,0,11,1300.837001,1293.75866,-7.078341,0.444444,0.586011,50.0,19
+2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,daniil-kvyat,Daniil Kvyat,toro-rosso,12,69,15,0,12,1150.479867,1147.1117,-3.368167,0.388889,0.456252,50.0,19
+2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,esteban-gutierrez,Esteban Gutiérrez,haas,13,68,13,0,13,925.801649,928.891309,3.08966,0.333333,0.27154,50.0,19
+2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,romain-grosjean,Romain Grosjean,haas,14,68,14,0,14,1147.37534,1138.586672,-8.788668,0.277778,0.453551,50.0,19
+2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,marcus-ericsson,Marcus Ericsson,sauber,15,68,21,0,15,941.561192,938.504853,-3.056339,0.222222,0.283349,50.0,19
+2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,kevin-magnussen,Kevin Magnussen,renault,16,68,22,0,16,1079.888752,1068.453943,-11.434809,0.166667,0.395363,50.0,19
+2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,pascal-wehrlein,Pascal Wehrlein,manor,17,68,17,0,17,974.661594,964.773164,-9.88843,0.111111,0.30888,50.0,19
+2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,felipe-nasr,Felipe Nasr,sauber,18,68,18,0,18,984.708496,971.645707,-13.062789,0.055556,0.316811,50.0,19
+2016,7,2016-06-12,canada,Formula 1 Grand Prix du Canada 2016,942,rio-haryanto,Rio Haryanto,manor,19,68,19,0,19,955.934202,941.21831,-14.715892,0.0,0.294318,50.0,19

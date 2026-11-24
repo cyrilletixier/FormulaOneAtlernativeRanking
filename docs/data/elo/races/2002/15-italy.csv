@@ -1,21 +1,16 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,rubens-barrichello,Rubens Barrichello,ferrari,1,53,4,0,1,1227.093885,1242.367836,15.27395,1.0,0.694521,50.0,20
-2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,michael-schumacher,Michael Schumacher,ferrari,2,53,2,0,2,1444.435125,1447.365477,2.930353,0.947368,0.888761,50.0,20
-2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,eddie-irvine,Eddie Irvine,jaguar,3,53,5,0,3,1008.713627,1033.107236,24.393608,0.894737,0.406865,50.0,20
-2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,jarno-trulli,Jarno Trulli,renault,4,53,11,0,4,1041.619241,1061.141388,19.522148,0.842105,0.451662,50.0,20
-2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,jenson-button,Jenson Button,renault,5,53,17,0,5,1036.986128,1054.194077,17.207949,0.789474,0.445315,50.0,20
-2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,olivier-panis,Olivier Panis,bar,6,53,16,0,6,1016.008192,1032.01397,16.005778,0.736842,0.416727,50.0,20
-2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,david-coulthard,David Coulthard,mclaren,7,53,7,0,7,1252.712404,1250.743225,-1.969179,0.684211,0.723594,50.0,20
-2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,giancarlo-fisichella,Giancarlo Fisichella,jordan,8,53,12,0,8,1041.483799,1050.488915,9.005116,0.631579,0.451477,50.0,20
-2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,jacques-villeneuve,Jacques Villeneuve,bar,9,53,9,0,9,1059.803992,1064.9194,5.115408,0.578947,0.476639,50.0,20
-2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,nick-heidfeld,Nick Heidfeld,sauber,10,53,15,0,10,1107.286549,1106.518884,-0.767665,0.526316,0.541669,50.0,20
-2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,mika-salo,Mika Salo,toyota,11,52,10,0,11,1050.775259,1051.248014,0.472755,0.473684,0.464229,50.0,20
-2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,takuma-sato,Takuma Sato,jordan,12,52,18,0,12,999.44475,1000.77691,1.332159,0.421053,0.394409,50.0,20
-2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,alex-yoong,Alex Yoong,minardi,13,47,20,0,13,919.365448,923.175769,3.810321,0.368421,0.292215,50.0,20
-2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,33,1,1,14,1161.155711,1146.282445,-14.873266,0.315789,0.613255,50.0,20
-2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,29,6,1,15,1060.554912,1049.829221,-10.725692,0.263158,0.477672,50.0,20
-2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,mark-webber,Mark Webber,minardi,DNF,20,19,1,16,969.146111,961.950088,-7.196023,0.210526,0.354447,50.0,20
-2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,felipe-massa,Felipe Massa,sauber,DNF,16,14,1,17,1057.373258,1041.603137,-15.77012,0.157895,0.473297,50.0,20
-2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,pedro-de-la-rosa,Pedro de la Rosa,jaguar,DNF,15,8,1,18,974.493669,961.68664,-12.807029,0.105263,0.361404,50.0,20
-2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,allan-mcnish,Allan McNish,toyota,DNF,13,13,1,19,970.925437,955.719188,-15.206248,0.052632,0.356757,50.0,20
-2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,ralf-schumacher,Ralf Schumacher,williams,DNF,4,3,1,20,1245.073328,1209.319005,-35.754323,0.0,0.715086,50.0,20
+2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,rubens-barrichello,Rubens Barrichello,ferrari,1,53,4,0,1,1349.393825,1364.264339,14.870514,1.0,0.70259,50.0,15
+2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,michael-schumacher,Michael Schumacher,ferrari,2,53,2,0,2,1664.344591,1666.273221,1.928631,0.928571,0.889999,50.0,15
+2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,eddie-irvine,Eddie Irvine,jaguar,3,53,5,0,3,1134.969996,1151.848264,16.878268,0.857143,0.519577,50.0,15
+2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,jarno-trulli,Jarno Trulli,renault,4,53,11,0,4,1055.594238,1072.551895,16.957657,0.785714,0.446561,50.0,15
+2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,jenson-button,Jenson Button,renault,5,53,17,0,5,1025.971062,1040.714342,14.74328,0.714286,0.41942,50.0,15
+2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,olivier-panis,Olivier Panis,bar,6,53,16,0,6,1040.788102,1051.282477,10.494374,0.642857,0.43297,50.0,15
+2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,david-coulthard,David Coulthard,mclaren,7,53,7,0,7,1438.120914,1428.374655,-9.746259,0.571429,0.766354,50.0,15
+2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,giancarlo-fisichella,Giancarlo Fisichella,jordan,8,53,12,0,8,1060.386243,1062.837831,2.451589,0.5,0.450968,50.0,15
+2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,jacques-villeneuve,Jacques Villeneuve,bar,9,53,9,0,9,1161.707009,1155.939145,-5.767863,0.428571,0.543929,50.0,15
+2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,nick-heidfeld,Nick Heidfeld,sauber,10,53,15,0,10,1050.461342,1046.226257,-4.235085,0.357143,0.441845,50.0,15
+2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,mika-salo,Mika Salo,toyota,11,52,10,0,11,1076.387165,1067.387767,-8.999397,0.285714,0.465702,50.0,15
+2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,takuma-sato,Takuma Sato,jordan,12,52,18,0,12,948.244535,941.464989,-6.779547,0.214286,0.349877,50.0,15
+2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,alex-yoong,Alex Yoong,minardi,13,47,20,0,13,898.43786,890.209766,-8.228094,0.142857,0.307419,50.0,15
+2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,felipe-massa,Felipe Massa,sauber,DNF,16,14,1,14,1037.705184,1019.769333,-17.935851,0.071429,0.430146,50.0,15
+2002,15,2002-09-15,italy,Gran Premio Vodafone d'Italia 2002,695,pedro-de-la-rosa,Pedro de la Rosa,jaguar,DNF,15,8,1,15,928.313985,911.68177,-16.632215,0.0,0.332644,50.0,15

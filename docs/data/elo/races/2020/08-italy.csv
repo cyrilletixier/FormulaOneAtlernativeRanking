@@ -1,21 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,pierre-gasly,Pierre Gasly,alphatauri,1,53,10,0,1,1125.315416,1151.093843,25.778427,1.0,0.484431,50.0,20
-2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,2,53,3,0,2,1137.798153,1160.142432,22.344278,0.947368,0.500483,50.0,20
-2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,lance-stroll,Lance Stroll,racing-point,3,53,8,0,3,1096.884216,1119.227823,22.343607,0.894737,0.447865,50.0,20
-2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,lando-norris,Lando Norris,mclaren,4,53,6,0,4,1149.171818,1165.523478,16.35166,0.842105,0.515072,50.0,20
-2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,valtteri-bottas,Valtteri Bottas,mercedes,5,53,2,0,5,1425.87128,1424.576954,-1.294327,0.789474,0.81536,50.0,20
-2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,daniel-ricciardo,Daniel Ricciardo,renault,6,53,7,0,6,1136.911166,1148.786103,11.874937,0.736842,0.499343,50.0,20
-2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,lewis-hamilton,Lewis Hamilton,mercedes,7,53,1,0,7,1584.2187,1572.581982,-11.636718,0.684211,0.916945,50.0,20
-2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,esteban-ocon,Esteban Ocon,renault,8,53,12,0,8,1105.160987,1113.815052,8.654065,0.631579,0.458498,50.0,20
-2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,daniil-kvyat,Daniil Kvyat,alphatauri,9,53,11,0,9,1070.557262,1078.793042,8.235779,0.578947,0.414232,50.0,20
-2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,sergio-perez,Sergio Pérez,racing-point,10,53,4,0,10,1181.110068,1179.642108,-1.46796,0.526316,0.555675,50.0,20
-2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,nicholas-latifi,Nicholas Latifi,williams,11,53,20,0,11,956.704464,966.512768,9.808304,0.473684,0.277518,50.0,20
-2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,romain-grosjean,Romain Grosjean,haas,12,53,16,0,12,948.911695,956.516154,7.604458,0.421053,0.268963,50.0,20
-2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,13,53,14,0,13,1082.256333,1079.220761,-3.035572,0.368421,0.429132,50.0,20
-2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,george-russell,George Russell,williams,14,53,19,0,14,910.59992,914.947035,4.347115,0.315789,0.228847,50.0,20
-2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,alexander-albon,Alexander Albon,red-bull,15,53,9,0,15,1205.7836,1189.618405,-16.165195,0.263158,0.586462,50.0,20
-2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,16,53,18,0,16,975.445355,971.041899,-4.403456,0.210526,0.298595,50.0,20
-2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,max-verstappen,Max Verstappen,red-bull,DNF,30,5,1,17,1379.12486,1348.261723,-30.863137,0.157895,0.775157,50.0,20
-2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,charles-leclerc,Charles Leclerc,ferrari,DNF,23,13,1,18,1212.824827,1188.331738,-24.49309,0.105263,0.595125,50.0,20
-2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,kevin-magnussen,Kevin Magnussen,haas,DNF,17,15,1,19,969.205684,957.262206,-11.943478,0.052632,0.291501,50.0,20
-2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,sebastian-vettel,Sebastian Vettel,ferrari,DNF,6,17,1,20,1250.892666,1218.852966,-32.0397,0.0,0.640794,50.0,20
+2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,pierre-gasly,Pierre Gasly,alphatauri,1,53,10,0,1,1153.660216,1179.786403,26.126187,1.0,0.477476,50.0,17
+2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,2,53,3,0,2,1208.512798,1229.10831,20.595512,0.9375,0.52559,50.0,17
+2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,lance-stroll,Lance Stroll,racing-point,3,53,8,0,3,1082.743957,1105.728597,22.984639,0.875,0.415307,50.0,17
+2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,lando-norris,Lando Norris,mclaren,4,53,6,0,4,1184.358149,1199.760176,15.402027,0.8125,0.504459,50.0,17
+2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,valtteri-bottas,Valtteri Bottas,mercedes,5,53,2,0,5,1648.262614,1643.855746,-4.406868,0.75,0.838137,50.0,17
+2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,daniel-ricciardo,Daniel Ricciardo,renault,6,53,7,0,6,1305.00151,1308.986642,3.985132,0.6875,0.607797,50.0,17
+2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,lewis-hamilton,Lewis Hamilton,mercedes,7,53,1,0,7,1854.987314,1840.138827,-14.848486,0.625,0.92197,50.0,17
+2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,esteban-ocon,Esteban Ocon,renault,8,53,12,0,8,1119.256723,1125.020611,5.763888,0.5625,0.447222,50.0,17
+2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,daniil-kvyat,Daniil Kvyat,alphatauri,9,53,11,0,9,1091.659087,1095.505626,3.846539,0.5,0.423069,50.0,17
+2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,sergio-perez,Sergio Pérez,racing-point,10,53,4,0,10,1242.488335,1236.612037,-5.876298,0.4375,0.555026,50.0,17
+2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,nicholas-latifi,Nicholas Latifi,williams,11,53,20,0,11,932.855255,937.053382,4.198127,0.375,0.291037,50.0,17
+2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,romain-grosjean,Romain Grosjean,haas,12,53,16,0,12,937.233319,938.136575,0.903256,0.3125,0.294435,50.0,17
+2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,13,53,14,0,13,1204.777292,1191.160751,-13.616541,0.25,0.522331,50.0,17
+2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,george-russell,George Russell,williams,14,53,19,0,14,863.090787,860.49564,-2.595147,0.1875,0.239403,50.0,17
+2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,alexander-albon,Alexander Albon,red-bull,15,53,9,0,15,1218.777034,1198.300832,-20.476202,0.125,0.534524,50.0,17
+2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,16,53,18,0,16,925.752015,914.598892,-11.153123,0.0625,0.285562,50.0,17
+2020,8,2020-09-06,italy,Formula 1 Gran Premio Heineken d'Italia 2020,1026,charles-leclerc,Charles Leclerc,ferrari,DNF,23,13,1,17,1315.772538,1284.939894,-30.832644,0.0,0.616653,50.0,17

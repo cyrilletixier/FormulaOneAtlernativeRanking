@@ -1,23 +1,13 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,michael-schumacher,Michael Schumacher,ferrari,1,62,1,0,1,1384.33989,1391.250992,6.911102,1.0,0.861778,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,rubens-barrichello,Rubens Barrichello,ferrari,2,62,2,0,2,1175.525815,1190.712054,15.186239,0.952381,0.648656,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,ralf-schumacher,Ralf Schumacher,williams,3,62,3,0,3,1180.605211,1193.085542,12.480332,0.904762,0.655155,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,juan-pablo-montoya,Juan Pablo Montoya,williams,4,62,4,0,4,1116.977604,1131.311636,14.334032,0.857143,0.570462,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,jenson-button,Jenson Button,renault,5,62,9,0,5,1063.854451,1079.523184,15.668733,0.809524,0.496149,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,david-coulthard,David Coulthard,mclaren,6,61,6,0,6,1233.49491,1235.620708,2.125798,0.761905,0.719389,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,jacques-villeneuve,Jacques Villeneuve,bar,7,61,10,0,7,1124.893746,1131.54143,6.647684,0.714286,0.581332,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,felipe-massa,Felipe Massa,sauber,8,61,11,0,8,1004.167908,1016.880001,12.712094,0.666667,0.412425,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,jarno-trulli,Jarno Trulli,renault,9,61,8,0,9,1004.018436,1014.35991,10.341474,0.619048,0.412218,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,nick-heidfeld,Nick Heidfeld,sauber,10,61,7,0,10,1039.218472,1044.719915,5.501442,0.571429,0.4614,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,mark-webber,Mark Webber,minardi,11,60,19,0,11,1019.845156,1024.324702,4.479546,0.52381,0.434219,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,enrique-bernoldi,Enrique Bernoldi,arrows,DNF,50,20,1,12,923.001807,931.548244,8.546437,0.47619,0.305262,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,eddie-irvine,Eddie Irvine,jaguar,DNF,45,18,1,13,1046.182035,1044.050019,-2.132015,0.428571,0.471212,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,44,5,1,14,1032.559009,1027.814494,-4.744515,0.357143,0.452033,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,olivier-panis,Olivier Panis,bar,DNF,44,12,1,15,1000.360592,997.859307,-2.501285,0.357143,0.407169,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,pedro-de-la-rosa,Pedro de la Rosa,jaguar,DNF,30,21,1,16,1014.005617,1006.987584,-7.018033,0.285714,0.426075,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,mika-salo,Mika Salo,toyota,DNF,26,16,1,17,1108.993129,1092.926516,-16.066613,0.238095,0.559427,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,heinz-harald-frentzen,Heinz-Harald Frentzen,arrows,DNF,25,13,1,18,1027.706323,1014.969047,-12.737276,0.190476,0.445222,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,19,15,1,19,1022.543925,1007.787222,-14.756703,0.142857,0.437991,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,takuma-sato,Takuma Sato,jordan,DNF,5,14,1,20,1025.532049,1008.185239,-17.346809,0.095238,0.442174,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,allan-mcnish,Allan McNish,toyota,DNF,0,17,1,21,999.571696,981.648575,-17.92312,0.047619,0.406081,50.0,22
-2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,alex-yoong,Alex Yoong,minardi,DNQ,,,2,22,990.892692,971.184149,-19.708543,0.0,0.394171,50.0,22
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,michael-schumacher,Michael Schumacher,ferrari,1,62,1,0,1,1600.152478,1608.083664,7.931186,1.0,0.841376,50.0,12
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,rubens-barrichello,Rubens Barrichello,ferrari,2,62,2,0,2,1316.142633,1329.727029,13.584395,0.909091,0.637403,50.0,12
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,ralf-schumacher,Ralf Schumacher,williams,3,62,3,0,3,1274.354153,1285.206649,10.852495,0.818182,0.601132,50.0,12
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,juan-pablo-montoya,Juan Pablo Montoya,williams,4,62,4,0,4,1141.825725,1154.162744,12.337018,0.727273,0.480532,50.0,12
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,jenson-button,Jenson Button,renault,5,62,9,0,5,1046.799763,1058.958403,12.15864,0.636364,0.393191,50.0,12
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,david-coulthard,David Coulthard,mclaren,6,61,6,0,6,1492.652948,1481.221706,-11.431242,0.545455,0.774079,50.0,12
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,jacques-villeneuve,Jacques Villeneuve,bar,7,61,10,0,7,1166.555178,1164.112573,-2.442605,0.454545,0.503398,50.0,12
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,felipe-massa,Felipe Massa,sauber,8,61,11,0,8,987.26468,988.433668,1.168988,0.363636,0.340257,50.0,12
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,jarno-trulli,Jarno Trulli,renault,9,61,8,0,9,1028.423119,1023.227727,-5.195392,0.272727,0.376635,50.0,12
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,nick-heidfeld,Nick Heidfeld,sauber,10,61,7,0,10,1010.233641,1001.303223,-8.930418,0.181818,0.360427,50.0,12
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,mark-webber,Mark Webber,minardi,11,60,19,0,11,1011.831864,998.285175,-13.546689,0.090909,0.361843,50.0,12
+2002,4,2002-04-14,san-marino,Gran Premio di San Marino 2002,684,alex-yoong,Alex Yoong,minardi,DNQ,,,2,12,975.101824,958.615447,-16.486377,0.0,0.329728,50.0,12

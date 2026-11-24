@@ -1,23 +1,15 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,michael-schumacher,Michael Schumacher,ferrari,1,60,3,0,1,1418.349675,1424.242757,5.893082,1.0,0.882138,50.0,22
-2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,rubens-barrichello,Rubens Barrichello,ferrari,2,60,2,0,2,1208.534311,1221.725313,13.191002,0.952381,0.688561,50.0,22
-2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,juan-pablo-montoya,Juan Pablo Montoya,williams,3,60,1,0,3,1102.472458,1120.15536,17.682902,0.904762,0.551104,50.0,22
-2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,jacques-villeneuve,Jacques Villeneuve,bar,4,59,9,0,4,1084.916073,1101.428651,16.512579,0.857143,0.526891,50.0,22
-2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,olivier-panis,Olivier Panis,bar,5,59,13,0,5,1008.645783,1028.072143,19.426359,0.809524,0.420997,50.0,22
-2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,nick-heidfeld,Nick Heidfeld,sauber,6,59,10,0,6,1072.722249,1085.319215,12.596966,0.761905,0.509965,50.0,22
-2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,giancarlo-fisichella,Giancarlo Fisichella,jordan,7,59,17,0,7,1030.833409,1043.965284,13.131875,0.714286,0.451648,50.0,22
-2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,ralf-schumacher,Ralf Schumacher,williams,8,59,4,0,8,1217.055889,1215.456489,-1.5994,0.666667,0.698655,50.0,22
-2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,felipe-massa,Felipe Massa,sauber,9,59,11,0,9,1042.417449,1049.982099,7.56465,0.619048,0.467755,50.0,22
-2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,david-coulthard,David Coulthard,mclaren,10,58,6,0,10,1235.843007,1228.399864,-7.443143,0.571429,0.720291,50.0,22
-2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,pedro-de-la-rosa,Pedro de la Rosa,jaguar,11,58,21,0,11,976.513882,983.83295,7.319068,0.52381,0.377428,50.0,22
-2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,jenson-button,Jenson Button,renault,12,54,12,0,12,1082.624199,1080.24795,-2.376249,0.47619,0.523715,50.0,22
-2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,takuma-sato,Takuma Sato,jordan,DNF,50,14,1,13,979.945408,982.273002,2.327593,0.428571,0.38202,50.0,22
-2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,44,5,1,14,1032.760608,1029.092012,-3.668596,0.380952,0.454324,50.0,22
-2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,jarno-trulli,Jarno Trulli,renault,DNF,29,7,1,15,1065.759573,1057.412447,-8.347126,0.333333,0.500276,50.0,22
-2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,enrique-bernoldi,Enrique Bernoldi,arrows,DNF,28,18,1,16,927.787933,926.354177,-1.433755,0.285714,0.314389,50.0,22
-2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,eddie-irvine,Eddie Irvine,jaguar,DNF,23,19,1,17,1011.293248,1001.966248,-9.327,0.238095,0.424635,50.0,22
-2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,heinz-harald-frentzen,Heinz-Harald Frentzen,arrows,DNF,20,16,1,18,1045.628041,1031.540572,-14.087468,0.190476,0.472226,50.0,22
-2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,mika-salo,Mika Salo,toyota,DNF,15,8,1,19,1064.256963,1046.490661,-17.766302,0.142857,0.498183,50.0,22
-2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,mark-webber,Mark Webber,minardi,DNF,9,20,1,20,1012.784431,996.211972,-16.57246,0.095238,0.426687,50.0,22
-2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,allan-mcnish,Allan McNish,toyota,DNF,0,15,1,21,978.247441,961.641114,-16.606326,0.047619,0.379746,50.0,22
-2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,alex-yoong,Alex Yoong,minardi,DNQ,,,2,22,938.898442,922.480191,-16.418251,0.0,0.328365,50.0,22
+2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,michael-schumacher,Michael Schumacher,ferrari,1,60,3,0,1,1635.269148,1642.164068,6.89492,1.0,0.862102,50.0,14
+2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,rubens-barrichello,Rubens Barrichello,ferrari,2,60,2,0,2,1337.565334,1350.591798,13.026464,0.923077,0.662548,50.0,14
+2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,juan-pablo-montoya,Juan Pablo Montoya,williams,3,60,1,0,3,1166.337297,1183.039944,16.702647,0.846154,0.512101,50.0,14
+2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,jacques-villeneuve,Jacques Villeneuve,bar,4,59,9,0,4,1152.146642,1165.653565,13.506923,0.769231,0.499092,50.0,14
+2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,olivier-panis,Olivier Panis,bar,5,59,13,0,5,1055.018833,1069.123284,14.104451,0.692308,0.410219,50.0,14
+2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,nick-heidfeld,Nick Heidfeld,sauber,6,59,10,0,6,1024.811552,1036.426087,11.614535,0.615385,0.383094,50.0,14
+2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,giancarlo-fisichella,Giancarlo Fisichella,jordan,7,59,17,0,7,1057.64628,1063.939538,6.293258,0.538462,0.412596,50.0,14
+2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,ralf-schumacher,Ralf Schumacher,williams,8,59,4,0,8,1297.424405,1289.057148,-8.367257,0.461538,0.628884,50.0,14
+2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,felipe-massa,Felipe Massa,sauber,9,59,11,0,9,1021.813241,1022.022727,0.209485,0.384615,0.380426,50.0,14
+2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,david-coulthard,David Coulthard,mclaren,10,58,6,0,10,1459.057046,1436.667447,-22.389599,0.307692,0.755484,50.0,14
+2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,pedro-de-la-rosa,Pedro de la Rosa,jaguar,11,58,21,0,11,925.604062,922.239559,-3.364503,0.230769,0.298059,50.0,14
+2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,jenson-button,Jenson Button,renault,12,54,12,0,12,1047.94451,1035.445312,-12.499198,0.153846,0.40383,50.0,14
+2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,eddie-irvine,Eddie Irvine,jaguar,DNF,23,19,1,13,1149.89708,1128.891846,-21.005235,0.076923,0.497028,50.0,14
+2002,10,2002-07-07,great-britain,2002 Foster's British Grand Prix,690,alex-yoong,Alex Yoong,minardi,DNQ,,,2,14,921.281222,906.55433,-14.726892,0.0,0.294538,50.0,14

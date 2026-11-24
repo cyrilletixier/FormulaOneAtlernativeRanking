@@ -1,31 +1,23 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,nigel-mansell,Nigel Mansell,williams,1,69,1,0,1,1265.629231,1278.304252,12.675021,1.0,0.7465,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,riccardo-patrese,Riccardo Patrese,williams,2,69,2,0,2,1302.939893,1312.027324,9.08743,0.965517,0.783769,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,michael-schumacher,Michael Schumacher,benetton,3,69,3,0,3,1072.975964,1094.129766,21.153802,0.931034,0.507958,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,gerhard-berger,Gerhard Berger,mclaren,4,69,5,0,4,1244.899609,1253.513881,8.614272,0.896552,0.724266,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,andrea-de-cesaris,Andrea de Cesaris,tyrrell,5,68,11,0,5,1113.664655,1128.633171,14.968516,0.862069,0.562699,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,mika-hakkinen,Mika Häkkinen,lotus,6,68,18,0,6,1063.85904,1080.458331,16.599291,0.827586,0.4956,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,johnny-herbert,Johnny Herbert,lotus,7,68,12,0,7,1083.156818,1096.725201,13.568383,0.793103,0.521736,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,jj-lehto,JJ Lehto,dallara,8,68,7,0,8,1052.574452,1066.490591,13.916139,0.758621,0.480298,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,erik-comas,Érik Comas,ligier,9,67,26,0,9,1075.665575,1086.292411,10.626836,0.724138,0.511601,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,thierry-boutsen,Thierry Boutsen,ligier,10,67,22,0,10,1151.945096,1155.785602,3.840506,0.689655,0.612845,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,bertrand-gachot,Bertrand Gachot,venturi,11,66,13,0,11,990.923804,1003.799463,12.87566,0.655172,0.397659,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,ukyo-katayama,Ukyo Katayama,venturi,12,66,24,0,12,1011.271382,1021.074586,9.803204,0.62069,0.424626,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,michele-alboreto,Michele Alboreto,footwork,13,65,25,0,13,976.357755,986.735598,10.377843,0.586207,0.37865,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,martin-brundle,Martin Brundle,benetton,DNF,47,4,1,14,1088.787811,1089.907058,1.119247,0.551724,0.529339,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,gabriele-tarquini,Gabriele Tarquini,fondmetal,DNF,45,14,1,15,865.596524,879.113987,13.517463,0.517241,0.246892,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,andrea-chiesa,Andrea Chiesa,fondmetal,DNF,37,23,1,16,981.432672,986.308543,4.875871,0.482759,0.385241,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,pierluigi-martini,Pierluigi Martini,dallara,DNF,36,9,1,17,1116.495679,1110.586279,-5.909399,0.448276,0.566464,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,jean-alesi,Jean Alesi,ferrari,DNF,31,10,1,18,1136.741574,1127.77399,-8.967583,0.413793,0.593145,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,gianni-morbidelli,Gianni Morbidelli,minardi,DNF,29,21,1,19,1087.261272,1079.86282,-7.398452,0.37931,0.527279,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,stefano-modena,Stefano Modena,jordan,DNF,17,15,1,20,1113.07644,1102.222049,-10.854391,0.344828,0.561915,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,olivier-grouillard,Olivier Grouillard,tyrrell,DNF,12,16,1,21,935.980336,935.114065,-0.86627,0.310345,0.32767,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,ayrton-senna,Ayrton Senna,mclaren,DNF,11,6,1,22,1387.73369,1358.781882,-28.951807,0.275862,0.854898,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,christian-fittipaldi,Christian Fittipaldi,minardi,DNF,2,17,1,23,999.981059,991.569529,-8.41153,0.241379,0.40961,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,ivan-capelli,Ivan Capelli,ferrari,DNF,0,20,1,24,1055.577954,1039.980134,-15.59782,0.172414,0.48437,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,karl-wendlinger,Karl Wendlinger,march,DNF,0,19,1,25,986.47375,975.503308,-10.970442,0.172414,0.391823,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,mauricio-gugelmin,Maurício Gugelmin,jordan,DNF,0,8,1,26,1116.738834,1097.02018,-19.718654,0.172414,0.566787,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,aguri-suzuki,Aguri Suzuki,footwork,DNQ,,,2,27,981.986906,965.274956,-16.71195,0.051724,0.385963,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,eric-van-de-poele,Eric van de Poele,brabham,DNQ,,,2,28,868.43261,858.523132,-9.909478,0.051724,0.249914,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,giovanna-amati,Giovanna Amati,brabham,DNQ,,,2,29,981.432672,964.756819,-16.675853,0.051724,0.385241,50.0,30
-1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,paul-belmondo,Paul Belmondo,march,DNQ,,,2,30,981.432672,964.756819,-16.675853,0.051724,0.385241,50.0,30
+1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,nigel-mansell,Nigel Mansell,williams,1,69,1,0,1,1398.774226,1409.969916,11.19569,1.0,0.776086,50.0,22
+1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,riccardo-patrese,Riccardo Patrese,williams,2,69,2,0,2,1407.547828,1416.07062,8.522792,0.952381,0.781925,50.0,22
+1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,michael-schumacher,Michael Schumacher,benetton,3,69,3,0,3,1065.105497,1085.464481,20.358985,0.904762,0.497582,50.0,22
+1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,gerhard-berger,Gerhard Berger,mclaren,4,69,5,0,4,1402.21831,1406.155983,3.937673,0.857143,0.778389,50.0,22
+1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,andrea-de-cesaris,Andrea de Cesaris,tyrrell,5,68,11,0,5,1141.859425,1153.902512,12.043088,0.809524,0.568662,50.0,22
+1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,mika-hakkinen,Mika Häkkinen,lotus,6,68,18,0,6,1030.402761,1045.239789,14.837029,0.761905,0.465164,50.0,22
+1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,johnny-herbert,Johnny Herbert,lotus,7,68,12,0,7,1045.2545,1057.017146,11.762645,0.714286,0.479033,50.0,22
+1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,jj-lehto,JJ Lehto,dallara,8,68,7,0,8,992.063534,1003.919756,11.856221,0.666667,0.429542,50.0,22
+1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,erik-comas,Érik Comas,ligier,9,67,26,0,9,1024.778646,1032.735083,7.956437,0.619048,0.459919,50.0,22
+1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,thierry-boutsen,Thierry Boutsen,ligier,10,67,22,0,10,1250.449535,1245.823104,-4.626431,0.571429,0.663957,50.0,22
+1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,bertrand-gachot,Bertrand Gachot,venturi,11,66,13,0,11,932.342762,939.773655,7.430893,0.52381,0.375192,50.0,22
+1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,ukyo-katayama,Ukyo Katayama,venturi,12,66,24,0,12,998.257462,1000.303449,2.045987,0.47619,0.435271,50.0,22
+1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,michele-alboreto,Michele Alboreto,footwork,13,65,25,0,13,995.362971,995.161934,-0.201036,0.428571,0.432592,50.0,22
+1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,andrea-chiesa,Andrea Chiesa,fondmetal,DNF,37,23,1,14,982.979684,980.969021,-2.010663,0.380952,0.421166,50.0,22
+1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,gianni-morbidelli,Gianni Morbidelli,minardi,DNF,29,21,1,15,1070.300621,1061.845582,-8.455039,0.333333,0.502434,50.0,22
+1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,christian-fittipaldi,Christian Fittipaldi,minardi,DNF,2,17,1,16,1000.0,992.441486,-7.558514,0.285714,0.436885,50.0,22
+1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,ivan-capelli,Ivan Capelli,ferrari,DNF,0,20,1,17,1094.744195,1079.197758,-15.546437,0.214286,0.525214,50.0,22
+1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,karl-wendlinger,Karl Wendlinger,march,DNF,0,19,1,18,995.856884,984.918718,-10.938166,0.214286,0.433049,50.0,22
+1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,aguri-suzuki,Aguri Suzuki,footwork,DNQ,,,2,19,954.50088,938.315429,-16.185451,0.071429,0.395138,50.0,22
+1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,eric-van-de-poele,Eric van de Poele,brabham,DNQ,,,2,20,845.251554,833.79956,-11.451994,0.071429,0.300468,50.0,22
+1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,giovanna-amati,Giovanna Amati,brabham,DNQ,,,2,21,982.979684,965.492831,-17.486854,0.071429,0.421166,50.0,22
+1992,2,1992-03-22,mexico,Gran Premio de México 1992,518,paul-belmondo,Paul Belmondo,march,DNQ,,,2,22,982.979684,965.492831,-17.486854,0.071429,0.421166,50.0,22

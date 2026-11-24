@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,max-verstappen,Max Verstappen,red-bull,1,51,2,0,1,1551.118523,1556.397348,5.278825,1.0,0.894423,50.0,20
-2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,sergio-perez,Sergio Pérez,red-bull,2,51,5,0,2,1389.936835,1398.598853,8.662017,0.947368,0.774128,50.0,20
-2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,3,51,1,0,3,1262.201807,1274.881991,12.680184,0.894737,0.641133,50.0,20
-2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,charles-leclerc,Charles Leclerc,ferrari,4,51,3,0,4,1274.939877,1284.260898,9.321021,0.842105,0.655685,50.0,20
-2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,george-russell,George Russell,mercedes,5,51,4,0,5,1249.708818,1257.850939,8.142122,0.789474,0.626631,50.0,20
-2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,lewis-hamilton,Lewis Hamilton,mercedes,6,51,8,0,6,1423.672,1420.320806,-3.351194,0.736842,0.803866,50.0,20
-2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,alexander-albon,Alexander Albon,williams,7,51,6,0,7,1069.108516,1083.151971,14.043455,0.684211,0.403341,50.0,20
-2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,lando-norris,Lando Norris,mclaren,8,51,9,0,8,1216.065074,1218.315416,2.250343,0.631579,0.586572,50.0,20
-2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,fernando-alonso,Fernando Alonso,aston-martin,9,51,10,0,9,1282.908509,1278.622851,-4.285658,0.578947,0.664661,50.0,20
-2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,valtteri-bottas,Valtteri Bottas,alfa-romeo,10,51,14,0,10,1063.367653,1069.871616,6.503963,0.526316,0.396237,50.0,20
-2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,liam-lawson,Liam Lawson,alphatauri,11,51,12,0,11,1002.38894,1009.930385,7.541445,0.473684,0.322855,50.0,20
-2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,oscar-piastri,Oscar Piastri,mclaren,12,51,7,0,12,1046.515801,1048.791382,2.275581,0.421053,0.375541,50.0,20
-2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,logan-sargeant,Logan Sargeant,williams,13,51,15,0,13,928.734773,935.057924,6.323151,0.368421,0.241958,50.0,20
-2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,guanyu-zhou,Guanyu Zhou,alfa-romeo,14,51,16,0,14,987.281192,987.798027,0.516836,0.315789,0.305453,50.0,20
-2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,pierre-gasly,Pierre Gasly,alpine,15,51,17,0,15,1107.044018,1097.663272,-9.380745,0.263158,0.450773,50.0,20
-2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,lance-stroll,Lance Stroll,aston-martin,16,51,20,0,16,1118.506283,1105.772515,-12.733767,0.210526,0.465202,50.0,20
-2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,nico-hulkenberg,Nico Hülkenberg,haas,17,50,13,0,17,1010.304677,1001.593645,-8.711032,0.157895,0.332115,50.0,20
-2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,kevin-magnussen,Kevin Magnussen,haas,18,50,19,0,18,934.367348,927.242309,-7.125039,0.105263,0.247764,50.0,20
-2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,esteban-ocon,Esteban Ocon,alpine,DNF,39,18,1,19,1134.898736,1113.237778,-21.660957,0.052632,0.485851,50.0,20
-2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,yuki-tsunoda,Yuki Tsunoda,alphatauri,DNS,,,2,20,1004.924212,988.633664,-16.290549,0.0,0.325811,50.0,20
+2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,max-verstappen,Max Verstappen,red-bull,1,51,2,0,1,1783.865949,1790.003501,6.137552,1.0,0.877249,50.0,19
+2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,sergio-perez,Sergio Pérez,red-bull,2,51,5,0,2,1543.985001,1553.877029,9.892028,0.944444,0.746604,50.0,19
+2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,3,51,1,0,3,1402.351061,1414.517186,12.166125,0.888889,0.645566,50.0,19
+2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,charles-leclerc,Charles Leclerc,ferrari,4,51,3,0,4,1480.55566,1487.057831,6.502171,0.833333,0.70329,50.0,19
+2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,george-russell,George Russell,mercedes,5,51,4,0,5,1354.165985,1362.655209,8.489224,0.777778,0.607993,50.0,19
+2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,lewis-hamilton,Lewis Hamilton,mercedes,6,51,8,0,6,1651.134808,1646.662838,-4.47197,0.722222,0.811662,50.0,19
+2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,alexander-albon,Alexander Albon,williams,7,51,6,0,7,1102.07825,1115.4297,13.35145,0.666667,0.399638,50.0,19
+2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,lando-norris,Lando Norris,mclaren,8,51,9,0,8,1307.121267,1309.169699,2.048433,0.611111,0.570142,50.0,19
+2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,fernando-alonso,Fernando Alonso,aston-martin,9,51,10,0,9,1401.792849,1397.313671,-4.479178,0.555556,0.645139,50.0,19
+2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,valtteri-bottas,Valtteri Bottas,alfa-romeo,10,51,14,0,10,1177.150852,1179.044293,1.893441,0.5,0.462131,50.0,19
+2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,liam-lawson,Liam Lawson,alphatauri,11,51,12,0,11,999.120587,1005.480616,6.360029,0.444444,0.317244,50.0,19
+2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,oscar-piastri,Oscar Piastri,mclaren,12,51,7,0,12,1050.632986,1052.188161,1.555174,0.388889,0.357785,50.0,19
+2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,logan-sargeant,Logan Sargeant,williams,13,51,15,0,13,936.463549,939.608565,3.145016,0.333333,0.270433,50.0,19
+2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,guanyu-zhou,Guanyu Zhou,alfa-romeo,14,51,16,0,14,974.207266,973.182895,-1.024372,0.277778,0.298265,50.0,19
+2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,pierre-gasly,Pierre Gasly,alpine,15,51,17,0,15,1160.857511,1149.544114,-11.313397,0.222222,0.44849,50.0,19
+2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,lance-stroll,Lance Stroll,aston-martin,16,51,20,0,16,1153.831314,1140.033857,-13.797456,0.166667,0.442616,50.0,19
+2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,nico-hulkenberg,Nico Hülkenberg,haas,17,50,13,0,17,1035.097737,1023.383643,-11.714093,0.111111,0.345393,50.0,19
+2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,kevin-magnussen,Kevin Magnussen,haas,18,50,19,0,18,900.460819,890.98675,-9.474068,0.055556,0.245037,50.0,19
+2023,14,2023-09-03,italy,Formula 1 Pirelli Gran Premio d'Italia 2023,1093,yuki-tsunoda,Yuki Tsunoda,alphatauri,DNS,,,2,19,983.540856,968.274747,-15.266109,0.0,0.305322,50.0,19

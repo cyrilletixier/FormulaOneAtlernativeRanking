@@ -1,21 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,lewis-hamilton,Lewis Hamilton,mercedes,1,56,1,0,1,1491.965842,1498.181875,6.216033,1.0,0.875679,50.0,20
-2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,sebastian-vettel,Sebastian Vettel,ferrari,2,56,2,0,2,1357.406099,1366.489505,9.083406,0.947368,0.7657,50.0,20
-2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,max-verstappen,Max Verstappen,red-bull,3,56,16,0,3,1274.457219,1285.3087,10.851481,0.894737,0.677707,50.0,20
-2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,daniel-ricciardo,Daniel Ricciardo,red-bull,4,56,5,0,4,1334.033248,1339.020262,4.987014,0.842105,0.742365,50.0,20
-2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,kimi-raikkonen,Kimi Räikkönen,ferrari,5,56,4,0,5,1271.631057,1277.38127,5.750213,0.789474,0.674469,50.0,20
-2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,valtteri-bottas,Valtteri Bottas,mercedes,6,56,3,0,6,1204.427249,1211.583802,7.156554,0.736842,0.593711,50.0,20
-2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,7,56,11,0,7,1095.632433,1107.155064,11.522631,0.684211,0.453758,50.0,20
-2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,kevin-magnussen,Kevin Magnussen,haas,8,55,12,0,8,1011.491283,1025.72744,14.236158,0.631579,0.346856,50.0,20
-2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,sergio-perez,Sergio Pérez,force-india,9,55,8,0,9,1248.238244,1244.828672,-3.409572,0.578947,0.647139,50.0,20
-2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,esteban-ocon,Esteban Ocon,force-india,10,55,17,0,10,981.921947,992.673178,10.751231,0.526316,0.311291,50.0,20
-2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,romain-grosjean,Romain Grosjean,haas,11,55,19,0,11,1018.304981,1024.227148,5.922166,0.473684,0.355241,50.0,20
-2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,nico-hulkenberg,Nico Hülkenberg,renault,12,55,7,0,12,1148.707228,1143.623625,-5.083603,0.421053,0.522725,50.0,20
-2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,jolyon-palmer,Jolyon Palmer,renault,13,55,20,0,13,969.11184,972.715266,3.603426,0.368421,0.296353,50.0,20
-2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,felipe-massa,Felipe Massa,williams,14,55,6,0,14,1155.983164,1145.166476,-10.816688,0.315789,0.532123,50.0,20
-2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,marcus-ericsson,Marcus Ericsson,sauber,15,55,14,0,15,965.255414,963.817492,-1.437922,0.263158,0.291916,50.0,20
-2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,fernando-alonso,Fernando Alonso,mclaren,DNF,33,13,1,16,1122.544714,1108.632814,-13.911899,0.210526,0.488764,50.0,20
-2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,daniil-kvyat,Daniil Kvyat,toro-rosso,DNF,18,9,1,17,1062.988298,1050.303585,-12.684713,0.157895,0.411589,50.0,20
-2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,stoffel-vandoorne,Stoffel Vandoorne,mclaren,DNF,17,15,1,18,1013.122965,1000.94323,-12.179735,0.105263,0.348858,50.0,20
-2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,antonio-giovinazzi,Antonio Giovinazzi,sauber,DNF,3,18,1,19,1004.425152,990.145198,-14.279953,0.052632,0.338231,50.0,20
-2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,lance-stroll,Lance Stroll,williams,DNF,0,10,1,20,993.898836,977.622608,-16.276228,0.0,0.325525,50.0,20
+2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,lewis-hamilton,Lewis Hamilton,mercedes,1,56,1,0,1,1745.711396,1751.909296,6.197901,1.0,0.876042,50.0,17
+2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,sebastian-vettel,Sebastian Vettel,ferrari,2,56,2,0,2,1574.117603,1581.768098,7.650494,0.9375,0.78449,50.0,17
+2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,max-verstappen,Max Verstappen,red-bull,3,56,16,0,3,1337.405446,1350.507692,13.102246,0.875,0.612955,50.0,17
+2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,daniel-ricciardo,Daniel Ricciardo,red-bull,4,56,5,0,4,1470.700652,1475.559662,4.85901,0.8125,0.71532,50.0,17
+2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,kimi-raikkonen,Kimi Räikkönen,ferrari,5,56,4,0,5,1423.202502,1426.684615,3.482112,0.75,0.680358,50.0,17
+2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,valtteri-bottas,Valtteri Bottas,mercedes,6,56,3,0,6,1323.500481,1327.795445,4.294964,0.6875,0.601601,50.0,17
+2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,7,56,11,0,7,1108.800632,1119.083117,10.282485,0.625,0.41935,50.0,17
+2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,kevin-magnussen,Kevin Magnussen,haas,8,55,12,0,8,1019.808284,1030.665962,10.857678,0.5625,0.345346,50.0,17
+2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,sergio-perez,Sergio Pérez,force-india,9,55,8,0,9,1289.068023,1285.414248,-3.653775,0.5,0.573075,50.0,17
+2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,esteban-ocon,Esteban Ocon,force-india,10,55,17,0,10,935.303519,943.204246,7.900727,0.4375,0.279485,50.0,17
+2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,romain-grosjean,Romain Grosjean,haas,11,55,19,0,11,1082.833581,1081.713103,-1.120478,0.375,0.39741,50.0,17
+2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,nico-hulkenberg,Nico Hülkenberg,renault,12,55,7,0,12,1178.421891,1170.101612,-8.320278,0.3125,0.478906,50.0,17
+2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,jolyon-palmer,Jolyon Palmer,renault,13,55,20,0,13,946.602344,944.703963,-1.89838,0.25,0.287968,50.0,17
+2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,felipe-massa,Felipe Massa,williams,14,55,6,0,14,1249.017955,1231.427606,-17.590349,0.1875,0.539307,50.0,17
+2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,marcus-ericsson,Marcus Ericsson,sauber,15,55,14,0,15,905.538195,898.90391,-6.634286,0.125,0.257686,50.0,17
+2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,antonio-giovinazzi,Antonio Giovinazzi,sauber,DNF,3,18,1,16,989.678908,976.740945,-12.937963,0.0625,0.321259,50.0,17
+2017,2,2017-04-09,china,2017 Formula 1 Heineken Chinese Grand Prix,958,lance-stroll,Lance Stroll,williams,DNF,0,10,1,17,1000.0,983.527892,-16.472108,0.0,0.329442,50.0,17

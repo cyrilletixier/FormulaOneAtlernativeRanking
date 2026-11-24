@@ -1,21 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,lewis-hamilton,Lewis Hamilton,mercedes,1,67,14,0,1,1496.283782,1502.369915,6.086134,1.0,0.878277,50.0,20
-2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,valtteri-bottas,Valtteri Bottas,mercedes,2,67,2,0,2,1336.195699,1346.143713,9.948014,0.947368,0.748408,50.0,20
-2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,kimi-raikkonen,Kimi Räikkönen,ferrari,3,67,3,0,3,1305.836924,1314.696047,8.859124,0.894737,0.717554,50.0,20
-2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,max-verstappen,Max Verstappen,red-bull,4,67,4,0,4,1236.579347,1246.658656,10.079309,0.842105,0.640519,50.0,20
-2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,nico-hulkenberg,Nico Hülkenberg,renault,5,67,7,0,5,1087.866627,1104.628392,16.761765,0.789474,0.454238,50.0,20
-2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,romain-grosjean,Romain Grosjean,haas,6,67,6,0,6,1025.455227,1043.56055,18.105323,0.736842,0.374736,50.0,20
-2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,sergio-perez,Sergio Pérez,force-india,7,67,10,0,7,1165.401148,1171.931063,6.529915,0.684211,0.553612,50.0,20
-2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,esteban-ocon,Esteban Ocon,force-india,8,67,15,0,8,1115.899889,1122.959513,7.059624,0.631579,0.490386,50.0,20
-2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,marcus-ericsson,Marcus Ericsson,sauber,9,67,13,0,9,961.55885,975.621754,14.062904,0.578947,0.297689,50.0,20
-2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,brendon-hartley,Brendon Hartley,toro-rosso,10,67,16,0,10,926.648702,940.032539,13.383838,0.526316,0.258639,50.0,20
-2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,kevin-magnussen,Kevin Magnussen,haas,11,67,5,0,11,1095.261181,1095.756751,0.49557,0.473684,0.463773,50.0,20
-2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,carlos-sainz-jr,Carlos Sainz Jr.,renault,12,67,8,0,12,1094.55354,1092.463166,-2.090374,0.421053,0.46286,50.0,20
-2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,stoffel-vandoorne,Stoffel Vandoorne,mclaren,13,67,18,0,13,1026.278985,1025.911776,-0.36721,0.368421,0.375765,50.0,20
-2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,pierre-gasly,Pierre Gasly,toro-rosso,14,66,20,0,14,1004.127819,1002.499456,-1.628362,0.315789,0.348357,50.0,20
-2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,charles-leclerc,Charles Leclerc,sauber,15,66,9,0,15,1016.489083,1011.468066,-5.021017,0.263158,0.363578,50.0,20
-2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,fernando-alonso,Fernando Alonso,mclaren,16,65,11,0,16,1080.144605,1068.456311,-11.688295,0.210526,0.444292,50.0,20
-2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,lance-stroll,Lance Stroll,williams,DNF,53,17,1,17,1009.031488,999.207656,-9.823832,0.157895,0.354371,50.0,20
-2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,sebastian-vettel,Sebastian Vettel,ferrari,DNF,51,1,1,18,1426.10495,1388.641189,-37.463762,0.078947,0.828223,50.0,20
-2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,sergey-sirotkin,Sergey Sirotkin,williams,DNF,51,12,1,19,956.194553,945.565494,-10.62906,0.078947,0.291529,50.0,20
-2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,daniel-ricciardo,Daniel Ricciardo,red-bull,DNF,27,19,1,20,1247.469024,1214.809416,-32.659608,0.0,0.653192,50.0,20
+2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,lewis-hamilton,Lewis Hamilton,mercedes,1,67,14,0,1,1771.163261,1776.889897,5.726636,1.0,0.885467,50.0,17
+2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,valtteri-bottas,Valtteri Bottas,mercedes,2,67,2,0,2,1511.108232,1520.575103,9.466872,0.9375,0.748163,50.0,17
+2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,kimi-raikkonen,Kimi Räikkönen,ferrari,3,67,3,0,3,1475.409733,1482.928835,7.519102,0.875,0.724618,50.0,17
+2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,max-verstappen,Max Verstappen,red-bull,4,67,4,0,4,1376.176828,1384.115781,7.938953,0.8125,0.653721,50.0,17
+2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,nico-hulkenberg,Nico Hülkenberg,renault,5,67,7,0,5,1168.832951,1182.028097,13.195147,0.75,0.486097,50.0,17
+2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,romain-grosjean,Romain Grosjean,haas,6,67,6,0,6,1016.131318,1032.596585,16.465268,0.6875,0.358195,50.0,17
+2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,sergio-perez,Sergio Pérez,force-india,7,67,10,0,7,1216.774194,1221.705309,4.931114,0.625,0.526378,50.0,17
+2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,esteban-ocon,Esteban Ocon,force-india,8,67,15,0,8,1105.301383,1111.806907,6.505524,0.5625,0.43239,50.0,17
+2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,marcus-ericsson,Marcus Ericsson,sauber,9,67,13,0,9,866.028269,878.850169,12.821901,0.5,0.243562,50.0,17
+2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,brendon-hartley,Brendon Hartley,toro-rosso,10,67,16,0,10,919.029066,926.80425,7.775184,0.4375,0.281996,50.0,17
+2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,kevin-magnussen,Kevin Magnussen,haas,11,67,5,0,11,1080.029953,1078.223772,-1.806181,0.375,0.411124,50.0,17
+2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,carlos-sainz-jr,Carlos Sainz Jr.,renault,12,67,8,0,12,1114.881396,1108.482506,-6.398891,0.3125,0.440478,50.0,17
+2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,stoffel-vandoorne,Stoffel Vandoorne,mclaren,13,67,18,0,13,973.63895,969.935664,-3.703287,0.25,0.324066,50.0,17
+2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,pierre-gasly,Pierre Gasly,toro-rosso,14,66,20,0,14,974.338143,967.482223,-6.85592,0.1875,0.324618,50.0,17
+2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,charles-leclerc,Charles Leclerc,sauber,15,66,9,0,15,1001.728922,990.653394,-11.075528,0.125,0.346511,50.0,17
+2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,fernando-alonso,Fernando Alonso,mclaren,16,65,11,0,16,1167.951428,1146.808793,-21.142635,0.0625,0.485353,50.0,17
+2018,11,2018-07-22,germany,Formula 1 Emirates Grosser Preis von Deutschland 2018,987,sebastian-vettel,Sebastian Vettel,ferrari,DNF,51,1,1,17,1646.552084,1605.188825,-41.363259,0.0,0.827265,50.0,17

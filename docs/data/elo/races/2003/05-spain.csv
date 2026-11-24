@@ -1,21 +1,17 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,michael-schumacher,Michael Schumacher,ferrari,1,65,1,0,1,1422.6089,1428.806917,6.198017,1.0,0.87604,50.0,20
-2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,fernando-alonso,Fernando Alonso,renault,2,65,3,0,2,1035.25462,1060.657219,25.4026,0.947368,0.439316,50.0,20
-2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,rubens-barrichello,Rubens Barrichello,ferrari,3,65,2,0,3,1240.896182,1250.15159,9.255407,0.894737,0.709629,50.0,20
-2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,juan-pablo-montoya,Juan Pablo Montoya,williams,4,65,9,0,4,1159.488101,1171.146305,11.658203,0.842105,0.608941,50.0,20
-2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,ralf-schumacher,Ralf Schumacher,williams,5,64,7,0,5,1199.394326,1205.870265,6.475939,0.789474,0.659955,50.0,20
-2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,cristiano-da-matta,Cristiano da Matta,toyota,6,64,13,0,6,999.618412,1016.917511,17.299099,0.736842,0.39086,50.0,20
-2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,mark-webber,Mark Webber,jaguar,7,64,12,0,7,949.510399,967.444538,17.934139,0.684211,0.325528,50.0,20
-2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,ralph-firman,Ralph Firman,jordan,8,63,15,0,8,968.190936,982.300135,14.109199,0.631579,0.349395,50.0,20
-2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,jenson-button,Jenson Button,bar,9,63,5,0,9,1087.841536,1091.190008,3.348472,0.578947,0.511978,50.0,20
-2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,nick-heidfeld,Nick Heidfeld,sauber,10,63,14,0,10,1080.391325,1081.622997,1.231672,0.526316,0.501682,50.0,20
-2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,justin-wilson,Justin Wilson,minardi,11,63,18,0,11,954.190606,961.302543,7.111937,0.473684,0.331445,50.0,20
-2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,jos-verstappen,Jos Verstappen,minardi,12,62,19,0,12,997.662007,999.302735,1.640728,0.421053,0.388238,50.0,20
-2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,43,17,1,13,1050.371258,1045.784826,-4.586432,0.368421,0.46015,50.0,20
-2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,olivier-panis,Olivier Panis,toyota,DNF,41,6,1,14,996.807774,993.242512,-3.565261,0.315789,0.387095,50.0,20
-2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,DNF,38,10,1,15,1041.430103,1032.197289,-9.232815,0.263158,0.447814,50.0,20
-2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,david-coulthard,David Coulthard,mclaren,DNF,17,8,1,16,1226.209277,1202.111208,-24.098069,0.210526,0.692488,50.0,20
-2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,jacques-villeneuve,Jacques Villeneuve,bar,DNF,12,11,1,17,1036.340538,1022.194817,-14.145721,0.157895,0.440809,50.0,20
-2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,antonio-pizzonia,Antônio Pizzonia,jaguar,DNF,0,16,1,18,984.668754,968.752698,-15.916057,0.052632,0.370953,50.0,20
-2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,jarno-trulli,Jarno Trulli,renault,DNF,0,4,1,19,1093.888758,1070.504311,-23.384447,0.052632,0.520321,50.0,20
-2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,0,20,1,20,1143.188171,1116.451561,-26.73661,0.052632,0.587364,50.0,20
+2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,michael-schumacher,Michael Schumacher,ferrari,1,65,1,0,1,1633.506777,1640.103825,6.597048,1.0,0.868059,50.0,16
+2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,fernando-alonso,Fernando Alonso,renault,2,65,3,0,2,1017.694894,1044.501614,26.806721,0.933333,0.397199,50.0,16
+2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,rubens-barrichello,Rubens Barrichello,ferrari,3,65,2,0,3,1375.031302,1382.987657,7.956355,0.866667,0.70754,50.0,16
+2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,juan-pablo-montoya,Juan Pablo Montoya,williams,4,65,9,0,4,1216.543739,1227.714091,11.170352,0.8,0.576593,50.0,16
+2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,ralf-schumacher,Ralf Schumacher,williams,5,64,7,0,5,1277.179887,1282.398891,5.219004,0.733333,0.628953,50.0,16
+2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,cristiano-da-matta,Cristiano da Matta,toyota,6,64,13,0,6,981.046453,996.135911,15.089458,0.666667,0.364877,50.0,16
+2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,mark-webber,Mark Webber,jaguar,7,64,12,0,7,968.449511,980.752158,12.302646,0.6,0.353947,50.0,16
+2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,ralph-firman,Ralph Firman,jordan,8,63,15,0,8,984.623722,992.890403,8.266681,0.533333,0.368,50.0,16
+2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,jenson-button,Jenson Button,bar,9,63,5,0,9,1063.950539,1065.343517,1.392977,0.466667,0.438807,50.0,16
+2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,nick-heidfeld,Nick Heidfeld,sauber,10,63,14,0,10,1055.764334,1054.19451,-1.569823,0.4,0.431396,50.0,16
+2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,justin-wilson,Justin Wilson,minardi,11,63,18,0,11,965.745269,964.831225,-0.914043,0.333333,0.351614,50.0,16
+2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,jos-verstappen,Jos Verstappen,minardi,12,62,19,0,12,960.813724,956.778415,-4.035309,0.266667,0.347373,50.0,16
+2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,david-coulthard,David Coulthard,mclaren,DNF,17,8,1,13,1448.642627,1420.610906,-28.031721,0.2,0.760634,50.0,16
+2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,antonio-pizzonia,Antônio Pizzonia,jaguar,DNF,0,16,1,14,967.318996,953.003769,-14.315227,0.066667,0.352971,50.0,16
+2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,jarno-trulli,Jarno Trulli,renault,DNF,0,4,1,15,1102.1233,1081.781406,-20.341894,0.066667,0.473505,50.0,16
+2003,5,2003-05-04,spain,Gran Premio Marlboro de España 2003,702,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,0,20,1,16,1218.744323,1193.151099,-25.593224,0.066667,0.578531,50.0,16

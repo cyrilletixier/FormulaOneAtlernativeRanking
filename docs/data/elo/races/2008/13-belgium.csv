@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,felipe-massa,Felipe Massa,ferrari,1,44,2,0,1,1279.615759,1293.516039,13.900279,1.0,0.721994,50.0,20
-2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,nick-heidfeld,Nick Heidfeld,bmw-sauber,2,44,5,0,2,1234.09145,1248.039204,13.947754,0.947368,0.668413,50.0,20
-2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,lewis-hamilton,Lewis Hamilton,mclaren,3,44,1,0,3,1283.340101,1291.767823,8.427721,0.894737,0.726182,50.0,20
-2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,fernando-alonso,Fernando Alonso,renault,4,44,6,0,4,1246.547525,1254.478285,7.93076,0.842105,0.68349,50.0,20
-2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,sebastian-vettel,Sebastian Vettel,toro-rosso,5,44,10,0,5,976.504217,999.396031,22.891814,0.789474,0.331637,50.0,20
-2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,robert-kubica,Robert Kubica,bmw-sauber,6,44,8,0,6,1234.219177,1237.632812,3.413634,0.736842,0.668569,50.0,20
-2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,sebastien-bourdais,Sébastien Bourdais,toro-rosso,7,44,9,0,7,965.425431,983.7293,18.303869,0.684211,0.318133,50.0,20
-2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,mark-webber,Mark Webber,red-bull,8,44,7,0,8,1074.812906,1083.430088,8.617182,0.631579,0.459235,50.0,20
-2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,timo-glock,Timo Glock,toyota,9,44,13,0,9,1058.505368,1065.583084,7.077716,0.578947,0.437393,50.0,20
-2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,heikki-kovalainen,Heikki Kovalainen,mclaren,10,43,3,0,10,1215.21417,1209.2784,-5.935771,0.526316,0.645031,50.0,20
-2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,david-coulthard,David Coulthard,red-bull,11,43,14,0,11,1032.329664,1035.876684,3.54702,0.473684,0.402744,50.0,20
-2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,nico-rosberg,Nico Rosberg,williams,12,43,15,0,12,1080.849191,1078.534163,-2.315029,0.421053,0.467353,50.0,20
-2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,adrian-sutil,Adrian Sutil,force-india,13,43,18,0,13,853.839887,862.386824,8.546937,0.368421,0.197482,50.0,20
-2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,kazuki-nakajima,Kazuki Nakajima,williams,14,43,19,0,14,1017.199025,1013.83669,-3.362335,0.315789,0.383036,50.0,20
-2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,jenson-button,Jenson Button,honda,15,43,17,0,15,1022.688404,1016.338586,-6.349819,0.263158,0.390154,50.0,20
-2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,jarno-trulli,Jarno Trulli,toyota,16,43,11,0,16,1156.157927,1138.256031,-17.901895,0.210526,0.568564,50.0,20
-2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,giancarlo-fisichella,Giancarlo Fisichella,force-india,17,43,20,0,17,1015.653574,1004.496353,-11.15722,0.157895,0.381039,50.0,20
-2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,kimi-raikkonen,Kimi Räikkönen,ferrari,18,42,4,0,18,1292.051359,1260.521812,-31.529547,0.105263,0.735854,50.0,20
-2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,rubens-barrichello,Rubens Barrichello,honda,DNF,19,16,1,19,1044.045691,1025.768433,-18.277258,0.052632,0.418177,50.0,20
-2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,nelson-piquet-jr,Nelson Piquet Jr.,renault,DNF,13,12,1,20,1026.804771,1007.028958,-19.775813,0.0,0.395516,50.0,20
+2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,felipe-massa,Felipe Massa,ferrari,1,44,2,0,1,1391.846656,1406.70333,14.856674,1.0,0.702867,50.0,19
+2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,nick-heidfeld,Nick Heidfeld,bmw-sauber,2,44,5,0,2,1296.755968,1312.778701,16.022733,0.944444,0.62399,50.0,19
+2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,lewis-hamilton,Lewis Hamilton,mclaren,3,44,1,0,3,1345.502634,1356.67835,11.175716,0.888889,0.665375,50.0,19
+2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,fernando-alonso,Fernando Alonso,renault,4,44,6,0,4,1426.569478,1431.756772,5.187294,0.833333,0.729587,50.0,19
+2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,sebastian-vettel,Sebastian Vettel,toro-rosso,5,44,10,0,5,995.359762,1016.572188,21.212426,0.777778,0.353529,50.0,19
+2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,robert-kubica,Robert Kubica,bmw-sauber,6,44,8,0,6,1277.29129,1283.052524,5.761234,0.722222,0.606998,50.0,19
+2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,sebastien-bourdais,Sébastien Bourdais,toro-rosso,7,44,9,0,7,957.56966,974.813225,17.243565,0.666667,0.321795,50.0,19
+2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,mark-webber,Mark Webber,red-bull,8,44,7,0,8,1141.780778,1148.116515,6.335737,0.611111,0.484396,50.0,19
+2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,timo-glock,Timo Glock,toyota,9,44,13,0,9,1061.757256,1068.948588,7.191332,0.555556,0.411729,50.0,19
+2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,heikki-kovalainen,Heikki Kovalainen,mclaren,10,43,3,0,10,1249.65257,1245.527781,-4.124789,0.5,0.582496,50.0,19
+2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,david-coulthard,David Coulthard,red-bull,11,43,14,0,11,1067.804233,1069.168992,1.364758,0.444444,0.417149,50.0,19
+2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,nico-rosberg,Nico Rosberg,williams,12,43,15,0,12,1088.573129,1086.223658,-2.349471,0.388889,0.435878,50.0,19
+2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,adrian-sutil,Adrian Sutil,force-india,13,43,18,0,13,821.174445,826.894124,5.719679,0.333333,0.21894,50.0,19
+2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,kazuki-nakajima,Kazuki Nakajima,williams,14,43,19,0,14,1000.276226,996.278074,-3.998152,0.277778,0.357741,50.0,19
+2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,jenson-button,Jenson Button,honda,15,43,17,0,15,1101.096411,1089.845402,-11.251009,0.222222,0.447242,50.0,19
+2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,jarno-trulli,Jarno Trulli,toyota,16,43,11,0,16,1200.742155,1182.159061,-18.583093,0.166667,0.538329,50.0,19
+2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,giancarlo-fisichella,Giancarlo Fisichella,force-india,17,43,20,0,17,1084.334209,1068.287621,-16.046588,0.111111,0.432043,50.0,19
+2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,kimi-raikkonen,Kimi Räikkönen,ferrari,18,42,4,0,18,1500.635515,1464.303639,-36.331876,0.055556,0.782193,50.0,19
+2008,13,2008-09-07,belgium,2008 Formula 1 ING Belgian Grand Prix,798,nelson-piquet-jr,Nelson Piquet Jr.,renault,DNF,13,12,1,19,1034.733174,1015.347003,-19.386171,0.0,0.387723,50.0,19

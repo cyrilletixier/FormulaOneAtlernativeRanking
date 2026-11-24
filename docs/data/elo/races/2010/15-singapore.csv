@@ -1,25 +1,21 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,fernando-alonso,Fernando Alonso,ferrari,1,61,1,0,1,1242.352741,1258.183591,15.83085,1.0,0.683383,50.0,24
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,sebastian-vettel,Sebastian Vettel,red-bull,2,61,2,0,2,1260.508157,1273.103211,12.595054,0.956522,0.704621,50.0,24
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,mark-webber,Mark Webber,red-bull,3,61,5,0,3,1268.913721,1278.854853,9.941132,0.913043,0.714221,50.0,24
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,jenson-button,Jenson Button,mclaren,4,61,4,0,4,1255.512717,1264.048765,8.536048,0.869565,0.698844,50.0,24
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,nico-rosberg,Nico Rosberg,mercedes,5,61,7,0,5,1209.67224,1218.797279,9.125039,0.826087,0.643586,50.0,24
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,rubens-barrichello,Rubens Barrichello,williams,6,61,6,0,6,1146.695063,1157.698766,11.003703,0.782609,0.562535,50.0,24
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,robert-kubica,Robert Kubica,renault,7,61,8,0,7,1187.610134,1193.779542,6.169408,0.73913,0.615742,50.0,24
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,felipe-massa,Felipe Massa,ferrari,8,61,24,0,8,1262.227698,1261.680461,-0.547236,0.695652,0.706597,50.0,24
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,adrian-sutil,Adrian Sutil,force-india,9,61,15,0,9,1035.694191,1047.55656,11.862368,0.652174,0.414927,50.0,24
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,nico-hulkenberg,Nico Hülkenberg,williams,10,61,17,0,10,1028.220484,1038.396714,10.176229,0.608696,0.405171,50.0,24
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,vitaly-petrov,Vitaly Petrov,renault,11,60,12,0,11,1053.559232,1059.897837,6.338605,0.565217,0.438445,50.0,24
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,jaime-alguersuari,Jaime Alguersuari,toro-rosso,12,60,PL,0,12,991.12142,999.322405,8.200985,0.521739,0.357719,50.0,24
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,michael-schumacher,Michael Schumacher,mercedes,13,60,9,0,13,1243.426447,1233.106623,-10.319824,0.478261,0.684657,50.0,24
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,sebastien-buemi,Sébastien Buemi,toro-rosso,14,60,13,0,14,1008.772123,1011.507652,2.735529,0.434783,0.380072,50.0,24
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,lucas-di-grassi,Lucas di Grassi,virgin,15,59,20,0,15,919.217246,925.166919,5.949673,0.391304,0.272311,50.0,24
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,heikki-kovalainen,Heikki Kovalainen,lotus-racing,16,58,19,0,16,993.639581,992.986854,-0.652727,0.347826,0.360881,50.0,24
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,timo-glock,Timo Glock,virgin,DNF,49,18,1,17,978.908225,976.999111,-1.909114,0.304348,0.34253,50.0,24
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,nick-heidfeld,Nick Heidfeld,sauber,DNF,36,14,1,18,1145.191284,1130.207286,-14.983998,0.26087,0.56055,50.0,24
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,lewis-hamilton,Lewis Hamilton,mclaren,DNF,35,3,1,19,1237.708845,1214.686127,-23.022718,0.217391,0.677846,50.0,24
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,christian-klien,Christian Klien,hrt,DNF,31,22,1,20,1020.905154,1009.81688,-11.088275,0.173913,0.395679,50.0,24
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,kamui-kobayashi,Kamui Kobayashi,sauber,DNF,30,10,1,21,1020.165246,1006.950898,-13.214347,0.130435,0.394722,50.0,24
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,bruno-senna,Bruno Senna,hrt,DNF,29,23,1,22,907.070564,898.47028,-8.600285,0.086957,0.258962,50.0,24
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,jarno-trulli,Jarno Trulli,lotus-racing,DNF,27,21,1,23,953.570936,940.152368,-13.418568,0.043478,0.31185,50.0,24
-2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,DNF,1,16,1,24,1035.101278,1014.393746,-20.707531,0.0,0.414151,50.0,24
+2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,fernando-alonso,Fernando Alonso,ferrari,1,61,1,0,1,1369.265236,1385.68227,16.417033,1.0,0.671659,50.0,20
+2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,sebastian-vettel,Sebastian Vettel,red-bull,2,61,2,0,2,1350.13015,1364.708878,14.578729,0.947368,0.655794,50.0,20
+2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,mark-webber,Mark Webber,red-bull,3,61,5,0,3,1352.315774,1364.171587,11.855813,0.894737,0.657621,50.0,20
+2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,jenson-button,Jenson Button,mclaren,4,61,4,0,4,1352.459742,1361.677966,9.218224,0.842105,0.657741,50.0,20
+2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,nico-rosberg,Nico Rosberg,mercedes,5,61,7,0,5,1282.93248,1292.503622,9.571142,0.789474,0.598051,50.0,20
+2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,rubens-barrichello,Rubens Barrichello,williams,6,61,6,0,6,1183.98367,1195.356155,11.372485,0.736842,0.509392,50.0,20
+2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,robert-kubica,Robert Kubica,renault,7,61,8,0,7,1280.756276,1285.159957,4.40368,0.684211,0.596137,50.0,20
+2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,felipe-massa,Felipe Massa,ferrari,8,61,24,0,8,1378.635648,1376.248624,-2.387025,0.631579,0.679319,50.0,20
+2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,adrian-sutil,Adrian Sutil,force-india,9,61,15,0,9,964.751437,977.808873,13.057436,0.578947,0.317799,50.0,20
+2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,nico-hulkenberg,Nico Hülkenberg,williams,10,61,17,0,10,1010.499431,1019.033107,8.533676,0.526316,0.355642,50.0,20
+2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,vitaly-petrov,Vitaly Petrov,renault,11,60,12,0,11,1038.02247,1042.74907,4.7266,0.473684,0.379152,50.0,20
+2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,jaime-alguersuari,Jaime Alguersuari,toro-rosso,12,60,PL,0,12,988.560236,992.748572,4.188336,0.421053,0.337286,50.0,20
+2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,michael-schumacher,Michael Schumacher,mercedes,13,60,9,0,13,1414.860444,1397.871586,-16.988858,0.368421,0.708198,50.0,20
+2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,sebastien-buemi,Sébastien Buemi,toro-rosso,14,60,13,0,14,973.625882,973.165017,-0.460865,0.315789,0.325007,50.0,20
+2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,lucas-di-grassi,Lucas di Grassi,virgin,15,59,20,0,15,928.448184,927.153526,-1.294658,0.263158,0.289051,50.0,20
+2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,heikki-kovalainen,Heikki Kovalainen,lotus-racing,16,58,19,0,16,1013.003908,1005.642205,-7.361702,0.210526,0.35776,50.0,20
+2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,nick-heidfeld,Nick Heidfeld,sauber,DNF,36,14,1,17,1219.888845,1200.691277,-19.197568,0.157895,0.541846,50.0,20
+2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,lewis-hamilton,Lewis Hamilton,mclaren,DNF,35,3,1,18,1368.934537,1340.628313,-28.306224,0.105263,0.671388,50.0,20
+2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,kamui-kobayashi,Kamui Kobayashi,sauber,DNF,30,10,1,19,1054.227444,1037.198265,-17.029179,0.052632,0.393215,50.0,20
+2010,15,2010-09-26,singapore,2010 Formula 1 SingTel Singapore Grand Prix,835,bruno-senna,Bruno Senna,hrt,DNF,29,23,1,20,939.842839,924.945765,-14.897074,0.0,0.297941,50.0,20

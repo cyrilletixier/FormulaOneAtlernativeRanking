@@ -1,23 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,1,72,5,0,1,1164.310832,1183.630008,19.319176,1.0,0.613616,50.0,22
-1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,mika-hakkinen,Mika Häkkinen,mclaren,2,72,14,0,2,1253.509699,1264.893665,11.383966,0.952381,0.724702,50.0,22
-1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,rubens-barrichello,Rubens Barrichello,stewart,3,72,1,0,3,1001.641726,1027.426809,25.785083,0.904762,0.38906,50.0,22
-1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,ralf-schumacher,Ralf Schumacher,williams,4,72,16,0,4,1116.434698,1131.870168,15.435471,0.857143,0.548433,50.0,22
-1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,michael-schumacher,Michael Schumacher,ferrari,5,72,6,0,5,1303.757486,1305.287044,1.529558,0.809524,0.778933,50.0,22
-1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,eddie-irvine,Eddie Irvine,ferrari,6,72,17,0,6,1244.663391,1247.034939,2.371548,0.761905,0.714474,50.0,22
-1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,jarno-trulli,Jarno Trulli,prost,7,72,8,0,7,993.729268,1010.522517,16.793249,0.714286,0.378421,50.0,22
-1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,olivier-panis,Olivier Panis,prost,8,72,3,0,8,1036.457173,1047.952193,11.495019,0.666667,0.436766,50.0,22
-1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,ricardo-zonta,Ricardo Zonta,bar,9,72,10,0,9,980.085684,993.023164,12.937479,0.619048,0.360298,50.0,22
-1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,luca-badoer,Luca Badoer,minardi,10,71,21,0,10,990.136578,1000.027004,9.890426,0.571429,0.37362,50.0,22
-1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,pedro-de-la-rosa,Pedro de la Rosa,arrows,11,71,19,0,11,1000.219553,1007.052959,6.833405,0.52381,0.387141,50.0,22
-1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,42,7,1,12,1191.415938,1182.77146,-8.644479,0.47619,0.64908,50.0,22
-1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,damon-hill,Damon Hill,jordan,DNF,31,18,1,13,1079.554035,1076.134387,-3.419648,0.428571,0.496964,50.0,22
-1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,alex-zanardi,Alex Zanardi,williams,DNF,26,15,1,14,997.269363,997.158487,-0.110877,0.380952,0.38317,50.0,22
-1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,alexander-wurz,Alexander Wurz,benetton,DNF,25,13,1,15,1074.385834,1064.185409,-10.200425,0.285714,0.489723,50.0,22
-1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,jacques-villeneuve,Jacques Villeneuve,bar,DNF,25,12,1,16,1116.636388,1103.486455,-13.149933,0.285714,0.548713,50.0,22
-1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,marc-gene,Marc Gené,minardi,DNF,25,22,1,17,1004.467054,999.108753,-5.358301,0.285714,0.39288,50.0,22
-1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,jean-alesi,Jean Alesi,sauber,DNF,24,2,1,18,1096.715131,1080.189828,-16.525303,0.190476,0.520982,50.0,22
-1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,david-coulthard,David Coulthard,mclaren,DNF,9,4,1,19,1183.684853,1158.872917,-24.811936,0.142857,0.639096,50.0,22
-1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,pedro-diniz,Pedro Diniz,sauber,DNF,6,11,1,20,983.185881,969.728307,-13.457574,0.095238,0.36439,50.0,22
-1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,johnny-herbert,Johnny Herbert,stewart,DNF,4,9,1,21,1018.027889,999.841146,-18.186743,0.047619,0.411354,50.0,22
-1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,toranosuke-takagi,Toranosuke Takagi,arrows,DSQ,71,20,2,22,1008.376479,988.467316,-19.909163,0.0,0.398183,50.0,22
+1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,1,72,5,0,1,1216.208982,1236.807558,20.598576,1.0,0.588028,50.0,17
+1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,mika-hakkinen,Mika Häkkinen,mclaren,2,72,14,0,2,1401.909151,1411.636719,9.727568,0.9375,0.742949,50.0,17
+1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,rubens-barrichello,Rubens Barrichello,stewart,3,72,1,0,3,1057.408755,1079.113455,21.7047,0.875,0.440906,50.0,17
+1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,ralf-schumacher,Ralf Schumacher,williams,4,72,16,0,4,1142.54942,1157.164117,14.614697,0.8125,0.520206,50.0,17
+1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,michael-schumacher,Michael Schumacher,ferrari,5,72,6,0,5,1459.781417,1458.080152,-1.701265,0.75,0.784025,50.0,17
+1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,eddie-irvine,Eddie Irvine,ferrari,6,72,17,0,6,1311.03616,1311.863031,0.826871,0.6875,0.670963,50.0,17
+1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,jarno-trulli,Jarno Trulli,prost,7,72,8,0,7,956.69188,970.438148,13.746269,0.625,0.350075,50.0,17
+1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,olivier-panis,Olivier Panis,prost,8,72,3,0,8,1062.80949,1068.639131,5.829641,0.5625,0.445907,50.0,17
+1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,ricardo-zonta,Ricardo Zonta,bar,9,72,10,0,9,969.787347,976.710528,6.923181,0.5,0.361536,50.0,17
+1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,luca-badoer,Luca Badoer,minardi,10,71,21,0,10,889.113288,896.325656,7.212368,0.4375,0.293253,50.0,17
+1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,pedro-de-la-rosa,Pedro de la Rosa,arrows,11,71,19,0,11,986.525821,986.457519,-0.068302,0.375,0.376366,50.0,17
+1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,42,7,1,12,1179.428004,1167.333228,-12.094777,0.3125,0.554396,50.0,17
+1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,alexander-wurz,Alexander Wurz,benetton,DNF,25,13,1,13,1068.661056,1055.469327,-13.19173,0.1875,0.451335,50.0,17
+1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,jacques-villeneuve,Jacques Villeneuve,bar,DNF,25,12,1,14,1250.042428,1228.49999,-21.542438,0.1875,0.618349,50.0,17
+1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,marc-gene,Marc Gené,minardi,DNF,25,22,1,15,994.392672,984.597684,-9.794989,0.1875,0.3834,50.0,17
+1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,jean-alesi,Jean Alesi,sauber,DNF,24,2,1,16,1206.723622,1180.877965,-25.845657,0.0625,0.579413,50.0,17
+1999,7,1999-06-27,france,Mobil 1 Grand Prix de France 1999,637,toranosuke-takagi,Toranosuke Takagi,arrows,DSQ,71,20,2,17,943.767999,926.823286,-16.944713,0.0,0.338894,50.0,17

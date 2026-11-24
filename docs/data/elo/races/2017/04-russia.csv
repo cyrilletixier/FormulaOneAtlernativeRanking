@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,valtteri-bottas,Valtteri Bottas,mercedes,1,52,3,0,1,1226.054801,1244.909624,18.854823,1.0,0.622904,50.0,20
-2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,sebastian-vettel,Sebastian Vettel,ferrari,2,52,1,0,2,1377.754789,1385.886963,8.132174,0.947368,0.784725,50.0,20
-2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,kimi-raikkonen,Kimi Räikkönen,ferrari,3,52,2,0,3,1285.358582,1295.53115,10.172567,0.894737,0.691285,50.0,20
-2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,lewis-hamilton,Lewis Hamilton,mercedes,4,52,4,0,4,1501.595078,1499.664162,-1.930916,0.842105,0.880724,50.0,20
-2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,max-verstappen,Max Verstappen,red-bull,5,52,7,0,5,1256.002405,1262.568917,6.566511,0.789474,0.658143,50.0,20
-2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,sergio-perez,Sergio Pérez,force-india,6,52,9,0,6,1246.780835,1251.251122,4.470288,0.736842,0.647436,50.0,20
-2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,esteban-ocon,Esteban Ocon,force-india,7,52,10,0,7,1002.495501,1019.592934,17.097433,0.684211,0.342262,50.0,20
-2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,nico-hulkenberg,Nico Hülkenberg,renault,8,52,8,0,8,1146.565274,1151.934013,5.368739,0.631579,0.524204,50.0,20
-2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,felipe-massa,Felipe Massa,williams,9,51,6,0,9,1155.90431,1158.04802,2.143709,0.578947,0.536073,50.0,20
-2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,10,51,14,0,10,1092.69925,1096.252897,3.553647,0.526316,0.455243,50.0,20
-2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,lance-stroll,Lance Stroll,williams,11,51,11,0,11,971.227552,979.646786,8.419234,0.473684,0.3053,50.0,20
-2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,daniil-kvyat,Daniil Kvyat,toro-rosso,12,51,12,0,12,1051.318758,1052.241787,0.92303,0.421053,0.402592,50.0,20
-2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,kevin-magnussen,Kevin Magnussen,haas,13,51,13,0,13,1009.856779,1010.718917,0.862138,0.368421,0.351178,50.0,20
-2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,stoffel-vandoorne,Stoffel Vandoorne,mclaren,14,51,20,0,14,983.954277,983.73605,-0.218227,0.315789,0.320154,50.0,20
-2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,marcus-ericsson,Marcus Ericsson,sauber,15,51,18,0,15,962.167111,960.580104,-1.587006,0.263158,0.294898,50.0,20
-2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,pascal-wehrlein,Pascal Wehrlein,sauber,16,50,17,0,16,941.640197,938.570944,-3.069253,0.210526,0.271911,50.0,20
-2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,daniel-ricciardo,Daniel Ricciardo,red-bull,DNF,5,5,1,17,1341.092284,1311.498678,-29.593606,0.157895,0.749767,50.0,20
-2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,jolyon-palmer,Jolyon Palmer,renault,DNF,0,16,1,18,975.816111,964.232314,-11.583796,0.078947,0.310623,50.0,20
-2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,romain-grosjean,Romain Grosjean,haas,DNF,0,19,1,19,1037.396556,1022.087364,-15.309193,0.078947,0.385131,50.0,20
-2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,fernando-alonso,Fernando Alonso,mclaren,DNS,,15,2,20,1100.66099,1077.388693,-23.272297,0.0,0.465446,50.0,20
+2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,valtteri-bottas,Valtteri Bottas,mercedes,1,52,3,0,1,1341.208019,1358.954915,17.746896,1.0,0.645062,50.0,19
+2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,sebastian-vettel,Sebastian Vettel,ferrari,2,52,1,0,2,1592.241789,1598.702699,6.46091,0.944444,0.815226,50.0,19
+2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,kimi-raikkonen,Kimi Räikkönen,ferrari,3,52,2,0,3,1433.076078,1441.815605,8.739527,0.888889,0.714098,50.0,19
+2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,lewis-hamilton,Lewis Hamilton,mercedes,4,52,4,0,4,1754.808231,1751.850914,-2.957316,0.833333,0.89248,50.0,19
+2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,max-verstappen,Max Verstappen,red-bull,5,52,7,0,5,1350.507692,1356.778707,6.271014,0.777778,0.652357,50.0,19
+2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,sergio-perez,Sergio Pérez,force-india,6,52,9,0,6,1288.087261,1294.085324,5.998063,0.722222,0.602261,50.0,19
+2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,esteban-ocon,Esteban Ocon,force-india,7,52,10,0,7,950.810635,968.288928,17.478293,0.666667,0.317101,50.0,19
+2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,nico-hulkenberg,Nico Hülkenberg,renault,8,52,8,0,8,1171.462129,1176.846121,5.383991,0.611111,0.503431,50.0,19
+2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,felipe-massa,Felipe Massa,williams,9,51,6,0,9,1239.520161,1239.211829,-0.308332,0.555556,0.561722,50.0,19
+2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,10,51,14,0,10,1102.327921,1105.147727,2.819806,0.5,0.443604,50.0,19
+2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,lance-stroll,Lance Stroll,williams,11,51,11,0,11,972.388939,977.893881,5.504942,0.444444,0.334346,50.0,19
+2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,daniil-kvyat,Daniil Kvyat,toro-rosso,12,51,12,0,12,1100.357169,1097.706465,-2.650704,0.388889,0.441903,50.0,19
+2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,kevin-magnussen,Kevin Magnussen,haas,13,51,13,0,13,1030.665962,1028.211667,-2.454295,0.333333,0.382419,50.0,19
+2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,stoffel-vandoorne,Stoffel Vandoorne,mclaren,14,51,20,0,14,978.468136,975.393845,-3.074291,0.277778,0.339264,50.0,19
+2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,marcus-ericsson,Marcus Ericsson,sauber,15,51,18,0,15,898.90391,896.157893,-2.746017,0.222222,0.277143,50.0,19
+2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,pascal-wehrlein,Pascal Wehrlein,sauber,16,50,17,0,16,894.471402,889.112721,-5.358682,0.166667,0.27384,50.0,19
+2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,jolyon-palmer,Jolyon Palmer,renault,DNF,0,16,1,17,942.878625,931.502808,-11.375816,0.083333,0.31085,50.0,19
+2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,romain-grosjean,Romain Grosjean,haas,DNF,0,19,1,18,1089.986504,1072.504973,-17.481531,0.083333,0.432964,50.0,19
+2017,4,2017-04-30,russia,2017 Formula 1 VTB Russian Grand Prix,960,fernando-alonso,Fernando Alonso,mclaren,DNS,,15,2,19,1237.401328,1209.404869,-27.996459,0.0,0.559929,50.0,19

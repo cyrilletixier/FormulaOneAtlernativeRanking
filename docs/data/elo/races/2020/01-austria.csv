@@ -1,21 +1,14 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,valtteri-bottas,Valtteri Bottas,mercedes,1,71,1,0,1,1407.224435,1417.148661,9.924226,1.0,0.801515,50.0,20
-2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,charles-leclerc,Charles Leclerc,ferrari,2,71,7,0,2,1262.158537,1276.753165,14.594628,0.947368,0.655476,50.0,20
-2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,lando-norris,Lando Norris,mclaren,3,71,3,0,3,1086.664745,1109.62314,22.958396,0.894737,0.435569,50.0,20
-2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,lewis-hamilton,Lewis Hamilton,mercedes,4,71,5,0,4,1564.088903,1560.765986,-3.322916,0.842105,0.908564,50.0,20
-2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,5,71,8,0,5,1154.388045,1167.705486,13.31744,0.789474,0.523125,50.0,20
-2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,sergio-perez,Sergio Pérez,racing-point,6,71,6,0,6,1140.318995,1151.9105,11.591505,0.736842,0.505012,50.0,20
-2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,pierre-gasly,Pierre Gasly,alphatauri,7,71,12,0,7,1126.915745,1136.742115,9.82637,0.684211,0.487683,50.0,20
-2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,esteban-ocon,Esteban Ocon,renault,8,71,14,0,8,1075.871612,1086.367346,10.495733,0.631579,0.421664,50.0,20
-2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,9,71,18,0,9,999.832632,1012.448894,12.616262,0.578947,0.326622,50.0,20
-2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,sebastian-vettel,Sebastian Vettel,ferrari,10,71,11,0,10,1327.96463,1317.921658,-10.042973,0.526316,0.727175,50.0,20
-2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,nicholas-latifi,Nicholas Latifi,williams,11,71,20,0,11,1000.0,1007.343056,7.343056,0.473684,0.326823,50.0,20
-2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,daniil-kvyat,Daniil Kvyat,alphatauri,12,69,13,0,12,1071.324789,1071.586159,0.26137,0.421053,0.415825,50.0,20
-2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,alexander-albon,Alexander Albon,red-bull,13,67,4,0,13,1159.780909,1151.700017,-8.080891,0.368421,0.530039,50.0,20
-2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,DNF,53,19,1,14,1135.312777,1126.174951,-9.137826,0.315789,0.498546,50.0,20
-2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,george-russell,George Russell,williams,DNF,49,17,1,15,930.146917,929.611242,-0.535675,0.236842,0.247556,50.0,20
-2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,romain-grosjean,Romain Grosjean,haas,DNF,49,15,1,16,971.843427,969.000512,-2.842915,0.236842,0.2937,50.0,20
-2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,kevin-magnussen,Kevin Magnussen,haas,DNF,24,16,1,17,1002.240523,993.659365,-8.581158,0.157895,0.329518,50.0,20
-2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,lance-stroll,Lance Stroll,racing-point,DNF,20,9,1,18,1010.407795,998.700541,-11.707254,0.105263,0.339408,50.0,20
-2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,daniel-ricciardo,Daniel Ricciardo,renault,DNF,17,10,1,19,1111.288965,1090.54873,-20.740235,0.052632,0.467436,50.0,20
-2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,max-verstappen,Max Verstappen,red-bull,DNF,11,2,1,20,1359.862119,1321.924977,-37.937142,0.0,0.758743,50.0,20
+2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,valtteri-bottas,Valtteri Bottas,mercedes,1,71,1,0,1,1632.494706,1642.872252,10.377546,1.0,0.792449,50.0,13
+2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,charles-leclerc,Charles Leclerc,ferrari,2,71,7,0,2,1319.837381,1337.38889,17.551509,0.916667,0.565636,50.0,13
+2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,lando-norris,Lando Norris,mclaren,3,71,3,0,3,1119.93889,1141.952583,22.013692,0.833333,0.393059,50.0,13
+2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,lewis-hamilton,Lewis Hamilton,mercedes,4,71,5,0,4,1836.151406,1828.929967,-7.221439,0.75,0.894429,50.0,13
+2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,5,71,8,0,5,1233.0389,1241.803188,8.764288,0.666667,0.491381,50.0,13
+2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,sergio-perez,Sergio Pérez,racing-point,6,71,6,0,6,1205.947174,1211.723618,5.776444,0.583333,0.467804,50.0,13
+2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,pierre-gasly,Pierre Gasly,alphatauri,7,71,12,0,7,1133.868314,1138.614345,4.746031,0.5,0.405079,50.0,13
+2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,esteban-ocon,Esteban Ocon,renault,8,71,14,0,8,1081.188951,1084.022833,2.833881,0.416667,0.359989,50.0,13
+2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,9,71,18,0,9,958.34814,961.953812,3.605672,0.333333,0.26122,50.0,13
+2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,sebastian-vettel,Sebastian Vettel,ferrari,10,71,11,0,10,1598.159309,1572.08062,-26.078688,0.25,0.771574,50.0,13
+2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,nicholas-latifi,Nicholas Latifi,williams,11,71,20,0,11,1000.0,993.663063,-6.336937,0.166667,0.293405,50.0,13
+2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,daniil-kvyat,Daniil Kvyat,alphatauri,12,69,13,0,12,1093.014595,1078.680546,-14.334049,0.083333,0.370014,50.0,13
+2020,1,2020-07-05,austria,Formula 1 Rolex Grosser Preis von Österreich 2020,1019,alexander-albon,Alexander Albon,red-bull,13,67,4,0,13,1167.127563,1145.429613,-21.697951,0.0,0.433959,50.0,13

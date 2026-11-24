@@ -1,21 +1,17 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,max-verstappen,Max Verstappen,red-bull,1,51,3,0,1,1386.554059,1397.585902,11.031843,1.0,0.779363,50.0,20
-2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,sergio-perez,Sergio Pérez,red-bull,2,51,2,0,2,1293.124621,1306.466983,13.342362,0.947368,0.680521,50.0,20
-2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,george-russell,George Russell,mercedes,3,51,5,0,3,1131.484775,1152.311418,20.826643,0.894737,0.478204,50.0,20
-2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,lewis-hamilton,Lewis Hamilton,mercedes,4,51,7,0,4,1480.297363,1479.483432,-0.813931,0.842105,0.858384,50.0,20
-2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,pierre-gasly,Pierre Gasly,alphatauri,5,51,6,0,5,1130.279697,1145.921317,15.641621,0.789474,0.476641,50.0,20
-2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,sebastian-vettel,Sebastian Vettel,aston-martin,6,51,9,0,6,1082.208077,1098.31121,16.103133,0.736842,0.414779,50.0,20
-2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,fernando-alonso,Fernando Alonso,alpine,7,51,10,0,7,1108.584325,1120.366007,11.781682,0.684211,0.448577,50.0,20
-2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,daniel-ricciardo,Daniel Ricciardo,mclaren,8,51,12,0,8,1140.946842,1148.001758,7.054915,0.631579,0.490481,50.0,20
-2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,lando-norris,Lando Norris,mclaren,9,51,11,0,9,1227.454645,1226.332296,-1.122349,0.578947,0.601394,50.0,20
-2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,esteban-ocon,Esteban Ocon,alpine,10,51,13,0,10,1168.656902,1168.652322,-0.004581,0.526316,0.526407,50.0,20
-2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,valtteri-bottas,Valtteri Bottas,alfa-romeo,11,50,15,0,11,1282.936793,1273.186671,-9.750121,0.473684,0.668687,50.0,20
-2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,alexander-albon,Alexander Albon,williams,12,50,17,0,12,1139.02198,1135.675483,-3.346497,0.421053,0.487983,50.0,20
-2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,yuki-tsunoda,Yuki Tsunoda,alphatauri,13,50,8,0,13,1030.875482,1031.751583,0.876102,0.368421,0.350899,50.0,20
-2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,mick-schumacher,Mick Schumacher,haas,14,50,20,0,14,894.900161,900.504562,5.6044,0.315789,0.203701,50.0,20
-2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,nicholas-latifi,Nicholas Latifi,williams,15,50,18,0,15,919.856557,921.629576,1.773019,0.263158,0.227698,50.0,20
-2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,lance-stroll,Lance Stroll,aston-martin,16,46,19,0,16,1072.396854,1062.805941,-9.590913,0.210526,0.402345,50.0,20
-2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,kevin-magnussen,Kevin Magnussen,haas,DNF,31,16,1,17,964.718625,958.889741,-5.828884,0.157895,0.274472,50.0,20
-2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,guanyu-zhou,Guanyu Zhou,alfa-romeo,DNF,23,14,1,18,985.586119,975.964099,-9.62202,0.105263,0.297704,50.0,20
-2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,charles-leclerc,Charles Leclerc,ferrari,DNF,21,1,1,19,1281.999092,1251.251256,-30.747836,0.052632,0.667588,50.0,20
-2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,DNF,8,4,1,20,1279.090337,1245.88175,-33.208587,0.0,0.664172,50.0,20
+2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,max-verstappen,Max Verstappen,red-bull,1,51,3,0,1,1615.554411,1625.825438,10.271027,1.0,0.794579,50.0,16
+2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,sergio-perez,Sergio Pérez,red-bull,2,51,2,0,2,1396.479824,1411.242268,14.762444,0.933333,0.638084,50.0,16
+2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,george-russell,George Russell,mercedes,3,51,5,0,3,1098.755965,1122.835797,24.079832,0.866667,0.38507,50.0,16
+2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,lewis-hamilton,Lewis Hamilton,mercedes,4,51,7,0,4,1740.750548,1737.597474,-3.153074,0.8,0.863061,50.0,16
+2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,pierre-gasly,Pierre Gasly,alphatauri,5,51,6,0,5,1257.076331,1267.69244,10.616108,0.733333,0.521011,50.0,16
+2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,sebastian-vettel,Sebastian Vettel,aston-martin,6,51,9,0,6,1172.239201,1183.192119,10.952918,0.666667,0.447608,50.0,16
+2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,fernando-alonso,Fernando Alonso,alpine,7,51,10,0,7,1176.616161,1184.047017,7.430856,0.6,0.451383,50.0,16
+2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,daniel-ricciardo,Daniel Ricciardo,mclaren,8,51,12,0,8,1270.625347,1270.657323,0.031976,0.533333,0.532694,50.0,16
+2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,lando-norris,Lando Norris,mclaren,9,51,11,0,9,1310.169918,1305.176737,-4.993181,0.466667,0.56653,50.0,16
+2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,esteban-ocon,Esteban Ocon,alpine,10,51,13,0,10,1237.509248,1232.30472,-5.204527,0.4,0.504091,50.0,16
+2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,valtteri-bottas,Valtteri Bottas,alfa-romeo,11,50,15,0,11,1531.087846,1510.784596,-20.303251,0.333333,0.739398,50.0,16
+2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,alexander-albon,Alexander Albon,williams,12,50,17,0,12,1194.945572,1184.917781,-10.027792,0.266667,0.467223,50.0,16
+2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,yuki-tsunoda,Yuki Tsunoda,alphatauri,13,50,8,0,13,1028.494322,1022.108394,-6.385928,0.2,0.327719,50.0,16
+2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,mick-schumacher,Mick Schumacher,haas,14,50,20,0,14,839.563444,836.539199,-3.024244,0.133333,0.193818,50.0,16
+2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,nicholas-latifi,Nicholas Latifi,williams,15,50,18,0,15,850.703306,844.000839,-6.702467,0.066667,0.200716,50.0,16
+2022,8,2022-06-12,azerbaijan,Formula 1 Azerbaijan Grand Prix 2022,1065,lance-stroll,Lance Stroll,aston-martin,16,46,19,0,16,1077.02491,1058.674212,-18.350697,0.0,0.367014,50.0,16

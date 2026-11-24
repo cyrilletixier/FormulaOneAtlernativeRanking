@@ -1,17 +1,14 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,juan-manuel-fangio,Juan Manuel Fangio,mercedes,1,36,2,0,1,1246.278606,1258.413513,12.134907,1.0,0.757302,50.0,16
-1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,stirling-moss,Stirling Moss,mercedes,2,36,3,0,2,1010.930336,1035.717515,24.787179,0.933333,0.43759,50.0,16
-1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,nino-farina,Nino Farina,ferrari,3,36,4,0,3,1207.553681,1215.298847,7.745166,0.866667,0.711763,50.0,16
-1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,paul-frere,Paul Frère,ferrari,4,36,8,0,4,994.018488,1013.354529,19.336041,0.8,0.413279,50.0,16
-1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,jean-behra,Jean Behra,maserati,5,,,0,5,987.680263,1002.467905,14.787642,0.7,0.404247,50.0,16
-1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,roberto-mieres,Roberto Mieres,maserati,5,35,13,0,6,1020.059561,1032.51883,12.459269,0.7,0.450815,50.0,16
-1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,maurice-trintignant,Maurice Trintignant,ferrari,6,35,10,0,7,1107.150002,1108.286343,1.13634,0.6,0.577273,50.0,16
-1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,luigi-musso,Luigi Musso,maserati,7,34,7,0,8,990.792539,997.0254,6.232861,0.533333,0.408676,50.0,16
-1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,cesare-perdisa,Cesare Perdisa,maserati,8,33,11,0,9,1021.845784,1022.508683,0.6629,0.466667,0.453409,50.0,16
-1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,louis-rosier,Louis Rosier,maserati,9,33,12,0,10,1019.307345,1016.821207,-2.486139,0.4,0.449723,50.0,16
-1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,karl-kling,Karl Kling,mercedes,DNF,21,6,1,11,1067.944189,1058.578324,-9.365864,0.333333,0.520651,50.0,16
-1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,eugenio-castellotti,Eugenio Castellotti,lancia,DNF,16,1,1,12,1017.771707,1008.730293,-9.041413,0.266667,0.447495,50.0,16
-1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,mike-hawthorn,Mike Hawthorn,vanwall,DNF,8,9,1,13,1136.623054,1115.686815,-20.936239,0.2,0.618725,50.0,16
-1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,harry-schell,Harry Schell,ferrari,DNS,,,2,14,998.303164,980.665936,-17.637228,0.066667,0.419411,50.0,16
-1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,johnny-claes,Johnny Claes,maserati,DNS,,,2,15,955.16563,940.558071,-14.607559,0.066667,0.358818,50.0,16
-1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,piero-taruffi,Piero Taruffi,ferrari,DNS,,,2,16,1102.636438,1077.428575,-25.207863,0.066667,0.570824,50.0,16
+1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,juan-manuel-fangio,Juan Manuel Fangio,mercedes,1,36,2,0,1,1323.589328,1336.02925,12.439922,1.0,0.751202,50.0,13
+1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,stirling-moss,Stirling Moss,mercedes,2,36,3,0,2,1002.856504,1025.978814,23.12231,0.916667,0.45422,50.0,13
+1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,nino-farina,Nino Farina,ferrari,3,36,4,0,3,1256.423046,1263.286543,6.863498,0.833333,0.696063,50.0,13
+1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,paul-frere,Paul Frère,ferrari,4,36,8,0,4,1000.683933,1015.580115,14.896182,0.75,0.452076,50.0,13
+1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,jean-behra,Jean Behra,maserati,5,,,0,5,993.455254,1002.457653,9.002399,0.625,0.444952,50.0,13
+1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,roberto-mieres,Roberto Mieres,maserati,5,35,13,0,6,1045.508488,1051.934546,6.426059,0.625,0.496479,50.0,13
+1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,maurice-trintignant,Maurice Trintignant,ferrari,6,35,10,0,7,1112.057856,1108.948966,-3.10889,0.5,0.562178,50.0,13
+1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,luigi-musso,Luigi Musso,maserati,7,34,7,0,8,1003.616099,1001.700913,-1.915186,0.416667,0.45497,50.0,13
+1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,cesare-perdisa,Cesare Perdisa,maserati,8,33,11,0,9,1018.319431,1011.510484,-6.808947,0.333333,0.469512,50.0,13
+1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,louis-rosier,Louis Rosier,maserati,9,33,12,0,10,959.237437,951.162739,-8.074698,0.25,0.411494,50.0,13
+1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,harry-schell,Harry Schell,ferrari,DNS,,,2,11,988.196567,970.374255,-17.822312,0.083333,0.43978,50.0,13
+1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,johnny-claes,Johnny Claes,maserati,DNS,,,2,12,869.144837,856.96394,-12.180897,0.083333,0.326951,50.0,13
+1955,4,1955-06-05,belgium,1955 Belgian Grand Prix,45,piero-taruffi,Piero Taruffi,ferrari,DNS,,,2,13,1089.592002,1066.752562,-22.83944,0.083333,0.540122,50.0,13

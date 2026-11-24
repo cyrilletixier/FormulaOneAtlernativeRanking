@@ -1,21 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,lewis-hamilton,Lewis Hamilton,mercedes,1,58,1,0,1,1395.549959,1405.335275,9.785316,1.0,0.804294,50.0,20
-2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,nico-rosberg,Nico Rosberg,mercedes,2,58,2,0,2,1346.787068,1356.274546,9.487478,0.947368,0.757619,50.0,20
-2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,sebastian-vettel,Sebastian Vettel,ferrari,3,58,4,0,3,1365.624342,1371.546004,5.921662,0.894737,0.776304,50.0,20
-2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,felipe-massa,Felipe Massa,williams,4,58,3,0,4,1239.905922,1250.117322,10.211401,0.842105,0.637877,50.0,20
-2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,felipe-nasr,Felipe Nasr,sauber,5,58,10,0,5,1000.0,1022.778487,22.778487,0.789474,0.333904,50.0,20
-2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,daniel-ricciardo,Daniel Ricciardo,red-bull,6,57,6,0,6,1250.108767,1254.44207,4.333303,0.736842,0.650176,50.0,20
-2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,nico-hulkenberg,Nico Hülkenberg,force-india,7,57,13,0,7,1179.536675,1185.622559,6.085884,0.684211,0.562493,50.0,20
-2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,marcus-ericsson,Marcus Ericsson,sauber,8,57,15,0,8,916.220527,935.800178,19.579651,0.631579,0.239986,50.0,20
-2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,9,57,7,0,9,1000.0,1012.252171,12.252171,0.578947,0.333904,50.0,20
-2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,sergio-perez,Sergio Pérez,force-india,10,57,14,0,10,1128.48194,1129.968054,1.486114,0.526316,0.496594,50.0,20
-2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,jenson-button,Jenson Button,mclaren,11,56,16,0,11,1251.630116,1242.714491,-8.915625,0.473684,0.651997,50.0,20
-2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,40,5,1,12,1215.00121,1205.690674,-9.310536,0.421053,0.607263,50.0,20
-2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,max-verstappen,Max Verstappen,toro-rosso,DNF,32,11,1,13,1000.0,1001.725855,1.725855,0.368421,0.333904,50.0,20
-2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,pastor-maldonado,Pastor Maldonado,lotus-f1,DNF,0,9,1,14,977.958612,977.038142,-0.92047,0.289474,0.307883,50.0,20
-2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,romain-grosjean,Romain Grosjean,lotus-f1,DNF,0,8,1,15,1029.332681,1025.321555,-4.011126,0.289474,0.369696,50.0,20
-2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,roberto-merhi,Roberto Merhi,marussia,DNP,,,1,16,1000.0,992.515329,-7.484671,0.184211,0.333904,50.0,20
-2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,will-stevens,Will Stevens,marussia,DNP,,,1,17,992.229809,985.208456,-7.021353,0.184211,0.324638,50.0,20
-2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,daniil-kvyat,Daniil Kvyat,red-bull,DNS,,12,2,18,1011.419914,996.666806,-14.753108,0.052632,0.347694,50.0,20
-2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,kevin-magnussen,Kevin Magnussen,mclaren,DNS,,17,2,19,1129.160639,1106.918489,-22.242149,0.052632,0.497475,50.0,20
-2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,valtteri-bottas,Valtteri Bottas,williams,DNS,,,2,20,1235.399084,1206.410801,-28.988284,0.052632,0.632397,50.0,20
+2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,lewis-hamilton,Lewis Hamilton,mercedes,1,58,1,0,1,1580.680047,1590.584517,9.904471,1.0,0.801911,50.0,17
+2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,nico-rosberg,Nico Rosberg,mercedes,2,58,2,0,2,1509.189674,1518.242564,9.052889,0.9375,0.756442,50.0,17
+2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,sebastian-vettel,Sebastian Vettel,ferrari,3,58,4,0,3,1644.368821,1646.217716,1.848894,0.875,0.838022,50.0,17
+2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,felipe-massa,Felipe Massa,williams,4,58,3,0,4,1315.770219,1325.878958,10.108739,0.8125,0.610325,50.0,17
+2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,felipe-nasr,Felipe Nasr,sauber,5,58,10,0,5,1000.0,1020.4805,20.4805,0.75,0.34039,50.0,17
+2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,daniel-ricciardo,Daniel Ricciardo,red-bull,6,57,6,0,6,1303.962507,1308.311021,4.348513,0.6875,0.60053,50.0,17
+2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,nico-hulkenberg,Nico Hülkenberg,force-india,7,57,13,0,7,1218.404134,1223.269347,4.865213,0.625,0.527696,50.0,17
+2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,marcus-ericsson,Marcus Ericsson,sauber,8,57,15,0,8,880.688856,896.385165,15.69631,0.5625,0.248574,50.0,17
+2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,9,57,7,0,9,1000.0,1007.9805,7.9805,0.5,0.34039,50.0,17
+2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,sergio-perez,Sergio Pérez,force-india,10,57,14,0,10,1136.724246,1135.768348,-0.955898,0.4375,0.456618,50.0,17
+2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,jenson-button,Jenson Button,mclaren,11,56,16,0,11,1361.046569,1347.440972,-13.605598,0.375,0.647112,50.0,17
+2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,pastor-maldonado,Pastor Maldonado,lotus-f1,DNF,0,9,1,12,966.184066,966.150911,-0.033155,0.3125,0.313163,50.0,17
+2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,roberto-merhi,Roberto Merhi,marussia,DNP,,,1,13,1000.0,993.918,-6.082,0.21875,0.34039,50.0,17
+2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,will-stevens,Will Stevens,marussia,DNP,,,1,14,985.410362,979.920753,-5.489608,0.21875,0.328542,50.0,17
+2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,daniil-kvyat,Daniil Kvyat,red-bull,DNS,,12,2,15,1027.162238,1012.14653,-15.015708,0.0625,0.362814,50.0,17
+2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,kevin-magnussen,Kevin Magnussen,mclaren,DNS,,17,2,16,1113.793266,1095.083526,-18.70974,0.0625,0.436695,50.0,17
+2015,1,2015-03-15,australia,2015 Formula 1 Rolex Australian Grand Prix,917,valtteri-bottas,Valtteri Bottas,williams,DNS,,,2,17,1244.726343,1220.332019,-24.394324,0.0625,0.550386,50.0,17

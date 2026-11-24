@@ -1,21 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,george-russell,George Russell,mercedes,1,50,1,0,1,1293.340281,1309.996299,16.656018,1.0,0.66688,50.0,20
-2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,lewis-hamilton,Lewis Hamilton,mercedes,2,50,10,0,2,1313.876434,1326.78585,12.909416,0.947368,0.68918,50.0,20
-2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,3,50,2,0,3,1309.236752,1319.763628,10.526876,0.894737,0.684199,50.0,20
-2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,charles-leclerc,Charles Leclerc,ferrari,4,50,4,0,4,1380.18428,1384.473546,4.289267,0.842105,0.75632,50.0,20
-2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,max-verstappen,Max Verstappen,red-bull,5,50,5,0,5,1547.164714,1542.29646,-4.868254,0.789474,0.886839,50.0,20
-2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,lando-norris,Lando Norris,mclaren,6,50,6,0,6,1400.157831,1398.252802,-1.905029,0.736842,0.774943,50.0,20
-2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,oscar-piastri,Oscar Piastri,mclaren,7,50,8,0,7,1329.771732,1328.68337,-1.088362,0.684211,0.705978,50.0,20
-2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,nico-hulkenberg,Nico Hülkenberg,haas,8,50,9,0,8,1066.914576,1078.730026,11.815451,0.631579,0.39527,50.0,20
-2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,yuki-tsunoda,Yuki Tsunoda,rb,9,50,7,0,9,1012.725216,1025.12985,12.404634,0.578947,0.330855,50.0,20
-2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,sergio-perez,Sergio Pérez,red-bull,10,50,15,0,10,1229.108989,1225.756197,-3.352792,0.526316,0.593372,50.0,20
-2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,fernando-alonso,Fernando Alonso,aston-martin,11,50,16,0,11,1161.372039,1159.483361,-1.888678,0.473684,0.511458,50.0,20
-2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,kevin-magnussen,Kevin Magnussen,haas,12,50,12,0,12,995.326955,1000.833428,5.506473,0.421053,0.310923,50.0,20
-2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,guanyu-zhou,Guanyu Zhou,kick-sauber,13,50,13,0,13,920.74561,927.598477,6.852867,0.368421,0.231364,50.0,20
-2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,franco-colapinto,Franco Colapinto,williams,14,50,PL,0,14,1029.882592,1028.126618,-1.755974,0.315789,0.350909,50.0,20
-2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,lance-stroll,Lance Stroll,aston-martin,15,50,18,0,15,1047.789659,1042.33757,-5.452089,0.263158,0.3722,50.0,20
-2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,liam-lawson,Liam Lawson,rb,16,50,14,0,16,1035.569115,1028.213772,-7.355343,0.210526,0.357633,50.0,20
-2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,esteban-ocon,Esteban Ocon,alpine,17,49,11,0,17,1066.742208,1054.883909,-11.858299,0.157895,0.395061,50.0,20
-2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,valtteri-bottas,Valtteri Bottas,kick-sauber,18,49,19,0,18,947.535042,939.862423,-7.67262,0.105263,0.258716,50.0,20
-2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,alexander-albon,Alexander Albon,williams,DNF,25,17,1,19,997.481086,984.444318,-13.036768,0.052632,0.313367,50.0,20
-2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,pierre-gasly,Pierre Gasly,alpine,DNF,15,3,1,20,1082.719348,1061.992556,-20.726792,0.0,0.414536,50.0,20
+2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,george-russell,George Russell,mercedes,1,50,1,0,1,1438.118865,1455.6704,17.551535,1.0,0.648969,50.0,18
+2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,lewis-hamilton,Lewis Hamilton,mercedes,2,50,10,0,2,1518.288312,1529.958942,11.67063,0.941176,0.707764,50.0,18
+2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,3,50,2,0,3,1453.80153,1464.879047,11.077517,0.882353,0.660803,50.0,18
+2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,charles-leclerc,Charles Leclerc,ferrari,4,50,4,0,4,1577.599599,1581.365907,3.766307,0.823529,0.748203,50.0,18
+2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,max-verstappen,Max Verstappen,red-bull,5,50,5,0,5,1831.183885,1825.158034,-6.025851,0.764706,0.885223,50.0,18
+2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,lando-norris,Lando Norris,mclaren,6,50,6,0,6,1540.184634,1539.327657,-0.856977,0.705882,0.723022,50.0,18
+2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,oscar-piastri,Oscar Piastri,mclaren,7,50,8,0,7,1404.620091,1405.811872,1.191781,0.647059,0.623223,50.0,18
+2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,nico-hulkenberg,Nico Hülkenberg,haas,8,50,9,0,8,1073.456128,1085.103872,11.647744,0.588235,0.35528,50.0,18
+2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,yuki-tsunoda,Yuki Tsunoda,rb,9,50,7,0,9,1017.705477,1028.558205,10.852728,0.529412,0.312357,50.0,18
+2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,sergio-perez,Sergio Pérez,red-bull,10,50,15,0,10,1388.889843,1381.872596,-7.017248,0.470588,0.610933,50.0,18
+2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,fernando-alonso,Fernando Alonso,aston-martin,11,50,16,0,11,1292.988719,1286.88108,-6.107638,0.411765,0.533917,50.0,18
+2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,kevin-magnussen,Kevin Magnussen,haas,12,50,12,0,12,954.812546,959.138697,4.326151,0.352941,0.266418,50.0,18
+2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,guanyu-zhou,Guanyu Zhou,kick-sauber,13,50,13,0,13,901.604882,904.806974,3.202092,0.294118,0.230076,50.0,18
+2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,franco-colapinto,Franco Colapinto,williams,14,50,PL,0,14,1030.339937,1026.008489,-4.331449,0.235294,0.321923,50.0,18
+2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,lance-stroll,Lance Stroll,aston-martin,15,50,18,0,15,1086.143936,1076.703371,-9.440565,0.176471,0.365282,50.0,18
+2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,liam-lawson,Liam Lawson,rb,16,50,14,0,16,1024.09098,1014.114381,-9.976599,0.117647,0.317179,50.0,18
+2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,esteban-ocon,Esteban Ocon,alpine,17,49,11,0,17,1126.135983,1109.214523,-16.92146,0.058824,0.397253,50.0,18
+2024,22,2024-11-24,las-vegas,Formula 1 Heineken Silver Las Vegas Grand Prix 2024,1123,valtteri-bottas,Valtteri Bottas,kick-sauber,18,49,19,0,18,990.56721,975.958512,-14.608698,0.0,0.292174,50.0,18

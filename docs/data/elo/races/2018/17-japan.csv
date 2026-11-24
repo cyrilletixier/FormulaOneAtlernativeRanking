@@ -1,21 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,lewis-hamilton,Lewis Hamilton,mercedes,1,53,1,0,1,1527.619833,1532.882717,5.262885,1.0,0.894742,50.0,20
-2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,valtteri-bottas,Valtteri Bottas,mercedes,2,53,2,0,2,1370.54632,1378.938856,8.392536,0.947368,0.779518,50.0,20
-2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,max-verstappen,Max Verstappen,red-bull,3,53,3,0,3,1259.884691,1271.243802,11.359111,0.894737,0.667555,50.0,20
-2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,daniel-ricciardo,Daniel Ricciardo,red-bull,4,53,15,0,4,1198.463685,1210.777024,12.313339,0.842105,0.595838,50.0,20
-2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,kimi-raikkonen,Kimi Räikkönen,ferrari,5,53,4,0,5,1315.713539,1318.832622,3.119083,0.789474,0.727092,50.0,20
-2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,sebastian-vettel,Sebastian Vettel,ferrari,6,53,8,0,6,1415.324003,1411.284413,-4.03959,0.736842,0.817634,50.0,20
-2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,sergio-perez,Sergio Pérez,force-india,7,53,9,0,7,1158.799847,1165.667348,6.867501,0.684211,0.546861,50.0,20
-2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,romain-grosjean,Romain Grosjean,haas,8,53,5,0,8,1040.342575,1052.12534,11.782765,0.631579,0.395924,50.0,20
-2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,esteban-ocon,Esteban Ocon,force-india,9,53,11,0,9,1118.549126,1122.70605,4.156923,0.578947,0.495809,50.0,20
-2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,carlos-sainz-jr,Carlos Sainz Jr.,renault,10,52,13,0,10,1097.888928,1100.737632,2.848705,0.526316,0.469342,50.0,20
-2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,pierre-gasly,Pierre Gasly,toro-rosso,11,52,7,0,11,1010.910524,1016.633962,5.723438,0.473684,0.359215,50.0,20
-2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,marcus-ericsson,Marcus Ericsson,sauber,12,52,20,0,12,990.474606,994.811048,4.336443,0.421053,0.334324,50.0,20
-2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,brendon-hartley,Brendon Hartley,toro-rosso,13,52,6,0,13,922.222605,927.83085,5.608245,0.368421,0.256256,50.0,20
-2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,fernando-alonso,Fernando Alonso,mclaren,14,52,18,0,14,1052.797148,1048.002327,-4.794821,0.315789,0.411686,50.0,20
-2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,stoffel-vandoorne,Stoffel Vandoorne,mclaren,15,52,19,0,15,1006.770732,1002.22221,-4.548523,0.263158,0.354128,50.0,20
-2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,sergey-sirotkin,Sergey Sirotkin,williams,16,52,17,0,16,940.41991,937.13691,-3.282999,0.210526,0.276186,50.0,20
-2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,lance-stroll,Lance Stroll,williams,17,52,14,0,17,998.364811,989.066203,-9.298608,0.157895,0.343867,50.0,20
-2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,charles-leclerc,Charles Leclerc,sauber,DNF,38,10,1,18,1016.857623,1003.792803,-13.06482,0.105263,0.36656,50.0,20
-2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,nico-hulkenberg,Nico Hülkenberg,renault,DNF,37,16,1,19,1080.051002,1060.359058,-19.691944,0.052632,0.44647,50.0,20
-2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,kevin-magnussen,Kevin Magnussen,haas,DNF,8,12,1,20,1091.379916,1068.330247,-23.049669,0.0,0.460993,50.0,20
+2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,lewis-hamilton,Lewis Hamilton,mercedes,1,53,1,0,1,1802.030186,1807.586968,5.556783,1.0,0.888864,50.0,18
+2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,valtteri-bottas,Valtteri Bottas,mercedes,2,53,2,0,2,1544.418643,1553.555649,9.137006,0.941176,0.758436,50.0,18
+2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,max-verstappen,Max Verstappen,red-bull,3,53,3,0,3,1418.373716,1428.72537,10.351654,0.882353,0.67532,50.0,18
+2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,daniel-ricciardo,Daniel Ricciardo,red-bull,4,53,15,0,4,1521.007775,1524.98987,3.982095,0.823529,0.743888,50.0,18
+2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,kimi-raikkonen,Kimi Räikkönen,ferrari,5,53,4,0,5,1481.244361,1483.568555,2.324193,0.764706,0.718222,50.0,18
+2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,sebastian-vettel,Sebastian Vettel,ferrari,6,53,8,0,6,1629.788599,1624.693125,-5.095474,0.705882,0.807792,50.0,18
+2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,sergio-perez,Sergio Pérez,force-india,7,53,9,0,7,1205.087572,1211.79877,6.711198,0.647059,0.512835,50.0,18
+2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,romain-grosjean,Romain Grosjean,haas,8,53,5,0,8,1027.671341,1038.617019,10.945678,0.588235,0.369322,50.0,18
+2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,esteban-ocon,Esteban Ocon,force-india,9,53,11,0,9,1111.980896,1116.586721,4.605824,0.529412,0.437295,50.0,18
+2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,carlos-sainz-jr,Carlos Sainz Jr.,renault,10,52,13,0,10,1109.598956,1111.360443,1.761487,0.470588,0.435358,50.0,18
+2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,pierre-gasly,Pierre Gasly,toro-rosso,11,52,7,0,11,992.245303,995.762593,3.51729,0.411765,0.341419,50.0,18
+2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,marcus-ericsson,Marcus Ericsson,sauber,12,52,20,0,12,893.399397,897.678493,4.279096,0.352941,0.267359,50.0,18
+2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,brendon-hartley,Brendon Hartley,toro-rosso,13,52,6,0,13,912.515322,913.163814,0.648492,0.294118,0.281148,50.0,18
+2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,fernando-alonso,Fernando Alonso,mclaren,14,52,18,0,14,1130.874604,1120.00596,-10.868644,0.235294,0.452667,50.0,18
+2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,stoffel-vandoorne,Stoffel Vandoorne,mclaren,15,52,19,0,15,962.13256,955.046716,-7.085844,0.176471,0.318187,50.0,18
+2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,sergey-sirotkin,Sergey Sirotkin,williams,16,52,17,0,16,903.786428,895.927999,-7.858429,0.117647,0.274816,50.0,18
+2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,lance-stroll,Lance Stroll,williams,17,52,14,0,17,948.974615,936.505637,-12.468978,0.058824,0.308203,50.0,18
+2018,17,2018-10-07,japan,Formula 1 2018 Honda Japanese Grand Prix,993,kevin-magnussen,Kevin Magnussen,haas,DNF,8,12,1,18,1076.944195,1056.500767,-20.443428,0.0,0.408869,50.0,18

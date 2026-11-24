@@ -1,33 +1,25 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,nigel-mansell,Nigel Mansell,williams,1,45,1,0,1,1315.905442,1326.164805,10.259363,1.0,0.794813,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,ayrton-senna,Ayrton Senna,mclaren,2,45,3,0,2,1276.973968,1287.526056,10.552088,0.967742,0.7567,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,michael-schumacher,Michael Schumacher,benetton,3,45,6,0,3,1156.926857,1172.87369,15.946834,0.935484,0.616547,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,martin-brundle,Martin Brundle,benetton,4,45,9,0,4,1141.068115,1156.427956,15.359841,0.903226,0.596029,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,jean-alesi,Jean Alesi,ferrari,5,45,5,0,5,1152.614526,1165.612829,12.998303,0.870968,0.611002,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,erik-comas,Érik Comas,ligier,6,45,7,0,6,1144.051457,1155.991232,11.939776,0.83871,0.599914,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,thierry-boutsen,Thierry Boutsen,ligier,7,45,8,0,7,1135.575445,1146.45564,10.880195,0.806452,0.588848,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,riccardo-patrese,Riccardo Patrese,williams,8,44,2,0,8,1315.900851,1314.870104,-1.030746,0.774194,0.794808,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,michele-alboreto,Michele Alboreto,footwork,9,44,17,0,9,1111.175114,1120.443622,9.268508,0.741935,0.556565,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,jj-lehto,JJ Lehto,dallara,10,44,21,0,10,1121.867475,1128.812305,6.94483,0.709677,0.570781,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,pierluigi-martini,Pierluigi Martini,dallara,11,44,18,0,11,1125.34369,1130.445631,5.101941,0.677419,0.575381,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,gianni-morbidelli,Gianni Morbidelli,minardi,12,44,26,0,12,1084.664274,1090.872849,6.208575,0.645161,0.52099,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,paul-belmondo,Paul Belmondo,march,13,44,22,0,13,940.331775,954.393938,14.062163,0.612903,0.33166,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,bertrand-gachot,Bertrand Gachot,venturi,14,44,25,0,14,994.106965,1003.150871,9.043906,0.580645,0.399767,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,mauricio-gugelmin,Maurício Gugelmin,jordan,15,43,23,0,15,1057.855779,1061.035403,3.179624,0.548387,0.484795,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,karl-wendlinger,Karl Wendlinger,march,16,42,10,0,16,1021.325656,1025.346441,4.020786,0.516129,0.435713,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,gabriele-tarquini,Gabriele Tarquini,fondmetal,DNF,33,19,1,17,927.640379,936.017259,8.37688,0.483871,0.316333,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,andrea-de-cesaris,Andrea de Cesaris,tyrrell,DNF,25,20,1,18,1101.969163,1097.337004,-4.632159,0.451613,0.544256,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,johnny-herbert,Johnny Herbert,lotus,DNF,23,11,1,19,1060.575722,1057.120088,-3.455634,0.419355,0.488468,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,ivan-capelli,Ivan Capelli,ferrari,DNF,21,12,1,20,1068.789313,1062.359594,-6.429719,0.370968,0.499562,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,mika-hakkinen,Mika Häkkinen,lotus,DNF,21,13,1,21,1100.014471,1091.481085,-8.533386,0.370968,0.541635,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,gerhard-berger,Gerhard Berger,mclaren,DNF,16,4,1,22,1225.506143,1206.61403,-18.892113,0.322581,0.700423,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,olivier-grouillard,Olivier Grouillard,tyrrell,DNF,8,14,1,23,1010.771644,1003.396868,-7.374777,0.274194,0.421689,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,ukyo-katayama,Ukyo Katayama,venturi,DNF,8,16,1,24,1008.309728,1001.097799,-7.211929,0.274194,0.418432,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,aguri-suzuki,Aguri Suzuki,footwork,DNF,1,15,1,25,1003.440613,993.324059,-10.116553,0.209677,0.412008,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,alex-zanardi,Alex Zanardi,minardi,DNF,1,24,1,26,1012.241798,1001.543832,-10.697966,0.209677,0.423637,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,roberto-moreno,Roberto Moreno,andrea-moda,DNPQ,,,1,27,994.36915,982.42819,-11.940961,0.16129,0.40011,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,perry-mccarthy,Perry McCarthy,andrea-moda,EX,,,1,28,952.308452,941.439497,-10.868956,0.129032,0.346411,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,andrea-chiesa,Andrea Chiesa,fondmetal,DNQ,,,2,29,905.364221,893.270675,-12.093545,0.048387,0.290258,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,damon-hill,Damon Hill,brabham,DNQ,,,2,30,932.001138,918.342355,-13.658783,0.048387,0.321563,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,eric-van-de-poele,Eric van de Poele,brabham,DNQ,,,2,31,801.736635,794.900378,-6.836257,0.048387,0.185112,50.0,32
-1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,stefano-modena,Stefano Modena,jordan,DNQ,,,2,32,1036.326179,1015.956052,-20.370127,0.048387,0.45579,50.0,32
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,nigel-mansell,Nigel Mansell,williams,1,45,1,0,1,1445.011061,1455.361529,10.350468,1.0,0.792991,50.0,24
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,ayrton-senna,Ayrton Senna,mclaren,2,45,3,0,2,1524.567603,1530.459743,5.89214,0.956522,0.838679,50.0,24
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,michael-schumacher,Michael Schumacher,benetton,3,45,6,0,3,1164.052417,1180.821872,16.769455,0.913043,0.577654,50.0,24
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,martin-brundle,Martin Brundle,benetton,4,45,9,0,4,1123.545694,1139.94631,16.400616,0.869565,0.541553,50.0,24
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,jean-alesi,Jean Alesi,ferrari,5,45,5,0,5,1223.184343,1233.048825,9.864482,0.826087,0.628797,50.0,24
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,erik-comas,Érik Comas,ligier,6,45,7,0,6,1086.510376,1100.236394,13.726018,0.782609,0.508088,50.0,24
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,thierry-boutsen,Thierry Boutsen,ligier,7,45,8,0,7,1210.362543,1216.423997,6.061454,0.73913,0.617901,50.0,24
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,riccardo-patrese,Riccardo Patrese,williams,8,44,2,0,8,1432.916821,1428.429167,-4.487654,0.695652,0.785405,50.0,24
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,michele-alboreto,Michele Alboreto,footwork,9,44,17,0,9,1093.693164,1100.571847,6.878683,0.652174,0.5146,50.0,24
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,jj-lehto,JJ Lehto,dallara,10,44,21,0,10,1046.167878,1053.030277,6.862399,0.608696,0.471448,50.0,24
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,pierluigi-martini,Pierluigi Martini,dallara,11,44,18,0,11,1112.278098,1113.968691,1.690593,0.565217,0.531406,50.0,24
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,gianni-morbidelli,Gianni Morbidelli,minardi,12,44,26,0,12,1069.521198,1070.974982,1.453784,0.521739,0.492663,50.0,24
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,paul-belmondo,Paul Belmondo,march,13,44,22,0,13,916.478484,922.576817,6.098333,0.478261,0.356294,50.0,24
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,bertrand-gachot,Bertrand Gachot,venturi,14,44,25,0,14,937.87319,940.876219,3.003029,0.434783,0.374722,50.0,24
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,mauricio-gugelmin,Maurício Gugelmin,jordan,15,43,23,0,15,1092.039753,1085.949873,-6.08988,0.391304,0.513102,50.0,24
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,karl-wendlinger,Karl Wendlinger,march,16,42,10,0,16,1026.58799,1021.294654,-5.293336,0.347826,0.453693,50.0,24
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,ukyo-katayama,Ukyo Katayama,venturi,DNF,8,16,1,17,975.624642,970.446248,-5.178395,0.304348,0.407916,50.0,24
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,aguri-suzuki,Aguri Suzuki,footwork,DNF,1,15,1,18,964.772047,957.900729,-6.871319,0.26087,0.398296,50.0,24
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,roberto-moreno,Roberto Moreno,andrea-moda,DNPQ,,,1,19,966.236903,957.126916,-9.109988,0.217391,0.399591,50.0,24
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,perry-mccarthy,Perry McCarthy,andrea-moda,EX,,,1,20,954.301994,943.544071,-10.757923,0.173913,0.389071,50.0,24
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,andrea-chiesa,Andrea Chiesa,fondmetal,DNQ,,,2,21,893.662217,880.072571,-13.589646,0.065217,0.33701,50.0,24
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,damon-hill,Damon Hill,brabham,DNQ,,,2,22,914.787994,900.306273,-14.481721,0.065217,0.354852,50.0,24
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,eric-van-de-poele,Eric van de Poele,brabham,DNQ,,,2,23,764.244598,755.658475,-8.586122,0.065217,0.23694,50.0,24
+1992,10,1992-07-26,germany,Grosser Mobil 1 Preis von Deutschland 1992,526,stefano-modena,Stefano Modena,jordan,DNQ,,,2,24,1052.641318,1032.035846,-20.605472,0.065217,0.477327,50.0,24

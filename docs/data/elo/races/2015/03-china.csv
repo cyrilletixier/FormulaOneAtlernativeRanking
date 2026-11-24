@@ -1,21 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,lewis-hamilton,Lewis Hamilton,mercedes,1,56,1,0,1,1412.630548,1422.214435,9.583887,1.0,0.808322,50.0,20
-2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,nico-rosberg,Nico Rosberg,mercedes,2,56,2,0,2,1363.2921,1372.566318,9.274218,0.947368,0.761884,50.0,20
-2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,sebastian-vettel,Sebastian Vettel,ferrari,3,56,3,0,3,1383.06502,1388.743641,5.678621,0.894737,0.781164,50.0,20
-2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,kimi-raikkonen,Kimi Räikkönen,ferrari,4,56,6,0,4,1218.730324,1230.936255,12.20593,0.842105,0.597987,50.0,20
-2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,felipe-massa,Felipe Massa,williams,5,56,4,0,5,1255.163613,1262.514318,7.350705,0.789474,0.64246,50.0,20
-2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,valtteri-bottas,Valtteri Bottas,williams,6,56,5,0,6,1216.773819,1223.838155,7.064336,0.736842,0.595555,50.0,20
-2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,romain-grosjean,Romain Grosjean,lotus-f1,7,56,8,0,7,1031.333332,1047.515562,16.18223,0.684211,0.360566,50.0,20
-2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,felipe-nasr,Felipe Nasr,sauber,8,56,9,0,8,1026.312166,1040.168085,13.855919,0.631579,0.354461,50.0,20
-2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,daniel-ricciardo,Daniel Ricciardo,red-bull,9,56,7,0,9,1248.702516,1245.915154,-2.787362,0.578947,0.634695,50.0,20
-2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,marcus-ericsson,Marcus Ericsson,sauber,10,55,10,0,10,925.841227,940.099847,14.25862,0.526316,0.241143,50.0,20
-2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,sergio-perez,Sergio Pérez,force-india,11,55,15,0,11,1124.141648,1123.945002,-0.196646,0.473684,0.477617,50.0,20
-2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,fernando-alonso,Fernando Alonso,mclaren,12,55,18,0,12,1284.353247,1271.567309,-12.785938,0.421053,0.676771,50.0,20
-2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,13,55,14,0,13,1026.942689,1027.602472,0.659782,0.368421,0.355225,50.0,20
-2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,jenson-button,Jenson Button,mclaren,14,55,17,0,14,1219.260506,1205.117738,-14.142768,0.315789,0.598645,50.0,20
-2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,will-stevens,Will Stevens,marussia,15,54,19,0,15,969.901044,968.633324,-1.26772,0.263158,0.288512,50.0,20
-2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,roberto-merhi,Roberto Merhi,marussia,16,54,20,0,16,989.944543,984.904098,-5.040445,0.210526,0.311335,50.0,20
-2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,max-verstappen,Max Verstappen,toro-rosso,17,52,13,0,17,1019.670316,1010.243219,-9.427097,0.157895,0.346437,50.0,20
-2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,pastor-maldonado,Pastor Maldonado,lotus-f1,DNF,49,11,1,18,972.722547,963.401698,-9.320849,0.105263,0.29168,50.0,20
-2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,daniil-kvyat,Daniil Kvyat,red-bull,DNF,15,12,1,19,1009.644136,995.553544,-14.090592,0.052632,0.334443,50.0,20
-2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,nico-hulkenberg,Nico Hülkenberg,force-india,DNF,9,16,1,20,1173.610029,1146.555196,-27.054832,0.0,0.541097,50.0,20
+2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,lewis-hamilton,Lewis Hamilton,mercedes,1,56,1,0,1,1597.041323,1607.806282,10.76496,1.0,0.784701,50.0,17
+2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,nico-rosberg,Nico Rosberg,mercedes,2,56,2,0,2,1523.832376,1533.903468,10.071092,0.9375,0.736078,50.0,17
+2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,sebastian-vettel,Sebastian Vettel,ferrari,3,56,3,0,3,1654.245613,1657.042332,2.796719,0.875,0.819066,50.0,17
+2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,kimi-raikkonen,Kimi Räikkönen,ferrari,4,56,6,0,4,1326.595276,1338.027486,11.432211,0.8125,0.583856,50.0,17
+2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,felipe-massa,Felipe Massa,williams,5,56,4,0,5,1329.278423,1337.474404,8.195982,0.75,0.58608,50.0,17
+2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,valtteri-bottas,Valtteri Bottas,williams,6,56,5,0,6,1231.332429,1240.533435,9.201006,0.6875,0.50348,50.0,17
+2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,romain-grosjean,Romain Grosjean,lotus-f1,7,56,8,0,7,1094.828956,1106.682834,11.853877,0.625,0.387922,50.0,17
+2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,felipe-nasr,Felipe Nasr,sauber,8,56,9,0,8,1018.25565,1030.083391,11.827741,0.5625,0.325945,50.0,17
+2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,daniel-ricciardo,Daniel Ricciardo,red-bull,9,56,7,0,9,1299.936729,1296.856388,-3.080341,0.5,0.561607,50.0,17
+2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,marcus-ericsson,Marcus Ericsson,sauber,10,55,10,0,10,886.552094,896.958256,10.406161,0.4375,0.229377,50.0,17
+2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,sergio-perez,Sergio Pérez,force-india,11,55,15,0,11,1125.464515,1123.539461,-1.925054,0.375,0.413501,50.0,17
+2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,fernando-alonso,Fernando Alonso,mclaren,12,55,18,0,12,1522.327451,1501.201108,-21.126344,0.3125,0.735027,50.0,17
+2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,13,55,14,0,13,1018.774844,1014.957165,-3.817679,0.25,0.326354,50.0,17
+2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,jenson-button,Jenson Button,mclaren,14,55,17,0,14,1347.440972,1326.763053,-20.677918,0.1875,0.601058,50.0,17
+2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,will-stevens,Will Stevens,marussia,15,54,19,0,15,963.736792,955.778439,-7.958353,0.125,0.284167,50.0,17
+2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,roberto-merhi,Roberto Merhi,marussia,16,54,20,0,16,983.415439,971.591336,-11.824103,0.0625,0.298982,50.0,17
+2015,3,2015-04-12,china,2015 Formula 1 Chinese Grand Prix,919,max-verstappen,Max Verstappen,toro-rosso,17,52,13,0,17,1014.248226,998.108269,-16.139957,0.0,0.322799,50.0,17

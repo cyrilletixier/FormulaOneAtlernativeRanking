@@ -1,23 +1,17 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,mika-hakkinen,Mika Häkkinen,mclaren,1,77,3,0,1,1312.094029,1322.719414,10.625385,1.0,0.787492,50.0,22
-2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,michael-schumacher,Michael Schumacher,ferrari,2,77,1,0,2,1231.582656,1244.223982,12.641326,0.952381,0.699554,50.0,22
-2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,david-coulthard,David Coulthard,mclaren,3,77,2,0,3,1251.503156,1260.598171,9.095015,0.904762,0.722862,50.0,22
-2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,rubens-barrichello,Rubens Barrichello,ferrari,4,77,5,0,4,1218.549314,1227.216392,8.667077,0.857143,0.683801,50.0,22
-2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,ralf-schumacher,Ralf Schumacher,williams,5,77,4,0,5,1151.605879,1162.204575,10.598695,0.809524,0.59755,50.0,22
-2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,6,77,6,0,6,1103.599272,1115.104804,11.505532,0.761905,0.531794,50.0,22
-2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,jarno-trulli,Jarno Trulli,jordan,7,76,12,0,7,1042.212347,1055.61522,13.402873,0.714286,0.446228,50.0,22
-2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,eddie-irvine,Eddie Irvine,jaguar,8,76,10,0,8,1187.567322,1188.655828,1.088506,0.666667,0.644897,50.0,22
-2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,jenson-button,Jenson Button,williams,9,76,8,0,9,1066.888552,1073.811351,6.922799,0.619048,0.480592,50.0,22
-2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,mika-salo,Mika Salo,sauber,10,76,9,0,10,1080.770513,1084.342939,3.572425,0.571429,0.49998,50.0,22
-2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,alexander-wurz,Alexander Wurz,benetton,11,76,11,0,11,1044.655729,1048.365255,3.709526,0.52381,0.449619,50.0,22
-2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,jacques-villeneuve,Jacques Villeneuve,bar,12,75,16,0,12,1095.306199,1093.102847,-2.203351,0.47619,0.520257,50.0,22
-2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,jos-verstappen,Jos Verstappen,arrows,13,75,20,0,13,968.63531,972.714383,4.079073,0.428571,0.34699,50.0,22
-2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,ricardo-zonta,Ricardo Zonta,bar,14,75,18,0,14,1004.488053,1003.810869,-0.677183,0.380952,0.394496,50.0,22
-2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,marc-gene,Marc Gené,minardi,15,74,21,0,15,989.855205,987.778558,-2.076647,0.333333,0.374866,50.0,22
-2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,pedro-de-la-rosa,Pedro de la Rosa,arrows,16,73,15,0,16,966.551542,963.622507,-2.929035,0.285714,0.344295,50.0,22
-2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,gaston-mazzacane,Gastón Mazzacane,minardi,DNF,68,22,1,17,1010.12996,1001.927703,-8.202257,0.238095,0.40214,50.0,22
-2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,johnny-herbert,Johnny Herbert,jaguar,DNF,67,17,1,18,1016.863355,1005.821545,-11.041811,0.190476,0.411312,50.0,22
-2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,pedro-diniz,Pedro Diniz,sauber,DNF,62,13,1,19,987.29167,975.86156,-11.430109,0.142857,0.371459,50.0,22
-2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,31,7,1,20,1116.590837,1093.863248,-22.727589,0.095238,0.54979,50.0,22
-2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,nick-heidfeld,Nick Heidfeld,prost,DNF,22,19,1,21,972.544078,957.321693,-15.222385,0.047619,0.352067,50.0,22
-2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,jean-alesi,Jean Alesi,prost,DNF,11,14,1,22,999.638275,980.240409,-19.397866,0.0,0.387957,50.0,22
+2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,mika-hakkinen,Mika Häkkinen,mclaren,1,77,3,0,1,1488.38291,1499.378301,10.995391,1.0,0.780092,50.0,16
+2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,michael-schumacher,Michael Schumacher,ferrari,2,77,1,0,2,1420.628421,1430.706657,10.078236,0.933333,0.731769,50.0,16
+2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,david-coulthard,David Coulthard,mclaren,3,77,2,0,3,1422.817132,1429.48011,6.662978,0.866667,0.733407,50.0,16
+2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,rubens-barrichello,Rubens Barrichello,ferrari,4,77,5,0,4,1283.649244,1292.628573,8.97933,0.8,0.620413,50.0,16
+2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,ralf-schumacher,Ralf Schumacher,williams,5,77,4,0,5,1186.340326,1196.321533,9.981206,0.733333,0.533709,50.0,16
+2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,6,77,6,0,6,1281.719012,1284.115388,2.396377,0.666667,0.618739,50.0,16
+2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,jarno-trulli,Jarno Trulli,jordan,7,76,12,0,7,1023.255544,1033.950001,10.694457,0.6,0.386111,50.0,16
+2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,eddie-irvine,Eddie Irvine,jaguar,8,76,10,0,8,1237.07124,1234.766746,-2.304494,0.533333,0.579423,50.0,16
+2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,jenson-button,Jenson Button,williams,9,76,8,0,9,1063.115819,1065.368936,2.253118,0.466667,0.421604,50.0,16
+2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,mika-salo,Mika Salo,sauber,10,76,9,0,10,1100.316717,1097.553561,-2.763156,0.4,0.455263,50.0,16
+2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,alexander-wurz,Alexander Wurz,benetton,11,76,11,0,11,1015.676034,1013.370115,-2.30592,0.333333,0.379452,50.0,16
+2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,jacques-villeneuve,Jacques Villeneuve,bar,12,75,16,0,12,1174.314685,1161.509526,-12.805159,0.266667,0.52277,50.0,16
+2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,jos-verstappen,Jos Verstappen,arrows,13,75,20,0,13,946.869705,940.832211,-6.037494,0.2,0.32075,50.0,16
+2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,ricardo-zonta,Ricardo Zonta,bar,14,75,18,0,14,943.34253,934.117245,-9.225285,0.133333,0.317839,50.0,16
+2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,marc-gene,Marc Gené,minardi,15,74,21,0,15,917.525825,906.015632,-11.510193,0.066667,0.296871,50.0,16
+2000,12,2000-08-13,hungary,Marlboro Magyar Nagydíj 2000,658,pedro-de-la-rosa,Pedro de la Rosa,arrows,16,73,15,0,16,923.648047,908.558654,-15.089393,0.0,0.301788,50.0,16

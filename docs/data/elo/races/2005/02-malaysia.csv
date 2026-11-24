@@ -1,21 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,fernando-alonso,Fernando Alonso,renault,1,56,1,0,1,1182.689542,1201.993877,19.304335,1.0,0.613913,50.0,20
-2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,jarno-trulli,Jarno Trulli,toyota,2,56,2,0,2,1124.361945,1144.936967,20.575022,0.947368,0.535868,50.0,20
-2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,nick-heidfeld,Nick Heidfeld,williams,3,56,10,0,3,975.659528,1003.614562,27.955034,0.894737,0.335636,50.0,20
-2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,juan-pablo-montoya,Juan Pablo Montoya,mclaren,4,56,11,0,4,1221.028696,1230.002411,8.973715,0.842105,0.662631,50.0,20
-2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,ralf-schumacher,Ralf Schumacher,toyota,5,56,5,0,5,1122.432527,1135.244538,12.812011,0.789474,0.533233,50.0,20
-2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,david-coulthard,David Coulthard,red-bull,6,56,8,0,6,1147.757581,1156.219756,8.462175,0.736842,0.567599,50.0,20
-2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,michael-schumacher,Michael Schumacher,ferrari,7,56,13,0,7,1402.703922,1394.520475,-8.183447,0.684211,0.847879,50.0,20
-2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,christian-klien,Christian Klien,red-bull,8,56,7,0,8,1004.601947,1017.530959,12.929012,0.631579,0.372999,50.0,20
-2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,kimi-raikkonen,Kimi Räikkönen,mclaren,9,56,6,0,9,1139.009995,1140.168022,1.158027,0.578947,0.555787,50.0,20
-2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,felipe-massa,Felipe Massa,sauber,10,55,14,0,10,1072.979611,1076.029296,3.049685,0.526316,0.465322,50.0,20
-2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,narain-karthikeyan,Narain Karthikeyan,jordan,11,54,17,0,11,995.192436,1000.841539,5.649103,0.473684,0.360702,50.0,20
-2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,tiago-monteiro,Tiago Monteiro,jordan,12,53,18,0,12,992.560857,995.749107,3.188251,0.421053,0.357288,50.0,20
-2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,christijan-albers,Christijan Albers,minardi,13,52,19,0,13,982.034541,983.268384,1.233843,0.368421,0.343744,50.0,20
-2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,rubens-barrichello,Rubens Barrichello,ferrari,DNF,49,12,1,14,1310.160842,1287.752228,-22.408615,0.315789,0.763962,50.0,20
-2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,giancarlo-fisichella,Giancarlo Fisichella,renault,DNF,36,3,1,15,1141.40947,1125.299889,-16.109581,0.236842,0.559034,50.0,20
-2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,mark-webber,Mark Webber,williams,DNF,36,4,1,16,1029.457858,1020.997086,-8.460772,0.236842,0.406058,50.0,20
-2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,jacques-villeneuve,Jacques Villeneuve,sauber,DNF,26,16,1,17,1025.864331,1013.697438,-12.166893,0.157895,0.401233,50.0,20
-2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,anthony-davidson,Anthony Davidson,bar,DNF,2,15,1,18,974.972555,960.865789,-14.106765,0.052632,0.334767,50.0,20
-2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,jenson-button,Jenson Button,bar,DNF,2,9,1,19,1193.933795,1165.142288,-28.791507,0.052632,0.628462,50.0,20
-2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,patrick-friesacher,Patrick Friesacher,minardi,DNF,2,20,1,20,989.929278,974.866642,-15.062636,0.052632,0.353884,50.0,20
+2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,fernando-alonso,Fernando Alonso,renault,1,56,1,0,1,1258.002363,1277.629303,19.62694,1.0,0.607461,50.0,17
+2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,jarno-trulli,Jarno Trulli,toyota,2,56,2,0,2,1207.181317,1225.978001,18.796684,0.9375,0.561566,50.0,17
+2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,nick-heidfeld,Nick Heidfeld,williams,3,56,10,0,3,968.707197,995.29312,26.585923,0.875,0.343282,50.0,17
+2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,juan-pablo-montoya,Juan Pablo Montoya,mclaren,4,56,11,0,4,1337.428833,1344.270497,6.841663,0.8125,0.675667,50.0,17
+2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,ralf-schumacher,Ralf Schumacher,toyota,5,56,5,0,5,1210.428316,1219.701466,9.273149,0.75,0.564537,50.0,17
+2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,david-coulthard,David Coulthard,red-bull,6,56,8,0,6,1273.286852,1276.613621,3.326769,0.6875,0.620965,50.0,17
+2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,michael-schumacher,Michael Schumacher,ferrari,7,56,13,0,7,1589.09784,1577.931138,-11.166703,0.625,0.848334,50.0,17
+2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,christian-klien,Christian Klien,red-bull,8,56,7,0,8,974.947877,985.637889,10.690011,0.5625,0.3487,50.0,17
+2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,kimi-raikkonen,Kimi Räikkönen,mclaren,9,56,6,0,9,1332.624398,1324.039783,-8.584614,0.5,0.671692,50.0,17
+2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,felipe-massa,Felipe Massa,sauber,10,55,14,0,10,1058.587579,1059.272986,0.685407,0.4375,0.423792,50.0,17
+2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,narain-karthikeyan,Narain Karthikeyan,jordan,11,54,17,0,11,993.675318,994.168478,0.49316,0.375,0.365137,50.0,17
+2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,tiago-monteiro,Tiago Monteiro,jordan,12,53,18,0,12,990.89754,988.388408,-2.509133,0.3125,0.362683,50.0,17
+2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,christijan-albers,Christijan Albers,minardi,13,52,19,0,13,1000.0,993.962779,-6.037221,0.25,0.370744,50.0,17
+2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,giancarlo-fisichella,Giancarlo Fisichella,renault,DNF,36,3,1,14,1146.216556,1128.770415,-17.446141,0.15625,0.505173,50.0,17
+2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,mark-webber,Mark Webber,williams,DNF,36,4,1,15,1021.106402,1009.436731,-11.669671,0.15625,0.389643,50.0,17
+2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,jacques-villeneuve,Jacques Villeneuve,sauber,DNF,26,16,1,16,1119.624515,1098.729989,-20.894526,0.0625,0.480391,50.0,17
+2005,2,2005-03-20,malaysia,2005 Formula 1 Petronas Malaysian Grand Prix,733,patrick-friesacher,Patrick Friesacher,minardi,DNF,2,20,1,17,988.119763,970.108064,-18.011698,0.0,0.360234,50.0,17

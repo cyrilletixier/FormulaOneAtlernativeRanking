@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,esteban-ocon,Esteban Ocon,alpine,1,70,8,0,1,1083.939597,1111.979211,28.039614,1.0,0.439208,50.0,20
-2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,lewis-hamilton,Lewis Hamilton,mercedes,2,70,1,0,2,1565.236477,1566.996543,1.760066,0.947368,0.912167,50.0,20
-2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,3,70,15,0,3,1241.781397,1254.764821,12.983424,0.894737,0.635068,50.0,20
-2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,fernando-alonso,Fernando Alonso,alpine,4,70,9,0,4,1072.082701,1092.97064,20.887938,0.842105,0.424346,50.0,20
-2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,pierre-gasly,Pierre Gasly,alphatauri,5,70,5,0,5,1146.182355,1159.766231,13.583876,0.789474,0.517796,50.0,20
-2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,yuki-tsunoda,Yuki Tsunoda,alphatauri,6,70,16,0,6,1027.733576,1046.091155,18.35758,0.736842,0.369691,50.0,20
-2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,nicholas-latifi,Nicholas Latifi,williams,7,70,18,0,7,904.261352,926.862147,22.600796,0.684211,0.232195,50.0,20
-2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,george-russell,George Russell,williams,8,70,17,0,8,945.402663,963.236293,17.83363,0.631579,0.274906,50.0,20
-2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,max-verstappen,Max Verstappen,red-bull,9,70,3,0,9,1330.179364,1322.499224,-7.68014,0.578947,0.73255,50.0,20
-2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,10,69,13,0,10,1037.235251,1044.488777,7.253527,0.526316,0.381245,50.0,20
-2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,daniel-ricciardo,Daniel Ricciardo,mclaren,11,69,11,0,11,1230.396276,1223.000743,-7.395533,0.473684,0.621595,50.0,20
-2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,mick-schumacher,Mick Schumacher,haas,12,69,20,0,12,931.096072,939.166116,8.070044,0.421053,0.259652,50.0,20
-2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,13,69,PL,0,13,993.799029,995.753149,1.95412,0.368421,0.329339,50.0,20
-2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,nikita-mazepin,Nikita Mazepin,haas,DNF,3,19,1,14,910.767014,914.621097,3.854084,0.315789,0.238708,50.0,20
-2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,lando-norris,Lando Norris,mclaren,DNF,2,6,1,15,1276.804911,1256.196821,-20.60809,0.263158,0.67532,50.0,20
-2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,charles-leclerc,Charles Leclerc,ferrari,DNF,0,7,1,16,1218.550244,1194.759258,-23.790986,0.131579,0.607399,50.0,20
-2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,lance-stroll,Lance Stroll,aston-martin,DNF,0,12,1,17,1100.806054,1084.362256,-16.443797,0.131579,0.460455,50.0,20
-2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,sergio-perez,Sergio Pérez,red-bull,DNF,0,4,1,18,1258.655141,1232.499126,-26.156015,0.131579,0.654699,50.0,20
-2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,valtteri-bottas,Valtteri Bottas,mercedes,DNF,0,2,1,19,1347.405797,1316.49371,-30.912087,0.131579,0.749821,50.0,20
-2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,sebastian-vettel,Sebastian Vettel,aston-martin,DSQ,70,10,2,20,1119.307778,1095.115727,-24.19205,0.0,0.483841,50.0,20
+2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,esteban-ocon,Esteban Ocon,alpine,1,70,8,0,1,1157.512712,1184.443694,26.930982,1.0,0.46138,50.0,20
+2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,lewis-hamilton,Lewis Hamilton,mercedes,2,70,1,0,2,1835.893778,1838.026234,2.132456,0.947368,0.904719,50.0,20
+2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,3,70,15,0,3,1319.77642,1334.712485,14.936066,0.894737,0.596016,50.0,20
+2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,fernando-alonso,Fernando Alonso,alpine,4,70,9,0,4,1131.148651,1151.286871,20.138219,0.842105,0.439341,50.0,20
+2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,pierre-gasly,Pierre Gasly,alphatauri,5,70,5,0,5,1204.934969,1219.350832,14.415863,0.789474,0.501156,50.0,20
+2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,yuki-tsunoda,Yuki Tsunoda,alphatauri,6,70,16,0,6,1037.212674,1055.933994,18.721319,0.736842,0.362416,50.0,20
+2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,nicholas-latifi,Nicholas Latifi,williams,7,70,18,0,7,852.724025,875.572946,22.848921,0.684211,0.227232,50.0,20
+2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,george-russell,George Russell,williams,8,70,17,0,8,886.922144,905.995209,19.073065,0.631579,0.250118,50.0,20
+2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,max-verstappen,Max Verstappen,red-bull,9,70,3,0,9,1546.477212,1537.359214,-9.117998,0.578947,0.761307,50.0,20
+2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,10,69,13,0,10,1086.080561,1092.295034,6.214473,0.526316,0.402026,50.0,20
+2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,daniel-ricciardo,Daniel Ricciardo,mclaren,11,69,11,0,11,1354.581788,1347.078277,-7.50351,0.473684,0.623754,50.0,20
+2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,mick-schumacher,Mick Schumacher,haas,12,69,20,0,12,914.360812,921.949783,7.58897,0.421053,0.269273,50.0,20
+2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,13,69,PL,0,13,951.725773,955.326156,3.600383,0.368421,0.296413,50.0,20
+2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,nikita-mazepin,Nikita Mazepin,haas,DNF,3,19,1,14,892.721317,895.805348,3.084031,0.315789,0.254109,50.0,20
+2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,lando-norris,Lando Norris,mclaren,DNF,2,6,1,15,1349.693972,1331.85693,-17.837043,0.263158,0.619899,50.0,20
+2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,charles-leclerc,Charles Leclerc,ferrari,DNF,0,7,1,16,1313.987794,1290.999617,-22.988177,0.131579,0.591342,50.0,20
+2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,lance-stroll,Lance Stroll,aston-martin,DNF,0,12,1,17,1123.919136,1108.832145,-15.086991,0.131579,0.433319,50.0,20
+2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,sergio-perez,Sergio Pérez,red-bull,DNF,0,4,1,18,1363.288541,1338.338096,-24.950445,0.131579,0.630588,50.0,20
+2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,valtteri-bottas,Valtteri Bottas,mercedes,DNF,0,2,1,19,1605.487832,1572.212101,-33.275731,0.131579,0.797094,50.0,20
+2021,11,2021-08-01,hungary,Formula 1 Rolex Magyar Nagydíj 2021,1046,sebastian-vettel,Sebastian Vettel,aston-martin,DSQ,70,10,2,20,1298.170891,1269.246036,-28.924855,0.0,0.578497,50.0,20

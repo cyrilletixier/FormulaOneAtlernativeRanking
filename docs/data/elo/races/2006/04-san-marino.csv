@@ -1,23 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,michael-schumacher,Michael Schumacher,ferrari,1,62,1,0,1,1237.236439,1253.322845,16.086406,1.0,0.678272,50.0,22
-2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,fernando-alonso,Fernando Alonso,renault,2,62,5,0,2,1351.187164,1358.695976,7.508813,0.952381,0.802205,50.0,22
-2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,juan-pablo-montoya,Juan Pablo Montoya,mclaren,3,62,7,0,3,1172.192008,1187.695757,15.503748,0.904762,0.594687,50.0,22
-2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,felipe-massa,Felipe Massa,ferrari,4,62,4,0,4,1086.426499,1105.424855,18.998356,0.857143,0.477176,50.0,22
-2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,kimi-raikkonen,Kimi Räikkönen,mclaren,5,62,8,0,5,1268.515823,1273.216662,4.700839,0.809524,0.715507,50.0,22
-2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,mark-webber,Mark Webber,williams,6,62,10,0,6,1063.642769,1079.450781,15.808013,0.761905,0.445745,50.0,22
-2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,jenson-button,Jenson Button,honda,7,62,2,0,7,1223.445466,1226.100562,2.655096,0.714286,0.661184,50.0,22
-2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,giancarlo-fisichella,Giancarlo Fisichella,renault,8,62,11,0,8,1182.996805,1185.877859,2.881053,0.666667,0.609046,50.0,22
-2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,ralf-schumacher,Ralf Schumacher,toyota,9,62,6,0,9,1206.597437,1205.559444,-1.037993,0.619048,0.639807,50.0,22
-2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,rubens-barrichello,Rubens Barrichello,honda,10,62,3,0,10,1200.597334,1197.565165,-3.032169,0.571429,0.632072,50.0,22
-2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,nico-rosberg,Nico Rosberg,williams,11,62,13,0,11,985.271676,994.399032,9.127356,0.52381,0.341262,50.0,22
-2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,jacques-villeneuve,Jacques Villeneuve,bmw-sauber,12,62,12,0,12,1070.109124,1071.186524,1.077399,0.47619,0.454642,50.0,22
-2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,nick-heidfeld,Nick Heidfeld,bmw-sauber,13,61,15,0,13,1072.970706,1071.46993,-1.500776,0.428571,0.458587,50.0,22
-2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,vitantonio-liuzzi,Vitantonio Liuzzi,toro-rosso,14,61,16,0,14,1009.460328,1009.876511,0.416183,0.380952,0.372629,50.0,22
-2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,scott-speed,Scott Speed,toro-rosso,15,61,18,0,15,1012.496535,1010.33157,-2.164965,0.333333,0.376633,50.0,22
-2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,tiago-monteiro,Tiago Monteiro,midland,16,60,19,0,16,1000.400386,996.647822,-3.752564,0.285714,0.360766,50.0,22
-2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,david-coulthard,David Coulthard,red-bull,DNF,47,14,1,17,1083.276243,1071.540058,-11.736185,0.238095,0.472819,50.0,22
-2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,takuma-sato,Takuma Sato,super-aguri,DNF,44,21,1,18,1003.498325,994.781765,-8.71656,0.190476,0.364807,50.0,22
-2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,christian-klien,Christian Klien,red-bull,DNF,40,17,1,19,1035.035585,1021.841099,-13.194486,0.142857,0.406747,50.0,22
-2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,yuji-ide,Yuji Ide,super-aguri,DNF,23,22,1,20,988.241873,975.750811,-12.491062,0.095238,0.345059,50.0,22
-2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,jarno-trulli,Jarno Trulli,toyota,DNF,5,9,1,21,1092.179026,1070.303174,-21.875851,0.047619,0.485136,50.0,22
-2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,christijan-albers,Christijan Albers,midland,DNF,0,20,1,22,956.359447,941.098796,-15.260652,0.0,0.305213,50.0,22
+2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,michael-schumacher,Michael Schumacher,ferrari,1,62,1,0,1,1432.208693,1445.951533,13.742841,1.0,0.725143,50.0,18
+2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,fernando-alonso,Fernando Alonso,renault,2,62,5,0,2,1473.846334,1483.120617,9.274283,0.941176,0.755691,50.0,18
+2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,juan-pablo-montoya,Juan Pablo Montoya,mclaren,3,62,7,0,3,1342.636482,1354.071009,11.434527,0.882353,0.653662,50.0,18
+2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,felipe-massa,Felipe Massa,ferrari,4,62,4,0,4,1099.378113,1118.702842,19.324729,0.823529,0.437035,50.0,18
+2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,kimi-raikkonen,Kimi Räikkönen,mclaren,5,62,8,0,5,1446.643849,1448.082036,1.438187,0.764706,0.735942,50.0,18
+2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,mark-webber,Mark Webber,williams,6,62,10,0,6,1095.848001,1109.449231,13.60123,0.705882,0.433858,50.0,18
+2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,jenson-button,Jenson Button,honda,7,62,2,0,7,1317.063358,1317.815084,0.751726,0.647059,0.632024,50.0,18
+2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,giancarlo-fisichella,Giancarlo Fisichella,renault,8,62,11,0,8,1257.170401,1257.595734,0.425333,0.588235,0.579729,50.0,18
+2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,ralf-schumacher,Ralf Schumacher,toyota,9,62,6,0,9,1260.804063,1258.126903,-2.67716,0.529412,0.582955,50.0,18
+2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,rubens-barrichello,Rubens Barrichello,honda,10,62,3,0,10,1303.968481,1296.459441,-7.509041,0.470588,0.620769,50.0,18
+2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,nico-rosberg,Nico Rosberg,williams,11,62,13,0,11,999.4748,1002.597761,3.12296,0.411765,0.349305,50.0,18
+2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,jacques-villeneuve,Jacques Villeneuve,bmw-sauber,12,62,12,0,12,1109.690305,1105.020557,-4.669748,0.352941,0.446336,50.0,18
+2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,nick-heidfeld,Nick Heidfeld,bmw-sauber,13,61,15,0,13,1081.55761,1075.211566,-6.346044,0.294118,0.421039,50.0,18
+2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,vitantonio-liuzzi,Vitantonio Liuzzi,toro-rosso,14,61,16,0,14,989.747996,984.458317,-5.289679,0.235294,0.341088,50.0,18
+2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,scott-speed,Scott Speed,toro-rosso,15,61,18,0,15,1007.594721,998.607306,-8.987416,0.176471,0.356219,50.0,18
+2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,tiago-monteiro,Tiago Monteiro,midland,16,60,19,0,16,937.708442,928.668761,-9.039682,0.117647,0.298441,50.0,18
+2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,takuma-sato,Takuma Sato,super-aguri,DNF,44,21,1,17,985.125851,971.20663,-13.919221,0.058824,0.337208,50.0,18
+2006,4,2006-04-23,san-marino,Formula 1 Gran Premio Foster's di San Marino 2006,754,christijan-albers,Christijan Albers,midland,DNF,0,20,1,18,931.55208,916.874253,-14.677828,0.0,0.293557,50.0,18

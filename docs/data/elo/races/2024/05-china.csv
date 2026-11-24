@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,max-verstappen,Max Verstappen,red-bull,1,56,1,0,1,1552.35374,1557.513291,5.15955,1.0,0.896809,50.0,20
-2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,lando-norris,Lando Norris,mclaren,2,56,4,0,2,1294.880749,1308.457743,13.576994,0.947368,0.675829,50.0,20
-2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,sergio-perez,Sergio Pérez,red-bull,3,56,2,0,3,1369.683807,1376.687099,7.003292,0.894737,0.754671,50.0,20
-2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,charles-leclerc,Charles Leclerc,ferrari,4,56,6,0,4,1323.074809,1329.84005,6.765241,0.842105,0.7068,50.0,20
-2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,5,56,7,0,5,1303.958026,1309.133995,5.175969,0.789474,0.685954,50.0,20
-2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,george-russell,George Russell,mercedes,6,56,8,0,6,1248.412667,1254.157624,5.744957,0.736842,0.621943,50.0,20
-2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,fernando-alonso,Fernando Alonso,aston-martin,7,56,3,0,7,1248.511105,1251.618612,3.107507,0.684211,0.62206,50.0,20
-2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,oscar-piastri,Oscar Piastri,mclaren,8,56,5,0,8,1171.091633,1176.339543,5.24791,0.631579,0.526621,50.0,20
-2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,lewis-hamilton,Lewis Hamilton,mercedes,9,56,18,0,9,1295.274181,1290.408032,-4.866148,0.578947,0.67627,50.0,20
-2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,nico-hulkenberg,Nico Hülkenberg,haas,10,56,9,0,10,1022.245319,1031.531557,9.286238,0.526316,0.340591,50.0,20
-2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,esteban-ocon,Esteban Ocon,alpine,11,56,13,0,11,1082.572623,1085.529121,2.956498,0.473684,0.414554,50.0,20
-2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,alexander-albon,Alexander Albon,williams,12,56,14,0,12,1050.961017,1053.247489,2.286473,0.421053,0.375323,50.0,20
-2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,pierre-gasly,Pierre Gasly,alpine,13,56,15,0,13,1076.017905,1074.121349,-1.896556,0.368421,0.406352,50.0,20
-2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,guanyu-zhou,Guanyu Zhou,kick-sauber,14,56,16,0,14,976.725845,978.115218,1.389373,0.315789,0.288002,50.0,20
-2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,lance-stroll,Lance Stroll,aston-martin,15,56,11,0,15,1110.179845,1100.869328,-9.310517,0.263158,0.449368,50.0,20
-2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,kevin-magnussen,Kevin Magnussen,haas,16,56,17,0,16,960.542595,957.559208,-2.983388,0.210526,0.270194,50.0,20
-2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,logan-sargeant,Logan Sargeant,williams,17,56,PL,0,17,932.421602,928.289957,-4.131645,0.157895,0.240528,50.0,20
-2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,daniel-ricciardo,Daniel Ricciardo,rb,DNF,33,12,1,18,1053.838921,1040.159232,-13.679689,0.105263,0.378857,50.0,20
-2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,yuki-tsunoda,Yuki Tsunoda,rb,DNF,26,19,1,19,1041.228002,1025.687642,-15.54036,0.052632,0.363439,50.0,20
-2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,valtteri-bottas,Valtteri Bottas,kick-sauber,DNF,19,10,1,20,992.500709,977.209009,-15.2917,0.0,0.305834,50.0,20
+2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,max-verstappen,Max Verstappen,red-bull,1,56,1,0,1,1840.742977,1845.953525,5.210548,1.0,0.895789,50.0,19
+2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,lando-norris,Lando Norris,mclaren,2,56,4,0,2,1401.569526,1417.170196,15.60067,0.944444,0.632431,50.0,19
+2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,sergio-perez,Sergio Pérez,red-bull,3,56,2,0,3,1552.573208,1559.869138,7.29593,0.888889,0.74297,50.0,19
+2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,charles-leclerc,Charles Leclerc,ferrari,4,56,6,0,4,1502.938988,1509.173616,6.234628,0.833333,0.708641,50.0,19
+2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,5,56,7,0,5,1439.814244,1445.600523,5.786279,0.777778,0.662052,50.0,19
+2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,george-russell,George Russell,mercedes,6,56,8,0,6,1363.23618,1369.254578,6.018399,0.722222,0.601854,50.0,19
+2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,fernando-alonso,Fernando Alonso,aston-martin,7,56,3,0,7,1372.443198,1375.31298,2.869783,0.666667,0.609271,50.0,19
+2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,oscar-piastri,Oscar Piastri,mclaren,8,56,5,0,8,1189.095085,1196.824924,7.729839,0.611111,0.456514,50.0,19
+2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,lewis-hamilton,Lewis Hamilton,mercedes,9,56,18,0,9,1534.496376,1525.738268,-8.758109,0.555556,0.730718,50.0,19
+2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,nico-hulkenberg,Nico Hülkenberg,haas,10,56,9,0,10,1017.244927,1026.432438,9.187511,0.5,0.31625,50.0,19
+2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,esteban-ocon,Esteban Ocon,alpine,11,56,13,0,11,1184.634815,1184.219426,-0.415389,0.444444,0.452752,50.0,19
+2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,alexander-albon,Alexander Albon,williams,12,56,14,0,12,1087.040895,1087.903659,0.862764,0.388889,0.371634,50.0,19
+2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,pierre-gasly,Pierre Gasly,alpine,13,56,15,0,13,1138.20056,1134.177455,-4.023105,0.333333,0.413795,50.0,19
+2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,guanyu-zhou,Guanyu Zhou,kick-sauber,14,56,16,0,14,964.3316,964.394015,0.062415,0.277778,0.276529,50.0,19
+2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,lance-stroll,Lance Stroll,aston-martin,15,56,11,0,15,1153.241734,1143.034741,-10.206993,0.222222,0.426362,50.0,19
+2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,kevin-magnussen,Kevin Magnussen,haas,16,56,17,0,16,917.579792,913.741373,-3.838419,0.166667,0.243435,50.0,19
+2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,logan-sargeant,Logan Sargeant,williams,17,56,PL,0,17,919.434444,912.754554,-6.67989,0.111111,0.244709,50.0,19
+2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,daniel-ricciardo,Daniel Ricciardo,rb,DNF,33,12,1,18,1120.537764,1103.359259,-17.178505,0.055556,0.399126,50.0,19
+2024,5,2024-04-21,china,Formula 1 Lenovo Chinese Grand Prix 2024,1106,yuki-tsunoda,Yuki Tsunoda,rb,DNF,26,19,1,19,1015.839858,1000.081501,-15.758356,0.0,0.315167,50.0,19

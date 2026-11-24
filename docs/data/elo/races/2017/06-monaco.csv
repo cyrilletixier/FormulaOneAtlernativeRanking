@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,sebastian-vettel,Sebastian Vettel,ferrari,1,78,2,0,1,1393.673288,1403.608331,9.935042,1.0,0.801299,50.0,20
-2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,kimi-raikkonen,Kimi Räikkönen,ferrari,2,78,1,0,2,1260.435331,1274.504469,14.069138,0.947368,0.665986,50.0,20
-2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,daniel-ricciardo,Daniel Ricciardo,red-bull,3,78,5,0,3,1320.286315,1328.45702,8.170705,0.894737,0.731323,50.0,20
-2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,valtteri-bottas,Valtteri Bottas,mercedes,4,78,3,0,4,1220.564815,1231.721124,11.156309,0.842105,0.618979,50.0,20
-2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,max-verstappen,Max Verstappen,red-bull,5,78,4,0,5,1231.940117,1239.78194,7.841823,0.789474,0.632637,50.0,20
-2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,6,78,6,0,6,1107.476427,1120.508281,13.031855,0.736842,0.476205,50.0,20
-2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,lewis-hamilton,Lewis Hamilton,mercedes,7,78,13,0,7,1505.703189,1495.67035,-10.032839,0.684211,0.884867,50.0,20
-2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,romain-grosjean,Romain Grosjean,haas,8,78,8,0,8,1030.086691,1042.795345,12.708654,0.631579,0.377406,50.0,20
-2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,felipe-massa,Felipe Massa,williams,9,78,14,0,9,1149.5425,1151.973854,2.431354,0.578947,0.53032,50.0,20
-2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,kevin-magnussen,Kevin Magnussen,haas,10,78,11,0,10,1008.886465,1017.64267,8.756206,0.526316,0.351192,50.0,20
-2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,jolyon-palmer,Jolyon Palmer,renault,11,78,16,0,11,962.511677,971.389664,8.877986,0.473684,0.296124,50.0,20
-2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,esteban-ocon,Esteban Ocon,force-india,12,78,15,0,12,1040.903221,1042.407137,1.503916,0.421053,0.390974,50.0,20
-2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,sergio-perez,Sergio Pérez,force-india,13,78,7,0,13,1260.747444,1245.851318,-14.896126,0.368421,0.666344,50.0,20
-2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,daniil-kvyat,Daniil Kvyat,toro-rosso,14,71,9,0,14,1060.99687,1055.963619,-5.033251,0.315789,0.416454,50.0,20
-2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,lance-stroll,Lance Stroll,williams,15,71,17,0,15,974.404086,972.066864,-2.337223,0.263158,0.309902,50.0,20
-2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,stoffel-vandoorne,Stoffel Vandoorne,mclaren,DNF,66,12,1,16,972.990559,968.10431,-4.886249,0.210526,0.308251,50.0,20
-2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,marcus-ericsson,Marcus Ericsson,sauber,DNF,63,19,1,17,969.593657,962.273484,-7.320173,0.157895,0.304298,50.0,20
-2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,jenson-button,Jenson Button,mclaren,DNF,57,PL,1,18,1049.191092,1033.06621,-16.124881,0.078947,0.401445,50.0,20
-2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,pascal-wehrlein,Pascal Wehrlein,sauber,DNF,57,18,1,19,956.704752,946.177471,-10.527281,0.078947,0.289493,50.0,20
-2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,nico-hulkenberg,Nico Hülkenberg,renault,DNF,15,10,1,20,1162.236479,1134.911515,-27.324964,0.0,0.546499,50.0,20
+2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,sebastian-vettel,Sebastian Vettel,ferrari,1,78,2,0,1,1605.299646,1614.686671,9.387025,1.0,0.81226,50.0,19
+2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,kimi-raikkonen,Kimi Räikkönen,ferrari,2,78,1,0,2,1406.141842,1419.241567,13.099725,0.944444,0.68245,50.0,19
+2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,daniel-ricciardo,Daniel Ricciardo,red-bull,3,78,5,0,3,1484.598378,1492.147331,7.548952,0.888889,0.73791,50.0,19
+2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,valtteri-bottas,Valtteri Bottas,mercedes,4,78,3,0,4,1358.954915,1368.285932,9.331017,0.833333,0.646713,50.0,19
+2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,max-verstappen,Max Verstappen,red-bull,5,78,4,0,5,1327.021489,1334.828012,7.806523,0.777778,0.621647,50.0,19
+2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,6,78,6,0,6,1116.383605,1130.213939,13.830334,0.722222,0.445616,50.0,19
+2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,lewis-hamilton,Lewis Hamilton,mercedes,7,78,13,0,7,1757.531502,1746.566955,-10.964547,0.666667,0.885958,50.0,19
+2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,romain-grosjean,Romain Grosjean,haas,8,78,8,0,8,1076.793206,1086.743974,9.950768,0.611111,0.412096,50.0,19
+2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,felipe-massa,Felipe Massa,williams,9,78,14,0,9,1228.085107,1228.838377,0.75327,0.555556,0.54049,50.0,19
+2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,kevin-magnussen,Kevin Magnussen,haas,10,78,11,0,10,1023.243922,1029.867634,6.623713,0.5,0.367526,50.0,19
+2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,jolyon-palmer,Jolyon Palmer,renault,11,78,16,0,11,927.628997,935.257679,7.628681,0.444444,0.291871,50.0,19
+2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,esteban-ocon,Esteban Ocon,force-india,12,78,15,0,12,990.756292,993.143396,2.387104,0.388889,0.341147,50.0,19
+2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,sergio-perez,Sergio Pérez,force-india,13,78,7,0,13,1305.69808,1292.136714,-13.561366,0.333333,0.604561,50.0,19
+2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,daniil-kvyat,Daniil Kvyat,toro-rosso,14,71,9,0,14,1103.703606,1095.850213,-7.853393,0.277778,0.434846,50.0,19
+2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,lance-stroll,Lance Stroll,williams,15,71,17,0,15,969.422615,964.325051,-5.097565,0.222222,0.324174,50.0,19
+2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,stoffel-vandoorne,Stoffel Vandoorne,mclaren,DNF,66,12,1,16,964.244806,956.573112,-7.671694,0.166667,0.320101,50.0,19
+2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,marcus-ericsson,Marcus Ericsson,sauber,DNF,63,19,1,17,904.724227,896.541363,-8.182864,0.111111,0.274768,50.0,19
+2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,jenson-button,Jenson Button,mclaren,DNF,57,PL,1,18,1156.702383,1134.093246,-22.609137,0.027778,0.479961,50.0,19
+2017,6,2017-05-28,monaco,Formula 1 Grand Prix de Monaco 2017,962,pascal-wehrlein,Pascal Wehrlein,sauber,DNF,57,18,1,19,906.270701,893.864155,-12.406546,0.027778,0.275909,50.0,19

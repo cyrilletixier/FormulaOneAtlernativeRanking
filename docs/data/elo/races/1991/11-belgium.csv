@@ -1,35 +1,23 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,ayrton-senna,Ayrton Senna,mclaren,1,44,1,0,1,1342.75253,1352.067527,9.314998,1.0,0.8137,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,gerhard-berger,Gerhard Berger,mclaren,2,44,4,0,2,1213.399107,1227.839717,14.44061,0.969697,0.680885,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,nelson-piquet,Nelson Piquet,benetton,3,44,6,0,3,1228.520856,1240.567413,12.046557,0.939394,0.698463,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,roberto-moreno,Roberto Moreno,benetton,4,44,8,0,4,1049.869591,1071.827967,21.958376,0.909091,0.469923,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,riccardo-patrese,Riccardo Patrese,williams,5,44,17,0,5,1265.629225,1272.596703,6.967478,0.878788,0.739438,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,mark-blundell,Mark Blundell,brabham,6,44,13,0,6,1036.044554,1055.894928,19.850374,0.848485,0.451477,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,johnny-herbert,Johnny Herbert,lotus,7,44,21,0,7,1044.759713,1062.513984,17.754271,0.818182,0.463096,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,emanuele-pirro,Emanuele Pirro,dallara,8,43,25,0,8,1049.146815,1065.092895,15.94608,0.787879,0.468957,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,martin-brundle,Martin Brundle,brabham,9,43,16,0,9,1085.460887,1097.461063,12.000175,0.757576,0.517572,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,olivier-grouillard,Olivier Grouillard,fondmetal,10,43,23,0,10,905.703778,927.657886,21.954108,0.727273,0.288191,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,thierry-boutsen,Thierry Boutsen,ligier,11,43,18,0,11,1214.536178,1215.273505,0.737327,0.69697,0.682223,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,pierluigi-martini,Pierluigi Martini,minardi,12,42,9,0,12,1114.476689,1120.000967,5.524278,0.666667,0.556181,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,andrea-de-cesaris,Andrea de Cesaris,jordan,13,41,11,0,13,1110.528543,1114.798896,4.270353,0.636364,0.550957,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,jj-lehto,JJ Lehto,dallara,DNF,33,14,1,14,1036.712225,1043.639369,6.927144,0.590909,0.452366,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,stefano-modena,Stefano Modena,tyrrell,DNF,33,10,1,15,1131.579909,1132.192141,0.612232,0.590909,0.578664,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,jean-alesi,Jean Alesi,ferrari,DNF,30,5,1,16,1174.275239,1169.881474,-4.393765,0.545455,0.63333,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,gianni-morbidelli,Gianni Morbidelli,minardi,DNF,29,19,1,17,1037.906432,1040.966178,3.059747,0.515152,0.453957,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,erik-comas,Érik Comas,ligier,DNF,25,26,1,18,1028.468161,1029.882549,1.414388,0.469697,0.441409,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,mika-hakkinen,Mika Häkkinen,lotus,DNF,25,24,1,19,1056.505602,1056.050405,-0.455197,0.469697,0.478801,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,nigel-mansell,Nigel Mansell,williams,DNF,22,3,1,20,1273.877477,1257.684464,-16.193013,0.424242,0.748103,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,eric-bernard,Éric Bernard,lola,DNF,21,20,1,21,1065.492013,1060.647211,-4.844801,0.393939,0.490835,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,ivan-capelli,Ivan Capelli,leyton-house,DNF,13,12,1,22,1066.73127,1060.288309,-6.44296,0.363636,0.492496,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,satoru-nakajima,Satoru Nakajima,tyrrell,DNF,7,22,1,23,1089.428126,1079.951068,-9.477059,0.333333,0.522875,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,alain-prost,Alain Prost,ferrari,DNF,2,2,1,24,1271.350183,1249.228416,-22.121767,0.30303,0.745466,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,mauricio-gugelmin,Maurício Gugelmin,leyton-house,DNF,1,15,1,25,1072.09289,1060.745346,-11.347544,0.272727,0.499678,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,michael-schumacher,Michael Schumacher,jordan,DNF,0,7,1,26,1000.0,991.922463,-8.077537,0.242424,0.403975,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,fabrizio-barbazza,Fabrizio Barbazza,ags,DNPQ,,,1,27,894.988105,889.51399,-5.474115,0.166667,0.276149,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,gabriele-tarquini,Gabriele Tarquini,ags,DNPQ,,,1,28,835.720356,833.319858,-2.400498,0.166667,0.214677,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,michele-alboreto,Michele Alboreto,footwork,DNPQ,,,1,29,971.887387,961.826188,-10.0612,0.166667,0.367891,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,pedro-chaves,Pedro Chaves,coloni,DNPQ,,,1,30,908.703932,902.456799,-6.247133,0.166667,0.291609,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,aguri-suzuki,Aguri Suzuki,lola,DNQ,,,2,31,1022.406553,1003.01023,-19.396322,0.045455,0.433381,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,alex-caffi,Alex Caffi,footwork,DNQ,,,2,32,990.598696,973.281758,-17.316938,0.045455,0.391793,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,eric-van-de-poele,Eric van de Poele,modena,DNQ,,,2,33,914.818981,902.1597,-12.659281,0.045455,0.29864,50.0,34
-1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,nicola-larini,Nicola Larini,modena,DNQ,,,2,34,999.128823,981.259459,-17.869364,0.045455,0.402842,50.0,34
+1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,ayrton-senna,Ayrton Senna,mclaren,1,44,1,0,1,1512.064397,1520.432853,8.368456,1.0,0.832631,50.0,22
+1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,gerhard-berger,Gerhard Berger,mclaren,2,44,4,0,2,1359.075133,1369.873199,10.798066,0.952381,0.73642,50.0,22
+1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,nelson-piquet,Nelson Piquet,benetton,3,44,6,0,3,1396.936732,1404.043393,7.106661,0.904762,0.762629,50.0,22
+1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,roberto-moreno,Roberto Moreno,benetton,4,44,8,0,4,993.697964,1015.151866,21.453902,0.857143,0.428065,50.0,22
+1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,riccardo-patrese,Riccardo Patrese,williams,5,44,17,0,5,1355.450288,1359.234936,3.784648,0.809524,0.733831,50.0,22
+1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,mark-blundell,Mark Blundell,brabham,6,44,13,0,6,999.984351,1016.395892,16.411541,0.761905,0.433674,50.0,22
+1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,johnny-herbert,Johnny Herbert,lotus,7,44,21,0,7,1006.227782,1019.979298,13.751516,0.714286,0.439255,50.0,22
+1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,emanuele-pirro,Emanuele Pirro,dallara,8,43,25,0,8,1069.291791,1077.827489,8.535698,0.666667,0.495953,50.0,22
+1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,martin-brundle,Martin Brundle,brabham,9,43,16,0,9,1054.995331,1061.793684,6.798353,0.619048,0.483081,50.0,22
+1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,olivier-grouillard,Olivier Grouillard,fondmetal,10,43,23,0,10,863.258766,876.022906,12.76414,0.571429,0.316146,50.0,22
+1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,thierry-boutsen,Thierry Boutsen,ligier,11,43,18,0,11,1332.262123,1322.605059,-9.657064,0.52381,0.716951,50.0,22
+1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,pierluigi-martini,Pierluigi Martini,minardi,12,42,9,0,12,1092.476155,1090.446229,-2.029925,0.47619,0.516789,50.0,22
+1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,andrea-de-cesaris,Andrea de Cesaris,jordan,13,41,11,0,13,1123.694371,1117.889096,-5.805275,0.428571,0.544677,50.0,22
+1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,satoru-nakajima,Satoru Nakajima,tyrrell,DNF,7,22,1,14,1081.043898,1074.76535,-6.278548,0.380952,0.506523,50.0,22
+1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,fabrizio-barbazza,Fabrizio Barbazza,ags,DNPQ,,,1,15,891.617857,887.737348,-3.880508,0.261905,0.339515,50.0,22
+1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,gabriele-tarquini,Gabriele Tarquini,ags,DNPQ,,,1,16,790.116612,790.245372,0.128759,0.261905,0.25933,50.0,22
+1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,michele-alboreto,Michele Alboreto,footwork,DNPQ,,,1,17,1024.669924,1014.97554,-9.694384,0.261905,0.455792,50.0,22
+1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,pedro-chaves,Pedro Chaves,coloni,DNPQ,,,1,18,922.870383,917.666399,-5.203985,0.261905,0.365984,50.0,22
+1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,aguri-suzuki,Aguri Suzuki,lola,DNQ,,,2,19,1013.543837,994.824884,-18.718953,0.071429,0.445808,50.0,22
+1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,alex-caffi,Alex Caffi,footwork,DNQ,,,2,20,983.44957,966.073657,-17.375914,0.071429,0.418947,50.0,22
+1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,eric-van-de-poele,Eric van de Poele,modena,DNQ,,,2,21,922.310455,907.606668,-14.703787,0.071429,0.365504,50.0,22
+1991,11,1991-08-25,belgium,1991 Belgian Grand Prix,511,nicola-larini,Nicola Larini,modena,DNQ,,,2,22,964.848782,948.295382,-16.553399,0.071429,0.402497,50.0,22

@@ -1,25 +1,22 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,lewis-hamilton,Lewis Hamilton,mclaren,1,58,2,0,1,1227.01771,1243.131776,16.114066,1.0,0.677719,50.0,24
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,jenson-button,Jenson Button,mclaren,2,58,4,0,2,1226.816057,1240.768286,13.952229,0.956522,0.677477,50.0,24
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,mark-webber,Mark Webber,red-bull,3,58,1,0,3,1232.489518,1243.929581,11.440064,0.913043,0.684242,50.0,24
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,michael-schumacher,Michael Schumacher,mercedes,4,58,5,0,4,1275.177802,1282.006499,6.828696,0.869565,0.732991,50.0,24
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,nico-rosberg,Nico Rosberg,mercedes,5,58,6,0,5,1196.429959,1205.722274,9.292315,0.826087,0.640241,50.0,24
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,robert-kubica,Robert Kubica,renault,6,58,7,0,6,1198.786489,1205.757675,6.971186,0.782609,0.643185,50.0,24
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,felipe-massa,Felipe Massa,ferrari,7,58,8,0,7,1255.348471,1256.763097,1.414625,0.73913,0.710838,50.0,24
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,fernando-alonso,Fernando Alonso,ferrari,8,58,12,0,8,1225.582638,1226.565337,0.982699,0.695652,0.675998,50.0,24
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,adrian-sutil,Adrian Sutil,force-india,9,58,11,0,9,986.415186,1000.835515,14.420329,0.652174,0.363767,50.0,24
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,kamui-kobayashi,Kamui Kobayashi,sauber,10,58,10,0,10,970.313707,983.573975,13.260268,0.608696,0.34349,50.0,24
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,pedro-de-la-rosa,Pedro de la Rosa,sauber,11,58,13,0,11,984.796711,994.972034,10.175323,0.565217,0.361711,50.0,24
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,jaime-alguersuari,Jaime Alguersuari,toro-rosso,12,58,16,0,12,1000.688044,1007.671877,6.983832,0.521739,0.382062,50.0,24
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,13,57,18,0,13,995.881268,1001.000807,5.119539,0.478261,0.37587,50.0,24
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,rubens-barrichello,Rubens Barrichello,williams,14,57,15,0,14,1173.067705,1164.276857,-8.790849,0.434783,0.6106,50.0,24
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,vitaly-petrov,Vitaly Petrov,renault,15,57,9,0,15,1008.382556,1008.345995,-0.036561,0.391304,0.392036,50.0,24
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,sebastien-buemi,Sébastien Buemi,toro-rosso,16,57,14,0,16,964.197665,964.793975,0.59631,0.347826,0.3359,50.0,24
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,nico-hulkenberg,Nico Hülkenberg,williams,17,57,17,0,17,980.190322,977.613723,-2.576599,0.304348,0.35588,50.0,24
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,timo-glock,Timo Glock,virgin,18,55,21,0,18,1029.097071,1021.180215,-7.916856,0.26087,0.419207,50.0,24
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,lucas-di-grassi,Lucas di Grassi,virgin,19,55,PL,0,19,963.985109,958.072811,-5.912298,0.217391,0.335637,50.0,24
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,karun-chandhok,Karun Chandhok,hrt,20,52,24,0,20,976.763362,967.880861,-8.882501,0.173913,0.351563,50.0,24
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,bruno-senna,Bruno Senna,hrt,DNF,46,22,1,21,965.163325,954.830363,-10.332962,0.130435,0.337094,50.0,24
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,sebastian-vettel,Sebastian Vettel,red-bull,DNF,39,3,1,22,1251.678707,1220.694417,-30.98429,0.086957,0.706642,50.0,24
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,heikki-kovalainen,Heikki Kovalainen,lotus-racing,DNF,33,20,1,23,1061.380199,1040.442718,-20.937481,0.043478,0.462228,50.0,24
-2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,jarno-trulli,Jarno Trulli,lotus-racing,DNF,32,19,1,24,1032.434292,1011.253206,-21.181086,0.0,0.423622,50.0,24
+2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,lewis-hamilton,Lewis Hamilton,mclaren,1,58,2,0,1,1323.489964,1340.577109,17.087145,1.0,0.658257,50.0,21
+2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,jenson-button,Jenson Button,mclaren,2,58,4,0,2,1321.048817,1335.736175,14.687358,0.95,0.656253,50.0,21
+2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,mark-webber,Mark Webber,red-bull,3,58,1,0,3,1306.85428,1319.628742,12.774462,0.9,0.644511,50.0,21
+2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,michael-schumacher,Michael Schumacher,mercedes,4,58,5,0,4,1483.102567,1486.727375,3.624807,0.85,0.777504,50.0,21
+2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,nico-rosberg,Nico Rosberg,mercedes,5,58,6,0,5,1229.670433,1240.748901,11.078468,0.8,0.578431,50.0,21
+2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,robert-kubica,Robert Kubica,renault,6,58,7,0,6,1270.872354,1277.665937,6.793583,0.75,0.614128,50.0,21
+2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,felipe-massa,Felipe Massa,ferrari,7,58,8,0,7,1389.174214,1388.657906,-0.516308,0.7,0.710326,50.0,21
+2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,fernando-alonso,Fernando Alonso,ferrari,8,58,12,0,8,1368.685587,1366.461031,-2.224556,0.65,0.694491,50.0,21
+2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,adrian-sutil,Adrian Sutil,force-india,9,58,11,0,9,907.538687,922.584588,15.045901,0.6,0.299082,50.0,21
+2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,kamui-kobayashi,Kamui Kobayashi,sauber,10,58,10,0,10,1001.452172,1010.134079,8.681907,0.55,0.376362,50.0,21
+2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,pedro-de-la-rosa,Pedro de la Rosa,sauber,11,58,13,0,11,994.129235,1000.623811,6.494576,0.5,0.370108,50.0,21
+2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,jaime-alguersuari,Jaime Alguersuari,toro-rosso,12,58,16,0,12,977.890081,982.572006,4.681926,0.45,0.356361,50.0,21
+2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,13,57,18,0,13,938.196414,942.019021,3.822607,0.4,0.323548,50.0,21
+2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,rubens-barrichello,Rubens Barrichello,williams,14,57,15,0,14,1214.121057,1203.383036,-10.738021,0.35,0.56476,50.0,21
+2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,vitaly-petrov,Vitaly Petrov,renault,15,57,9,0,15,1011.140354,1006.906195,-4.234159,0.3,0.384683,50.0,21
+2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,sebastien-buemi,Sébastien Buemi,toro-rosso,16,57,14,0,16,939.83624,936.092279,-3.743961,0.25,0.324879,50.0,21
+2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,nico-hulkenberg,Nico Hülkenberg,williams,17,57,17,0,17,966.766138,959.413772,-7.352366,0.2,0.347047,50.0,21
+2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,timo-glock,Timo Glock,virgin,18,55,21,0,18,1086.023313,1071.001213,-15.0221,0.15,0.450442,50.0,21
+2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,lucas-di-grassi,Lucas di Grassi,virgin,19,55,PL,0,19,987.229064,974.016745,-13.212319,0.1,0.364246,50.0,21
+2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,karun-chandhok,Karun Chandhok,hrt,20,52,24,0,20,948.808411,934.698299,-14.110112,0.05,0.332202,50.0,21
+2010,7,2010-05-30,turkey,2010 Formula 1 Turkish Grand Prix,827,sebastian-vettel,Sebastian Vettel,red-bull,DNF,39,3,1,21,1340.851177,1307.23234,-33.618838,0.0,0.672377,50.0,21

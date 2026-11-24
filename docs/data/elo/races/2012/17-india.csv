@@ -1,25 +1,24 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,sebastian-vettel,Sebastian Vettel,red-bull,1,60,1,0,1,1379.682357,1388.997149,9.314792,1.0,0.813704,50.0,24
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,fernando-alonso,Fernando Alonso,ferrari,2,60,5,0,2,1348.215115,1356.747575,8.532459,0.956522,0.785873,50.0,24
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,mark-webber,Mark Webber,red-bull,3,60,2,0,3,1331.474626,1338.619227,7.144601,0.913043,0.770151,50.0,24
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,lewis-hamilton,Lewis Hamilton,mclaren,4,60,3,0,4,1225.982557,1236.569227,10.586669,0.869565,0.657832,50.0,24
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,jenson-button,Jenson Button,mclaren,5,60,4,0,5,1252.285837,1259.200857,6.91502,0.826087,0.687787,50.0,24
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,felipe-massa,Felipe Massa,ferrari,6,60,6,0,6,1239.861845,1245.303254,5.441409,0.782609,0.673781,50.0,24
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,kimi-raikkonen,Kimi Räikkönen,lotus-f1,7,60,7,0,7,1315.657572,1314.87758,-0.779992,0.73913,0.75473,50.0,24
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,nico-hulkenberg,Nico Hülkenberg,force-india,8,60,12,0,8,1118.038242,1126.534786,8.496544,0.695652,0.525721,50.0,24
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,romain-grosjean,Romain Grosjean,lotus-f1,9,60,11,0,9,1045.14368,1056.088073,10.944392,0.652174,0.433286,50.0,24
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,bruno-senna,Bruno Senna,williams,10,60,13,0,10,1025.739251,1035.724259,9.985008,0.608696,0.408995,50.0,24
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,nico-rosberg,Nico Rosberg,mercedes,11,60,10,0,11,1179.104453,1177.269458,-1.834995,0.565217,0.601917,50.0,24
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,paul-di-resta,Paul di Resta,force-india,12,60,16,0,12,1143.339699,1141.546017,-1.793682,0.521739,0.557613,50.0,24
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,daniel-ricciardo,Daniel Ricciardo,toro-rosso,13,60,15,0,13,1045.467781,1047.696129,2.228348,0.478261,0.433694,50.0,24
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,kamui-kobayashi,Kamui Kobayashi,sauber,14,60,17,0,14,1082.665965,1080.365244,-2.300721,0.434783,0.480797,50.0,24
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,15,59,18,0,15,1016.885259,1016.549945,-0.335314,0.391304,0.398011,50.0,24
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,pastor-maldonado,Pastor Maldonado,williams,16,59,9,0,16,1002.857908,1001.2111,-1.646808,0.347826,0.380762,50.0,24
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,vitaly-petrov,Vitaly Petrov,caterham,17,59,19,0,17,979.409562,977.005163,-2.404399,0.304348,0.352436,50.0,24
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,heikki-kovalainen,Heikki Kovalainen,caterham,18,59,20,0,18,952.026892,949.053816,-2.973076,0.26087,0.320331,50.0,24
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,charles-pic,Charles Pic,marussia,19,59,24,0,19,923.97802,920.410193,-3.567827,0.217391,0.288748,50.0,24
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,timo-glock,Timo Glock,marussia,20,58,21,0,20,893.025411,888.937937,-4.087475,0.173913,0.255663,50.0,24
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,narain-karthikeyan,Narain Karthikeyan,hrt,21,58,23,0,21,821.996838,819.129032,-2.867806,0.130435,0.187791,50.0,24
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,michael-schumacher,Michael Schumacher,mercedes,22,55,14,0,22,1086.666792,1066.720471,-19.946321,0.086957,0.485883,50.0,24
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,pedro-de-la-rosa,Pedro de la Rosa,hrt,DNF,42,22,1,23,897.438641,886.599647,-10.838994,0.043478,0.260258,50.0,24
-2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,sergio-perez,Sergio Pérez,sauber,DNF,20,8,1,24,1085.37186,1061.160026,-24.211834,0.0,0.484237,50.0,24
+2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,sebastian-vettel,Sebastian Vettel,red-bull,1,60,1,0,1,1583.437498,1592.514879,9.077381,1.0,0.818452,50.0,23
+2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,fernando-alonso,Fernando Alonso,ferrari,2,60,5,0,2,1493.610362,1503.133342,9.52298,0.954545,0.764086,50.0,23
+2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,mark-webber,Mark Webber,red-bull,3,60,2,0,3,1453.816566,1462.39725,8.580684,0.909091,0.737477,50.0,23
+2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,lewis-hamilton,Lewis Hamilton,mclaren,4,60,3,0,4,1425.829383,1433.11632,7.286938,0.863636,0.717898,50.0,23
+2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,jenson-button,Jenson Button,mclaren,5,60,4,0,5,1422.421967,1427.557704,5.135737,0.818182,0.715467,50.0,23
+2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,felipe-massa,Felipe Massa,ferrari,6,60,6,0,6,1338.097012,1344.114763,6.017751,0.772727,0.652372,50.0,23
+2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,kimi-raikkonen,Kimi Räikkönen,lotus-f1,7,60,7,0,7,1454.052325,1453.534002,-0.518323,0.727273,0.737639,50.0,23
+2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,nico-hulkenberg,Nico Hülkenberg,force-india,8,60,12,0,8,1109.613644,1120.54704,10.933396,0.681818,0.46315,50.0,23
+2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,romain-grosjean,Romain Grosjean,lotus-f1,9,60,11,0,9,1043.272591,1054.724431,11.45184,0.636364,0.407327,50.0,23
+2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,bruno-senna,Bruno Senna,williams,10,60,13,0,10,989.704465,1001.082122,11.377657,0.590909,0.363356,50.0,23
+2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,nico-rosberg,Nico Rosberg,mercedes,11,60,10,0,11,1255.507641,1253.478415,-2.029226,0.545455,0.586039,50.0,23
+2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,paul-di-resta,Paul di Resta,force-india,12,60,16,0,12,1151.408142,1151.476565,0.068423,0.5,0.498632,50.0,23
+2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,daniel-ricciardo,Daniel Ricciardo,toro-rosso,13,60,15,0,13,1008.595387,1012.387236,3.791849,0.454545,0.378708,50.0,23
+2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,kamui-kobayashi,Kamui Kobayashi,sauber,14,60,17,0,14,1115.338854,1112.393106,-2.945748,0.409091,0.468006,50.0,23
+2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,15,59,18,0,15,1015.954434,1014.899366,-1.055068,0.363636,0.384738,50.0,23
+2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,pastor-maldonado,Pastor Maldonado,williams,16,59,9,0,16,1009.887516,1006.808345,-3.079171,0.318182,0.379765,50.0,23
+2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,vitaly-petrov,Vitaly Petrov,caterham,17,59,19,0,17,958.94638,955.643016,-3.303363,0.272727,0.338795,50.0,23
+2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,heikki-kovalainen,Heikki Kovalainen,caterham,18,59,20,0,18,902.167237,898.772651,-3.394586,0.227273,0.295164,50.0,23
+2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,charles-pic,Charles Pic,marussia,19,59,24,0,19,915.812513,909.632192,-6.180321,0.181818,0.305425,50.0,23
+2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,timo-glock,Timo Glock,marussia,20,58,21,0,20,827.305238,822.033467,-5.271771,0.136364,0.241799,50.0,23
+2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,narain-karthikeyan,Narain Karthikeyan,hrt,21,58,23,0,21,781.44517,775.399774,-6.045396,0.090909,0.211817,50.0,23
+2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,michael-schumacher,Michael Schumacher,mercedes,22,55,14,0,22,1247.495572,1220.797092,-26.69848,0.045455,0.579424,50.0,23
+2012,17,2012-10-28,india,2012 Formula 1 Airtel Indian Grand Prix,875,sergio-perez,Sergio Pérez,sauber,DNF,20,8,1,23,1099.360422,1076.637241,-22.723181,0.0,0.454464,50.0,23

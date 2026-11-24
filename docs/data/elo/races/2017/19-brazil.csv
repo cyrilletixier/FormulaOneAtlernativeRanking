@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,sebastian-vettel,Sebastian Vettel,ferrari,1,71,2,0,1,1366.127047,1377.431738,11.304691,1.0,0.773906,50.0,20
-2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,valtteri-bottas,Valtteri Bottas,mercedes,2,71,1,0,2,1346.482086,1356.09903,9.616944,0.947368,0.75503,50.0,20
-2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,kimi-raikkonen,Kimi Räikkönen,ferrari,3,71,3,0,3,1265.689817,1276.978421,11.288605,0.894737,0.668965,50.0,20
-2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,lewis-hamilton,Lewis Hamilton,mercedes,4,71,PL,0,4,1515.07208,1512.732139,-2.339941,0.842105,0.888904,50.0,20
-2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,max-verstappen,Max Verstappen,red-bull,5,71,4,0,5,1213.93793,1223.026913,9.088984,0.789474,0.607694,50.0,20
-2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,daniel-ricciardo,Daniel Ricciardo,red-bull,6,71,14,0,6,1287.137833,1289.327115,2.189283,0.736842,0.693056,50.0,20
-2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,felipe-massa,Felipe Massa,williams,7,71,9,0,7,1137.262841,1145.919134,8.656293,0.684211,0.511085,50.0,20
-2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,fernando-alonso,Fernando Alonso,mclaren,8,71,6,0,8,1027.518077,1040.564906,13.046829,0.631579,0.370642,50.0,20
-2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,sergio-perez,Sergio Pérez,force-india,9,71,5,0,9,1230.177049,1227.756784,-2.420265,0.578947,0.627353,50.0,20
-2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,nico-hulkenberg,Nico Hülkenberg,renault,10,70,7,0,10,1041.400349,1048.315063,6.914714,0.526316,0.388022,50.0,20
-2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,carlos-sainz-jr,Carlos Sainz Jr.,renault,11,70,8,0,11,1060.953988,1063.997815,3.043827,0.473684,0.412808,50.0,20
-2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,pierre-gasly,Pierre Gasly,toro-rosso,12,70,19,0,12,1001.920302,1006.012611,4.092308,0.421053,0.339206,50.0,20
-2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,marcus-ericsson,Marcus Ericsson,sauber,13,70,17,0,13,930.607855,936.160718,5.552863,0.368421,0.257364,50.0,20
-2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,pascal-wehrlein,Pascal Wehrlein,sauber,14,70,15,0,14,929.610917,932.585788,2.974871,0.315789,0.256292,50.0,20
-2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,romain-grosjean,Romain Grosjean,haas,15,69,11,0,15,1053.550291,1046.538889,-7.011402,0.263158,0.403386,50.0,20
-2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,lance-stroll,Lance Stroll,williams,16,69,16,0,16,1069.708068,1059.034566,-10.673502,0.210526,0.423996,50.0,20
-2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,brendon-hartley,Brendon Hartley,toro-rosso,DNF,40,18,1,17,989.922944,981.577919,-8.345025,0.157895,0.324795,50.0,20
-2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,esteban-ocon,Esteban Ocon,force-india,DNF,0,10,1,18,1160.083133,1135.698375,-24.384759,0.052632,0.540327,50.0,20
-2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,kevin-magnussen,Kevin Magnussen,haas,DNF,0,13,1,19,1044.937902,1027.945413,-16.99249,0.052632,0.392481,50.0,20
-2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,stoffel-vandoorne,Stoffel Vandoorne,mclaren,DNF,0,12,1,20,1022.722033,1007.119204,-15.602829,0.052632,0.364688,50.0,20
+2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,sebastian-vettel,Sebastian Vettel,ferrari,1,71,2,0,1,1601.643768,1611.625291,9.981523,1.0,0.80037,50.0,19
+2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,valtteri-bottas,Valtteri Bottas,mercedes,2,71,1,0,2,1478.590376,1489.688474,11.098099,0.944444,0.722482,50.0,19
+2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,kimi-raikkonen,Kimi Räikkönen,ferrari,3,71,3,0,3,1390.215984,1401.733575,11.517592,0.888889,0.658537,50.0,19
+2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,lewis-hamilton,Lewis Hamilton,mercedes,4,71,PL,0,4,1754.2832,1752.089416,-2.193784,0.833333,0.877209,50.0,19
+2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,max-verstappen,Max Verstappen,red-bull,5,71,4,0,5,1354.361985,1361.702948,7.340963,0.777778,0.630959,50.0,19
+2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,daniel-ricciardo,Daniel Ricciardo,red-bull,6,71,14,0,6,1550.033574,1547.67528,-2.358294,0.722222,0.769388,50.0,19
+2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,felipe-massa,Felipe Massa,williams,7,71,9,0,7,1191.125102,1199.596056,8.470954,0.666667,0.497248,50.0,19
+2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,fernando-alonso,Fernando Alonso,mclaren,8,71,6,0,8,1125.702458,1134.157098,8.45464,0.611111,0.442018,50.0,19
+2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,sergio-perez,Sergio Pérez,force-india,9,71,5,0,9,1268.699157,1268.373706,-0.325451,0.555556,0.562065,50.0,19
+2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,nico-hulkenberg,Nico Hülkenberg,renault,10,70,7,0,10,1133.59177,1136.158414,2.566644,0.5,0.448667,50.0,19
+2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,carlos-sainz-jr,Carlos Sainz Jr.,renault,11,70,8,0,11,1103.522316,1104.575505,1.053189,0.444444,0.423381,50.0,19
+2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,pierre-gasly,Pierre Gasly,toro-rosso,12,70,19,0,12,982.590393,985.79015,3.199757,0.388889,0.324894,50.0,19
+2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,marcus-ericsson,Marcus Ericsson,sauber,13,70,17,0,13,844.337335,849.769806,5.432471,0.333333,0.224684,50.0,19
+2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,pascal-wehrlein,Pascal Wehrlein,sauber,14,70,15,0,14,846.563549,849.144646,2.581097,0.277778,0.226156,50.0,19
+2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,romain-grosjean,Romain Grosjean,haas,15,69,11,0,15,1061.681339,1053.363945,-8.317393,0.222222,0.38857,50.0,19
+2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,lance-stroll,Lance Stroll,williams,16,69,16,0,16,1048.415774,1037.865836,-10.549938,0.166667,0.377665,50.0,19
+2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,esteban-ocon,Esteban Ocon,force-india,DNF,0,10,1,17,1126.128106,1106.787043,-19.341063,0.055556,0.442377,50.0,19
+2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,kevin-magnussen,Kevin Magnussen,haas,DNF,0,13,1,18,1027.952802,1012.680458,-15.272344,0.055556,0.361002,50.0,19
+2017,19,2017-11-12,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2017,975,stoffel-vandoorne,Stoffel Vandoorne,mclaren,DNF,0,12,1,19,979.304012,965.965352,-13.33866,0.055556,0.322329,50.0,19

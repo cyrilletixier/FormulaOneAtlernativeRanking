@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,lewis-hamilton,Lewis Hamilton,mercedes,1,71,1,0,1,1530.094627,1535.37783,5.283204,1.0,0.894336,50.0,20
-2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,max-verstappen,Max Verstappen,red-bull,2,71,5,0,2,1299.940298,1311.781331,11.841033,0.947368,0.710548,50.0,20
-2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,kimi-raikkonen,Kimi Räikkönen,ferrari,3,71,4,0,3,1339.980419,1347.207603,7.227185,0.894737,0.750193,50.0,20
-2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,daniel-ricciardo,Daniel Ricciardo,red-bull,4,71,11,0,4,1169.328385,1183.352859,14.024474,0.842105,0.561616,50.0,20
-2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,valtteri-bottas,Valtteri Bottas,mercedes,5,71,3,0,5,1379.313194,1379.485857,0.172663,0.789474,0.78602,50.0,20
-2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,sebastian-vettel,Sebastian Vettel,ferrari,6,71,2,0,6,1419.40612,1415.283548,-4.122572,0.736842,0.819294,50.0,20
-2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,charles-leclerc,Charles Leclerc,sauber,7,71,7,0,7,1016.223514,1032.030835,15.807321,0.684211,0.368064,50.0,20
-2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,romain-grosjean,Romain Grosjean,haas,8,71,8,0,8,1030.122491,1042.431176,12.308685,0.631579,0.385405,50.0,20
-2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,kevin-magnussen,Kevin Magnussen,haas,9,71,10,0,9,1040.811557,1049.816148,9.004591,0.578947,0.398856,50.0,20
-2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,sergio-perez,Sergio Pérez,force-india,10,70,12,0,10,1146.68212,1146.325525,-0.356595,0.526316,0.533448,50.0,20
-2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,brendon-hartley,Brendon Hartley,toro-rosso,11,70,16,0,11,945.30229,954.808986,9.506696,0.473684,0.28355,50.0,20
-2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,carlos-sainz-jr,Carlos Sainz Jr.,renault,12,70,15,0,12,1089.501785,1087.511988,-1.989797,0.421053,0.460849,50.0,20
-2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,pierre-gasly,Pierre Gasly,toro-rosso,13,70,9,0,13,1027.052348,1026.39544,-0.656908,0.368421,0.381559,50.0,20
-2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,esteban-ocon,Esteban Ocon,force-india,14,70,18,0,14,1099.01538,1091.154583,-7.860797,0.315789,0.473005,50.0,20
-2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,stoffel-vandoorne,Stoffel Vandoorne,mclaren,15,70,20,0,15,1022.090362,1016.480192,-5.61017,0.263158,0.375361,50.0,20
-2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,sergey-sirotkin,Sergey Sirotkin,williams,16,69,14,0,16,946.300058,942.592355,-3.707703,0.210526,0.28468,50.0,20
-2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,fernando-alonso,Fernando Alonso,mclaren,17,69,17,0,17,1013.509057,1003.168794,-10.340263,0.157895,0.3647,50.0,20
-2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,lance-stroll,Lance Stroll,williams,18,69,19,0,18,992.537799,980.850775,-11.687025,0.105263,0.339004,50.0,20
-2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,nico-hulkenberg,Nico Hülkenberg,renault,DNF,32,13,1,19,1090.776208,1070.283911,-20.492297,0.052632,0.462478,50.0,20
-2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,marcus-ericsson,Marcus Ericsson,sauber,DNF,20,6,1,20,1015.393412,997.041687,-18.351725,0.0,0.367034,50.0,20
+2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,lewis-hamilton,Lewis Hamilton,mercedes,1,71,1,0,1,1801.902491,1807.354746,5.452255,1.0,0.890955,50.0,19
+2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,max-verstappen,Max Verstappen,red-bull,2,71,5,0,2,1454.987124,1466.807753,11.820628,0.944444,0.708032,50.0,19
+2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,kimi-raikkonen,Kimi Räikkönen,ferrari,3,71,4,0,3,1502.391707,1509.907598,7.515891,0.888889,0.738571,50.0,19
+2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,daniel-ricciardo,Daniel Ricciardo,red-bull,4,71,11,0,4,1524.98987,1529.029133,4.039263,0.833333,0.752548,50.0,19
+2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,valtteri-bottas,Valtteri Bottas,mercedes,5,71,3,0,5,1550.829259,1551.315344,0.486085,0.777778,0.768056,50.0,19
+2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,sebastian-vettel,Sebastian Vettel,ferrari,6,71,2,0,6,1630.877749,1626.349465,-4.528284,0.722222,0.812788,50.0,19
+2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,charles-leclerc,Charles Leclerc,sauber,7,71,7,0,7,1010.919931,1025.894297,14.974367,0.666667,0.367179,50.0,19
+2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,romain-grosjean,Romain Grosjean,haas,8,71,8,0,8,1007.133075,1019.480027,12.346952,0.611111,0.364172,50.0,19
+2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,kevin-magnussen,Kevin Magnussen,haas,9,71,10,0,9,1020.245397,1029.29283,9.047434,0.555556,0.374607,50.0,19
+2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,sergio-perez,Sergio Pérez,force-india,10,70,12,0,10,1215.027267,1213.440912,-1.586356,0.5,0.531727,50.0,19
+2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,brendon-hartley,Brendon Hartley,toro-rosso,11,70,16,0,11,916.855741,924.350166,7.494425,0.444444,0.294556,50.0,19
+2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,carlos-sainz-jr,Carlos Sainz Jr.,renault,12,70,15,0,12,1121.535373,1118.156352,-3.379021,0.388889,0.456469,50.0,19
+2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,pierre-gasly,Pierre Gasly,toro-rosso,13,70,9,0,13,998.370204,997.175149,-1.195055,0.333333,0.357234,50.0,19
+2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,esteban-ocon,Esteban Ocon,force-india,14,70,18,0,14,1088.794073,1081.188951,-7.605122,0.277778,0.42988,50.0,19
+2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,stoffel-vandoorne,Stoffel Vandoorne,mclaren,15,70,20,0,15,970.189917,964.543428,-5.646488,0.222222,0.335152,50.0,19
+2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,sergey-sirotkin,Sergey Sirotkin,williams,16,69,14,0,16,893.55398,888.016195,-5.537785,0.166667,0.277422,50.0,19
+2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,fernando-alonso,Fernando Alonso,mclaren,17,69,17,0,17,1102.040518,1085.564279,-16.47624,0.111111,0.440636,50.0,19
+2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,lance-stroll,Lance Stroll,williams,18,69,19,0,18,931.739205,919.231783,-12.507422,0.055556,0.305704,50.0,19
+2018,20,2018-11-11,brazil,Formula 1 Grande Prêmio Heineken do Brasil 2018,996,marcus-ericsson,Marcus Ericsson,sauber,DNF,20,6,1,19,916.525816,901.810289,-14.715528,0.0,0.294311,50.0,19

@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,max-verstappen,Max Verstappen,red-bull,1,53,2,0,1,1409.857331,1419.679462,9.822131,1.0,0.803557,50.0,20
-2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,lewis-hamilton,Lewis Hamilton,mercedes,2,53,4,0,2,1484.709637,1488.898454,4.188817,0.947368,0.863592,50.0,20
-2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,george-russell,George Russell,mercedes,3,53,6,0,3,1162.701661,1181.427987,18.726326,0.894737,0.52021,50.0,20
-2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,sergio-perez,Sergio Pérez,red-bull,4,53,3,0,4,1252.518723,1262.876528,10.357805,0.842105,0.634949,50.0,20
-2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,5,53,19,0,5,1251.740595,1259.514538,7.773943,0.789474,0.633995,50.0,20
-2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,fernando-alonso,Fernando Alonso,alpine,6,53,7,0,6,1143.753835,1155.829826,12.075991,0.736842,0.495322,50.0,20
-2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,lando-norris,Lando Norris,mclaren,7,53,5,0,7,1222.083612,1226.444557,4.360945,0.684211,0.596992,50.0,20
-2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,esteban-ocon,Esteban Ocon,alpine,8,53,10,0,8,1178.662458,1183.18706,4.524602,0.631579,0.541087,50.0,20
-2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,daniel-ricciardo,Daniel Ricciardo,mclaren,9,53,9,0,9,1144.684757,1148.80481,4.120053,0.578947,0.496546,50.0,20
-2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,lance-stroll,Lance Stroll,aston-martin,10,53,15,0,10,1071.648215,1077.898505,6.25029,0.526316,0.40131,50.0,20
-2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,sebastian-vettel,Sebastian Vettel,aston-martin,11,53,12,0,11,1090.556861,1092.957183,2.400322,0.473684,0.425678,50.0,20
-2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,pierre-gasly,Pierre Gasly,alphatauri,12,53,14,0,12,1112.918763,1111.230034,-1.688728,0.421053,0.454827,50.0,20
-2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,alexander-albon,Alexander Albon,williams,13,53,13,0,13,1107.361618,1103.404781,-3.956837,0.368421,0.447558,50.0,20
-2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,valtteri-bottas,Valtteri Bottas,alfa-romeo,14,53,11,0,14,1241.625551,1226.339625,-15.285926,0.315789,0.621508,50.0,20
-2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,mick-schumacher,Mick Schumacher,haas,15,53,17,0,15,940.040764,940.890657,0.849893,0.263158,0.24616,50.0,20
-2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,guanyu-zhou,Guanyu Zhou,alfa-romeo,16,47,16,0,16,981.809385,977.74078,-4.068605,0.210526,0.291898,50.0,20
-2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,nicholas-latifi,Nicholas Latifi,williams,DNF,40,18,1,17,921.151142,917.70634,-3.444802,0.157895,0.226791,50.0,20
-2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,kevin-magnussen,Kevin Magnussen,haas,DNF,37,20,1,18,984.446783,974.96433,-9.482453,0.105263,0.294912,50.0,20
-2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,charles-leclerc,Charles Leclerc,ferrari,DNF,17,1,1,19,1286.52841,1254.059423,-32.468988,0.026316,0.675696,50.0,20
-2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,yuki-tsunoda,Yuki Tsunoda,alphatauri,DNF,17,8,1,20,1012.173207,997.118427,-15.05478,0.026316,0.327411,50.0,20
+2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,max-verstappen,Max Verstappen,red-bull,1,53,2,0,1,1634.191733,1644.087161,9.895428,1.0,0.802091,50.0,19
+2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,lewis-hamilton,Lewis Hamilton,mercedes,2,53,4,0,2,1740.264776,1744.526347,4.261571,0.944444,0.859213,50.0,19
+2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,george-russell,George Russell,mercedes,3,53,6,0,3,1145.321994,1168.682579,23.360585,0.888889,0.421677,50.0,19
+2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,sergio-perez,Sergio Pérez,red-bull,4,53,3,0,4,1391.819922,1401.97256,10.152638,0.833333,0.630281,50.0,19
+2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,5,53,19,0,5,1415.037884,1421.484552,6.446668,0.777778,0.648844,50.0,19
+2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,fernando-alonso,Fernando Alonso,alpine,6,53,7,0,6,1201.626944,1214.251458,12.624515,0.722222,0.469732,50.0,19
+2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,lando-norris,Lando Norris,mclaren,7,53,5,0,7,1297.609166,1303.342364,5.733197,0.666667,0.552003,50.0,19
+2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,esteban-ocon,Esteban Ocon,alpine,8,53,10,0,8,1255.501194,1260.255548,4.754354,0.611111,0.516024,50.0,19
+2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,daniel-ricciardo,Daniel Ricciardo,mclaren,9,53,9,0,9,1252.53337,1254.637302,2.103932,0.555556,0.513477,50.0,19
+2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,lance-stroll,Lance Stroll,aston-martin,10,53,15,0,10,1063.137313,1070.458283,7.32097,0.5,0.353581,50.0,19
+2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,sebastian-vettel,Sebastian Vettel,aston-martin,11,53,12,0,11,1160.956825,1161.431691,0.474866,0.444444,0.434947,50.0,19
+2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,pierre-gasly,Pierre Gasly,alphatauri,12,53,14,0,12,1218.577929,1213.807602,-4.770327,0.388889,0.484295,50.0,19
+2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,alexander-albon,Alexander Albon,williams,13,53,13,0,13,1151.968271,1147.269476,-4.698795,0.333333,0.427309,50.0,19
+2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,valtteri-bottas,Valtteri Bottas,alfa-romeo,14,53,11,0,14,1491.367333,1469.900844,-21.466489,0.277778,0.707108,50.0,19
+2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,mick-schumacher,Mick Schumacher,haas,15,53,17,0,15,880.583807,880.710903,0.127096,0.222222,0.21968,50.0,19
+2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,guanyu-zhou,Guanyu Zhou,alfa-romeo,16,47,16,0,16,999.114552,992.279811,-6.834741,0.166667,0.303361,50.0,19
+2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,nicholas-latifi,Nicholas Latifi,williams,DNF,40,18,1,17,847.167288,842.791011,-4.376278,0.111111,0.198637,50.0,19
+2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,kevin-magnussen,Kevin Magnussen,haas,DNF,37,20,1,18,972.092881,960.714039,-11.378841,0.055556,0.283132,50.0,19
+2022,12,2022-07-24,france,Formula 1 Lenovo Grand Prix de France 2022,1069,charles-leclerc,Charles Leclerc,ferrari,DNF,17,1,1,19,1448.060899,1414.33055,-33.730348,0.0,0.674607,50.0,19

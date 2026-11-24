@@ -1,21 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,sergio-perez,Sergio Pérez,red-bull,1,64,3,0,1,1276.231159,1293.124621,16.893462,1.0,0.662131,50.0,20
-2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,2,64,2,0,2,1264.10368,1279.090337,14.986657,0.947368,0.647635,50.0,20
-2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,max-verstappen,Max Verstappen,red-bull,3,64,4,0,3,1380.566964,1386.554059,5.987096,0.894737,0.774995,50.0,20
-2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,charles-leclerc,Charles Leclerc,ferrari,4,64,1,0,4,1272.796325,1281.999092,9.202767,0.842105,0.65805,50.0,20
-2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,george-russell,George Russell,mercedes,5,64,6,0,5,1114.855286,1131.484775,16.62949,0.789474,0.456884,50.0,20
-2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,lando-norris,Lando Norris,mclaren,6,64,5,0,6,1220.285788,1227.454645,7.168857,0.736842,0.593465,50.0,20
-2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,fernando-alonso,Fernando Alonso,alpine,7,64,7,0,7,1095.995381,1108.584325,12.588944,0.684211,0.432432,50.0,20
-2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,lewis-hamilton,Lewis Hamilton,mercedes,8,64,8,0,8,1492.110643,1480.297363,-11.81328,0.631579,0.867845,50.0,20
-2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,valtteri-bottas,Valtteri Bottas,alfa-romeo,9,64,12,0,9,1287.774186,1282.936793,-4.837393,0.578947,0.675695,50.0,20
-2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,sebastian-vettel,Sebastian Vettel,aston-martin,10,64,9,0,10,1076.246387,1082.208077,5.96169,0.526316,0.407082,50.0,20
-2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,pierre-gasly,Pierre Gasly,alphatauri,11,64,17,0,11,1130.456607,1130.279697,-0.17691,0.473684,0.477222,50.0,20
-2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,esteban-ocon,Esteban Ocon,alpine,12,64,10,0,12,1174.327339,1168.656902,-5.670437,0.421053,0.534461,50.0,20
-2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,daniel-ricciardo,Daniel Ricciardo,mclaren,13,64,14,0,13,1147.500147,1140.946842,-6.553304,0.368421,0.499487,50.0,20
-2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,lance-stroll,Lance Stroll,aston-martin,14,64,18,0,14,1077.010194,1072.396854,-4.61334,0.315789,0.408056,50.0,20
-2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,nicholas-latifi,Nicholas Latifi,williams,15,63,19,0,15,917.932597,919.856557,1.92396,0.263158,0.224679,50.0,20
-2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,guanyu-zhou,Guanyu Zhou,alfa-romeo,16,63,20,0,16,990.16635,985.586119,-4.580231,0.210526,0.302131,50.0,20
-2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,yuki-tsunoda,Yuki Tsunoda,alphatauri,17,63,11,0,17,1041.129461,1030.875482,-10.25398,0.157895,0.362974,50.0,20
-2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,alexander-albon,Alexander Albon,williams,DNF,48,16,1,18,1159.517695,1139.02198,-20.495715,0.105263,0.515177,50.0,20
-2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,mick-schumacher,Mick Schumacher,haas,DNF,24,15,1,19,902.765949,894.900161,-7.865788,0.052632,0.209947,50.0,20
-2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,kevin-magnussen,Kevin Magnussen,haas,DNF,19,13,1,20,979.201171,964.718625,-14.482545,0.0,0.289651,50.0,20
+2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,sergio-perez,Sergio Pérez,red-bull,1,64,3,0,1,1377.207981,1396.479824,19.271843,1.0,0.614563,50.0,18
+2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,2,64,2,0,2,1365.395801,1382.211723,16.815922,0.941176,0.604858,50.0,18
+2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,max-verstappen,Max Verstappen,red-bull,3,64,4,0,3,1610.692503,1615.554411,4.861908,0.882353,0.785115,50.0,18
+2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,charles-leclerc,Charles Leclerc,ferrari,4,64,1,0,4,1409.497682,1418.639695,9.142013,0.823529,0.640689,50.0,18
+2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,george-russell,George Russell,mercedes,5,64,6,0,5,1078.642707,1098.755965,20.113258,0.764706,0.362441,50.0,18
+2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,lando-norris,Lando Norris,mclaren,6,64,5,0,6,1302.481734,1310.169918,7.688184,0.705882,0.552119,50.0,18
+2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,fernando-alonso,Fernando Alonso,alpine,7,64,7,0,7,1166.028118,1176.616161,10.588043,0.647059,0.435298,50.0,18
+2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,lewis-hamilton,Lewis Hamilton,mercedes,8,64,8,0,8,1754.548585,1740.750548,-13.798037,0.588235,0.864196,50.0,18
+2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,valtteri-bottas,Valtteri Bottas,alfa-romeo,9,64,12,0,9,1541.598141,1531.087846,-10.510294,0.529412,0.739618,50.0,18
+2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,sebastian-vettel,Sebastian Vettel,aston-martin,10,64,9,0,10,1170.672279,1172.239201,1.566922,0.470588,0.43925,50.0,18
+2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,pierre-gasly,Pierre Gasly,alphatauri,11,64,17,0,11,1262.381782,1257.076331,-5.305451,0.411765,0.517874,50.0,18
+2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,esteban-ocon,Esteban Ocon,alpine,12,64,10,0,12,1245.010381,1237.509248,-7.501133,0.352941,0.502964,50.0,18
+2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,daniel-ricciardo,Daniel Ricciardo,mclaren,13,64,14,0,13,1282.681965,1270.625347,-12.056618,0.294118,0.53525,50.0,18
+2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,lance-stroll,Lance Stroll,aston-martin,14,64,18,0,14,1083.583298,1077.02491,-6.558388,0.235294,0.366462,50.0,18
+2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,nicholas-latifi,Nicholas Latifi,williams,15,63,19,0,15,851.818436,850.703306,-1.11513,0.176471,0.198773,50.0,18
+2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,guanyu-zhou,Guanyu Zhou,alfa-romeo,16,63,20,0,16,1012.244077,1002.62872,-9.615357,0.117647,0.309954,50.0,18
+2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,yuki-tsunoda,Yuki Tsunoda,alphatauri,17,63,11,0,17,1042.216361,1028.494322,-13.722039,0.058824,0.333264,50.0,18
+2022,7,2022-05-29,monaco,Formula 1 Grand Prix de Monaco 2022,1064,mick-schumacher,Mick Schumacher,haas,DNF,24,15,1,18,849.42909,839.563444,-9.865646,0.0,0.197313,50.0,18

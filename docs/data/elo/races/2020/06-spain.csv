@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,lewis-hamilton,Lewis Hamilton,mercedes,1,66,1,0,1,1575.696827,1579.993155,4.296327,1.0,0.914073,50.0,20
-2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,max-verstappen,Max Verstappen,red-bull,2,66,3,0,2,1363.602544,1372.880649,9.278105,0.947368,0.761806,50.0,20
-2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,valtteri-bottas,Valtteri Bottas,mercedes,3,66,2,0,3,1414.648901,1419.016898,4.367997,0.894737,0.807377,50.0,20
-2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,lance-stroll,Lance Stroll,racing-point,4,65,5,0,4,1068.318504,1089.875042,21.556538,0.842105,0.410974,50.0,20
-2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,sergio-perez,Sergio Pérez,racing-point,5,65,4,0,5,1170.323983,1182.682143,12.35816,0.789474,0.54231,50.0,20
-2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,6,65,7,0,6,1153.748935,1164.535872,10.786937,0.736842,0.521103,50.0,20
-2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,sebastian-vettel,Sebastian Vettel,ferrari,7,65,11,0,7,1263.986135,1265.361965,1.37583,0.684211,0.656694,50.0,20
-2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,alexander-albon,Alexander Albon,red-bull,8,65,6,0,8,1194.861601,1197.774951,2.91335,0.631579,0.573312,50.0,20
-2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,pierre-gasly,Pierre Gasly,alphatauri,9,65,10,0,9,1111.852971,1117.449889,5.596918,0.578947,0.467009,50.0,20
-2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,lando-norris,Lando Norris,mclaren,10,65,8,0,10,1138.920939,1140.136302,1.215363,0.526316,0.502009,50.0,20
-2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,daniel-ricciardo,Daniel Ricciardo,renault,11,65,13,0,11,1118.70238,1118.593034,-0.109345,0.473684,0.475871,50.0,20
-2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,daniil-kvyat,Daniil Kvyat,alphatauri,12,65,12,0,12,1066.771163,1067.373738,0.602575,0.421053,0.409001,50.0,20
-2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,esteban-ocon,Esteban Ocon,renault,13,65,15,0,13,1091.057586,1087.471279,-3.586307,0.368421,0.440147,50.0,20
-2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,14,65,14,0,14,1088.749982,1082.680732,-6.06925,0.315789,0.437174,50.0,20
-2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,kevin-magnussen,Kevin Magnussen,haas,15,65,16,0,15,978.135153,976.264282,-1.870871,0.263158,0.300575,50.0,20
-2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,16,65,20,0,16,992.413425,987.077106,-5.336319,0.210526,0.317253,50.0,20
-2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,george-russell,George Russell,williams,17,65,18,0,17,922.545474,918.461977,-4.083496,0.157895,0.239565,50.0,20
-2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,nicholas-latifi,Nicholas Latifi,williams,18,64,19,0,18,969.493873,960.223671,-9.270203,0.105263,0.290667,50.0,20
-2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,romain-grosjean,Romain Grosjean,haas,19,64,17,0,19,960.588999,949.190009,-11.39899,0.052632,0.280611,50.0,20
-2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,charles-leclerc,Charles Leclerc,ferrari,DNF,38,9,1,20,1260.329098,1227.705778,-32.62332,0.0,0.652466,50.0,20
+2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,lewis-hamilton,Lewis Hamilton,mercedes,1,66,1,0,1,1845.790297,1850.372992,4.582695,1.0,0.908346,50.0,19
+2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,max-verstappen,Max Verstappen,red-bull,2,66,3,0,2,1560.209769,1568.76551,8.555741,0.944444,0.77333,50.0,19
+2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,valtteri-bottas,Valtteri Bottas,mercedes,3,66,2,0,3,1638.122876,1641.691157,3.56828,0.888889,0.817523,50.0,19
+2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,lance-stroll,Lance Stroll,racing-point,4,65,5,0,4,1050.498962,1073.300156,22.801194,0.833333,0.377309,50.0,19
+2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,sergio-perez,Sergio Pérez,racing-point,5,65,4,0,5,1230.419654,1242.834239,12.414585,0.777778,0.529486,50.0,19
+2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,6,65,7,0,6,1224.972703,1234.838666,9.865963,0.722222,0.524903,50.0,19
+2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,sebastian-vettel,Sebastian Vettel,ferrari,7,65,11,0,7,1501.988318,1498.4911,-3.497218,0.666667,0.736611,50.0,19
+2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,alexander-albon,Alexander Albon,red-bull,8,65,6,0,8,1201.799908,1207.089464,5.289556,0.611111,0.50532,50.0,19
+2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,pierre-gasly,Pierre Gasly,alphatauri,9,65,10,0,9,1139.416686,1144.58252,5.165834,0.555556,0.452239,50.0,19
+2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,lando-norris,Lando Norris,mclaren,10,65,8,0,10,1172.933045,1173.893601,0.960557,0.5,0.480789,50.0,19
+2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,daniel-ricciardo,Daniel Ricciardo,renault,11,65,13,0,11,1298.657551,1291.581856,-7.075694,0.444444,0.585958,50.0,19
+2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,daniil-kvyat,Daniil Kvyat,alphatauri,12,65,12,0,12,1089.130353,1088.094684,-1.035669,0.388889,0.409602,50.0,19
+2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,esteban-ocon,Esteban Ocon,renault,13,65,15,0,13,1104.898388,1100.419077,-4.47931,0.333333,0.42292,50.0,19
+2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,14,65,14,0,14,1221.153654,1208.958313,-12.195341,0.277778,0.521685,50.0,19
+2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,kevin-magnussen,Kevin Magnussen,haas,15,65,16,0,15,984.448776,979.371399,-5.077377,0.222222,0.32377,50.0,19
+2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,16,65,20,0,16,942.090827,935.875249,-6.215579,0.166667,0.290978,50.0,19
+2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,george-russell,George Russell,williams,17,65,18,0,17,877.552089,870.908246,-6.643843,0.111111,0.243988,50.0,19
+2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,nicholas-latifi,Nicholas Latifi,williams,18,64,19,0,18,948.431753,936.419695,-12.012058,0.055556,0.295797,50.0,19
+2020,6,2020-08-16,spain,Formula 1 Aramco Gran Premio de España 2020,1024,romain-grosjean,Romain Grosjean,haas,19,64,17,0,19,953.205731,938.233414,-14.972317,0.0,0.299446,50.0,19

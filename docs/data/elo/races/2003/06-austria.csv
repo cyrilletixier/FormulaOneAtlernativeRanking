@@ -1,21 +1,15 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,michael-schumacher,Michael Schumacher,ferrari,1,69,1,0,1,1428.806917,1434.780381,5.973465,1.0,0.880531,50.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,kimi-raikkonen,Kimi Räikkönen,mclaren,2,69,2,0,2,1116.451561,1136.226336,19.774775,0.947368,0.551873,50.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,rubens-barrichello,Rubens Barrichello,ferrari,3,69,5,0,3,1250.15159,1258.841735,8.690146,0.894737,0.720934,50.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,jenson-button,Jenson Button,bar,4,69,7,0,4,1091.190008,1107.439936,16.249928,0.842105,0.517107,50.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,david-coulthard,David Coulthard,mclaren,5,69,14,0,5,1202.111208,1208.379852,6.268644,0.789474,0.664101,50.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,ralf-schumacher,Ralf Schumacher,williams,6,68,10,0,6,1205.870265,1209.275693,3.405428,0.736842,0.668734,50.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,mark-webber,Mark Webber,jaguar,7,68,PL,0,7,967.444538,984.238677,16.794139,0.684211,0.348328,50.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,jarno-trulli,Jarno Trulli,renault,8,68,6,0,8,1070.504311,1077.662418,7.158107,0.631579,0.488417,50.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,antonio-pizzonia,Antônio Pizzonia,jaguar,9,68,8,0,9,968.752698,980.198695,11.445997,0.578947,0.350027,50.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,cristiano-da-matta,Cristiano da Matta,toyota,10,68,13,0,10,1016.917511,1022.514155,5.596644,0.526316,0.414383,50.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,ralph-firman,Ralph Firman,jordan,11,68,16,0,11,982.300135,987.594428,5.294293,0.473684,0.367798,50.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,jacques-villeneuve,Jacques Villeneuve,bar,12,68,12,0,12,1022.194817,1022.167403,-0.027414,0.421053,0.421601,50.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,justin-wilson,Justin Wilson,minardi,13,67,18,0,13,961.302543,962.704179,1.401636,0.368421,0.340388,50.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,60,9,1,14,1045.784826,1038.868655,-6.916171,0.315789,0.454113,50.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,nick-heidfeld,Nick Heidfeld,sauber,DNF,46,4,1,15,1081.622997,1069.588322,-12.034675,0.263158,0.503851,50.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,fernando-alonso,Fernando Alonso,renault,DNF,44,PL,1,16,1060.657219,1047.446516,-13.210704,0.210526,0.47474,50.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,32,3,1,17,1171.146305,1147.797092,-23.349213,0.157895,0.624879,50.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,olivier-panis,Olivier Panis,toyota,DNF,6,11,1,18,993.242512,979.387742,-13.85477,0.105263,0.382359,50.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,jos-verstappen,Jos Verstappen,minardi,DNF,0,20,1,19,999.302735,982.409652,-16.893083,0.052632,0.390493,50.0,20
-2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,DNS,,15,2,20,1032.197289,1010.430114,-21.767175,0.0,0.435344,50.0,20
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,michael-schumacher,Michael Schumacher,ferrari,1,69,1,0,1,1640.103825,1646.794203,6.690379,1.0,0.866192,50.0,14
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,kimi-raikkonen,Kimi Räikkönen,mclaren,2,69,2,0,2,1193.151099,1212.290586,19.139487,0.923077,0.540287,50.0,14
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,rubens-barrichello,Rubens Barrichello,ferrari,3,69,5,0,3,1382.987657,1390.198156,7.2105,0.846154,0.701944,50.0,14
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,jenson-button,Jenson Button,bar,4,69,7,0,4,1065.343517,1082.637868,17.294352,0.769231,0.423344,50.0,14
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,david-coulthard,David Coulthard,mclaren,5,69,14,0,5,1420.610906,1418.70439,-1.906515,0.692308,0.730438,50.0,14
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,ralf-schumacher,Ralf Schumacher,williams,6,68,10,0,6,1282.398891,1282.198126,-0.200765,0.615385,0.6194,50.0,14
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,mark-webber,Mark Webber,jaguar,7,68,PL,0,7,980.752158,990.276864,9.524706,0.538462,0.347967,50.0,14
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,jarno-trulli,Jarno Trulli,renault,8,68,6,0,8,1081.781406,1082.941713,1.160307,0.461538,0.438332,50.0,14
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,antonio-pizzonia,Antônio Pizzonia,jaguar,9,68,8,0,9,953.003769,956.024479,3.020711,0.384615,0.324201,50.0,14
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,cristiano-da-matta,Cristiano da Matta,toyota,10,68,13,0,10,996.135911,993.451389,-2.684522,0.307692,0.361383,50.0,14
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,ralph-firman,Ralph Firman,jordan,11,68,16,0,11,992.890403,986.501891,-6.388511,0.230769,0.358539,50.0,14
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,jacques-villeneuve,Jacques Villeneuve,bar,12,68,12,0,12,1144.021751,1126.94283,-17.07892,0.153846,0.495425,50.0,14
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,justin-wilson,Justin Wilson,minardi,13,67,18,0,13,964.831225,951.964422,-12.866803,0.076923,0.334259,50.0,14
+2003,6,2003-05-18,austria,A1 Grand Prix von Österreich 2003,703,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,DNS,,15,2,14,1103.572242,1080.657839,-22.914404,0.0,0.458288,50.0,14

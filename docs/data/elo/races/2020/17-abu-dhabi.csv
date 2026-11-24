@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,max-verstappen,Max Verstappen,red-bull,1,55,1,0,1,1290.013153,1305.804433,15.79128,1.0,0.684174,50.0,20
-2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,valtteri-bottas,Valtteri Bottas,mercedes,2,55,2,0,2,1374.032026,1382.804038,8.772013,0.947368,0.771928,50.0,20
-2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,lewis-hamilton,Lewis Hamilton,mercedes,3,55,3,0,3,1595.943641,1594.41474,-1.528901,0.894737,0.925315,50.0,20
-2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,alexander-albon,Alexander Albon,red-bull,4,55,5,0,4,1193.444947,1207.216804,13.771857,0.842105,0.566668,50.0,20
-2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,lando-norris,Lando Norris,mclaren,5,55,4,0,5,1165.176663,1178.142135,12.965471,0.789474,0.530164,50.0,20
-2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,6,55,6,0,6,1193.173292,1201.699383,8.526092,0.736842,0.56632,50.0,20
-2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,daniel-ricciardo,Daniel Ricciardo,renault,7,55,11,0,7,1220.895567,1225.034739,4.139172,0.684211,0.601427,50.0,20
-2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,pierre-gasly,Pierre Gasly,alphatauri,8,55,9,0,8,1135.168506,1142.198194,7.029688,0.631579,0.490985,50.0,20
-2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,esteban-ocon,Esteban Ocon,renault,9,55,10,0,9,1120.489364,1125.847803,5.358439,0.578947,0.471779,50.0,20
-2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,lance-stroll,Lance Stroll,racing-point,10,55,8,0,10,1081.490552,1086.753277,5.262725,0.526316,0.421061,50.0,20
-2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,daniil-kvyat,Daniil Kvyat,alphatauri,11,54,7,0,11,1105.172503,1106.267798,1.095295,0.473684,0.451778,50.0,20
-2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,12,54,15,0,12,1067.428706,1068.330846,0.90214,0.421053,0.40301,50.0,20
-2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,charles-leclerc,Charles Leclerc,ferrari,13,54,12,0,13,1202.47519,1191.986654,-10.488536,0.368421,0.578192,50.0,20
-2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,sebastian-vettel,Sebastian Vettel,ferrari,14,54,13,0,14,1184.480062,1172.5118,-11.968262,0.315789,0.555155,50.0,20
-2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,george-russell,George Russell,williams,15,54,16,0,15,937.051729,937.75219,0.700461,0.263158,0.249149,50.0,20
-2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,16,54,14,0,16,976.558482,972.460537,-4.097945,0.210526,0.292485,50.0,20
-2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,nicholas-latifi,Nicholas Latifi,williams,17,54,18,0,17,945.832717,940.803283,-5.029434,0.157895,0.258483,50.0,20
-2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,kevin-magnussen,Kevin Magnussen,haas,18,54,20,0,18,939.718148,932.383077,-7.33507,0.105263,0.251965,50.0,20
-2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,pietro-fittipaldi,Pietro Fittipaldi,haas,19,53,17,0,19,990.576214,977.775563,-12.80065,0.052632,0.308645,50.0,20
-2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,sergio-perez,Sergio Pérez,racing-point,DNF,8,19,1,20,1236.939987,1205.874154,-31.065834,0.0,0.621317,50.0,20
+2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,max-verstappen,Max Verstappen,red-bull,1,55,1,0,1,1529.6478,1542.098434,12.450634,1.0,0.750987,50.0,19
+2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,valtteri-bottas,Valtteri Bottas,mercedes,2,55,2,0,2,1622.58593,1629.456451,6.870521,0.944444,0.807034,50.0,19
+2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,lewis-hamilton,Lewis Hamilton,mercedes,3,55,3,0,3,1866.599352,1865.297229,-1.302123,0.888889,0.914931,50.0,19
+2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,alexander-albon,Alexander Albon,red-bull,4,55,5,0,4,1231.222238,1246.781318,15.55908,0.833333,0.522152,50.0,19
+2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,lando-norris,Lando Norris,mclaren,5,55,4,0,5,1217.38745,1230.756329,13.368878,0.777778,0.5104,50.0,19
+2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,6,55,6,0,6,1257.525619,1266.418116,8.892497,0.722222,0.544372,50.0,19
+2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,daniel-ricciardo,Daniel Ricciardo,renault,7,55,11,0,7,1358.534571,1360.51318,1.97861,0.666667,0.627094,50.0,19
+2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,pierre-gasly,Pierre Gasly,alphatauri,8,55,9,0,8,1191.175065,1197.327625,6.15256,0.611111,0.48806,50.0,19
+2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,esteban-ocon,Esteban Ocon,renault,9,55,10,0,9,1177.460941,1181.421094,3.960153,0.555556,0.476352,50.0,19
+2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,lance-stroll,Lance Stroll,racing-point,10,55,8,0,10,1072.526378,1078.147221,5.620844,0.5,0.387583,50.0,19
+2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,daniil-kvyat,Daniil Kvyat,alphatauri,11,54,7,0,11,1117.001428,1117.978954,0.977525,0.444444,0.424894,50.0,19
+2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,12,54,15,0,12,1142.239193,1139.367955,-2.871238,0.388889,0.446314,50.0,19
+2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,charles-leclerc,Charles Leclerc,ferrari,13,54,12,0,13,1295.622234,1283.481436,-12.140798,0.333333,0.576149,50.0,19
+2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,sebastian-vettel,Sebastian Vettel,ferrari,14,54,13,0,14,1387.087607,1368.506104,-18.581503,0.277778,0.649408,50.0,19
+2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,george-russell,George Russell,williams,15,54,16,0,15,870.715283,870.146983,-0.5683,0.222222,0.233588,50.0,19
+2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,16,54,14,0,16,931.329461,925.845451,-5.484011,0.166667,0.276347,50.0,19
+2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,nicholas-latifi,Nicholas Latifi,williams,17,54,18,0,17,910.271605,902.772556,-7.499049,0.111111,0.261092,50.0,19
+2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,kevin-magnussen,Kevin Magnussen,haas,18,54,20,0,18,940.877249,929.485218,-11.392031,0.055556,0.283396,50.0,19
+2020,17,2020-12-13,abu-dhabi,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2020,1035,pietro-fittipaldi,Pietro Fittipaldi,haas,19,53,17,0,19,988.68661,972.69436,-15.99225,0.0,0.319845,50.0,19

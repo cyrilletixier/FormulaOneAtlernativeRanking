@@ -1,23 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,lando-norris,Lando Norris,mclaren,1,70,1,0,1,1347.666316,1360.502671,12.836355,1.0,0.743273,50.0,22
-2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,max-verstappen,Max Verstappen,red-bull,2,70,4,0,2,1416.433372,1423.641806,7.208434,0.952381,0.808212,50.0,22
-2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,kimi-antonelli,Kimi Antonelli,mercedes,3,70,7,0,3,1271.657202,1283.88386,12.226658,0.904762,0.660229,50.0,22
-2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,charles-leclerc,Charles Leclerc,ferrari,4,70,2,0,4,1340.141547,1346.221291,6.079743,0.857143,0.735548,50.0,22
-2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,lewis-hamilton,Lewis Hamilton,ferrari,5,70,5,0,5,1342.304372,1345.891549,3.587177,0.809524,0.73778,50.0,22
-2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,isack-hadjar,Isack Hadjar,red-bull,6,70,8,0,6,1156.209531,1168.406451,12.19692,0.761905,0.517966,50.0,22
-2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,george-russell,George Russell,mercedes,7,70,6,0,7,1363.950923,1361.685942,-2.264982,0.714286,0.759585,50.0,22
-2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,liam-lawson,Liam Lawson,racing-bulls,8,69,11,0,8,1130.235645,1139.339228,9.103583,0.666667,0.484595,50.0,22
-2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,nico-hulkenberg,Nico Hülkenberg,audi,9,69,10,0,9,1024.57014,1037.973479,13.403338,0.619048,0.350981,50.0,22
-2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,arvid-lindblad,Arvid Lindblad,racing-bulls,10,69,9,0,10,1079.346602,1086.951821,7.605219,0.571429,0.419324,50.0,22
-2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,gabriel-bortoleto,Gabriel Bortoleto,audi,11,69,14,0,11,1071.727043,1077.435005,5.707962,0.52381,0.40965,50.0,22
-2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,pierre-gasly,Pierre Gasly,alpine,12,69,12,0,12,1086.151153,1088.560917,2.409765,0.47619,0.427995,50.0,22
-2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,lance-stroll,Lance Stroll,aston-martin,13,69,20,0,13,937.440064,946.293495,8.853431,0.428571,0.251503,50.0,22
-2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,fernando-alonso,Fernando Alonso,aston-martin,14,69,16,0,14,1028.66399,1029.913004,1.249014,0.380952,0.355972,50.0,22
-2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,franco-colapinto,Franco Colapinto,alpine,15,68,13,0,15,1039.763306,1037.949277,-1.814029,0.333333,0.369614,50.0,22
-2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,esteban-ocon,Esteban Ocon,haas,16,68,15,0,16,1068.113325,1062.145184,-5.968141,0.285714,0.405077,50.0,22
-2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,alexander-albon,Alexander Albon,williams,17,68,19,0,17,1017.882969,1012.643833,-5.239136,0.238095,0.342878,50.0,22
-2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,carlos-sainz-jr,Carlos Sainz Jr.,williams,18,68,18,0,18,1096.318812,1083.792728,-12.526084,0.190476,0.440998,50.0,22
-2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,oliver-bearman,Oliver Bearman,haas,19,68,17,0,19,1079.340719,1065.517741,-13.822978,0.142857,0.419317,50.0,22
-2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,oscar-piastri,Oscar Piastri,mclaren,DNF,55,3,1,20,1343.370958,1311.188984,-32.181974,0.095238,0.738878,50.0,22
-2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,sergio-perez,Sergio Pérez,cadillac,DNF,48,PL,1,21,1063.664924,1046.072773,-17.592151,0.047619,0.399462,50.0,22
-2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,valtteri-bottas,Valtteri Bottas,cadillac,DNF,13,21,1,22,907.678409,896.620285,-11.058124,0.0,0.221162,50.0,22
+2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,lando-norris,Lando Norris,mclaren,1,70,1,0,1,1575.181072,1586.33971,11.158638,1.0,0.776827,50.0,19
+2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,max-verstappen,Max Verstappen,red-bull,2,70,4,0,2,1733.627687,1737.685065,4.057378,0.944444,0.863297,50.0,19
+2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,kimi-antonelli,Kimi Antonelli,mercedes,3,70,7,0,3,1330.054399,1344.633139,14.57874,0.888889,0.597314,50.0,19
+2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,charles-leclerc,Charles Leclerc,ferrari,4,70,2,0,4,1498.36251,1503.724955,5.362445,0.833333,0.726084,50.0,19
+2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,lewis-hamilton,Lewis Hamilton,ferrari,5,70,5,0,5,1492.703798,1495.486207,2.78241,0.777778,0.72213,50.0,19
+2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,isack-hadjar,Isack Hadjar,red-bull,6,70,8,0,6,1176.830663,1189.623686,12.793023,0.722222,0.466362,50.0,19
+2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,george-russell,George Russell,mercedes,7,70,6,0,7,1559.182895,1554.180144,-5.002751,0.666667,0.766722,50.0,19
+2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,liam-lawson,Liam Lawson,racing-bulls,8,69,11,0,8,1142.527893,1151.256321,8.728429,0.611111,0.436543,50.0,19
+2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,nico-hulkenberg,Nico Hülkenberg,audi,9,69,10,0,9,1070.43703,1079.479856,9.042826,0.555556,0.374699,50.0,19
+2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,arvid-lindblad,Arvid Lindblad,racing-bulls,10,69,9,0,10,1066.624456,1073.050285,6.425829,0.5,0.371483,50.0,19
+2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,gabriel-bortoleto,Gabriel Bortoleto,audi,11,69,14,0,11,1045.509506,1050.041115,4.531609,0.444444,0.353812,50.0,19
+2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,pierre-gasly,Pierre Gasly,alpine,12,69,12,0,12,1092.180583,1091.966799,-0.213783,0.388889,0.393165,50.0,19
+2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,lance-stroll,Lance Stroll,aston-martin,13,69,20,0,13,955.537107,958.108169,2.571062,0.333333,0.281912,50.0,19
+2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,fernando-alonso,Fernando Alonso,aston-martin,14,69,16,0,14,1161.383448,1152.626232,-8.757216,0.277778,0.452922,50.0,19
+2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,franco-colapinto,Franco Colapinto,alpine,15,68,13,0,15,997.766778,993.133721,-4.633057,0.222222,0.314883,50.0,19
+2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,esteban-ocon,Esteban Ocon,haas,16,68,15,0,16,1069.229536,1058.878877,-10.350659,0.166667,0.37368,50.0,19
+2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,alexander-albon,Alexander Albon,williams,17,68,19,0,17,1036.198032,1024.448563,-11.749469,0.111111,0.3461,50.0,19
+2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,carlos-sainz-jr,Carlos Sainz Jr.,williams,18,68,18,0,18,1175.912619,1155.412255,-20.500364,0.055556,0.465563,50.0,19
+2026,11,2026-07-26,hungary,Formula 1 AWS Hungarian Grand Prix 2026,1160,oliver-bearman,Oliver Bearman,haas,19,68,17,0,19,1119.365479,1098.540391,-20.825088,0.0,0.416502,50.0,19

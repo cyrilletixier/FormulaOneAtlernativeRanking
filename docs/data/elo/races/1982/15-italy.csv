@@ -1,31 +1,21 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,rene-arnoux,René Arnoux,renault,1,52,6,0,1,1098.014433,1120.220005,22.205572,1.0,0.555889,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,patrick-tambay,Patrick Tambay,ferrari,2,52,3,0,2,1095.509889,1116.16386,20.653972,0.965517,0.552438,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,mario-andretti,Mario Andretti,ferrari,3,52,1,0,3,1130.356053,1146.910855,16.554802,0.931034,0.599938,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,john-watson,John Watson,mclaren,4,52,12,0,4,1211.43553,1221.097533,9.662003,0.896552,0.703312,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,michele-alboreto,Michele Alboreto,tyrrell,5,51,11,0,5,1125.617357,1139.043055,13.425698,0.862069,0.593555,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,eddie-cheever,Eddie Cheever,ligier,6,51,14,0,6,1055.224559,1071.776654,16.552095,0.827586,0.496544,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,nigel-mansell,Nigel Mansell,lotus,7,51,23,0,7,1079.558547,1092.695139,13.136591,0.793103,0.530372,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,keke-rosberg,Keke Rosberg,williams,8,50,7,0,8,1164.867491,1170.526309,5.658819,0.758621,0.645444,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,eliseo-salazar,Eliseo Salazar,ats-wheels,9,50,25,0,9,973.025164,990.026543,17.001379,0.724138,0.38411,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,10,50,9,0,10,1040.657211,1051.325207,10.667997,0.689655,0.476295,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,chico-serra,Chico Serra,fittipaldi,11,49,26,0,11,938.883316,954.648674,15.765358,0.655172,0.339865,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,mauro-baldi,Mauro Baldi,arrows,12,49,24,0,12,1000.558361,1010.537986,9.979625,0.62069,0.421097,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,roberto-guerrero,Roberto Guerrero,ensign,NC,40,18,1,13,931.853217,944.61227,12.759053,0.586207,0.331026,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,elio-de-angelis,Elio de Angelis,lotus,DNF,34,17,1,14,1195.989174,1189.343512,-6.645662,0.551724,0.684637,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,DNF,32,8,1,15,1084.05138,1083.083448,-0.967932,0.517241,0.5366,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,marc-surer,Marc Surer,arrows,DNF,28,19,1,16,1133.217755,1127.166714,-6.051041,0.482759,0.603779,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,alain-prost,Alain Prost,renault,DNF,27,5,1,17,1174.437747,1163.966338,-10.471409,0.448276,0.657704,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,niki-lauda,Niki Lauda,mclaren,DNF,22,10,1,18,1143.722447,1133.523005,-10.199441,0.413793,0.617782,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,jean-pierre-jarier,Jean-Pierre Jarier,osella,DNF,10,15,1,19,998.428275,996.483664,-1.944611,0.37931,0.418203,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,nelson-piquet,Nelson Piquet,brabham,DNF,7,2,1,20,1175.222319,1159.528633,-15.693685,0.344828,0.658701,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,riccardo-patrese,Riccardo Patrese,brabham,DNF,6,4,1,21,1095.19898,1083.115765,-12.083215,0.310345,0.552009,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,jacques-laffite,Jacques Laffite,ligier,DNF,5,21,1,22,1141.33097,1124.393666,-16.937303,0.275862,0.614608,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,teo-fabi,Teo Fabi,toleman,DNF,2,22,1,23,911.249998,908.032552,-3.217446,0.241379,0.305728,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,brian-henton,Brian Henton,tyrrell,DNF,0,20,1,24,1010.7026,997.576026,-13.126573,0.172414,0.434945,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,derek-daly,Derek Daly,williams,DNF,0,13,1,25,1098.890812,1079.656753,-19.234059,0.172414,0.557095,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,derek-warwick,Derek Warwick,toleman,DNF,0,16,1,26,902.878793,896.713223,-6.16557,0.172414,0.295725,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNQ,,,2,27,962.209476,946.301905,-15.907572,0.051724,0.369876,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,raul-boesel,Raul Boesel,march,DNQ,,,2,28,951.334665,936.132857,-15.201808,0.051724,0.35576,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,rupert-keegan,Rupert Keegan,march,DNQ,,,2,29,921.579368,908.250866,-13.328502,0.051724,0.318294,50.0,30
-1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,tommy-byrne,Tommy Byrne,theodore,DNQ,,,2,30,976.458417,959.611285,-16.847132,0.051724,0.388667,50.0,30
+1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,rene-arnoux,René Arnoux,renault,1,52,6,0,1,1124.490139,1144.498917,20.008778,1.0,0.599824,50.0,20
+1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,patrick-tambay,Patrick Tambay,ferrari,2,52,3,0,2,1098.393894,1116.990214,18.59632,0.947368,0.575442,50.0,20
+1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,mario-andretti,Mario Andretti,ferrari,3,52,1,0,3,1249.787139,1259.053197,9.266058,0.894737,0.709416,50.0,20
+1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,john-watson,John Watson,mclaren,4,52,12,0,4,1287.397389,1292.546944,5.149555,0.842105,0.739114,50.0,20
+1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,michele-alboreto,Michele Alboreto,tyrrell,5,51,11,0,5,1104.019504,1114.456695,10.437192,0.789474,0.58073,50.0,20
+1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,eddie-cheever,Eddie Cheever,ligier,6,51,14,0,6,1030.197992,1041.519785,11.321793,0.736842,0.510406,50.0,20
+1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,nigel-mansell,Nigel Mansell,lotus,7,51,23,0,7,1096.366835,1101.900721,5.533886,0.684211,0.573533,50.0,20
+1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,keke-rosberg,Keke Rosberg,williams,8,50,7,0,8,1134.561568,1135.684301,1.122733,0.631579,0.609124,50.0,20
+1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,eliseo-salazar,Eliseo Salazar,ats-wheels,9,50,25,0,9,904.570087,913.969997,9.39991,0.578947,0.390949,50.0,20
+1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,10,50,9,0,10,1028.580146,1029.453396,0.87325,0.526316,0.508851,50.0,20
+1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,chico-serra,Chico Serra,fittipaldi,11,49,26,0,11,886.363401,891.336258,4.972857,0.473684,0.374227,50.0,20
+1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,mauro-baldi,Mauro Baldi,arrows,12,49,24,0,12,971.902148,970.234022,-1.668127,0.421053,0.454415,50.0,20
+1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,roberto-guerrero,Roberto Guerrero,ensign,NC,40,18,1,13,932.202544,929.786968,-2.415576,0.368421,0.416733,50.0,20
+1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,brian-henton,Brian Henton,tyrrell,DNF,0,20,1,14,917.079347,910.108929,-6.970418,0.263158,0.402566,50.0,20
+1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,derek-daly,Derek Daly,williams,DNF,0,13,1,15,1043.973519,1030.949492,-13.024027,0.263158,0.523638,50.0,20
+1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,derek-warwick,Derek Warwick,toleman,DNF,0,16,1,16,849.4691,845.570259,-3.898841,0.263158,0.341135,50.0,20
+1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNQ,,,2,17,951.698307,933.887602,-17.810706,0.078947,0.435161,50.0,20
+1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,raul-boesel,Raul Boesel,march,DNQ,,,2,18,941.766202,924.425987,-17.340215,0.078947,0.425752,50.0,20
+1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,rupert-keegan,Rupert Keegan,march,DNQ,,,2,19,882.898269,868.292051,-14.606218,0.078947,0.371072,50.0,20
+1982,15,1982-09-12,italy,Gran Premio d'Italia 1982,372,tommy-byrne,Tommy Byrne,theodore,DNQ,,,2,20,975.557144,956.608941,-18.948203,0.078947,0.457911,50.0,20

@@ -1,25 +1,22 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,fernando-alonso,Fernando Alonso,ferrari,1,67,2,0,1,1225.850927,1242.024535,16.173608,1.0,0.676528,50.0,24
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,felipe-massa,Felipe Massa,ferrari,2,67,3,0,2,1219.622483,1233.992623,14.37014,0.956522,0.669119,50.0,24
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,sebastian-vettel,Sebastian Vettel,red-bull,3,67,1,0,3,1248.584079,1259.088745,10.504666,0.913043,0.70295,50.0,24
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,lewis-hamilton,Lewis Hamilton,mclaren,4,67,6,0,4,1281.977604,1288.464279,6.486675,0.869565,0.739832,50.0,24
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,jenson-button,Jenson Button,mclaren,5,67,5,0,5,1271.653573,1276.523472,4.869899,0.826087,0.728689,50.0,24
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,mark-webber,Mark Webber,red-bull,6,67,4,0,6,1233.043627,1237.924298,4.880671,0.782609,0.684995,50.0,24
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,robert-kubica,Robert Kubica,renault,7,66,7,0,7,1187.435097,1192.901952,5.466856,0.73913,0.629793,50.0,24
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,nico-rosberg,Nico Rosberg,mercedes,8,66,9,0,8,1222.589321,1223.73909,1.14977,0.695652,0.672657,50.0,24
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,michael-schumacher,Michael Schumacher,mercedes,9,66,11,0,9,1253.414178,1250.60127,-2.812908,0.652174,0.708432,50.0,24
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,vitaly-petrov,Vitaly Petrov,renault,10,66,13,0,10,1010.590629,1021.066067,10.475437,0.608696,0.399187,50.0,24
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,kamui-kobayashi,Kamui Kobayashi,sauber,11,66,12,0,11,1006.368425,1014.941411,8.572985,0.565217,0.393758,50.0,24
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,rubens-barrichello,Rubens Barrichello,williams,12,66,8,0,12,1181.068293,1176.063834,-5.004459,0.521739,0.621828,50.0,24
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,nico-hulkenberg,Nico Hülkenberg,williams,13,66,10,0,13,983.21356,988.908785,5.695224,0.478261,0.364356,50.0,24
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,pedro-de-la-rosa,Pedro de la Rosa,sauber,14,66,14,0,14,974.598853,978.657937,4.059084,0.434783,0.353601,50.0,24
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,jaime-alguersuari,Jaime Alguersuari,toro-rosso,15,66,15,0,15,1004.191099,1004.208044,0.016945,0.391304,0.390965,50.0,24
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,16,65,21,0,16,1020.077634,1016.896367,-3.181267,0.347826,0.411451,50.0,24
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,adrian-sutil,Adrian Sutil,force-india,17,65,19,0,17,1044.887849,1037.91148,-6.976369,0.304348,0.443875,50.0,24
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,timo-glock,Timo Glock,virgin,18,64,23,0,18,994.342322,988.46562,-5.876703,0.26087,0.378404,50.0,24
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,bruno-senna,Bruno Senna,hrt,19,63,20,0,19,933.989401,929.631749,-4.357652,0.217391,0.304544,50.0,24
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,heikki-kovalainen,Heikki Kovalainen,lotus-racing,DNF,56,18,1,20,1010.701842,999.430986,-11.270856,0.173913,0.39933,50.0,24
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,lucas-di-grassi,Lucas di Grassi,virgin,DNF,50,24,1,21,935.348705,926.563569,-8.785136,0.130435,0.306137,50.0,24
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,sakon-yamamoto,Sakon Yamamoto,hrt,DNF,19,22,1,22,896.68203,887.913038,-8.768992,0.086957,0.262336,50.0,24
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,jarno-trulli,Jarno Trulli,lotus-racing,DNF,3,17,1,23,984.583418,968.453508,-16.12991,0.043478,0.366076,50.0,24
-2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,sebastien-buemi,Sébastien Buemi,toro-rosso,DNF,1,16,1,24,1004.33841,984.780701,-19.557709,0.0,0.391154,50.0,24
+2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,fernando-alonso,Fernando Alonso,ferrari,1,67,2,0,1,1356.400027,1372.563321,16.163293,1.0,0.676734,50.0,21
+2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,felipe-massa,Felipe Massa,ferrari,2,67,3,0,2,1337.74453,1352.170646,14.426116,0.95,0.661478,50.0,21
+2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,sebastian-vettel,Sebastian Vettel,red-bull,3,67,1,0,3,1335.281707,1347.309587,12.02788,0.9,0.659442,50.0,21
+2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,lewis-hamilton,Lewis Hamilton,mclaren,4,67,6,0,4,1382.997516,1390.599265,7.601749,0.85,0.697965,50.0,21
+2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,jenson-button,Jenson Button,mclaren,5,67,5,0,5,1368.836181,1374.499181,5.663,0.8,0.68674,50.0,21
+2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,mark-webber,Mark Webber,red-bull,6,67,4,0,6,1312.726629,1318.197268,5.470639,0.75,0.640587,50.0,21
+2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,robert-kubica,Robert Kubica,renault,7,66,7,0,7,1290.766586,1294.672426,3.90584,0.7,0.621883,50.0,21
+2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,nico-rosberg,Nico Rosberg,mercedes,8,66,9,0,8,1262.997931,1265.607642,2.60971,0.65,0.597806,50.0,21
+2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,michael-schumacher,Michael Schumacher,mercedes,9,66,11,0,9,1442.249178,1435.108642,-7.140536,0.6,0.742811,50.0,21
+2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,vitaly-petrov,Vitaly Petrov,renault,10,66,13,0,10,997.38758,1006.821054,9.433474,0.55,0.361331,50.0,21
+2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,kamui-kobayashi,Kamui Kobayashi,sauber,11,66,12,0,11,1026.633039,1032.306802,5.673763,0.5,0.386525,50.0,21
+2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,rubens-barrichello,Rubens Barrichello,williams,12,66,8,0,12,1218.87093,1213.432557,-5.438372,0.45,0.558767,50.0,21
+2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,nico-hulkenberg,Nico Hülkenberg,williams,13,66,10,0,13,970.228689,973.30613,3.077441,0.4,0.338451,50.0,21
+2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,pedro-de-la-rosa,Pedro de la Rosa,sauber,14,66,14,0,14,1006.595885,1005.635613,-0.960271,0.35,0.369205,50.0,21
+2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,jaime-alguersuari,Jaime Alguersuari,toro-rosso,15,66,15,0,15,990.309921,987.544087,-2.765834,0.3,0.355317,50.0,21
+2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,16,65,21,0,16,960.553831,956.532003,-4.021828,0.25,0.330437,50.0,21
+2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,adrian-sutil,Adrian Sutil,force-india,17,65,19,0,17,970.664477,963.72378,-6.940697,0.2,0.338814,50.0,21
+2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,timo-glock,Timo Glock,virgin,18,64,23,0,18,1041.827998,1029.337512,-12.490486,0.15,0.39981,50.0,21
+2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,bruno-senna,Bruno Senna,hrt,19,63,20,0,19,958.971754,947.515095,-11.456659,0.1,0.329133,50.0,21
+2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,heikki-kovalainen,Heikki Kovalainen,lotus-racing,DNF,56,18,1,20,1051.360513,1033.450367,-17.910146,0.05,0.408203,50.0,21
+2010,11,2010-07-25,germany,Formula 1 Grosser Preis Santander von Deutschland 2010,831,sebastien-buemi,Sébastien Buemi,toro-rosso,DNF,1,16,1,21,970.361272,953.433196,-16.928077,0.0,0.338562,50.0,21

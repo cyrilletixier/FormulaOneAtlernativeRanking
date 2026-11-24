@@ -1,23 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,bruce-mclaren,Bruce McLaren,cooper,1,80,13,0,1,1066.222696,1088.702353,22.479657,1.0,0.550407,50.0,22
-1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,cliff-allison,Cliff Allison,ferrari,2,80,7,0,2,1020.598198,1044.050742,23.452543,0.952381,0.48333,50.0,22
-1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,maurice-trintignant,Maurice Trintignant,cooper,3,80,8,0,3,1110.033446,1123.414923,13.381478,0.880952,0.613323,50.0,22
-1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,stirling-moss,Stirling Moss,cooper,3,,,0,4,1114.245934,1127.332134,13.0862,0.880952,0.619228,50.0,22
-1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,carlos-menditeguy,Carlos Menditéguy,cooper,4,80,12,0,5,964.588605,984.969866,20.381261,0.809524,0.401899,50.0,22
-1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,wolfgang-von-trips,Wolfgang von Trips,ferrari,5,79,5,0,6,1032.019735,1045.107058,13.087323,0.761905,0.500158,50.0,22
-1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,innes-ireland,Innes Ireland,lotus,6,79,2,0,7,980.314187,994.805558,14.491371,0.714286,0.424458,50.0,22
-1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,jo-bonnier,Jo Bonnier,brm,7,79,4,0,8,1001.05564,1011.657494,10.601854,0.666667,0.45463,50.0,22
-1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,phil-hill,Phil Hill,ferrari,8,77,6,0,9,1096.391132,1097.643525,1.252394,0.619048,0.594,50.0,22
-1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,alberto-rodriguez-larreta,Alberto Rodriguez Larreta,lotus,9,77,15,0,10,1000.0,1005.917168,5.917168,0.571429,0.453085,50.0,22
-1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,jose-froilan-gonzalez,José Froilán González,ferrari,10,77,11,0,11,1126.884617,1121.237407,-5.64721,0.52381,0.636754,50.0,22
-1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,roberto-bonomi,Roberto Bonomi,cooper,11,76,17,0,12,1000.0,1001.155263,1.155263,0.47619,0.453085,50.0,22
-1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,masten-gregory,Masten Gregory,behra-porsche,12,76,16,0,13,1075.640299,1068.862898,-6.777401,0.428571,0.564119,50.0,22
-1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,gino-munaron,Gino Munaron,maserati,13,72,19,0,14,1000.0,996.393358,-3.606642,0.380952,0.453085,50.0,22
-1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,nasif-estefano,Nasif Estéfano,maserati,14,70,20,0,15,1000.0,994.012406,-5.987594,0.333333,0.453085,50.0,22
-1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,harry-schell,Harry Schell,cooper,DNF,63,9,1,16,1085.118271,1070.512413,-14.605858,0.285714,0.577831,50.0,22
-1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,jack-brabham,Jack Brabham,cooper,DNF,42,10,1,17,1098.566977,1080.616708,-17.95027,0.238095,0.597101,50.0,22
-1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,graham-hill,Graham Hill,brm,DNF,37,3,1,18,946.185195,936.910963,-9.274232,0.190476,0.375961,50.0,22
-1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,alan-stacey,Alan Stacey,lotus,DNF,24,14,1,19,983.080493,968.800441,-14.280052,0.142857,0.428458,50.0,22
-1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,ettore-chimeri,Ettore Chimeri,maserati,DNF,23,21,1,20,1000.0,982.107644,-17.892356,0.095238,0.453085,50.0,22
-1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,antonio-creus,Antonio Creus,maserati,DNF,16,22,1,21,1000.0,979.726691,-20.273309,0.047619,0.453085,50.0,22
-1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,giorgio-scarlatti,Giorgio Scarlatti,maserati,DNF,10,18,1,22,1004.607795,981.616209,-22.991587,0.0,0.459832,50.0,22
+1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,bruce-mclaren,Bruce McLaren,cooper,1,80,13,0,1,1074.492323,1098.041158,23.548835,1.0,0.529023,50.0,18
+1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,cliff-allison,Cliff Allison,ferrari,2,80,7,0,2,1006.701175,1030.67211,23.970935,0.941176,0.461758,50.0,18
+1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,maurice-trintignant,Maurice Trintignant,cooper,3,80,8,0,3,1109.527493,1123.998335,14.470842,0.852941,0.563524,50.0,18
+1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,stirling-moss,Stirling Moss,cooper,3,,,0,4,1270.012257,1277.122586,7.11033,0.852941,0.710735,50.0,18
+1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,carlos-menditeguy,Carlos Menditéguy,cooper,4,80,12,0,5,989.145731,1005.159296,16.013566,0.764706,0.444435,50.0,18
+1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,wolfgang-von-trips,Wolfgang von Trips,ferrari,5,79,5,0,6,995.098219,1007.877454,12.779235,0.705882,0.450298,50.0,18
+1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,innes-ireland,Innes Ireland,lotus,6,79,2,0,7,1011.095159,1020.142762,9.047603,0.647059,0.466107,50.0,18
+1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,jo-bonnier,Jo Bonnier,brm,7,79,4,0,8,985.439589,992.81183,7.372241,0.588235,0.44079,50.0,18
+1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,phil-hill,Phil Hill,ferrari,8,77,6,0,9,1076.229417,1076.162872,-0.066545,0.529412,0.530743,50.0,18
+1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,alberto-rodriguez-larreta,Alberto Rodriguez Larreta,lotus,9,77,15,0,10,1000.0,1000.772691,0.772691,0.470588,0.455134,50.0,18
+1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,jose-froilan-gonzalez,José Froilán González,ferrari,10,77,11,0,11,1224.85301,1211.851056,-13.001954,0.411765,0.671804,50.0,18
+1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,roberto-bonomi,Roberto Bonomi,cooper,11,76,17,0,12,1000.0,994.890338,-5.109662,0.352941,0.455134,50.0,18
+1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,masten-gregory,Masten Gregory,behra-porsche,12,76,16,0,13,1082.077675,1069.957263,-12.120412,0.294118,0.536526,50.0,18
+1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,gino-munaron,Gino Munaron,maserati,13,72,19,0,14,1000.0,989.007985,-10.992015,0.235294,0.455134,50.0,18
+1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,nasif-estefano,Nasif Estéfano,maserati,14,70,20,0,15,1000.0,986.066809,-13.933191,0.176471,0.455134,50.0,18
+1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,alan-stacey,Alan Stacey,lotus,DNF,24,14,1,16,1008.413178,991.122945,-17.290233,0.117647,0.463452,50.0,18
+1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,ettore-chimeri,Ettore Chimeri,maserati,DNF,23,21,1,17,1000.0,980.184456,-19.815544,0.058824,0.455134,50.0,18
+1960,1,1960-02-07,argentina,Gran Premio de Argentina 1960,85,antonio-creus,Antonio Creus,maserati,DNF,16,22,1,18,1000.0,977.243279,-22.756721,0.0,0.455134,50.0,18

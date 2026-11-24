@@ -1,21 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,fernando-alonso,Fernando Alonso,renault,1,61,15,0,1,1261.914886,1276.858661,14.943775,1.0,0.701125,50.0,20
-2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,nico-rosberg,Nico Rosberg,williams,2,61,8,0,2,1071.090042,1095.71886,24.628818,0.947368,0.454792,50.0,20
-2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,lewis-hamilton,Lewis Hamilton,mclaren,3,61,2,0,3,1289.182251,1297.317688,8.135437,0.894737,0.732028,50.0,20
-2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,timo-glock,Timo Glock,toyota,4,61,7,0,4,1066.904312,1086.549599,19.645287,0.842105,0.4492,50.0,20
-2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,sebastian-vettel,Sebastian Vettel,toro-rosso,5,61,6,0,5,1031.373872,1050.736998,19.363126,0.789474,0.402211,50.0,20
-2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,nick-heidfeld,Nick Heidfeld,bmw-sauber,6,61,9,0,6,1253.226594,1255.521396,2.294802,0.736842,0.690946,50.0,20
-2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,david-coulthard,David Coulthard,red-bull,7,61,14,0,7,1026.016577,1040.465802,14.449224,0.684211,0.395226,50.0,20
-2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,kazuki-nakajima,Kazuki Nakajima,williams,8,61,10,0,8,1015.941604,1028.411555,12.469951,0.631579,0.38218,50.0,20
-2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,jenson-button,Jenson Button,honda,9,61,12,0,9,1010.386934,1020.582212,10.195278,0.578947,0.375042,50.0,20
-2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,heikki-kovalainen,Heikki Kovalainen,mclaren,10,61,5,0,10,1224.744152,1218.232043,-6.512109,0.526316,0.656558,50.0,20
-2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,robert-kubica,Robert Kubica,bmw-sauber,11,61,4,0,11,1248.709943,1238.114407,-10.595537,0.473684,0.685595,50.0,20
-2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,sebastien-bourdais,Sébastien Bourdais,toro-rosso,12,61,17,0,12,971.956316,976.662709,4.706393,0.421053,0.326925,50.0,20
-2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,felipe-massa,Felipe Massa,ferrari,13,61,1,0,13,1293.466153,1275.050573,-18.41558,0.368421,0.736733,50.0,20
-2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,giancarlo-fisichella,Giancarlo Fisichella,force-india,14,61,PL,0,14,986.149014,984.717768,-1.431246,0.315789,0.344414,50.0,20
-2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,kimi-raikkonen,Kimi Räikkönen,ferrari,15,57,3,0,15,1254.445489,1232.984223,-21.461266,0.263158,0.692383,50.0,20
-2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,jarno-trulli,Jarno Trulli,toyota,DNF,50,11,1,16,1129.417171,1113.290611,-16.12656,0.210526,0.533058,50.0,20
-2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,adrian-sutil,Adrian Sutil,force-india,DNF,49,19,1,17,854.749489,852.687043,-2.062446,0.157895,0.199144,50.0,20
-2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,mark-webber,Mark Webber,red-bull,DNF,29,13,1,18,1091.445458,1072.604436,-18.841022,0.105263,0.482084,50.0,20
-2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,rubens-barrichello,Rubens Barrichello,honda,DNF,14,18,1,19,1013.940117,997.591536,-16.348581,0.052632,0.379603,50.0,20
-2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,nelson-piquet-jr,Nelson Piquet Jr.,renault,DNF,13,16,1,20,1014.835225,995.797478,-19.037746,0.0,0.380755,50.0,20
+2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,fernando-alonso,Fernando Alonso,renault,1,61,15,0,1,1437.007416,1450.201363,13.193947,1.0,0.736121,50.0,17
+2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,nico-rosberg,Nico Rosberg,williams,2,61,8,0,2,1080.123902,1105.57422,25.450318,0.9375,0.428494,50.0,17
+2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,lewis-hamilton,Lewis Hamilton,mclaren,3,61,2,0,3,1356.959054,1367.031038,10.071983,0.875,0.67356,50.0,17
+2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,timo-glock,Timo Glock,toyota,4,61,7,0,4,1071.525788,1091.110965,19.585177,0.8125,0.420796,50.0,17
+2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,sebastian-vettel,Sebastian Vettel,toro-rosso,5,61,6,0,5,1047.795129,1065.309726,17.514597,0.75,0.399708,50.0,17
+2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,nick-heidfeld,Nick Heidfeld,bmw-sauber,6,61,9,0,6,1320.154937,1322.384569,2.229632,0.6875,0.642907,50.0,17
+2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,david-coulthard,David Coulthard,red-bull,7,61,14,0,7,1058.578352,1069.36535,10.786998,0.625,0.40926,50.0,17
+2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,kazuki-nakajima,Kazuki Nakajima,williams,8,61,10,0,8,999.434399,1009.677059,10.24266,0.5625,0.357647,50.0,17
+2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,jenson-button,Jenson Button,honda,9,61,12,0,9,1080.949434,1084.487732,3.538298,0.5,0.429234,50.0,17
+2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,heikki-kovalainen,Heikki Kovalainen,mclaren,10,61,5,0,10,1263.74142,1255.911017,-7.830404,0.4375,0.594108,50.0,17
+2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,robert-kubica,Robert Kubica,bmw-sauber,11,61,4,0,11,1296.975073,1284.570395,-12.404678,0.375,0.623094,50.0,17
+2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,sebastien-bourdais,Sébastien Bourdais,toro-rosso,12,61,17,0,12,963.095163,962.366105,-0.729058,0.3125,0.327081,50.0,17
+2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,felipe-massa,Felipe Massa,ferrari,13,61,1,0,13,1407.634761,1384.440755,-23.194006,0.25,0.71388,50.0,17
+2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,giancarlo-fisichella,Giancarlo Fisichella,force-india,14,61,PL,0,14,1047.210429,1036.625844,-10.584585,0.1875,0.399192,50.0,17
+2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,kimi-raikkonen,Kimi Räikkönen,ferrari,15,57,3,0,15,1455.221723,1423.998559,-31.223164,0.125,0.749463,50.0,17
+2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,adrian-sutil,Adrian Sutil,force-india,DNF,49,19,1,16,818.250481,810.498575,-7.751906,0.0625,0.217538,50.0,17
+2008,15,2008-09-28,singapore,2008 Formula 1 SingTel Singapore Grand Prix,800,nelson-piquet-jr,Nelson Piquet Jr.,renault,DNF,13,16,1,17,1022.939301,1004.043491,-18.89581,0.0,0.377916,50.0,17

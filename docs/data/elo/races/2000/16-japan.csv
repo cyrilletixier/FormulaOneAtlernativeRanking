@@ -1,23 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,michael-schumacher,Michael Schumacher,ferrari,1,53,1,0,1,1282.737338,1294.882451,12.145113,1.0,0.757098,50.0,22
-2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,mika-hakkinen,Mika Häkkinen,mclaren,2,53,2,0,2,1306.775438,1315.300865,8.525427,0.952381,0.781872,50.0,22
-2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,david-coulthard,David Coulthard,mclaren,3,53,3,0,3,1241.182773,1250.886212,9.703438,0.904762,0.710693,50.0,22
-2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,rubens-barrichello,Rubens Barrichello,ferrari,4,53,4,0,4,1190.090455,1200.545003,10.454548,0.857143,0.648052,50.0,22
-2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,jenson-button,Jenson Button,williams,5,53,5,0,5,1058.124381,1075.170621,17.04624,0.809524,0.468599,50.0,22
-2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,jacques-villeneuve,Jacques Villeneuve,bar,6,52,9,0,6,1112.24979,1123.149689,10.899899,0.761905,0.543907,50.0,22
-2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,johnny-herbert,Johnny Herbert,jaguar,7,52,10,0,7,1018.620597,1033.633964,15.013366,0.714286,0.414018,50.0,22
-2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,eddie-irvine,Eddie Irvine,jaguar,8,52,7,0,8,1164.234219,1166.847902,2.613683,0.666667,0.614393,50.0,22
-2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,ricardo-zonta,Ricardo Zonta,bar,9,52,18,0,9,1042.804446,1051.391096,8.58665,0.619048,0.447315,50.0,22
-2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,mika-salo,Mika Salo,sauber,10,52,19,0,10,1078.471402,1082.194613,3.723212,0.571429,0.496964,50.0,22
-2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,pedro-diniz,Pedro Diniz,sauber,11,52,20,0,11,1012.960842,1018.836185,5.875342,0.52381,0.406303,50.0,22
-2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,pedro-de-la-rosa,Pedro de la Rosa,arrows,12,52,13,0,12,947.891856,955.655483,7.763627,0.47619,0.320918,50.0,22
-2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,jarno-trulli,Jarno Trulli,jordan,13,52,15,0,13,996.005873,998.263685,2.257811,0.428571,0.383415,50.0,22
-2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,giancarlo-fisichella,Giancarlo Fisichella,benetton,14,52,12,0,14,1059.677717,1055.187231,-4.490486,0.380952,0.470762,50.0,22
-2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,gaston-mazzacane,Gastón Mazzacane,minardi,15,51,22,0,15,1002.99764,1000.023851,-2.973789,0.333333,0.392809,50.0,22
-2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,marc-gene,Marc Gené,minardi,DNF,46,21,1,16,1004.696478,999.227125,-5.469353,0.285714,0.395101,50.0,22
-2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,nick-heidfeld,Nick Heidfeld,prost,DNF,41,16,1,17,965.515853,959.063936,-6.451916,0.214286,0.343324,50.0,22
-2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,ralf-schumacher,Ralf Schumacher,williams,DNF,41,6,1,18,1174.854341,1154.15086,-20.703482,0.214286,0.628355,50.0,22
-2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,alexander-wurz,Alexander Wurz,benetton,DNF,37,11,1,19,1069.447679,1052.371568,-17.076111,0.142857,0.484379,50.0,22
-2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,DNF,29,8,1,20,1122.275004,1099.150982,-23.124022,0.095238,0.557719,50.0,22
-2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,jean-alesi,Jean Alesi,prost,DNF,19,17,1,21,980.146912,964.409323,-15.737589,0.047619,0.362371,50.0,22
-2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,jos-verstappen,Jos Verstappen,arrows,DNF,9,14,1,22,987.162218,968.580608,-18.581611,0.0,0.371632,50.0,22
+2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,michael-schumacher,Michael Schumacher,ferrari,1,53,1,0,1,1462.139727,1473.598403,11.458675,1.0,0.770826,50.0,17
+2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,mika-hakkinen,Mika Häkkinen,mclaren,2,53,2,0,2,1515.861501,1522.445987,6.584486,0.9375,0.80581,50.0,17
+2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,david-coulthard,David Coulthard,mclaren,3,53,3,0,3,1398.007673,1405.516257,7.508584,0.875,0.724828,50.0,17
+2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,rubens-barrichello,Rubens Barrichello,ferrari,4,53,4,0,4,1280.39491,1289.52447,9.12956,0.8125,0.629909,50.0,17
+2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,jenson-button,Jenson Button,williams,5,53,5,0,5,1074.447273,1089.716238,15.268965,0.75,0.444621,50.0,17
+2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,jacques-villeneuve,Jacques Villeneuve,bar,6,52,9,0,6,1177.937918,1185.354512,7.416594,0.6875,0.539168,50.0,17
+2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,johnny-herbert,Johnny Herbert,jaguar,7,52,10,0,7,1063.420261,1072.940489,9.520227,0.625,0.434595,50.0,17
+2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,eddie-irvine,Eddie Irvine,jaguar,8,52,7,0,8,1201.857013,1201.942459,0.085447,0.5625,0.560791,50.0,17
+2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,ricardo-zonta,Ricardo Zonta,bar,9,52,18,0,9,968.26501,975.75402,7.48901,0.5,0.35022,50.0,17
+2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,mika-salo,Mika Salo,sauber,10,52,19,0,10,1089.433789,1088.394309,-1.03948,0.4375,0.45829,50.0,17
+2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,pedro-diniz,Pedro Diniz,sauber,11,52,20,0,11,949.908326,951.92912,2.020794,0.375,0.334584,50.0,17
+2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,pedro-de-la-rosa,Pedro de la Rosa,arrows,12,52,13,0,12,888.81963,890.213042,1.393412,0.3125,0.284632,50.0,17
+2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,jarno-trulli,Jarno Trulli,jordan,13,52,15,0,13,978.759768,973.296214,-5.463554,0.25,0.359271,50.0,17
+2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,giancarlo-fisichella,Giancarlo Fisichella,benetton,14,52,12,0,14,1120.222485,1105.274335,-14.94815,0.1875,0.486463,50.0,17
+2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,gaston-mazzacane,Gastón Mazzacane,minardi,15,51,22,0,15,951.010636,940.484855,-10.525781,0.125,0.335516,50.0,17
+2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,ralf-schumacher,Ralf Schumacher,williams,DNF,41,6,1,16,1227.047239,1201.006179,-26.041061,0.0625,0.583321,50.0,17
+2000,16,2000-10-08,japan,2000 Fuji Television Japanese Grand Prix,662,alexander-wurz,Alexander Wurz,benetton,DNF,37,11,1,17,1021.832653,1001.974925,-19.857728,0.0,0.397155,50.0,17

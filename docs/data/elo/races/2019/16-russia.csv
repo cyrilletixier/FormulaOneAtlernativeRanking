@@ -1,21 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,lewis-hamilton,Lewis Hamilton,mercedes,1,53,2,0,1,1560.137605,1564.893676,4.756071,1.0,0.904879,50.0,20
-2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,valtteri-bottas,Valtteri Bottas,mercedes,2,53,4,0,2,1418.602649,1425.432712,6.830063,0.947368,0.810767,50.0,20
-2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,charles-leclerc,Charles Leclerc,ferrari,3,53,1,0,3,1243.011324,1255.873326,12.862002,0.894737,0.637497,50.0,20
-2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,max-verstappen,Max Verstappen,red-bull,4,53,9,0,4,1356.846347,1361.104286,4.25794,0.842105,0.756946,50.0,20
-2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,alexander-albon,Alexander Albon,red-bull,5,53,PL,0,5,1096.957001,1113.627302,16.670301,0.789474,0.456068,50.0,20
-2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,6,53,5,0,6,1106.112771,1119.562021,13.44925,0.736842,0.467857,50.0,20
-2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,sergio-perez,Sergio Pérez,racing-point,7,53,11,0,7,1094.823113,1106.367634,11.544521,0.684211,0.45332,50.0,20
-2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,lando-norris,Lando Norris,mclaren,8,53,7,0,8,1058.471356,1069.715683,11.244327,0.631579,0.406692,50.0,20
-2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,kevin-magnussen,Kevin Magnussen,haas,9,53,13,0,9,1004.569369,1016.550468,11.981099,0.578947,0.339325,50.0,20
-2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,nico-hulkenberg,Nico Hülkenberg,renault,10,53,6,0,10,1088.513878,1092.569712,4.055834,0.526316,0.445199,50.0,20
-2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,lance-stroll,Lance Stroll,racing-point,11,53,14,0,11,1029.776494,1034.938367,5.161873,0.473684,0.370447,50.0,20
-2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,daniil-kvyat,Daniil Kvyat,toro-rosso,12,53,19,0,12,1043.426268,1045.098921,1.672652,0.421053,0.3876,50.0,20
-2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,13,53,15,0,13,1163.378813,1154.750796,-8.628017,0.368421,0.540981,50.0,20
-2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,pierre-gasly,Pierre Gasly,toro-rosso,14,53,16,0,14,1135.998343,1126.476482,-9.521862,0.315789,0.506227,50.0,20
-2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,15,53,12,0,15,984.363611,981.770136,-2.593475,0.263158,0.315027,50.0,20
-2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,robert-kubica,Robert Kubica,williams,DNF,28,18,1,16,993.950542,988.153074,-5.797468,0.210526,0.326476,50.0,20
-2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,george-russell,George Russell,williams,DNF,27,17,1,17,941.557888,936.154178,-5.40371,0.157895,0.265969,50.0,20
-2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,sebastian-vettel,Sebastian Vettel,ferrari,DNF,26,3,1,18,1412.413717,1377.390257,-35.023459,0.105263,0.805732,50.0,20
-2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,daniel-ricciardo,Daniel Ricciardo,renault,DNF,24,10,1,19,1114.054004,1092.78174,-21.272264,0.052632,0.478077,50.0,20
-2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,romain-grosjean,Romain Grosjean,haas,DNF,0,8,1,20,992.649753,976.404075,-16.245678,0.0,0.324914,50.0,20
+2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,lewis-hamilton,Lewis Hamilton,mercedes,1,53,2,0,1,1833.017024,1837.653161,4.636137,1.0,0.907277,50.0,17
+2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,valtteri-bottas,Valtteri Bottas,mercedes,2,53,4,0,2,1600.719453,1607.693101,6.973648,0.9375,0.798027,50.0,17
+2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,charles-leclerc,Charles Leclerc,ferrari,3,53,1,0,3,1287.349256,1302.640438,15.291182,0.875,0.569176,50.0,17
+2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,max-verstappen,Max Verstappen,red-bull,4,53,9,0,4,1520.489955,1523.716333,3.226377,0.8125,0.747972,50.0,17
+2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,alexander-albon,Alexander Albon,red-bull,5,53,PL,0,5,1093.815163,1111.298211,17.483048,0.75,0.400339,50.0,17
+2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,6,53,5,0,6,1199.55343,1209.276459,9.723029,0.6875,0.493039,50.0,17
+2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,sergio-perez,Sergio Pérez,racing-point,7,53,11,0,7,1172.983675,1180.750312,7.766637,0.625,0.469667,50.0,17
+2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,lando-norris,Lando Norris,mclaren,8,53,7,0,8,1076.456109,1085.313026,8.856917,0.5625,0.385362,50.0,17
+2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,kevin-magnussen,Kevin Magnussen,haas,9,53,13,0,9,1000.550917,1009.463624,8.912706,0.5,0.321746,50.0,17
+2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,nico-hulkenberg,Nico Hülkenberg,renault,10,53,6,0,10,1148.697523,1148.157672,-0.539851,0.4375,0.448297,50.0,17
+2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,lance-stroll,Lance Stroll,racing-point,11,53,14,0,11,979.276822,982.795305,3.518484,0.375,0.30463,50.0,17
+2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,daniil-kvyat,Daniil Kvyat,toro-rosso,12,53,19,0,12,1079.162805,1075.403365,-3.75944,0.3125,0.387689,50.0,17
+2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,13,53,15,0,13,1312.959302,1295.919842,-17.03946,0.25,0.590789,50.0,17
+2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,pierre-gasly,Pierre Gasly,toro-rosso,14,53,16,0,14,1142.3798,1129.617532,-12.762268,0.1875,0.442745,50.0,17
+2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,15,53,12,0,15,952.376612,944.449688,-7.926925,0.125,0.283538,50.0,17
+2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,daniel-ricciardo,Daniel Ricciardo,renault,DNF,24,10,1,16,1348.154045,1320.286187,-27.867858,0.0625,0.619857,50.0,17
+2019,16,2019-09-29,russia,Formula 1 VTB Russian Grand Prix 2019,1013,romain-grosjean,Romain Grosjean,haas,DNF,0,8,1,17,1010.470897,993.978533,-16.492364,0.0,0.329847,50.0,17

@@ -1,21 +1,16 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,michael-schumacher,Michael Schumacher,ferrari,1,66,1,0,1,1438.954568,1444.904391,5.949823,1.0,0.881004,50.0,20
-2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,rubens-barrichello,Rubens Barrichello,ferrari,2,66,5,0,2,1241.624588,1253.982655,12.358068,0.947368,0.700207,50.0,20
-2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,jarno-trulli,Jarno Trulli,renault,3,66,4,0,3,1140.910077,1157.028304,16.118227,0.894737,0.572372,50.0,20
-2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,fernando-alonso,Fernando Alonso,renault,4,66,8,0,4,1128.171472,1142.521237,14.349765,0.842105,0.55511,50.0,20
-2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,takuma-sato,Takuma Sato,bar,5,66,3,0,5,1043.771031,1061.304843,17.533812,0.789474,0.438797,50.0,20
-2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,ralf-schumacher,Ralf Schumacher,williams,6,66,6,0,6,1177.826554,1183.604721,5.778167,0.736842,0.621279,50.0,20
-2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,giancarlo-fisichella,Giancarlo Fisichella,sauber,7,66,12,0,7,1015.499878,1029.696449,14.196572,0.684211,0.400279,50.0,20
-2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,jenson-button,Jenson Button,bar,8,65,14,0,8,1137.713446,1140.889597,3.176151,0.631579,0.568056,50.0,20
-2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,felipe-massa,Felipe Massa,sauber,9,65,17,0,9,1032.112477,1039.918341,7.805863,0.578947,0.42283,50.0,20
-2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,david-coulthard,David Coulthard,mclaren,10,65,10,0,10,1156.159445,1152.835241,-3.324204,0.526316,0.5928,50.0,20
-2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,kimi-raikkonen,Kimi Räikkönen,mclaren,11,65,13,0,11,1116.860222,1113.56145,-3.298772,0.473684,0.53966,50.0,20
-2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,mark-webber,Mark Webber,jaguar,12,65,9,0,12,1008.159562,1009.691768,1.532206,0.421053,0.390409,50.0,20
-2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,cristiano-da-matta,Cristiano da Matta,toyota,13,65,11,0,13,1043.281833,1039.796608,-3.485225,0.368421,0.438126,50.0,20
-2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,giorgio-pantano,Giorgio Pantano,jordan,DNF,51,19,1,14,970.285986,969.041174,-1.244812,0.315789,0.340686,50.0,20
-2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,46,2,1,15,1238.271843,1216.616073,-21.65577,0.263158,0.696273,50.0,20
-2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,christian-klien,Christian Klien,jaguar,DNF,43,16,1,16,1004.273457,995.539296,-8.734162,0.210526,0.38521,50.0,20
-2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,nick-heidfeld,Nick Heidfeld,jordan,DNF,33,15,1,17,1025.262873,1011.166836,-14.096038,0.131579,0.4135,50.0,20
-2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,olivier-panis,Olivier Panis,toyota,DNF,33,7,1,18,1009.773964,996.724216,-13.049748,0.131579,0.392574,50.0,20
-2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,gianmaria-bruni,Gianmaria Bruni,minardi,DNF,31,18,1,19,961.730354,947.872501,-13.857853,0.052632,0.329789,50.0,20
-2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,zsolt-baumgartner,Zsolt Baumgartner,minardi,DNF,17,20,1,20,954.780288,938.728217,-16.052071,0.0,0.321041,50.0,20
+2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,michael-schumacher,Michael Schumacher,ferrari,1,66,1,0,1,1632.605541,1639.508629,6.903088,1.0,0.861938,50.0,15
+2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,rubens-barrichello,Rubens Barrichello,ferrari,2,66,5,0,2,1376.077691,1387.774323,11.696632,0.928571,0.694639,50.0,15
+2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,jarno-trulli,Jarno Trulli,renault,3,66,4,0,3,1176.43696,1193.199605,16.762644,0.857143,0.52189,50.0,15
+2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,fernando-alonso,Fernando Alonso,renault,4,66,8,0,4,1180.426614,1193.435483,13.008868,0.785714,0.525537,50.0,15
+2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,takuma-sato,Takuma Sato,bar,5,66,3,0,5,972.162124,990.983508,18.821384,0.714286,0.337858,50.0,15
+2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,ralf-schumacher,Ralf Schumacher,williams,6,66,6,0,6,1274.81816,1276.453677,1.635517,0.642857,0.610147,50.0,15
+2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,giancarlo-fisichella,Giancarlo Fisichella,sauber,7,66,12,0,7,1046.279592,1054.703187,8.423595,0.571429,0.402957,50.0,15
+2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,jenson-button,Jenson Button,bar,8,65,14,0,8,1160.87317,1160.491415,-0.381755,0.5,0.507635,50.0,15
+2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,felipe-massa,Felipe Massa,sauber,9,65,17,0,9,1010.28808,1013.17041,2.882329,0.428571,0.370925,50.0,15
+2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,david-coulthard,David Coulthard,mclaren,10,65,10,0,10,1363.693044,1347.311591,-16.381453,0.357143,0.684772,50.0,15
+2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,kimi-raikkonen,Kimi Räikkönen,mclaren,11,65,13,0,11,1280.572399,1264.100259,-16.47214,0.285714,0.615157,50.0,15
+2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,mark-webber,Mark Webber,jaguar,12,65,9,0,12,992.983053,985.907758,-7.075295,0.214286,0.355792,50.0,15
+2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,cristiano-da-matta,Cristiano da Matta,toyota,13,65,11,0,13,995.86187,985.089952,-10.771917,0.142857,0.358295,50.0,15
+2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,gianmaria-bruni,Gianmaria Bruni,minardi,DNF,31,18,1,14,953.952458,941.401525,-12.550933,0.071429,0.322447,50.0,15
+2004,5,2004-05-09,spain,Formula 1 Gran Premio Marlboro de España 2004,718,zsolt-baumgartner,Zsolt Baumgartner,minardi,DNF,17,20,1,15,962.929979,946.429413,-16.500565,0.0,0.330011,50.0,15

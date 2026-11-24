@@ -1,27 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,alain-prost,Alain Prost,williams,1,65,1,0,1,1286.584325,1299.17862,12.594295,1.0,0.748114,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,ayrton-senna,Ayrton Senna,mclaren,2,65,3,0,2,1287.467277,1298.013445,10.546167,0.96,0.749077,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,michael-schumacher,Michael Schumacher,benetton,3,65,4,0,3,1211.614958,1224.655013,13.040056,0.92,0.659199,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,riccardo-patrese,Riccardo Patrese,benetton,4,64,5,0,4,1224.641375,1234.861688,10.220313,0.88,0.675594,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,michael-andretti,Michael Andretti,mclaren,5,64,7,0,5,966.077029,991.751849,25.67482,0.84,0.326504,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,gerhard-berger,Gerhard Berger,ferrari,6,63,11,0,6,1180.378598,1189.451392,9.072794,0.8,0.618544,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,mark-blundell,Mark Blundell,ligier,7,63,12,0,7,1053.441937,1069.291678,15.849741,0.76,0.443005,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,christian-fittipaldi,Christian Fittipaldi,minardi,8,63,20,0,8,1061.793264,1075.062398,13.269134,0.72,0.454617,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,erik-comas,Érik Comas,larrousse,9,63,14,0,9,1084.556867,1094.234958,9.678092,0.68,0.486438,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,aguri-suzuki,Aguri Suzuki,footwork,10,63,19,0,10,1044.178257,1054.669049,10.490792,0.64,0.430184,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,thierry-boutsen,Thierry Boutsen,jordan,11,62,21,0,11,1098.501102,1103.202136,4.701034,0.6,0.505979,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,rubens-barrichello,Rubens Barrichello,jordan,12,62,17,0,12,1000.446356,1009.899592,9.453236,0.56,0.370935,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,derek-warwick,Derek Warwick,footwork,13,62,16,0,13,1152.661417,1149.60311,-3.058307,0.52,0.581166,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,alex-zanardi,Alex Zanardi,lotus,14,60,15,0,14,1027.7353,1031.354014,3.618714,0.48,0.407626,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,jj-lehto,JJ Lehto,sauber,DNF,53,9,1,15,1132.200364,1126.550502,-5.649862,0.44,0.552997,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,luca-badoer,Luca Badoer,lola,DNF,43,22,1,16,1004.350392,1005.544552,1.194159,0.4,0.376117,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,karl-wendlinger,Karl Wendlinger,sauber,DNF,42,6,1,17,1042.492358,1039.099423,-3.392935,0.36,0.427859,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,damon-hill,Damon Hill,williams,DNF,41,2,1,18,993.574491,991.480673,-2.093818,0.32,0.361876,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,jean-alesi,Jean Alesi,ferrari,DNF,40,8,1,19,1128.811273,1115.396458,-13.414815,0.28,0.548296,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,fabrizio-barbazza,Fabrizio Barbazza,minardi,DNF,37,25,1,20,928.556387,926.512043,-2.044344,0.24,0.280887,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,philippe-alliot,Philippe Alliot,larrousse,DNF,26,13,1,21,1095.100226,1080.039535,-15.060691,0.2,0.501214,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,martin-brundle,Martin Brundle,ligier,DNF,11,18,1,22,1198.422763,1173.310467,-25.112296,0.14,0.642246,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,ukyo-katayama,Ukyo Katayama,tyrrell,DNF,11,23,1,23,992.530904,981.505516,-11.025388,0.14,0.360508,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,johnny-herbert,Johnny Herbert,lotus,DNF,2,10,1,24,1084.38455,1064.074713,-20.309837,0.08,0.486197,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,andrea-de-cesaris,Andrea de Cesaris,tyrrell,DSQ,42,24,2,25,1094.007309,1071.023202,-22.984108,0.04,0.499682,50.0,26
-1993,5,1993-05-09,spain,Gran Premio de España 1993,537,michele-alboreto,Michele Alboreto,lola,DNQ,,,2,26,1097.901262,1072.644318,-25.256944,0.0,0.505139,50.0,26
+1993,5,1993-05-09,spain,Gran Premio de España 1993,537,alain-prost,Alain Prost,williams,1,65,1,0,1,1547.331318,1556.626464,9.295146,1.0,0.814097,50.0,18
+1993,5,1993-05-09,spain,Gran Premio de España 1993,537,ayrton-senna,Ayrton Senna,mclaren,2,65,3,0,2,1543.947338,1550.401112,6.453774,0.941176,0.812101,50.0,18
+1993,5,1993-05-09,spain,Gran Premio de España 1993,537,michael-schumacher,Michael Schumacher,benetton,3,65,4,0,3,1245.796585,1260.370279,14.573694,0.882353,0.590879,50.0,18
+1993,5,1993-05-09,spain,Gran Premio de España 1993,537,riccardo-patrese,Riccardo Patrese,benetton,4,64,5,0,4,1370.320008,1376.834416,6.514408,0.823529,0.693241,50.0,18
+1993,5,1993-05-09,spain,Gran Premio de España 1993,537,michael-andretti,Michael Andretti,mclaren,5,64,7,0,5,954.728708,976.254247,21.525539,0.764706,0.334195,50.0,18
+1993,5,1993-05-09,spain,Gran Premio de España 1993,537,gerhard-berger,Gerhard Berger,ferrari,6,63,11,0,6,1410.517982,1409.63656,-0.881421,0.705882,0.723511,50.0,18
+1993,5,1993-05-09,spain,Gran Premio de España 1993,537,mark-blundell,Mark Blundell,ligier,7,63,12,0,7,1029.120512,1041.569862,12.449349,0.647059,0.398072,50.0,18
+1993,5,1993-05-09,spain,Gran Premio de España 1993,537,christian-fittipaldi,Christian Fittipaldi,minardi,8,63,20,0,8,1018.144335,1028.133657,9.989323,0.588235,0.388449,50.0,18
+1993,5,1993-05-09,spain,Gran Premio de España 1993,537,erik-comas,Érik Comas,larrousse,9,63,14,0,9,1062.05019,1067.159007,5.108817,0.529412,0.427235,50.0,18
+1993,5,1993-05-09,spain,Gran Premio de España 1993,537,aguri-suzuki,Aguri Suzuki,footwork,10,63,19,0,10,995.094885,1000.20225,5.107365,0.470588,0.368441,50.0,18
+1993,5,1993-05-09,spain,Gran Premio de España 1993,537,thierry-boutsen,Thierry Boutsen,jordan,11,62,21,0,11,1194.264562,1187.567759,-6.696804,0.411765,0.545701,50.0,18
+1993,5,1993-05-09,spain,Gran Premio de España 1993,537,rubens-barrichello,Rubens Barrichello,jordan,12,62,17,0,12,992.68653,992.015204,-0.671326,0.352941,0.366368,50.0,18
+1993,5,1993-05-09,spain,Gran Premio de España 1993,537,derek-warwick,Derek Warwick,footwork,13,62,16,0,13,1205.587062,1192.506791,-13.080271,0.294118,0.555723,50.0,18
+1993,5,1993-05-09,spain,Gran Premio de España 1993,537,alex-zanardi,Alex Zanardi,lotus,14,60,15,0,14,1005.909139,998.784239,-7.124899,0.235294,0.377792,50.0,18
+1993,5,1993-05-09,spain,Gran Premio de España 1993,537,fabrizio-barbazza,Fabrizio Barbazza,minardi,DNF,37,25,1,15,902.704383,896.931435,-5.772947,0.176471,0.29193,50.0,18
+1993,5,1993-05-09,spain,Gran Premio de España 1993,537,ukyo-katayama,Ukyo Katayama,tyrrell,DNF,11,23,1,16,958.316829,947.33955,-10.977279,0.117647,0.337193,50.0,18
+1993,5,1993-05-09,spain,Gran Premio de España 1993,537,andrea-de-cesaris,Andrea de Cesaris,tyrrell,DSQ,42,24,2,17,1176.931098,1153.358421,-23.572677,0.058824,0.530277,50.0,18
+1993,5,1993-05-09,spain,Gran Premio de España 1993,537,michele-alboreto,Michele Alboreto,lola,DNQ,,,2,18,1081.700099,1059.460309,-22.23979,0.0,0.444796,50.0,18

@@ -1,23 +1,17 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,ralf-schumacher,Ralf Schumacher,williams,1,69,2,0,1,1099.516646,1122.351796,22.83515,1.0,0.543297,50.0,22
-2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,michael-schumacher,Michael Schumacher,ferrari,2,69,1,0,2,1329.295268,1336.259007,6.963739,0.952381,0.813106,50.0,22
-2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,mika-hakkinen,Mika Häkkinen,mclaren,3,69,8,0,3,1192.081516,1204.046739,11.965223,0.904762,0.665457,50.0,22
-2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,kimi-raikkonen,Kimi Räikkönen,sauber,4,69,7,0,4,1028.665047,1049.273948,20.608901,0.857143,0.444965,50.0,22
-2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,jean-alesi,Jean Alesi,prost,5,69,16,0,5,1049.940748,1066.692203,16.751455,0.809524,0.474495,50.0,22
-2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,pedro-de-la-rosa,Pedro de la Rosa,jaguar,6,68,14,0,6,925.998246,948.635855,22.637609,0.761905,0.309153,50.0,22
-2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,ricardo-zonta,Ricardo Zonta,jordan,7,68,12,0,7,1045.067341,1057.395768,12.328427,0.714286,0.467717,50.0,22
-2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,luciano-burti,Luciano Burti,prost,8,68,19,0,8,1017.558595,1029.409886,11.851291,0.666667,0.429641,50.0,22
-2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,tarso-marques,Tarso Marques,minardi,9,66,21,0,9,946.640369,960.838895,14.198526,0.619048,0.335077,50.0,22
-2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,jos-verstappen,Jos Verstappen,arrows,10,65,13,0,10,1016.270105,1023.448094,7.177989,0.571429,0.427869,50.0,22
-2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,jarno-trulli,Jarno Trulli,jordan,11,63,4,0,11,1033.587057,1037.188533,3.601476,0.52381,0.45178,50.0,22
-2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,david-coulthard,David Coulthard,mclaren,DNF,54,3,1,12,1313.753023,1297.619566,-16.133456,0.47619,0.79886,50.0,22
-2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,olivier-panis,Olivier Panis,bar,DNF,38,6,1,13,1063.637916,1060.388569,-3.249348,0.428571,0.493558,50.0,22
-2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,jacques-villeneuve,Jacques Villeneuve,bar,DNF,34,9,1,14,1128.838395,1118.721987,-10.116408,0.380952,0.583281,50.0,22
-2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,enrique-bernoldi,Enrique Bernoldi,arrows,DNF,24,17,1,15,965.29893,964.004105,-1.294826,0.333333,0.35923,50.0,22
-2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,19,10,1,16,989.699338,983.210608,-6.48873,0.261905,0.391679,50.0,22
-2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,rubens-barrichello,Rubens Barrichello,ferrari,DNF,19,5,1,17,1217.625616,1195.89696,-21.728656,0.261905,0.696478,50.0,22
-2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,jenson-button,Jenson Button,benetton,DNF,17,20,1,18,1065.035644,1049.784271,-15.251372,0.190476,0.495504,50.0,22
-2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,fernando-alonso,Fernando Alonso,minardi,DNF,7,22,1,19,975.98627,964.46245,-11.52382,0.142857,0.373334,50.0,22
-2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,eddie-irvine,Eddie Irvine,jaguar,DNF,1,15,1,20,1127.244709,1101.759598,-25.485111,0.071429,0.581131,50.0,22
-2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,nick-heidfeld,Nick Heidfeld,sauber,DNF,1,11,1,21,1010.161452,992.758562,-17.402889,0.071429,0.419486,50.0,22
-2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,0,18,1,22,1028.620613,1006.375444,-22.245169,0.0,0.444903,50.0,22
+2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,ralf-schumacher,Ralf Schumacher,williams,1,69,2,0,1,1196.924563,1217.276866,20.352303,1.0,0.592954,50.0,16
+2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,michael-schumacher,Michael Schumacher,ferrari,2,69,1,0,2,1534.604213,1539.377284,4.773071,0.933333,0.837872,50.0,16
+2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,mika-hakkinen,Mika Häkkinen,mclaren,3,69,8,0,3,1498.51315,1500.975188,2.462039,0.866667,0.817426,50.0,16
+2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,kimi-raikkonen,Kimi Räikkönen,sauber,4,69,7,0,4,1029.5007,1047.43487,17.93417,0.8,0.441317,50.0,16
+2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,jean-alesi,Jean Alesi,prost,5,69,16,0,5,1071.867679,1084.529689,12.662009,0.733333,0.480093,50.0,16
+2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,pedro-de-la-rosa,Pedro de la Rosa,jaguar,6,68,14,0,6,864.557697,883.024829,18.467132,0.666667,0.297324,50.0,16
+2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,ricardo-zonta,Ricardo Zonta,jordan,7,68,12,0,7,975.75402,986.119022,10.365002,0.6,0.3927,50.0,16
+2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,luciano-burti,Luciano Burti,prost,8,68,19,0,8,984.647437,991.280601,6.633165,0.533333,0.40067,50.0,16
+2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,tarso-marques,Tarso Marques,minardi,9,66,21,0,9,903.173728,910.038266,6.864538,0.466667,0.329376,50.0,16
+2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,jos-verstappen,Jos Verstappen,arrows,10,65,13,0,10,978.364193,978.612425,0.248232,0.4,0.395035,50.0,16
+2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,jarno-trulli,Jarno Trulli,jordan,11,63,4,0,11,1014.851522,1010.11951,-4.732012,0.333333,0.427974,50.0,16
+2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,19,10,1,12,986.187098,977.751092,-8.436006,0.233333,0.402053,50.0,16
+2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,rubens-barrichello,Rubens Barrichello,ferrari,DNF,19,5,1,13,1323.322461,1300.098957,-23.223504,0.233333,0.697803,50.0,16
+2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,eddie-irvine,Eddie Irvine,jaguar,DNF,1,15,1,14,1190.258334,1165.903399,-24.354936,0.1,0.587099,50.0,16
+2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,nick-heidfeld,Nick Heidfeld,sauber,DNF,1,11,1,15,985.886081,970.796936,-15.089145,0.1,0.401783,50.0,16
+2001,8,2001-06-10,canada,Grand Prix Air Canada 2001,671,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,0,18,1,16,1091.987441,1067.061383,-24.926058,0.0,0.498521,50.0,16

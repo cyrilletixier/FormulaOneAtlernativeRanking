@@ -1,27 +1,22 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,alain-prost,Alain Prost,mclaren,1,78,1,0,1,1288.88954,1300.359217,11.469678,1.0,0.770606,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,keke-rosberg,Keke Rosberg,mclaren,2,78,9,0,2,1155.393109,1172.956794,17.563685,0.96,0.608726,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,ayrton-senna,Ayrton Senna,lotus,3,78,3,0,3,1165.725295,1180.595025,14.86973,0.92,0.622605,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,nigel-mansell,Nigel Mansell,williams,4,78,2,0,4,1102.061264,1119.309342,17.248078,0.88,0.535038,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,rene-arnoux,René Arnoux,ligier,5,77,12,0,5,1203.0601,1211.500736,8.440635,0.84,0.671187,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,jacques-laffite,Jacques Laffite,ligier,6,77,7,0,6,1099.39669,1112.831847,13.435158,0.8,0.531297,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,nelson-piquet,Nelson Piquet,williams,7,77,11,0,7,1143.209584,1151.601497,8.391913,0.76,0.592162,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,thierry-boutsen,Thierry Boutsen,arrows,8,75,14,0,8,1160.563543,1165.778929,5.215386,0.72,0.615692,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,marc-surer,Marc Surer,arrows,9,75,17,0,9,1081.808691,1090.481691,8.673,0.68,0.50654,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,stefan-johansson,Stefan Johansson,ferrari,10,75,15,0,10,1097.661401,1103.218477,5.557076,0.64,0.528858,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,philippe-streiff,Philippe Streiff,tyrrell,11,74,13,0,11,1068.342819,1073.964758,5.621939,0.6,0.487561,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,jonathan-palmer,Jonathan Palmer,zakspeed,12,74,19,0,12,923.809249,937.060451,13.251202,0.56,0.294976,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,martin-brundle,Martin Brundle,tyrrell,DNF,67,10,1,13,1063.021853,1064.018455,0.996601,0.5,0.480068,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,patrick-tambay,Patrick Tambay,lola,DNF,67,8,1,14,1065.2166,1066.058703,0.842104,0.5,0.483158,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,gerhard-berger,Gerhard Berger,benetton,DNF,42,5,1,15,1129.235334,1122.588525,-6.646808,0.44,0.572936,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,michele-alboreto,Michele Alboreto,ferrari,DNF,38,4,1,16,1145.088861,1134.352378,-10.736483,0.38,0.59473,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,riccardo-patrese,Riccardo Patrese,brabham,DNF,38,6,1,17,1012.281511,1010.810265,-1.471247,0.38,0.409425,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,elio-de-angelis,Elio de Angelis,brabham,DNF,31,20,1,18,1146.486224,1132.654416,-13.831808,0.32,0.596636,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,teo-fabi,Teo Fabi,benetton,DNF,17,16,1,19,1019.163057,1012.219416,-6.943641,0.28,0.418873,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,alan-jones,Alan Jones,lola,DNF,2,18,1,20,1093.553396,1079.399323,-14.154073,0.24,0.523081,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,alessandro-nannini,Alessandro Nannini,minardi,DNQ,,,2,21,956.286237,944.526648,-11.759588,0.1,0.335192,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,andrea-de-cesaris,Andrea de Cesaris,minardi,DNQ,,,2,22,983.739638,970.193462,-13.546177,0.1,0.370924,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,christian-danner,Christian Danner,osella,DNQ,,,2,23,992.150846,978.043731,-14.107115,0.1,0.382142,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,huub-rothengatter,Huub Rothengatter,zakspeed,DNQ,,,2,24,1000.059232,985.419636,-14.639596,0.1,0.392792,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,johnny-dumfries,Johnny Dumfries,lotus,DNQ,,,2,25,1012.352695,996.876576,-15.476119,0.1,0.409522,50.0,26
-1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNQ,,,2,26,898.37019,890.106658,-8.263532,0.1,0.265271,50.0,26
+1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,alain-prost,Alain Prost,mclaren,1,78,1,0,1,1439.637294,1450.578143,10.940849,1.0,0.781183,50.0,21
+1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,keke-rosberg,Keke Rosberg,mclaren,2,78,9,0,2,1274.080104,1288.856067,14.775963,0.95,0.654481,50.0,21
+1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,ayrton-senna,Ayrton Senna,lotus,3,78,3,0,3,1220.38792,1234.996265,14.608346,0.9,0.607833,50.0,21
+1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,nigel-mansell,Nigel Mansell,williams,4,78,2,0,4,1173.886456,1188.087427,14.200971,0.85,0.565981,50.0,21
+1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,rene-arnoux,René Arnoux,ligier,5,77,12,0,5,1289.036299,1295.6827,6.646401,0.8,0.667072,50.0,21
+1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,jacques-laffite,Jacques Laffite,ligier,6,77,7,0,6,1248.245634,1254.130695,5.885061,0.75,0.632299,50.0,21
+1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,nelson-piquet,Nelson Piquet,williams,7,77,11,0,7,1308.970349,1309.7932,0.822851,0.7,0.683543,50.0,21
+1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,thierry-boutsen,Thierry Boutsen,arrows,8,75,14,0,8,1072.779801,1081.643262,8.863461,0.65,0.472731,50.0,21
+1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,marc-surer,Marc Surer,arrows,9,75,17,0,9,1059.693411,1066.661254,6.967843,0.6,0.460643,50.0,21
+1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,stefan-johansson,Stefan Johansson,ferrari,10,75,15,0,10,1062.466512,1066.806405,4.339893,0.55,0.463202,50.0,21
+1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,philippe-streiff,Philippe Streiff,tyrrell,11,74,13,0,11,1021.810139,1025.515812,3.705674,0.5,0.425887,50.0,21
+1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,jonathan-palmer,Jonathan Palmer,zakspeed,12,74,19,0,12,962.003452,965.889438,3.885986,0.45,0.37228,50.0,21
+1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,martin-brundle,Martin Brundle,tyrrell,DNF,67,10,1,13,912.635233,914.893889,2.258656,0.375,0.329827,50.0,21
+1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,patrick-tambay,Patrick Tambay,lola,DNF,67,8,1,14,1098.984168,1092.884629,-6.099538,0.375,0.496991,50.0,21
+1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,alan-jones,Alan Jones,lola,DNF,2,18,1,15,1294.67518,1276.086768,-18.588411,0.3,0.671768,50.0,21
+1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,alessandro-nannini,Alessandro Nannini,minardi,DNQ,,,2,16,980.893566,967.693843,-13.199723,0.125,0.388994,50.0,21
+1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,andrea-de-cesaris,Andrea de Cesaris,minardi,DNQ,,,2,17,1018.542561,1003.646993,-14.895568,0.125,0.422911,50.0,21
+1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,christian-danner,Christian Danner,osella,DNQ,,,2,18,1000.0,985.944147,-14.055853,0.125,0.406117,50.0,21
+1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,huub-rothengatter,Huub Rothengatter,zakspeed,DNQ,,,2,19,924.621433,913.87378,-10.747652,0.125,0.339953,50.0,21
+1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,johnny-dumfries,Johnny Dumfries,lotus,DNQ,,,2,20,990.860555,977.215485,-13.64507,0.125,0.397901,50.0,21
+1986,4,1986-05-11,monaco,Grand Prix de Monaco 1986,424,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNQ,,,2,21,822.803219,816.133079,-6.67014,0.125,0.258403,50.0,21

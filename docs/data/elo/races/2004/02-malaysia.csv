@@ -1,21 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,michael-schumacher,Michael Schumacher,ferrari,1,56,1,0,1,1420.061108,1426.56977,6.508662,1.0,0.869827,50.0,20
-2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,juan-pablo-montoya,Juan Pablo Montoya,williams,2,56,4,0,2,1231.697493,1244.591701,12.894208,0.947368,0.689484,50.0,20
-2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,jenson-button,Jenson Button,bar,3,56,6,0,3,1077.870496,1098.339264,20.468768,0.894737,0.485361,50.0,20
-2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,rubens-barrichello,Rubens Barrichello,ferrari,4,56,3,0,4,1218.073563,1226.532315,8.458752,0.842105,0.67293,50.0,20
-2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,jarno-trulli,Jarno Trulli,renault,5,56,8,0,5,1100.322025,1113.963584,13.641559,0.789474,0.516642,50.0,20
-2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,david-coulthard,David Coulthard,mclaren,6,56,9,0,6,1186.987345,1192.143888,5.156544,0.736842,0.633711,50.0,20
-2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,fernando-alonso,Fernando Alonso,renault,7,56,19,0,7,1092.995622,1101.883775,8.888153,0.684211,0.506447,50.0,20
-2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,felipe-massa,Felipe Massa,sauber,8,55,11,0,8,1014.476322,1026.167922,11.6916,0.631579,0.397747,50.0,20
-2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,cristiano-da-matta,Cristiano da Matta,toyota,9,55,10,0,9,1051.15583,1057.695091,6.539262,0.578947,0.448162,50.0,20
-2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,christian-klien,Christian Klien,jaguar,10,55,13,0,10,1004.802039,1011.883969,7.08193,0.526316,0.384677,50.0,20
-2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,giancarlo-fisichella,Giancarlo Fisichella,sauber,11,55,12,0,11,996.17104,1001.199129,5.02809,0.473684,0.373122,50.0,20
-2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,olivier-panis,Olivier Panis,toyota,12,55,14,0,12,992.379458,995.028048,2.648591,0.421053,0.368081,50.0,20
-2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,giorgio-pantano,Giorgio Pantano,jordan,13,54,PL,0,13,996.907302,996.623159,-0.284143,0.368421,0.374104,50.0,20
-2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,gianmaria-bruni,Gianmaria Bruni,minardi,14,53,16,0,14,989.012565,986.620911,-2.391654,0.315789,0.363623,50.0,20
-2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,takuma-sato,Takuma Sato,bar,15,52,20,0,15,1047.008861,1038.046204,-8.962657,0.263158,0.442411,50.0,20
-2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,zsolt-baumgartner,Zsolt Baumgartner,minardi,16,52,17,0,16,979.291412,972.275005,-7.016407,0.210526,0.350854,50.0,20
-2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,40,5,1,17,1162.74012,1140.539668,-22.200452,0.157895,0.601904,50.0,20
-2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,nick-heidfeld,Nick Heidfeld,jordan,DNF,34,15,1,18,1066.181171,1047.991186,-18.189985,0.105263,0.469063,50.0,20
-2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,ralf-schumacher,Ralf Schumacher,williams,DNF,27,7,1,19,1200.870723,1170.929196,-29.941528,0.052632,0.651462,50.0,20
-2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,mark-webber,Mark Webber,jaguar,DNF,23,2,1,20,1016.419421,996.40013,-20.019291,0.0,0.400386,50.0,20
+2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,michael-schumacher,Michael Schumacher,ferrari,1,56,1,0,1,1612.363228,1618.994132,6.630903,1.0,0.867382,50.0,17
+2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,juan-pablo-montoya,Juan Pablo Montoya,williams,2,56,4,0,2,1346.875373,1358.746928,11.871555,0.9375,0.700069,50.0,17
+2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,jenson-button,Jenson Button,bar,3,56,6,0,3,1100.170461,1119.645254,19.474793,0.875,0.485504,50.0,17
+2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,rubens-barrichello,Rubens Barrichello,ferrari,4,56,3,0,4,1360.109601,1365.221947,5.112346,0.8125,0.710253,50.0,17
+2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,jarno-trulli,Jarno Trulli,renault,5,56,8,0,5,1138.883098,1150.324827,11.441729,0.75,0.521165,50.0,17
+2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,david-coulthard,David Coulthard,mclaren,6,56,9,0,6,1384.929477,1382.861303,-2.068174,0.6875,0.728863,50.0,17
+2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,fernando-alonso,Fernando Alonso,renault,7,56,19,0,7,1153.293799,1157.825727,4.531928,0.625,0.534361,50.0,17
+2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,felipe-massa,Felipe Massa,sauber,8,55,11,0,8,1002.934591,1011.243504,8.308914,0.5625,0.396322,50.0,17
+2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,cristiano-da-matta,Cristiano da Matta,toyota,9,55,10,0,9,1007.896662,1012.856382,4.95972,0.5,0.400806,50.0,17
+2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,christian-klien,Christian Klien,jaguar,10,55,13,0,10,996.252011,998.611923,2.359912,0.4375,0.390302,50.0,17
+2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,giancarlo-fisichella,Giancarlo Fisichella,sauber,11,55,12,0,11,1047.08323,1044.005632,-3.077598,0.375,0.436552,50.0,17
+2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,olivier-panis,Olivier Panis,toyota,12,55,14,0,12,1016.003233,1011.220512,-4.782721,0.3125,0.408154,50.0,17
+2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,giorgio-pantano,Giorgio Pantano,jordan,13,54,PL,0,13,985.537725,979.002826,-6.534899,0.25,0.380698,50.0,17
+2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,gianmaria-bruni,Gianmaria Bruni,minardi,14,53,16,0,14,981.966296,972.465756,-9.500541,0.1875,0.377511,50.0,17
+2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,takuma-sato,Takuma Sato,bar,15,52,20,0,15,979.653595,967.13105,-12.522544,0.125,0.375451,50.0,17
+2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,zsolt-baumgartner,Zsolt Baumgartner,minardi,16,52,17,0,16,989.536167,973.447429,-16.088737,0.0625,0.384275,50.0,17
+2004,2,2004-03-21,malaysia,2004 Petronas Malaysian Grand Prix,715,mark-webber,Mark Webber,jaguar,DNF,23,2,1,17,1009.582732,989.466146,-20.116586,0.0,0.402332,50.0,17

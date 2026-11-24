@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,lewis-hamilton,Lewis Hamilton,mercedes,1,71,1,0,1,1560.765986,1565.380877,4.614891,1.0,0.907702,50.0,20
-2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,valtteri-bottas,Valtteri Bottas,mercedes,2,71,4,0,2,1417.148661,1423.983073,6.834412,0.947368,0.81068,50.0,20
-2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,max-verstappen,Max Verstappen,red-bull,3,71,2,0,3,1321.924977,1330.592946,8.667968,0.894737,0.721377,50.0,20
-2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,alexander-albon,Alexander Albon,red-bull,4,71,6,0,4,1151.700017,1167.854362,16.154345,0.842105,0.519018,50.0,20
-2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,lando-norris,Lando Norris,mclaren,5,71,9,0,5,1109.62314,1125.874777,16.251637,0.789474,0.464441,50.0,20
-2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,sergio-perez,Sergio Pérez,racing-point,6,71,17,0,6,1151.9105,1162.788108,10.877608,0.736842,0.51929,50.0,20
-2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,lance-stroll,Lance Stroll,racing-point,7,71,13,0,7,998.700541,1016.697512,17.996971,0.684211,0.324271,50.0,20
-2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,daniel-ricciardo,Daniel Ricciardo,renault,8,71,8,0,8,1090.54873,1100.143274,9.594544,0.631579,0.439688,50.0,20
-2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,9,70,3,0,9,1167.705486,1169.673112,1.967626,0.578947,0.539595,50.0,20
-2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,daniil-kvyat,Daniil Kvyat,alphatauri,10,70,14,0,10,1071.586159,1077.141058,5.5549,0.526316,0.415218,50.0,20
-2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,11,70,16,0,11,1126.174951,1125.561581,-0.613371,0.473684,0.485952,50.0,20
-2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,kevin-magnussen,Kevin Magnussen,haas,12,70,15,0,12,993.659365,998.799397,5.140031,0.421053,0.318252,50.0,20
-2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,romain-grosjean,Romain Grosjean,haas,13,70,PL,0,13,969.000512,972.947903,3.947391,0.368421,0.289473,50.0,20
-2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,14,70,19,0,14,1012.448894,1011.193442,-1.255452,0.315789,0.340899,50.0,20
-2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,pierre-gasly,Pierre Gasly,alphatauri,15,70,7,0,15,1136.742115,1124.916661,-11.825453,0.263158,0.499667,50.0,20
-2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,george-russell,George Russell,williams,16,69,12,0,16,929.611242,927.833064,-1.778178,0.210526,0.24609,50.0,20
-2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,nicholas-latifi,Nicholas Latifi,williams,17,69,18,0,17,1007.343056,998.503368,-8.839688,0.157895,0.334688,50.0,20
-2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,esteban-ocon,Esteban Ocon,renault,DNF,25,5,1,18,1086.367346,1069.916664,-16.450681,0.105263,0.434277,50.0,20
-2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,charles-leclerc,Charles Leclerc,ferrari,DNF,4,11,1,19,1276.753165,1245.773112,-30.980053,0.052632,0.672233,50.0,20
-2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,sebastian-vettel,Sebastian Vettel,ferrari,DNF,1,10,1,20,1317.921658,1282.062209,-35.859449,0.0,0.717189,50.0,20
+2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,lewis-hamilton,Lewis Hamilton,mercedes,1,71,1,0,1,1828.929967,1834.031233,5.101266,1.0,0.897975,50.0,19
+2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,valtteri-bottas,Valtteri Bottas,mercedes,2,71,4,0,2,1642.872252,1649.465604,6.593352,0.944444,0.812577,50.0,19
+2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,max-verstappen,Max Verstappen,red-bull,3,71,2,0,3,1521.34116,1528.804738,7.463578,0.888889,0.739617,50.0,19
+2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,alexander-albon,Alexander Albon,red-bull,4,71,6,0,4,1145.429613,1164.806254,19.376641,0.833333,0.445801,50.0,19
+2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,lando-norris,Lando Norris,mclaren,5,71,9,0,5,1141.952583,1158.698242,16.74566,0.777778,0.442865,50.0,19
+2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,sergio-perez,Sergio Pérez,racing-point,6,71,17,0,6,1211.723618,1222.743602,11.019984,0.722222,0.501823,50.0,19
+2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,lance-stroll,Lance Stroll,racing-point,7,71,13,0,7,978.266742,996.139607,17.872865,0.666667,0.309209,50.0,19
+2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,daniel-ricciardo,Daniel Ricciardo,renault,8,71,8,0,8,1298.053989,1299.930316,1.876327,0.611111,0.573585,50.0,19
+2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,9,70,3,0,9,1241.803188,1243.226975,1.423788,0.555556,0.52708,50.0,19
+2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,daniil-kvyat,Daniil Kvyat,alphatauri,10,70,14,0,10,1078.680546,1084.187562,5.507015,0.5,0.38986,50.0,19
+2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,11,70,16,0,11,1280.424323,1274.689625,-5.734698,0.444444,0.559138,50.0,19
+2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,kevin-magnussen,Kevin Magnussen,haas,12,70,15,0,12,985.391176,989.099369,3.708193,0.388889,0.314725,50.0,19
+2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,romain-grosjean,Romain Grosjean,haas,13,70,PL,0,13,972.047091,973.4925,1.44541,0.333333,0.304425,50.0,19
+2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,14,70,19,0,14,961.953812,961.006461,-0.947351,0.277778,0.296725,50.0,19
+2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,pierre-gasly,Pierre Gasly,alphatauri,15,70,7,0,15,1138.614345,1127.723097,-10.891248,0.222222,0.440047,50.0,19
+2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,george-russell,George Russell,williams,16,69,12,0,16,892.878855,888.893922,-3.984933,0.166667,0.246365,50.0,19
+2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,nicholas-latifi,Nicholas Latifi,williams,17,69,18,0,17,993.663063,983.159866,-10.503197,0.111111,0.321175,50.0,19
+2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,charles-leclerc,Charles Leclerc,ferrari,DNF,4,11,1,18,1337.38889,1309.902713,-27.486177,0.055556,0.605279,50.0,19
+2020,2,2020-07-12,styria,Formula 1 Pirelli Grosser Preis der Steiermark 2020,1020,sebastian-vettel,Sebastian Vettel,ferrari,DNF,1,10,1,19,1572.08062,1533.494147,-38.586473,0.0,0.771729,50.0,19

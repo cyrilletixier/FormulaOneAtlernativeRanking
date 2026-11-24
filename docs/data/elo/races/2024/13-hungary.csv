@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,oscar-piastri,Oscar Piastri,mclaren,1,70,2,0,1,1250.388923,1269.257239,18.868316,1.0,0.622634,50.0,20
-2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,lando-norris,Lando Norris,mclaren,2,70,1,0,2,1336.227784,1347.656007,11.428223,0.947368,0.718804,50.0,20
-2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,lewis-hamilton,Lewis Hamilton,mercedes,3,70,5,0,3,1338.358697,1347.044034,8.685337,0.894737,0.72103,50.0,20
-2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,charles-leclerc,Charles Leclerc,ferrari,4,70,6,0,4,1299.756771,1307.891595,8.134825,0.842105,0.679409,50.0,20
-2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,max-verstappen,Max Verstappen,red-bull,5,70,3,0,5,1563.865172,1558.245987,-5.619185,0.789474,0.901857,50.0,20
-2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,6,70,4,0,6,1320.391829,1322.134313,1.742484,0.736842,0.701992,50.0,20
-2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,sergio-perez,Sergio Pérez,red-bull,7,70,16,0,7,1280.298612,1281.636023,1.337411,0.684211,0.657462,50.0,20
-2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,george-russell,George Russell,mercedes,8,70,17,0,8,1272.607691,1271.755309,-0.852382,0.631579,0.648627,50.0,20
-2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,yuki-tsunoda,Yuki Tsunoda,rb,9,70,10,0,9,1048.212553,1058.532028,10.319475,0.578947,0.372558,50.0,20
-2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,lance-stroll,Lance Stroll,aston-martin,10,70,8,0,10,1105.384411,1109.544518,4.160107,0.526316,0.443114,50.0,20
-2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,fernando-alonso,Fernando Alonso,aston-martin,11,70,7,0,11,1195.009535,1190.923421,-4.086114,0.473684,0.555406,50.0,20
-2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,daniel-ricciardo,Daniel Ricciardo,rb,12,69,9,0,12,1055.960351,1057.914844,1.954493,0.421053,0.381963,50.0,20
-2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,nico-hulkenberg,Nico Hülkenberg,haas,13,69,11,0,13,1076.716369,1074.76572,-1.950649,0.368421,0.407434,50.0,20
-2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,alexander-albon,Alexander Albon,williams,14,69,13,0,14,1021.680039,1020.425915,-1.254125,0.315789,0.340872,50.0,20
-2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,kevin-magnussen,Kevin Magnussen,haas,15,69,15,0,15,973.776006,972.621916,-1.15409,0.263158,0.28624,50.0,20
-2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,valtteri-bottas,Valtteri Bottas,kick-sauber,16,69,12,0,16,964.721375,961.429797,-3.291578,0.210526,0.276358,50.0,20
-2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,logan-sargeant,Logan Sargeant,williams,17,69,14,0,17,898.791335,896.21146,-2.579875,0.157895,0.209492,50.0,20
-2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,esteban-ocon,Esteban Ocon,alpine,18,69,19,0,18,1070.920724,1056.169621,-14.751103,0.105263,0.400285,50.0,20
-2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,guanyu-zhou,Guanyu Zhou,kick-sauber,19,69,18,0,19,960.966782,949.983055,-10.983727,0.052632,0.272306,50.0,20
-2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,pierre-gasly,Pierre Gasly,alpine,DNF,33,PL,1,20,1072.440139,1052.332296,-20.107843,0.0,0.402157,50.0,20
+2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,oscar-piastri,Oscar Piastri,mclaren,1,70,2,0,1,1291.090191,1313.925284,22.835093,1.0,0.543298,50.0,19
+2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,lando-norris,Lando Norris,mclaren,2,70,1,0,2,1458.244414,1471.678797,13.434383,0.944444,0.675757,50.0,19
+2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,lewis-hamilton,Lewis Hamilton,mercedes,3,70,5,0,3,1554.598706,1561.853288,7.254582,0.888889,0.743797,50.0,19
+2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,charles-leclerc,Charles Leclerc,ferrari,4,70,6,0,4,1506.299099,1512.433868,6.134769,0.833333,0.710638,50.0,19
+2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,max-verstappen,Max Verstappen,red-bull,5,70,3,0,5,1851.381646,1845.309777,-6.071869,0.777778,0.899215,50.0,19
+2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,6,70,4,0,6,1458.807202,1461.109543,2.302341,0.722222,0.676175,50.0,19
+2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,sergio-perez,Sergio Pérez,red-bull,7,70,16,0,7,1455.347933,1455.001327,-0.346605,0.666667,0.673599,50.0,19
+2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,george-russell,George Russell,mercedes,8,70,17,0,8,1422.871423,1420.976737,-1.894686,0.611111,0.649005,50.0,19
+2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,yuki-tsunoda,Yuki Tsunoda,rb,9,70,10,0,9,1031.94818,1043.204653,11.256472,0.555556,0.330426,50.0,19
+2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,lance-stroll,Lance Stroll,aston-martin,10,70,8,0,10,1147.417264,1151.243094,3.825831,0.5,0.423483,50.0,19
+2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,fernando-alonso,Fernando Alonso,aston-martin,11,70,7,0,11,1312.342966,1306.523832,-5.819134,0.444444,0.560827,50.0,19
+2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,daniel-ricciardo,Daniel Ricciardo,rb,12,69,9,0,12,1106.001085,1105.973451,-0.027635,0.388889,0.389442,50.0,19
+2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,nico-hulkenberg,Nico Hülkenberg,haas,13,69,11,0,13,1075.936261,1074.345845,-1.590417,0.333333,0.365142,50.0,19
+2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,alexander-albon,Alexander Albon,williams,14,69,13,0,14,1064.004486,1060.112485,-3.892001,0.277778,0.355618,50.0,19
+2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,kevin-magnussen,Kevin Magnussen,haas,15,69,15,0,15,931.599459,929.897454,-1.702005,0.222222,0.256262,50.0,19
+2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,valtteri-bottas,Valtteri Bottas,kick-sauber,16,69,12,0,16,1042.222131,1033.633807,-8.588324,0.166667,0.338433,50.0,19
+2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,logan-sargeant,Logan Sargeant,williams,17,69,14,0,17,874.922753,869.566072,-5.356681,0.111111,0.218245,50.0,19
+2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,esteban-ocon,Esteban Ocon,alpine,18,69,19,0,18,1150.868635,1132.329257,-18.539378,0.055556,0.426343,50.0,19
+2024,13,2024-07-21,hungary,Formula 1 Hungarian Grand Prix 2024,1114,guanyu-zhou,Guanyu Zhou,kick-sauber,19,69,18,0,19,943.030414,929.815677,-13.214737,0.0,0.264295,50.0,19

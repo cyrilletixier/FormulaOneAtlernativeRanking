@@ -1,16 +1,10 @@
 {
   "k": 50.0,
   "initialElo": 1000.0,
+  "scale": 600.0,
+  "excludeMechanicalDnf": true,
   "totalRaces": 1172,
   "drivers": [
-    {
-      "id": "adolf-brudes",
-      "name": "Adolf Brudes"
-    },
-    {
-      "id": "adolfo-schwelm-cruz",
-      "name": "Adolfo Schwelm Cruz"
-    },
     {
       "id": "adrian-campos",
       "name": "Adrián Campos"
@@ -88,10 +82,6 @@
       "name": "Alberto Uria"
     },
     {
-      "id": "aldo-gordini",
-      "name": "Aldo Gordini"
-    },
-    {
       "id": "alejandro-de-tomaso",
       "name": "Alejandro de Tomaso"
     },
@@ -140,10 +130,6 @@
       "name": "Alfonso de Portago"
     },
     {
-      "id": "alfonso-thiele",
-      "name": "Alfonso Thiele"
-    },
-    {
       "id": "alfredo-pian",
       "name": "Alfredo Pián"
     },
@@ -158,14 +144,6 @@
     {
       "id": "andre-guelfi",
       "name": "André Guelfi"
-    },
-    {
-      "id": "andre-lotterer",
-      "name": "André Lotterer"
-    },
-    {
-      "id": "andre-milhoux",
-      "name": "André Milhoux"
     },
     {
       "id": "andre-pilette",
@@ -224,10 +202,6 @@
       "name": "Antônio Pizzonia"
     },
     {
-      "id": "archie-scott-brown",
-      "name": "Archie Scott Brown"
-    },
-    {
       "id": "art-bisch",
       "name": "Art Bisch"
     },
@@ -260,10 +234,6 @@
       "name": "Ayrton Senna"
     },
     {
-      "id": "basil-van-rooyen",
-      "name": "Basil van Rooyen"
-    },
-    {
       "id": "bayliss-levrett",
       "name": "Bayliss Levrett"
     },
@@ -290,10 +260,6 @@
     {
       "id": "bernie-ecclestone",
       "name": "Bernie Ecclestone"
-    },
-    {
-      "id": "bertil-roos",
-      "name": "Bertil Roos"
     },
     {
       "id": "bertrand-gachot",
@@ -338,10 +304,6 @@
     {
       "id": "bill-vukovich",
       "name": "Bill Vukovich"
-    },
-    {
-      "id": "bill-whitehouse",
-      "name": "Bill Whitehouse"
     },
     {
       "id": "billy-garrett",
@@ -588,10 +550,6 @@
       "name": "Christian Fittipaldi"
     },
     {
-      "id": "christian-goethals",
-      "name": "Christian Goethals"
-    },
-    {
       "id": "christian-klien",
       "name": "Christian Klien"
     },
@@ -626,10 +584,6 @@
     {
       "id": "clemar-bucci",
       "name": "Clemar Bucci"
-    },
-    {
-      "id": "clemente-biondetti",
-      "name": "Clemente Biondetti"
     },
     {
       "id": "cliff-allison",
@@ -782,14 +736,6 @@
     {
       "id": "desire-wilson",
       "name": "Desiré Wilson"
-    },
-    {
-      "id": "desmond-titterington",
-      "name": "Desmond Titterington"
-    },
-    {
-      "id": "dick-gibson",
-      "name": "Dick Gibson"
     },
     {
       "id": "dick-rathmann",
@@ -984,14 +930,6 @@
       "name": "Ernst Klodwig"
     },
     {
-      "id": "ernst-loof",
-      "name": "Ernst Loof"
-    },
-    {
-      "id": "erwin-bauer",
-      "name": "Erwin Bauer"
-    },
-    {
       "id": "esteban-gutierrez",
       "name": "Esteban Gutiérrez"
     },
@@ -1124,10 +1062,6 @@
       "name": "Gabriele Tarquini"
     },
     {
-      "id": "gaetano-starrabba",
-      "name": "Gaetano Starrabba"
-    },
-    {
       "id": "gary-brabham",
       "name": "Gary Brabham"
     },
@@ -1152,20 +1086,12 @@
       "name": "Geoffrey Crossley"
     },
     {
-      "id": "george-abecassis",
-      "name": "George Abecassis"
-    },
-    {
       "id": "george-amick",
       "name": "George Amick"
     },
     {
       "id": "george-connor",
       "name": "George Connor"
-    },
-    {
-      "id": "george-constantine",
-      "name": "George Constantine"
     },
     {
       "id": "george-eaton",
@@ -1182,14 +1108,6 @@
     {
       "id": "george-russell",
       "name": "George Russell"
-    },
-    {
-      "id": "georges-berger",
-      "name": "Georges Berger"
-    },
-    {
-      "id": "georges-grignard",
-      "name": "Georges Grignard"
     },
     {
       "id": "gerard-larrousse",
@@ -1256,10 +1174,6 @@
       "name": "Gino Munaron"
     },
     {
-      "id": "giorgio-bassi",
-      "name": "Giorgio Bassi"
-    },
-    {
       "id": "giorgio-francia",
       "name": "Giorgio Francia"
     },
@@ -1292,10 +1206,6 @@
       "name": "Graham Hill"
     },
     {
-      "id": "graham-mcrae",
-      "name": "Graham McRae"
-    },
-    {
       "id": "graham-whitehead",
       "name": "Graham Whitehead"
     },
@@ -1314,10 +1224,6 @@
     {
       "id": "gunther-seiffert",
       "name": "Günther Seiffert"
-    },
-    {
-      "id": "gus-hutchison",
-      "name": "Gus Hutchison"
     },
     {
       "id": "guy-edwards",
@@ -1396,10 +1302,6 @@
       "name": "Heinz-Harald Frentzen"
     },
     {
-      "id": "heinz-schiller",
-      "name": "Heinz Schiller"
-    },
-    {
       "id": "helm-glockler",
       "name": "Helm Glöckler"
     },
@@ -1430,10 +1332,6 @@
     {
       "id": "henry-taylor",
       "name": "Henry Taylor"
-    },
-    {
-      "id": "herbert-mackay-fraser",
-      "name": "Herbert MacKay-Fraser"
     },
     {
       "id": "hermann-lang",
@@ -1482,10 +1380,6 @@
     {
       "id": "ian-scheckter",
       "name": "Ian Scheckter"
-    },
-    {
-      "id": "ian-stewart",
-      "name": "Ian Stewart"
     },
     {
       "id": "ignazio-giunti",
@@ -1640,10 +1534,6 @@
       "name": "Jean-Louis Schlesser"
     },
     {
-      "id": "jean-lucas",
-      "name": "Jean Lucas"
-    },
-    {
       "id": "jean-lucienbonnet",
       "name": "Jean Lucienbonnet"
     },
@@ -1678,10 +1568,6 @@
     {
       "id": "jerry-unser-jr",
       "name": "Jerry Unser Jr."
-    },
-    {
-      "id": "jesus-iglesias",
-      "name": "Jesús Iglesias"
     },
     {
       "id": "jim-clark",
@@ -1756,10 +1642,6 @@
       "name": "Jo Siffert"
     },
     {
-      "id": "jo-vonlanthen",
-      "name": "Jo Vonlanthen"
-    },
-    {
       "id": "joachim-winkelhock",
       "name": "Joachim Winkelhock"
     },
@@ -1800,16 +1682,8 @@
       "name": "John Cannon"
     },
     {
-      "id": "john-cordts",
-      "name": "John Cordts"
-    },
-    {
       "id": "john-fitch",
       "name": "John Fitch"
-    },
-    {
-      "id": "john-james",
-      "name": "John James"
     },
     {
       "id": "john-love",
@@ -1822,10 +1696,6 @@
     {
       "id": "john-nicholson",
       "name": "John Nicholson"
-    },
-    {
-      "id": "john-rhodes",
-      "name": "John Rhodes"
     },
     {
       "id": "john-riseley-prichard",
@@ -1920,10 +1790,6 @@
       "name": "José Froilán González"
     },
     {
-      "id": "josef-peters",
-      "name": "Josef Peters"
-    },
-    {
       "id": "juan-jover",
       "name": "Juan Jover"
     },
@@ -1958,10 +1824,6 @@
     {
       "id": "kamui-kobayashi",
       "name": "Kamui Kobayashi"
-    },
-    {
-      "id": "karl-gunther-bechem",
-      "name": "Karl-Günther Bechem"
     },
     {
       "id": "karl-kling",
@@ -2040,10 +1902,6 @@
       "name": "Kunimitsu Takahashi"
     },
     {
-      "id": "kurt-adolff",
-      "name": "Kurt Adolff"
-    },
-    {
       "id": "kurt-ahrens-jr",
       "name": "Kurt Ahrens, Jr."
     },
@@ -2102,10 +1960,6 @@
     {
       "id": "les-leston",
       "name": "Les Leston"
-    },
-    {
-      "id": "leslie-johnson",
-      "name": "Leslie Johnson"
     },
     {
       "id": "leslie-marr",
@@ -2224,10 +2078,6 @@
       "name": "Marc Surer"
     },
     {
-      "id": "marcel-balsa",
-      "name": "Marcel Balsa"
-    },
-    {
       "id": "marco-apicella",
       "name": "Marco Apicella"
     },
@@ -2258,10 +2108,6 @@
     {
       "id": "mark-webber",
       "name": "Mark Webber"
-    },
-    {
-      "id": "markus-winkelhock",
-      "name": "Markus Winkelhock"
     },
     {
       "id": "marshall-teague",
@@ -2382,10 +2228,6 @@
     {
       "id": "mike-hailwood",
       "name": "Mike Hailwood"
-    },
-    {
-      "id": "mike-harris",
-      "name": "Mike Harris"
     },
     {
       "id": "mike-hawthorn",
@@ -2568,10 +2410,6 @@
       "name": "Oscar Piastri"
     },
     {
-      "id": "oswald-karch",
-      "name": "Oswald Karch"
-    },
-    {
       "id": "otto-stuppacher",
       "name": "Otto Stuppacher"
     },
@@ -2646,10 +2484,6 @@
     {
       "id": "paul-emery",
       "name": "Paul Emery"
-    },
-    {
-      "id": "paul-england",
-      "name": "Paul England"
     },
     {
       "id": "paul-frere",
@@ -2756,10 +2590,6 @@
       "name": "Phil Hill"
     },
     {
-      "id": "philip-fotheringham-parker",
-      "name": "Philip Fotheringham-Parker"
-    },
-    {
       "id": "philippe-adams",
       "name": "Philippe Adams"
     },
@@ -2784,20 +2614,12 @@
       "name": "Pierluigi Martini"
     },
     {
-      "id": "piero-carini",
-      "name": "Piero Carini"
-    },
-    {
       "id": "piero-drogo",
       "name": "Piero Drogo"
     },
     {
       "id": "piero-dusio",
       "name": "Piero Dusio"
-    },
-    {
-      "id": "piero-scotti",
-      "name": "Piero Scotti"
     },
     {
       "id": "piero-taruffi",
@@ -2972,14 +2794,6 @@
       "name": "Roberto Moreno"
     },
     {
-      "id": "robin-montgomerie-charrington",
-      "name": "Robin Montgomerie-Charrington"
-    },
-    {
-      "id": "robin-widdows",
-      "name": "Robin Widdows"
-    },
-    {
       "id": "rodger-ward",
       "name": "Rodger Ward"
     },
@@ -2994,10 +2808,6 @@
     {
       "id": "roger-laurent",
       "name": "Roger Laurent"
-    },
-    {
-      "id": "roger-loyer",
-      "name": "Roger Loyer"
     },
     {
       "id": "roger-penske",
@@ -3046,10 +2856,6 @@
     {
       "id": "rudolf-krause",
       "name": "Rudolf Krause"
-    },
-    {
-      "id": "rudolf-schoeller",
-      "name": "Rudolf Schoeller"
     },
     {
       "id": "rupert-keegan",
@@ -3148,10 +2954,6 @@
       "name": "Stefano Modena"
     },
     {
-      "id": "stephane-sarrazin",
-      "name": "Stéphane Sarrazin"
-    },
-    {
       "id": "stephen-south",
       "name": "Stephen South"
     },
@@ -3192,10 +2994,6 @@
       "name": "Teo Fabi"
     },
     {
-      "id": "theo-fitzau",
-      "name": "Theo Fitzau"
-    },
-    {
       "id": "theo-helfrich",
       "name": "Theo Helfrich"
     },
@@ -3218,10 +3016,6 @@
     {
       "id": "tim-schenken",
       "name": "Tim Schenken"
-    },
-    {
-      "id": "timmy-mayer",
-      "name": "Timmy Mayer"
     },
     {
       "id": "timo-glock",
@@ -3398,10 +3192,6 @@
     {
       "id": "will-stevens",
       "name": "Will Stevens"
-    },
-    {
-      "id": "willi-heeks",
-      "name": "Willi Heeks"
     },
     {
       "id": "willi-krakau",

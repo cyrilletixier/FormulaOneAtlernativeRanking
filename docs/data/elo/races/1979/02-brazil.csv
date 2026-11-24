@@ -1,27 +1,21 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,jacques-laffite,Jacques Laffite,ligier,1,40,1,0,1,1233.038213,1248.429335,15.391122,1.0,0.692178,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,patrick-depailler,Patrick Depailler,ligier,2,40,2,0,2,1157.692194,1175.982858,18.290664,0.96,0.594187,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,carlos-reutemann,Carlos Reutemann,lotus,3,40,3,0,3,1241.451221,1252.331299,10.880079,0.92,0.702398,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,didier-pironi,Didier Pironi,tyrrell,4,40,8,0,4,1076.122088,1096.094593,19.972506,0.88,0.48055,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,gilles-villeneuve,Gilles Villeneuve,ferrari,5,39,5,0,5,1138.067764,1151.706282,13.638517,0.84,0.56723,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,jody-scheckter,Jody Scheckter,ferrari,6,39,6,0,6,1190.075852,1198.197666,8.121814,0.8,0.637564,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,jochen-mass,Jochen Mass,arrows,7,39,19,0,7,1075.628649,1089.635761,14.007113,0.76,0.479858,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,john-watson,John Watson,mclaren,8,39,14,0,8,1164.931134,1170.730309,5.799174,0.72,0.604017,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,riccardo-patrese,Riccardo Patrese,arrows,9,39,16,0,9,1091.513859,1100.405712,8.891853,0.68,0.502163,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,jean-pierre-jabouille,Jean-Pierre Jabouille,renault,10,39,7,0,10,1037.156129,1047.841449,10.68532,0.64,0.426294,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,emerson-fittipaldi,Emerson Fittipaldi,fittipaldi,11,39,9,0,11,1151.767809,1152.463152,0.695343,0.6,0.586093,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,elio-de-angelis,Elio de Angelis,shadow,12,39,20,0,12,1019.210656,1027.122809,7.912153,0.56,0.401757,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,derek-daly,Derek Daly,ensign,13,39,23,0,13,1013.517785,1019.814909,6.297124,0.52,0.394058,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,jan-lammers,Jan Lammers,shadow,14,39,21,0,14,1005.210656,1010.065368,4.854712,0.48,0.382906,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,clay-regazzoni,Clay Regazzoni,williams,15,38,17,0,15,1034.671428,1035.527701,0.856273,0.44,0.422875,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,alan-jones,Alan Jones,williams,DNF,33,13,1,16,1157.580909,1147.879155,-9.701754,0.4,0.594035,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,hans-joachim-stuck,Hans-Joachim Stuck,ats-wheels,DNF,31,24,1,17,1014.208503,1012.459037,-1.749465,0.36,0.394989,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,rene-arnoux,René Arnoux,renault,DNF,28,11,1,18,1022.755083,1018.426457,-4.328627,0.32,0.406573,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,james-hunt,James Hunt,wolf,DNF,7,10,1,19,1123.86447,1109.489637,-14.374832,0.26,0.547497,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,patrick-tambay,Patrick Tambay,mclaren,DNF,7,18,1,20,1127.237752,1112.627914,-14.609838,0.26,0.552197,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,nelson-piquet,Nelson Piquet,brabham,DNF,5,22,1,21,1016.634151,1005.720811,-10.91334,0.18,0.398267,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,niki-lauda,Niki Lauda,brabham,DNF,5,12,1,22,1186.061647,1163.447808,-22.613839,0.18,0.632277,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,mario-andretti,Mario Andretti,lotus,DNF,2,4,1,23,1212.110563,1184.807973,-27.30259,0.12,0.666052,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,jean-pierre-jarier,Jean-Pierre Jarier,tyrrell,DNF,0,15,1,24,1021.440291,1005.201075,-16.239216,0.08,0.404784,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,arturo-merzario,Arturo Merzario,merzario,DNQ,,,2,25,883.241719,872.466729,-10.774989,0.02,0.2355,50.0,26
-1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,hector-rebaque,Héctor Rebaque,lotus,DNQ,,,2,26,934.958245,921.272968,-13.685277,0.02,0.293706,50.0,26
+1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,jacques-laffite,Jacques Laffite,ligier,1,40,1,0,1,1260.395684,1277.914066,17.518382,1.0,0.649632,50.0,20
+1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,patrick-depailler,Patrick Depailler,ligier,2,40,2,0,2,1307.440954,1320.320836,12.879882,0.947368,0.689771,50.0,20
+1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,carlos-reutemann,Carlos Reutemann,lotus,3,40,3,0,3,1316.746275,1326.610518,9.864243,0.894737,0.697452,50.0,20
+1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,didier-pironi,Didier Pironi,tyrrell,4,40,8,0,4,1068.045083,1086.578301,18.533218,0.842105,0.471441,50.0,20
+1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,gilles-villeneuve,Gilles Villeneuve,ferrari,5,39,5,0,5,1136.596307,1149.254565,12.658257,0.789474,0.536309,50.0,20
+1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,jody-scheckter,Jody Scheckter,ferrari,6,39,6,0,6,1284.637159,1287.95046,3.313301,0.736842,0.670576,50.0,20
+1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,jochen-mass,Jochen Mass,arrows,7,39,19,0,7,1114.009071,1122.471561,8.46249,0.684211,0.514961,50.0,20
+1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,john-watson,John Watson,mclaren,8,39,14,0,8,1243.77322,1243.603228,-0.169992,0.631579,0.634979,50.0,20
+1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,riccardo-patrese,Riccardo Patrese,arrows,9,39,16,0,9,1093.890407,1098.042604,4.152197,0.578947,0.495903,50.0,20
+1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,jean-pierre-jabouille,Jean-Pierre Jabouille,renault,10,39,7,0,10,995.435651,1001.569516,6.133865,0.526316,0.403638,50.0,20
+1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,emerson-fittipaldi,Emerson Fittipaldi,fittipaldi,11,39,9,0,11,1233.772229,1226.153567,-7.618662,0.473684,0.626057,50.0,20
+1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,elio-de-angelis,Elio de Angelis,shadow,12,39,20,0,12,1014.789556,1014.767075,-0.022482,0.421053,0.421502,50.0,20
+1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,derek-daly,Derek Daly,ensign,13,39,23,0,13,990.679199,989.136279,-1.54292,0.368421,0.399279,50.0,20
+1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,jan-lammers,Jan Lammers,shadow,14,39,21,0,14,1000.0,995.397794,-4.602206,0.315789,0.407834,50.0,20
+1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,clay-regazzoni,Clay Regazzoni,williams,15,38,17,0,15,1057.495544,1047.579295,-9.91625,0.263158,0.461483,50.0,20
+1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,rene-arnoux,René Arnoux,renault,DNF,28,11,1,16,1006.249508,996.09603,-10.153478,0.210526,0.413596,50.0,20
+1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,patrick-tambay,Patrick Tambay,mclaren,DNF,7,18,1,17,1112.671127,1094.881162,-17.789965,0.157895,0.513694,50.0,20
+1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,nelson-piquet,Nelson Piquet,brabham,DNF,5,22,1,18,1007.893766,992.401158,-15.492609,0.105263,0.415115,50.0,20
+1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,arturo-merzario,Arturo Merzario,merzario,DNQ,,,2,19,810.568168,799.465327,-11.102841,0.026316,0.248373,50.0,20
+1979,2,1979-02-04,brazil,Grande Prêmio do Brasil 1979,315,hector-rebaque,Héctor Rebaque,lotus,DNQ,,,2,20,910.701381,895.596952,-15.104429,0.026316,0.328404,50.0,20

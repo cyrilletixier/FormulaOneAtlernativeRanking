@@ -1,21 +1,14 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,fernando-alonso,Fernando Alonso,renault,1,70,1,0,1,1076.646407,1102.012532,25.366125,1.0,0.492678,50.0,20
-2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,kimi-raikkonen,Kimi Räikkönen,mclaren,2,70,7,0,2,1131.822091,1150.79182,18.969729,0.947368,0.567974,50.0,20
-2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,juan-pablo-montoya,Juan Pablo Montoya,williams,3,70,4,0,3,1241.000724,1250.468878,9.468153,0.894737,0.705374,50.0,20
-2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,ralf-schumacher,Ralf Schumacher,williams,4,70,2,0,4,1226.054519,1233.763724,7.709205,0.842105,0.687921,50.0,20
-2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,david-coulthard,David Coulthard,mclaren,5,70,9,0,5,1201.990224,1208.523741,6.533517,0.789474,0.658803,50.0,20
-2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,mark-webber,Mark Webber,jaguar,6,70,3,0,6,1021.635562,1037.617192,15.98163,0.736842,0.41721,50.0,20
-2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,jarno-trulli,Jarno Trulli,renault,7,69,6,0,7,1074.236443,1083.979066,9.742623,0.684211,0.489358,50.0,20
-2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,michael-schumacher,Michael Schumacher,ferrari,8,69,8,0,8,1425.081239,1412.938408,-12.14283,0.631579,0.874436,50.0,20
-2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,nick-heidfeld,Nick Heidfeld,sauber,9,69,11,0,9,1048.794321,1055.025147,6.230827,0.578947,0.454331,50.0,20
-2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,jenson-button,Jenson Button,bar,10,69,14,0,10,1073.336746,1075.246601,1.909855,0.526316,0.488119,50.0,20
-2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,cristiano-da-matta,Cristiano da Matta,toyota,11,68,15,0,11,1051.269622,1052.06718,0.797558,0.473684,0.457733,50.0,20
-2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,jos-verstappen,Jos Verstappen,minardi,12,67,18,0,12,967.873994,971.631114,3.75712,0.421053,0.34591,50.0,20
-2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,nicolas-kiesa,Nicolas Kiesa,minardi,13,66,20,0,13,1001.417176,1000.340064,-1.077112,0.368421,0.389963,50.0,20
-2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,DNF,47,17,1,14,979.532553,977.270542,-2.262011,0.315789,0.36103,50.0,20
-2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,justin-wilson,Justin Wilson,jaguar,DNF,42,12,1,15,952.195342,949.05555,-3.139792,0.263158,0.325954,50.0,20
-2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,zsolt-baumgartner,Zsolt Baumgartner,jordan,DNF,34,19,1,16,1000.0,991.1228,-8.8772,0.210526,0.38807,50.0,20
-2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,olivier-panis,Olivier Panis,toyota,DNF,33,10,1,17,1015.734033,1003.168063,-12.56597,0.157895,0.409214,50.0,20
-2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,28,13,1,18,989.553053,976.106453,-13.4466,0.105263,0.374195,50.0,20
-2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,rubens-barrichello,Rubens Barrichello,ferrari,DNF,19,5,1,19,1241.701498,1209.024098,-32.677401,0.052632,0.70618,50.0,20
-2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,jacques-villeneuve,Jacques Villeneuve,bar,DNF,14,16,1,20,1013.020279,992.742853,-20.277426,0.0,0.405549,50.0,20
+2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,fernando-alonso,Fernando Alonso,renault,1,70,1,0,1,1111.834425,1138.996639,27.162215,1.0,0.456756,50.0,13
+2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,kimi-raikkonen,Kimi Räikkönen,mclaren,2,70,7,0,2,1228.098743,1245.73252,17.633777,0.916667,0.563991,50.0,13
+2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,juan-pablo-montoya,Juan Pablo Montoya,williams,3,70,4,0,3,1325.367826,1334.553828,9.186002,0.833333,0.649613,50.0,13
+2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,ralf-schumacher,Ralf Schumacher,williams,4,70,2,0,4,1308.087602,1313.844311,5.756709,0.75,0.634866,50.0,13
+2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,david-coulthard,David Coulthard,mclaren,5,70,9,0,5,1390.675249,1388.85609,-1.819159,0.666667,0.70305,50.0,13
+2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,mark-webber,Mark Webber,jaguar,6,70,3,0,6,1014.052919,1024.836459,10.78354,0.583333,0.367663,50.0,13
+2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,jarno-trulli,Jarno Trulli,renault,7,69,6,0,7,1105.924433,1108.360102,2.43567,0.5,0.451287,50.0,13
+2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,michael-schumacher,Michael Schumacher,ferrari,8,69,8,0,8,1630.657061,1608.451937,-22.205123,0.416667,0.860769,50.0,13
+2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,nick-heidfeld,Nick Heidfeld,sauber,9,69,11,0,9,1025.046756,1022.840049,-2.206707,0.333333,0.377467,50.0,13
+2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,jenson-button,Jenson Button,bar,10,69,14,0,10,1082.491272,1073.507837,-8.983436,0.25,0.429669,50.0,13
+2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,cristiano-da-matta,Cristiano da Matta,toyota,11,68,15,0,11,1013.05012,1003.044863,-10.005257,0.166667,0.366772,50.0,13
+2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,jos-verstappen,Jos Verstappen,minardi,12,67,18,0,12,915.028404,905.024653,-10.003751,0.083333,0.283408,50.0,13
+2003,13,2003-08-24,hungary,Marlboro Magyar Nagydíj 2003,710,nicolas-kiesa,Nicolas Kiesa,minardi,13,66,20,0,13,999.375019,981.640539,-17.73448,0.0,0.35469,50.0,13

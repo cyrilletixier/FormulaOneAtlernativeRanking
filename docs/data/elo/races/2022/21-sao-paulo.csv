@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,george-russell,George Russell,mercedes,1,71,1,0,1,1251.25423,1269.663455,18.409224,1.0,0.631816,50.0,20
-2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,lewis-hamilton,Lewis Hamilton,mercedes,2,71,2,0,2,1445.692862,1451.624771,5.931909,0.947368,0.82873,50.0,20
-2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,3,71,7,0,3,1242.63085,1256.293473,13.662623,0.894737,0.621484,50.0,20
-2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,charles-leclerc,Charles Leclerc,ferrari,4,71,5,0,4,1324.51846,1330.880859,6.362398,0.842105,0.714857,50.0,20
-2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,fernando-alonso,Fernando Alonso,alpine,5,71,17,0,5,1135.254539,1150.381627,15.127088,0.789474,0.486932,50.0,20
-2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,max-verstappen,Max Verstappen,red-bull,6,71,3,0,6,1471.641729,1466.041087,-5.600642,0.736842,0.848855,50.0,20
-2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,sergio-perez,Sergio Pérez,red-bull,7,71,4,0,7,1336.840099,1334.657284,-2.182816,0.684211,0.727867,50.0,20
-2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,esteban-ocon,Esteban Ocon,alpine,8,71,16,0,8,1186.939654,1190.883027,3.943373,0.631579,0.552711,50.0,20
-2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,valtteri-bottas,Valtteri Bottas,alfa-romeo,9,71,14,0,9,1110.475142,1116.65994,6.184798,0.578947,0.455251,50.0,20
-2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,lance-stroll,Lance Stroll,aston-martin,10,71,15,0,10,1066.22059,1072.573556,6.352966,0.526316,0.399256,50.0,20
-2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,sebastian-vettel,Sebastian Vettel,aston-martin,11,71,9,0,11,1107.234821,1108.363145,1.128325,0.473684,0.451118,50.0,20
-2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,guanyu-zhou,Guanyu Zhou,alfa-romeo,12,71,13,0,12,981.695357,987.84878,6.153424,0.421053,0.297984,50.0,20
-2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,mick-schumacher,Mick Schumacher,haas,13,71,12,0,13,950.426962,955.672082,5.24512,0.368421,0.263519,50.0,20
-2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,pierre-gasly,Pierre Gasly,alphatauri,14,71,10,0,14,1103.939806,1097.383384,-6.556422,0.315789,0.446918,50.0,20
-2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,alexander-albon,Alexander Albon,williams,15,71,19,0,15,1061.166109,1054.676519,-6.48959,0.263158,0.39295,50.0,20
-2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,nicholas-latifi,Nicholas Latifi,williams,16,71,18,0,16,904.602133,904.289304,-0.312828,0.210526,0.216783,50.0,20
-2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,yuki-tsunoda,Yuki Tsunoda,alphatauri,17,70,PL,0,17,973.606454,967.056985,-6.54947,0.157895,0.288884,50.0,20
-2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,lando-norris,Lando Norris,mclaren,DNF,50,6,1,18,1240.834167,1215.131354,-25.702813,0.105263,0.619319,50.0,20
-2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,daniel-ricciardo,Daniel Ricciardo,mclaren,DNF,0,11,1,19,1113.4431,1091.80687,-21.63623,0.026316,0.45904,50.0,20
-2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,kevin-magnussen,Kevin Magnussen,haas,DNF,0,8,1,20,979.696984,966.226546,-13.470438,0.026316,0.295725,50.0,20
+2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,george-russell,George Russell,mercedes,1,71,1,0,1,1271.59795,1294.326054,22.728104,1.0,0.545438,50.0,19
+2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,lewis-hamilton,Lewis Hamilton,mercedes,2,71,2,0,2,1691.96037,1697.127767,5.167397,0.944444,0.841097,50.0,19
+2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,3,71,7,0,3,1395.528204,1407.652136,12.123932,0.888889,0.64641,50.0,19
+2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,charles-leclerc,Charles Leclerc,ferrari,4,71,5,0,4,1481.047814,1487.183238,6.135424,0.833333,0.710625,50.0,19
+2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,fernando-alonso,Fernando Alonso,alpine,5,71,17,0,5,1238.116263,1251.14448,13.028217,0.777778,0.517213,50.0,19
+2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,max-verstappen,Max Verstappen,red-bull,6,71,3,0,6,1695.843113,1689.799876,-6.043238,0.722222,0.843087,50.0,19
+2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,sergio-perez,Sergio Pérez,red-bull,7,71,4,0,7,1476.467883,1474.434643,-2.033239,0.666667,0.707331,50.0,19
+2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,esteban-ocon,Esteban Ocon,alpine,8,71,16,0,8,1276.615325,1279.68857,3.073245,0.611111,0.549646,50.0,19
+2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,valtteri-bottas,Valtteri Bottas,alfa-romeo,9,71,14,0,9,1322.163497,1320.567307,-1.59619,0.555556,0.587479,50.0,19
+2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,lance-stroll,Lance Stroll,aston-martin,10,71,15,0,10,1081.964023,1087.665763,5.70174,0.5,0.385965,50.0,19
+2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,sebastian-vettel,Sebastian Vettel,aston-martin,11,71,9,0,11,1185.016453,1183.62824,-1.388213,0.444444,0.472209,50.0,19
+2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,guanyu-zhou,Guanyu Zhou,alfa-romeo,12,71,13,0,12,980.882619,985.025267,4.142648,0.388889,0.306036,50.0,19
+2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,mick-schumacher,Mick Schumacher,haas,13,71,12,0,13,885.75516,890.524399,4.76924,0.333333,0.237949,50.0,19
+2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,pierre-gasly,Pierre Gasly,alphatauri,14,71,10,0,14,1185.624285,1175.876983,-9.747302,0.277778,0.472724,50.0,19
+2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,alexander-albon,Alexander Albon,williams,15,71,19,0,15,1100.42354,1091.476104,-8.947436,0.222222,0.401171,50.0,19
+2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,nicholas-latifi,Nicholas Latifi,williams,16,71,18,0,16,823.234457,821.671727,-1.562731,0.166667,0.197921,50.0,19
+2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,yuki-tsunoda,Yuki Tsunoda,alphatauri,17,70,PL,0,17,968.341592,959.066557,-9.275034,0.111111,0.296612,50.0,19
+2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,daniel-ricciardo,Daniel Ricciardo,mclaren,DNF,0,11,1,18,1215.294915,1191.789654,-23.505261,0.027778,0.497883,50.0,19
+2022,21,2022-11-13,sao-paulo,Formula 1 Heineken Grande Prêmio de São Paulo 2022,1078,kevin-magnussen,Kevin Magnussen,haas,DNF,0,8,1,19,950.197028,937.425726,-12.771302,0.027778,0.283204,50.0,19

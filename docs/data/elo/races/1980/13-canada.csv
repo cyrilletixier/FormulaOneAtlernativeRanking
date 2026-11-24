@@ -1,29 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,alan-jones,Alan Jones,williams,1,70,2,0,1,1276.800315,1289.441429,12.641114,1.0,0.747178,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,carlos-reutemann,Carlos Reutemann,williams,2,70,5,0,2,1241.979964,1254.735308,12.755344,0.962963,0.707856,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,didier-pironi,Didier Pironi,ligier,3,70,3,0,3,1150.099448,1166.823866,16.724418,0.925926,0.591438,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,john-watson,John Watson,mclaren,4,70,7,0,4,1118.556285,1135.573169,17.016884,0.888889,0.548551,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,gilles-villeneuve,Gilles Villeneuve,ferrari,5,70,22,0,5,1199.427571,1209.224179,9.796607,0.851852,0.65592,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,hector-rebaque,Héctor Rebaque,brabham,6,69,10,0,6,967.980552,991.497793,23.517241,0.814815,0.34447,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,jean-pierre-jarier,Jean-Pierre Jarier,tyrrell,7,69,15,0,7,1116.895645,1128.471028,11.575383,0.777778,0.54627,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,jacques-laffite,Jacques Laffite,ligier,8,68,9,0,8,1217.920021,1221.008423,3.088401,0.740741,0.678973,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,keke-rosberg,Keke Rosberg,fittipaldi,9,68,6,0,9,1013.306975,1028.299639,14.992664,0.703704,0.40385,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,elio-de-angelis,Elio de Angelis,lotus,10,68,17,0,10,1068.328506,1077.705841,9.377335,0.666667,0.47912,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,jochen-mass,Jochen Mass,arrows,11,67,21,0,11,1057.821224,1066.072903,8.251679,0.62963,0.464596,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,jan-lammers,Jan Lammers,ensign,12,66,19,0,12,914.323369,929.988549,15.66518,0.592593,0.279289,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,alain-prost,Alain Prost,mclaren,DNF,41,12,1,13,1085.904932,1088.509452,2.60452,0.555556,0.503465,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,rene-arnoux,René Arnoux,renault,DNF,39,23,1,14,1152.813831,1148.985792,-3.82804,0.518519,0.595079,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,jean-pierre-jabouille,Jean-Pierre Jabouille,renault,DNF,25,13,1,15,1030.221391,1032.958969,2.737579,0.481481,0.42673,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,nelson-piquet,Nelson Piquet,brabham,DNF,23,1,1,16,1223.7088,1211.628954,-12.079846,0.444444,0.686041,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,mario-andretti,Mario Andretti,lotus,DNF,11,18,1,17,1078.537512,1074.244997,-4.292514,0.407407,0.493258,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,DNF,8,8,1,18,1000.0,997.362087,-2.637913,0.333333,0.386092,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,eddie-cheever,Eddie Cheever,osella,DNF,8,14,1,19,936.903533,938.273656,1.370123,0.333333,0.305931,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,emerson-fittipaldi,Emerson Fittipaldi,fittipaldi,DNF,8,16,1,20,1090.393568,1081.576111,-8.817458,0.333333,0.509682,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,DNF,7,4,1,21,1036.550843,1027.745581,-8.805262,0.259259,0.435364,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,riccardo-patrese,Riccardo Patrese,arrows,DNF,6,11,1,22,1123.2549,1106.616258,-16.638642,0.222222,0.554995,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,derek-daly,Derek Daly,tyrrell,DNF,0,20,1,23,1073.202953,1057.242874,-15.960079,0.166667,0.485868,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,mike-thackwell,Mike Thackwell,tyrrell,DNF,0,24,1,24,984.828035,974.853579,-9.974457,0.166667,0.366156,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,jody-scheckter,Jody Scheckter,ferrari,DNQ,,,2,25,1224.681483,1193.098168,-31.583316,0.055556,0.687222,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,kevin-cogan,Kevin Cogan,williams,DNQ,,,2,26,1000.0,983.473199,-16.526801,0.055556,0.386092,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,marc-surer,Marc Surer,ats-wheels,DNQ,,,2,27,1028.669467,1010.216329,-18.453138,0.055556,0.424618,50.0,28
-1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,rupert-keegan,Rupert Keegan,williams,DNQ,,,2,28,936.874364,924.357358,-12.517006,0.055556,0.305896,50.0,28
+1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,alan-jones,Alan Jones,williams,1,70,2,0,1,1359.108452,1373.006415,13.897963,1.0,0.722041,50.0,18
+1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,carlos-reutemann,Carlos Reutemann,williams,2,70,5,0,2,1370.317136,1380.844366,10.52723,0.941176,0.730632,50.0,18
+1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,didier-pironi,Didier Pironi,ligier,3,70,3,0,3,1201.080522,1215.765792,14.68527,0.882353,0.588648,50.0,18
+1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,john-watson,John Watson,mclaren,4,70,7,0,4,1202.679093,1214.351222,11.672129,0.823529,0.590087,50.0,18
+1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,gilles-villeneuve,Gilles Villeneuve,ferrari,5,70,22,0,5,1257.669834,1263.970783,6.300949,0.764706,0.638687,50.0,18
+1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,hector-rebaque,Héctor Rebaque,brabham,6,69,10,0,6,908.977833,928.036204,19.058371,0.705882,0.324715,50.0,18
+1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,jean-pierre-jarier,Jean-Pierre Jarier,tyrrell,7,69,15,0,7,1080.206182,1088.682216,8.476034,0.647059,0.477538,50.0,18
+1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,jacques-laffite,Jacques Laffite,ligier,8,68,9,0,8,1334.71977,1328.987038,-5.732732,0.588235,0.70289,50.0,18
+1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,keke-rosberg,Keke Rosberg,fittipaldi,9,68,6,0,9,968.845746,976.50282,7.657074,0.529412,0.37627,50.0,18
+1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,elio-de-angelis,Elio de Angelis,lotus,10,68,17,0,10,1038.674057,1040.241012,1.566954,0.470588,0.439249,50.0,18
+1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,jochen-mass,Jochen Mass,arrows,11,67,21,0,11,1050.864507,1048.930351,-1.934156,0.411765,0.450448,50.0,18
+1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,jan-lammers,Jan Lammers,ensign,12,66,19,0,12,851.155546,854.906205,3.750659,0.352941,0.277928,50.0,18
+1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,riccardo-patrese,Riccardo Patrese,arrows,DNF,6,11,1,13,1106.240304,1095.863584,-10.376721,0.294118,0.501652,50.0,18
+1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,derek-daly,Derek Daly,tyrrell,DNF,0,20,1,14,1004.71518,996.063533,-8.651647,0.235294,0.408327,50.0,18
+1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,jody-scheckter,Jody Scheckter,ferrari,DNQ,,,2,15,1299.442137,1270.146592,-29.295545,0.088235,0.674146,50.0,18
+1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,kevin-cogan,Kevin Cogan,williams,DNQ,,,2,16,1000.0,984.208112,-15.791888,0.088235,0.404073,50.0,18
+1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,marc-surer,Marc Surer,ats-wheels,DNQ,,,2,17,973.554585,958.944567,-14.610017,0.088235,0.380436,50.0,18
+1980,13,1980-09-28,canada,Grand Prix Labatt du Canada 1980,341,rupert-keegan,Rupert Keegan,williams,DNQ,,,2,18,893.939723,882.739796,-11.199927,0.088235,0.312234,50.0,18

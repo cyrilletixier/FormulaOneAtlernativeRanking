@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,oscar-piastri,Oscar Piastri,mclaren,1,56,1,0,1,1322.324831,1337.184032,14.8592,1.0,0.702816,50.0,20
-2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,lando-norris,Lando Norris,mclaren,2,56,3,0,2,1409.14032,1417.195463,8.055143,0.947368,0.786266,50.0,20
-2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,george-russell,George Russell,mercedes,3,56,2,0,3,1332.306956,1341.388205,9.081248,0.894737,0.713112,50.0,20
-2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,max-verstappen,Max Verstappen,red-bull,4,56,4,0,4,1543.862144,1541.654175,-2.207969,0.842105,0.886265,50.0,20
-2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,esteban-ocon,Esteban Ocon,haas,5,56,11,0,5,1037.313476,1058.601687,21.288211,0.789474,0.363709,50.0,20
-2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,kimi-antonelli,Kimi Antonelli,mercedes,6,56,8,0,6,1026.07263,1045.405885,19.333255,0.736842,0.350177,50.0,20
-2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,alexander-albon,Alexander Albon,williams,7,56,10,0,7,1015.203585,1032.552643,17.349058,0.684211,0.337229,50.0,20
-2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,oliver-bearman,Oliver Bearman,haas,8,56,17,0,8,1029.136674,1043.023014,13.88634,0.631579,0.353852,50.0,20
-2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,lance-stroll,Lance Stroll,aston-martin,9,56,14,0,9,1046.543765,1056.745308,10.201543,0.578947,0.374917,50.0,20
-2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,carlos-sainz-jr,Carlos Sainz Jr.,williams,10,56,15,0,10,1301.274103,1293.562283,-7.71182,0.526316,0.680552,50.0,20
-2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,isack-hadjar,Isack Hadjar,racing-bulls,11,56,7,0,11,986.598946,995.087156,8.488211,0.473684,0.30392,50.0,20
-2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,liam-lawson,Liam Lawson,red-bull,12,56,PL,0,12,1012.986377,1017.308697,4.32232,0.421053,0.334606,50.0,20
-2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,jack-doohan,Jack Doohan,alpine,13,56,18,0,13,983.905811,987.28445,3.378638,0.368421,0.300848,50.0,20
-2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,14,55,19,0,14,994.493683,994.633568,0.139886,0.315789,0.312992,50.0,20
-2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,nico-hulkenberg,Nico Hülkenberg,kick-sauber,15,55,12,0,15,1093.595937,1085.104675,-8.491262,0.263158,0.432983,50.0,20
-2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,yuki-tsunoda,Yuki Tsunoda,racing-bulls,16,55,9,0,16,1033.016651,1025.616928,-7.399723,0.210526,0.358521,50.0,20
-2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,fernando-alonso,Fernando Alonso,aston-martin,DNF,4,13,1,17,1152.476474,1135.056004,-17.420469,0.157895,0.506304,50.0,20
-2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,charles-leclerc,Charles Leclerc,ferrari,DSQ,56,6,2,18,1392.901349,1356.945896,-35.955453,0.052632,0.771741,50.0,20
-2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,lewis-hamilton,Lewis Hamilton,ferrari,DSQ,56,5,2,19,1311.754639,1279.799796,-31.954844,0.052632,0.691728,50.0,20
-2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,pierre-gasly,Pierre Gasly,alpine,DSQ,56,16,2,20,1097.192259,1077.950745,-19.241513,0.052632,0.437462,50.0,20
+2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,oscar-piastri,Oscar Piastri,mclaren,1,56,1,0,1,1407.271397,1424.686359,17.414962,1.0,0.651701,50.0,19
+2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,lando-norris,Lando Norris,mclaren,2,56,3,0,2,1554.139709,1563.690158,9.550449,0.944444,0.753435,50.0,19
+2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,george-russell,George Russell,mercedes,3,56,2,0,3,1478.410099,1487.702906,9.292807,0.888889,0.703033,50.0,19
+2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,max-verstappen,Max Verstappen,red-bull,4,56,4,0,4,1825.185504,1822.217411,-2.968093,0.833333,0.892695,50.0,19
+2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,esteban-ocon,Esteban Ocon,haas,5,56,11,0,5,1089.133295,1108.324069,19.190775,0.777778,0.393962,50.0,19
+2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,kimi-antonelli,Kimi Antonelli,mercedes,6,56,8,0,6,1026.116524,1045.086264,18.969741,0.722222,0.342827,50.0,19
+2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,alexander-albon,Alexander Albon,williams,7,56,10,0,7,1067.806026,1082.31559,14.509564,0.666667,0.376475,50.0,19
+2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,oliver-bearman,Oliver Bearman,haas,8,56,17,0,8,1030.891303,1044.114929,13.223626,0.611111,0.346639,50.0,19
+2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,lance-stroll,Lance Stroll,aston-martin,9,56,14,0,9,1077.906832,1086.447703,8.540871,0.555556,0.384738,50.0,19
+2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,carlos-sainz-jr,Carlos Sainz Jr.,williams,10,56,15,0,10,1447.433704,1438.377448,-9.056256,0.5,0.681125,50.0,19
+2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,isack-hadjar,Isack Hadjar,racing-bulls,11,56,7,0,11,986.64284,993.273458,6.630619,0.444444,0.311832,50.0,19
+2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,liam-lawson,Liam Lawson,red-bull,12,56,PL,0,12,998.429864,1001.825052,3.395188,0.388889,0.320985,50.0,19
+2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,jack-doohan,Jack Doohan,alpine,13,56,18,0,13,982.578162,983.809948,1.231787,0.333333,0.308698,50.0,19
+2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,14,55,19,0,14,994.537576,992.528845,-2.008731,0.277778,0.317952,50.0,19
+2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,nico-hulkenberg,Nico Hülkenberg,kick-sauber,15,55,12,0,15,1101.247985,1092.161202,-9.086784,0.222222,0.403958,50.0,19
+2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,yuki-tsunoda,Yuki Tsunoda,racing-bulls,16,55,9,0,16,1035.057384,1025.892032,-9.165353,0.166667,0.349974,50.0,19
+2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,charles-leclerc,Charles Leclerc,ferrari,DSQ,56,6,2,17,1589.275617,1553.293503,-35.982114,0.055556,0.775198,50.0,19
+2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,lewis-hamilton,Lewis Hamilton,ferrari,DSQ,56,5,2,18,1508.751698,1475.340379,-33.41132,0.055556,0.723782,50.0,19
+2025,2,2025-03-23,china,Formula 1 Heineken Chinese Grand Prix 2025,1127,pierre-gasly,Pierre Gasly,alpine,DSQ,56,16,2,19,1169.785858,1149.514121,-20.271737,0.055556,0.46099,50.0,19

@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,lewis-hamilton,Lewis Hamilton,mercedes,1,53,1,0,1,1521.598919,1526.986025,5.387106,1.0,0.892258,50.0,20
-2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,max-verstappen,Max Verstappen,red-bull,2,53,4,0,2,1222.684734,1238.814665,16.129931,0.947368,0.62477,50.0,20
-2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,kimi-raikkonen,Kimi Räikkönen,ferrari,3,53,6,0,3,1273.243314,1283.850298,10.606984,0.894737,0.682597,50.0,20
-2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,daniel-ricciardo,Daniel Ricciardo,red-bull,4,53,5,0,4,1260.173877,1268.875849,8.701972,0.842105,0.668066,50.0,20
-2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,sebastian-vettel,Sebastian Vettel,ferrari,5,53,3,0,5,1414.724922,1413.295953,-1.428969,0.789474,0.818053,50.0,20
-2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,kevin-magnussen,Kevin Magnussen,haas,6,53,9,0,6,1055.225102,1071.367117,16.142015,0.736842,0.414002,50.0,20
-2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,valtteri-bottas,Valtteri Bottas,mercedes,7,53,2,0,7,1372.422852,1367.535105,-4.887747,0.684211,0.781965,50.0,20
-2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,carlos-sainz-jr,Carlos Sainz Jr.,renault,8,53,7,0,8,1105.111241,1112.790844,7.679603,0.631579,0.477987,50.0,20
-2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,nico-hulkenberg,Nico Hülkenberg,renault,9,53,12,0,9,1090.062813,1096.078383,6.01557,0.578947,0.458636,50.0,20
-2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,charles-leclerc,Charles Leclerc,sauber,10,53,8,0,10,1014.598889,1022.768935,8.170046,0.526316,0.362915,50.0,20
-2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,romain-grosjean,Romain Grosjean,haas,11,52,10,0,11,1005.350537,1011.458546,6.108009,0.473684,0.351524,50.0,20
-2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,stoffel-vandoorne,Stoffel Vandoorne,mclaren,12,52,17,0,12,1024.500344,1026.791876,2.291531,0.421053,0.375222,50.0,20
-2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,marcus-ericsson,Marcus Ericsson,sauber,13,52,15,0,13,956.588002,960.331149,3.743148,0.368421,0.293558,50.0,20
-2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,brendon-hartley,Brendon Hartley,toro-rosso,14,52,20,0,14,944.731493,946.516077,1.784584,0.315789,0.280098,50.0,20
-2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,sergey-sirotkin,Sergey Sirotkin,williams,15,52,18,0,15,952.074184,950.812021,-1.262163,0.263158,0.288401,50.0,20
-2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,fernando-alonso,Fernando Alonso,mclaren,16,50,16,0,16,1070.693985,1059.531935,-11.16205,0.210526,0.433767,50.0,20
-2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,lance-stroll,Lance Stroll,williams,17,48,19,0,17,1017.826931,1007.375913,-10.451019,0.157895,0.366915,50.0,20
-2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,sergio-perez,Sergio Pérez,force-india,DNF,27,13,1,18,1183.678539,1160.065369,-23.61317,0.105263,0.577527,50.0,20
-2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,esteban-ocon,Esteban Ocon,force-india,DNF,0,11,1,19,1114.961448,1091.745165,-23.216282,0.026316,0.490641,50.0,20
-2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,pierre-gasly,Pierre Gasly,toro-rosso,DNF,0,14,1,20,1013.129298,996.390198,-16.7391,0.026316,0.361098,50.0,20
+2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,lewis-hamilton,Lewis Hamilton,mercedes,1,53,1,0,1,1761.855517,1767.808682,5.953166,1.0,0.880937,50.0,19
+2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,max-verstappen,Max Verstappen,red-bull,2,53,4,0,2,1371.84617,1386.309744,14.463575,0.944444,0.655173,50.0,19
+2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,kimi-raikkonen,Kimi Räikkönen,ferrari,3,53,6,0,3,1449.776543,1458.712876,8.936333,0.888889,0.710162,50.0,19
+2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,daniel-ricciardo,Daniel Ricciardo,red-bull,4,53,5,0,4,1546.03317,1549.118236,3.085067,0.833333,0.771632,50.0,19
+2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,sebastian-vettel,Sebastian Vettel,ferrari,5,53,3,0,5,1640.22316,1637.897554,-2.325606,0.777778,0.82429,50.0,19
+2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,kevin-magnussen,Kevin Magnussen,haas,6,53,9,0,6,1043.239606,1059.779895,16.540289,0.722222,0.391416,50.0,19
+2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,valtteri-bottas,Valtteri Bottas,mercedes,7,53,2,0,7,1510.565915,1506.406412,-4.159504,0.666667,0.749857,50.0,19
+2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,carlos-sainz-jr,Carlos Sainz Jr.,renault,8,53,7,0,8,1141.191705,1148.127387,6.935682,0.611111,0.472397,50.0,19
+2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,nico-hulkenberg,Nico Hülkenberg,renault,9,53,12,0,9,1152.866482,1156.5408,3.674318,0.555556,0.482069,50.0,19
+2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,charles-leclerc,Charles Leclerc,sauber,10,53,8,0,10,992.502269,999.983712,7.481443,0.5,0.350371,50.0,19
+2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,romain-grosjean,Romain Grosjean,haas,11,52,10,0,11,1006.235064,1010.388553,4.153489,0.444444,0.361375,50.0,19
+2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,stoffel-vandoorne,Stoffel Vandoorne,mclaren,12,52,17,0,12,985.404409,987.612837,2.208428,0.388889,0.34472,50.0,19
+2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,marcus-ericsson,Marcus Ericsson,sauber,13,52,15,0,13,870.930601,874.689361,3.75876,0.333333,0.258158,50.0,19
+2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,brendon-hartley,Brendon Hartley,toro-rosso,14,52,20,0,14,919.837771,919.029066,-0.808705,0.277778,0.293952,50.0,19
+2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,sergey-sirotkin,Sergey Sirotkin,williams,15,52,18,0,15,942.436267,937.990936,-4.445331,0.222222,0.311129,50.0,19
+2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,fernando-alonso,Fernando Alonso,mclaren,16,50,16,0,16,1180.748639,1163.827398,-16.92124,0.166667,0.505091,50.0,19
+2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,lance-stroll,Lance Stroll,williams,17,48,19,0,17,981.068453,969.55994,-11.508513,0.111111,0.341281,50.0,19
+2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,esteban-ocon,Esteban Ocon,force-india,DNF,0,11,1,18,1105.44448,1084.696228,-20.748252,0.027778,0.442743,50.0,19
+2018,8,2018-06-24,france,Formula 1 Pirelli Grand Prix de France 2018,984,pierre-gasly,Pierre Gasly,toro-rosso,DNF,0,14,1,19,996.100842,979.827441,-16.273401,0.027778,0.353246,50.0,19

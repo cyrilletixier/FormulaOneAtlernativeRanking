@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,lewis-hamilton,Lewis Hamilton,mercedes,1,44,1,0,1,1579.993155,1584.2187,4.225546,1.0,0.915489,50.0,20
-2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,valtteri-bottas,Valtteri Bottas,mercedes,2,44,2,0,2,1419.016898,1425.87128,6.854382,0.947368,0.810281,50.0,20
-2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,max-verstappen,Max Verstappen,red-bull,3,44,3,0,3,1372.880649,1379.12486,6.244211,0.894737,0.769853,50.0,20
-2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,daniel-ricciardo,Daniel Ricciardo,renault,4,44,4,0,4,1118.593034,1136.911166,18.318132,0.842105,0.475743,50.0,20
-2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,esteban-ocon,Esteban Ocon,renault,5,44,6,0,5,1087.471279,1105.160987,17.689708,0.789474,0.43568,50.0,20
-2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,alexander-albon,Alexander Albon,red-bull,6,44,5,0,6,1197.774951,1205.7836,8.008649,0.736842,0.576669,50.0,20
-2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,lando-norris,Lando Norris,mclaren,7,44,10,0,7,1140.136302,1149.171818,9.035516,0.684211,0.5035,50.0,20
-2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,pierre-gasly,Pierre Gasly,alphatauri,8,44,12,0,8,1117.449889,1125.315416,7.865527,0.631579,0.474268,50.0,20
-2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,lance-stroll,Lance Stroll,racing-point,9,44,9,0,9,1089.875042,1096.884216,7.009174,0.578947,0.438764,50.0,20
-2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,sergio-perez,Sergio Pérez,racing-point,10,44,8,0,10,1182.682143,1181.110068,-1.572075,0.526316,0.557757,50.0,20
-2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,daniil-kvyat,Daniil Kvyat,alphatauri,11,44,11,0,11,1067.373738,1070.557262,3.183525,0.473684,0.410014,50.0,20
-2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,12,44,16,0,12,1082.680732,1082.256333,-0.424399,0.421053,0.429541,50.0,20
-2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,sebastian-vettel,Sebastian Vettel,ferrari,13,44,14,0,13,1265.361965,1250.892666,-14.469299,0.368421,0.657807,50.0,20
-2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,charles-leclerc,Charles Leclerc,ferrari,14,44,13,0,14,1227.705778,1212.824827,-14.880951,0.315789,0.613408,50.0,20
-2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,romain-grosjean,Romain Grosjean,haas,15,44,17,0,15,949.190009,948.911695,-0.278314,0.263158,0.268724,50.0,20
-2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,nicholas-latifi,Nicholas Latifi,williams,16,44,19,0,16,960.223671,956.704464,-3.519207,0.210526,0.28091,50.0,20
-2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,kevin-magnussen,Kevin Magnussen,haas,17,44,20,0,17,976.264282,969.205684,-7.058598,0.157895,0.299067,50.0,20
-2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,DNF,9,18,1,18,987.077106,975.445355,-11.631751,0.078947,0.311582,50.0,20
-2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,george-russell,George Russell,williams,DNF,9,15,1,19,918.461977,910.59992,-7.862058,0.078947,0.236189,50.0,20
-2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,DNS,,,2,20,1164.535872,1137.798153,-26.737719,0.0,0.534754,50.0,20
+2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,lewis-hamilton,Lewis Hamilton,mercedes,1,44,1,0,1,1850.372992,1854.987314,4.614321,1.0,0.907714,50.0,20
+2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,valtteri-bottas,Valtteri Bottas,mercedes,2,44,2,0,2,1641.691157,1648.262614,6.571458,0.947368,0.815939,50.0,20
+2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,max-verstappen,Max Verstappen,red-bull,3,44,3,0,3,1568.76551,1574.78504,6.01953,0.894737,0.774346,50.0,20
+2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,daniel-ricciardo,Daniel Ricciardo,renault,4,44,4,0,4,1291.581856,1305.00151,13.419654,0.842105,0.573712,50.0,20
+2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,esteban-ocon,Esteban Ocon,renault,5,44,6,0,5,1100.419077,1119.256723,18.837646,0.789474,0.412721,50.0,20
+2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,alexander-albon,Alexander Albon,red-bull,6,44,5,0,6,1207.089464,1218.777034,11.687571,0.736842,0.503091,50.0,20
+2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,lando-norris,Lando Norris,mclaren,7,44,10,0,7,1173.893601,1184.358149,10.464547,0.684211,0.47492,50.0,20
+2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,pierre-gasly,Pierre Gasly,alphatauri,8,44,12,0,8,1144.58252,1153.660216,9.077696,0.631579,0.450025,50.0,20
+2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,lance-stroll,Lance Stroll,racing-point,9,44,9,0,9,1073.300156,1082.743957,9.443802,0.578947,0.390071,50.0,20
+2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,sergio-perez,Sergio Pérez,racing-point,10,44,8,0,10,1242.834239,1242.488335,-0.345904,0.526316,0.533234,50.0,20
+2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,daniil-kvyat,Daniil Kvyat,alphatauri,11,44,11,0,11,1088.094684,1091.659087,3.564403,0.473684,0.402396,50.0,20
+2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,12,44,16,0,12,1208.958313,1204.777292,-4.181021,0.421053,0.504673,50.0,20
+2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,sebastian-vettel,Sebastian Vettel,ferrari,13,44,14,0,13,1498.4911,1480.436501,-18.054598,0.368421,0.729513,50.0,20
+2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,charles-leclerc,Charles Leclerc,ferrari,14,44,13,0,14,1330.235431,1315.772538,-14.462893,0.315789,0.605047,50.0,20
+2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,romain-grosjean,Romain Grosjean,haas,15,44,17,0,15,938.233414,937.233319,-1.000096,0.263158,0.28316,50.0,20
+2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,nicholas-latifi,Nicholas Latifi,williams,16,44,19,0,16,936.419695,932.855255,-3.56444,0.210526,0.281815,50.0,20
+2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,kevin-magnussen,Kevin Magnussen,haas,17,44,20,0,17,979.371399,971.546286,-7.825113,0.157895,0.314397,50.0,20
+2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,DNF,9,18,1,18,935.875249,925.752015,-10.123233,0.078947,0.281412,50.0,20
+2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,george-russell,George Russell,williams,DNF,9,15,1,19,870.908246,863.090787,-7.81746,0.078947,0.235297,50.0,20
+2020,7,2020-08-30,belgium,Formula 1 Rolex Belgian Grand Prix 2020,1025,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,DNS,,,2,20,1234.838666,1208.512798,-26.325869,0.0,0.526517,50.0,20

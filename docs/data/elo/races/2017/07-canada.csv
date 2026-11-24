@@ -1,21 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,lewis-hamilton,Lewis Hamilton,mercedes,1,70,1,0,1,1495.67035,1501.820617,6.150267,1.0,0.876995,50.0,20
-2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,valtteri-bottas,Valtteri Bottas,mercedes,2,70,3,0,2,1231.721124,1247.626991,15.905868,0.947368,0.629251,50.0,20
-2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,daniel-ricciardo,Daniel Ricciardo,red-bull,3,70,6,0,3,1328.45702,1336.343453,7.886433,0.894737,0.737008,50.0,20
-2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,sebastian-vettel,Sebastian Vettel,ferrari,4,70,2,0,4,1403.608331,1405.330173,1.721842,0.842105,0.807668,50.0,20
-2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,sergio-perez,Sergio Pérez,force-india,5,70,8,0,5,1245.851318,1253.02499,7.173673,0.789474,0.646,50.0,20
-2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,esteban-ocon,Esteban Ocon,force-india,6,70,9,0,6,1042.407137,1059.753882,17.346745,0.736842,0.389907,50.0,20
-2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,kimi-raikkonen,Kimi Räikkönen,ferrari,7,70,4,0,7,1274.504469,1274.765787,0.261319,0.684211,0.678984,50.0,20
-2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,nico-hulkenberg,Nico Hülkenberg,renault,8,70,10,0,8,1134.911515,1141.07369,6.162174,0.631579,0.508335,50.0,20
-2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,lance-stroll,Lance Stroll,williams,9,69,17,0,9,972.066864,985.783669,13.716805,0.578947,0.304611,50.0,20
-2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,romain-grosjean,Romain Grosjean,haas,10,69,14,0,10,1042.795345,1049.591382,6.796038,0.526316,0.390395,50.0,20
-2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,jolyon-palmer,Jolyon Palmer,renault,11,69,15,0,11,971.389664,979.88252,8.492856,0.473684,0.303827,50.0,20
-2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,kevin-magnussen,Kevin Magnussen,haas,12,69,18,0,12,1017.64267,1020.739581,3.096911,0.421053,0.359114,50.0,20
-2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,marcus-ericsson,Marcus Ericsson,sauber,13,69,19,0,13,962.273484,966.026883,3.753398,0.368421,0.293353,50.0,20
-2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,stoffel-vandoorne,Stoffel Vandoorne,mclaren,14,69,16,0,14,968.10431,968.892054,0.787744,0.315789,0.300035,50.0,20
-2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,pascal-wehrlein,Pascal Wehrlein,sauber,15,68,PL,0,15,946.177471,945.572787,-0.604685,0.263158,0.275252,50.0,20
-2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,fernando-alonso,Fernando Alonso,mclaren,16,66,12,0,16,1076.657555,1065.513845,-11.143711,0.210526,0.433401,50.0,20
-2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,daniil-kvyat,Daniil Kvyat,toro-rosso,DNF,54,11,1,17,1055.963619,1043.507313,-12.456305,0.157895,0.407021,50.0,20
-2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,max-verstappen,Max Verstappen,red-bull,DNF,10,5,1,18,1239.78194,1213.102965,-26.678975,0.105263,0.638843,50.0,20
-2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,0,13,1,19,1120.508281,1097.333621,-23.17466,0.026316,0.489809,50.0,20
-2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,felipe-massa,Felipe Massa,williams,DNF,0,7,1,20,1151.973854,1126.780117,-25.193737,0.026316,0.530191,50.0,20
+2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,lewis-hamilton,Lewis Hamilton,mercedes,1,70,1,0,1,1746.566955,1752.528783,5.961829,1.0,0.880763,50.0,18
+2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,valtteri-bottas,Valtteri Bottas,mercedes,2,70,3,0,2,1368.285932,1382.70647,14.420538,0.941176,0.652766,50.0,18
+2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,daniel-ricciardo,Daniel Ricciardo,red-bull,3,70,6,0,3,1492.147331,1499.179362,7.032031,0.882353,0.741712,50.0,18
+2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,sebastian-vettel,Sebastian Vettel,ferrari,4,70,2,0,4,1614.686671,1615.04416,0.357489,0.823529,0.81638,50.0,18
+2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,sergio-perez,Sergio Pérez,force-india,5,70,8,0,5,1292.136714,1300.74191,8.605197,0.764706,0.592602,50.0,18
+2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,esteban-ocon,Esteban Ocon,force-india,6,70,9,0,6,993.143396,1011.287077,18.14368,0.705882,0.343009,50.0,18
+2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,kimi-raikkonen,Kimi Räikkönen,ferrari,7,70,4,0,7,1419.241567,1417.052023,-2.189544,0.647059,0.69085,50.0,18
+2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,nico-hulkenberg,Nico Hülkenberg,renault,8,70,10,0,8,1187.799047,1191.920885,4.121837,0.588235,0.505799,50.0,18
+2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,lance-stroll,Lance Stroll,williams,9,69,17,0,9,964.325051,974.787491,10.46244,0.529412,0.320163,50.0,18
+2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,romain-grosjean,Romain Grosjean,haas,10,69,14,0,10,1086.743974,1089.264048,2.520075,0.470588,0.420187,50.0,18
+2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,jolyon-palmer,Jolyon Palmer,renault,11,69,15,0,11,935.257679,940.960498,5.702819,0.411765,0.297708,50.0,18
+2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,kevin-magnussen,Kevin Magnussen,haas,12,69,18,0,12,1029.867634,1028.873087,-0.994548,0.352941,0.372832,50.0,18
+2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,marcus-ericsson,Marcus Ericsson,sauber,13,69,19,0,13,896.541363,897.804678,1.263315,0.294118,0.268851,50.0,18
+2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,stoffel-vandoorne,Stoffel Vandoorne,mclaren,14,69,16,0,14,956.573112,952.632147,-3.940966,0.235294,0.314113,50.0,18
+2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,pascal-wehrlein,Pascal Wehrlein,sauber,15,68,PL,0,15,893.864155,889.342482,-4.521674,0.176471,0.266904,50.0,18
+2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,fernando-alonso,Fernando Alonso,mclaren,16,66,12,0,16,1202.309018,1182.288455,-20.020563,0.117647,0.518058,50.0,18
+2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,0,13,1,17,1130.213939,1108.837183,-21.376756,0.029412,0.456947,50.0,18
+2017,7,2017-06-11,canada,Formula 1 Grand Prix du Canada 2017,963,felipe-massa,Felipe Massa,williams,DNF,0,7,1,18,1228.838377,1203.291176,-25.547201,0.029412,0.540356,50.0,18

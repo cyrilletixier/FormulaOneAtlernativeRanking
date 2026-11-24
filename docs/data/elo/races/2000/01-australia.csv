@@ -1,23 +1,12 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,michael-schumacher,Michael Schumacher,ferrari,1,58,3,0,1,1286.864538,1298.86857,12.004031,1.0,0.759919,50.0,22
-2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,rubens-barrichello,Rubens Barrichello,ferrari,2,58,4,0,2,1102.272332,1123.383807,21.111474,0.952381,0.530151,50.0,22
-2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,ralf-schumacher,Ralf Schumacher,williams,3,58,11,0,3,1163.418495,1178.019066,14.600571,0.904762,0.61275,50.0,22
-2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,jacques-villeneuve,Jacques Villeneuve,bar,4,58,8,0,4,1048.6331,1068.692877,20.059778,0.857143,0.455947,50.0,22
-2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,giancarlo-fisichella,Giancarlo Fisichella,benetton,5,58,9,0,5,1087.360905,1102.359088,14.998182,0.809524,0.50956,50.0,22
-2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,ricardo-zonta,Ricardo Zonta,bar,6,58,16,0,6,976.604632,996.763543,20.15891,0.761905,0.358727,50.0,22
-2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,alexander-wurz,Alexander Wurz,benetton,7,58,14,0,7,1066.797672,1078.458077,11.660405,0.714286,0.481078,50.0,22
-2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,marc-gene,Marc Gené,minardi,8,57,18,0,8,998.033281,1012.015261,13.98198,0.666667,0.387027,50.0,22
-2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,nick-heidfeld,Nick Heidfeld,prost,9,56,15,0,9,1000.0,1011.46952,11.46952,0.619048,0.389657,50.0,22
-2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,jenson-button,Jenson Button,williams,DNF,46,21,1,10,1000.0,1009.088568,9.088568,0.571429,0.389657,50.0,22
-2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,pedro-diniz,Pedro Diniz,sauber,DNF,41,19,1,11,945.718454,955.943398,10.224944,0.52381,0.319311,50.0,22
-2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,gaston-mazzacane,Gastón Mazzacane,minardi,DNF,40,22,1,12,1000.0,1004.326663,4.326663,0.47619,0.389657,50.0,22
-2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,DNF,39,5,1,13,1232.176358,1218.661042,-13.515316,0.428571,0.698878,50.0,22
-2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,jarno-trulli,Jarno Trulli,jordan,DNF,35,6,1,14,1010.92541,1009.755277,-1.170133,0.380952,0.404355,50.0,22
-2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,jean-alesi,Jean Alesi,prost,DNF,27,PL,1,15,1084.211169,1075.617787,-8.593381,0.333333,0.505201,50.0,22
-2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,mika-hakkinen,Mika Häkkinen,mclaren,DNF,18,1,1,16,1263.258911,1240.82056,-22.438351,0.285714,0.734481,50.0,22
-2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,jos-verstappen,Jos Verstappen,arrows,DNF,16,13,1,17,973.167298,967.35937,-5.807928,0.238095,0.354254,50.0,22
-2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,david-coulthard,David Coulthard,mclaren,DNF,11,2,1,18,1172.506557,1150.79884,-21.707717,0.190476,0.624631,50.0,22
-2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,eddie-irvine,Eddie Irvine,jaguar,DNF,6,7,1,19,1307.71491,1274.608354,-33.106556,0.119048,0.781179,50.0,22
-2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,6,12,1,20,985.537242,972.967624,-12.569618,0.119048,0.37044,50.0,22
-2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,johnny-herbert,Johnny Herbert,jaguar,DNF,1,20,1,21,1064.762112,1043.230173,-21.531939,0.047619,0.478258,50.0,22
-2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,mika-salo,Mika Salo,sauber,DSQ,58,10,2,22,1055.098707,1031.85462,-23.244087,0.0,0.464882,50.0,22
+2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,michael-schumacher,Michael Schumacher,ferrari,1,58,3,0,1,1437.16543,1448.37425,11.20882,1.0,0.775824,50.0,11
+2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,rubens-barrichello,Rubens Barrichello,ferrari,2,58,4,0,2,1142.078603,1161.304044,19.225441,0.9,0.515491,50.0,11
+2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,ralf-schumacher,Ralf Schumacher,williams,3,58,11,0,3,1186.066434,1198.157089,12.090655,0.8,0.558187,50.0,11
+2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,jacques-villeneuve,Jacques Villeneuve,bar,4,58,8,0,4,1163.749202,1171.919604,8.170402,0.7,0.536592,50.0,11
+2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,giancarlo-fisichella,Giancarlo Fisichella,benetton,5,58,9,0,5,1089.575384,1096.366017,6.790633,0.6,0.464187,50.0,11
+2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,ricardo-zonta,Ricardo Zonta,bar,6,58,16,0,6,959.613638,967.576909,7.963271,0.5,0.340735,50.0,11
+2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,alexander-wurz,Alexander Wurz,benetton,7,58,14,0,7,1048.550958,1047.333486,-1.217472,0.4,0.424349,50.0,11
+2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,marc-gene,Marc Gené,minardi,8,57,18,0,8,949.551698,947.969942,-1.581756,0.3,0.331635,50.0,11
+2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,nick-heidfeld,Nick Heidfeld,prost,9,56,15,0,9,1000.0,991.096102,-8.903898,0.2,0.378078,50.0,11
+2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,eddie-irvine,Eddie Irvine,jaguar,DNF,6,7,1,10,1382.488535,1350.795006,-31.693529,0.1,0.733871,50.0,11
+2000,1,2000-03-12,australia,2000 Qantas Australian Grand Prix,647,mika-salo,Mika Salo,sauber,DSQ,58,10,2,11,1065.809031,1043.756462,-22.052568,0.0,0.441051,50.0,11

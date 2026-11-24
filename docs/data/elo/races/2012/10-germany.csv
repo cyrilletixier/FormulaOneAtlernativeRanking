@@ -1,25 +1,24 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,fernando-alonso,Fernando Alonso,ferrari,1,67,1,0,1,1400.5097,1409.171989,8.662289,1.0,0.826754,50.0,24
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,jenson-button,Jenson Button,mclaren,2,67,6,0,2,1274.262952,1286.591384,12.328432,0.956522,0.709953,50.0,24
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,kimi-raikkonen,Kimi Räikkönen,lotus-f1,3,67,10,0,3,1272.902717,1283.128775,10.226058,0.913043,0.708522,50.0,24
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,kamui-kobayashi,Kamui Kobayashi,sauber,4,67,12,0,4,1062.186148,1082.75137,20.565221,0.869565,0.458261,50.0,24
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,sebastian-vettel,Sebastian Vettel,red-bull,5,67,2,0,5,1373.659161,1374.728277,1.069117,0.826087,0.804705,50.0,24
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,sergio-perez,Sergio Pérez,sauber,6,67,17,0,6,1082.511482,1097.455845,14.944364,0.782609,0.483721,50.0,24
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,michael-schumacher,Michael Schumacher,mercedes,7,67,3,0,7,1085.08415,1097.693454,12.609304,0.73913,0.486944,50.0,24
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,mark-webber,Mark Webber,red-bull,8,67,8,0,8,1381.416365,1375.637203,-5.779161,0.695652,0.811235,50.0,24
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,nico-hulkenberg,Nico Hülkenberg,force-india,9,67,4,0,9,1084.918572,1093.19042,8.271849,0.652174,0.486737,50.0,24
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,nico-rosberg,Nico Rosberg,mercedes,10,67,21,0,10,1241.041713,1237.77228,-3.269434,0.608696,0.674084,50.0,24
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,paul-di-resta,Paul di Resta,force-india,11,67,9,0,11,1117.540188,1119.427039,1.886851,0.565217,0.52748,50.0,24
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,felipe-massa,Felipe Massa,ferrari,12,67,13,0,12,1190.952654,1186.203077,-4.749576,0.521739,0.616731,50.0,24
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,daniel-ricciardo,Daniel Ricciardo,toro-rosso,13,67,11,0,13,983.106463,988.973043,5.86658,0.478261,0.360929,50.0,24
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,14,67,15,0,14,1014.705135,1016.480503,1.775367,0.434783,0.399275,50.0,24
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,pastor-maldonado,Pastor Maldonado,williams,15,66,5,0,15,991.922525,992.911485,0.98896,0.391304,0.371525,50.0,24
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,vitaly-petrov,Vitaly Petrov,caterham,16,66,18,0,16,994.443716,993.106464,-1.337252,0.347826,0.374571,50.0,24
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,bruno-senna,Bruno Senna,williams,17,66,14,0,17,1003.993064,999.902105,-4.090959,0.304348,0.386167,50.0,24
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,romain-grosjean,Romain Grosjean,lotus-f1,18,66,19,0,18,1022.740027,1015.325092,-7.414935,0.26087,0.409168,50.0,24
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,heikki-kovalainen,Heikki Kovalainen,caterham,19,65,16,0,19,945.09511,940.144599,-4.950511,0.217391,0.316402,50.0,24
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,charles-pic,Charles Pic,marussia,20,65,20,0,20,940.349711,933.495646,-6.854065,0.173913,0.310994,50.0,24
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,pedro-de-la-rosa,Pedro de la Rosa,hrt,21,64,23,0,21,923.617912,915.527866,-8.090046,0.130435,0.292236,50.0,24
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,timo-glock,Timo Glock,marussia,22,64,22,0,22,875.512373,867.795442,-7.716931,0.086957,0.241295,50.0,24
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,narain-karthikeyan,Narain Karthikeyan,hrt,23,64,24,0,23,849.130601,840.530879,-8.599722,0.043478,0.215473,50.0,24
-2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,lewis-hamilton,Lewis Hamilton,mclaren,DNF,56,7,1,24,1290.565268,1254.223468,-36.3418,0.0,0.726836,50.0,24
+2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,fernando-alonso,Fernando Alonso,ferrari,1,67,1,0,1,1538.610096,1548.302772,9.692676,1.0,0.806146,50.0,23
+2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,jenson-button,Jenson Button,mclaren,2,67,6,0,2,1415.232156,1426.542505,11.310349,0.954545,0.728338,50.0,23
+2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,kimi-raikkonen,Kimi Räikkönen,lotus-f1,3,67,10,0,3,1413.827143,1422.913143,9.086,0.909091,0.727371,50.0,23
+2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,kamui-kobayashi,Kamui Kobayashi,sauber,4,67,12,0,4,1103.61115,1122.723324,19.112175,0.863636,0.481393,50.0,23
+2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,sebastian-vettel,Sebastian Vettel,red-bull,5,67,2,0,5,1588.723819,1587.957048,-0.766771,0.818182,0.833517,50.0,23
+2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,sergio-perez,Sergio Pérez,sauber,6,67,17,0,6,1092.898169,1107.921384,15.023215,0.772727,0.472263,50.0,23
+2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,michael-schumacher,Michael Schumacher,mercedes,7,67,3,0,7,1265.159905,1270.719672,5.559767,0.727273,0.616077,50.0,23
+2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,mark-webber,Mark Webber,red-bull,8,67,8,0,8,1502.712409,1497.552768,-5.159641,0.681818,0.785011,50.0,23
+2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,nico-hulkenberg,Nico Hülkenberg,force-india,9,67,4,0,9,1070.420299,1079.582582,9.162283,0.636364,0.453118,50.0,23
+2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,nico-rosberg,Nico Rosberg,mercedes,10,67,21,0,10,1311.063183,1308.000314,-3.062869,0.590909,0.652166,50.0,23
+2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,paul-di-resta,Paul di Resta,force-india,11,67,9,0,11,1116.703505,1119.348951,2.645446,0.545455,0.492546,50.0,23
+2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,felipe-massa,Felipe Massa,ferrari,12,67,13,0,12,1295.012863,1288.027761,-6.985102,0.5,0.639702,50.0,23
+2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,daniel-ricciardo,Daniel Ricciardo,toro-rosso,13,67,11,0,13,945.175577,950.467315,5.291738,0.454545,0.348711,50.0,23
+2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,14,67,15,0,14,1001.403249,1002.114443,0.711194,0.409091,0.394867,50.0,23
+2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,pastor-maldonado,Pastor Maldonado,williams,15,66,5,0,15,994.415308,993.144645,-1.270663,0.363636,0.38905,50.0,23
+2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,vitaly-petrov,Vitaly Petrov,caterham,16,66,18,0,16,988.956624,985.639746,-3.316878,0.318182,0.384519,50.0,23
+2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,bruno-senna,Bruno Senna,williams,17,66,14,0,17,967.238781,962.543602,-4.695179,0.272727,0.366631,50.0,23
+2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,romain-grosjean,Romain Grosjean,lotus-f1,18,66,19,0,18,1024.795771,1015.435864,-9.359907,0.227273,0.414471,50.0,23
+2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,heikki-kovalainen,Heikki Kovalainen,caterham,19,65,16,0,19,905.690207,898.910949,-6.779258,0.181818,0.317403,50.0,23
+2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,charles-pic,Charles Pic,marussia,20,65,20,0,20,947.972057,937.241912,-10.730145,0.136364,0.350967,50.0,23
+2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,pedro-de-la-rosa,Pedro de la Rosa,hrt,21,64,23,0,21,929.797301,917.523127,-12.274174,0.090909,0.336393,50.0,23
+2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,timo-glock,Timo Glock,marussia,22,64,22,0,22,826.981068,816.320892,-10.660176,0.045455,0.258658,50.0,23
+2012,10,2012-07-22,germany,Formula 1 Grosser Preis Santander von Deutschland 2012,868,narain-karthikeyan,Narain Karthikeyan,hrt,23,64,24,0,23,815.669749,803.135668,-12.534081,0.0,0.250682,50.0,23

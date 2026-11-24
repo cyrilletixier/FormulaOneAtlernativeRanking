@@ -1,21 +1,15 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,fernando-alonso,Fernando Alonso,renault,1,57,1,0,1,1201.993877,1219.534498,17.540621,1.0,0.649188,50.0,20
-2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,jarno-trulli,Jarno Trulli,toyota,2,57,3,0,2,1144.936967,1163.598431,18.661464,0.947368,0.574139,50.0,20
-2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,kimi-raikkonen,Kimi Räikkönen,mclaren,3,57,9,0,3,1140.168022,1156.521465,16.353443,0.894737,0.567668,50.0,20
-2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,ralf-schumacher,Ralf Schumacher,toyota,4,57,6,0,4,1135.244538,1149.301642,14.057104,0.842105,0.560963,50.0,20
-2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,pedro-de-la-rosa,Pedro de la Rosa,mclaren,5,57,8,0,5,949.214893,973.181992,23.967099,0.789474,0.310132,50.0,20
-2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,mark-webber,Mark Webber,williams,6,57,5,0,6,1020.997086,1037.666088,16.669002,0.736842,0.403462,50.0,20
-2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,felipe-massa,Felipe Massa,sauber,7,56,12,0,7,1076.029296,1086.281592,10.252296,0.684211,0.479165,50.0,20
-2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,david-coulthard,David Coulthard,red-bull,8,56,14,0,8,1156.219756,1158.331298,2.111542,0.631579,0.589348,50.0,20
-2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,rubens-barrichello,Rubens Barrichello,ferrari,9,56,20,0,9,1287.752228,1279.201179,-8.551048,0.578947,0.749968,50.0,20
-2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,tiago-monteiro,Tiago Monteiro,jordan,10,55,16,0,10,995.749107,1003.580981,7.831874,0.526316,0.369678,50.0,20
-2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,jacques-villeneuve,Jacques Villeneuve,sauber,11,54,15,0,11,1013.697438,1017.701157,4.003719,0.473684,0.39361,50.0,20
-2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,patrick-friesacher,Patrick Friesacher,minardi,12,54,19,0,12,974.866642,978.796329,3.929687,0.421053,0.342459,50.0,20
-2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,christijan-albers,Christijan Albers,minardi,13,53,18,0,13,983.268384,984.023373,0.754989,0.368421,0.353321,50.0,20
-2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,jenson-button,Jenson Button,bar,DNF,46,11,1,14,1165.142288,1150.868606,-14.273682,0.315789,0.601263,50.0,20
-2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,takuma-sato,Takuma Sato,bar,DNF,27,13,1,15,1093.796736,1081.762989,-12.033746,0.263158,0.503833,50.0,20
-2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,nick-heidfeld,Nick Heidfeld,williams,DNF,25,4,1,16,1003.614562,995.135343,-8.479218,0.210526,0.380111,50.0,20
-2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,michael-schumacher,Michael Schumacher,ferrari,DNF,12,2,1,17,1394.520475,1359.958237,-34.562238,0.157895,0.84914,50.0,20
-2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,giancarlo-fisichella,Giancarlo Fisichella,renault,DNF,4,10,1,18,1125.299889,1103.195325,-22.104563,0.105263,0.547354,50.0,20
-2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,narain-karthikeyan,Narain Karthikeyan,jordan,DNF,2,17,1,19,1000.841539,984.651999,-16.18954,0.052632,0.376422,50.0,20
-2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,christian-klien,Christian Klien,red-bull,DNS,,7,2,20,1017.530959,997.592155,-19.938804,0.0,0.398776,50.0,20
+2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,fernando-alonso,Fernando Alonso,renault,1,57,1,0,1,1277.629303,1295.577275,17.947972,1.0,0.641041,50.0,14
+2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,jarno-trulli,Jarno Trulli,toyota,2,57,3,0,2,1225.978001,1242.410601,16.432601,0.923077,0.594425,50.0,14
+2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,kimi-raikkonen,Kimi Räikkönen,mclaren,3,57,9,0,3,1324.039783,1332.288172,8.248389,0.846154,0.681186,50.0,14
+2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,ralf-schumacher,Ralf Schumacher,toyota,4,57,6,0,4,1219.701466,1228.730597,9.029131,0.769231,0.588648,50.0,14
+2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,pedro-de-la-rosa,Pedro de la Rosa,mclaren,5,57,8,0,5,911.68177,931.040533,19.358763,0.692308,0.305132,50.0,14
+2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,mark-webber,Mark Webber,williams,6,57,5,0,6,1009.436731,1020.642772,11.206041,0.615385,0.391264,50.0,14
+2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,felipe-massa,Felipe Massa,sauber,7,56,12,0,7,1059.272986,1064.318414,5.045428,0.538462,0.437553,50.0,14
+2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,david-coulthard,David Coulthard,red-bull,8,56,14,0,8,1276.613621,1267.683449,-8.930172,0.461538,0.640142,50.0,14
+2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,rubens-barrichello,Rubens Barrichello,ferrari,9,56,20,0,9,1438.912033,1419.581982,-19.33005,0.384615,0.771216,50.0,14
+2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,tiago-monteiro,Tiago Monteiro,jordan,10,55,16,0,10,988.388408,985.167681,-3.220727,0.307692,0.372107,50.0,14
+2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,jacques-villeneuve,Jacques Villeneuve,sauber,11,54,15,0,11,1098.729989,1086.528559,-12.20143,0.230769,0.474798,50.0,14
+2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,patrick-friesacher,Patrick Friesacher,minardi,12,54,19,0,12,970.108064,960.014846,-10.093219,0.153846,0.355711,50.0,14
+2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,christijan-albers,Christijan Albers,minardi,13,53,18,0,13,993.962779,978.951285,-15.011494,0.076923,0.377153,50.0,14
+2005,3,2005-04-03,bahrain,2005 Formula 1 Gulf Air Bahrain Grand Prix,734,christian-klien,Christian Klien,red-bull,DNS,,7,2,14,985.637889,967.156655,-18.481233,0.0,0.369625,50.0,14

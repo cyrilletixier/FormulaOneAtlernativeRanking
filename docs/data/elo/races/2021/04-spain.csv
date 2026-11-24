@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,lewis-hamilton,Lewis Hamilton,mercedes,1,66,1,0,1,1602.508694,1606.034173,3.525479,1.0,0.92949,50.0,20
-2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,max-verstappen,Max Verstappen,red-bull,2,66,2,0,2,1341.673113,1351.664384,9.991271,0.947368,0.747543,50.0,20
-2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,valtteri-bottas,Valtteri Bottas,mercedes,3,66,3,0,3,1359.165144,1365.681406,6.516263,0.894737,0.764412,50.0,20
-2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,charles-leclerc,Charles Leclerc,ferrari,4,66,4,0,4,1219.03785,1230.545189,11.507339,0.842105,0.611958,50.0,20
-2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,sergio-perez,Sergio Pérez,red-bull,5,66,8,0,5,1220.795781,1229.565318,8.769536,0.789474,0.614083,50.0,20
-2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,daniel-ricciardo,Daniel Ricciardo,mclaren,6,66,7,0,6,1231.218502,1236.731046,5.512544,0.736842,0.626591,50.0,20
-2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,7,66,6,0,7,1206.791502,1211.14964,4.358139,0.684211,0.597048,50.0,20
-2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,lando-norris,Lando Norris,mclaren,8,65,9,0,8,1217.358986,1218.441647,1.082661,0.631579,0.609926,50.0,20
-2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,esteban-ocon,Esteban Ocon,alpine,9,65,5,0,9,1133.66532,1137.360739,3.695419,0.578947,0.505039,50.0,20
-2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,pierre-gasly,Pierre Gasly,alphatauri,10,65,12,0,10,1134.859146,1135.846594,0.987448,0.526316,0.506567,50.0,20
-2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,lance-stroll,Lance Stroll,aston-martin,11,65,11,0,11,1092.638752,1093.700117,1.061365,0.473684,0.452457,50.0,20
-2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,12,65,17,0,12,1047.147929,1048.461743,1.313814,0.421053,0.394776,50.0,20
-2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,sebastian-vettel,Sebastian Vettel,aston-martin,13,65,13,0,13,1136.697428,1129.672549,-7.024878,0.368421,0.508919,50.0,20
-2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,george-russell,George Russell,williams,14,65,15,0,14,928.643259,931.620331,2.977072,0.315789,0.256248,50.0,20
-2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,15,65,14,0,15,984.207665,981.448609,-2.759056,0.263158,0.318339,50.0,20
-2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,nicholas-latifi,Nicholas Latifi,williams,16,65,19,0,16,912.795489,911.336328,-1.45916,0.210526,0.23971,50.0,20
-2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,fernando-alonso,Fernando Alonso,alpine,17,65,10,0,17,1018.910516,1008.81297,-10.097546,0.157895,0.359846,50.0,20
-2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,mick-schumacher,Mick Schumacher,haas,18,64,18,0,18,979.716242,969.324154,-10.392088,0.105263,0.313105,50.0,20
-2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,nikita-mazepin,Nikita Mazepin,haas,19,64,20,0,19,962.652845,950.607165,-12.04568,0.052632,0.293545,50.0,20
-2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,yuki-tsunoda,Yuki Tsunoda,alphatauri,DNF,6,16,1,20,1011.138883,993.618942,-17.519942,0.0,0.350399,50.0,20
+2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,lewis-hamilton,Lewis Hamilton,mercedes,1,66,1,0,1,1875.326736,1879.566401,4.239665,1.0,0.915207,50.0,19
+2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,max-verstappen,Max Verstappen,red-bull,2,66,2,0,2,1571.746686,1580.343734,8.597048,0.944444,0.772503,50.0,19
+2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,valtteri-bottas,Valtteri Bottas,mercedes,3,66,3,0,3,1601.669912,1606.590909,4.920997,0.888889,0.790469,50.0,19
+2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,charles-leclerc,Charles Leclerc,ferrari,4,66,4,0,4,1312.122883,1324.603209,12.480326,0.833333,0.583727,50.0,19
+2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,sergio-perez,Sergio Pérez,red-bull,5,66,8,0,5,1319.952412,1329.33566,9.383247,0.777778,0.590113,50.0,19
+2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,daniel-ricciardo,Daniel Ricciardo,mclaren,6,66,7,0,6,1364.718398,1369.529398,4.811,0.722222,0.626002,50.0,19
+2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,7,66,6,0,7,1276.304484,1281.929108,5.624624,0.666667,0.554174,50.0,19
+2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,lando-norris,Lando Norris,mclaren,8,65,9,0,8,1275.968705,1278.829519,2.860814,0.611111,0.553895,50.0,19
+2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,esteban-ocon,Esteban Ocon,alpine,9,65,5,0,9,1189.328171,1193.058563,3.730393,0.555556,0.480948,50.0,19
+2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,pierre-gasly,Pierre Gasly,alphatauri,10,65,12,0,10,1190.24905,1191.162663,0.913613,0.5,0.481728,50.0,19
+2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,lance-stroll,Lance Stroll,aston-martin,11,65,11,0,11,1090.349694,1092.685348,2.335653,0.444444,0.397731,50.0,19
+2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,12,65,17,0,12,1113.216564,1111.823098,-1.393466,0.388889,0.416758,50.0,19
+2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,sebastian-vettel,Sebastian Vettel,aston-martin,13,65,13,0,13,1318.029944,1305.269235,-12.760709,0.333333,0.588548,50.0,19
+2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,george-russell,George Russell,williams,14,65,15,0,14,863.269379,865.8466,2.577221,0.277778,0.226233,50.0,19
+2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,15,65,14,0,15,940.396992,937.512934,-2.884058,0.222222,0.279903,50.0,19
+2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,nicholas-latifi,Nicholas Latifi,williams,16,65,19,0,16,873.20838,869.9004,-3.30798,0.166667,0.232826,50.0,19
+2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,fernando-alonso,Fernando Alonso,alpine,17,65,10,0,17,1099.211937,1084.513296,-14.69864,0.111111,0.405084,50.0,19
+2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,mick-schumacher,Mick Schumacher,haas,18,64,18,0,18,977.910229,965.291466,-12.618763,0.055556,0.307931,50.0,19
+2021,4,2021-05-09,spain,Formula 1 Aramco Gran Premio de España 2021,1039,nikita-mazepin,Nikita Mazepin,haas,19,64,20,0,19,962.421783,947.610797,-14.810986,0.0,0.29622,50.0,19

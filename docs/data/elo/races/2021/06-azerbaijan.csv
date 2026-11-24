@@ -1,21 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,sergio-perez,Sergio Pérez,red-bull,1,51,6,0,1,1240.492806,1258.702293,18.209487,1.0,0.63581,50.0,20
-2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,sebastian-vettel,Sebastian Vettel,aston-martin,2,51,11,0,2,1144.139943,1165.648767,21.508824,0.947368,0.517192,50.0,20
-2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,pierre-gasly,Pierre Gasly,alphatauri,3,51,4,0,3,1147.291387,1165.968996,18.677609,0.894737,0.521185,50.0,20
-2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,charles-leclerc,Charles Leclerc,ferrari,4,51,1,0,4,1199.309427,1212.103668,12.794241,0.842105,0.58622,50.0,20
-2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,lando-norris,Lando Norris,mclaren,5,51,9,0,5,1232.663556,1240.809552,8.145996,0.789474,0.626554,50.0,20
-2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,fernando-alonso,Fernando Alonso,alpine,6,51,8,0,6,1009.773215,1029.167948,19.394733,0.736842,0.348947,50.0,20
-2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,yuki-tsunoda,Yuki Tsunoda,alphatauri,7,51,7,0,7,987.586738,1005.661008,18.07427,0.684211,0.322725,50.0,20
-2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,8,51,5,0,8,1228.441981,1228.944591,0.50261,0.631579,0.621527,50.0,20
-2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,daniel-ricciardo,Daniel Ricciardo,mclaren,9,51,13,0,9,1226.18342,1224.189422,-1.993997,0.578947,0.618827,50.0,20
-2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,10,51,14,0,10,1052.263402,1058.533069,6.269667,0.526316,0.400922,50.0,20
-2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,11,51,20,0,11,991.916169,999.211184,7.295016,0.473684,0.327784,50.0,20
-2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,valtteri-bottas,Valtteri Bottas,mercedes,12,51,10,0,12,1329.885714,1314.233233,-15.652481,0.421053,0.734102,50.0,20
-2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,mick-schumacher,Mick Schumacher,haas,13,51,17,0,13,959.434654,963.325795,3.89114,0.368421,0.290598,50.0,20
-2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,nikita-mazepin,Nikita Mazepin,haas,14,51,18,0,14,944.39737,946.48524,2.08787,0.315789,0.274032,50.0,20
-2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,lewis-hamilton,Lewis Hamilton,mercedes,15,51,2,0,15,1593.765956,1560.655527,-33.110429,0.263158,0.925366,50.0,20
-2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,nicholas-latifi,Nicholas Latifi,williams,16,51,16,0,16,912.475863,910.982474,-1.493388,0.210526,0.240394,50.0,20
-2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,george-russell,George Russell,williams,17,48,15,0,17,934.333981,929.06891,-5.265071,0.157895,0.263196,50.0,20
-2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,max-verstappen,Max Verstappen,red-bull,18,45,3,0,18,1363.898079,1330.795565,-33.102515,0.105263,0.767313,50.0,20
-2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,lance-stroll,Lance Stroll,aston-martin,DNF,29,19,1,19,1102.554406,1081.9696,-20.584806,0.052632,0.464328,50.0,20
-2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,esteban-ocon,Esteban Ocon,alpine,DNF,3,12,1,20,1140.814981,1115.166204,-25.648777,0.0,0.512976,50.0,20
+2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,sergio-perez,Sergio Pérez,red-bull,1,51,6,0,1,1339.705553,1359.352533,19.64698,1.0,0.60706,50.0,18
+2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,sebastian-vettel,Sebastian Vettel,aston-martin,2,51,11,0,2,1313.83506,1331.566434,17.731374,0.941176,0.586549,50.0,18
+2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,pierre-gasly,Pierre Gasly,alphatauri,3,51,4,0,3,1201.756112,1221.125311,19.369199,0.882353,0.494969,50.0,18
+2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,charles-leclerc,Charles Leclerc,ferrari,4,51,1,0,4,1293.496455,1306.162267,12.665812,0.823529,0.570213,50.0,18
+2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,lando-norris,Lando Norris,mclaren,5,51,9,0,5,1294.04015,1303.742842,9.702693,0.764706,0.570652,50.0,18
+2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,fernando-alonso,Fernando Alonso,alpine,6,51,8,0,6,1080.245853,1095.798687,15.552834,0.705882,0.394826,50.0,18
+2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,yuki-tsunoda,Yuki Tsunoda,alphatauri,7,51,7,0,7,1001.684087,1017.413554,15.729467,0.647059,0.332469,50.0,18
+2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,8,51,5,0,8,1299.788861,1300.436365,0.647504,0.588235,0.575285,50.0,18
+2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,daniel-ricciardo,Daniel Ricciardo,mclaren,9,51,13,0,9,1356.0948,1351.571453,-4.523347,0.529412,0.619879,50.0,18
+2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,10,51,14,0,10,1111.943654,1114.438136,2.494482,0.470588,0.420699,50.0,18
+2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,11,51,20,0,11,947.568704,953.57599,6.007286,0.411765,0.291619,50.0,18
+2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,valtteri-bottas,Valtteri Bottas,mercedes,12,51,10,0,12,1606.590909,1584.655536,-21.935373,0.352941,0.791649,50.0,18
+2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,mick-schumacher,Mick Schumacher,haas,13,51,17,0,13,952.046454,952.006342,-0.040112,0.294118,0.29492,50.0,18
+2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,nikita-mazepin,Nikita Mazepin,haas,14,51,18,0,14,937.833621,935.373536,-2.460085,0.235294,0.284496,50.0,18
+2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,lewis-hamilton,Lewis Hamilton,mercedes,15,51,2,0,15,1866.491089,1829.756514,-36.734574,0.176471,0.911162,50.0,18
+2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,nicholas-latifi,Nicholas Latifi,williams,16,51,16,0,16,868.551836,862.629456,-5.92238,0.117647,0.236095,50.0,18
+2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,george-russell,George Russell,williams,17,48,15,0,17,867.417834,858.592101,-8.825733,0.058824,0.235338,50.0,18
+2021,6,2021-06-06,azerbaijan,Formula 1 Azerbaijan Grand Prix 2021,1041,max-verstappen,Max Verstappen,red-bull,18,45,3,0,18,1590.334353,1551.22833,-39.106024,0.0,0.78212,50.0,18

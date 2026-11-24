@@ -1,21 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,lewis-hamilton,Lewis Hamilton,mercedes,1,53,1,0,1,1520.293171,1525.724623,5.431452,1.0,0.891371,50.0,20
-2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,max-verstappen,Max Verstappen,red-bull,2,53,4,0,2,1158.879763,1179.187019,20.307257,0.947368,0.541223,50.0,20
-2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,daniel-ricciardo,Daniel Ricciardo,red-bull,3,53,3,0,3,1349.94386,1356.722831,6.778971,0.894737,0.759157,50.0,20
-2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,valtteri-bottas,Valtteri Bottas,mercedes,4,53,6,0,4,1328.823574,1334.011814,5.18824,0.842105,0.73834,50.0,20
-2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,kimi-raikkonen,Kimi Räikkönen,ferrari,5,53,10,0,5,1233.187494,1241.012205,7.824711,0.789474,0.632979,50.0,20
-2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,esteban-ocon,Esteban Ocon,force-india,6,53,5,0,6,1123.331385,1135.394316,12.062931,0.736842,0.495583,50.0,20
-2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,sergio-perez,Sergio Pérez,force-india,7,53,7,0,7,1223.635829,1226.767447,3.131618,0.684211,0.621578,50.0,20
-2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,kevin-magnussen,Kevin Magnussen,haas,8,53,12,0,8,1028.120012,1041.025773,12.905761,0.631579,0.373464,50.0,20
-2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,romain-grosjean,Romain Grosjean,haas,9,53,13,0,9,1057.83704,1066.230178,8.393138,0.578947,0.411085,50.0,20
-2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,felipe-massa,Felipe Massa,williams,10,52,8,0,10,1135.019549,1135.802461,0.782912,0.526316,0.510658,50.0,20
-2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,fernando-alonso,Fernando Alonso,mclaren,11,52,20,0,11,1024.779958,1029.999676,5.219718,0.473684,0.36929,50.0,20
-2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,jolyon-palmer,Jolyon Palmer,renault,12,52,18,0,12,973.303293,979.010798,5.707505,0.421053,0.306903,50.0,20
-2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,pierre-gasly,Pierre Gasly,toro-rosso,13,52,14,0,13,998.853935,1000.406448,1.552513,0.368421,0.337371,50.0,20
-2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,stoffel-vandoorne,Stoffel Vandoorne,mclaren,14,52,9,0,14,1018.802155,1016.499009,-2.303146,0.315789,0.361852,50.0,20
-2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,pascal-wehrlein,Pascal Wehrlein,sauber,15,51,17,0,15,937.135577,937.001479,-0.134098,0.263158,0.26584,50.0,20
-2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,lance-stroll,Lance Stroll,williams,DNF,45,15,1,16,1059.331362,1049.207901,-10.123461,0.210526,0.412996,50.0,20
-2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,nico-hulkenberg,Nico Hülkenberg,renault,DNF,40,11,1,17,1096.396392,1081.254002,-15.142391,0.157895,0.460743,50.0,20
-2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,marcus-ericsson,Marcus Ericsson,sauber,DNF,7,16,1,18,944.23049,935.809441,-8.421049,0.105263,0.273684,50.0,20
-2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,sebastian-vettel,Sebastian Vettel,ferrari,DNF,4,2,1,19,1390.427803,1353.241739,-37.186064,0.052632,0.796353,50.0,20
-2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,0,19,1,20,1079.979616,1058.003097,-21.976519,0.0,0.43953,50.0,20
+2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,lewis-hamilton,Lewis Hamilton,mercedes,1,53,1,0,1,1766.913821,1772.051704,5.137883,1.0,0.897242,50.0,17
+2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,max-verstappen,Max Verstappen,red-bull,2,53,4,0,2,1309.678717,1325.625079,15.946361,0.9375,0.618573,50.0,17
+2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,daniel-ricciardo,Daniel Ricciardo,red-bull,3,53,3,0,3,1545.643734,1550.033574,4.389839,0.875,0.787203,50.0,17
+2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,valtteri-bottas,Valtteri Bottas,mercedes,4,53,6,0,4,1462.937321,1466.875916,3.938595,0.8125,0.733728,50.0,17
+2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,kimi-raikkonen,Kimi Räikkönen,ferrari,5,53,10,0,5,1364.573413,1368.975633,4.40222,0.75,0.661956,50.0,17
+2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,esteban-ocon,Esteban Ocon,force-india,6,53,5,0,6,1085.917909,1098.876753,12.958844,0.6875,0.428323,50.0,17
+2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,sergio-perez,Sergio Pérez,force-india,7,53,7,0,7,1266.716139,1268.801796,2.085657,0.625,0.583287,50.0,17
+2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,kevin-magnussen,Kevin Magnussen,haas,8,53,12,0,8,1026.951216,1036.16743,9.216213,0.5625,0.378176,50.0,17
+2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,romain-grosjean,Romain Grosjean,haas,9,53,13,0,9,1090.243304,1093.641151,3.397848,0.5,0.432043,50.0,17
+2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,felipe-massa,Felipe Massa,williams,10,52,8,0,10,1207.847009,1203.045877,-4.801133,0.4375,0.533523,50.0,17
+2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,fernando-alonso,Fernando Alonso,mclaren,11,52,20,0,11,1134.346696,1129.590009,-4.756687,0.375,0.470134,50.0,17
+2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,jolyon-palmer,Jolyon Palmer,renault,12,52,18,0,12,947.424252,947.385069,-0.039183,0.3125,0.313284,50.0,17
+2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,pierre-gasly,Pierre Gasly,toro-rosso,13,52,14,0,13,996.569174,991.422912,-5.146262,0.25,0.352925,50.0,17
+2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,stoffel-vandoorne,Stoffel Vandoorne,mclaren,14,52,9,0,14,993.941922,985.778628,-8.163294,0.1875,0.350766,50.0,17
+2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,pascal-wehrlein,Pascal Wehrlein,sauber,15,51,17,0,15,873.027895,866.431831,-6.596064,0.125,0.256921,50.0,17
+2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,marcus-ericsson,Marcus Ericsson,sauber,DNF,7,16,1,16,859.278333,850.049927,-9.228406,0.0625,0.247068,50.0,17
+2017,16,2017-10-08,japan,2017 Formula 1 Japanese Grand Prix,972,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,DNF,0,19,1,17,1116.677701,1093.935268,-22.742433,0.0,0.454849,50.0,17

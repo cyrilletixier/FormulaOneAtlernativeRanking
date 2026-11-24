@@ -1,27 +1,24 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,alain-prost,Alain Prost,mclaren,1,78,5,0,1,1220.325845,1234.326926,14.001081,1.0,0.719978,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,michele-alboreto,Michele Alboreto,ferrari,2,78,3,0,2,1174.61121,1189.384756,14.773546,0.96,0.664529,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,elio-de-angelis,Elio de Angelis,lotus,3,78,9,0,3,1188.49165,1200.398278,11.906629,0.92,0.681867,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,andrea-de-cesaris,Andrea de Cesaris,ligier,4,77,8,0,4,1056.834001,1075.556044,18.722043,0.88,0.505559,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,derek-warwick,Derek Warwick,renault,5,77,10,0,5,1106.637563,1119.905635,13.268073,0.84,0.574639,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,jacques-laffite,Jacques Laffite,ligier,6,77,16,0,6,1030.603215,1047.15635,16.553135,0.8,0.468937,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,nigel-mansell,Nigel Mansell,williams,7,77,2,0,7,1112.788069,1121.636012,8.847943,0.76,0.583041,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,keke-rosberg,Keke Rosberg,williams,8,76,7,0,8,1050.60486,1061.762088,11.157229,0.72,0.496855,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,thierry-boutsen,Thierry Boutsen,arrows,9,76,6,0,9,1091.208237,1097.538194,6.329957,0.68,0.553401,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,martin-brundle,Martin Brundle,tyrrell,10,74,18,0,10,908.000335,924.671926,16.671591,0.64,0.306568,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,jonathan-palmer,Jonathan Palmer,zakspeed,11,74,19,0,11,965.938154,976.911999,10.973845,0.6,0.380523,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,niki-lauda,Niki Lauda,mclaren,DNF,17,14,1,12,1221.234316,1213.182824,-8.051492,0.56,0.72103,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,nelson-piquet,Nelson Piquet,brabham,DNF,16,13,1,13,1146.805257,1139.3729,-7.432357,0.48,0.628647,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,riccardo-patrese,Riccardo Patrese,alfa-romeo,DNF,16,12,1,14,1042.02047,1041.777302,-0.243168,0.48,0.484863,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,teo-fabi,Teo Fabi,toleman,DNF,16,20,1,15,1039.449141,1039.385469,-0.063672,0.48,0.481273,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,ayrton-senna,Ayrton Senna,lotus,DNF,13,1,1,16,1078.288951,1071.51489,-6.77406,0.4,0.535481,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,eddie-cheever,Eddie Cheever,alfa-romeo,DNF,10,4,1,17,1056.639763,1049.375375,-7.264389,0.36,0.505288,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,stefan-johansson,Stefan Johansson,ferrari,DNF,1,15,1,18,1012.54481,1006.351535,-6.193275,0.32,0.443866,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,gerhard-berger,Gerhard Berger,arrows,DNF,0,11,1,19,988.245971,980.719569,-7.526402,0.26,0.410528,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,patrick-tambay,Patrick Tambay,renault,DNF,0,17,1,20,1179.410825,1158.882294,-20.528531,0.26,0.670571,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,francois-hesnault,François Hesnault,brabham,DNQ,,,2,21,959.473083,945.874961,-13.598122,0.1,0.371962,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,manfred-winkelhock,Manfred Winkelhock,ram,DNQ,,,2,22,993.56064,977.672172,-15.888468,0.1,0.417769,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,philippe-alliot,Philippe Alliot,ram,DNQ,,,2,23,955.523024,942.184751,-13.338272,0.1,0.366765,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNQ,,,2,24,981.667885,966.587319,-15.080566,0.1,0.401611,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,pierluigi-martini,Pierluigi Martini,minardi,DNQ,,,2,25,965.145741,951.172227,-13.973514,0.1,0.37947,50.0,26
-1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,stefan-bellof,Stefan Bellof,tyrrell,DNQ,,,2,26,854.423561,847.174778,-7.248783,0.1,0.244976,50.0,26
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,alain-prost,Alain Prost,mclaren,1,78,5,0,1,1367.430921,1380.371852,12.940931,1.0,0.741181,50.0,23
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,michele-alboreto,Michele Alboreto,ferrari,2,78,3,0,2,1235.987067,1251.867639,15.880572,0.954545,0.636934,50.0,23
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,elio-de-angelis,Elio de Angelis,lotus,3,78,9,0,3,1325.238928,1335.216596,9.977669,0.909091,0.709538,50.0,23
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,andrea-de-cesaris,Andrea de Cesaris,ligier,4,77,8,0,4,1037.571398,1057.785659,20.214261,0.863636,0.459351,50.0,23
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,derek-warwick,Derek Warwick,renault,5,77,10,0,5,1037.814414,1055.744909,17.930495,0.818182,0.459572,50.0,23
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,jacques-laffite,Jacques Laffite,ligier,6,77,16,0,6,1242.058128,1248.590237,6.532109,0.772727,0.642085,50.0,23
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,nigel-mansell,Nigel Mansell,williams,7,77,2,0,7,1146.004615,1154.472428,8.467813,0.727273,0.557916,50.0,23
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,keke-rosberg,Keke Rosberg,williams,8,76,7,0,8,1196.844592,1200.7798,3.935208,0.681818,0.603114,50.0,23
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,thierry-boutsen,Thierry Boutsen,arrows,9,76,6,0,9,1039.557464,1048.317856,8.760392,0.636364,0.461156,50.0,23
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,martin-brundle,Martin Brundle,tyrrell,10,74,18,0,10,869.863139,883.736761,13.873622,0.590909,0.313437,50.0,23
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,jonathan-palmer,Jonathan Palmer,zakspeed,11,74,19,0,11,968.549991,975.954102,7.404111,0.545455,0.397372,50.0,23
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,niki-lauda,Niki Lauda,mclaren,DNF,17,14,1,12,1369.982462,1357.830784,-12.151678,0.5,0.743034,50.0,23
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,nelson-piquet,Nelson Piquet,brabham,DNF,16,13,1,13,1327.031629,1313.076541,-13.955088,0.431818,0.71092,50.0,23
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,riccardo-patrese,Riccardo Patrese,alfa-romeo,DNF,16,12,1,14,1129.593396,1124.028963,-5.564433,0.431818,0.543107,50.0,23
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,stefan-johansson,Stefan Johansson,ferrari,DNF,1,15,1,15,963.709279,962.236028,-1.473251,0.363636,0.393101,50.0,23
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,gerhard-berger,Gerhard Berger,arrows,DNF,0,11,1,16,969.08517,963.965633,-5.119537,0.295455,0.397845,50.0,23
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,patrick-tambay,Patrick Tambay,renault,DNF,0,17,1,17,1210.215833,1194.249641,-15.966193,0.295455,0.614778,50.0,23
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,francois-hesnault,François Hesnault,brabham,DNQ,,,2,18,946.786752,933.554816,-13.231935,0.113636,0.378275,50.0,23
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,manfred-winkelhock,Manfred Winkelhock,ram,DNQ,,,2,19,899.93753,888.708056,-11.229473,0.113636,0.338226,50.0,23
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,philippe-alliot,Philippe Alliot,ram,DNQ,,,2,20,937.843358,924.999657,-12.843701,0.113636,0.37051,50.0,23
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNQ,,,2,21,909.101381,897.486645,-11.614737,0.113636,0.345931,50.0,23
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,pierluigi-martini,Pierluigi Martini,minardi,DNQ,,,2,22,967.745161,953.593911,-14.15125,0.113636,0.396661,50.0,23
+1985,4,1985-05-19,monaco,Grand Prix de Monaco 1985,408,stefan-bellof,Stefan Bellof,tyrrell,DNQ,,,2,23,835.25749,826.641581,-8.615908,0.113636,0.285955,50.0,23

@@ -1,25 +1,23 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,sebastian-vettel,Sebastian Vettel,red-bull,1,53,1,0,1,1273.103211,1287.01411,13.9109,1.0,0.721782,50.0,24
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,mark-webber,Mark Webber,red-bull,2,53,2,0,2,1278.854853,1290.275883,11.42103,0.956522,0.728101,50.0,24
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,fernando-alonso,Fernando Alonso,ferrari,3,53,4,0,3,1258.183591,1268.582606,10.399016,0.913043,0.705063,50.0,24
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,jenson-button,Jenson Button,mclaren,4,53,5,0,4,1264.048765,1271.942479,7.893714,0.869565,0.711691,50.0,24
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,lewis-hamilton,Lewis Hamilton,mclaren,5,53,8,0,5,1214.686127,1223.297357,8.611231,0.826087,0.653862,50.0,24
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,michael-schumacher,Michael Schumacher,mercedes,6,53,10,0,6,1233.106623,1238.438915,5.332292,0.782609,0.675963,50.0,24
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,kamui-kobayashi,Kamui Kobayashi,sauber,7,53,14,0,7,1006.950898,1024.599328,17.64843,0.73913,0.386162,50.0,24
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,nick-heidfeld,Nick Heidfeld,sauber,8,53,11,0,8,1130.207286,1137.653536,7.44625,0.695652,0.546727,50.0,24
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,rubens-barrichello,Rubens Barrichello,williams,9,53,7,0,9,1157.698766,1161.187922,3.489156,0.652174,0.582391,50.0,24
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,sebastien-buemi,Sébastien Buemi,toro-rosso,10,53,18,0,10,1011.507652,1022.345826,10.838174,0.608696,0.391932,50.0,24
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,jaime-alguersuari,Jaime Alguersuari,toro-rosso,11,52,16,0,11,999.322405,1008.755386,9.432981,0.565217,0.376558,50.0,24
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,heikki-kovalainen,Heikki Kovalainen,lotus-racing,12,52,20,0,12,992.986854,1000.641893,7.655039,0.521739,0.368638,50.0,24
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,jarno-trulli,Jarno Trulli,lotus-racing,13,51,19,0,13,940.152368,948.814362,8.661994,0.478261,0.305021,50.0,24
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,timo-glock,Timo Glock,virgin,14,51,22,0,14,976.999111,981.292983,4.293873,0.434783,0.348905,50.0,24
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,bruno-senna,Bruno Senna,hrt,15,51,23,0,15,898.47028,905.106131,6.635851,0.391304,0.258587,50.0,24
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,sakon-yamamoto,Sakon Yamamoto,hrt,16,50,24,0,16,880.70398,886.096527,5.392548,0.347826,0.239975,50.0,24
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,nico-rosberg,Nico Rosberg,mercedes,17,47,6,0,17,1218.797279,1201.072466,-17.724813,0.304348,0.658844,50.0,24
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,adrian-sutil,Adrian Sutil,force-india,DNF,44,15,1,18,1047.55656,1038.684542,-8.872018,0.26087,0.43831,50.0,24
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,robert-kubica,Robert Kubica,renault,DNF,2,3,1,19,1193.779542,1173.242695,-20.536847,0.217391,0.628128,50.0,24
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,felipe-massa,Felipe Massa,ferrari,DNF,0,12,1,20,1261.680461,1231.664084,-30.016377,0.108696,0.709023,50.0,24
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,nico-hulkenberg,Nico Hülkenberg,williams,DNF,0,9,1,21,1038.396714,1022.510473,-15.88624,0.108696,0.42642,50.0,24
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,vitaly-petrov,Vitaly Petrov,renault,DNF,0,13,1,22,1059.897837,1042.611987,-17.285851,0.108696,0.454413,50.0,24
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,DNF,0,17,1,23,1014.393746,1000.04857,-14.345176,0.108696,0.395599,50.0,24
-2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,lucas-di-grassi,Lucas di Grassi,virgin,DNS,,21,2,24,925.166919,910.771763,-14.395156,0.0,0.287903,50.0,24
+2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,sebastian-vettel,Sebastian Vettel,red-bull,1,53,1,0,1,1364.708878,1379.970307,15.261429,1.0,0.694771,50.0,22
+2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,mark-webber,Mark Webber,red-bull,2,53,2,0,2,1364.171587,1377.073003,12.901417,0.952381,0.694353,50.0,22
+2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,fernando-alonso,Fernando Alonso,ferrari,3,53,4,0,3,1385.68227,1395.374699,9.69243,0.904762,0.710913,50.0,22
+2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,jenson-button,Jenson Button,mclaren,4,53,5,0,4,1361.677966,1369.914832,8.236866,0.857143,0.692406,50.0,22
+2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,lewis-hamilton,Lewis Hamilton,mclaren,5,53,8,0,5,1340.628313,1347.316819,6.688506,0.809524,0.675754,50.0,22
+2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,michael-schumacher,Michael Schumacher,mercedes,6,53,10,0,6,1397.871586,1399.961622,2.090036,0.761905,0.720104,50.0,22
+2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,kamui-kobayashi,Kamui Kobayashi,sauber,7,53,14,0,7,1037.198265,1052.306028,15.107763,0.714286,0.41213,50.0,22
+2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,nick-heidfeld,Nick Heidfeld,sauber,8,53,11,0,8,1200.691277,1206.162444,5.471167,0.666667,0.557243,50.0,22
+2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,rubens-barrichello,Rubens Barrichello,williams,9,53,7,0,9,1195.356155,1198.681779,3.325624,0.619048,0.552535,50.0,22
+2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,sebastien-buemi,Sébastien Buemi,toro-rosso,10,53,18,0,10,973.165017,983.875466,10.710449,0.571429,0.35722,50.0,22
+2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,jaime-alguersuari,Jaime Alguersuari,toro-rosso,11,52,16,0,11,992.748572,1000.25067,7.502099,0.52381,0.373768,50.0,22
+2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,heikki-kovalainen,Heikki Kovalainen,lotus-racing,12,52,20,0,12,1005.642205,1010.21224,4.570035,0.47619,0.38479,50.0,22
+2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,jarno-trulli,Jarno Trulli,lotus-racing,13,51,19,0,13,1008.245668,1010.322906,2.077238,0.428571,0.387027,50.0,22
+2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,timo-glock,Timo Glock,virgin,14,51,22,0,14,1002.979478,1002.901807,-0.077671,0.380952,0.382506,50.0,22
+2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,bruno-senna,Bruno Senna,hrt,15,51,23,0,15,924.945765,925.730564,0.7848,0.333333,0.317637,50.0,22
+2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,sakon-yamamoto,Sakon Yamamoto,hrt,16,50,24,0,16,842.261885,843.821,1.559114,0.285714,0.254532,50.0,22
+2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,nico-rosberg,Nico Rosberg,mercedes,17,47,6,0,17,1292.503622,1272.590683,-19.912939,0.238095,0.636354,50.0,22
+2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,felipe-massa,Felipe Massa,ferrari,DNF,0,12,1,18,1376.248624,1347.015846,-29.232778,0.119048,0.703703,50.0,22
+2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,nico-hulkenberg,Nico Hülkenberg,williams,DNF,0,9,1,19,1019.033107,1005.168833,-13.864273,0.119048,0.396333,50.0,22
+2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,vitaly-petrov,Vitaly Petrov,renault,DNF,0,13,1,20,1042.74907,1027.852148,-14.896922,0.119048,0.416986,50.0,22
+2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,DNF,0,17,1,21,975.912165,963.888248,-12.023916,0.119048,0.359526,50.0,22
+2010,16,2010-10-10,japan,2010 Formula 1 Japanese Grand Prix,836,lucas-di-grassi,Lucas di Grassi,virgin,DNS,,21,2,22,927.153526,911.183053,-15.970473,0.0,0.319409,50.0,22

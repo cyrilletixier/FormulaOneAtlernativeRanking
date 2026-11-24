@@ -1,21 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,michael-schumacher,Michael Schumacher,ferrari,1,60,4,0,1,1448.843073,1454.413077,5.570004,1.0,0.8886,50.0,20
-2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,kimi-raikkonen,Kimi Räikkönen,mclaren,2,60,1,0,2,1117.450841,1137.351375,19.900534,0.947368,0.549358,50.0,20
-2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,rubens-barrichello,Rubens Barrichello,ferrari,3,60,2,0,3,1301.290919,1307.540467,6.249548,0.894737,0.769746,50.0,20
-2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,jenson-button,Jenson Button,bar,4,60,3,0,4,1185.842246,1196.001932,10.159686,0.842105,0.638912,50.0,20
-2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,juan-pablo-montoya,Juan Pablo Montoya,williams,5,60,7,0,5,1164.451305,1173.344224,8.892919,0.789474,0.611615,50.0,20
-2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,giancarlo-fisichella,Giancarlo Fisichella,sauber,6,60,20,0,6,1056.069782,1069.63497,13.565189,0.736842,0.465538,50.0,20
-2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,david-coulthard,David Coulthard,mclaren,7,60,6,0,7,1135.147152,1140.702451,5.555298,0.684211,0.573105,50.0,20
-2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,mark-webber,Mark Webber,jaguar,8,60,9,0,8,1024.136696,1034.615612,10.478916,0.631579,0.422001,50.0,20
-2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,felipe-massa,Felipe Massa,sauber,9,60,10,0,9,1043.18706,1049.73872,6.55166,0.578947,0.447914,50.0,20
-2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,fernando-alonso,Fernando Alonso,renault,10,60,16,0,10,1140.271536,1137.591373,-2.680163,0.526316,0.579919,50.0,20
-2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,takuma-sato,Takuma Sato,bar,11,60,8,0,11,1032.381826,1034.406625,2.0248,0.473684,0.433188,50.0,20
-2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,marc-gene,Marc Gené,williams,12,60,11,0,12,1017.668883,1018.058431,0.389548,0.421053,0.413262,50.0,20
-2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,cristiano-da-matta,Cristiano da Matta,toyota,13,59,12,0,13,1007.76758,1006.190724,-1.576856,0.368421,0.399958,50.0,20
-2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,christian-klien,Christian Klien,jaguar,14,59,13,0,14,985.447532,982.718081,-2.729452,0.315789,0.370379,50.0,20
-2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,nick-heidfeld,Nick Heidfeld,jordan,15,59,15,0,15,1031.802442,1023.340311,-8.462132,0.263158,0.432401,50.0,20
-2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,gianmaria-bruni,Gianmaria Bruni,minardi,16,56,18,0,16,928.993237,924.563221,-4.430016,0.210526,0.299127,50.0,20
-2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,giorgio-pantano,Giorgio Pantano,jordan,DNF,47,14,1,17,947.901829,939.680587,-8.221242,0.157895,0.32232,50.0,20
-2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,jarno-trulli,Jarno Trulli,renault,DNF,39,5,1,18,1189.615379,1162.696344,-26.919035,0.105263,0.643644,50.0,20
-2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,zsolt-baumgartner,Zsolt Baumgartner,minardi,DNF,29,19,1,19,960.380867,946.111487,-14.269381,0.052632,0.338019,50.0,20
-2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,olivier-panis,Olivier Panis,toyota,DNF,16,17,1,20,1008.543034,988.493209,-20.049825,0.0,0.400997,50.0,20
+2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,michael-schumacher,Michael Schumacher,ferrari,1,60,4,0,1,1638.297032,1644.642058,6.345026,1.0,0.873099,50.0,17
+2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,kimi-raikkonen,Kimi Räikkönen,mclaren,2,60,1,0,2,1271.679905,1287.015699,15.335794,0.9375,0.630784,50.0,17
+2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,rubens-barrichello,Rubens Barrichello,ferrari,3,60,2,0,3,1433.103203,1439.113475,6.010272,0.875,0.754795,50.0,17
+2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,jenson-button,Jenson Button,bar,4,60,3,0,4,1223.523442,1234.66563,11.142189,0.8125,0.589656,50.0,17
+2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,juan-pablo-montoya,Juan Pablo Montoya,williams,5,60,7,0,5,1286.607077,1291.946481,5.339404,0.75,0.643212,50.0,17
+2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,giancarlo-fisichella,Giancarlo Fisichella,sauber,6,60,20,0,6,1066.024279,1077.958035,11.933756,0.6875,0.448825,50.0,17
+2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,david-coulthard,David Coulthard,mclaren,7,60,6,0,7,1316.292188,1314.171706,-2.120481,0.625,0.66741,50.0,17
+2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,mark-webber,Mark Webber,jaguar,8,60,9,0,8,1006.393636,1014.739807,8.346171,0.5625,0.395577,50.0,17
+2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,felipe-massa,Felipe Massa,sauber,9,60,10,0,9,1015.308838,1020.135859,4.827021,0.5,0.40346,50.0,17
+2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,fernando-alonso,Fernando Alonso,renault,10,60,16,0,10,1206.778311,1199.901477,-6.876834,0.4375,0.575037,50.0,17
+2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,takuma-sato,Takuma Sato,bar,11,60,8,0,11,1014.998409,1013.589182,-1.409226,0.375,0.403185,50.0,17
+2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,marc-gene,Marc Gené,williams,12,60,11,0,12,934.96073,933.886225,-1.074506,0.3125,0.33399,50.0,17
+2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,cristiano-da-matta,Cristiano da Matta,toyota,13,59,12,0,13,962.481697,957.1148,-5.366897,0.25,0.357338,50.0,17
+2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,christian-klien,Christian Klien,jaguar,14,59,13,0,14,963.019604,954.504628,-8.514975,0.1875,0.3578,50.0,17
+2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,nick-heidfeld,Nick Heidfeld,jordan,15,59,15,0,15,1025.354847,1010.98577,-14.369077,0.125,0.412382,50.0,17
+2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,gianmaria-bruni,Gianmaria Bruni,minardi,16,56,18,0,16,913.738148,901.044239,-12.693909,0.0625,0.316378,50.0,17
+2004,11,2004-07-11,great-britain,2004 Formula 1 Foster's British Grand Prix,724,giorgio-pantano,Giorgio Pantano,jordan,DNF,47,14,1,17,938.633914,921.780187,-16.853727,0.0,0.337075,50.0,17

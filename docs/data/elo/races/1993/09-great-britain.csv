@@ -1,27 +1,21 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,alain-prost,Alain Prost,williams,1,59,1,0,1,1327.649629,1338.348727,10.699098,1.0,0.786018,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,michael-schumacher,Michael Schumacher,benetton,2,59,3,0,2,1230.970942,1245.08948,14.118538,0.96,0.677629,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,riccardo-patrese,Riccardo Patrese,benetton,3,59,5,0,3,1200.551898,1214.611809,14.05991,0.92,0.638802,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,johnny-herbert,Johnny Herbert,lotus,4,59,7,0,4,1055.800062,1077.881024,22.080961,0.88,0.438381,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,ayrton-senna,Ayrton Senna,mclaren,5,58,4,0,5,1293.828182,1298.280359,4.452177,0.84,0.750956,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,derek-warwick,Derek Warwick,footwork,6,58,8,0,6,1125.530918,1138.702958,13.172041,0.8,0.536559,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,mark-blundell,Mark Blundell,ligier,7,58,9,0,7,1021.500043,1039.94801,18.447967,0.76,0.391041,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,jj-lehto,JJ Lehto,sauber,8,58,16,0,8,1102.78134,1113.554895,10.773555,0.72,0.504529,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,jean-alesi,Jean Alesi,ferrari,9,58,12,0,9,1106.505711,1115.016484,8.510773,0.68,0.509785,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,rubens-barrichello,Rubens Barrichello,jordan,10,58,15,0,10,1027.406807,1039.452043,12.045236,0.64,0.399095,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,philippe-alliot,Philippe Alliot,larrousse,11,57,24,0,11,1072.929765,1079.809276,6.879511,0.6,0.46241,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,christian-fittipaldi,Christian Fittipaldi,minardi,12,56,19,0,12,1112.781928,1114.850264,2.068336,0.56,0.518633,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,ukyo-katayama,Ukyo Katayama,tyrrell,13,55,22,0,13,962.418987,972.731737,10.312751,0.52,0.313745,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,martin-brundle,Martin Brundle,ligier,14,53,6,0,14,1203.835343,1195.681185,-8.154158,0.48,0.643083,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,andrea-de-cesaris,Andrea de Cesaris,tyrrell,NC,43,21,1,15,1066.437493,1065.773379,-0.664115,0.44,0.453282,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,alex-zanardi,Alex Zanardi,lotus,DNF,41,14,1,16,1036.432318,1033.857852,-2.574466,0.36,0.411489,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,damon-hill,Damon Hill,williams,DNF,41,2,1,17,1073.756155,1068.577504,-5.178651,0.36,0.463573,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,thierry-boutsen,Thierry Boutsen,jordan,DNF,41,23,1,18,1090.979276,1084.586049,-6.393227,0.36,0.487865,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,luca-badoer,Luca Badoer,lola,DNF,32,25,1,19,989.05516,985.666708,-3.388453,0.28,0.347769,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,pierluigi-martini,Pierluigi Martini,minardi,DNF,31,20,1,20,1089.50675,1077.217481,-12.28927,0.24,0.485785,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,karl-wendlinger,Karl Wendlinger,sauber,DNF,24,18,1,21,1053.591042,1041.826222,-11.76482,0.2,0.435296,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,gerhard-berger,Gerhard Berger,ferrari,DNF,10,13,1,22,1186.895644,1163.856467,-23.039177,0.16,0.620784,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,aguri-suzuki,Aguri Suzuki,footwork,DNF,8,10,1,23,1058.45801,1042.353163,-16.104846,0.12,0.442097,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,erik-comas,Érik Comas,larrousse,DNF,0,17,1,24,1093.30889,1071.751182,-21.557708,0.06,0.491154,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,michael-andretti,Michael Andretti,mclaren,DNF,0,11,1,25,1035.066659,1017.586276,-17.480383,0.06,0.409608,50.0,26
-1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,michele-alboreto,Michele Alboreto,lola,DNQ,,,2,26,1013.812268,994.780687,-19.031581,0.0,0.380632,50.0,26
+1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,alain-prost,Alain Prost,williams,1,59,1,0,1,1573.536156,1581.572202,8.036046,1.0,0.839279,50.0,20
+1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,michael-schumacher,Michael Schumacher,benetton,2,59,3,0,2,1291.339648,1306.576813,15.237165,0.947368,0.642625,50.0,20
+1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,riccardo-patrese,Riccardo Patrese,benetton,3,59,5,0,3,1340.158234,1350.760511,10.602277,0.894737,0.682691,50.0,20
+1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,johnny-herbert,Johnny Herbert,lotus,4,59,7,0,4,1049.116298,1070.000563,20.884266,0.842105,0.42442,50.0,20
+1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,ayrton-senna,Ayrton Senna,mclaren,5,58,4,0,5,1528.553689,1527.329829,-1.22386,0.789474,0.813951,50.0,20
+1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,derek-warwick,Derek Warwick,footwork,6,58,8,0,6,1169.739808,1179.818583,10.078775,0.736842,0.535267,50.0,20
+1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,mark-blundell,Mark Blundell,ligier,7,58,9,0,7,992.274819,1007.819945,15.545126,0.684211,0.373308,50.0,20
+1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,jj-lehto,JJ Lehto,sauber,8,58,16,0,8,1066.640555,1076.197316,9.556761,0.631579,0.440444,50.0,20
+1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,jean-alesi,Jean Alesi,ferrari,9,58,12,0,9,1239.705571,1238.746698,-0.958873,0.578947,0.598125,50.0,20
+1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,rubens-barrichello,Rubens Barrichello,jordan,10,58,15,0,10,1014.134739,1020.811867,6.677128,0.526316,0.392773,50.0,20
+1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,philippe-alliot,Philippe Alliot,larrousse,11,57,24,0,11,1031.894657,1035.140164,3.245507,0.473684,0.408774,50.0,20
+1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,christian-fittipaldi,Christian Fittipaldi,minardi,12,56,19,0,12,1065.089328,1064.190866,-0.898462,0.421053,0.439022,50.0,20
+1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,ukyo-katayama,Ukyo Katayama,tyrrell,13,55,22,0,13,942.518943,944.42957,1.910627,0.368421,0.330209,50.0,20
+1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,martin-brundle,Martin Brundle,ligier,14,53,6,0,14,1230.360096,1216.655837,-13.704259,0.315789,0.589875,50.0,20
+1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,andrea-de-cesaris,Andrea de Cesaris,tyrrell,NC,43,21,1,15,1116.161599,1105.017853,-11.143746,0.263158,0.486033,50.0,20
+1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,pierluigi-martini,Pierluigi Martini,minardi,DNF,31,20,1,16,1073.206055,1061.408974,-11.797081,0.210526,0.446468,50.0,20
+1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,karl-wendlinger,Karl Wendlinger,sauber,DNF,24,18,1,17,1022.565988,1010.443196,-12.122792,0.157895,0.400351,50.0,20
+1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,aguri-suzuki,Aguri Suzuki,footwork,DNF,8,10,1,18,993.642681,980.179954,-13.462726,0.105263,0.374518,50.0,20
+1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,michael-andretti,Michael Andretti,mclaren,DNF,0,11,1,19,1005.931791,989.291533,-16.640257,0.052632,0.385437,50.0,20
+1993,9,1993-07-11,great-britain,1993 Foster's British Grand Prix,541,michele-alboreto,Michele Alboreto,lola,DNQ,,,2,20,1018.211201,998.389582,-19.821619,0.0,0.396432,50.0,20

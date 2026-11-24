@@ -1,23 +1,14 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,ralf-schumacher,Ralf Schumacher,williams,1,56,4,0,1,1145.189722,1164.733275,19.543554,1.0,0.609129,50.0,22
-2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,juan-pablo-montoya,Juan Pablo Montoya,williams,2,56,2,0,2,1082.672374,1104.138426,21.466053,0.952381,0.52306,50.0,22
-2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,michael-schumacher,Michael Schumacher,ferrari,3,56,1,0,3,1374.672509,1377.191813,2.519305,0.904762,0.854376,50.0,22
-2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,jenson-button,Jenson Button,renault,4,56,8,0,4,1023.558041,1044.425197,20.867156,0.857143,0.4398,50.0,22
-2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,nick-heidfeld,Nick Heidfeld,sauber,5,55,7,0,5,1025.162061,1043.5359,18.373839,0.809524,0.442047,50.0,22
-2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,felipe-massa,Felipe Massa,sauber,6,55,14,0,6,992.714404,1010.959003,18.2446,0.761905,0.397013,50.0,22
-2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,allan-mcnish,Allan McNish,toyota,7,55,19,0,7,992.714404,1008.578051,15.863647,0.714286,0.397013,50.0,22
-2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,jacques-villeneuve,Jacques Villeneuve,bar,8,55,13,0,8,1120.910303,1125.43235,4.522047,0.666667,0.576226,50.0,22
-2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,takuma-sato,Takuma Sato,jordan,9,54,15,0,9,1005.809642,1016.008762,10.199121,0.619048,0.415065,50.0,22
-2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,pedro-de-la-rosa,Pedro de la Rosa,jaguar,10,54,17,0,10,992.314041,1001.062269,8.748227,0.571429,0.396464,50.0,22
-2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,heinz-harald-frentzen,Heinz-Harald Frentzen,arrows,11,54,11,0,11,1039.604112,1042.677381,3.073269,0.52381,0.462344,50.0,22
-2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,mika-salo,Mika Salo,toyota,12,53,10,0,12,1101.794929,1098.1141,-3.680829,0.47619,0.549807,50.0,22
-2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,giancarlo-fisichella,Giancarlo Fisichella,jordan,13,53,9,0,13,1048.397974,1046.089447,-2.308527,0.428571,0.474742,50.0,22
-2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,rubens-barrichello,Rubens Barrichello,ferrari,DNF,39,3,1,14,1223.976218,1207.602477,-16.373741,0.380952,0.708427,50.0,22
-2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,mark-webber,Mark Webber,minardi,DNF,34,21,1,15,1020.095356,1015.01431,-5.081046,0.333333,0.434954,50.0,22
-2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,eddie-irvine,Eddie Irvine,jaguar,DNF,30,20,1,16,1042.103721,1033.096132,-9.007589,0.285714,0.465866,50.0,22
-2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,alex-yoong,Alex Yoong,minardi,DNF,29,22,1,17,997.286263,989.026374,-8.259888,0.238095,0.403293,50.0,22
-2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,24,5,1,18,1045.238129,1031.247691,-13.990438,0.190476,0.470285,50.0,22
-2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,enrique-bernoldi,Enrique Bernoldi,arrows,DNF,20,16,1,19,943.611812,934.176672,-9.43514,0.142857,0.33156,50.0,22
-2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,david-coulthard,David Coulthard,mclaren,DNF,15,6,1,20,1256.154908,1223.676718,-32.47819,0.095238,0.744802,50.0,22
-2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,jarno-trulli,Jarno Trulli,renault,DNF,9,12,1,21,1029.45213,1008.239338,-21.212792,0.02381,0.448065,50.0,22
-2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,olivier-panis,Olivier Panis,bar,DNF,9,18,1,22,1034.857422,1013.264785,-21.592637,0.02381,0.455662,50.0,22
+2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,ralf-schumacher,Ralf Schumacher,williams,1,56,4,0,1,1241.036511,1259.311652,18.275141,1.0,0.634497,50.0,13
+2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,juan-pablo-montoya,Juan Pablo Montoya,williams,2,56,2,0,2,1111.601797,1131.74292,20.141123,0.916667,0.513844,50.0,13
+2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,michael-schumacher,Michael Schumacher,ferrari,3,56,1,0,3,1595.432284,1593.111818,-2.320467,0.833333,0.879743,50.0,13
+2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,jenson-button,Jenson Button,renault,4,56,8,0,4,1011.735818,1028.338341,16.602523,0.75,0.41795,50.0,13
+2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,nick-heidfeld,Nick Heidfeld,sauber,5,55,7,0,5,997.105066,1010.233641,13.128576,0.666667,0.404095,50.0,13
+2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,felipe-massa,Felipe Massa,sauber,6,55,14,0,6,994.279292,1003.37442,9.095128,0.583333,0.401431,50.0,13
+2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,allan-mcnish,Allan McNish,toyota,7,55,19,0,7,994.279292,999.207753,4.928461,0.5,0.401431,50.0,13
+2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,jacques-villeneuve,Jacques Villeneuve,bar,8,55,13,0,8,1184.713365,1176.388727,-8.324638,0.416667,0.583159,50.0,13
+2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,takuma-sato,Takuma Sato,jordan,9,54,15,0,9,1000.0,996.325228,-3.674772,0.333333,0.406829,50.0,13
+2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,pedro-de-la-rosa,Pedro de la Rosa,jaguar,10,54,17,0,10,912.705362,908.868303,-3.837059,0.25,0.326741,50.0,13
+2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,heinz-harald-frentzen,Heinz-Harald Frentzen,arrows,11,54,11,0,11,1160.675933,1140.978151,-19.697782,0.166667,0.560622,50.0,13
+2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,mika-salo,Mika Salo,toyota,12,53,10,0,12,1103.595118,1082.454331,-21.140787,0.083333,0.506149,50.0,13
+2002,2,2002-03-17,malaysia,2002 Petronas Malaysian Grand Prix,682,giancarlo-fisichella,Giancarlo Fisichella,jordan,13,53,9,0,13,1059.321458,1036.14601,-23.175447,0.0,0.463509,50.0,13

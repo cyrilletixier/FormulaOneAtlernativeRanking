@@ -1,23 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,michael-schumacher,Michael Schumacher,ferrari,1,58,2,0,1,1367.05593,1374.672509,7.616578,1.0,0.847668,50.0,22
-2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,juan-pablo-montoya,Juan Pablo Montoya,williams,2,58,6,0,2,1059.595445,1082.672374,23.076929,0.952381,0.490842,50.0,22
-2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,kimi-raikkonen,Kimi Räikkönen,mclaren,3,58,5,0,3,1021.898379,1045.238129,23.33975,0.904762,0.437967,50.0,22
-2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,eddie-irvine,Eddie Irvine,jaguar,4,57,19,0,4,1021.088451,1042.103721,21.01527,0.857143,0.436837,50.0,22
-2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,mark-webber,Mark Webber,minardi,5,56,18,0,5,1000.0,1020.095356,20.095356,0.809524,0.407617,50.0,22
-2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,mika-salo,Mika Salo,toyota,6,56,14,0,6,1090.400528,1101.794929,11.394401,0.761905,0.534017,50.0,22
-2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,alex-yoong,Alex Yoong,minardi,7,55,21,0,7,980.631973,997.286263,16.654289,0.714286,0.3812,50.0,22
-2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,pedro-de-la-rosa,Pedro de la Rosa,jaguar,8,53,20,0,8,977.853265,992.314041,14.460777,0.666667,0.377451,50.0,22
-2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,david-coulthard,David Coulthard,mclaren,DNF,33,4,1,9,1262.761505,1256.154908,-6.606597,0.619048,0.75118,50.0,22
-2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,jacques-villeneuve,Jacques Villeneuve,bar,DNF,27,13,1,10,1121.163984,1120.910303,-0.253681,0.571429,0.576502,50.0,22
-2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,takuma-sato,Takuma Sato,jordan,DNF,12,22,1,11,1000.0,1005.809642,5.809642,0.52381,0.407617,50.0,22
-2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,jarno-trulli,Jarno Trulli,renault,DNF,8,7,1,12,1027.964577,1029.45213,1.487553,0.47619,0.446439,50.0,22
-2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,allan-mcnish,Allan McNish,toyota,DNF,0,16,1,13,1000.0,992.714404,-7.285596,0.261905,0.407617,50.0,22
-2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,felipe-massa,Felipe Massa,sauber,DNF,0,9,1,14,1000.0,992.714404,-7.285596,0.261905,0.407617,50.0,22
-2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,0,8,1,15,1059.863711,1048.397974,-11.465737,0.261905,0.49122,50.0,22
-2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,jenson-button,Jenson Button,renault,DNF,0,11,1,16,1033.147522,1023.558041,-9.589481,0.261905,0.453694,50.0,22
-2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,nick-heidfeld,Nick Heidfeld,sauber,DNF,0,10,1,17,1034.872404,1025.162061,-9.710342,0.261905,0.456112,50.0,22
-2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,olivier-panis,Olivier Panis,bar,DNF,0,12,1,18,1045.299498,1034.857422,-10.442076,0.261905,0.470746,50.0,22
-2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,ralf-schumacher,Ralf Schumacher,williams,DNF,0,3,1,19,1163.761785,1145.189722,-18.572063,0.261905,0.633346,50.0,22
-2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,rubens-barrichello,Rubens Barrichello,ferrari,DNF,0,1,1,20,1247.616246,1223.976218,-23.640028,0.261905,0.734705,50.0,22
-2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,heinz-harald-frentzen,Heinz-Harald Frentzen,arrows,DSQ,16,15,2,21,1061.929316,1039.604112,-22.325205,0.047619,0.494123,50.0,22
-2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,enrique-bernoldi,Enrique Bernoldi,arrows,DSQ,15,17,2,22,961.385953,943.611812,-17.774141,0.0,0.355483,50.0,22
+2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,michael-schumacher,Michael Schumacher,ferrari,1,58,2,0,1,1589.208019,1595.432284,6.224265,1.0,0.875515,50.0,19
+2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,juan-pablo-montoya,Juan Pablo Montoya,williams,2,58,6,0,2,1089.594449,1111.601797,22.007348,0.944444,0.504297,50.0,19
+2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,kimi-raikkonen,Kimi Räikkönen,mclaren,3,58,5,0,3,1064.152522,1084.583779,20.431257,0.888889,0.480264,50.0,19
+2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,eddie-irvine,Eddie Irvine,jaguar,4,57,19,0,4,1133.017081,1147.42951,14.412429,0.833333,0.545085,50.0,19
+2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,mark-webber,Mark Webber,minardi,5,56,18,0,5,1000.0,1017.890403,17.890403,0.777778,0.41997,50.0,19
+2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,mika-salo,Mika Salo,toyota,6,56,14,0,6,1092.852592,1103.595118,10.742526,0.722222,0.507372,50.0,19
+2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,alex-yoong,Alex Yoong,minardi,7,55,21,0,7,973.325685,986.893688,13.568003,0.666667,0.395307,50.0,19
+2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,pedro-de-la-rosa,Pedro de la Rosa,jaguar,8,53,20,0,8,898.581509,912.705362,14.123853,0.611111,0.328634,50.0,19
+2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,jarno-trulli,Jarno Trulli,renault,DNF,8,7,1,9,1022.705165,1028.423119,5.717954,0.555556,0.441196,50.0,19
+2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,allan-mcnish,Allan McNish,toyota,DNF,0,16,1,10,1000.0,994.279292,-5.720708,0.305556,0.41997,50.0,19
+2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,felipe-massa,Felipe Massa,sauber,DNF,0,9,1,11,1000.0,994.279292,-5.720708,0.305556,0.41997,50.0,19
+2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,0,8,1,12,1068.250486,1059.321458,-8.929029,0.305556,0.484136,50.0,19
+2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,jenson-button,Jenson Button,renault,DNF,0,11,1,13,1018.311838,1011.735818,-6.576019,0.305556,0.437076,50.0,19
+2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,nick-heidfeld,Nick Heidfeld,sauber,DNF,0,10,1,14,1002.963788,997.105066,-5.858722,0.305556,0.42273,50.0,19
+2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,olivier-panis,Olivier Panis,bar,DNF,0,12,1,15,1064.111254,1055.377794,-8.73346,0.305556,0.480225,50.0,19
+2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,ralf-schumacher,Ralf Schumacher,williams,DNF,0,3,1,16,1258.64433,1241.036511,-17.607819,0.305556,0.657712,50.0,19
+2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,rubens-barrichello,Rubens Barrichello,ferrari,DNF,0,1,1,17,1336.91236,1316.142633,-20.769727,0.305556,0.72095,50.0,19
+2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,heinz-harald-frentzen,Heinz-Harald Frentzen,arrows,DSQ,16,15,2,18,1187.667182,1160.675933,-26.991249,0.055556,0.595381,50.0,19
+2002,1,2002-03-03,australia,2002 Foster's Australian Grand Prix,681,enrique-bernoldi,Enrique Bernoldi,arrows,DSQ,15,17,2,19,939.048501,920.837904,-18.210598,0.0,0.364212,50.0,19

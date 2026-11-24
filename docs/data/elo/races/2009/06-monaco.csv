@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,jenson-button,Jenson Button,brawn,1,78,1,0,1,1141.409932,1163.990079,22.580147,1.0,0.548397,50.0,20
-2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,rubens-barrichello,Rubens Barrichello,brawn,2,78,3,0,2,1109.511972,1131.672115,22.160143,0.947368,0.504166,50.0,20
-2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,kimi-raikkonen,Kimi Räikkönen,ferrari,3,78,2,0,3,1202.665752,1215.83788,13.172129,0.894737,0.631294,50.0,20
-2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,felipe-massa,Felipe Massa,ferrari,4,78,5,0,4,1219.202331,1228.66674,9.46441,0.842105,0.652817,50.0,20
-2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,mark-webber,Mark Webber,red-bull,5,78,8,0,5,1131.885022,1144.597638,12.712616,0.789474,0.535221,50.0,20
-2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,nico-rosberg,Nico Rosberg,williams,6,78,6,0,6,1102.697233,1114.804374,12.107141,0.736842,0.494699,50.0,20
-2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,fernando-alonso,Fernando Alonso,renault,7,78,9,0,7,1284.209758,1281.815395,-2.394363,0.684211,0.732098,50.0,20
-2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,sebastien-bourdais,Sébastien Bourdais,toro-rosso,8,78,14,0,8,998.811352,1012.668436,13.857084,0.631579,0.354437,50.0,20
-2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,giancarlo-fisichella,Giancarlo Fisichella,force-india,9,78,13,0,9,955.316368,969.238066,13.921699,0.578947,0.300513,50.0,20
-2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,timo-glock,Timo Glock,toyota,10,77,PL,0,10,1141.922829,1140.783355,-1.139474,0.526316,0.549105,50.0,20
-2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,nick-heidfeld,Nick Heidfeld,bmw-sauber,11,77,16,0,11,1209.710239,1201.368488,-8.341751,0.473684,0.640519,50.0,20
-2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,lewis-hamilton,Lewis Hamilton,mclaren,12,77,19,0,12,1261.503732,1247.282143,-14.221589,0.421053,0.705484,50.0,20
-2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,jarno-trulli,Jarno Trulli,toyota,13,77,18,0,13,1111.196149,1104.291929,-6.904219,0.368421,0.506505,50.0,20
-2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,adrian-sutil,Adrian Sutil,force-india,14,77,15,0,14,852.329077,858.570239,6.241162,0.315789,0.190966,50.0,20
-2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,kazuki-nakajima,Kazuki Nakajima,williams,15,76,10,0,15,973.74014,970.754207,-2.985933,0.263158,0.322877,50.0,20
-2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,heikki-kovalainen,Heikki Kovalainen,mclaren,DNF,51,7,1,16,1110.282268,1095.546796,-14.735472,0.210526,0.505236,50.0,20
-2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,robert-kubica,Robert Kubica,bmw-sauber,DNF,28,17,1,17,1152.317593,1132.041156,-20.276437,0.157895,0.563423,50.0,20
-2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,sebastian-vettel,Sebastian Vettel,red-bull,DNF,15,4,1,18,1141.085941,1118.951617,-22.134323,0.105263,0.54795,50.0,20
-2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,nelson-piquet-jr,Nelson Piquet Jr.,renault,DNF,10,12,1,19,1006.861108,989.93589,-16.925218,0.026316,0.36482,50.0,20
-2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,sebastien-buemi,Sébastien Buemi,toro-rosso,DNF,10,11,1,20,994.928839,978.771089,-16.15775,0.026316,0.349471,50.0,20
+2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,jenson-button,Jenson Button,brawn,1,78,1,0,1,1184.150334,1207.603155,23.452821,1.0,0.530944,50.0,19
+2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,rubens-barrichello,Rubens Barrichello,brawn,2,78,3,0,2,1148.222014,1170.559298,22.337284,0.944444,0.497699,50.0,19
+2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,kimi-raikkonen,Kimi Räikkönen,ferrari,3,78,2,0,3,1384.361632,1393.5119,9.150268,0.888889,0.705884,50.0,19
+2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,felipe-massa,Felipe Massa,ferrari,4,78,5,0,4,1378.016723,1384.642579,6.625856,0.833333,0.700816,50.0,19
+2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,mark-webber,Mark Webber,red-bull,5,78,8,0,5,1190.155978,1202.220586,12.064608,0.777778,0.536486,50.0,19
+2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,nico-rosberg,Nico Rosberg,williams,6,78,6,0,6,1106.775794,1119.917375,13.141581,0.722222,0.459391,50.0,19
+2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,fernando-alonso,Fernando Alonso,renault,7,78,9,0,7,1440.774726,1436.655724,-4.119001,0.666667,0.749047,50.0,19
+2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,sebastien-bourdais,Sébastien Bourdais,toro-rosso,8,78,14,0,8,975.307404,988.753046,13.445642,0.611111,0.342198,50.0,19
+2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,giancarlo-fisichella,Giancarlo Fisichella,force-india,9,78,13,0,9,974.70269,985.396205,10.693515,0.555556,0.341685,50.0,19
+2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,timo-glock,Timo Glock,toyota,10,77,PL,0,10,1153.530705,1153.399932,-0.130773,0.5,0.502615,50.0,19
+2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,nick-heidfeld,Nick Heidfeld,bmw-sauber,11,77,16,0,11,1276.251413,1267.743943,-8.50747,0.444444,0.614594,50.0,19
+2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,lewis-hamilton,Lewis Hamilton,mclaren,12,77,19,0,12,1338.807286,1324.820064,-13.987221,0.388889,0.668633,50.0,19
+2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,jarno-trulli,Jarno Trulli,toyota,13,77,18,0,13,1168.729931,1159.562201,-9.16773,0.333333,0.516688,50.0,19
+2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,adrian-sutil,Adrian Sutil,force-india,14,77,15,0,14,803.045965,806.384968,3.339002,0.277778,0.210998,50.0,19
+2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,kazuki-nakajima,Kazuki Nakajima,williams,15,76,10,0,15,975.692717,969.677562,-6.015155,0.222222,0.342525,50.0,19
+2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,heikki-kovalainen,Heikki Kovalainen,mclaren,DNF,51,7,1,16,1207.023616,1187.756532,-19.267084,0.166667,0.552008,50.0,19
+2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,sebastian-vettel,Sebastian Vettel,red-bull,DNF,15,4,1,17,1154.163283,1134.558772,-19.604511,0.111111,0.503201,50.0,19
+2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,nelson-piquet-jr,Nelson Piquet Jr.,renault,DNF,10,12,1,18,1009.953046,992.738234,-17.214812,0.027778,0.372074,50.0,19
+2009,6,2009-05-24,monaco,Formula 1 Grand Prix de Monaco 2009,809,sebastien-buemi,Sébastien Buemi,toro-rosso,DNF,10,11,1,19,987.392774,971.155954,-16.236819,0.027778,0.352514,50.0,19

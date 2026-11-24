@@ -1,21 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,michael-schumacher,Michael Schumacher,ferrari,1,62,2,0,1,1432.870694,1438.954568,6.083874,1.0,0.878323,50.0,20
-2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,jenson-button,Jenson Button,bar,2,62,1,0,2,1117.36953,1137.713446,20.343916,0.947368,0.54049,50.0,20
-2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,juan-pablo-montoya,Juan Pablo Montoya,williams,3,62,3,0,3,1227.778215,1238.271843,10.493629,0.894737,0.684864,50.0,20
-2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,fernando-alonso,Fernando Alonso,renault,4,62,6,0,4,1112.773217,1128.171472,15.398255,0.842105,0.53414,50.0,20
-2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,jarno-trulli,Jarno Trulli,renault,5,62,9,0,5,1129.279867,1140.910077,11.630209,0.789474,0.55687,50.0,20
-2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,rubens-barrichello,Rubens Barrichello,ferrari,6,62,4,0,6,1239.739352,1241.624588,1.885236,0.736842,0.699137,50.0,20
-2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,ralf-schumacher,Ralf Schumacher,williams,7,62,5,0,7,1174.497054,1177.826554,3.329499,0.684211,0.617621,50.0,20
-2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,kimi-raikkonen,Kimi Räikkönen,mclaren,8,61,20,0,8,1111.929958,1116.860222,4.930264,0.631579,0.532974,50.0,20
-2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,giancarlo-fisichella,Giancarlo Fisichella,sauber,9,61,18,0,9,1005.872818,1015.499878,9.62706,0.578947,0.386406,50.0,20
-2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,felipe-massa,Felipe Massa,sauber,10,61,12,0,10,1026.518863,1032.112477,5.593614,0.526316,0.414443,50.0,20
-2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,olivier-panis,Olivier Panis,toyota,11,61,13,0,11,1005.376692,1009.773964,4.397272,0.473684,0.385739,50.0,20
-2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,david-coulthard,David Coulthard,mclaren,12,61,11,0,12,1165.387088,1156.159445,-9.227643,0.421053,0.605605,50.0,20
-2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,mark-webber,Mark Webber,jaguar,13,61,8,0,13,1009.289033,1008.159562,-1.129471,0.368421,0.39101,50.0,20
-2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,christian-klien,Christian Klien,jaguar,14,60,14,0,14,1007.943761,1004.273457,-3.670303,0.315789,0.389196,50.0,20
-2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,zsolt-baumgartner,Zsolt Baumgartner,minardi,15,58,19,0,15,957.800112,954.780288,-3.019825,0.263158,0.323554,50.0,20
-2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,takuma-sato,Takuma Sato,bar,16,56,7,0,16,1056.002346,1043.771031,-12.231315,0.210526,0.455153,50.0,20
-2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,nick-heidfeld,Nick Heidfeld,jordan,DNF,48,16,1,17,1038.944391,1025.262873,-13.681517,0.157895,0.431525,50.0,20
-2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,cristiano-da-matta,Cristiano da Matta,toyota,DNF,32,10,1,18,1061.13304,1043.281833,-17.851207,0.105263,0.462287,50.0,20
-2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,gianmaria-bruni,Gianmaria Bruni,minardi,DNF,22,17,1,19,976.473313,961.730354,-14.742959,0.052632,0.347491,50.0,20
-2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,giorgio-pantano,Giorgio Pantano,jordan,DNF,6,15,1,20,988.444573,970.285986,-18.158587,0.0,0.363172,50.0,20
+2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,michael-schumacher,Michael Schumacher,ferrari,1,62,2,0,1,1625.338823,1632.605541,7.266717,1.0,0.854666,50.0,17
+2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,jenson-button,Jenson Button,bar,2,62,1,0,2,1138.119384,1160.87317,22.753786,0.9375,0.482424,50.0,17
+2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,juan-pablo-montoya,Juan Pablo Montoya,williams,3,62,3,0,3,1335.630923,1346.497396,10.866473,0.875,0.657671,50.0,17
+2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,fernando-alonso,Fernando Alonso,renault,4,62,6,0,4,1165.161999,1180.426614,15.264615,0.8125,0.507208,50.0,17
+2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,jarno-trulli,Jarno Trulli,renault,5,62,9,0,5,1164.255868,1176.43696,12.181092,0.75,0.506378,50.0,17
+2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,rubens-barrichello,Rubens Barrichello,ferrari,6,62,4,0,6,1376.234164,1376.077691,-0.156473,0.6875,0.690629,50.0,17
+2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,ralf-schumacher,Ralf Schumacher,williams,7,62,5,0,7,1273.814841,1274.81816,1.003318,0.625,0.604934,50.0,17
+2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,kimi-raikkonen,Kimi Räikkönen,mclaren,8,61,20,0,8,1283.098668,1280.572399,-2.526268,0.5625,0.613025,50.0,17
+2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,giancarlo-fisichella,Giancarlo Fisichella,sauber,9,61,18,0,9,1040.98983,1046.279592,5.289762,0.5,0.394205,50.0,17
+2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,felipe-massa,Felipe Massa,sauber,10,61,12,0,10,1006.606574,1010.28808,3.681506,0.4375,0.36387,50.0,17
+2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,olivier-panis,Olivier Panis,toyota,11,61,13,0,11,1015.959629,1016.10701,0.147381,0.375,0.372052,50.0,17
+2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,david-coulthard,David Coulthard,mclaren,12,61,11,0,12,1382.861303,1363.693044,-19.168259,0.3125,0.695865,50.0,17
+2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,mark-webber,Mark Webber,jaguar,13,61,8,0,13,998.316311,992.983053,-5.333259,0.25,0.356665,50.0,17
+2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,christian-klien,Christian Klien,jaguar,14,60,14,0,14,988.298994,980.272818,-8.026176,0.1875,0.348024,50.0,17
+2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,zsolt-baumgartner,Zsolt Baumgartner,minardi,15,58,19,0,15,973.447429,962.929979,-10.517451,0.125,0.335349,50.0,17
+2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,takuma-sato,Takuma Sato,bar,16,56,7,0,16,986.354865,972.162124,-14.192741,0.0625,0.346355,50.0,17
+2004,4,2004-04-25,san-marino,Gran Premio Foster's di San Marino 2004,717,cristiano-da-matta,Cristiano da Matta,toyota,DNF,32,10,1,17,1014.395894,995.86187,-18.534025,0.0,0.37068,50.0,17

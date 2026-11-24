@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,lewis-hamilton,Lewis Hamilton,mercedes,1,52,2,0,1,1323.556784,1338.358697,14.801913,1.0,0.703962,50.0,20
-2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,max-verstappen,Max Verstappen,red-bull,2,52,4,0,2,1561.475012,1563.865172,2.39016,0.947368,0.899565,50.0,20
-2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,lando-norris,Lando Norris,mclaren,3,52,3,0,3,1326.865224,1336.227784,9.36256,0.894737,0.707486,50.0,20
-2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,oscar-piastri,Oscar Piastri,mclaren,4,52,5,0,4,1238.664991,1250.388923,11.723932,0.842105,0.607627,50.0,20
-2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,5,52,7,0,5,1315.693582,1320.391829,4.698248,0.789474,0.695509,50.0,20
-2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,nico-hulkenberg,Nico Hülkenberg,haas,6,52,6,0,6,1059.194822,1076.716369,17.521548,0.736842,0.386411,50.0,20
-2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,lance-stroll,Lance Stroll,aston-martin,7,52,8,0,7,1092.538169,1105.384411,12.846243,0.684211,0.427286,50.0,20
-2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,fernando-alonso,Fernando Alonso,aston-martin,8,52,10,0,8,1190.913405,1195.009535,4.09613,0.631579,0.549656,50.0,20
-2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,alexander-albon,Alexander Albon,williams,9,52,9,0,9,1009.084208,1021.680039,12.595832,0.578947,0.327031,50.0,20
-2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,yuki-tsunoda,Yuki Tsunoda,rb,10,52,13,0,10,1040.066538,1048.212553,8.146016,0.526316,0.363395,50.0,20
-2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,logan-sargeant,Logan Sargeant,williams,11,52,12,0,11,885.011588,898.791335,13.779747,0.473684,0.198089,50.0,20
-2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,kevin-magnussen,Kevin Magnussen,haas,12,52,17,0,12,966.704417,973.776006,7.071589,0.421053,0.279621,50.0,20
-2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,daniel-ricciardo,Daniel Ricciardo,rb,13,51,15,0,13,1056.709288,1055.960351,-0.748937,0.368421,0.3834,50.0,20
-2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,charles-leclerc,Charles Leclerc,ferrari,14,51,11,0,14,1318.916629,1299.756771,-19.159858,0.315789,0.698987,50.0,20
-2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,valtteri-bottas,Valtteri Bottas,kick-sauber,15,51,16,0,15,965.478263,964.721375,-0.756888,0.263158,0.278296,50.0,20
-2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,esteban-ocon,Esteban Ocon,alpine,16,50,18,0,16,1081.05013,1070.920724,-10.129407,0.210526,0.413114,50.0,20
-2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,sergio-perez,Sergio Pérez,red-bull,17,50,PL,0,17,1306.68875,1280.298612,-26.390138,0.157895,0.685698,50.0,20
-2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,guanyu-zhou,Guanyu Zhou,kick-sauber,18,50,14,0,18,969.855591,960.966782,-8.88881,0.105263,0.283039,50.0,20
-2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,george-russell,George Russell,mercedes,DNF,33,1,1,19,1304.119788,1272.607691,-31.512097,0.052632,0.682874,50.0,20
-2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,pierre-gasly,Pierre Gasly,alpine,DNS,,19,2,20,1093.887919,1072.440139,-21.44778,0.0,0.428956,50.0,20
+2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,lewis-hamilton,Lewis Hamilton,mercedes,1,52,2,0,1,1541.940039,1554.598706,12.658668,1.0,0.746827,50.0,19
+2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,max-verstappen,Max Verstappen,red-bull,2,52,4,0,2,1849.346869,1851.381646,2.034777,0.944444,0.903749,50.0,19
+2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,lando-norris,Lando Norris,mclaren,3,52,3,0,3,1447.868726,1458.244414,10.375688,0.888889,0.681375,50.0,19
+2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,oscar-piastri,Oscar Piastri,mclaren,4,52,5,0,4,1276.755041,1291.090191,14.33515,0.833333,0.54663,50.0,19
+2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,5,52,7,0,5,1454.219338,1458.807202,4.587864,0.777778,0.68602,50.0,19
+2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,nico-hulkenberg,Nico Hülkenberg,haas,6,52,6,0,6,1058.04746,1075.936261,17.888802,0.722222,0.364446,50.0,19
+2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,lance-stroll,Lance Stroll,aston-martin,7,52,8,0,7,1135.496728,1147.417264,11.920536,0.666667,0.428256,50.0,19
+2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,fernando-alonso,Fernando Alonso,aston-martin,8,52,10,0,8,1310.506678,1312.342966,1.836288,0.611111,0.574385,50.0,19
+2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,alexander-albon,Alexander Albon,williams,9,52,9,0,9,1054.297657,1064.004486,9.706829,0.555556,0.361419,50.0,19
+2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,yuki-tsunoda,Yuki Tsunoda,rb,10,52,13,0,10,1023.802415,1031.94818,8.145765,0.5,0.337085,50.0,19
+2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,logan-sargeant,Logan Sargeant,williams,11,52,12,0,11,863.740455,874.922753,11.182298,0.444444,0.220798,50.0,19
+2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,kevin-magnussen,Kevin Magnussen,haas,12,52,17,0,12,925.298869,931.599459,6.300589,0.388889,0.262877,50.0,19
+2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,daniel-ricciardo,Daniel Ricciardo,rb,13,51,15,0,13,1109.672065,1106.001085,-3.67098,0.333333,0.406753,50.0,19
+2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,charles-leclerc,Charles Leclerc,ferrari,14,51,11,0,14,1529.334917,1506.299099,-23.035818,0.277778,0.738494,50.0,19
+2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,valtteri-bottas,Valtteri Bottas,kick-sauber,15,51,16,0,15,1048.967437,1042.222131,-6.745306,0.222222,0.357128,50.0,19
+2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,esteban-ocon,Esteban Ocon,alpine,16,50,18,0,16,1165.192826,1150.868635,-14.324191,0.166667,0.45315,50.0,19
+2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,sergio-perez,Sergio Pérez,red-bull,17,50,PL,0,17,1485.203974,1455.347933,-29.856042,0.111111,0.708232,50.0,19
+2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,guanyu-zhou,Guanyu Zhou,kick-sauber,18,50,14,0,18,954.454548,943.030414,-11.424134,0.055556,0.284038,50.0,19
+2024,12,2024-07-07,great-britain,Formula 1 Qatar Airways British Grand Prix 2024,1113,pierre-gasly,Pierre Gasly,alpine,DNS,,19,2,19,1147.540253,1125.623472,-21.916782,0.0,0.438336,50.0,19

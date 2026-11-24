@@ -1,23 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,michael-schumacher,Michael Schumacher,ferrari,1,65,1,0,1,1300.890926,1311.659242,10.768316,1.0,0.784634,50.0,22
-2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,juan-pablo-montoya,Juan Pablo Montoya,williams,2,65,12,0,2,981.274623,1009.910722,28.636099,0.952381,0.379659,50.0,22
-2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,jacques-villeneuve,Jacques Villeneuve,bar,3,65,7,0,3,1089.595577,1108.438062,18.842485,0.904762,0.527912,50.0,22
-2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,jarno-trulli,Jarno Trulli,jordan,4,65,6,0,4,1047.941316,1067.279444,19.338128,0.857143,0.47038,50.0,22
-2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,david-coulthard,David Coulthard,mclaren,5,65,3,0,5,1301.301291,1302.525743,1.224452,0.809524,0.785035,50.0,22
-2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,nick-heidfeld,Nick Heidfeld,sauber,6,65,10,0,6,1006.017174,1023.468658,17.451484,0.761905,0.412875,50.0,22
-2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,olivier-panis,Olivier Panis,bar,7,65,11,0,7,1057.991381,1069.491926,11.500545,0.714286,0.484275,50.0,22
-2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,kimi-raikkonen,Kimi Räikkönen,sauber,8,65,9,0,8,984.977757,999.081988,14.104231,0.666667,0.384582,50.0,22
-2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,mika-hakkinen,Mika Häkkinen,mclaren,9,64,2,0,9,1257.857291,1251.804147,-6.053143,0.619048,0.74011,50.0,22
-2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,jean-alesi,Jean Alesi,prost,10,64,15,0,10,1021.067312,1027.969293,6.901981,0.571429,0.433389,50.0,22
-2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,luciano-burti,Luciano Burti,prost,11,64,14,0,11,1018.698608,1023.381681,4.683073,0.52381,0.430148,50.0,22
-2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,jos-verstappen,Jos Verstappen,arrows,12,63,17,0,12,979.494296,984.438873,4.944577,0.47619,0.377299,50.0,22
-2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,fernando-alonso,Fernando Alonso,minardi,13,63,18,0,13,971.728576,974.804222,3.075646,0.428571,0.367059,50.0,22
-2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,giancarlo-fisichella,Giancarlo Fisichella,benetton,14,63,19,0,14,1056.157104,1051.117823,-5.039281,0.380952,0.481738,50.0,22
-2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,jenson-button,Jenson Button,benetton,15,62,21,0,15,1061.022074,1053.265414,-7.75666,0.333333,0.488467,50.0,22
-2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,tarso-marques,Tarso Marques,minardi,16,62,22,0,16,943.323778,941.086921,-2.236857,0.285714,0.330451,50.0,22
-2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,rubens-barrichello,Rubens Barrichello,ferrari,DNF,49,4,1,17,1214.533916,1191.908665,-22.625251,0.238095,0.6906,50.0,22
-2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,eddie-irvine,Eddie Irvine,jaguar,DNF,48,13,1,18,1120.265228,1101.300478,-18.96475,0.190476,0.569771,50.0,22
-2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,ralf-schumacher,Ralf Schumacher,williams,DNF,20,5,1,19,1142.223896,1119.408051,-22.815845,0.142857,0.599174,50.0,22
-2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,enrique-bernoldi,Enrique Bernoldi,arrows,DNF,8,16,1,20,970.261505,956.7667,-13.494805,0.095238,0.365134,50.0,22
-2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,DNF,5,8,1,21,1119.854379,1092.584064,-27.270315,0.02381,0.569216,50.0,22
-2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,pedro-de-la-rosa,Pedro de la Rosa,jaguar,DNF,5,20,1,22,941.452298,926.23819,-15.214108,0.02381,0.328092,50.0,22
+2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,michael-schumacher,Michael Schumacher,ferrari,1,65,1,0,1,1511.20815,1520.284636,9.076486,1.0,0.81847,50.0,18
+2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,juan-pablo-montoya,Juan Pablo Montoya,williams,2,65,12,0,2,972.541058,1000.34537,27.804312,0.941176,0.38509,50.0,18
+2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,jacques-villeneuve,Jacques Villeneuve,bar,3,65,7,0,3,1153.907427,1170.584257,16.676829,0.882353,0.548816,50.0,18
+2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,jarno-trulli,Jarno Trulli,jordan,4,65,6,0,4,1014.601561,1034.644697,20.043136,0.823529,0.422667,50.0,18
+2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,david-coulthard,David Coulthard,mclaren,5,65,3,0,5,1451.45131,1450.579277,-0.872033,0.764706,0.782147,50.0,18
+2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,nick-heidfeld,Nick Heidfeld,sauber,6,65,10,0,6,994.316665,1009.388086,15.071421,0.705882,0.404454,50.0,18
+2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,olivier-panis,Olivier Panis,bar,7,65,11,0,7,1079.447338,1087.724851,8.277513,0.647059,0.481509,50.0,18
+2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,kimi-raikkonen,Kimi Räikkönen,sauber,8,65,9,0,8,1011.302704,1019.729708,8.427004,0.588235,0.419695,50.0,18
+2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,mika-hakkinen,Mika Häkkinen,mclaren,9,64,2,0,9,1513.01802,1498.51315,-14.50487,0.529412,0.819509,50.0,18
+2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,jean-alesi,Jean Alesi,prost,10,64,15,0,10,1077.031802,1076.595684,-0.436117,0.470588,0.479311,50.0,18
+2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,luciano-burti,Luciano Burti,prost,11,64,14,0,11,998.026924,998.226462,0.199539,0.411765,0.407774,50.0,18
+2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,jos-verstappen,Jos Verstappen,arrows,12,63,17,0,12,965.333587,964.044019,-1.289568,0.352941,0.378733,50.0,18
+2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,fernando-alonso,Fernando Alonso,minardi,13,63,18,0,13,991.995031,986.581947,-5.413084,0.294118,0.402379,50.0,18
+2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,giancarlo-fisichella,Giancarlo Fisichella,benetton,14,63,19,0,14,1105.481218,1091.987441,-13.493776,0.235294,0.50517,50.0,18
+2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,jenson-button,Jenson Button,benetton,15,62,21,0,15,1051.834605,1037.838715,-13.995891,0.176471,0.456388,50.0,18
+2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,tarso-marques,Tarso Marques,minardi,16,62,22,0,16,914.011172,903.173728,-10.837444,0.117647,0.334396,50.0,18
+2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,DNF,5,8,1,17,1269.913707,1238.947344,-30.966363,0.029412,0.648739,50.0,18
+2001,5,2001-04-29,spain,Gran Premio Marlboro de España 2001,668,pedro-de-la-rosa,Pedro de la Rosa,jaguar,DNF,5,20,1,18,878.324791,864.557697,-13.767094,0.029412,0.304754,50.0,18

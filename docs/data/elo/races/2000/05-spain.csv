@@ -1,23 +1,21 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,mika-hakkinen,Mika Häkkinen,mclaren,1,65,2,0,1,1251.794068,1265.62196,13.827892,1.0,0.723442,50.0,22
-2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,david-coulthard,David Coulthard,mclaren,2,65,4,0,2,1163.57301,1180.511817,16.938807,0.952381,0.613605,50.0,22
-2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,rubens-barrichello,Rubens Barrichello,ferrari,3,65,3,0,3,1106.347882,1124.812022,18.46414,0.904762,0.535479,50.0,22
-2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,ralf-schumacher,Ralf Schumacher,williams,4,65,5,0,4,1178.543146,1189.733706,11.19056,0.857143,0.633332,50.0,22
-2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,michael-schumacher,Michael Schumacher,ferrari,5,65,1,0,5,1326.282435,1326.686819,0.404384,0.809524,0.801436,50.0,22
-2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,6,65,8,0,6,1174.010127,1180.735485,6.725358,0.761905,0.627398,50.0,22
-2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,mika-salo,Mika Salo,sauber,7,64,12,0,7,1041.321717,1054.805887,13.484169,0.714286,0.444602,50.0,22
-2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,ricardo-zonta,Ricardo Zonta,bar,8,64,16,0,8,999.277275,1013.263982,13.986707,0.666667,0.386933,50.0,22
-2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,giancarlo-fisichella,Giancarlo Fisichella,benetton,9,64,13,0,9,1129.582345,1132.153962,2.571617,0.619048,0.567615,50.0,22
-2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,alexander-wurz,Alexander Wurz,benetton,10,64,18,0,10,1074.989914,1078.978887,3.988973,0.571429,0.491649,50.0,22
-2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,eddie-irvine,Eddie Irvine,jaguar,11,64,9,0,11,1238.43432,1229.229173,-9.205146,0.52381,0.707912,50.0,22
-2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,jarno-trulli,Jarno Trulli,jordan,12,64,7,0,12,1044.409744,1045.774342,1.364598,0.47619,0.448899,50.0,22
-2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,johnny-herbert,Johnny Herbert,jaguar,13,64,14,0,13,1053.76098,1052.092582,-1.668399,0.428571,0.461939,50.0,22
-2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,marc-gene,Marc Gené,minardi,14,63,20,0,14,998.465877,998.221523,-0.244354,0.380952,0.385839,50.0,22
-2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,gaston-mazzacane,Gastón Mazzacane,minardi,15,63,21,0,15,1010.639658,1007.189789,-3.449869,0.333333,0.402331,50.0,22
-2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,nick-heidfeld,Nick Heidfeld,prost,16,62,19,0,16,979.410966,975.674014,-3.736952,0.285714,0.360453,50.0,22
-2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,jenson-button,Jenson Button,williams,17,61,10,0,17,1029.927579,1020.392011,-9.535568,0.238095,0.428807,50.0,22
-2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,jos-verstappen,Jos Verstappen,arrows,DNF,25,11,1,18,967.94593,960.196234,-7.749696,0.190476,0.34547,50.0,22
-2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,jacques-villeneuve,Jacques Villeneuve,bar,DNF,21,6,1,19,1065.500792,1048.725719,-16.775073,0.142857,0.478359,50.0,22
-2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,jean-alesi,Jean Alesi,prost,DNF,1,17,1,20,1054.514172,1034.936026,-19.578146,0.071429,0.462991,50.0,22
-2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,1,22,1,21,968.376593,954.646591,-13.730002,0.071429,0.346029,50.0,22
-2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,pedro-diniz,Pedro Diniz,sauber,DNF,0,15,1,22,967.953551,950.679551,-17.274,0.0,0.34548,50.0,22
+2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,mika-hakkinen,Mika Häkkinen,mclaren,1,65,2,0,1,1448.001663,1459.393974,11.392311,1.0,0.772154,50.0,20
+2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,david-coulthard,David Coulthard,mclaren,2,65,4,0,2,1365.900439,1377.629466,11.729027,0.947368,0.712788,50.0,20
+2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,rubens-barrichello,Rubens Barrichello,ferrari,3,65,3,0,3,1174.385887,1191.599087,17.2132,0.894737,0.550473,50.0,20
+2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,ralf-schumacher,Ralf Schumacher,williams,4,65,5,0,4,1216.775483,1229.455618,12.680135,0.842105,0.588503,50.0,20
+2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,michael-schumacher,Michael Schumacher,ferrari,5,65,1,0,5,1474.99886,1474.972067,-0.026793,0.789474,0.79001,50.0,20
+2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,6,65,8,0,6,1290.271731,1294.513473,4.241742,0.736842,0.652007,50.0,20
+2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,mika-salo,Mika Salo,sauber,7,64,12,0,7,1045.816422,1058.377243,12.560821,0.684211,0.432994,50.0,20
+2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,ricardo-zonta,Ricardo Zonta,bar,8,64,16,0,8,947.886158,962.147,14.260842,0.631579,0.346362,50.0,20
+2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,giancarlo-fisichella,Giancarlo Fisichella,benetton,9,64,13,0,9,1119.796196,1123.710559,3.914363,0.578947,0.50066,50.0,20
+2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,alexander-wurz,Alexander Wurz,benetton,10,64,18,0,10,1055.496717,1059.722727,4.22601,0.526316,0.441796,50.0,20
+2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,eddie-irvine,Eddie Irvine,jaguar,11,64,9,0,11,1304.738893,1295.22135,-9.517543,0.473684,0.664035,50.0,20
+2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,jarno-trulli,Jarno Trulli,jordan,12,64,7,0,12,1022.572009,1023.025238,0.453229,0.421053,0.411988,50.0,20
+2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,johnny-herbert,Johnny Herbert,jaguar,13,64,14,0,13,1075.233275,1070.663743,-4.569531,0.368421,0.459812,50.0,20
+2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,marc-gene,Marc Gené,minardi,14,63,20,0,14,926.119854,925.51105,-0.608804,0.315789,0.327966,50.0,20
+2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,gaston-mazzacane,Gastón Mazzacane,minardi,15,63,21,0,15,978.51058,973.025722,-5.484859,0.263158,0.372855,50.0,20
+2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,nick-heidfeld,Nick Heidfeld,prost,16,62,19,0,16,991.096102,982.42623,-8.669872,0.210526,0.383924,50.0,20
+2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,jenson-button,Jenson Button,williams,17,61,10,0,17,1029.736632,1016.709321,-13.027311,0.157895,0.418441,50.0,20
+2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,jean-alesi,Jean Alesi,prost,DNF,1,17,1,18,1145.175798,1122.928495,-22.247304,0.078947,0.523893,50.0,20
+2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,1,22,1,19,929.392568,916.804609,-12.587959,0.078947,0.330707,50.0,20
+2000,5,2000-05-07,spain,Gran Premio Marlboro de España 2000,651,pedro-diniz,Pedro Diniz,sauber,DNF,0,15,1,20,914.893611,898.961908,-15.931704,0.0,0.318634,50.0,20

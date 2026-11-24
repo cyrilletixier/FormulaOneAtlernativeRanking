@@ -1,21 +1,17 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,lewis-hamilton,Lewis Hamilton,mercedes,1,60,2,0,1,1575.823504,1580.055066,4.231563,1.0,0.915369,50.0,20
-2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,max-verstappen,Max Verstappen,red-bull,2,60,3,0,2,1323.995033,1335.142722,11.147689,0.947368,0.724415,50.0,20
-2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,daniel-ricciardo,Daniel Ricciardo,renault,3,60,6,0,3,1177.974378,1195.064597,17.090219,0.894737,0.552932,50.0,20
-2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,sergio-perez,Sergio Pérez,racing-point,4,60,9,0,4,1205.159846,1217.901414,12.741568,0.842105,0.587274,50.0,20
-2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,5,60,10,0,5,1117.758898,1133.476752,15.717855,0.789474,0.475117,50.0,20
-2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,pierre-gasly,Pierre Gasly,alphatauri,6,60,12,0,6,1131.328928,1143.533447,12.204519,0.736842,0.492752,50.0,20
-2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,charles-leclerc,Charles Leclerc,ferrari,7,60,4,0,7,1200.122581,1205.284664,5.162084,0.684211,0.580969,50.0,20
-2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,nico-hulkenberg,Nico Hülkenberg,racing-point,8,60,20,0,8,1068.015806,1079.052492,11.036686,0.631579,0.410845,50.0,20
-2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,romain-grosjean,Romain Grosjean,haas,9,60,16,0,9,957.630996,972.698899,15.067903,0.578947,0.277589,50.0,20
-2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,10,60,14,0,10,973.943919,985.459685,11.515766,0.526316,0.296,50.0,20
-2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,sebastian-vettel,Sebastian Vettel,ferrari,11,60,11,0,11,1203.576271,1197.995735,-5.580536,0.473684,0.585295,50.0,20
-2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,12,60,19,0,12,1081.165792,1080.8325,-0.333292,0.421053,0.427718,50.0,20
-2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,kevin-magnussen,Kevin Magnussen,haas,13,60,15,0,13,959.025963,963.4899,4.463937,0.368421,0.279142,50.0,20
-2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,nicholas-latifi,Nicholas Latifi,williams,14,60,18,0,14,961.720345,963.402144,1.681799,0.315789,0.282153,50.0,20
-2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,daniil-kvyat,Daniil Kvyat,alphatauri,15,60,13,0,15,1101.503233,1091.960729,-9.542504,0.263158,0.454008,50.0,20
-2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,lando-norris,Lando Norris,mclaren,DNF,42,8,1,16,1161.381291,1145.324833,-16.056459,0.210526,0.531655,50.0,20
-2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,alexander-albon,Alexander Albon,red-bull,DNF,23,5,1,17,1203.051429,1181.714246,-21.337183,0.157895,0.584638,50.0,20
-2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,esteban-ocon,Esteban Ocon,renault,DNF,22,7,1,18,1117.538097,1099.059774,-18.478324,0.105263,0.47483,50.0,20
-2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,valtteri-bottas,Valtteri Bottas,mercedes,DNF,18,1,1,19,1439.965704,1401.110623,-38.855081,0.052632,0.829733,50.0,20
-2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,george-russell,George Russell,williams,DNF,12,17,1,20,920.247712,908.369502,-11.87821,0.0,0.237564,50.0,20
+2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,lewis-hamilton,Lewis Hamilton,mercedes,1,60,2,0,1,1844.376836,1848.470201,4.093365,1.0,0.918133,50.0,16
+2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,max-verstappen,Max Verstappen,red-bull,2,60,3,0,2,1547.022073,1554.79955,7.777477,0.933333,0.777784,50.0,16
+2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,daniel-ricciardo,Daniel Ricciardo,renault,3,60,6,0,3,1331.099764,1343.258102,12.158338,0.866667,0.6235,50.0,16
+2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,sergio-perez,Sergio Pérez,racing-point,4,60,9,0,4,1264.568122,1276.123304,11.555182,0.8,0.568896,50.0,16
+2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,5,60,10,0,5,1187.634804,1199.127833,11.493029,0.733333,0.503473,50.0,16
+2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,pierre-gasly,Pierre Gasly,alphatauri,6,60,12,0,6,1163.395352,1172.598202,9.202849,0.666667,0.48261,50.0,16
+2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,charles-leclerc,Charles Leclerc,ferrari,7,60,4,0,7,1295.698253,1295.961117,0.262864,0.6,0.594743,50.0,16
+2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,nico-hulkenberg,Nico Hülkenberg,racing-point,8,60,20,0,8,1111.099377,1115.885742,4.786365,0.533333,0.437606,50.0,16
+2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,romain-grosjean,Romain Grosjean,haas,9,60,16,0,9,937.211786,945.807777,8.595992,0.466667,0.294747,50.0,16
+2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,10,60,14,0,10,920.437467,926.337143,5.899676,0.4,0.282006,50.0,16
+2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,sebastian-vettel,Sebastian Vettel,ferrari,11,60,11,0,11,1452.6788,1433.574132,-19.104667,0.333333,0.715427,50.0,16
+2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,12,60,19,0,12,1185.927604,1174.160674,-11.766929,0.266667,0.502005,50.0,16
+2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,kevin-magnussen,Kevin Magnussen,haas,13,60,15,0,13,970.624738,964.584518,-6.040221,0.2,0.320804,50.0,16
+2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,nicholas-latifi,Nicholas Latifi,williams,14,60,18,0,14,933.489237,925.560959,-7.928279,0.133333,0.291899,50.0,16
+2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,daniil-kvyat,Daniil Kvyat,alphatauri,15,60,13,0,15,1119.310426,1100.411048,-18.899378,0.066667,0.444654,50.0,16
+2020,11,2020-10-11,eifel,Formula 1 Aramco Grosser Preis der Eifel 2020,1029,george-russell,George Russell,williams,DNF,12,17,1,16,864.993582,852.907918,-12.085664,0.0,0.241713,50.0,16

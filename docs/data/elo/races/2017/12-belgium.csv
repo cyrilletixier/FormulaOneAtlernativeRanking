@@ -1,21 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,lewis-hamilton,Lewis Hamilton,mercedes,1,44,1,0,1,1499.625567,1505.691545,6.065978,1.0,0.87868,50.0,20
-2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,sebastian-vettel,Sebastian Vettel,ferrari,2,44,2,0,2,1416.511878,1422.983518,6.471639,0.947368,0.817936,50.0,20
-2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,daniel-ricciardo,Daniel Ricciardo,red-bull,3,44,6,0,3,1318.672478,1327.063329,8.390851,0.894737,0.72692,50.0,20
-2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,kimi-raikkonen,Kimi Räikkönen,ferrari,4,44,4,0,4,1287.601156,1295.016556,7.4154,0.842105,0.693797,50.0,20
-2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,valtteri-bottas,Valtteri Bottas,mercedes,5,44,3,0,5,1301.887181,1305.89772,4.010538,0.789474,0.709263,50.0,20
-2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,nico-hulkenberg,Nico Hülkenberg,renault,6,44,7,0,6,1111.918012,1124.79894,12.880928,0.736842,0.479224,50.0,20
-2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,romain-grosjean,Romain Grosjean,haas,7,44,11,0,7,1044.104601,1058.711939,14.607339,0.684211,0.392064,50.0,20
-2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,felipe-massa,Felipe Massa,williams,8,44,16,0,8,1119.23537,1126.380147,7.144777,0.631579,0.488683,50.0,20
-2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,esteban-ocon,Esteban Ocon,force-india,9,44,9,0,9,1101.002098,1106.694259,5.69216,0.578947,0.465104,50.0,20
-2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,10,44,13,0,10,1082.922095,1087.150665,4.228571,0.526316,0.441744,50.0,20
-2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,lance-stroll,Lance Stroll,williams,11,44,15,0,11,1013.04025,1019.062875,6.022625,0.473684,0.353232,50.0,20
-2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,daniil-kvyat,Daniil Kvyat,toro-rosso,12,44,19,0,12,1019.472325,1022.465919,2.993594,0.421053,0.361181,50.0,20
-2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,jolyon-palmer,Jolyon Palmer,renault,13,44,14,0,13,964.337003,968.004834,3.667831,0.368421,0.295064,50.0,20
-2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,stoffel-vandoorne,Stoffel Vandoorne,mclaren,14,44,20,0,14,998.49116,997.507682,-0.983478,0.315789,0.335459,50.0,20
-2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,kevin-magnussen,Kevin Magnussen,haas,15,44,12,0,15,1025.417827,1020.147017,-5.27081,0.263158,0.368574,50.0,20
-2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,marcus-ericsson,Marcus Ericsson,sauber,16,44,17,0,16,968.231402,963.77943,-4.451972,0.210526,0.299566,50.0,20
-2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,sergio-perez,Sergio Pérez,force-india,17,42,8,0,17,1232.926719,1209.26139,-23.665329,0.157895,0.631201,50.0,20
-2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,fernando-alonso,Fernando Alonso,mclaren,DNF,25,10,1,18,1056.871837,1041.720141,-15.151696,0.105263,0.408297,50.0,20
-2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,max-verstappen,Max Verstappen,red-bull,DNF,7,5,1,19,1185.471438,1159.442788,-26.028649,0.052632,0.573205,50.0,20
-2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,pascal-wehrlein,Pascal Wehrlein,sauber,DNF,2,18,1,20,951.82798,937.787683,-14.040297,0.0,0.280806,50.0,20
+2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,lewis-hamilton,Lewis Hamilton,mercedes,1,44,1,0,1,1745.095005,1751.376412,6.281406,1.0,0.874372,50.0,17
+2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,sebastian-vettel,Sebastian Vettel,ferrari,2,44,2,0,2,1622.476725,1628.699201,6.222476,0.9375,0.81305,50.0,17
+2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,daniel-ricciardo,Daniel Ricciardo,red-bull,3,44,6,0,3,1520.259226,1526.449703,6.190477,0.875,0.75119,50.0,17
+2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,kimi-raikkonen,Kimi Räikkönen,ferrari,4,44,4,0,4,1418.374914,1424.982488,6.607574,0.8125,0.680349,50.0,17
+2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,valtteri-bottas,Valtteri Bottas,mercedes,5,44,3,0,5,1435.045509,1437.91938,2.873871,0.75,0.692523,50.0,17
+2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,nico-hulkenberg,Nico Hülkenberg,renault,6,44,7,0,6,1145.234757,1156.688339,11.453583,0.6875,0.458428,50.0,17
+2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,romain-grosjean,Romain Grosjean,haas,7,44,11,0,7,1089.613301,1100.302226,10.688924,0.625,0.411222,50.0,17
+2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,felipe-massa,Felipe Massa,williams,8,44,16,0,8,1203.699128,1206.416586,2.717457,0.5625,0.508151,50.0,17
+2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,esteban-ocon,Esteban Ocon,force-india,9,44,9,0,9,1055.634649,1061.49794,5.86329,0.5,0.382734,50.0,17
+2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,10,44,13,0,10,1104.33847,1105.029988,0.691518,0.4375,0.42367,50.0,17
+2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,lance-stroll,Lance Stroll,williams,11,44,15,0,11,991.215944,993.460035,2.244091,0.375,0.330118,50.0,17
+2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,daniil-kvyat,Daniil Kvyat,toro-rosso,12,44,19,0,12,1069.475049,1065.385486,-4.089563,0.3125,0.394291,50.0,17
+2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,jolyon-palmer,Jolyon Palmer,renault,13,44,14,0,13,932.453163,930.731237,-1.721926,0.25,0.284439,50.0,17
+2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,stoffel-vandoorne,Stoffel Vandoorne,mclaren,14,44,20,0,14,966.200785,960.05794,-6.142845,0.1875,0.310357,50.0,17
+2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,kevin-magnussen,Kevin Magnussen,haas,15,44,12,0,15,1034.302603,1022.298858,-12.003745,0.125,0.365075,50.0,17
+2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,marcus-ericsson,Marcus Ericsson,sauber,16,44,17,0,16,887.212704,877.776439,-9.436265,0.0625,0.251225,50.0,17
+2017,12,2017-08-27,belgium,2017 Formula 1 Pirelli Belgian Grand Prix,968,sergio-perez,Sergio Pérez,force-india,17,42,8,0,17,1276.163036,1247.72271,-28.440326,0.0,0.568807,50.0,17

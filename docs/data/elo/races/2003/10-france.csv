@@ -1,21 +1,17 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,ralf-schumacher,Ralf Schumacher,williams,1,70,1,0,1,1246.131632,1260.387483,14.255851,1.0,0.714883,50.0,20
-2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,juan-pablo-montoya,Juan Pablo Montoya,williams,2,70,2,0,2,1197.280256,1211.78732,14.507064,0.947368,0.657227,50.0,20
-2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,michael-schumacher,Michael Schumacher,ferrari,3,70,3,0,3,1436.327782,1436.903799,0.576018,0.894737,0.883216,50.0,20
-2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,kimi-raikkonen,Kimi Räikkönen,mclaren,4,70,4,0,4,1130.768215,1144.299014,13.530799,0.842105,0.571489,50.0,20
-2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,david-coulthard,David Coulthard,mclaren,5,70,5,0,5,1170.66199,1178.947206,8.285217,0.789474,0.623769,50.0,20
-2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,mark-webber,Mark Webber,jaguar,6,70,9,0,6,1007.753314,1024.408393,16.655079,0.736842,0.403741,50.0,20
-2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,rubens-barrichello,Rubens Barrichello,ferrari,7,69,8,0,7,1265.571547,1262.966834,-2.604712,0.684211,0.736305,50.0,20
-2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,olivier-panis,Olivier Panis,toyota,8,69,10,0,8,977.633968,991.026566,13.392598,0.631579,0.363727,50.0,20
-2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,jacques-villeneuve,Jacques Villeneuve,bar,9,69,12,0,9,987.029111,997.172379,10.143268,0.578947,0.376082,50.0,20
-2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,antonio-pizzonia,Antônio Pizzonia,jaguar,10,69,11,0,10,984.255603,991.950312,7.694709,0.526316,0.372422,50.0,20
-2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,cristiano-da-matta,Cristiano da Matta,toyota,11,69,13,0,11,1021.004116,1023.605215,2.601099,0.473684,0.421662,50.0,20
-2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,12,68,16,0,12,984.628944,987.03589,2.406946,0.421053,0.372914,50.0,20
-2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,nick-heidfeld,Nick Heidfeld,sauber,13,68,15,0,13,1066.930041,1061.122631,-5.807409,0.368421,0.484569,50.0,20
-2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,justin-wilson,Justin Wilson,minardi,14,67,20,0,14,964.034177,962.519519,-1.514658,0.315789,0.346083,50.0,20
-2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,ralph-firman,Ralph Firman,jordan,15,67,18,0,15,983.001713,977.621093,-5.38062,0.263158,0.37077,50.0,20
-2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,jos-verstappen,Jos Verstappen,minardi,16,66,19,0,16,982.59173,974.606503,-7.985227,0.210526,0.370231,50.0,20
-2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,jarno-trulli,Jarno Trulli,renault,DNF,45,6,1,17,1053.550545,1038.136503,-15.414041,0.157895,0.466176,50.0,20
-2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,fernando-alonso,Fernando Alonso,renault,DNF,43,7,1,18,1099.009993,1077.84535,-21.164643,0.105263,0.528556,50.0,20
-2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,42,17,1,19,1026.528341,1007.701096,-18.827246,0.052632,0.429176,50.0,20
-2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,jenson-button,Jenson Button,bar,DNF,21,14,1,20,1083.258965,1057.908876,-25.350089,0.0,0.507002,50.0,20
+2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,ralf-schumacher,Ralf Schumacher,williams,1,70,1,0,1,1322.681207,1339.557932,16.876724,1.0,0.662466,50.0,16
+2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,juan-pablo-montoya,Juan Pablo Montoya,williams,2,70,2,0,2,1276.904268,1292.344813,15.440545,0.933333,0.624522,50.0,16
+2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,michael-schumacher,Michael Schumacher,ferrari,3,70,3,0,3,1644.705422,1644.474714,-0.230708,0.866667,0.871281,50.0,16
+2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,kimi-raikkonen,Kimi Räikkönen,mclaren,4,70,4,0,4,1229.995375,1240.787975,10.792601,0.8,0.584148,50.0,16
+2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,david-coulthard,David Coulthard,mclaren,5,70,5,0,5,1374.7394,1376.23135,1.491949,0.733333,0.703494,50.0,16
+2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,mark-webber,Mark Webber,jaguar,6,70,9,0,6,1008.617663,1022.66161,14.043947,0.666667,0.385788,50.0,16
+2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,rubens-barrichello,Rubens Barrichello,ferrari,7,69,8,0,7,1384.550331,1379.002997,-5.547333,0.6,0.710947,50.0,16
+2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,olivier-panis,Olivier Panis,toyota,8,69,10,0,8,1016.416892,1023.450446,7.033554,0.533333,0.392662,50.0,16
+2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,jacques-villeneuve,Jacques Villeneuve,bar,9,69,12,0,9,1126.94283,1125.673627,-1.269204,0.466667,0.492051,50.0,16
+2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,antonio-pizzonia,Antônio Pizzonia,jaguar,10,69,11,0,10,949.942779,953.182986,3.240207,0.4,0.335196,50.0,16
+2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,cristiano-da-matta,Cristiano da Matta,toyota,11,69,13,0,11,984.155998,982.600962,-1.555036,0.333333,0.364434,50.0,16
+2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,12,68,16,0,12,1062.84574,1054.474341,-8.371399,0.266667,0.434095,50.0,16
+2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,nick-heidfeld,Nick Heidfeld,sauber,13,68,15,0,13,1052.534197,1041.292666,-11.241531,0.2,0.424831,50.0,16
+2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,justin-wilson,Justin Wilson,minardi,14,67,20,0,14,942.254388,932.483978,-9.77041,0.133333,0.328742,50.0,16
+2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,ralph-firman,Ralph Firman,jordan,15,67,18,0,15,976.592426,962.030632,-14.561794,0.066667,0.357903,50.0,16
+2003,10,2003-07-06,france,Mobil 1 Grand Prix de France 2003,707,jos-verstappen,Jos Verstappen,minardi,16,66,19,0,16,940.699996,924.327884,-16.372112,0.0,0.327442,50.0,16

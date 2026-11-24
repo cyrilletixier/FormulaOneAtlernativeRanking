@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,lando-norris,Lando Norris,mclaren,1,72,1,0,1,1350.685289,1364.127203,13.441915,1.0,0.731162,50.0,20
-2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,max-verstappen,Max Verstappen,red-bull,2,72,2,0,2,1555.479521,1558.092029,2.612509,0.947368,0.895118,50.0,20
-2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,charles-leclerc,Charles Leclerc,ferrari,3,72,6,0,3,1318.28803,1328.157184,9.869154,0.894737,0.697354,50.0,20
-2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,oscar-piastri,Oscar Piastri,mclaren,4,72,3,0,4,1284.454985,1293.552933,9.097948,0.842105,0.660146,50.0,20
-2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,5,72,10,0,5,1323.866245,1328.174524,4.308279,0.789474,0.703308,50.0,20
-2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,sergio-perez,Sergio Pérez,red-bull,6,72,5,0,6,1282.9685,1286.887052,3.918552,0.736842,0.658471,50.0,20
-2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,george-russell,George Russell,mercedes,7,72,4,0,7,1239.44102,1243.246208,3.805189,0.684211,0.608107,50.0,20
-2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,lewis-hamilton,Lewis Hamilton,mercedes,8,72,14,0,8,1360.630916,1355.152325,-5.478591,0.631579,0.741151,50.0,20
-2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,pierre-gasly,Pierre Gasly,alpine,9,71,9,0,9,1051.829625,1061.858729,10.029105,0.578947,0.378365,50.0,20
-2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,fernando-alonso,Fernando Alonso,aston-martin,10,71,7,0,10,1195.014222,1193.599772,-1.41445,0.526316,0.554605,50.0,20
-2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,nico-hulkenberg,Nico Hülkenberg,haas,11,71,12,0,11,1059.74203,1064.031375,4.289346,0.473684,0.387897,50.0,20
-2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,daniel-ricciardo,Daniel Ricciardo,rb,12,71,13,0,12,1064.969748,1066.311105,1.341356,0.421053,0.394226,50.0,20
-2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,lance-stroll,Lance Stroll,aston-martin,13,71,8,0,13,1110.795182,1106.692794,-4.102388,0.368421,0.450469,50.0,20
-2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,alexander-albon,Alexander Albon,williams,14,71,19,0,14,1024.449603,1022.944984,-1.504619,0.315789,0.345882,50.0,20
-2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,esteban-ocon,Esteban Ocon,alpine,15,71,15,0,15,1065.961666,1059.348121,-6.613545,0.263158,0.395429,50.0,20
-2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,logan-sargeant,Logan Sargeant,williams,16,71,18,0,16,893.670433,893.838968,0.168534,0.210526,0.207156,50.0,20
-2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,yuki-tsunoda,Yuki Tsunoda,rb,17,71,11,0,17,1049.760094,1038.860738,-10.899356,0.157895,0.375882,50.0,20
-2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,kevin-magnussen,Kevin Magnussen,haas,18,71,PL,0,18,974.089602,964.914555,-9.175046,0.105263,0.288764,50.0,20
-2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,valtteri-bottas,Valtteri Bottas,kick-sauber,19,70,16,0,19,960.871936,949.780345,-11.091591,0.052632,0.274463,50.0,20
-2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,guanyu-zhou,Guanyu Zhou,kick-sauber,20,70,17,0,20,939.506453,926.904154,-12.602299,0.0,0.252046,50.0,20
+2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,lando-norris,Lando Norris,mclaren,1,72,1,0,1,1476.606348,1491.937682,15.331334,1.0,0.693373,50.0,20
+2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,max-verstappen,Max Verstappen,red-bull,2,72,2,0,2,1842.25004,1844.76979,2.51975,0.947368,0.896973,50.0,20
+2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,charles-leclerc,Charles Leclerc,ferrari,3,72,6,0,3,1521.427299,1529.916116,8.488817,0.894737,0.72496,50.0,20
+2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,oscar-piastri,Oscar Piastri,mclaren,4,72,3,0,4,1333.459559,1346.409028,12.949469,0.842105,0.583116,50.0,20
+2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,5,72,10,0,5,1463.656091,1468.932234,5.276142,0.789474,0.683951,50.0,20
+2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,sergio-perez,Sergio Pérez,red-bull,6,72,5,0,6,1455.001258,1457.964179,2.962922,0.736842,0.677584,50.0,20
+2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,george-russell,George Russell,mercedes,7,72,4,0,7,1388.954442,1391.799655,2.845213,0.684211,0.627306,50.0,20
+2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,lewis-hamilton,Lewis Hamilton,mercedes,8,72,14,0,8,1574.689021,1568.254444,-6.434576,0.631579,0.76027,50.0,20
+2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,pierre-gasly,Pierre Gasly,alpine,9,71,9,0,9,1122.501887,1131.03313,8.531243,0.578947,0.408323,50.0,20
+2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,fernando-alonso,Fernando Alonso,aston-martin,10,71,7,0,10,1309.699703,1307.826573,-1.87313,0.526316,0.563778,50.0,20
+2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,nico-hulkenberg,Nico Hülkenberg,haas,11,71,12,0,11,1059.420165,1065.243152,5.822987,0.473684,0.357224,50.0,20
+2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,daniel-ricciardo,Daniel Ricciardo,rb,12,71,13,0,12,1111.991404,1113.059108,1.067705,0.421053,0.399699,50.0,20
+2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,lance-stroll,Lance Stroll,aston-martin,13,71,8,0,13,1152.614988,1149.3757,-3.239288,0.368421,0.433207,50.0,20
+2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,alexander-albon,Alexander Albon,williams,14,71,19,0,14,1062.419976,1060.228787,-2.191189,0.315789,0.359613,50.0,20
+2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,esteban-ocon,Esteban Ocon,alpine,15,71,15,0,15,1140.041887,1132.06034,-7.981547,0.263158,0.422789,50.0,20
+2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,logan-sargeant,Logan Sargeant,williams,16,71,18,0,16,864.807738,864.525703,-0.282035,0.210526,0.216167,50.0,20
+2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,yuki-tsunoda,Yuki Tsunoda,rb,17,71,11,0,17,1035.06588,1026.059815,-9.006065,0.157895,0.338016,50.0,20
+2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,kevin-magnussen,Kevin Magnussen,haas,18,71,PL,0,18,931.489381,923.707196,-7.782184,0.105263,0.260907,50.0,20
+2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,valtteri-bottas,Valtteri Bottas,kick-sauber,19,70,16,0,19,1028.644978,1014.626037,-14.018942,0.052632,0.33301,50.0,20
+2024,15,2024-08-25,netherlands,Formula 1 Heineken Dutch Grand Prix 2024,1116,guanyu-zhou,Guanyu Zhou,kick-sauber,20,70,17,0,20,929.815677,916.829052,-12.986624,0.0,0.259732,50.0,20

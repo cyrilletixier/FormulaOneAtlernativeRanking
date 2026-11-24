@@ -1,27 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,alain-prost,Alain Prost,williams,1,72,2,0,1,1316.670734,1327.649629,10.978895,1.0,0.780422,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,damon-hill,Damon Hill,williams,2,72,1,0,2,1047.519544,1073.756155,26.236611,0.96,0.435268,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,michael-schumacher,Michael Schumacher,benetton,3,72,7,0,3,1218.410452,1230.970942,12.56049,0.92,0.66879,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,ayrton-senna,Ayrton Senna,mclaren,4,72,5,0,4,1287.315112,1293.828182,6.51307,0.88,0.749739,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,martin-brundle,Martin Brundle,ligier,5,72,3,0,5,1193.689913,1203.835343,10.145431,0.84,0.637091,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,michael-andretti,Michael Andretti,mclaren,6,71,16,0,6,1014.568417,1035.066659,20.498242,0.8,0.390035,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,rubens-barrichello,Rubens Barrichello,jordan,7,71,8,0,7,1008.499457,1027.406807,18.90735,0.76,0.381853,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,christian-fittipaldi,Christian Fittipaldi,minardi,8,71,23,0,8,1102.392592,1112.781928,10.389336,0.72,0.512213,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,philippe-alliot,Philippe Alliot,larrousse,9,70,10,0,9,1061.680669,1072.929765,11.249096,0.68,0.455018,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,riccardo-patrese,Riccardo Patrese,benetton,10,70,12,0,10,1200.873242,1200.551898,-0.321344,0.64,0.646427,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,thierry-boutsen,Thierry Boutsen,jordan,11,70,20,0,11,1085.394686,1090.979276,5.58459,0.6,0.488308,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,aguri-suzuki,Aguri Suzuki,footwork,12,70,13,0,12,1052.572998,1058.45801,5.885011,0.56,0.4423,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,derek-warwick,Derek Warwick,footwork,13,70,15,0,13,1126.854068,1125.530918,-1.323151,0.52,0.546463,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,gerhard-berger,Gerhard Berger,ferrari,14,70,14,0,14,1194.824243,1186.895644,-7.928599,0.48,0.638572,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,andrea-de-cesaris,Andrea de Cesaris,tyrrell,15,68,25,0,15,1067.603176,1066.437493,-1.165682,0.44,0.463314,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,erik-comas,Érik Comas,larrousse,16,66,9,0,16,1098.657022,1093.30889,-5.348132,0.4,0.506963,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,jean-alesi,Jean Alesi,ferrari,DNF,47,6,1,17,1115.00088,1106.505711,-8.495168,0.36,0.529903,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,luca-badoer,Luca Badoer,lola,DNF,28,22,1,18,990.983399,989.05516,-1.928239,0.32,0.358565,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,karl-wendlinger,Karl Wendlinger,sauber,DNF,25,11,1,19,1062.391696,1053.591042,-8.800654,0.28,0.456013,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,jj-lehto,JJ Lehto,sauber,DNF,22,18,1,20,1117.447768,1102.78134,-14.666428,0.24,0.533329,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,mark-blundell,Mark Blundell,ligier,DNF,20,4,1,21,1032.204757,1021.500043,-10.704713,0.2,0.414094,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,fabrizio-barbazza,Fabrizio Barbazza,minardi,DNF,16,24,1,22,937.697653,930.125871,-7.571782,0.14,0.291436,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,johnny-herbert,Johnny Herbert,lotus,DNF,16,19,1,23,1072.294869,1055.800062,-16.494806,0.14,0.469896,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,ukyo-katayama,Ukyo Katayama,tyrrell,DNF,9,21,1,24,975.329879,962.418987,-12.910892,0.08,0.338218,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,alex-zanardi,Alex Zanardi,lotus,DNF,3,17,1,25,1056.845278,1036.432318,-20.41296,0.04,0.448259,50.0,26
-1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,michele-alboreto,Michele Alboreto,lola,DNQ,,,2,26,1034.687841,1013.812268,-20.875572,0.0,0.417511,50.0,26
+1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,alain-prost,Alain Prost,williams,1,72,2,0,1,1564.564684,1573.536156,8.971472,1.0,0.820571,50.0,19
+1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,damon-hill,Damon Hill,williams,2,72,1,0,2,1021.691521,1050.025418,28.333898,0.944444,0.377766,50.0,19
+1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,michael-schumacher,Michael Schumacher,benetton,3,72,7,0,3,1277.331387,1291.339648,14.008261,0.888889,0.608724,50.0,19
+1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,ayrton-senna,Ayrton Senna,mclaren,4,72,5,0,4,1526.775826,1528.553689,1.777863,0.833333,0.797776,50.0,19
+1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,martin-brundle,Martin Brundle,ligier,5,72,3,0,5,1219.336895,1230.360096,11.023201,0.777778,0.557314,50.0,19
+1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,michael-andretti,Michael Andretti,mclaren,6,71,16,0,6,987.206202,1005.931791,18.725589,0.722222,0.34771,50.0,19
+1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,rubens-barrichello,Rubens Barrichello,jordan,7,71,8,0,7,998.682528,1014.134739,15.452212,0.666667,0.357622,50.0,19
+1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,christian-fittipaldi,Christian Fittipaldi,minardi,8,71,23,0,8,1054.902856,1065.089328,10.186473,0.611111,0.407382,50.0,19
+1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,philippe-alliot,Philippe Alliot,larrousse,9,70,10,0,9,1023.065892,1031.894657,8.828765,0.555556,0.37898,50.0,19
+1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,riccardo-patrese,Riccardo Patrese,benetton,10,70,12,0,10,1348.600226,1340.158234,-8.441992,0.5,0.66884,50.0,19
+1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,thierry-boutsen,Thierry Boutsen,jordan,11,70,20,0,11,1183.919518,1179.882066,-4.037452,0.444444,0.525193,50.0,19
+1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,aguri-suzuki,Aguri Suzuki,footwork,12,70,13,0,12,991.780732,993.642681,1.861949,0.388889,0.35165,50.0,19
+1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,derek-warwick,Derek Warwick,footwork,13,70,15,0,13,1179.113505,1169.739808,-9.373697,0.333333,0.520807,50.0,19
+1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,gerhard-berger,Gerhard Berger,ferrari,14,70,14,0,14,1391.139856,1369.896659,-21.243197,0.277778,0.702642,50.0,19
+1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,andrea-de-cesaris,Andrea de Cesaris,tyrrell,15,68,25,0,15,1128.784819,1116.161599,-12.62322,0.222222,0.474687,50.0,19
+1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,erik-comas,Érik Comas,larrousse,16,66,9,0,16,1078.498546,1065.395816,-13.10273,0.166667,0.428721,50.0,19
+1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,mark-blundell,Mark Blundell,ligier,DNF,20,4,1,17,1004.869507,992.274819,-12.594687,0.111111,0.363005,50.0,19
+1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,johnny-herbert,Johnny Herbert,lotus,DNF,16,19,1,18,1067.265345,1049.116298,-18.149047,0.055556,0.418537,50.0,19
+1993,8,1993-07-04,france,Rhone Poulenc Grand Prix de France 1993,540,michele-alboreto,Michele Alboreto,lola,DNQ,,,2,19,1037.814859,1018.211201,-19.603657,0.0,0.392073,50.0,19
