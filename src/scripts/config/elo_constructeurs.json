@@ -1,0 +1,11 @@
+{
+  "initial_elo": 1000,
+  "k": 50,
+  "scale": 600,
+  "exclude_driver_dnf": true,
+  "bottom_tier_statuses": [
+    "DSQ",
+    "DNS",
+    "DNQ"
+  ]
+}

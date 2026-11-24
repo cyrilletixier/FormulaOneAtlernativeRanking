@@ -6,6 +6,55 @@ from typing import Any, Dict, Iterable, List, Optional, Tuple
 
 BOTTOM_TIER_STATUSES = {"DSQ", "DNS", "DNQ"}
 
+# Mots-clés (en minuscules) correspondant à un abandon lié au pilote / incident de course
+# plutôt qu'à une défaillance mécanique / technique de la voiture.
+DRIVER_DNF_KEYWORDS = (
+    "accident",
+    "collision",
+    "spun off",
+    "spin",
+    "crash",
+    "physical",
+    "injured",
+    "injury",
+    "illness",
+    "unwell",
+    "exhaustion",
+    "fatal",
+    "driver",
+    "stalled",
+    "black flag",
+    "excluded",
+    "disqualified",
+)
+
+
+def classify_dnf(position_raw: str, reason_retired: Optional[str]) -> str:
+    """Classifie une entrée en 'finished', 'driver_dnf', 'mechanical_dnf' ou 'other'.
+
+    - Une position numérique (y compris classé malgré un abandon en fin de course)
+      est considérée comme 'finished'.
+    - Pour un DNF, si reason_retired contient un mot-clé d'erreur/incident pilote,
+      renvoie 'driver_dnf' ; sinon (panne moteur, boîte, freins, hydraulique, etc.),
+      renvoie 'mechanical_dnf'.
+    """
+    status = _normalize_status(position_raw)
+    if _position_int(status) is not None:
+        return "finished"
+
+    if status != "DNF":
+        return "other"
+
+    reason = (reason_retired or "").strip().lower()
+    if not reason:
+        return "other"
+
+    for kw in DRIVER_DNF_KEYWORDS:
+        if kw in reason:
+            return "driver_dnf"
+
+    return "mechanical_dnf"
+
 
 @dataclass(frozen=True)
 class RaceEntry:
@@ -14,6 +63,7 @@ class RaceEntry:
     position_raw: str
     laps: Optional[int]
     grid_position: Optional[str]
+    reason_retired: Optional[str] = None
 
 
 @dataclass(frozen=True)
