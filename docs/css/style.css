@@ -443,6 +443,8 @@ td {
 #historique-table td:not(:first-child),
 #qualifications-table th:not(:first-child),
 #qualifications-table td:not(:first-child),
+#checkpoints-table th:not(:first-child),
+#checkpoints-table td:not(:first-child),
 #sprint-table th:not(:first-child),
 #sprint-table td:not(:first-child),
 #deuxieme-pilote-table th:not(:first-child),
