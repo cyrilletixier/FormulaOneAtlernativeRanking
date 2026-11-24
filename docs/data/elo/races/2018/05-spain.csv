@@ -1,21 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,lewis-hamilton,Lewis Hamilton,mercedes,1,66,1,0,1,1521.823607,1527.084035,5.260428,1.0,0.894791,50.0,20
-2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,valtteri-bottas,Valtteri Bottas,mercedes,2,66,2,0,2,1354.156565,1363.147375,8.990811,0.947368,0.767552,50.0,20
-2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,max-verstappen,Max Verstappen,red-bull,3,66,5,0,3,1194.777512,1209.934399,15.156888,0.894737,0.591599,50.0,20
-2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,sebastian-vettel,Sebastian Vettel,ferrari,4,66,3,0,4,1396.454421,1398.284997,1.830576,0.842105,0.805494,50.0,20
-2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,daniel-ricciardo,Daniel Ricciardo,red-bull,5,66,6,0,5,1224.833733,1232.896415,8.062682,0.789474,0.62822,50.0,20
-2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,kevin-magnussen,Kevin Magnussen,haas,6,65,7,0,6,1043.152046,1060.154323,17.002277,0.736842,0.396797,50.0,20
-2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,carlos-sainz-jr,Carlos Sainz Jr.,renault,7,65,9,0,7,1081.816171,1093.693659,11.877489,0.684211,0.446661,50.0,20
-2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,fernando-alonso,Fernando Alonso,mclaren,8,65,8,0,8,1104.824553,1112.574399,7.749847,0.631579,0.476582,50.0,20
-2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,sergio-perez,Sergio Pérez,force-india,9,64,15,0,9,1208.40469,1206.93411,-1.47058,0.578947,0.608359,50.0,20
-2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,charles-leclerc,Charles Leclerc,sauber,10,64,14,0,10,1010.361239,1018.903461,8.542222,0.526316,0.355471,50.0,20
-2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,lance-stroll,Lance Stroll,williams,11,64,18,0,11,1044.481283,1048.240762,3.759479,0.473684,0.398495,50.0,20
-2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,brendon-hartley,Brendon Hartley,toro-rosso,12,64,20,0,12,964.870876,970.893569,6.022693,0.421053,0.300599,50.0,20
-2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,marcus-ericsson,Marcus Ericsson,sauber,13,64,17,0,13,943.97527,948.564139,4.588869,0.368421,0.276644,50.0,20
-2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,sergey-sirotkin,Sergey Sirotkin,williams,14,63,19,0,14,962.469101,963.368515,0.899414,0.315789,0.297801,50.0,20
-2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,stoffel-vandoorne,Stoffel Vandoorne,mclaren,DNF,45,11,1,15,1043.627423,1036.915134,-6.712289,0.263158,0.397404,50.0,20
-2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,esteban-ocon,Esteban Ocon,force-india,DNF,38,13,1,16,1110.372107,1096.708558,-13.663549,0.210526,0.483797,50.0,20
-2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,25,4,1,17,1289.081635,1261.898163,-27.183472,0.157895,0.701564,50.0,20
-2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,nico-hulkenberg,Nico Hülkenberg,renault,DNF,0,16,1,18,1087.952258,1067.852136,-20.100122,0.052632,0.454634,50.0,20
-2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,pierre-gasly,Pierre Gasly,toro-rosso,DNF,0,12,1,19,1004.132387,989.375593,-14.756793,0.052632,0.347767,50.0,20
-2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,romain-grosjean,Romain Grosjean,haas,DNF,0,10,1,20,1021.814545,1005.957678,-15.856867,0.052632,0.369769,50.0,20
+2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,lewis-hamilton,Lewis Hamilton,mercedes,1,66,1,0,1,1761.036274,1766.878884,5.84261,1.0,0.883148,50.0,17
+2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,valtteri-bottas,Valtteri Bottas,mercedes,2,66,2,0,2,1488.680352,1498.725537,10.045185,0.9375,0.736596,50.0,17
+2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,max-verstappen,Max Verstappen,red-bull,3,66,5,0,3,1352.543727,1364.308915,11.765187,0.875,0.639696,50.0,17
+2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,sebastian-vettel,Sebastian Vettel,ferrari,4,66,3,0,4,1625.107587,1624.819723,-0.287864,0.8125,0.818257,50.0,17
+2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,daniel-ricciardo,Daniel Ricciardo,red-bull,5,66,6,0,5,1531.678879,1530.974252,-0.704627,0.75,0.764093,50.0,17
+2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,kevin-magnussen,Kevin Magnussen,haas,6,65,7,0,6,1033.632394,1049.129085,15.496691,0.6875,0.377566,50.0,17
+2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,carlos-sainz-jr,Carlos Sainz Jr.,renault,7,65,9,0,7,1123.32061,1131.938842,8.618231,0.625,0.452635,50.0,17
+2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,fernando-alonso,Fernando Alonso,mclaren,8,65,8,0,8,1177.539809,1180.748639,3.20883,0.5625,0.498323,50.0,17
+2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,sergio-perez,Sergio Pérez,force-india,9,64,15,0,9,1244.061599,1241.38062,-2.680979,0.5,0.55362,50.0,17
+2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,charles-leclerc,Charles Leclerc,sauber,10,64,14,0,10,994.856339,999.435299,4.57896,0.4375,0.345921,50.0,17
+2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,lance-stroll,Lance Stroll,williams,11,64,18,0,11,1008.870086,1009.756375,0.886289,0.375,0.357274,50.0,17
+2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,brendon-hartley,Brendon Hartley,toro-rosso,12,64,20,0,12,949.047041,949.191271,0.14423,0.3125,0.309615,50.0,17
+2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,marcus-ericsson,Marcus Ericsson,sauber,13,64,17,0,13,862.684234,862.908733,0.224498,0.25,0.24551,50.0,17
+2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,sergey-sirotkin,Sergey Sirotkin,williams,14,63,19,0,14,967.283993,960.463619,-6.820374,0.1875,0.323907,50.0,17
+2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,nico-hulkenberg,Nico Hülkenberg,renault,DNF,0,16,1,15,1156.745678,1135.829171,-20.916507,0.0625,0.48083,50.0,17
+2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,pierre-gasly,Pierre Gasly,toro-rosso,DNF,0,12,1,16,988.441169,974.528228,-13.91294,0.0625,0.340759,50.0,17
+2018,5,2018-05-13,spain,Formula 1 Gran Premio de España Emirates 2018,981,romain-grosjean,Romain Grosjean,haas,DNF,0,10,1,17,1027.174652,1011.68723,-15.487422,0.0625,0.372248,50.0,17

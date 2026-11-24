@@ -1,21 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,juan-pablo-montoya,Juan Pablo Montoya,williams,1,67,1,0,1,1225.423993,1241.000724,15.576732,1.0,0.688465,50.0,20
-2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,david-coulthard,David Coulthard,mclaren,2,67,10,0,2,1186.708229,1201.990224,15.281995,0.947368,0.641729,50.0,20
-2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,jarno-trulli,Jarno Trulli,renault,3,67,4,0,3,1052.69494,1074.236443,21.541503,0.894737,0.463907,50.0,20
-2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,fernando-alonso,Fernando Alonso,renault,4,67,8,0,4,1058.105662,1076.646407,18.540745,0.842105,0.47129,50.0,20
-2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,olivier-panis,Olivier Panis,toyota,5,66,7,0,5,995.604029,1015.734033,20.130005,0.789474,0.386874,50.0,20
-2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,cristiano-da-matta,Cristiano da Matta,toyota,6,66,9,0,6,1036.521505,1051.269622,14.748117,0.736842,0.44188,50.0,20
-2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,michael-schumacher,Michael Schumacher,ferrari,7,66,6,0,7,1434.867218,1425.081239,-9.78598,0.684211,0.87993,50.0,20
-2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,jenson-button,Jenson Button,bar,8,66,17,0,8,1065.850986,1073.336746,7.48576,0.631579,0.481864,50.0,20
-2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,jacques-villeneuve,Jacques Villeneuve,bar,9,65,13,0,9,1003.972989,1013.020279,9.04729,0.578947,0.398002,50.0,20
-2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,nick-heidfeld,Nick Heidfeld,sauber,10,65,15,0,10,1045.160256,1048.794321,3.634065,0.526316,0.453634,50.0,20
-2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,mark-webber,Mark Webber,jaguar,11,64,11,0,11,1018.849109,1021.635562,2.786453,0.473684,0.417955,50.0,20
-2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,nicolas-kiesa,Nicolas Kiesa,minardi,12,62,20,0,12,1000.0,1001.417176,1.417176,0.421053,0.392709,50.0,20
-2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,giancarlo-fisichella,Giancarlo Fisichella,jordan,13,60,12,0,13,990.112819,989.553053,-0.559766,0.368421,0.379616,50.0,20
-2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,jos-verstappen,Jos Verstappen,minardi,DNF,23,19,1,14,969.736675,967.873994,-1.86268,0.315789,0.353043,50.0,20
-2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,justin-wilson,Justin Wilson,jaguar,DNF,6,16,1,15,955.799441,952.195342,-3.604099,0.263158,0.33524,50.0,20
-2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,DNF,1,14,1,16,989.245719,979.532553,-9.713166,0.184211,0.378474,50.0,20
-2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,ralf-schumacher,Ralf Schumacher,williams,DNF,1,2,1,17,1252.825161,1226.054519,-26.770642,0.184211,0.719623,50.0,20
-2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,0,5,1,18,1159.555786,1131.822091,-27.733695,0.052632,0.607305,50.0,20
-2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,ralph-firman,Ralph Firman,jordan,DNF,0,18,1,19,977.81776,962.273834,-15.543926,0.052632,0.36351,50.0,20
-2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,rubens-barrichello,Rubens Barrichello,ferrari,DNF,0,3,1,20,1276.317385,1241.701498,-34.615887,0.052632,0.744949,50.0,20
+2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,juan-pablo-montoya,Juan Pablo Montoya,williams,1,67,1,0,1,1307.445972,1325.367826,17.921854,1.0,0.641563,50.0,18
+2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,david-coulthard,David Coulthard,mclaren,2,67,10,0,2,1378.581661,1390.675249,12.093588,0.941176,0.699305,50.0,18
+2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,jarno-trulli,Jarno Trulli,renault,3,67,4,0,3,1083.845223,1105.924433,22.079209,0.882353,0.440769,50.0,18
+2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,fernando-alonso,Fernando Alonso,renault,4,67,8,0,4,1093.120892,1111.834425,18.713533,0.823529,0.449259,50.0,18
+2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,olivier-panis,Olivier Panis,toyota,5,66,7,0,5,1022.406107,1041.379481,18.973374,0.764706,0.385238,50.0,18
+2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,cristiano-da-matta,Cristiano da Matta,toyota,6,66,9,0,6,995.846265,1013.05012,17.203856,0.705882,0.361805,50.0,18
+2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,michael-schumacher,Michael Schumacher,ferrari,7,66,6,0,7,1641.596738,1630.657061,-10.939677,0.647059,0.865852,50.0,18
+2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,jenson-button,Jenson Button,bar,8,66,17,0,8,1074.700418,1082.491272,7.790854,0.588235,0.432418,50.0,18
+2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,jacques-villeneuve,Jacques Villeneuve,bar,9,65,13,0,9,1123.142612,1125.771941,2.629329,0.529412,0.476825,50.0,18
+2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,nick-heidfeld,Nick Heidfeld,sauber,10,65,15,0,10,1020.703528,1025.046756,4.343228,0.470588,0.383724,50.0,18
+2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,mark-webber,Mark Webber,jaguar,11,64,11,0,11,1012.27725,1014.052919,1.775668,0.411765,0.376251,50.0,18
+2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,nicolas-kiesa,Nicolas Kiesa,minardi,12,62,20,0,12,1000.0,999.375019,-0.624981,0.352941,0.365441,50.0,18
+2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,giancarlo-fisichella,Giancarlo Fisichella,jordan,13,60,12,0,13,1055.973026,1049.909144,-6.063882,0.294118,0.415395,50.0,18
+2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,DNF,1,14,1,14,1048.919061,1038.762378,-10.156682,0.205882,0.409016,50.0,18
+2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,ralf-schumacher,Ralf Schumacher,williams,DNF,1,2,1,15,1330.846311,1308.087602,-22.75871,0.205882,0.661057,50.0,18
+2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,0,5,1,16,1254.974101,1228.098743,-26.875359,0.058824,0.596331,50.0,18
+2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,ralph-firman,Ralph Firman,jordan,DNF,0,18,1,17,957.407458,943.910777,-13.496681,0.058824,0.328757,50.0,18
+2003,12,2003-08-03,germany,Grosser Mobil 1 Preis von Deutschland 2003,709,rubens-barrichello,Rubens Barrichello,ferrari,DNF,0,3,1,18,1393.747208,1361.138686,-32.608522,0.058824,0.710994,50.0,18

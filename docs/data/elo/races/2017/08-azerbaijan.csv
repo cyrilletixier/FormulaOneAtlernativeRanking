@@ -1,21 +1,17 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,daniel-ricciardo,Daniel Ricciardo,red-bull,1,51,10,0,1,1336.343453,1349.071377,12.727924,1.0,0.745442,50.0,20
-2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,valtteri-bottas,Valtteri Bottas,mercedes,2,51,2,0,2,1247.626991,1262.550342,14.923351,0.947368,0.648901,50.0,20
-2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,lance-stroll,Lance Stroll,williams,3,51,8,0,3,985.783669,1014.471131,28.687462,0.894737,0.320988,50.0,20
-2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,sebastian-vettel,Sebastian Vettel,ferrari,4,51,4,0,4,1405.330173,1406.97235,1.642177,0.842105,0.809262,50.0,20
-2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,lewis-hamilton,Lewis Hamilton,mercedes,5,51,1,0,5,1501.820617,1497.256542,-4.564075,0.789474,0.880755,50.0,20
-2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,esteban-ocon,Esteban Ocon,force-india,6,51,7,0,6,1059.753882,1075.970152,16.216271,0.736842,0.412517,50.0,20
-2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,kevin-magnussen,Kevin Magnussen,haas,7,51,12,0,7,1020.739581,1036.778859,16.039278,0.684211,0.363425,50.0,20
-2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,8,51,15,0,8,1097.333621,1105.873229,8.539607,0.631579,0.460787,50.0,20
-2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,fernando-alonso,Fernando Alonso,mclaren,9,51,19,0,9,1065.513845,1073.467614,7.953769,0.578947,0.419872,50.0,20
-2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,pascal-wehrlein,Pascal Wehrlein,sauber,10,51,14,0,10,945.572787,958.153502,12.580716,0.526316,0.274701,50.0,20
-2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,marcus-ericsson,Marcus Ericsson,sauber,11,51,17,0,11,966.026883,974.817818,8.790936,0.473684,0.297865,50.0,20
-2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,stoffel-vandoorne,Stoffel Vandoorne,mclaren,12,51,18,0,12,968.892054,974.885928,5.993874,0.421053,0.301175,50.0,20
-2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,romain-grosjean,Romain Grosjean,haas,13,50,16,0,13,1049.591382,1048.032633,-1.558749,0.368421,0.399596,50.0,20
-2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,kimi-raikkonen,Kimi Räikkönen,ferrari,14,46,3,0,14,1274.765787,1256.555378,-18.210409,0.315789,0.679998,50.0,20
-2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,sergio-perez,Sergio Pérez,force-india,DNF,39,6,1,15,1253.02499,1233.423594,-19.601397,0.263158,0.655186,50.0,20
-2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,felipe-massa,Felipe Massa,williams,DNF,25,9,1,16,1126.780117,1112.366978,-14.413139,0.210526,0.498789,50.0,20
-2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,nico-hulkenberg,Nico Hülkenberg,renault,DNF,24,13,1,17,1141.07369,1123.10972,-17.96397,0.157895,0.517174,50.0,20
-2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,max-verstappen,Max Verstappen,red-bull,DNF,12,5,1,18,1213.102965,1187.983248,-25.119717,0.105263,0.607658,50.0,20
-2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,daniil-kvyat,Daniil Kvyat,toro-rosso,DNF,9,11,1,19,1043.507313,1026.543874,-16.96344,0.052632,0.3919,50.0,20
-2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,jolyon-palmer,Jolyon Palmer,renault,DNF,7,20,1,20,979.88252,964.182052,-15.700468,0.0,0.314009,50.0,20
+2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,daniel-ricciardo,Daniel Ricciardo,red-bull,1,51,10,0,1,1499.179362,1512.391346,13.211984,1.0,0.73576,50.0,16
+2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,valtteri-bottas,Valtteri Bottas,mercedes,2,51,2,0,2,1382.70647,1396.780966,14.074496,0.933333,0.651843,50.0,16
+2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,lance-stroll,Lance Stroll,williams,3,51,8,0,3,974.787491,1002.240284,27.452793,0.866667,0.317611,50.0,16
+2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,sebastian-vettel,Sebastian Vettel,ferrari,4,51,4,0,4,1615.04416,1614.649268,-0.394892,0.8,0.807898,50.0,16
+2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,lewis-hamilton,Lewis Hamilton,mercedes,5,51,1,0,5,1752.528783,1745.328139,-7.200644,0.733333,0.877346,50.0,16
+2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,esteban-ocon,Esteban Ocon,force-india,6,51,7,0,6,1011.287077,1027.29407,16.006994,0.666667,0.346527,50.0,16
+2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,kevin-magnussen,Kevin Magnussen,haas,7,51,12,0,7,1028.873087,1040.836415,11.963328,0.6,0.360733,50.0,16
+2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,8,51,15,0,8,1108.837183,1114.156584,5.319401,0.533333,0.426945,50.0,16
+2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,fernando-alonso,Fernando Alonso,mclaren,9,51,19,0,9,1182.288455,1181.177733,-1.110723,0.466667,0.488881,50.0,16
+2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,pascal-wehrlein,Pascal Wehrlein,sauber,10,51,14,0,10,889.342482,896.656215,7.313734,0.4,0.253725,50.0,16
+2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,marcus-ericsson,Marcus Ericsson,sauber,11,51,17,0,11,897.804678,901.482469,3.677791,0.333333,0.259778,50.0,16
+2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,stoffel-vandoorne,Stoffel Vandoorne,mclaren,12,51,18,0,12,952.632147,950.940953,-1.691193,0.266667,0.300491,50.0,16
+2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,romain-grosjean,Romain Grosjean,haas,13,50,16,0,13,1089.264048,1078.736467,-10.527582,0.2,0.410552,50.0,16
+2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,kimi-raikkonen,Kimi Räikkönen,ferrari,14,46,3,0,14,1417.052023,1389.835922,-27.216102,0.133333,0.677655,50.0,16
+2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,sergio-perez,Sergio Pérez,force-india,DNF,39,6,1,15,1300.74191,1274.712576,-26.029335,0.066667,0.587253,50.0,16
+2017,8,2017-06-25,azerbaijan,Formula 1 FlyEmirates Azerbaijan Grand Prix 2017,964,nico-hulkenberg,Nico Hülkenberg,renault,DNF,24,13,1,16,1191.920885,1167.070834,-24.85005,0.0,0.497001,50.0,16

@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,1,71,1,0,1,1318.741427,1334.097037,15.35561,1.0,0.692888,50.0,20
-2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,lando-norris,Lando Norris,mclaren,2,71,3,0,2,1393.009272,1402.025477,9.016205,0.947368,0.767044,50.0,20
-2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,charles-leclerc,Charles Leclerc,ferrari,3,71,4,0,3,1370.871021,1378.308619,7.437598,0.894737,0.745985,50.0,20
-2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,lewis-hamilton,Lewis Hamilton,mercedes,4,71,6,0,4,1314.651331,1322.330171,7.67884,0.842105,0.688528,50.0,20
-2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,george-russell,George Russell,mercedes,5,71,5,0,5,1276.790499,1283.914824,7.124325,0.789474,0.646987,50.0,20
-2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,max-verstappen,Max Verstappen,red-bull,6,71,2,0,6,1548.758915,1541.248043,-7.510872,0.736842,0.88706,50.0,20
-2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,kevin-magnussen,Kevin Magnussen,haas,7,71,7,0,7,975.59023,995.326955,19.736725,0.684211,0.289476,50.0,20
-2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,oscar-piastri,Oscar Piastri,mclaren,8,71,17,0,8,1337.604119,1333.551003,-4.053116,0.631579,0.712641,50.0,20
-2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,nico-hulkenberg,Nico Hülkenberg,haas,9,70,10,0,9,1079.411138,1087.845615,8.434478,0.578947,0.410258,50.0,20
-2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,pierre-gasly,Pierre Gasly,alpine,10,70,8,0,10,1049.443758,1057.048754,7.604996,0.526316,0.374216,50.0,20
-2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,lance-stroll,Lance Stroll,aston-martin,11,70,14,0,11,1058.87339,1063.283405,4.410016,0.473684,0.385484,50.0,20
-2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,franco-colapinto,Franco Colapinto,williams,12,70,16,0,12,1036.958585,1040.040125,3.081539,0.421053,0.359422,50.0,20
-2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,esteban-ocon,Esteban Ocon,alpine,13,70,PL,0,13,1036.802617,1037.261769,0.459152,0.368421,0.359238,50.0,20
-2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,valtteri-bottas,Valtteri Bottas,kick-sauber,14,70,15,0,14,938.390889,941.679573,3.288684,0.315789,0.250016,50.0,20
-2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,guanyu-zhou,Guanyu Zhou,kick-sauber,15,70,19,0,15,917.29553,919.011302,1.715772,0.263158,0.228842,50.0,20
-2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,liam-lawson,Liam Lawson,rb,16,70,12,0,16,1030.797493,1023.714805,-7.082687,0.210526,0.35218,50.0,20
-2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,sergio-perez,Sergio Pérez,red-bull,17,70,18,0,17,1258.749345,1235.318803,-23.430542,0.157895,0.626506,50.0,20
-2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,fernando-alonso,Fernando Alonso,aston-martin,DNF,15,13,1,18,1193.893442,1171.655027,-22.238416,0.105263,0.550031,50.0,20
-2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,alexander-albon,Alexander Albon,williams,DNF,0,9,1,19,1025.82583,1009.823267,-16.002563,0.026316,0.346367,50.0,20
-2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,yuki-tsunoda,Yuki Tsunoda,rb,DNF,0,11,1,20,1008.925308,993.899565,-15.025743,0.026316,0.326831,50.0,20
+2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,1,71,1,0,1,1461.896591,1477.77564,15.87905,1.0,0.682419,50.0,19
+2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,lando-norris,Lando Norris,mclaren,2,71,3,0,2,1529.260549,1540.014465,10.753916,0.944444,0.729366,50.0,19
+2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,charles-leclerc,Charles Leclerc,ferrari,3,71,4,0,3,1569.31416,1575.979458,6.665298,0.888889,0.755583,50.0,19
+2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,lewis-hamilton,Lewis Hamilton,mercedes,4,71,6,0,4,1522.830915,1528.245815,5.4149,0.833333,0.725035,50.0,19
+2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,george-russell,George Russell,mercedes,5,71,5,0,5,1422.48368,1428.699677,6.215998,0.777778,0.653458,50.0,19
+2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,max-verstappen,Max Verstappen,red-bull,6,71,2,0,6,1834.099704,1825.580879,-8.518825,0.722222,0.892599,50.0,19
+2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,kevin-magnussen,Kevin Magnussen,haas,7,71,7,0,7,934.835752,954.812546,19.976793,0.666667,0.267131,50.0,19
+2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,oscar-piastri,Oscar Piastri,mclaren,8,71,17,0,8,1406.324955,1404.815523,-1.509432,0.611111,0.6413,50.0,19
+2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,nico-hulkenberg,Nico Hülkenberg,haas,9,70,10,0,9,1083.752106,1092.47938,8.727274,0.555556,0.38101,50.0,19
+2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,pierre-gasly,Pierre Gasly,alpine,10,70,8,0,10,1110.176269,1115.056416,4.880147,0.5,0.402397,50.0,19
+2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,lance-stroll,Lance Stroll,aston-martin,11,70,14,0,11,1099.035125,1101.589728,2.554604,0.444444,0.393352,50.0,19
+2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,franco-colapinto,Franco Colapinto,williams,12,70,16,0,12,1037.10042,1039.348725,2.248305,0.388889,0.343923,50.0,19
+2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,esteban-ocon,Esteban Ocon,alpine,13,70,PL,0,13,1101.100032,1098.015403,-3.084628,0.333333,0.395026,50.0,19
+2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,valtteri-bottas,Valtteri Bottas,kick-sauber,14,70,15,0,14,988.480096,987.043647,-1.436449,0.277778,0.306507,50.0,19
+2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,guanyu-zhou,Guanyu Zhou,kick-sauber,15,70,19,0,15,901.328623,900.252631,-1.075992,0.222222,0.243742,50.0,19
+2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,liam-lawson,Liam Lawson,rb,16,70,12,0,16,1019.108518,1010.946356,-8.162162,0.166667,0.32991,50.0,19
+2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,sergio-perez,Sergio Pérez,red-bull,17,70,18,0,17,1423.832715,1396.664986,-27.167729,0.111111,0.654466,50.0,19
+2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,alexander-albon,Alexander Albon,williams,DNF,0,9,1,18,1078.783138,1061.321264,-17.461874,0.027778,0.377015,50.0,19
+2024,20,2024-10-27,mexico,Formula 1 Gran Premio de la Ciudad de México 2024,1121,yuki-tsunoda,Yuki Tsunoda,rb,DNF,0,11,1,19,1013.735692,998.836498,-14.899194,0.027778,0.325762,50.0,19

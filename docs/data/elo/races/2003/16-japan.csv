@@ -1,21 +1,17 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,rubens-barrichello,Rubens Barrichello,ferrari,1,53,1,0,1,1185.506197,1203.457839,17.951642,1.0,0.640967,50.0,20
-2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,kimi-raikkonen,Kimi Räikkönen,mclaren,2,53,8,0,2,1179.231896,1194.951466,15.71957,0.947368,0.632977,50.0,20
-2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,david-coulthard,David Coulthard,mclaren,3,53,7,0,3,1173.669872,1187.114917,13.445045,0.894737,0.625836,50.0,20
-2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,jenson-button,Jenson Button,bar,4,53,9,0,4,1044.783486,1064.336526,19.55304,0.842105,0.451044,50.0,20
-2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,jarno-trulli,Jarno Trulli,renault,5,53,19,0,5,1076.58067,1091.30605,14.72538,0.789474,0.494966,50.0,20
-2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,takuma-sato,Takuma Sato,bar,6,53,13,0,6,1023.931208,1039.651169,15.719961,0.736842,0.422443,50.0,20
-2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,cristiano-da-matta,Cristiano da Matta,toyota,7,53,3,0,7,1040.648958,1052.591825,11.942868,0.684211,0.445353,50.0,20
-2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,michael-schumacher,Michael Schumacher,ferrari,8,53,14,0,8,1425.615441,1413.350299,-12.265142,0.631579,0.876882,50.0,20
-2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,nick-heidfeld,Nick Heidfeld,sauber,9,53,11,0,9,1075.81072,1080.062992,4.252272,0.578947,0.493902,50.0,20
-2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,olivier-panis,Olivier Panis,toyota,10,53,4,0,10,984.48383,992.328164,7.844333,0.526316,0.369429,50.0,20
-2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,mark-webber,Mark Webber,jaguar,11,53,6,0,11,1030.092297,1032.233297,2.141,0.473684,0.430864,50.0,20
-2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,ralf-schumacher,Ralf Schumacher,williams,12,52,20,0,12,1202.780434,1190.703885,-12.076549,0.421053,0.662584,50.0,20
-2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,justin-wilson,Justin Wilson,jaguar,13,52,10,0,13,951.008732,953.119447,2.110715,0.368421,0.326207,50.0,20
-2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,ralph-firman,Ralph Firman,jordan,14,51,15,0,14,963.544744,962.226137,-1.318607,0.315789,0.342162,50.0,20
-2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,jos-verstappen,Jos Verstappen,minardi,15,51,17,0,15,972.935837,968.378667,-4.55717,0.263158,0.354301,50.0,20
-2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,nicolas-kiesa,Nicolas Kiesa,minardi,16,50,18,0,16,1005.18327,995.858381,-9.324889,0.210526,0.397024,50.0,20
-2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,33,16,1,17,999.509046,987.933549,-11.575497,0.157895,0.389405,50.0,20
-2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,fernando-alonso,Fernando Alonso,renault,DNF,17,5,1,18,1092.708531,1072.110482,-20.598049,0.105263,0.517224,50.0,20
-2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,DNF,9,12,1,19,1003.670876,985.23719,-18.433686,0.026316,0.39499,50.0,20
-2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,9,2,1,20,1261.655654,1226.399417,-35.256237,0.026316,0.731441,50.0,20
+2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,rubens-barrichello,Rubens Barrichello,ferrari,1,53,1,0,1,1331.875578,1347.300941,15.425363,1.0,0.691493,50.0,16
+2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,kimi-raikkonen,Kimi Räikkönen,mclaren,2,53,8,0,2,1268.442999,1283.098668,14.655669,0.933333,0.64022,50.0,16
+2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,david-coulthard,David Coulthard,mclaren,3,53,7,0,3,1388.85609,1395.471483,6.615393,0.866667,0.734359,50.0,16
+2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,jenson-button,Jenson Button,bar,4,53,9,0,4,1073.507837,1090.136231,16.628394,0.8,0.467432,50.0,16
+2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,jarno-trulli,Jarno Trulli,renault,5,53,19,0,5,1123.447029,1134.469288,11.022259,0.733333,0.512888,50.0,16
+2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,takuma-sato,Takuma Sato,bar,6,53,13,0,6,960.130118,975.176849,15.046731,0.666667,0.365732,50.0,16
+2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,cristiano-da-matta,Cristiano da Matta,toyota,7,53,3,0,7,1006.248358,1015.921067,9.672709,0.6,0.406546,50.0,16
+2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,michael-schumacher,Michael Schumacher,ferrari,8,53,14,0,8,1621.797432,1604.800766,-16.996666,0.533333,0.873267,50.0,16
+2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,nick-heidfeld,Nick Heidfeld,sauber,9,53,11,0,9,1035.462565,1037.152766,1.690201,0.466667,0.432863,50.0,16
+2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,olivier-panis,Olivier Panis,toyota,10,53,4,0,10,1029.519957,1028.145546,-1.374411,0.4,0.427488,50.0,16
+2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,mark-webber,Mark Webber,jaguar,11,53,6,0,11,1013.571882,1009.582732,-3.98915,0.333333,0.413116,50.0,16
+2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,ralf-schumacher,Ralf Schumacher,williams,12,52,20,0,12,1285.002584,1265.639198,-19.363386,0.266667,0.653934,50.0,16
+2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,justin-wilson,Justin Wilson,jaguar,13,52,10,0,13,929.896182,922.913422,-6.98276,0.2,0.339655,50.0,16
+2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,ralph-firman,Ralph Firman,jordan,14,51,15,0,14,939.71732,928.981149,-10.736171,0.133333,0.348057,50.0,16
+2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,jos-verstappen,Jos Verstappen,minardi,15,51,17,0,15,909.146159,896.37216,-12.773999,0.066667,0.322147,50.0,16
+2003,16,2003-10-12,japan,2003 Fuji Television Japanese Grand Prix,713,nicolas-kiesa,Nicolas Kiesa,minardi,16,50,18,0,16,965.93115,947.390974,-18.540176,0.0,0.370804,50.0,16

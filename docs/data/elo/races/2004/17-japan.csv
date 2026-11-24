@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,michael-schumacher,Michael Schumacher,ferrari,1,53,1,0,1,1446.329733,1452.367723,6.037989,1.0,0.87924,50.0,20
-2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,ralf-schumacher,Ralf Schumacher,williams,2,53,2,0,2,1092.695732,1115.027795,22.332062,0.947368,0.500727,50.0,20
-2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,jenson-button,Jenson Button,bar,3,53,5,0,3,1224.978759,1236.089954,11.111195,0.894737,0.672513,50.0,20
-2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,takuma-sato,Takuma Sato,bar,4,53,4,0,4,1072.47222,1090.914867,18.442648,0.842105,0.473252,50.0,20
-2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,fernando-alonso,Fernando Alonso,renault,5,53,11,0,5,1143.225086,1154.262679,11.037593,0.789474,0.568722,50.0,20
-2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,kimi-raikkonen,Kimi Räikkönen,mclaren,6,53,12,0,6,1102.379217,1113.528171,11.148955,0.736842,0.513863,50.0,20
-2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,juan-pablo-montoya,Juan Pablo Montoya,williams,7,53,13,0,7,1196.344007,1198.684764,2.340757,0.684211,0.637395,50.0,20
-2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,giancarlo-fisichella,Giancarlo Fisichella,sauber,8,53,7,0,8,1109.424299,1114.833276,5.408977,0.631579,0.523399,50.0,20
-2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,felipe-massa,Felipe Massa,sauber,9,53,19,0,9,1053.884371,1060.429205,6.544834,0.578947,0.448051,50.0,20
-2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,jacques-villeneuve,Jacques Villeneuve,renault,10,52,9,0,10,1014.385715,1020.942799,6.557084,0.526316,0.395174,50.0,20
-2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,jarno-trulli,Jarno Trulli,toyota,11,52,6,0,11,1131.912087,1127.913684,-3.998403,0.473684,0.553652,50.0,20
-2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,christian-klien,Christian Klien,jaguar,12,52,14,0,12,986.664768,989.764641,3.099873,0.421053,0.359055,50.0,20
-2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,nick-heidfeld,Nick Heidfeld,jordan,13,52,16,0,13,1006.140295,1005.345101,-0.795194,0.368421,0.384325,50.0,20
-2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,olivier-panis,Olivier Panis,toyota,14,51,10,0,14,981.033996,979.230761,-1.803235,0.315789,0.351854,50.0,20
-2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,timo-glock,Timo Glock,jordan,15,51,17,0,15,1008.20855,1002.014514,-6.194035,0.263158,0.387039,50.0,20
-2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,gianmaria-bruni,Gianmaria Bruni,minardi,16,50,18,0,16,894.728852,892.790761,-1.938091,0.210526,0.249288,50.0,20
-2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,zsolt-baumgartner,Zsolt Baumgartner,minardi,DNF,41,PL,1,17,928.669188,922.180046,-6.489142,0.157895,0.287678,50.0,20
-2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,david-coulthard,David Coulthard,mclaren,DNF,38,8,1,18,1162.643967,1136.877678,-25.766289,0.078947,0.594273,50.0,20
-2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,rubens-barrichello,Rubens Barrichello,ferrari,DNF,38,15,1,19,1328.139903,1292.88383,-35.256073,0.078947,0.784069,50.0,20
-2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,mark-webber,Mark Webber,jaguar,DNF,20,3,1,20,1045.277693,1023.456186,-21.821506,0.0,0.43643,50.0,20
+2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,michael-schumacher,Michael Schumacher,ferrari,1,53,1,0,1,1634.211239,1641.274271,7.063033,1.0,0.858739,50.0,19
+2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,ralf-schumacher,Ralf Schumacher,williams,2,53,2,0,2,1187.395743,1207.934685,20.538942,0.944444,0.533666,50.0,19
+2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,jenson-button,Jenson Button,bar,3,53,5,0,3,1286.872162,1300.286291,13.414129,0.888889,0.620606,50.0,19
+2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,takuma-sato,Takuma Sato,bar,4,53,4,0,4,1051.975355,1073.011475,21.03612,0.833333,0.412611,50.0,19
+2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,fernando-alonso,Fernando Alonso,renault,5,53,11,0,5,1218.784858,1229.59627,10.811412,0.777778,0.56155,50.0,19
+2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,kimi-raikkonen,Kimi Räikkönen,mclaren,6,53,12,0,6,1316.291617,1320.139263,3.847646,0.722222,0.645269,50.0,19
+2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,juan-pablo-montoya,Juan Pablo Montoya,williams,7,53,13,0,7,1315.135947,1316.253673,1.117725,0.666667,0.644312,50.0,19
+2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,giancarlo-fisichella,Giancarlo Fisichella,sauber,8,53,7,0,8,1108.862738,1116.256886,7.394147,0.611111,0.463228,50.0,19
+2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,felipe-massa,Felipe Massa,sauber,9,53,19,0,9,1036.682733,1044.500903,7.818169,0.555556,0.399192,50.0,19
+2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,jacques-villeneuve,Jacques Villeneuve,renault,10,52,9,0,10,1125.650941,1126.736371,1.08543,0.5,0.478291,50.0,19
+2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,jarno-trulli,Jarno Trulli,toyota,11,52,6,0,11,1222.816336,1216.783195,-6.033141,0.444444,0.565107,50.0,19
+2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,christian-klien,Christian Klien,jaguar,12,52,14,0,12,959.742769,962.503673,2.760903,0.388889,0.333671,50.0,19
+2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,nick-heidfeld,Nick Heidfeld,jordan,13,52,16,0,13,985.154074,984.07661,-1.077464,0.333333,0.354883,50.0,19
+2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,olivier-panis,Olivier Panis,toyota,14,51,10,0,14,973.407464,970.045451,-3.362014,0.277778,0.345018,50.0,19
+2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,timo-glock,Timo Glock,jordan,15,51,17,0,15,998.726989,991.518149,-7.208841,0.222222,0.366399,50.0,19
+2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,gianmaria-bruni,Gianmaria Bruni,minardi,16,50,18,0,16,864.251178,859.637497,-4.613681,0.166667,0.25894,50.0,19
+2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,zsolt-baumgartner,Zsolt Baumgartner,minardi,DNF,41,PL,1,17,883.331988,875.229197,-8.102791,0.111111,0.273167,50.0,19
+2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,david-coulthard,David Coulthard,mclaren,DNF,38,8,1,18,1301.133865,1270.890865,-30.243,0.027778,0.632638,50.0,19
+2004,17,2004-10-10,japan,2004 Formula 1 Fuji Television Japanese Grand Prix,730,rubens-barrichello,Rubens Barrichello,ferrari,DNF,38,15,1,19,1456.581424,1420.334699,-36.246725,0.027778,0.752712,50.0,19

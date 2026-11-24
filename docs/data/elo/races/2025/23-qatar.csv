@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,max-verstappen,Max Verstappen,red-bull,1,57,3,0,1,1516.653049,1523.083908,6.430859,1.0,0.871383,50.0,20
-2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,oscar-piastri,Oscar Piastri,mclaren,2,57,1,0,2,1379.605851,1388.893303,9.287452,0.947368,0.761619,50.0,20
-2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,carlos-sainz-jr,Carlos Sainz Jr.,williams,3,57,7,0,3,1134.505599,1155.201486,20.695887,0.894737,0.480819,50.0,20
-2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,lando-norris,Lando Norris,mclaren,4,57,2,0,4,1416.224451,1418.590653,2.366202,0.842105,0.794781,50.0,20
-2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,kimi-antonelli,Kimi Antonelli,mercedes,5,57,5,0,5,1152.633077,1166.913033,14.279956,0.789474,0.503875,50.0,20
-2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,george-russell,George Russell,mercedes,6,57,4,0,6,1403.379731,1401.04867,-2.331061,0.736842,0.783463,50.0,20
-2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,fernando-alonso,Fernando Alonso,aston-martin,7,57,8,0,7,1099.149243,1111.572454,12.423211,0.684211,0.435746,50.0,20
-2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,charles-leclerc,Charles Leclerc,ferrari,8,57,10,0,8,1337.168004,1332.756519,-4.411485,0.631579,0.719809,50.0,20
-2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,liam-lawson,Liam Lawson,racing-bulls,9,57,12,0,9,1053.622102,1063.651555,10.029453,0.578947,0.378358,50.0,20
-2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,yuki-tsunoda,Yuki Tsunoda,red-bull,10,57,15,0,10,1058.946371,1066.012505,7.066135,0.526316,0.384993,50.0,20
-2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,alexander-albon,Alexander Albon,williams,11,57,14,0,11,1080.068253,1083.175495,3.107241,0.473684,0.411539,50.0,20
-2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,lewis-hamilton,Lewis Hamilton,ferrari,12,57,17,0,12,1255.554288,1245.102359,-10.451928,0.421053,0.630091,50.0,20
-2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,13,57,19,0,13,989.45305,992.817562,3.364512,0.368421,0.301131,50.0,20
-2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,franco-colapinto,Franco Colapinto,alpine,14,56,PL,0,14,942.121554,945.476637,3.355082,0.315789,0.248688,50.0,20
-2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,esteban-ocon,Esteban Ocon,haas,15,56,16,0,15,1051.761204,1046.116816,-5.644388,0.263158,0.376046,50.0,20
-2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,pierre-gasly,Pierre Gasly,alpine,16,56,9,0,16,1007.345764,1001.768989,-5.576775,0.210526,0.322062,50.0,20
-2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,lance-stroll,Lance Stroll,aston-martin,17,55,18,0,17,1002.397803,994.481536,-7.916267,0.157895,0.31622,50.0,20
-2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,isack-hadjar,Isack Hadjar,racing-bulls,18,55,6,0,18,1097.354007,1080.944037,-16.409969,0.105263,0.433463,50.0,20
-2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,oliver-bearman,Oliver Bearman,haas,DNF,41,13,1,19,1112.353933,1092.357061,-19.996872,0.052632,0.452569,50.0,20
-2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,nico-hulkenberg,Nico Hülkenberg,kick-sauber,DNF,6,11,1,20,1065.620322,1045.953078,-19.667244,0.0,0.393345,50.0,20
+2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,max-verstappen,Max Verstappen,red-bull,1,57,3,0,1,1782.887681,1789.129277,6.241596,1.0,0.875168,50.0,19
+2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,oscar-piastri,Oscar Piastri,mclaren,2,57,1,0,2,1519.457441,1530.320172,10.862731,0.944444,0.72719,50.0,19
+2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,carlos-sainz-jr,Carlos Sainz Jr.,williams,3,57,7,0,3,1238.730336,1257.754309,19.023973,0.888889,0.508409,50.0,19
+2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,lando-norris,Lando Norris,mclaren,4,57,2,0,4,1589.881889,1592.894261,3.012371,0.833333,0.773086,50.0,19
+2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,kimi-antonelli,Kimi Antonelli,mercedes,5,57,5,0,5,1187.708748,1203.340618,15.63187,0.777778,0.46514,50.0,19
+2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,george-russell,George Russell,mercedes,6,57,4,0,6,1563.301432,1561.598356,-1.703076,0.722222,0.756284,50.0,19
+2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,fernando-alonso,Fernando Alonso,aston-martin,7,57,8,0,7,1237.185743,1245.163867,7.978124,0.666667,0.507104,50.0,19
+2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,charles-leclerc,Charles Leclerc,ferrari,8,57,10,0,8,1522.255449,1516.356178,-5.899271,0.611111,0.729097,50.0,19
+2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,liam-lawson,Liam Lawson,racing-bulls,9,57,12,0,9,1057.291089,1067.274358,9.983269,0.555556,0.35589,50.0,19
+2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,yuki-tsunoda,Yuki Tsunoda,red-bull,10,57,15,0,10,1058.077369,1065.250838,7.173469,0.5,0.356531,50.0,19
+2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,alexander-albon,Alexander Albon,williams,11,57,14,0,11,1140.003407,1140.991066,0.987658,0.444444,0.424691,50.0,19
+2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,lewis-hamilton,Lewis Hamilton,ferrari,12,57,17,0,12,1417.907193,1404.666271,-13.240922,0.388889,0.653707,50.0,19
+2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,13,57,19,0,13,980.466033,982.373079,1.907047,0.333333,0.295192,50.0,19
+2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,franco-colapinto,Franco Colapinto,alpine,14,56,PL,0,14,926.973494,928.07985,1.106356,0.277778,0.255651,50.0,19
+2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,esteban-ocon,Esteban Ocon,haas,15,56,16,0,15,1088.30255,1080.344674,-7.957876,0.222222,0.38138,50.0,19
+2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,pierre-gasly,Pierre Gasly,alpine,16,56,9,0,16,1037.460419,1028.801143,-8.659276,0.166667,0.339852,50.0,19
+2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,lance-stroll,Lance Stroll,aston-martin,17,55,18,0,17,1006.083022,995.889713,-10.193308,0.111111,0.314977,50.0,19
+2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,isack-hadjar,Isack Hadjar,racing-bulls,18,55,6,0,18,1102.093075,1085.228424,-16.864651,0.055556,0.392849,50.0,19
+2025,23,2025-11-30,qatar,Formula 1 Qatar Airways Qatar Grand Prix 2025,1148,nico-hulkenberg,Nico Hülkenberg,kick-sauber,DNF,6,11,1,19,1096.035204,1076.645121,-19.390083,0.0,0.387802,50.0,19

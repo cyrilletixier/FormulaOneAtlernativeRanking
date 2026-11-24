@@ -1,23 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,bruce-mclaren,Bruce McLaren,cooper,1,100,3,0,1,1150.932765,1168.402984,17.470218,1.0,0.650596,50.0,22
-1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,phil-hill,Phil Hill,ferrari,2,100,9,0,2,1223.763305,1234.277582,10.514277,0.952381,0.742095,50.0,22
-1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,lorenzo-bandini,Lorenzo Bandini,ferrari,3,100,10,0,3,1013.418894,1036.003875,22.584981,0.904762,0.453062,50.0,22
-1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,john-surtees,John Surtees,lola,4,99,11,0,4,969.908211,993.24158,23.333369,0.857143,0.390475,50.0,22
-1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,jo-bonnier,Jo Bonnier,porsche,5,93,15,0,5,1060.662533,1075.018903,14.35637,0.809524,0.522396,50.0,22
-1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,graham-hill,Graham Hill,brm,6,92,2,0,6,1013.026794,1028.497538,15.470744,0.761905,0.45249,50.0,22
-1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,willy-mairesse,Willy Mairesse,ferrari,7,90,4,0,7,995.753077,1010.097548,14.344471,0.714286,0.427396,50.0,22
-1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,jack-brabham,Jack Brabham,lotus,8,77,6,0,8,1045.425955,1053.7585,8.332545,0.666667,0.500016,50.0,22
-1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,innes-ireland,Innes Ireland,lotus,DNF,64,8,1,9,1053.943123,1059.268859,5.325737,0.619048,0.512533,50.0,22
-1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,jim-clark,Jim Clark,lotus,DNF,55,1,1,10,1075.391881,1076.765975,1.374094,0.571429,0.543947,50.0,22
-1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,roy-salvadori,Roy Salvadori,lola,DNF,44,12,1,11,1039.602825,1041.220545,1.61772,0.52381,0.491455,50.0,22
-1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,tony-maggs,Tony Maggs,cooper,DNF,43,16,1,12,1030.897251,1030.773586,-0.123665,0.47619,0.478664,50.0,22
-1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,trevor-taylor,Trevor Taylor,lotus,DNF,24,14,1,13,999.97899,999.732047,-0.246943,0.428571,0.43351,50.0,22
-1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,dan-gurney,Dan Gurney,porsche,DNF,0,5,1,14,1106.718596,1093.926386,-12.792211,0.333333,0.589178,50.0,22
-1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,maurice-trintignant,Maurice Trintignant,lotus,DNF,0,7,1,15,1072.403472,1062.090903,-10.312569,0.333333,0.539585,50.0,22
-1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,richie-ginther,Richie Ginther,brm,DNF,0,13,1,16,1098.624318,1086.411252,-12.213065,0.333333,0.577595,50.0,22
-1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,carel-godin-de-beaufort,Carel Godin de Beaufort,porsche,DNQ,,,2,17,1030.89494,1014.104779,-16.790162,0.142857,0.47866,50.0,22
-1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,jackie-lewis,Jackie Lewis,brm,DNQ,,,2,18,1023.018719,1006.80629,-16.212429,0.142857,0.467106,50.0,22
-1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,jo-siffert,Jo Siffert,lotus,DNQ,,,2,19,1000.0,985.465821,-14.534179,0.142857,0.433541,50.0,22
-1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,masten-gregory,Masten Gregory,lotus,DNQ,,,2,20,1003.570126,988.777004,-14.793122,0.142857,0.43872,50.0,22
-1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,nino-vaccarella,Nino Vaccarella,lotus,DNQ,,,2,21,1001.251786,986.626882,-14.624904,0.142857,0.435355,50.0,22
-1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,ricardo-rodriguez,Ricardo Rodríguez,ferrari,DNS,,,2,22,1005.569953,983.488674,-22.081279,0.0,0.441626,50.0,22
+1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,bruce-mclaren,Bruce McLaren,cooper,1,100,3,0,1,1203.434695,1220.931592,17.496897,1.0,0.650062,50.0,17
+1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,phil-hill,Phil Hill,ferrari,2,100,9,0,2,1213.695202,1227.598734,13.903532,0.9375,0.659429,50.0,17
+1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,lorenzo-bandini,Lorenzo Bandini,ferrari,3,100,10,0,3,1004.160304,1025.12915,20.968846,0.875,0.455623,50.0,17
+1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,john-surtees,John Surtees,lola,4,99,11,0,4,993.623568,1011.988667,18.365099,0.8125,0.445198,50.0,17
+1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,jo-bonnier,Jo Bonnier,porsche,5,93,15,0,5,1047.633806,1060.189131,12.555325,0.75,0.498893,50.0,17
+1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,graham-hill,Graham Hill,brm,6,92,2,0,6,1014.17143,1025.268506,11.097076,0.6875,0.465558,50.0,17
+1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,willy-mairesse,Willy Mairesse,ferrari,7,90,4,0,7,1002.031995,1010.606273,8.574278,0.625,0.453514,50.0,17
+1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,jack-brabham,Jack Brabham,lotus,8,77,6,0,8,1145.745538,1144.087093,-1.658445,0.5625,0.595669,50.0,17
+1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,dan-gurney,Dan Gurney,porsche,DNF,0,5,1,9,1138.539048,1130.979046,-7.560002,0.4375,0.5887,50.0,17
+1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,maurice-trintignant,Maurice Trintignant,lotus,DNF,0,7,1,10,1070.653933,1066.436958,-4.216975,0.4375,0.52184,50.0,17
+1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,richie-ginther,Richie Ginther,brm,DNF,0,13,1,11,1067.467891,1063.409545,-4.058346,0.4375,0.518667,50.0,17
+1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,carel-godin-de-beaufort,Carel Godin de Beaufort,porsche,DNQ,,,2,12,946.744219,936.148588,-10.595631,0.1875,0.399413,50.0,17
+1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,jackie-lewis,Jackie Lewis,brm,DNQ,,,2,13,1029.384699,1014.724808,-14.659891,0.1875,0.480698,50.0,17
+1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,jo-siffert,Jo Siffert,lotus,DNQ,,,2,14,1000.0,986.799874,-13.200126,0.1875,0.451503,50.0,17
+1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,masten-gregory,Masten Gregory,lotus,DNQ,,,2,15,963.595162,952.183364,-11.411799,0.1875,0.415736,50.0,17
+1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,nino-vaccarella,Nino Vaccarella,lotus,DNQ,,,2,16,1000.0,986.799874,-13.200126,0.1875,0.451503,50.0,17
+1962,2,1962-06-03,monaco,Grand Prix de Monaco 1962,104,ricardo-rodriguez,Ricardo Rodríguez,ferrari,DNS,,,2,17,996.453438,974.053726,-22.399712,0.0,0.447994,50.0,17

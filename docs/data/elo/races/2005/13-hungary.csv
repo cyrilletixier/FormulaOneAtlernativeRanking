@@ -1,21 +1,17 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,kimi-raikkonen,Kimi Räikkönen,mclaren,1,70,4,0,1,1179.313157,1199.405598,20.092441,1.0,0.598151,50.0,20
-2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,michael-schumacher,Michael Schumacher,ferrari,2,70,1,0,2,1347.738797,1355.303556,7.56476,0.947368,0.796073,50.0,20
-2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,ralf-schumacher,Ralf Schumacher,toyota,3,70,5,0,3,1168.614988,1184.165499,15.550511,0.894737,0.583727,50.0,20
-2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,jarno-trulli,Jarno Trulli,toyota,4,70,3,0,4,1156.407622,1170.157289,13.749667,0.842105,0.567112,50.0,20
-2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,jenson-button,Jenson Button,bar,5,70,8,0,5,1154.296671,1165.559151,11.262479,0.789474,0.564224,50.0,20
-2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,nick-heidfeld,Nick Heidfeld,williams,6,70,12,0,6,1056.316752,1071.729776,15.413024,0.736842,0.428582,50.0,20
-2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,mark-webber,Mark Webber,williams,7,69,16,0,7,1053.104655,1066.10612,13.001465,0.684211,0.424181,50.0,20
-2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,takuma-sato,Takuma Sato,bar,8,69,10,0,8,1038.337682,1049.712646,11.374964,0.631579,0.40408,50.0,20
-2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,giancarlo-fisichella,Giancarlo Fisichella,renault,9,69,9,0,9,1126.044695,1128.729118,2.684422,0.578947,0.525259,50.0,20
-2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,rubens-barrichello,Rubens Barrichello,ferrari,10,69,7,0,10,1256.437739,1247.91734,-8.520399,0.526316,0.696724,50.0,20
-2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,fernando-alonso,Fernando Alonso,renault,11,69,6,0,11,1270.803467,1258.800089,-12.003378,0.473684,0.713752,50.0,20
-2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,narain-karthikeyan,Narain Karthikeyan,jordan,12,67,18,0,12,953.802451,960.088456,6.286005,0.421053,0.295333,50.0,20
-2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,tiago-monteiro,Tiago Monteiro,jordan,13,66,20,0,13,1005.888988,1006.266871,0.377882,0.368421,0.360863,50.0,20
-2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,felipe-massa,Felipe Massa,sauber,14,63,14,0,14,1082.194927,1074.769292,-7.425635,0.315789,0.464302,50.0,20
-2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,christijan-albers,Christijan Albers,minardi,NC,59,17,1,15,973.07533,970.286493,-2.788838,0.263158,0.318935,50.0,20
-2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,jacques-villeneuve,Jacques Villeneuve,sauber,DNF,56,15,1,16,1034.691583,1025.260249,-9.431334,0.210526,0.399153,50.0,20
-2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,juan-pablo-montoya,Juan Pablo Montoya,mclaren,DNF,41,2,1,17,1203.594011,1179.973039,-23.620972,0.157895,0.630314,50.0,20
-2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,robert-doornbos,Robert Doornbos,minardi,DNF,26,19,1,18,987.61388,976.014059,-11.599822,0.105263,0.33726,50.0,20
-2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,christian-klien,Christian Klien,red-bull,DNF,0,11,1,19,999.050913,982.768611,-16.282303,0.026316,0.351962,50.0,20
-2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,david-coulthard,David Coulthard,red-bull,DNF,0,13,1,20,1136.701023,1111.016081,-25.684942,0.026316,0.540015,50.0,20
+2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,kimi-raikkonen,Kimi Räikkönen,mclaren,1,70,4,0,1,1380.197283,1395.826488,15.629206,1.0,0.687416,50.0,16
+2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,michael-schumacher,Michael Schumacher,ferrari,2,70,1,0,2,1577.760068,1583.154846,5.394778,0.933333,0.825438,50.0,16
+2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,ralf-schumacher,Ralf Schumacher,toyota,3,70,5,0,3,1230.727824,1246.10298,15.375156,0.866667,0.559164,50.0,16
+2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,jarno-trulli,Jarno Trulli,toyota,4,70,3,0,4,1236.165249,1247.962477,11.797228,0.8,0.564055,50.0,16
+2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,jenson-button,Jenson Button,bar,5,70,8,0,5,1260.947745,1268.304684,7.356939,0.733333,0.586195,50.0,16
+2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,nick-heidfeld,Nick Heidfeld,williams,6,70,12,0,6,1049.015467,1062.641957,13.62649,0.666667,0.394137,50.0,16
+2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,mark-webber,Mark Webber,williams,7,69,16,0,7,1032.351878,1043.382242,11.030365,0.6,0.379393,50.0,16
+2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,takuma-sato,Takuma Sato,bar,8,69,10,0,8,1039.176884,1046.572877,7.395993,0.533333,0.385413,50.0,16
+2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,giancarlo-fisichella,Giancarlo Fisichella,renault,9,69,9,0,9,1168.353641,1166.564249,-1.789392,0.466667,0.502455,50.0,16
+2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,rubens-barrichello,Rubens Barrichello,ferrari,10,69,7,0,10,1397.542156,1382.483016,-15.05914,0.4,0.701183,50.0,16
+2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,fernando-alonso,Fernando Alonso,renault,11,69,6,0,11,1384.134688,1366.273072,-17.861616,0.333333,0.690566,50.0,16
+2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,narain-karthikeyan,Narain Karthikeyan,jordan,12,67,18,0,12,972.221047,969.17148,-3.049566,0.266667,0.327658,50.0,16
+2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,tiago-monteiro,Tiago Monteiro,jordan,13,66,20,0,13,958.603149,952.78694,-5.816209,0.2,0.316324,50.0,16
+2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,felipe-massa,Felipe Massa,sauber,14,63,14,0,14,1084.035238,1069.424495,-14.610743,0.133333,0.425548,50.0,16
+2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,christijan-albers,Christijan Albers,minardi,NC,59,17,1,15,965.593735,952.820939,-12.772796,0.066667,0.322123,50.0,16
+2005,13,2005-07-31,hungary,Formula 1 Marlboro Magyar Nagydíj 2005,744,christian-klien,Christian Klien,red-bull,DNF,0,11,1,16,978.497654,961.850962,-16.646693,0.0,0.332934,50.0,16

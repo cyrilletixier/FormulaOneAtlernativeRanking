@@ -1,28 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,alain-prost,Alain Prost,mclaren,1,70,2,0,1,1242.64228,1256.25992,13.61764,1.0,0.727647,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,niki-lauda,Niki Lauda,mclaren,2,70,11,0,2,1227.970325,1240.525746,12.55542,0.961538,0.71043,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,ayrton-senna,Ayrton Senna,toleman,3,70,3,0,3,1018.031053,1042.916992,24.885939,0.923077,0.425358,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,michele-alboreto,Michele Alboreto,ferrari,4,70,8,0,4,1135.199206,1149.914195,14.714989,0.884615,0.590316,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,elio-de-angelis,Elio de Angelis,lotus,5,70,5,0,5,1131.302394,1144.363067,13.060673,0.846154,0.58494,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,nelson-piquet,Nelson Piquet,brabham,6,69,1,0,6,1177.858975,1185.85996,8.000986,0.807692,0.647673,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,patrick-tambay,Patrick Tambay,renault,7,69,7,0,7,1131.087435,1140.316807,9.229372,0.769231,0.584643,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,riccardo-patrese,Riccardo Patrese,alfa-romeo,8,69,12,0,8,1090.767496,1100.898683,10.131186,0.730769,0.528146,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,rene-arnoux,René Arnoux,ferrari,9,69,17,0,9,1201.379601,1202.102796,0.723195,0.692308,0.677844,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,manfred-winkelhock,Manfred Winkelhock,brabham,10,69,19,0,10,955.996574,971.609069,15.612496,0.653846,0.341596,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,stefan-johansson,Stefan Johansson,toleman,11,69,10,0,11,942.789454,957.325595,14.536141,0.615385,0.324662,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,andrea-de-cesaris,Andrea de Cesaris,ligier,12,69,20,0,12,1082.028545,1085.086517,3.057972,0.576923,0.515764,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,gerhard-berger,Gerhard Berger,ats-wheels,13,68,23,0,13,1011.087991,1017.225606,6.137615,0.538462,0.415709,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,jacques-laffite,Jacques Laffite,williams,14,67,15,0,14,1029.34101,1032.282106,2.941096,0.5,0.441178,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,mauro-baldi,Mauro Baldi,spirit,15,66,25,0,15,1045.421414,1045.306325,-0.115089,0.461538,0.46384,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,jo-gartner,Jo Gartner,osella,16,65,24,0,16,1019.507787,1019.290786,-0.217001,0.423077,0.427417,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,eddie-cheever,Eddie Cheever,alfa-romeo,17,64,14,0,17,1058.511362,1053.622933,-4.888429,0.384615,0.482384,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,piercarlo-ghinzani,Piercarlo Ghinzani,osella,DNF,60,22,1,18,946.74523,947.568206,0.822976,0.346154,0.329694,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,nigel-mansell,Nigel Mansell,lotus,DNF,52,6,1,19,1121.096452,1107.942151,-13.154301,0.307692,0.570778,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,derek-warwick,Derek Warwick,renault,DNF,51,9,1,20,1101.962408,1088.226082,-13.736325,0.269231,0.543957,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,philippe-streiff,Philippe Streiff,renault,DNF,48,13,1,21,1000.0,991.517588,-8.482412,0.230769,0.400417,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,keke-rosberg,Keke Rosberg,williams,DNF,39,4,1,22,1103.629912,1085.929989,-17.699923,0.192308,0.546306,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,francois-hesnault,François Hesnault,ligier,DNF,31,21,1,23,1014.859462,1001.504568,-13.354895,0.153846,0.420944,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,thierry-boutsen,Thierry Boutsen,arrows,DNF,24,18,1,24,1091.811163,1071.099279,-20.711884,0.115385,0.529622,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,jonathan-palmer,Jonathan Palmer,ram,DNF,19,26,1,25,1026.441662,1008.432231,-18.009431,0.076923,0.437112,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,marc-surer,Marc Surer,arrows,DNF,8,16,1,26,1051.29002,1029.605778,-21.684242,0.038462,0.472146,50.0,27
-1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,philippe-alliot,Philippe Alliot,ram,DNF,2,27,1,27,969.645895,951.672131,-17.973765,0.0,0.359475,50.0,27
+1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,alain-prost,Alain Prost,mclaren,1,70,2,0,1,1396.867046,1410.750398,13.883352,1.0,0.722333,50.0,17
+1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,niki-lauda,Niki Lauda,mclaren,2,70,11,0,2,1355.08132,1367.529105,12.447786,0.9375,0.688544,50.0,17
+1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,ayrton-senna,Ayrton Senna,toleman,3,70,3,0,3,1054.482541,1077.508129,23.025588,0.875,0.414488,50.0,17
+1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,michele-alboreto,Michele Alboreto,ferrari,4,70,8,0,4,1191.786013,1205.269271,13.483258,0.8125,0.542835,50.0,17
+1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,elio-de-angelis,Elio de Angelis,lotus,5,70,5,0,5,1289.39157,1295.287529,5.895959,0.75,0.632081,50.0,17
+1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,nelson-piquet,Nelson Piquet,brabham,6,69,1,0,6,1338.155051,1338.812137,0.657086,0.6875,0.674358,50.0,17
+1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,patrick-tambay,Patrick Tambay,renault,7,69,7,0,7,1171.65088,1176.702189,5.051309,0.625,0.523974,50.0,17
+1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,riccardo-patrese,Riccardo Patrese,alfa-romeo,8,69,12,0,8,1152.653505,1155.472228,2.818723,0.5625,0.506126,50.0,17
+1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,rene-arnoux,René Arnoux,ferrari,9,69,17,0,9,1288.205282,1281.653838,-6.551443,0.5,0.631029,50.0,17
+1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,manfred-winkelhock,Manfred Winkelhock,brabham,10,69,19,0,10,896.904494,904.844124,7.93963,0.4375,0.278707,50.0,17
+1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,stefan-johansson,Stefan Johansson,toleman,11,69,10,0,11,927.057458,930.658533,3.601075,0.375,0.302978,50.0,17
+1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,andrea-de-cesaris,Andrea de Cesaris,ligier,12,69,20,0,12,1078.985369,1072.754462,-6.230906,0.3125,0.437118,50.0,17
+1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,gerhard-berger,Gerhard Berger,ats-wheels,13,68,23,0,13,987.416639,982.20512,-5.211518,0.25,0.35423,50.0,17
+1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,jacques-laffite,Jacques Laffite,williams,14,67,15,0,14,1263.241899,1242.183464,-21.058436,0.1875,0.608669,50.0,17
+1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,mauro-baldi,Mauro Baldi,spirit,15,66,25,0,15,1006.779969,994.463848,-12.316121,0.125,0.371322,50.0,17
+1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,jo-gartner,Jo Gartner,osella,16,65,24,0,16,996.004547,981.040735,-14.963813,0.0625,0.361776,50.0,17
+1984,16,1984-10-21,portugal,Grande Prémio de Portugal 1984,404,eddie-cheever,Eddie Cheever,alfa-romeo,17,64,14,0,17,1092.215677,1069.744148,-22.471529,0.0,0.449431,50.0,17

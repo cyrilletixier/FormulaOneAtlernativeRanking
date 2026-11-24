@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,max-verstappen,Max Verstappen,red-bull,1,52,4,0,1,1351.417415,1363.602544,12.185128,1.0,0.756297,50.0,20
-2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,lewis-hamilton,Lewis Hamilton,mercedes,2,52,2,0,2,1574.139677,1575.696827,1.557151,0.947368,0.916225,50.0,20
-2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,valtteri-bottas,Valtteri Bottas,mercedes,3,52,1,0,3,1410.366339,1414.648901,4.282562,0.894737,0.809086,50.0,20
-2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,charles-leclerc,Charles Leclerc,ferrari,4,52,8,0,4,1250.657519,1260.329098,9.671579,0.842105,0.648674,50.0,20
-2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,alexander-albon,Alexander Albon,red-bull,5,52,9,0,5,1183.747506,1194.861601,11.114095,0.789474,0.567192,50.0,20
-2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,lance-stroll,Lance Stroll,racing-point,6,52,6,0,6,1051.289509,1068.318504,17.028995,0.736842,0.396262,50.0,20
-2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,nico-hulkenberg,Nico Hülkenberg,racing-point,7,52,3,0,7,1053.777287,1068.015806,14.238519,0.684211,0.39944,50.0,20
-2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,esteban-ocon,Esteban Ocon,renault,8,52,14,0,8,1081.218088,1091.057586,9.839499,0.631579,0.434789,50.0,20
-2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,lando-norris,Lando Norris,mclaren,9,52,10,0,9,1135.223474,1138.920939,3.697465,0.578947,0.504998,50.0,20
-2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,daniil-kvyat,Daniil Kvyat,alphatauri,10,52,16,0,10,1060.882606,1066.771163,5.888557,0.526316,0.408545,50.0,20
-2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,pierre-gasly,Pierre Gasly,alphatauri,11,52,7,0,11,1111.902876,1111.852971,-0.049906,0.473684,0.474682,50.0,20
-2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,sebastian-vettel,Sebastian Vettel,ferrari,12,52,11,0,12,1276.864763,1263.986135,-12.878629,0.421053,0.678625,50.0,20
-2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,13,52,12,0,13,1162.325427,1153.748935,-8.576493,0.368421,0.539951,50.0,20
-2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,daniel-ricciardo,Daniel Ricciardo,renault,14,51,5,0,14,1127.67274,1118.70238,-8.970361,0.315789,0.495197,50.0,20
-2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,15,51,20,0,15,1098.450693,1088.749982,-9.700711,0.263158,0.457172,50.0,20
-2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,romain-grosjean,Romain Grosjean,haas,16,51,13,0,16,964.585252,960.588999,-3.996254,0.210526,0.290451,50.0,20
-2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,17,51,19,0,17,1001.206203,992.413425,-8.792779,0.157895,0.33375,50.0,20
-2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,george-russell,George Russell,williams,18,51,15,0,18,929.87651,922.545474,-7.331036,0.105263,0.251884,50.0,20
-2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,nicholas-latifi,Nicholas Latifi,williams,19,51,18,0,19,982.424317,969.493873,-12.930444,0.052632,0.31124,50.0,20
-2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,kevin-magnussen,Kevin Magnussen,haas,DNF,43,17,1,20,994.412092,978.135153,-16.276939,0.0,0.325539,50.0,20
+2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,max-verstappen,Max Verstappen,red-bull,1,52,4,0,1,1548.159959,1560.209769,12.049809,1.0,0.759004,50.0,19
+2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,lewis-hamilton,Lewis Hamilton,mercedes,2,52,2,0,2,1843.8025,1845.790297,1.987796,0.944444,0.904689,50.0,19
+2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,valtteri-bottas,Valtteri Bottas,mercedes,3,52,1,0,3,1634.167453,1638.122876,3.955424,0.888889,0.80978,50.0,19
+2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,charles-leclerc,Charles Leclerc,ferrari,4,52,8,0,4,1318.137686,1330.235431,12.097745,0.833333,0.591378,50.0,19
+2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,alexander-albon,Alexander Albon,red-bull,5,52,9,0,5,1186.987071,1201.799908,14.812837,0.777778,0.481521,50.0,19
+2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,lance-stroll,Lance Stroll,racing-point,6,52,6,0,6,1031.942145,1050.498962,18.556816,0.722222,0.351086,50.0,19
+2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,nico-hulkenberg,Nico Hülkenberg,racing-point,7,52,3,0,7,1098.060581,1111.099377,13.038796,0.666667,0.405891,50.0,19
+2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,esteban-ocon,Esteban Ocon,renault,8,52,14,0,8,1094.486981,1104.898388,10.411407,0.611111,0.402883,50.0,19
+2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,lando-norris,Lando Norris,mclaren,9,52,10,0,9,1168.439816,1172.933045,4.493229,0.555556,0.465691,50.0,19
+2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,daniil-kvyat,Daniil Kvyat,alphatauri,10,52,16,0,10,1083.82718,1089.130353,5.303172,0.5,0.393937,50.0,19
+2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,pierre-gasly,Pierre Gasly,alphatauri,11,52,7,0,11,1139.233597,1139.416686,0.183089,0.444444,0.440783,50.0,19
+2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,sebastian-vettel,Sebastian Vettel,ferrari,12,52,11,0,12,1519.573315,1501.988318,-17.584996,0.388889,0.740589,50.0,19
+2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,13,52,12,0,13,1234.397185,1224.972703,-9.424481,0.333333,0.521823,50.0,19
+2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,daniel-ricciardo,Daniel Ricciardo,renault,14,51,5,0,14,1314.176616,1298.657551,-15.519065,0.277778,0.588159,50.0,19
+2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,15,51,20,0,15,1236.210321,1221.153654,-15.056667,0.222222,0.523356,50.0,19
+2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,romain-grosjean,Romain Grosjean,haas,16,51,13,0,16,959.574228,953.205731,-6.368496,0.166667,0.294037,50.0,19
+2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,17,51,19,0,17,950.908963,942.090827,-8.818135,0.111111,0.287474,50.0,19
+2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,george-russell,George Russell,williams,18,51,15,0,18,886.827451,877.552089,-9.275362,0.055556,0.241063,50.0,19
+2020,5,2020-08-09,70th-anniversary,Emirates Formula 1 70th Anniversary Grand Prix 2020,1023,nicholas-latifi,Nicholas Latifi,williams,19,51,18,0,19,963.274672,948.431753,-14.842919,0.0,0.296858,50.0,19

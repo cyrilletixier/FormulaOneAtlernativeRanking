@@ -1,21 +1,16 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,max-verstappen,Max Verstappen,red-bull,1,71,2,0,1,1193.078022,1213.93793,20.859907,1.0,0.582802,50.0,20
-2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,valtteri-bottas,Valtteri Bottas,mercedes,2,71,4,0,2,1336.371513,1346.482086,10.110573,0.947368,0.745157,50.0,20
-2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,kimi-raikkonen,Kimi Räikkönen,ferrari,3,71,5,0,3,1253.743841,1265.689817,11.945975,0.894737,0.655817,50.0,20
-2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,sebastian-vettel,Sebastian Vettel,ferrari,4,71,1,0,4,1362.549061,1366.127047,3.577987,0.842105,0.770546,50.0,20
-2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,esteban-ocon,Esteban Ocon,force-india,5,70,6,0,5,1146.824918,1160.083133,13.258215,0.789474,0.524309,50.0,20
-2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,lance-stroll,Lance Stroll,williams,6,70,11,0,6,1053.047818,1069.708068,16.66025,0.736842,0.403637,50.0,20
-2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,sergio-perez,Sergio Pérez,force-india,7,70,9,0,7,1227.191705,1230.177049,2.985344,0.684211,0.624504,50.0,20
-2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,kevin-magnussen,Kevin Magnussen,haas,8,70,14,0,8,1032.226995,1044.937902,12.710907,0.631579,0.377361,50.0,20
-2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,lewis-hamilton,Lewis Hamilton,mercedes,9,70,3,0,9,1531.004744,1515.07208,-15.932664,0.578947,0.897601,50.0,20
-2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,fernando-alonso,Fernando Alonso,mclaren,10,70,18,0,10,1019.263699,1027.518077,8.254378,0.526316,0.361228,50.0,20
-2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,felipe-massa,Felipe Massa,williams,11,70,10,0,11,1139.311945,1137.262841,-2.049104,0.473684,0.514666,50.0,20
-2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,stoffel-vandoorne,Stoffel Vandoorne,mclaren,12,70,19,0,12,1019.76161,1022.722033,2.960423,0.421053,0.361844,50.0,20
-2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,pierre-gasly,Pierre Gasly,toro-rosso,13,70,20,0,13,1000.406448,1001.920302,1.513854,0.368421,0.338144,50.0,20
-2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,pascal-wehrlein,Pascal Wehrlein,sauber,14,69,13,0,14,926.497417,929.610917,3.113499,0.315789,0.253519,50.0,20
-2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,romain-grosjean,Romain Grosjean,haas,15,69,15,0,15,1061.08638,1053.550291,-7.536089,0.263158,0.41388,50.0,20
-2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,carlos-sainz-jr,Carlos Sainz Jr.,renault,DNF,59,8,1,16,1071.808007,1060.953988,-10.854019,0.210526,0.427607,50.0,20
-2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,marcus-ericsson,Marcus Ericsson,sauber,DNF,55,12,1,17,935.896772,930.607855,-5.288917,0.157895,0.263673,50.0,20
-2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,brendon-hartley,Brendon Hartley,toro-rosso,DNF,30,17,1,18,1001.641831,989.922944,-11.718887,0.105263,0.339641,50.0,20
-2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,nico-hulkenberg,Nico Hülkenberg,renault,DNF,24,7,1,19,1059.352067,1041.400349,-17.951719,0.052632,0.411666,50.0,20
-2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,daniel-ricciardo,Daniel Ricciardo,red-bull,DNF,5,16,1,20,1323.757747,1287.137833,-36.619914,0.0,0.732398,50.0,20
+2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,max-verstappen,Max Verstappen,red-bull,1,71,2,0,1,1334.829775,1354.361985,19.53221,1.0,0.609356,50.0,15
+2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,valtteri-bottas,Valtteri Bottas,mercedes,2,71,4,0,2,1467.73223,1478.590376,10.858145,0.928571,0.711409,50.0,15
+2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,kimi-raikkonen,Kimi Räikkönen,ferrari,3,71,5,0,3,1379.617815,1390.215984,10.598168,0.857143,0.645179,50.0,15
+2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,sebastian-vettel,Sebastian Vettel,ferrari,4,71,1,0,4,1602.331873,1601.643768,-0.688105,0.785714,0.799476,50.0,15
+2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,esteban-ocon,Esteban Ocon,force-india,5,70,6,0,5,1111.376767,1126.128106,14.75134,0.714286,0.419259,50.0,15
+2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,lance-stroll,Lance Stroll,williams,6,70,11,0,6,1033.97503,1048.415774,14.440744,0.642857,0.354042,50.0,15
+2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,sergio-perez,Sergio Pérez,force-india,7,70,9,0,7,1267.811054,1268.699157,0.888103,0.571429,0.553667,50.0,15
+2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,kevin-magnussen,Kevin Magnussen,haas,8,70,14,0,8,1020.084953,1027.952802,7.86785,0.5,0.342643,50.0,15
+2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,lewis-hamilton,Lewis Hamilton,mercedes,9,70,3,0,9,1777.252515,1754.2832,-22.969315,0.428571,0.887958,50.0,15
+2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,fernando-alonso,Fernando Alonso,mclaren,10,70,18,0,10,1129.590009,1125.702458,-3.887551,0.357143,0.434894,50.0,15
+2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,felipe-massa,Felipe Massa,williams,11,70,10,0,11,1201.69527,1191.125102,-10.570168,0.285714,0.497118,50.0,15
+2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,stoffel-vandoorne,Stoffel Vandoorne,mclaren,12,70,19,0,12,984.28131,979.304012,-4.977298,0.214286,0.313832,50.0,15
+2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,pierre-gasly,Pierre Gasly,toro-rosso,13,70,20,0,13,991.422912,982.590393,-8.832519,0.142857,0.319508,50.0,15
+2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,pascal-wehrlein,Pascal Wehrlein,sauber,14,69,13,0,14,853.890679,846.563549,-7.32713,0.071429,0.217971,50.0,15
+2017,18,2017-10-29,mexico,Formula 1 Gran Premio de México 2017,974,romain-grosjean,Romain Grosjean,haas,15,69,15,0,15,1081.365813,1061.681339,-19.684474,0.0,0.393689,50.0,15

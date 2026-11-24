@@ -1,27 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,riccardo-patrese,Riccardo Patrese,williams,1,53,2,0,1,1292.012314,1304.76561,12.753295,1.0,0.744934,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,gerhard-berger,Gerhard Berger,mclaren,2,53,4,0,2,1222.401822,1237.150993,14.749171,0.96,0.665017,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,martin-brundle,Martin Brundle,benetton,3,53,13,0,3,1212.95458,1226.285766,13.331186,0.92,0.653376,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,andrea-de-cesaris,Andrea de Cesaris,tyrrell,4,52,9,0,4,1141.096295,1157.083143,15.986848,0.88,0.560263,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,jean-alesi,Jean Alesi,ferrari,5,52,15,0,5,1101.674714,1118.323972,16.649258,0.84,0.507015,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,christian-fittipaldi,Christian Fittipaldi,minardi,6,52,12,0,6,987.503044,1009.754157,22.251113,0.8,0.354978,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,stefano-modena,Stefano Modena,jordan,7,52,17,0,7,1009.167742,1028.025635,18.857893,0.76,0.382842,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,aguri-suzuki,Aguri Suzuki,footwork,8,52,16,0,8,1011.267219,1027.988274,16.721055,0.72,0.385579,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,jj-lehto,JJ Lehto,dallara,9,52,22,0,9,1116.748294,1124.375103,7.62681,0.68,0.527464,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,pierluigi-martini,Pierluigi Martini,dallara,10,52,19,0,10,1107.390701,1113.651848,6.261147,0.64,0.514777,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,ukyo-katayama,Ukyo Katayama,venturi,11,52,20,0,11,1022.279601,1032.278256,9.998655,0.6,0.400027,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,nicola-larini,Nicola Larini,ferrari,12,52,11,0,12,939.369517,952.565791,13.196275,0.56,0.296075,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,emanuele-naspetti,Emanuele Naspetti,march,13,51,26,0,13,1020.2398,1026.372827,6.133027,0.52,0.397339,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,gianni-morbidelli,Gianni Morbidelli,minardi,14,51,14,0,14,1059.429195,1060.945186,1.515992,0.48,0.44968,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,michele-alboreto,Michele Alboreto,footwork,15,51,24,0,15,1143.233417,1137.077325,-6.156092,0.44,0.563122,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,mika-hakkinen,Mika Häkkinen,lotus,DNF,44,7,1,16,1122.037367,1114.30643,-7.730937,0.38,0.534619,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,nigel-mansell,Nigel Mansell,williams,DNF,44,1,1,17,1340.679314,1319.989302,-20.690012,0.38,0.7938,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,bertrand-gachot,Bertrand Gachot,venturi,DNF,39,18,1,18,982.675697,981.232137,-1.44356,0.32,0.348871,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,erik-comas,Érik Comas,ligier,DNF,36,8,1,19,1101.003957,1089.69878,-11.305177,0.28,0.506104,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,jan-lammers,Jan Lammers,march,DNF,27,23,1,20,877.820988,878.400077,0.579088,0.24,0.228418,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,mauricio-gugelmin,Maurício Gugelmin,jordan,DNF,22,25,1,21,1061.717502,1049.078887,-12.638615,0.2,0.452772,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,johnny-herbert,Johnny Herbert,lotus,DNF,15,6,1,22,1026.35631,1014.085694,-12.270616,0.16,0.405412,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,michael-schumacher,Michael Schumacher,benetton,DNF,13,5,1,23,1212.803348,1186.143918,-26.659429,0.12,0.653189,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,olivier-grouillard,Olivier Grouillard,tyrrell,DNF,6,21,1,24,986.208676,972.541853,-13.666824,0.08,0.353336,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,thierry-boutsen,Thierry Boutsen,ligier,DNF,3,10,1,25,1128.575205,1103.403074,-25.172131,0.04,0.543443,50.0,26
-1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,ayrton-senna,Ayrton Senna,mclaren,DNF,2,3,1,26,1323.798036,1284.920616,-38.87742,0.0,0.777548,50.0,26
+1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,riccardo-patrese,Riccardo Patrese,williams,1,53,2,0,1,1402.390036,1413.61944,11.229404,1.0,0.775412,50.0,18
+1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,gerhard-berger,Gerhard Berger,mclaren,2,53,4,0,2,1426.168542,1433.653968,7.485426,0.941176,0.791468,50.0,18
+1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,martin-brundle,Martin Brundle,benetton,3,53,13,0,3,1204.927547,1218.18211,13.254562,0.882353,0.617262,50.0,18
+1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,andrea-de-cesaris,Andrea de Cesaris,tyrrell,4,52,9,0,4,1164.795675,1176.931098,12.135424,0.823529,0.580821,50.0,18
+1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,jean-alesi,Jean Alesi,ferrari,5,52,15,0,5,1204.093184,1211.502736,7.409552,0.764706,0.616515,50.0,18
+1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,christian-fittipaldi,Christian Fittipaldi,minardi,6,52,12,0,6,963.873613,979.537182,15.663569,0.705882,0.392611,50.0,18
+1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,stefano-modena,Stefano Modena,jordan,7,52,17,0,7,1010.203574,1020.77814,10.574566,0.647059,0.435568,50.0,18
+1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,aguri-suzuki,Aguri Suzuki,footwork,8,52,16,0,8,982.671408,991.587214,8.915806,0.588235,0.409919,50.0,18
+1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,jj-lehto,JJ Lehto,dallara,9,52,22,0,9,1031.668859,1035.352267,3.683408,0.529412,0.455744,50.0,18
+1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,pierluigi-martini,Pierluigi Martini,dallara,10,52,19,0,10,1098.155446,1095.755292,-2.400153,0.470588,0.518591,50.0,18
+1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,ukyo-katayama,Ukyo Katayama,venturi,11,52,20,0,11,963.434443,964.412232,0.977789,0.411765,0.392209,50.0,18
+1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,nicola-larini,Nicola Larini,ferrari,12,52,11,0,12,902.769875,903.519536,0.749661,0.352941,0.337948,50.0,18
+1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,emanuele-naspetti,Emanuele Naspetti,march,13,51,26,0,13,1009.720375,1002.670514,-7.049861,0.294118,0.435115,50.0,18
+1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,gianni-morbidelli,Gianni Morbidelli,minardi,14,51,14,0,14,1037.781119,1026.470388,-11.310731,0.235294,0.461509,50.0,18
+1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,michele-alboreto,Michele Alboreto,footwork,15,51,24,0,15,1130.721748,1112.085306,-18.636442,0.176471,0.549199,50.0,18
+1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,bertrand-gachot,Bertrand Gachot,venturi,DNF,39,18,1,16,940.147227,927.476406,-12.67082,0.117647,0.371063,50.0,18
+1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,mauricio-gugelmin,Maurício Gugelmin,jordan,DNF,22,25,1,17,1089.937818,1067.337441,-22.600376,0.058824,0.510831,50.0,18
+1992,15,1992-10-25,japan,1992 Fuji Television Japanese Grand Prix,531,olivier-grouillard,Olivier Grouillard,tyrrell,DNF,6,21,1,18,914.495643,897.08486,-17.410782,0.0,0.348216,50.0,18

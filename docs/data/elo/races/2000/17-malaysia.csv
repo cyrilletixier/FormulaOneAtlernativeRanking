@@ -1,23 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,michael-schumacher,Michael Schumacher,ferrari,1,56,1,0,1,1294.882451,1306.436436,11.553984,1.0,0.76892,50.0,22
-2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,david-coulthard,David Coulthard,mclaren,2,56,3,0,2,1250.886212,1262.444086,11.557875,0.952381,0.721223,50.0,22
-2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,rubens-barrichello,Rubens Barrichello,ferrari,3,56,4,0,3,1200.545003,1212.737336,12.192333,0.904762,0.660915,50.0,22
-2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,mika-hakkinen,Mika Häkkinen,mclaren,4,56,2,0,4,1315.300865,1318.691828,3.390963,0.857143,0.789324,50.0,22
-2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,jacques-villeneuve,Jacques Villeneuve,bar,5,56,6,0,5,1123.149689,1135.673809,12.524121,0.809524,0.559041,50.0,22
-2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,eddie-irvine,Eddie Irvine,jaguar,6,56,7,0,6,1166.847902,1174.059796,7.211894,0.761905,0.617667,50.0,22
-2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,alexander-wurz,Alexander Wurz,benetton,7,56,5,0,7,1052.371568,1065.027559,12.655991,0.714286,0.461166,50.0,22
-2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,mika-salo,Mika Salo,sauber,8,55,17,0,8,1082.194613,1090.400528,8.205915,0.666667,0.502548,50.0,22
-2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,giancarlo-fisichella,Giancarlo Fisichella,benetton,9,55,13,0,9,1055.187231,1062.886307,7.699076,0.619048,0.465066,50.0,22
-2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,jos-verstappen,Jos Verstappen,arrows,10,55,15,0,10,968.580608,979.741123,11.160515,0.571429,0.348218,50.0,22
-2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,jean-alesi,Jean Alesi,prost,11,55,18,0,11,964.409323,973.457423,9.0481,0.52381,0.342848,50.0,22
-2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,jarno-trulli,Jarno Trulli,jordan,12,55,9,0,12,998.263685,1002.709466,4.445781,0.47619,0.387275,50.0,22
-2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,gaston-mazzacane,Gastón Mazzacane,minardi,13,50,22,0,13,1000.023851,1001.970828,1.946976,0.428571,0.389632,50.0,22
-2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,johnny-herbert,Johnny Herbert,jaguar,DNF,48,12,1,14,1033.633964,1030.916242,-2.717722,0.380952,0.435307,50.0,22
-2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,ricardo-zonta,Ricardo Zonta,bar,DNF,46,11,1,15,1051.391096,1045.067341,-6.323755,0.333333,0.459808,50.0,22
-2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,ralf-schumacher,Ralf Schumacher,williams,DNF,43,8,1,16,1154.15086,1138.392339,-15.75852,0.285714,0.600885,50.0,22
-2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,marc-gene,Marc Gené,minardi,DNF,36,21,1,17,999.227125,991.703662,-7.523463,0.238095,0.388564,50.0,22
-2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,jenson-button,Jenson Button,williams,DNF,18,16,1,18,1075.170621,1060.054565,-15.116056,0.190476,0.492797,50.0,22
-2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,DNF,7,10,1,19,1099.150982,1079.991743,-19.159239,0.142857,0.526042,50.0,22
-2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,nick-heidfeld,Nick Heidfeld,prost,DNF,0,19,1,20,959.063936,944.644267,-14.419669,0.047619,0.336012,50.0,22
-2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,0,14,1,21,955.655483,941.452298,-14.203185,0.047619,0.331683,50.0,22
-2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,pedro-diniz,Pedro Diniz,sauber,DNF,0,20,1,22,1018.836185,1000.464269,-18.371915,0.047619,0.415057,50.0,22
+2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,michael-schumacher,Michael Schumacher,ferrari,1,56,1,0,1,1473.598403,1484.238139,10.639736,1.0,0.787205,50.0,17
+2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,david-coulthard,David Coulthard,mclaren,2,56,3,0,2,1405.516257,1415.352845,9.836588,0.9375,0.740768,50.0,17
+2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,rubens-barrichello,Rubens Barrichello,ferrari,3,56,4,0,3,1289.52447,1300.732896,11.208426,0.875,0.650831,50.0,17
+2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,mika-hakkinen,Mika Häkkinen,mclaren,4,56,2,0,4,1522.445987,1522.202912,-0.243074,0.8125,0.817361,50.0,17
+2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,jacques-villeneuve,Jacques Villeneuve,bar,5,56,6,0,5,1185.354512,1194.805209,9.450696,0.75,0.560986,50.0,17
+2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,eddie-irvine,Eddie Irvine,jaguar,6,56,7,0,6,1201.942459,1207.532041,5.589582,0.6875,0.575708,50.0,17
+2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,alexander-wurz,Alexander Wurz,benetton,7,56,5,0,7,1001.974925,1013.453254,11.478329,0.625,0.395433,50.0,17
+2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,mika-salo,Mika Salo,sauber,8,55,17,0,8,1088.394309,1092.852592,4.458283,0.5625,0.473334,50.0,17
+2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,giancarlo-fisichella,Giancarlo Fisichella,benetton,9,55,13,0,9,1105.274335,1105.839895,0.56556,0.5,0.488689,50.0,17
+2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,jos-verstappen,Jos Verstappen,arrows,10,55,15,0,10,957.531628,961.579841,4.048214,0.4375,0.356536,50.0,17
+2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,jean-alesi,Jean Alesi,prost,11,55,18,0,11,1078.082352,1073.634407,-4.447945,0.375,0.463959,50.0,17
+2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,jarno-trulli,Jarno Trulli,jordan,12,55,9,0,12,973.296214,970.41115,-2.885064,0.3125,0.370201,50.0,17
+2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,gaston-mazzacane,Gastón Mazzacane,minardi,13,50,22,0,13,940.484855,935.887472,-4.597383,0.25,0.341948,50.0,17
+2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,johnny-herbert,Johnny Herbert,jaguar,DNF,48,12,1,14,1072.940489,1059.351117,-13.589372,0.1875,0.459287,50.0,17
+2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,nick-heidfeld,Nick Heidfeld,prost,DNF,0,19,1,15,968.201758,953.038364,-15.163394,0.0625,0.365768,50.0,17
+2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,0,14,1,16,890.213042,878.324791,-11.888251,0.0625,0.300265,50.0,17
+2000,17,2000-10-22,malaysia,2000 Petronas Malaysian Grand Prix,663,pedro-diniz,Pedro Diniz,sauber,DNF,0,20,1,17,951.92912,937.468188,-14.460931,0.0625,0.351719,50.0,17

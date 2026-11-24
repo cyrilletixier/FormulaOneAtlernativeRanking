@@ -1,23 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,david-coulthard,David Coulthard,mclaren,1,71,5,0,1,1280.505641,1292.440836,11.935195,1.0,0.761296,50.0,22
-2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,michael-schumacher,Michael Schumacher,ferrari,2,71,1,0,2,1327.201184,1334.494845,7.293661,0.952381,0.806508,50.0,22
-2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,nick-heidfeld,Nick Heidfeld,sauber,3,70,9,0,3,962.213053,989.747358,27.534305,0.904762,0.354076,50.0,22
-2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,olivier-panis,Olivier Panis,bar,4,70,11,0,4,1027.284723,1048.094106,20.809383,0.857143,0.440955,50.0,22
-2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,jarno-trulli,Jarno Trulli,jordan,5,70,7,0,5,1010.02221,1029.624636,19.602425,0.809524,0.417475,50.0,22
-2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,giancarlo-fisichella,Giancarlo Fisichella,benetton,6,70,18,0,6,1052.254297,1066.589867,14.335569,0.761905,0.475193,50.0,22
-2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,jacques-villeneuve,Jacques Villeneuve,bar,7,70,12,0,7,1096.118123,1105.064715,8.946592,0.714286,0.535354,50.0,22
-2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,jean-alesi,Jean Alesi,prost,8,70,15,0,8,997.707591,1010.996961,13.28937,0.666667,0.400879,50.0,22
-2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,tarso-marques,Tarso Marques,minardi,9,68,22,0,9,922.215046,937.97424,15.759194,0.619048,0.303864,50.0,22
-2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,jenson-button,Jenson Button,benetton,10,64,20,0,10,1057.105579,1061.583864,4.478285,0.571429,0.481863,50.0,22
-2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,11,63,8,0,11,1111.020378,1109.43168,-1.588698,0.52381,0.555583,50.0,22
-2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,kimi-raikkonen,Kimi Räikkönen,sauber,DNF,55,10,1,12,996.531884,1000.376262,3.844378,0.47619,0.399303,50.0,22
-2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,gaston-mazzacane,Gastón Mazzacane,prost,DNF,54,21,1,13,986.521326,987.462125,0.9408,0.404762,0.385946,50.0,22
-2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,ralf-schumacher,Ralf Schumacher,williams,DNF,54,2,1,14,1129.437651,1120.660389,-8.777262,0.404762,0.580307,50.0,22
-2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,eddie-irvine,Eddie Irvine,jaguar,DNF,52,13,1,15,1146.322063,1132.857385,-13.464678,0.333333,0.602627,50.0,22
-2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,38,4,1,16,986.075931,981.093922,-4.982009,0.285714,0.385354,50.0,22
-2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,jos-verstappen,Jos Verstappen,arrows,DNF,37,17,1,17,1005.727698,997.04891,-8.678788,0.238095,0.411671,50.0,22
-2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,luciano-burti,Luciano Burti,jaguar,DNF,30,14,1,18,1026.001853,1013.565497,-12.436357,0.190476,0.439203,50.0,22
-2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,fernando-alonso,Fernando Alonso,minardi,DNF,25,19,1,19,1004.643091,991.275558,-13.367533,0.142857,0.410208,50.0,22
-2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,enrique-bernoldi,Enrique Bernoldi,arrows,DNF,15,16,1,20,972.742146,959.115407,-13.626739,0.095238,0.367773,50.0,22
-2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,rubens-barrichello,Rubens Barrichello,ferrari,DNF,2,6,1,21,1236.361957,1203.070254,-33.291702,0.047619,0.713453,50.0,22
-2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,mika-hakkinen,Mika Häkkinen,mclaren,DNF,0,3,1,22,1290.159059,1251.603666,-38.555393,0.0,0.771108,50.0,22
+2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,david-coulthard,David Coulthard,mclaren,1,71,5,0,1,1431.53059,1443.590103,12.059512,1.0,0.75881,50.0,17
+2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,michael-schumacher,Michael Schumacher,ferrari,2,71,1,0,2,1504.718371,1511.20815,6.489778,0.9375,0.807704,50.0,17
+2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,nick-heidfeld,Nick Heidfeld,sauber,3,70,9,0,3,962.68059,988.921589,26.241,0.875,0.35018,50.0,17
+2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,olivier-panis,Olivier Panis,bar,4,70,11,0,4,1064.380204,1082.906942,18.526738,0.8125,0.441965,50.0,17
+2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,jarno-trulli,Jarno Trulli,jordan,5,70,7,0,5,981.473078,1000.638648,19.16557,0.75,0.366689,50.0,17
+2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,giancarlo-fisichella,Giancarlo Fisichella,benetton,6,70,18,0,6,1094.607265,1105.481218,10.873952,0.6875,0.470021,50.0,17
+2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,jacques-villeneuve,Jacques Villeneuve,bar,7,70,12,0,7,1148.674661,1153.907427,5.232766,0.625,0.520345,50.0,17
+2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,jean-alesi,Jean Alesi,prost,8,70,15,0,8,1079.830979,1085.141726,5.310748,0.5625,0.456285,50.0,17
+2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,tarso-marques,Tarso Marques,minardi,9,68,22,0,9,904.037982,914.011172,9.97319,0.5,0.300536,50.0,17
+2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,jenson-button,Jenson Button,benetton,10,64,20,0,10,1073.665897,1073.012653,-0.653244,0.4375,0.450565,50.0,17
+2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,11,63,8,0,11,1286.648146,1273.170963,-13.477183,0.375,0.644544,50.0,17
+2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,kimi-raikkonen,Kimi Räikkönen,sauber,DNF,55,10,1,12,1015.538093,1011.302704,-4.235389,0.3125,0.397208,50.0,17
+2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,ralf-schumacher,Ralf Schumacher,williams,DNF,54,2,1,13,1188.149573,1172.809744,-15.339829,0.25,0.556797,50.0,17
+2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,eddie-irvine,Eddie Irvine,jaguar,DNF,52,13,1,14,1197.792488,1178.886382,-18.906106,0.1875,0.565622,50.0,17
+2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,38,4,1,15,984.771663,972.541058,-12.230605,0.125,0.369612,50.0,17
+2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,jos-verstappen,Jos Verstappen,arrows,DNF,37,17,1,16,980.499964,965.333587,-15.166377,0.0625,0.365828,50.0,17
+2001,3,2001-04-01,brazil,Grande Prêmio Marlboro do Brasil 2001,666,rubens-barrichello,Rubens Barrichello,ferrari,DNF,2,6,1,17,1325.584454,1291.719933,-33.864521,0.0,0.67729,50.0,17

@@ -1,21 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,max-verstappen,Max Verstappen,red-bull,1,66,2,0,1,1368.735233,1380.566964,11.831731,1.0,0.763365,50.0,20
-2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,sergio-perez,Sergio Pérez,red-bull,2,66,5,0,2,1261.062099,1276.231159,15.16906,0.947368,0.643987,50.0,20
-2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,george-russell,George Russell,mercedes,3,66,4,0,3,1091.451617,1114.855286,23.403668,0.894737,0.426663,50.0,20
-2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,4,66,3,0,4,1253.753831,1264.10368,10.349849,0.842105,0.635108,50.0,20
-2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,lewis-hamilton,Lewis Hamilton,mercedes,5,66,6,0,5,1496.166644,1492.110643,-4.056001,0.789474,0.870594,50.0,20
-2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,valtteri-bottas,Valtteri Bottas,alfa-romeo,6,66,7,0,6,1284.527921,1287.774186,3.246264,0.736842,0.671917,50.0,20
-2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,esteban-ocon,Esteban Ocon,alpine,7,66,12,0,7,1166.322788,1174.327339,8.004551,0.684211,0.52412,50.0,20
-2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,lando-norris,Lando Norris,mclaren,8,66,11,0,8,1218.25395,1220.285788,2.031838,0.631579,0.590942,50.0,20
-2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,fernando-alonso,Fernando Alonso,alpine,9,65,20,0,9,1088.170087,1095.995381,7.825294,0.578947,0.422441,50.0,20
-2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,yuki-tsunoda,Yuki Tsunoda,alphatauri,10,65,13,0,10,1032.432876,1041.129461,8.696586,0.526316,0.352384,50.0,20
-2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,sebastian-vettel,Sebastian Vettel,aston-martin,11,65,16,0,11,1072.694726,1076.246387,3.551661,0.473684,0.402651,50.0,20
-2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,daniel-ricciardo,Daniel Ricciardo,mclaren,12,65,9,0,12,1151.700022,1147.500147,-4.199875,0.421053,0.50505,50.0,20
-2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,pierre-gasly,Pierre Gasly,alphatauri,13,65,14,0,13,1136.281121,1130.456607,-5.824514,0.368421,0.484911,50.0,20
-2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,mick-schumacher,Mick Schumacher,haas,14,65,10,0,14,897.213958,902.765949,5.551991,0.315789,0.20475,50.0,20
-2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,lance-stroll,Lance Stroll,aston-martin,15,65,17,0,15,1084.755132,1077.010194,-7.744938,0.263158,0.418057,50.0,20
-2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,nicholas-latifi,Nicholas Latifi,williams,16,64,19,0,16,918.680226,917.932597,-0.747628,0.210526,0.225479,50.0,20
-2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,kevin-magnussen,Kevin Magnussen,haas,17,64,8,0,17,986.18924,979.201171,-6.988069,0.157895,0.297656,50.0,20
-2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,alexander-albon,Alexander Albon,williams,18,64,18,0,18,1181.442444,1159.517695,-21.924749,0.105263,0.543758,50.0,20
-2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,guanyu-zhou,Guanyu Zhou,alfa-romeo,DNF,28,15,1,19,1003.414872,990.16635,-13.248522,0.052632,0.317602,50.0,20
-2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,charles-leclerc,Charles Leclerc,ferrari,DNF,27,1,1,20,1307.724522,1272.796325,-34.928197,0.0,0.698564,50.0,20
+2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,max-verstappen,Max Verstappen,red-bull,1,66,2,0,1,1600.122839,1610.692503,10.569665,1.0,0.788607,50.0,18
+2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,sergio-perez,Sergio Pérez,red-bull,2,66,5,0,2,1360.898302,1377.207981,16.309679,0.941176,0.614983,50.0,18
+2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,george-russell,George Russell,mercedes,3,66,4,0,3,1052.207789,1078.642707,26.434918,0.882353,0.353655,50.0,18
+2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,4,66,3,0,4,1354.714779,1365.395801,10.681022,0.823529,0.609909,50.0,18
+2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,lewis-hamilton,Lewis Hamilton,mercedes,5,66,6,0,5,1760.000531,1754.548585,-5.451946,0.764706,0.873745,50.0,18
+2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,valtteri-bottas,Valtteri Bottas,alfa-romeo,6,66,7,0,6,1543.927253,1541.598141,-2.329112,0.705882,0.752465,50.0,18
+2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,esteban-ocon,Esteban Ocon,alpine,7,66,12,0,7,1238.224219,1245.010381,6.786162,0.647059,0.511336,50.0,18
+2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,lando-norris,Lando Norris,mclaren,8,66,11,0,8,1301.33601,1302.481734,1.145724,0.588235,0.565321,50.0,18
+2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,fernando-alonso,Fernando Alonso,alpine,9,65,20,0,9,1161.833626,1166.028118,4.194492,0.529412,0.445522,50.0,18
+2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,yuki-tsunoda,Yuki Tsunoda,alphatauri,10,65,13,0,10,1035.705096,1042.216361,6.511266,0.470588,0.340363,50.0,18
+2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,sebastian-vettel,Sebastian Vettel,aston-martin,11,65,16,0,11,1172.832327,1170.672279,-2.160048,0.411765,0.454966,50.0,18
+2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,daniel-ricciardo,Daniel Ricciardo,mclaren,12,65,9,0,12,1292.945126,1282.681965,-10.263161,0.352941,0.558204,50.0,18
+2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,pierre-gasly,Pierre Gasly,alphatauri,13,65,14,0,13,1274.813455,1262.381782,-12.431673,0.294118,0.542751,50.0,18
+2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,mick-schumacher,Mick Schumacher,haas,14,65,10,0,14,847.924054,849.42909,1.505036,0.235294,0.205193,50.0,18
+2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,lance-stroll,Lance Stroll,aston-martin,15,65,17,0,15,1094.169125,1083.583298,-10.585827,0.176471,0.388187,50.0,18
+2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,nicholas-latifi,Nicholas Latifi,williams,16,64,19,0,16,856.465662,851.818436,-4.647225,0.117647,0.210592,50.0,18
+2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,kevin-magnussen,Kevin Magnussen,haas,17,64,8,0,17,969.198685,957.698499,-11.500186,0.058824,0.288827,50.0,18
+2022,6,2022-05-22,spain,Formula 1 Pirelli Gran Premio de España 2022,1063,alexander-albon,Alexander Albon,williams,18,64,18,0,18,1219.714357,1194.945572,-24.768784,0.0,0.495376,50.0,18

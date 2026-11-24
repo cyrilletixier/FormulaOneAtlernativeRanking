@@ -1,23 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,nico-rosberg,Nico Rosberg,mercedes,1,57,2,0,1,1406.572672,1416.092045,9.519373,1.0,0.809613,50.0,22
-2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,lewis-hamilton,Lewis Hamilton,mercedes,2,57,1,0,2,1474.146129,1478.657847,4.511718,0.952381,0.862147,50.0,22
-2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,sebastian-vettel,Sebastian Vettel,ferrari,3,57,3,0,3,1401.921984,1406.880107,4.958123,0.904762,0.805599,50.0,22
-2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,daniel-ricciardo,Daniel Ricciardo,red-bull,4,57,8,0,4,1207.964186,1221.055431,13.091245,0.857143,0.595318,50.0,22
-2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,felipe-massa,Felipe Massa,williams,5,57,6,0,5,1189.802079,1201.671437,11.869358,0.809524,0.572137,50.0,22
-2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,romain-grosjean,Romain Grosjean,haas,6,57,19,0,6,1082.73735,1099.272261,16.534911,0.761905,0.431207,50.0,22
-2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,nico-hulkenberg,Nico Hülkenberg,force-india,7,57,10,0,7,1120.017327,1131.704746,11.687419,0.714286,0.480537,50.0,22
-2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,valtteri-bottas,Valtteri Bottas,williams,8,57,16,0,8,1235.067529,1236.946139,1.87861,0.666667,0.629094,50.0,22
-2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,9,57,7,0,9,1033.633071,1046.207401,12.57433,0.619048,0.367561,50.0,22
-2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,max-verstappen,Max Verstappen,toro-rosso,10,57,5,0,10,1094.663057,1100.887409,6.224352,0.571429,0.446942,50.0,22
-2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,jolyon-palmer,Jolyon Palmer,renault,11,57,13,0,11,1000.0,1009.905438,9.905438,0.52381,0.325701,50.0,22
-2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,kevin-magnussen,Kevin Magnussen,renault,12,57,14,0,12,1106.918489,1107.569672,0.651183,0.47619,0.463167,50.0,22
-2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,sergio-perez,Sergio Pérez,force-india,13,57,9,0,13,1191.751709,1184.448114,-7.303595,0.428571,0.574643,50.0,22
-2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,jenson-button,Jenson Button,mclaren,14,56,12,0,14,1085.197421,1082.522705,-2.674716,0.380952,0.434447,50.0,22
-2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,felipe-nasr,Felipe Nasr,sauber,15,56,17,0,15,1040.875343,1038.702523,-2.17282,0.333333,0.37679,50.0,22
-2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,pascal-wehrlein,Pascal Wehrlein,manor,16,56,21,0,16,1000.0,998.000676,-1.999324,0.285714,0.325701,50.0,22
-2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,marcus-ericsson,Marcus Ericsson,sauber,DNF,38,15,1,17,991.976489,988.081535,-3.894954,0.238095,0.315994,50.0,22
-2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,21,4,1,18,1230.443132,1208.796498,-21.646634,0.190476,0.623409,50.0,22
-2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,rio-haryanto,Rio Haryanto,manor,DNF,17,22,1,19,1000.0,990.857819,-9.142181,0.142857,0.325701,50.0,22
-2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,esteban-gutierrez,Esteban Gutiérrez,haas,DNF,16,20,1,20,963.310862,952.76485,-10.546012,0.071429,0.282349,50.0,22
-2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,fernando-alonso,Fernando Alonso,mclaren,DNF,16,11,1,21,1071.27977,1054.042958,-17.236812,0.071429,0.416165,50.0,22
-2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,daniil-kvyat,Daniil Kvyat,red-bull,DNS,,18,2,22,1161.834268,1135.045258,-26.789011,0.0,0.53578,50.0,22
+2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,nico-rosberg,Nico Rosberg,mercedes,1,57,2,0,1,1602.123447,1612.080474,9.957027,1.0,0.800859,50.0,19
+2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,lewis-hamilton,Lewis Hamilton,mercedes,2,57,1,0,2,1699.997831,1704.535189,4.537359,0.944444,0.853697,50.0,19
+2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,sebastian-vettel,Sebastian Vettel,ferrari,3,57,3,0,3,1630.781458,1634.358046,3.576587,0.888889,0.817357,50.0,19
+2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,daniel-ricciardo,Daniel Ricciardo,red-bull,4,57,8,0,4,1286.83529,1300.126556,13.291266,0.833333,0.567508,50.0,19
+2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,felipe-massa,Felipe Massa,williams,5,57,6,0,5,1309.855773,1319.386369,9.530596,0.777778,0.587166,50.0,19
+2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,romain-grosjean,Romain Grosjean,haas,6,57,19,0,6,1123.27079,1138.186695,14.915905,0.722222,0.423904,50.0,19
+2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,nico-hulkenberg,Nico Hülkenberg,force-india,7,57,10,0,7,1167.560908,1177.748573,10.187665,0.666667,0.462913,50.0,19
+2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,valtteri-bottas,Valtteri Bottas,williams,8,57,16,0,8,1302.239828,1303.760778,1.520951,0.611111,0.580692,50.0,19
+2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,9,57,7,0,9,1057.667364,1067.083034,9.415669,0.555556,0.367242,50.0,19
+2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,max-verstappen,Max Verstappen,toro-rosso,10,57,5,0,10,1074.836496,1080.74237,5.905873,0.5,0.381883,50.0,19
+2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,jolyon-palmer,Jolyon Palmer,renault,11,57,13,0,11,1000.0,1006.250526,6.250526,0.444444,0.319434,50.0,19
+2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,kevin-magnussen,Kevin Magnussen,renault,12,57,14,0,12,1095.083526,1094.561193,-0.522333,0.388889,0.399336,50.0,19
+2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,sergio-perez,Sergio Pérez,force-india,13,57,9,0,13,1215.893757,1207.279343,-8.614414,0.333333,0.505622,50.0,19
+2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,jenson-button,Jenson Button,mclaren,14,56,12,0,14,1187.932754,1177.775351,-10.157402,0.277778,0.480926,50.0,19
+2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,felipe-nasr,Felipe Nasr,sauber,15,56,17,0,15,1014.622282,1009.166829,-5.455452,0.222222,0.331331,50.0,19
+2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,pascal-wehrlein,Pascal Wehrlein,manor,16,56,21,0,16,1000.0,992.361637,-7.638363,0.166667,0.319434,50.0,19
+2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,esteban-gutierrez,Esteban Gutiérrez,haas,DNF,16,20,1,17,909.093896,900.773388,-8.320509,0.083333,0.249744,50.0,19
+2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,fernando-alonso,Fernando Alonso,mclaren,DNF,16,11,1,18,1310.874147,1285.639356,-25.234791,0.083333,0.588029,50.0,19
+2016,1,2016-03-20,australia,2016 Formula 1 Rolex Australian Grand Prix,936,daniil-kvyat,Daniil Kvyat,red-bull,DNS,,18,2,19,1167.57206,1144.425899,-23.146161,0.0,0.462923,50.0,19

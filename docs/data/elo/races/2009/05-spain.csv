@@ -1,21 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,jenson-button,Jenson Button,brawn,1,66,1,0,1,1117.17205,1141.409932,24.237882,1.0,0.515242,50.0,20
-2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,rubens-barrichello,Rubens Barrichello,brawn,2,66,3,0,2,1085.720429,1109.511972,23.791544,0.947368,0.471538,50.0,20
-2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,mark-webber,Mark Webber,red-bull,3,66,5,0,3,1112.591821,1131.885022,19.293201,0.894737,0.508873,50.0,20
-2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,sebastian-vettel,Sebastian Vettel,red-bull,4,66,2,0,4,1125.308109,1141.085941,15.777832,0.842105,0.526549,50.0,20
-2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,fernando-alonso,Fernando Alonso,renault,5,66,8,0,5,1281.186571,1284.209758,3.023187,0.789474,0.72901,50.0,20
-2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,felipe-massa,Felipe Massa,ferrari,6,66,4,0,6,1214.735847,1219.202331,4.466484,0.736842,0.647512,50.0,20
-2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,nick-heidfeld,Nick Heidfeld,bmw-sauber,7,66,13,0,7,1207.398108,1209.710239,2.312131,0.684211,0.637968,50.0,20
-2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,nico-rosberg,Nico Rosberg,williams,8,66,9,0,8,1095.364247,1102.697233,7.332986,0.631579,0.484919,50.0,20
-2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,lewis-hamilton,Lewis Hamilton,mclaren,9,65,14,0,9,1268.252693,1261.503732,-6.748962,0.578947,0.713927,50.0,20
-2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,timo-glock,Timo Glock,toyota,10,65,6,0,10,1143.171701,1141.922829,-1.248871,0.526316,0.551293,50.0,20
-2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,robert-kubica,Robert Kubica,bmw-sauber,11,65,10,0,11,1157.160428,1152.317593,-4.842835,0.473684,0.570541,50.0,20
-2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,nelson-piquet-jr,Nelson Piquet Jr.,renault,12,65,12,0,12,1003.86282,1006.861108,2.998288,0.421053,0.361087,50.0,20
-2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,kazuki-nakajima,Kazuki Nakajima,williams,13,65,11,0,13,971.315647,973.74014,2.424493,0.368421,0.319931,50.0,20
-2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,giancarlo-fisichella,Giancarlo Fisichella,force-india,14,65,20,0,14,954.503324,955.316368,0.813044,0.315789,0.299529,50.0,20
-2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,17,16,1,15,1222.375276,1202.665752,-19.709524,0.263158,0.657348,50.0,20
-2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,heikki-kovalainen,Heikki Kovalainen,mclaren,DNF,7,18,1,16,1126.141226,1110.282268,-15.858958,0.210526,0.527705,50.0,20
-2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,adrian-sutil,Adrian Sutil,force-india,DNF,0,19,1,17,858.190112,852.329077,-5.861035,0.078947,0.196168,50.0,20
-2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,jarno-trulli,Jarno Trulli,toyota,DNF,0,7,1,18,1134.192425,1111.196149,-22.996276,0.078947,0.538873,50.0,20
-2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,sebastien-bourdais,Sébastien Bourdais,toro-rosso,DNF,0,17,1,19,1013.549467,998.811352,-14.738115,0.078947,0.37371,50.0,20
-2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,sebastien-buemi,Sébastien Buemi,toro-rosso,DNF,0,15,1,20,1009.395333,994.928839,-14.466494,0.078947,0.368277,50.0,20
+2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,jenson-button,Jenson Button,brawn,1,66,1,0,1,1160.179304,1184.150334,23.971031,1.0,0.520579,50.0,18
+2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,rubens-barrichello,Rubens Barrichello,brawn,2,66,3,0,2,1125.572938,1148.222014,22.649076,0.941176,0.488195,50.0,18
+2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,mark-webber,Mark Webber,red-bull,3,66,5,0,3,1172.649532,1190.155978,17.506446,0.882353,0.532224,50.0,18
+2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,sebastian-vettel,Sebastian Vettel,red-bull,4,66,2,0,4,1137.977098,1154.163283,16.186185,0.823529,0.499806,50.0,18
+2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,fernando-alonso,Fernando Alonso,renault,5,66,8,0,5,1440.538989,1440.774726,0.235737,0.764706,0.759991,50.0,18
+2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,felipe-massa,Felipe Massa,ferrari,6,66,4,0,6,1378.365561,1378.016723,-0.348838,0.705882,0.712859,50.0,18
+2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,nick-heidfeld,Nick Heidfeld,bmw-sauber,7,66,13,0,7,1275.194628,1276.251413,1.056785,0.647059,0.625923,50.0,18
+2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,nico-rosberg,Nico Rosberg,williams,8,66,9,0,8,1100.607352,1106.775794,6.168442,0.588235,0.464866,50.0,18
+2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,lewis-hamilton,Lewis Hamilton,mclaren,9,65,14,0,9,1346.698027,1338.807286,-7.890741,0.529412,0.687227,50.0,18
+2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,timo-glock,Timo Glock,toyota,10,65,6,0,10,1155.826789,1153.530705,-2.296084,0.470588,0.51651,50.0,18
+2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,robert-kubica,Robert Kubica,bmw-sauber,11,65,10,0,11,1234.526459,1225.646618,-8.879841,0.411765,0.589362,50.0,18
+2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,nelson-piquet-jr,Nelson Piquet Jr.,renault,12,65,12,0,12,1011.463563,1009.953046,-1.510517,0.352941,0.383152,50.0,18
+2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,kazuki-nakajima,Kazuki Nakajima,williams,13,65,11,0,13,978.69846,975.692717,-3.005743,0.294118,0.354233,50.0,18
+2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,giancarlo-fisichella,Giancarlo Fisichella,force-india,14,65,20,0,14,980.738469,974.70269,-6.035779,0.235294,0.35601,50.0,18
+2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,adrian-sutil,Adrian Sutil,force-india,DNF,0,19,1,15,809.69668,803.045965,-6.650715,0.088235,0.22125,50.0,18
+2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,jarno-trulli,Jarno Trulli,toyota,DNF,0,7,1,16,1191.821398,1168.729931,-23.091468,0.088235,0.550065,50.0,18
+2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,sebastien-bourdais,Sébastien Bourdais,toro-rosso,DNF,0,17,1,17,989.060284,975.307404,-13.75288,0.088235,0.363293,50.0,18
+2009,5,2009-05-10,spain,Formula 1 Gran Premio de España Telefónica 2009,808,sebastien-buemi,Sébastien Buemi,toro-rosso,DNF,0,15,1,18,1001.703869,987.392774,-14.311095,0.088235,0.374457,50.0,18

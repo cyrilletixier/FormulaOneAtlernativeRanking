@@ -1,21 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,max-verstappen,Max Verstappen,red-bull,1,72,1,0,1,1336.077829,1348.757561,12.679732,1.0,0.746405,50.0,20
-2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,lewis-hamilton,Lewis Hamilton,mercedes,2,72,2,0,2,1565.939105,1567.454475,1.51537,0.947368,0.917061,50.0,20
-2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,valtteri-bottas,Valtteri Bottas,mercedes,3,72,3,0,3,1301.440326,1310.659073,9.218747,0.894737,0.710362,50.0,20
-2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,pierre-gasly,Pierre Gasly,alphatauri,4,71,4,0,4,1169.82132,1184.218595,14.397276,0.842105,0.55416,50.0,20
-2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,charles-leclerc,Charles Leclerc,ferrari,5,71,5,0,5,1197.332458,1207.370346,10.037887,0.789474,0.588716,50.0,20
-2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,fernando-alonso,Fernando Alonso,alpine,6,71,9,0,6,1094.16852,1108.151789,13.983268,0.736842,0.457177,50.0,20
-2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,7,71,6,0,7,1248.42391,1250.10501,1.6811,0.684211,0.650589,50.0,20
-2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,sergio-perez,Sergio Pérez,red-bull,8,71,PL,0,8,1203.800139,1205.542442,1.742303,0.631579,0.596733,50.0,20
-2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,esteban-ocon,Esteban Ocon,alpine,9,71,8,0,9,1122.479361,1126.747612,4.268251,0.578947,0.493582,50.0,20
-2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,lando-norris,Lando Norris,mclaren,10,71,13,0,10,1239.245642,1233.574227,-5.671415,0.526316,0.639744,50.0,20
-2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,daniel-ricciardo,Daniel Ricciardo,mclaren,11,71,10,0,11,1234.352202,1226.340941,-8.011261,0.473684,0.633909,50.0,20
-2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,lance-stroll,Lance Stroll,aston-martin,12,70,12,0,12,1062.42822,1062.647448,0.219228,0.421053,0.416668,50.0,20
-2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,sebastian-vettel,Sebastian Vettel,aston-martin,13,70,15,0,13,1111.965215,1106.383618,-5.581597,0.368421,0.480053,50.0,20
-2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,14,70,7,0,14,997.738866,996.686384,-1.052483,0.315789,0.336839,50.0,20
-2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,robert-kubica,Robert Kubica,alfa-romeo,15,70,16,0,15,942.722182,942.188708,-0.533474,0.263158,0.273827,50.0,20
-2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,nicholas-latifi,Nicholas Latifi,williams,16,70,PL,0,16,943.235099,940.041997,-3.193102,0.210526,0.274388,50.0,20
-2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,george-russell,George Russell,williams,17,69,11,0,17,996.049419,987.202837,-8.846582,0.157895,0.334826,50.0,20
-2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,mick-schumacher,Mick Schumacher,haas,18,69,17,0,18,936.463581,928.375421,-8.088159,0.105263,0.267026,50.0,20
-2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,yuki-tsunoda,Yuki Tsunoda,alphatauri,DNF,48,14,1,19,1039.741471,1022.965888,-16.775584,0.052632,0.388143,50.0,20
-2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,nikita-mazepin,Nikita Mazepin,haas,DNF,41,18,1,20,910.57579,898.586287,-11.989503,0.0,0.23979,50.0,20
+2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,max-verstappen,Max Verstappen,red-bull,1,72,1,0,1,1549.445068,1561.773949,12.328881,1.0,0.753422,50.0,18
+2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,lewis-hamilton,Lewis Hamilton,mercedes,2,72,2,0,2,1837.375395,1839.315454,1.940058,0.941176,0.902375,50.0,18
+2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,valtteri-bottas,Valtteri Bottas,mercedes,3,72,3,0,3,1554.254953,1560.542919,6.287966,0.882353,0.756594,50.0,18
+2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,pierre-gasly,Pierre Gasly,alphatauri,4,71,4,0,4,1230.523703,1246.519378,15.995675,0.823529,0.503616,50.0,18
+2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,charles-leclerc,Charles Leclerc,ferrari,5,71,5,0,5,1293.896931,1304.254574,10.357643,0.764706,0.557553,50.0,18
+2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,fernando-alonso,Fernando Alonso,alpine,6,71,9,0,6,1152.195913,1165.658395,13.462483,0.705882,0.436633,50.0,18
+2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,7,71,6,0,7,1330.555198,1333.49719,2.941992,0.647059,0.588219,50.0,18
+2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,sergio-perez,Sergio Pérez,red-bull,8,71,PL,0,8,1310.350193,1311.192862,0.84267,0.588235,0.571382,50.0,18
+2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,esteban-ocon,Esteban Ocon,alpine,9,71,8,0,9,1194.469339,1197.303638,2.834299,0.529412,0.472726,50.0,18
+2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,lando-norris,Lando Norris,mclaren,10,71,13,0,10,1317.288892,1311.959137,-5.329756,0.470588,0.577183,50.0,18
+2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,daniel-ricciardo,Daniel Ricciardo,mclaren,11,71,10,0,11,1358.21266,1348.253085,-9.959575,0.411765,0.610956,50.0,18
+2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,lance-stroll,Lance Stroll,aston-martin,12,70,12,0,12,1087.849894,1086.366862,-1.483032,0.352941,0.382602,50.0,18
+2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,sebastian-vettel,Sebastian Vettel,aston-martin,13,70,15,0,13,1280.944861,1268.320547,-12.624314,0.294118,0.546604,50.0,18
+2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,14,70,7,0,14,958.916339,956.620729,-2.29561,0.235294,0.281206,50.0,18
+2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,robert-kubica,Robert Kubica,alfa-romeo,15,70,16,0,15,990.061467,983.655501,-6.405966,0.176471,0.30459,50.0,18
+2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,nicholas-latifi,Nicholas Latifi,williams,16,70,PL,0,16,892.540683,886.708677,-5.832006,0.117647,0.234287,50.0,18
+2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,george-russell,George Russell,williams,17,69,11,0,17,940.331016,929.889573,-10.441444,0.058824,0.267652,50.0,18
+2021,13,2021-09-05,netherlands,Formula 1 Heineken Dutch Grand Prix 2021,1048,mick-schumacher,Mick Schumacher,haas,18,69,17,0,18,918.873737,906.253773,-12.619964,0.0,0.252399,50.0,18

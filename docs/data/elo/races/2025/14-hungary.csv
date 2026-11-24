@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,lando-norris,Lando Norris,mclaren,1,70,3,0,1,1451.522995,1460.568252,9.045256,1.0,0.819095,50.0,20
-2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,oscar-piastri,Oscar Piastri,mclaren,2,70,2,0,2,1437.834005,1444.799741,6.965735,0.947368,0.808054,50.0,20
-2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,george-russell,George Russell,mercedes,3,70,4,0,3,1362.235421,1369.938501,7.70308,0.894737,0.740675,50.0,20
-2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,charles-leclerc,Charles Leclerc,ferrari,4,70,1,0,4,1379.259519,1383.526087,4.266568,0.842105,0.756774,50.0,20
-2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,fernando-alonso,Fernando Alonso,aston-martin,5,70,5,0,5,1113.970665,1130.557476,16.586811,0.789474,0.457737,50.0,20
-2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,6,70,7,0,6,982.782626,1004.700404,21.917779,0.736842,0.298487,50.0,20
-2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,lance-stroll,Lance Stroll,aston-martin,7,70,6,0,7,1002.494383,1020.641403,18.147021,0.684211,0.32127,50.0,20
-2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,liam-lawson,Liam Lawson,racing-bulls,8,70,9,0,8,1027.304599,1041.346634,14.042035,0.631579,0.350738,50.0,20
-2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,max-verstappen,Max Verstappen,red-bull,9,70,8,0,9,1487.379092,1474.012163,-13.366929,0.578947,0.846286,50.0,20
-2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,kimi-antonelli,Kimi Antonelli,mercedes,10,69,15,0,10,1042.269554,1050.142267,7.872712,0.526316,0.368862,50.0,20
-2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,isack-hadjar,Isack Hadjar,racing-bulls,11,69,10,0,11,1033.843586,1039.596351,5.752765,0.473684,0.358629,50.0,20
-2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,lewis-hamilton,Lewis Hamilton,ferrari,12,69,12,0,12,1321.552061,1307.598376,-13.953686,0.421053,0.700126,50.0,20
-2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,nico-hulkenberg,Nico Hülkenberg,kick-sauber,13,69,18,0,13,1103.633732,1099.813382,-3.82035,0.368421,0.444828,50.0,20
-2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,carlos-sainz-jr,Carlos Sainz Jr.,williams,14,69,13,0,14,1164.037386,1153.83094,-10.206446,0.315789,0.519918,50.0,20
-2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,alexander-albon,Alexander Albon,williams,15,69,19,0,15,1080.097812,1072.481353,-7.616459,0.263158,0.415487,50.0,20
-2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,esteban-ocon,Esteban Ocon,haas,16,69,17,0,16,1053.824359,1045.200744,-8.623615,0.210526,0.382999,50.0,20
-2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,yuki-tsunoda,Yuki Tsunoda,red-bull,17,69,PL,0,17,1024.486846,1015.013949,-9.472897,0.157895,0.347353,50.0,20
-2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,franco-colapinto,Franco Colapinto,alpine,18,69,14,0,18,965.715842,957.014533,-8.701309,0.105263,0.279289,50.0,20
-2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,pierre-gasly,Pierre Gasly,alpine,19,69,16,0,19,1075.146695,1057.311453,-17.835241,0.052632,0.409336,50.0,20
-2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,oliver-bearman,Oliver Bearman,haas,DNF,48,11,1,20,1046.526478,1027.823646,-18.702832,0.0,0.374057,50.0,20
+2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,lando-norris,Lando Norris,mclaren,1,70,3,0,1,1612.685316,1623.618494,10.933179,1.0,0.781336,50.0,19
+2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,oscar-piastri,Oscar Piastri,mclaren,2,70,2,0,2,1557.127095,1567.025824,9.898729,0.944444,0.74647,50.0,19
+2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,george-russell,George Russell,mercedes,3,70,4,0,3,1515.423851,1523.938652,8.514801,0.888889,0.718593,50.0,19
+2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,charles-leclerc,Charles Leclerc,ferrari,4,70,1,0,4,1569.028325,1572.986901,3.958576,0.833333,0.754162,50.0,19
+2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,fernando-alonso,Fernando Alonso,aston-martin,5,70,5,0,5,1234.721817,1248.537573,13.815756,0.777778,0.501463,50.0,19
+2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,gabriel-bortoleto,Gabriel Bortoleto,kick-sauber,6,70,7,0,6,972.761327,994.439876,21.67855,0.722222,0.288651,50.0,19
+2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,lance-stroll,Lance Stroll,aston-martin,7,70,6,0,7,1011.367334,1028.794439,17.427105,0.666667,0.318125,50.0,19
+2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,liam-lawson,Liam Lawson,racing-bulls,8,70,9,0,8,1023.522659,1037.697182,14.174523,0.611111,0.327621,50.0,19
+2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,max-verstappen,Max Verstappen,red-bull,9,70,8,0,9,1761.420852,1746.149021,-15.271831,0.555556,0.860992,50.0,19
+2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,kimi-antonelli,Kimi Antonelli,mercedes,10,69,15,0,10,1078.661298,1085.073183,6.411885,0.5,0.371762,50.0,19
+2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,isack-hadjar,Isack Hadjar,racing-bulls,11,69,10,0,11,1031.923208,1037.433532,5.510323,0.444444,0.334238,50.0,19
+2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,lewis-hamilton,Lewis Hamilton,ferrari,12,69,12,0,12,1497.792531,1481.917508,-15.875023,0.388889,0.706389,50.0,19
+2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,nico-hulkenberg,Nico Hülkenberg,kick-sauber,13,69,18,0,13,1112.123006,1108.829021,-3.293985,0.333333,0.399213,50.0,19
+2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,carlos-sainz-jr,Carlos Sainz Jr.,williams,14,69,13,0,14,1292.285566,1278.723072,-13.562494,0.277778,0.549028,50.0,19
+2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,alexander-albon,Alexander Albon,williams,15,69,19,0,15,1153.480392,1142.91289,-10.567502,0.222222,0.433572,50.0,19
+2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,esteban-ocon,Esteban Ocon,haas,16,69,17,0,16,1104.280791,1092.976867,-11.303924,0.166667,0.392745,50.0,19
+2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,yuki-tsunoda,Yuki Tsunoda,red-bull,17,69,PL,0,17,1020.437471,1009.732957,-10.704514,0.111111,0.325201,50.0,19
+2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,franco-colapinto,Franco Colapinto,alpine,18,69,14,0,18,964.194367,952.858852,-11.335515,0.055556,0.282266,50.0,19
+2025,14,2025-08-03,hungary,Formula 1 Lenovo Hungarian Grand Prix 2025,1139,pierre-gasly,Pierre Gasly,alpine,19,69,16,0,19,1122.951608,1102.542969,-20.408639,0.0,0.408173,50.0,19

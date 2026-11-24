@@ -1,23 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,michael-schumacher,Michael Schumacher,ferrari,1,67,2,0,1,1326.686819,1336.671025,9.984207,1.0,0.800316,50.0,22
-2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,mika-hakkinen,Mika Häkkinen,mclaren,2,67,3,0,2,1265.62196,1276.359703,10.737743,0.952381,0.737626,50.0,22
-2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,david-coulthard,David Coulthard,mclaren,3,66,1,0,3,1180.511817,1194.002789,13.490972,0.904762,0.634942,50.0,22
-2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,rubens-barrichello,Rubens Barrichello,ferrari,4,66,4,0,4,1124.812022,1139.639379,14.827357,0.857143,0.560596,50.0,22
-2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,giancarlo-fisichella,Giancarlo Fisichella,benetton,5,66,7,0,5,1132.153962,1144.099508,11.945546,0.809524,0.570613,50.0,22
-2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,pedro-de-la-rosa,Pedro de la Rosa,arrows,6,66,12,0,6,954.646591,976.264703,21.618112,0.761905,0.329543,50.0,22
-2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,pedro-diniz,Pedro Diniz,sauber,7,65,15,0,7,950.679551,970.166569,19.487018,0.714286,0.324545,50.0,22
-2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,gaston-mazzacane,Gastón Mazzacane,minardi,8,65,21,0,8,1007.189789,1020.604681,13.414892,0.666667,0.398369,50.0,22
-2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,jean-alesi,Jean Alesi,prost,9,65,17,0,9,1034.936026,1044.07816,9.142133,0.619048,0.436205,50.0,22
-2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,jenson-button,Jenson Button,williams,10,62,11,0,10,1020.392011,1028.149512,7.7575,0.571429,0.416279,50.0,22
-2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,johnny-herbert,Johnny Herbert,jaguar,11,61,16,0,11,1052.092582,1055.287899,3.195317,0.52381,0.459903,50.0,22
-2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,alexander-wurz,Alexander Wurz,benetton,12,61,14,0,12,1078.978887,1077.925902,-1.052986,0.47619,0.49725,50.0,22
-2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,ricardo-zonta,Ricardo Zonta,bar,DNF,51,18,1,13,1013.263982,1014.363299,1.099317,0.428571,0.406585,50.0,22
-2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,marc-gene,Marc Gené,minardi,DNF,47,20,1,14,998.221523,997.953117,-0.268407,0.380952,0.386321,50.0,22
-2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,jacques-villeneuve,Jacques Villeneuve,bar,DNF,46,9,1,15,1048.725719,1042.630382,-6.095338,0.333333,0.45524,50.0,22
-2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,eddie-irvine,Eddie Irvine,jaguar,DNF,29,8,1,16,1229.229173,1206.349389,-22.879785,0.238095,0.695691,50.0,22
-2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,jos-verstappen,Jos Verstappen,arrows,DNF,29,13,1,17,960.196234,955.27169,-4.924544,0.238095,0.336586,50.0,22
-2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,ralf-schumacher,Ralf Schumacher,williams,DNF,29,5,1,18,1189.733706,1169.298482,-20.435224,0.238095,0.6468,50.0,22
-2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,mika-salo,Mika Salo,sauber,DNF,27,19,1,19,1054.805887,1038.765516,-16.04037,0.142857,0.463665,50.0,22
-2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,DNF,2,10,1,20,1180.735485,1153.735798,-26.999687,0.095238,0.635232,50.0,22
-2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,jarno-trulli,Jarno Trulli,jordan,DNF,0,6,1,21,1045.774342,1025.597453,-20.176889,0.047619,0.451157,50.0,22
-2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,nick-heidfeld,Nick Heidfeld,prost,EX,,,1,22,975.674014,957.847129,-17.826885,0.0,0.356538,50.0,22
+2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,michael-schumacher,Michael Schumacher,ferrari,1,67,2,0,1,1474.972067,1485.290883,10.318817,1.0,0.793624,50.0,18
+2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,mika-hakkinen,Mika Häkkinen,mclaren,2,67,3,0,2,1459.393974,1467.276822,7.882848,0.941176,0.78352,50.0,18
+2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,david-coulthard,David Coulthard,mclaren,3,66,1,0,3,1377.629466,1385.446697,7.817231,0.882353,0.726008,50.0,18
+2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,rubens-barrichello,Rubens Barrichello,ferrari,4,66,4,0,4,1191.599087,1204.196986,12.597899,0.823529,0.571571,50.0,18
+2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,giancarlo-fisichella,Giancarlo Fisichella,benetton,5,66,7,0,5,1123.710559,1136.44266,12.732101,0.764706,0.510064,50.0,18
+2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,pedro-de-la-rosa,Pedro de la Rosa,arrows,6,66,12,0,6,916.804609,935.826525,19.021916,0.705882,0.325444,50.0,18
+2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,pedro-diniz,Pedro Diniz,sauber,7,65,15,0,7,898.961908,915.781336,16.819428,0.647059,0.31067,50.0,18
+2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,gaston-mazzacane,Gastón Mazzacane,minardi,8,65,21,0,8,973.025722,983.754355,10.728634,0.588235,0.373663,50.0,18
+2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,jean-alesi,Jean Alesi,prost,9,65,17,0,9,1122.928495,1123.931641,1.003146,0.529412,0.509349,50.0,18
+2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,jenson-button,Jenson Button,williams,10,62,11,0,10,1016.709321,1019.613429,2.904107,0.470588,0.412506,50.0,18
+2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,johnny-herbert,Johnny Herbert,jaguar,11,61,16,0,11,1070.663743,1068.176759,-2.486985,0.411765,0.461504,50.0,18
+2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,alexander-wurz,Alexander Wurz,benetton,12,61,14,0,12,1059.722727,1054.794236,-4.928491,0.352941,0.451511,50.0,18
+2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,ricardo-zonta,Ricardo Zonta,bar,DNF,51,18,1,13,962.147,958.64506,-3.501939,0.294118,0.364156,50.0,18
+2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,eddie-irvine,Eddie Irvine,jaguar,DNF,29,8,1,14,1295.22135,1270.992531,-24.228819,0.176471,0.661047,50.0,18
+2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,jos-verstappen,Jos Verstappen,arrows,DNF,29,13,1,15,934.272935,926.087914,-8.185021,0.176471,0.340171,50.0,18
+2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,ralf-schumacher,Ralf Schumacher,williams,DNF,29,5,1,16,1229.455618,1208.026158,-21.429461,0.176471,0.60506,50.0,18
+2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,jarno-trulli,Jarno Trulli,jordan,DNF,0,6,1,17,1023.025238,1005.056621,-17.968617,0.058824,0.418196,50.0,18
+2000,6,2000-05-21,europe,2000 Warsteiner Grand Prix of Europe,652,nick-heidfeld,Nick Heidfeld,prost,EX,,,1,18,982.42623,963.329435,-19.096795,0.0,0.381936,50.0,18

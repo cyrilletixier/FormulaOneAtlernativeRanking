@@ -1,21 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,sebastian-vettel,Sebastian Vettel,ferrari,1,57,1,0,1,1393.41455,1403.429422,10.014872,1.0,0.799703,50.0,20
-2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,valtteri-bottas,Valtteri Bottas,mercedes,2,57,3,0,2,1360.597851,1369.448409,8.850558,0.947368,0.770357,50.0,20
-2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,lewis-hamilton,Lewis Hamilton,mercedes,3,57,9,0,3,1518.658392,1518.869176,0.210784,0.894737,0.890521,50.0,20
-2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,pierre-gasly,Pierre Gasly,toro-rosso,4,57,5,0,4,987.368554,1012.980342,25.611788,0.842105,0.32987,50.0,20
-2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,kevin-magnussen,Kevin Magnussen,haas,5,57,6,0,5,1016.720294,1037.916336,21.196042,0.789474,0.365553,50.0,20
-2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,nico-hulkenberg,Nico Hülkenberg,renault,6,57,7,0,6,1078.173917,1092.866734,14.692817,0.736842,0.442986,50.0,20
-2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,fernando-alonso,Fernando Alonso,mclaren,7,56,13,0,7,1069.246395,1081.877038,12.630643,0.684211,0.431598,50.0,20
-2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,stoffel-vandoorne,Stoffel Vandoorne,mclaren,8,56,14,0,8,1021.909548,1034.889887,12.980339,0.631579,0.371972,50.0,20
-2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,marcus-ericsson,Marcus Ericsson,sauber,9,56,17,0,9,920.263504,936.528671,16.265167,0.578947,0.253644,50.0,20
-2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,esteban-ocon,Esteban Ocon,force-india,10,56,8,0,10,1136.636087,1137.070515,0.434429,0.526316,0.517627,50.0,20
-2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,carlos-sainz-jr,Carlos Sainz Jr.,renault,11,56,10,0,11,1052.001682,1055.201075,3.199392,0.473684,0.409696,50.0,20
-2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,charles-leclerc,Charles Leclerc,sauber,12,56,19,0,12,1001.211299,1004.936136,3.724836,0.421053,0.346556,50.0,20
-2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,romain-grosjean,Romain Grosjean,haas,13,56,16,0,13,1040.613055,1039.267553,-1.345502,0.368421,0.395331,50.0,20
-2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,lance-stroll,Lance Stroll,williams,14,56,20,0,14,1039.586809,1035.674215,-3.912595,0.315789,0.394041,50.0,20
-2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,sergey-sirotkin,Sergey Sirotkin,williams,15,56,18,0,15,982.790247,979.7275,-3.062747,0.263158,0.324413,50.0,20
-2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,sergio-perez,Sergio Pérez,force-india,16,56,12,0,16,1222.748041,1202.087722,-20.660319,0.210526,0.623733,50.0,20
-2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,brendon-hartley,Brendon Hartley,toro-rosso,17,56,11,0,17,976.144959,968.212124,-7.932835,0.157895,0.316551,50.0,20
-2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,kimi-raikkonen,Kimi Räikkönen,ferrari,DNF,35,2,1,18,1294.999954,1265.013256,-29.986698,0.105263,0.704997,50.0,20
-2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,max-verstappen,Max Verstappen,red-bull,DNF,3,15,1,19,1236.674448,1207.303038,-29.37141,0.052632,0.64006,50.0,20
-2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,daniel-ricciardo,Daniel Ricciardo,red-bull,DNF,1,4,1,20,1263.621837,1230.082276,-33.539561,0.0,0.670791,50.0,20
+2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,sebastian-vettel,Sebastian Vettel,ferrari,1,57,1,0,1,1625.8466,1633.423761,7.577161,1.0,0.848457,50.0,17
+2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,valtteri-bottas,Valtteri Bottas,mercedes,2,57,3,0,2,1492.27238,1500.309281,8.036901,0.9375,0.776762,50.0,17
+2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,lewis-hamilton,Lewis Hamilton,mercedes,3,57,9,0,3,1758.387284,1756.946958,-1.440326,0.875,0.903807,50.0,17
+2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,pierre-gasly,Pierre Gasly,toro-rosso,4,57,5,0,4,974.288448,996.596841,22.308393,0.8125,0.366332,50.0,17
+2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,kevin-magnussen,Kevin Magnussen,haas,5,57,6,0,5,1008.903367,1026.59956,17.696192,0.75,0.396076,50.0,17
+2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,nico-hulkenberg,Nico Hülkenberg,renault,6,57,7,0,6,1155.874118,1164.017588,8.14347,0.6875,0.524631,50.0,17
+2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,fernando-alonso,Fernando Alonso,mclaren,7,56,13,0,7,1152.728214,1157.882914,5.1547,0.625,0.521906,50.0,17
+2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,stoffel-vandoorne,Stoffel Vandoorne,mclaren,8,56,14,0,8,975.1872,984.957332,9.770132,0.5625,0.367097,50.0,17
+2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,marcus-ericsson,Marcus Ericsson,sauber,9,56,17,0,9,840.490157,852.547951,12.057794,0.5,0.258844,50.0,17
+2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,esteban-ocon,Esteban Ocon,force-india,10,56,8,0,10,1105.435879,1103.279737,-2.156142,0.4375,0.480623,50.0,17
+2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,carlos-sainz-jr,Carlos Sainz Jr.,renault,11,56,10,0,11,1103.776154,1098.567845,-5.208309,0.375,0.479166,50.0,17
+2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,charles-leclerc,Charles Leclerc,sauber,12,56,19,0,12,992.64638,989.169308,-3.477072,0.3125,0.382041,50.0,17
+2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,romain-grosjean,Romain Grosjean,haas,13,56,16,0,13,1053.774555,1044.512756,-9.261799,0.25,0.435236,50.0,17
+2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,lance-stroll,Lance Stroll,williams,14,56,20,0,14,1006.709481,996.37567,-10.333811,0.1875,0.394176,50.0,17
+2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,sergey-sirotkin,Sergey Sirotkin,williams,15,56,18,0,15,1000.0,986.831157,-13.168843,0.125,0.388377,50.0,17
+2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,sergio-perez,Sergio Pérez,force-india,16,56,12,0,16,1260.056031,1232.572874,-27.483157,0.0625,0.612163,50.0,17
+2018,2,2018-04-08,bahrain,Formula 1 2018 Gulf Air Bahrain Grand Prix,978,brendon-hartley,Brendon Hartley,toro-rosso,17,56,11,0,17,971.906009,953.690723,-18.215285,0.0,0.364306,50.0,17

@@ -1,23 +1,14 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,eddie-irvine,Eddie Irvine,ferrari,1,57,6,0,1,1206.376934,1223.196426,16.819492,1.0,0.66361,50.0,22
-1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,2,57,5,0,2,1161.847394,1179.157073,17.309679,0.952381,0.606187,50.0,22
-1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,ralf-schumacher,Ralf Schumacher,williams,3,57,8,0,3,1054.197958,1076.478981,22.281023,0.904762,0.459141,50.0,22
-1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,giancarlo-fisichella,Giancarlo Fisichella,benetton,4,57,7,0,4,1156.848642,1169.728205,12.879563,0.857143,0.599552,50.0,22
-1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,rubens-barrichello,Rubens Barrichello,stewart,5,57,4,0,5,971.948592,994.96961,23.021018,0.809524,0.349103,50.0,22
-1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,pedro-de-la-rosa,Pedro de la Rosa,arrows,6,57,18,0,6,1000.0,1018.809495,18.809495,0.761905,0.385715,50.0,22
-1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,toranosuke-takagi,Toranosuke Takagi,arrows,7,57,17,0,7,979.153464,996.948399,17.794935,0.714286,0.358387,50.0,22
-1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,michael-schumacher,Michael Schumacher,ferrari,8,56,3,0,8,1295.287202,1290.321755,-4.965446,0.666667,0.765976,50.0,22
-1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,ricardo-zonta,Ricardo Zonta,bar,DNF,48,19,1,9,1000.0,1011.666638,11.666638,0.619048,0.385715,50.0,22
-1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,luca-badoer,Luca Badoer,minardi,DNF,42,21,1,10,965.280295,976.822084,11.541789,0.571429,0.340593,50.0,22
-1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,alexander-wurz,Alexander Wurz,benetton,DNF,28,10,1,11,1092.238944,1092.84828,0.609336,0.52381,0.511623,50.0,22
-1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,pedro-diniz,Pedro Diniz,sauber,DNF,27,14,1,12,933.204914,941.970674,8.76576,0.47619,0.300875,50.0,22
-1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,jarno-trulli,Jarno Trulli,prost,DNF,25,12,1,13,1003.267925,1004.003242,0.735317,0.404762,0.390056,50.0,22
-1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,marc-gene,Marc Gené,minardi,DNF,25,22,1,14,1000.0,1000.952352,0.952352,0.404762,0.385715,50.0,22
-1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,olivier-panis,Olivier Panis,prost,DNF,23,20,1,15,1032.693067,1027.874828,-4.81824,0.333333,0.429698,50.0,22
-1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,mika-hakkinen,Mika Häkkinen,mclaren,DNF,21,1,1,16,1242.87287,1221.765087,-21.107783,0.285714,0.70787,50.0,22
-1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,alex-zanardi,Alex Zanardi,williams,DNF,20,15,1,17,983.78855,977.473044,-6.315506,0.238095,0.364405,50.0,22
-1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,david-coulthard,David Coulthard,mclaren,DNF,13,2,1,18,1207.285624,1182.381672,-24.903952,0.166667,0.664746,50.0,22
-1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,jacques-villeneuve,Jacques Villeneuve,bar,DNF,13,11,1,19,1220.388545,1194.675048,-25.713497,0.166667,0.680937,50.0,22
-1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,damon-hill,Damon Hill,jordan,DNF,0,9,1,20,1144.8879,1119.281915,-25.605984,0.071429,0.583548,50.0,22
-1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,jean-alesi,Jean Alesi,sauber,DNF,0,16,1,21,1181.438306,1153.417107,-28.021199,0.071429,0.631853,50.0,22
-1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,johnny-herbert,Johnny Herbert,stewart,DNS,,13,2,22,1036.359372,1014.624583,-21.734789,0.0,0.434696,50.0,22
+1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,eddie-irvine,Eddie Irvine,ferrari,1,57,6,0,1,1260.228166,1277.931781,17.703616,1.0,0.645928,50.0,13
+1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,2,57,5,0,2,1206.163451,1222.179426,16.015975,0.916667,0.596347,50.0,13
+1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,ralf-schumacher,Ralf Schumacher,williams,3,57,8,0,3,1100.524865,1117.437991,16.913126,0.833333,0.495071,50.0,13
+1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,giancarlo-fisichella,Giancarlo Fisichella,benetton,4,57,7,0,4,1137.011254,1147.989691,10.978437,0.75,0.530431,50.0,13
+1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,rubens-barrichello,Rubens Barrichello,stewart,5,57,4,0,5,1070.329046,1080.374036,10.04499,0.666667,0.465767,50.0,13
+1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,pedro-de-la-rosa,Pedro de la Rosa,arrows,6,57,18,0,6,1000.0,1009.250086,9.250086,0.583333,0.398332,50.0,13
+1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,toranosuke-takagi,Toranosuke Takagi,arrows,7,57,17,0,7,943.25937,950.967501,7.708131,0.5,0.345837,50.0,13
+1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,michael-schumacher,Michael Schumacher,ferrari,8,56,3,0,8,1473.06277,1453.289776,-19.772994,0.416667,0.812127,50.0,13
+1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,jarno-trulli,Jarno Trulli,prost,DNF,25,12,1,9,974.289691,970.159796,-4.129895,0.291667,0.374265,50.0,13
+1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,marc-gene,Marc Gené,minardi,DNF,25,22,1,10,1000.0,994.666753,-5.333247,0.291667,0.398332,50.0,13
+1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,alex-zanardi,Alex Zanardi,williams,DNF,20,15,1,11,961.171654,951.39716,-9.774494,0.166667,0.362157,50.0,13
+1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,damon-hill,Damon Hill,jordan,DNF,0,9,1,12,1225.025762,1198.498025,-26.527737,0.083333,0.613888,50.0,13
+1999,1,1999-03-07,australia,1999 Qantas Australian Grand Prix,631,johnny-herbert,Johnny Herbert,stewart,DNS,,13,2,13,1065.944882,1042.868889,-23.075993,0.0,0.46152,50.0,13

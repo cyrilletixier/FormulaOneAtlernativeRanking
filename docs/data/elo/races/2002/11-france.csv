@@ -1,23 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,michael-schumacher,Michael Schumacher,ferrari,1,72,2,0,1,1424.242757,1429.991496,5.748739,1.0,0.885025,50.0,22
-2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,kimi-raikkonen,Kimi Räikkönen,mclaren,2,72,4,0,2,1029.092012,1054.234465,25.142453,0.952381,0.449532,50.0,22
-2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,david-coulthard,David Coulthard,mclaren,3,72,6,0,3,1228.399864,1238.087142,9.687278,0.904762,0.711016,50.0,22
-2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,juan-pablo-montoya,Juan Pablo Montoya,williams,4,72,1,0,4,1120.15536,1134.26663,14.11127,0.857143,0.574917,50.0,22
-2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,ralf-schumacher,Ralf Schumacher,williams,5,72,5,0,5,1215.456489,1221.132233,5.675744,0.809524,0.696009,50.0,22
-2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,jenson-button,Jenson Button,renault,6,71,7,0,6,1080.24795,1092.324284,12.076334,0.761905,0.520378,50.0,22
-2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,nick-heidfeld,Nick Heidfeld,sauber,7,71,10,0,7,1085.319215,1094.664787,9.345572,0.714286,0.527374,50.0,22
-2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,mark-webber,Mark Webber,minardi,8,71,18,0,8,996.211972,1009.3201,13.108128,0.666667,0.404504,50.0,22
-2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,pedro-de-la-rosa,Pedro de la Rosa,jaguar,9,70,15,0,9,983.83295,995.394256,11.561306,0.619048,0.387822,50.0,22
-2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,alex-yoong,Alex Yoong,minardi,10,68,19,0,10,922.480191,935.617567,13.137376,0.571429,0.308681,50.0,22
-2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,allan-mcnish,Allan McNish,toyota,11,65,17,0,11,961.641114,969.909805,8.26869,0.52381,0.358436,50.0,22
-2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,eddie-irvine,Eddie Irvine,jaguar,DNF,52,9,1,12,1001.966248,1005.15989,3.193642,0.47619,0.412318,50.0,22
-2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,jarno-trulli,Jarno Trulli,renault,DNF,49,8,1,13,1057.412447,1054.403108,-3.009339,0.428571,0.488758,50.0,22
-2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,felipe-massa,Felipe Massa,sauber,DNF,48,12,1,14,1049.982099,1043.91659,-6.065509,0.357143,0.478453,50.0,22
-2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,mika-salo,Mika Salo,toyota,DNF,48,16,1,15,1046.490661,1040.667206,-5.823455,0.357143,0.473612,50.0,22
-2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,jacques-villeneuve,Jacques Villeneuve,bar,DNF,35,13,1,16,1101.428651,1088.239842,-13.18881,0.285714,0.54949,50.0,22
-2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,olivier-panis,Olivier Panis,bar,DNF,29,11,1,17,1028.072143,1017.570707,-10.501436,0.238095,0.448124,50.0,22
-2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,takuma-sato,Takuma Sato,jordan,DNF,23,14,1,18,982.273002,972.510174,-9.762828,0.190476,0.385733,50.0,22
-2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,enrique-bernoldi,Enrique Bernoldi,arrows,DNQ,,,2,19,926.354177,915.44286,-10.911318,0.095238,0.313464,50.0,22
-2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNQ,,,2,20,1043.965284,1025.221613,-18.743671,0.095238,0.470112,50.0,22
-2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,heinz-harald-frentzen,Heinz-Harald Frentzen,arrows,DNQ,,,2,21,1031.540572,1013.656768,-17.883804,0.095238,0.452914,50.0,22
-2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,rubens-barrichello,Rubens Barrichello,ferrari,DNS,,3,2,22,1221.725313,1186.55895,-35.166363,0.0,0.703327,50.0,22
+2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,michael-schumacher,Michael Schumacher,ferrari,1,72,2,0,1,1642.164068,1648.069896,5.905828,1.0,0.881883,50.0,17
+2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,kimi-raikkonen,Kimi Räikkönen,mclaren,2,72,4,0,2,1094.940262,1117.251483,22.311221,0.9375,0.491276,50.0,17
+2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,david-coulthard,David Coulthard,mclaren,3,72,6,0,3,1436.667447,1441.963528,5.296081,0.875,0.769078,50.0,17
+2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,juan-pablo-montoya,Juan Pablo Montoya,williams,4,72,1,0,4,1183.039944,1195.148927,12.108983,0.8125,0.57032,50.0,17
+2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,ralf-schumacher,Ralf Schumacher,williams,5,72,5,0,5,1289.057148,1293.546149,4.489001,0.75,0.66022,50.0,17
+2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,jenson-button,Jenson Button,renault,6,71,7,0,6,1035.445312,1047.95384,12.508528,0.6875,0.437329,50.0,17
+2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,nick-heidfeld,Nick Heidfeld,sauber,7,71,10,0,7,1036.426087,1045.765315,9.339228,0.625,0.438215,50.0,17
+2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,mark-webber,Mark Webber,minardi,8,71,18,0,8,967.654397,976.936409,9.282012,0.5625,0.37686,50.0,17
+2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,pedro-de-la-rosa,Pedro de la Rosa,jaguar,9,70,15,0,9,922.239559,930.355553,8.115994,0.5,0.33768,50.0,17
+2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,alex-yoong,Alex Yoong,minardi,10,68,19,0,10,906.55433,912.204738,5.650407,0.4375,0.324492,50.0,17
+2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,allan-mcnish,Allan McNish,toyota,11,65,17,0,11,949.594058,950.288179,0.694121,0.375,0.361118,50.0,17
+2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,olivier-panis,Olivier Panis,bar,DNF,29,11,1,12,1069.123284,1061.35625,-7.767034,0.3125,0.467841,50.0,17
+2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,takuma-sato,Takuma Sato,jordan,DNF,23,14,1,13,951.96902,946.310201,-5.658819,0.25,0.363176,50.0,17
+2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,enrique-bernoldi,Enrique Bernoldi,arrows,DNQ,,,2,14,917.551611,907.115705,-10.435906,0.125,0.333718,50.0,17
+2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNQ,,,2,15,1063.939538,1047.032733,-16.906805,0.125,0.463136,50.0,17
+2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,heinz-harald-frentzen,Heinz-Harald Frentzen,arrows,DNQ,,,2,16,1121.599658,1102.078897,-19.520761,0.125,0.515415,50.0,17
+2002,11,2002-07-21,france,Mobil 1 Grand Prix de France 2002,691,rubens-barrichello,Rubens Barrichello,ferrari,DNS,,3,2,17,1350.591798,1315.179718,-35.41208,0.0,0.708242,50.0,17

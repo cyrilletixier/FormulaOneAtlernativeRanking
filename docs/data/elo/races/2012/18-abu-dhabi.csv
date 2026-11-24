@@ -1,25 +1,22 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,kimi-raikkonen,Kimi Räikkönen,lotus-f1,1,55,4,0,1,1314.87758,1327.251464,12.373884,1.0,0.752522,50.0,24
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,fernando-alonso,Fernando Alonso,ferrari,2,55,6,0,2,1356.747575,1364.971037,8.223462,0.956522,0.792052,50.0,24
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,sebastian-vettel,Sebastian Vettel,red-bull,3,55,PL,0,3,1388.997149,1393.656645,4.659496,0.913043,0.819854,50.0,24
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,jenson-button,Jenson Button,mclaren,4,55,5,0,4,1259.200857,1267.960336,8.759479,0.869565,0.694376,50.0,24
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,pastor-maldonado,Pastor Maldonado,williams,5,55,3,0,5,1001.2111,1023.518348,22.307248,0.826087,0.379942,50.0,24
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,kamui-kobayashi,Kamui Kobayashi,sauber,6,55,15,0,6,1080.365244,1095.573342,15.208098,0.782609,0.478447,50.0,24
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,felipe-massa,Felipe Massa,ferrari,7,55,8,0,7,1245.303254,1248.31155,3.008296,0.73913,0.678965,50.0,24
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,bruno-senna,Bruno Senna,williams,8,55,14,0,8,1035.724259,1049.386295,13.662036,0.695652,0.422411,50.0,24
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,paul-di-resta,Paul di Resta,force-india,9,55,12,0,9,1141.546017,1146.387325,4.841309,0.652174,0.555348,50.0,24
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,daniel-ricciardo,Daniel Ricciardo,toro-rosso,10,55,16,0,10,1047.696129,1056.263153,8.567024,0.608696,0.437355,50.0,24
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,michael-schumacher,Michael Schumacher,mercedes,11,55,13,0,11,1066.720471,1071.919059,5.198588,0.565217,0.461246,50.0,24
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,12,55,17,0,12,1016.549945,1022.702605,6.15266,0.521739,0.398686,50.0,24
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,heikki-kovalainen,Heikki Kovalainen,caterham,13,55,18,0,13,949.053816,957.048211,7.994394,0.478261,0.318373,50.0,24
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,timo-glock,Timo Glock,marussia,14,55,21,0,14,888.937937,898.024636,9.086699,0.434783,0.253049,50.0,24
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,sergio-perez,Sergio Pérez,sauber,15,55,11,0,15,1061.160026,1058.012806,-3.147219,0.391304,0.454249,50.0,24
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,vitaly-petrov,Vitaly Petrov,caterham,16,55,20,0,16,977.005163,976.851404,-0.153759,0.347826,0.350901,50.0,24
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,pedro-de-la-rosa,Pedro de la Rosa,hrt,17,55,PL,0,17,886.599647,889.284334,2.684686,0.304348,0.250654,50.0,24
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,charles-pic,Charles Pic,marussia,DNF,41,19,1,18,920.410193,919.134532,-1.275661,0.26087,0.286383,50.0,24
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,mark-webber,Mark Webber,red-bull,DNF,37,2,1,19,1338.619227,1309.631642,-28.987585,0.195652,0.775404,50.0,24
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,romain-grosjean,Romain Grosjean,lotus-f1,DNF,37,9,1,20,1056.088073,1043.476893,-12.61118,0.195652,0.447876,50.0,24
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,lewis-hamilton,Lewis Hamilton,mclaren,DNF,19,1,1,21,1236.569227,1209.635292,-26.933934,0.130435,0.669113,50.0,24
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,narain-karthikeyan,Narain Karthikeyan,hrt,DNF,7,23,1,22,819.129032,813.045305,-6.083728,0.065217,0.186892,50.0,24
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,nico-rosberg,Nico Rosberg,mercedes,DNF,7,7,1,23,1177.269458,1150.565136,-26.704321,0.065217,0.599304,50.0,24
-2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,nico-hulkenberg,Nico Hülkenberg,force-india,DNF,0,10,1,24,1126.534786,1099.704814,-26.829972,0.0,0.536599,50.0,24
+2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,kimi-raikkonen,Kimi Räikkönen,lotus-f1,1,55,4,0,1,1453.534002,1466.623701,13.089699,1.0,0.738206,50.0,21
+2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,fernando-alonso,Fernando Alonso,ferrari,2,55,6,0,2,1503.133342,1512.066169,8.932827,0.95,0.771343,50.0,21
+2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,sebastian-vettel,Sebastian Vettel,red-bull,3,55,PL,0,3,1592.514879,1596.273809,3.75893,0.9,0.824821,50.0,21
+2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,jenson-button,Jenson Button,mclaren,4,55,5,0,4,1427.557704,1434.061533,6.503829,0.85,0.719923,50.0,21
+2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,pastor-maldonado,Pastor Maldonado,williams,5,55,3,0,5,1006.808345,1028.147067,21.338723,0.8,0.373226,50.0,21
+2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,kamui-kobayashi,Kamui Kobayashi,sauber,6,55,15,0,6,1112.393106,1126.744736,14.35163,0.75,0.462967,50.0,21
+2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,felipe-massa,Felipe Massa,ferrari,7,55,8,0,7,1344.114763,1346.250364,2.135601,0.7,0.657288,50.0,21
+2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,bruno-senna,Bruno Senna,williams,8,55,14,0,8,1001.082122,1015.157979,14.075857,0.65,0.368483,50.0,21
+2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,paul-di-resta,Paul di Resta,force-india,9,55,12,0,9,1151.476565,1156.641126,5.164561,0.6,0.496709,50.0,21
+2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,daniel-ricciardo,Daniel Ricciardo,toro-rosso,10,55,16,0,10,1012.387236,1020.994099,8.606863,0.55,0.377863,50.0,21
+2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,michael-schumacher,Michael Schumacher,mercedes,11,55,13,0,11,1220.797092,1217.989167,-2.807925,0.5,0.556158,50.0,21
+2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,12,55,17,0,12,1014.899366,1018.401568,3.502202,0.45,0.379956,50.0,21
+2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,heikki-kovalainen,Heikki Kovalainen,caterham,13,55,18,0,13,898.772651,904.4023,5.629648,0.4,0.287407,50.0,21
+2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,timo-glock,Timo Glock,marussia,14,55,21,0,14,822.033467,827.909156,5.875689,0.35,0.232486,50.0,21
+2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,sergio-perez,Sergio Pérez,sauber,15,55,11,0,15,1076.637241,1070.026362,-6.610879,0.3,0.432218,50.0,21
+2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,vitaly-petrov,Vitaly Petrov,caterham,16,55,20,0,16,955.643016,951.565999,-4.077017,0.25,0.33154,50.0,21
+2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,pedro-de-la-rosa,Pedro de la Rosa,hrt,17,55,PL,0,17,886.008185,882.114304,-3.893881,0.2,0.277878,50.0,21
+2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,mark-webber,Mark Webber,red-bull,DNF,37,2,1,18,1462.39725,1431.432193,-30.965057,0.125,0.744301,50.0,21
+2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,romain-grosjean,Romain Grosjean,lotus-f1,DNF,37,9,1,19,1054.724431,1040.298781,-14.42565,0.125,0.413513,50.0,21
+2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,nico-rosberg,Nico Rosberg,mercedes,DNF,7,7,1,20,1253.478415,1226.792925,-26.68549,0.05,0.58371,50.0,21
+2012,18,2012-11-04,abu-dhabi,2012 Formula 1 Etihad Airways Abu Dhabi Grand Prix,876,nico-hulkenberg,Nico Hülkenberg,force-india,DNF,0,10,1,21,1120.54704,1097.046878,-23.500162,0.0,0.470003,50.0,21

@@ -1,21 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,sebastian-vettel,Sebastian Vettel,ferrari,1,56,2,0,1,1371.546004,1383.06502,11.519017,1.0,0.76962,50.0,20
-2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,lewis-hamilton,Lewis Hamilton,mercedes,2,56,1,0,2,1405.335275,1412.630548,7.295273,0.947368,0.801463,50.0,20
-2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,nico-rosberg,Nico Rosberg,mercedes,3,56,3,0,3,1356.274546,1363.2921,7.017554,0.894737,0.754386,50.0,20
-2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,kimi-raikkonen,Kimi Räikkönen,ferrari,4,56,11,0,4,1205.690674,1218.730324,13.039651,0.842105,0.581312,50.0,20
-2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,valtteri-bottas,Valtteri Bottas,williams,5,56,8,0,5,1206.410801,1216.773819,10.363019,0.789474,0.582213,50.0,20
-2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,felipe-massa,Felipe Massa,williams,6,56,7,0,6,1250.117322,1255.163613,5.04629,0.736842,0.635916,50.0,20
-2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,max-verstappen,Max Verstappen,toro-rosso,7,56,6,0,7,1001.725855,1019.670316,17.944461,0.684211,0.325321,50.0,20
-2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,8,55,15,0,8,1012.252171,1026.942689,14.690518,0.631579,0.337769,50.0,20
-2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,daniil-kvyat,Daniil Kvyat,red-bull,9,55,5,0,9,996.666806,1009.644136,12.977329,0.578947,0.319401,50.0,20
-2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,daniel-ricciardo,Daniel Ricciardo,red-bull,10,55,4,0,10,1254.44207,1248.702516,-5.739553,0.526316,0.641107,50.0,20
-2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,romain-grosjean,Romain Grosjean,lotus-f1,11,55,10,0,11,1025.321555,1031.333332,6.011777,0.473684,0.353449,50.0,20
-2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,felipe-nasr,Felipe Nasr,sauber,12,55,16,0,12,1022.778487,1026.312166,3.533679,0.421053,0.350379,50.0,20
-2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,sergio-perez,Sergio Pérez,force-india,13,55,14,0,13,1129.968054,1124.141648,-5.826406,0.368421,0.484949,50.0,20
-2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,nico-hulkenberg,Nico Hülkenberg,force-india,14,55,13,0,14,1185.622559,1173.610029,-12.01253,0.315789,0.55604,50.0,20
-2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,roberto-merhi,Roberto Merhi,marussia,15,53,19,0,15,992.515329,989.944543,-2.570786,0.263158,0.314574,50.0,20
-2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,pastor-maldonado,Pastor Maldonado,lotus-f1,DNF,47,12,1,16,977.038142,972.722547,-4.315596,0.210526,0.296838,50.0,20
-2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,jenson-button,Jenson Button,mclaren,DNF,41,17,1,17,1242.714491,1219.260506,-23.453985,0.157895,0.626974,50.0,20
-2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,fernando-alonso,Fernando Alonso,mclaren,DNF,21,18,1,18,1314.606594,1284.353247,-30.253347,0.105263,0.71033,50.0,20
-2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,marcus-ericsson,Marcus Ericsson,sauber,DNF,3,9,1,19,935.800178,925.841227,-9.958951,0.052632,0.251811,50.0,20
-2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,will-stevens,Will Stevens,marussia,DNS,,20,2,20,985.208456,969.901044,-15.307412,0.0,0.306148,50.0,20
+2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,sebastian-vettel,Sebastian Vettel,ferrari,1,56,2,0,1,1646.217716,1654.245613,8.027897,1.0,0.839442,50.0,17
+2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,lewis-hamilton,Lewis Hamilton,mercedes,2,56,1,0,2,1590.584517,1597.041323,6.456805,0.9375,0.808364,50.0,17
+2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,nico-rosberg,Nico Rosberg,mercedes,3,56,3,0,3,1518.242564,1523.832376,5.589812,0.875,0.763204,50.0,17
+2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,kimi-raikkonen,Kimi Räikkönen,ferrari,4,56,11,0,4,1316.561784,1326.595276,10.033492,0.8125,0.61183,50.0,17
+2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,valtteri-bottas,Valtteri Bottas,williams,5,56,8,0,5,1220.332019,1231.332429,11.00041,0.75,0.529992,50.0,17
+2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,felipe-massa,Felipe Massa,williams,6,56,7,0,6,1325.878958,1329.278423,3.399464,0.6875,0.619511,50.0,17
+2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,max-verstappen,Max Verstappen,toro-rosso,7,56,6,0,7,1000.0,1014.248226,14.248226,0.625,0.340035,50.0,17
+2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,8,55,15,0,8,1007.9805,1018.774844,10.794344,0.5625,0.346613,50.0,17
+2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,daniil-kvyat,Daniil Kvyat,red-bull,9,55,5,0,9,1012.14653,1019.643373,7.496843,0.5,0.350063,50.0,17
+2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,daniel-ricciardo,Daniel Ricciardo,red-bull,10,55,4,0,10,1308.311021,1299.936729,-8.374292,0.4375,0.604986,50.0,17
+2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,romain-grosjean,Romain Grosjean,lotus-f1,11,55,10,0,11,1097.201622,1094.828956,-2.372665,0.375,0.422453,50.0,17
+2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,felipe-nasr,Felipe Nasr,sauber,12,55,16,0,12,1020.4805,1018.25565,-2.22485,0.3125,0.356997,50.0,17
+2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,sergio-perez,Sergio Pérez,force-india,13,55,14,0,13,1135.768348,1125.464515,-10.303833,0.25,0.456077,50.0,17
+2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,nico-hulkenberg,Nico Hülkenberg,force-india,14,55,13,0,14,1223.269347,1206.017286,-17.25206,0.1875,0.532541,50.0,17
+2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,roberto-merhi,Roberto Merhi,marussia,15,53,19,0,15,993.918,983.415439,-10.502561,0.125,0.335051,50.0,17
+2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,marcus-ericsson,Marcus Ericsson,sauber,DNF,3,9,1,16,896.385165,886.552094,-9.833071,0.0625,0.259161,50.0,17
+2015,2,2015-03-29,malaysia,2015 Formula 1 Petronas Malaysia Grand Prix,918,will-stevens,Will Stevens,marussia,DNS,,20,2,17,979.920753,963.736792,-16.183961,0.0,0.323679,50.0,17

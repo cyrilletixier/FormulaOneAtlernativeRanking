@@ -1,7 +1,9 @@
+exclude_mechanical_dnf: true
 initial_elo: 1000.0
 k: 50.0
-script_hash: a307017d1675dea83a0046440269f347ffaa058afbe78affce38b507d33783d6
-source_hash: cf4fd216df16b6fe78112855ee547894d18c6e54ddc7bd0159acba42cfe6e932
+scale: 600.0
+script_hash: 76b44f1dc08633ff63b0bd4f8e42bfe2a66425b9c5b9cc5f3dd3a3fdfc81de13
+source_hash: e2ca7d9cc0ffb2c9c616193d11148c27cbff73ba27258766f8022221e514962d
 years:
 - 1950
 - 1951

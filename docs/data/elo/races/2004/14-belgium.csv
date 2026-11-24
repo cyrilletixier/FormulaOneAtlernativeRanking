@@ -1,21 +1,17 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,kimi-raikkonen,Kimi Räikkönen,mclaren,1,44,10,0,1,1081.601212,1106.567688,24.966476,1.0,0.50067,50.0,20
-2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,michael-schumacher,Michael Schumacher,ferrari,2,44,2,0,2,1465.126679,1467.68267,2.555991,0.947368,0.896249,50.0,20
-2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,rubens-barrichello,Rubens Barrichello,ferrari,3,44,6,0,3,1299.314324,1305.770767,6.456443,0.894737,0.765608,50.0,20
-2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,felipe-massa,Felipe Massa,sauber,4,44,8,0,4,1025.240376,1046.125098,20.884722,0.842105,0.424411,50.0,20
-2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,giancarlo-fisichella,Giancarlo Fisichella,sauber,5,44,5,0,5,1081.282642,1095.744394,14.461751,0.789474,0.500239,50.0,20
-2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,christian-klien,Christian Klien,jaguar,6,44,13,0,6,990.028863,1007.983669,17.954806,0.736842,0.377746,50.0,20
-2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,david-coulthard,David Coulthard,mclaren,7,44,4,0,7,1152.782778,1157.21497,4.432192,0.684211,0.595567,50.0,20
-2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,olivier-panis,Olivier Panis,toyota,8,44,9,0,8,990.498324,1003.159319,12.660995,0.631579,0.378359,50.0,20
-2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,jarno-trulli,Jarno Trulli,renault,9,44,1,0,9,1133.735479,1134.151792,0.416313,0.578947,0.570621,50.0,20
-2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,ricardo-zonta,Ricardo Zonta,toyota,10,41,20,0,10,1021.117767,1026.489233,5.371467,0.526316,0.418886,50.0,20
-2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,nick-heidfeld,Nick Heidfeld,jordan,11,40,16,0,11,1008.426894,1012.012561,3.585667,0.473684,0.401971,50.0,20
-2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,37,11,1,12,1192.056584,1180.840943,-11.215641,0.421053,0.645365,50.0,20
-2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,antonio-pizzonia,Antônio Pizzonia,williams,DNF,31,14,1,13,1004.511404,1003.093295,-1.418109,0.368421,0.396783,50.0,20
-2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,jenson-button,Jenson Button,bar,DNF,29,12,1,14,1216.769097,1198.793238,-17.975858,0.315789,0.675307,50.0,20
-2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,zsolt-baumgartner,Zsolt Baumgartner,minardi,DNF,28,18,1,15,937.872193,935.441254,-2.430938,0.263158,0.311777,50.0,20
-2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,fernando-alonso,Fernando Alonso,renault,DNF,11,3,1,16,1168.31519,1148.063871,-20.251318,0.210526,0.615553,50.0,20
-2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,gianmaria-bruni,Gianmaria Bruni,minardi,DNF,0,17,1,17,919.007241,908.495679,-10.511561,0.078947,0.289179,50.0,20
-2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,giorgio-pantano,Giorgio Pantano,jordan,DNF,0,19,1,18,932.045492,920.757053,-11.288439,0.078947,0.304716,50.0,20
-2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,mark-webber,Mark Webber,jaguar,DNF,0,7,1,19,1052.953941,1033.810799,-19.143142,0.078947,0.46181,50.0,20
-2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,takuma-sato,Takuma Sato,bar,DNF,0,15,1,20,1058.392303,1038.880486,-19.511817,0.078947,0.469184,50.0,20
+2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,kimi-raikkonen,Kimi Räikkönen,mclaren,1,44,10,0,1,1287.015699,1303.723091,16.707392,1.0,0.665852,50.0,16
+2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,michael-schumacher,Michael Schumacher,ferrari,2,44,2,0,2,1656.937995,1659.054063,2.116068,0.933333,0.891012,50.0,16
+2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,rubens-barrichello,Rubens Barrichello,ferrari,3,44,6,0,3,1426.142394,1431.113673,4.971279,0.866667,0.767241,50.0,16
+2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,felipe-massa,Felipe Massa,sauber,4,44,8,0,4,1012.108731,1030.78563,18.676899,0.8,0.426462,50.0,16
+2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,giancarlo-fisichella,Giancarlo Fisichella,sauber,5,44,5,0,5,1081.946304,1094.147029,12.200725,0.733333,0.489319,50.0,16
+2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,christian-klien,Christian Klien,jaguar,6,44,13,0,6,948.305263,963.135138,14.829875,0.666667,0.370069,50.0,16
+2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,david-coulthard,David Coulthard,mclaren,7,44,4,0,7,1309.442499,1305.269966,-4.172533,0.6,0.683451,50.0,16
+2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,olivier-panis,Olivier Panis,toyota,8,44,9,0,8,994.436921,1000.56933,6.132408,0.533333,0.410685,50.0,16
+2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,jarno-trulli,Jarno Trulli,renault,9,44,1,0,9,1237.126393,1229.199782,-7.926612,0.466667,0.625199,50.0,16
+2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,ricardo-zonta,Ricardo Zonta,toyota,10,41,20,0,10,971.8183,972.285765,0.467465,0.4,0.390651,50.0,16
+2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,nick-heidfeld,Nick Heidfeld,jordan,11,40,16,0,11,1001.879149,997.679916,-4.199232,0.333333,0.417318,50.0,16
+2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,zsolt-baumgartner,Zsolt Baumgartner,minardi,DNF,28,18,1,12,903.398013,900.147654,-3.250359,0.266667,0.331674,50.0,16
+2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,gianmaria-bruni,Gianmaria Bruni,minardi,DNF,0,17,1,13,874.644687,864.251178,-10.393509,0.1,0.30787,50.0,16
+2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,giorgio-pantano,Giorgio Pantano,jordan,DNF,0,19,1,14,911.736184,899.801256,-11.934928,0.1,0.338699,50.0,16
+2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,mark-webber,Mark Webber,jaguar,DNF,0,7,1,15,1026.071959,1009.122701,-16.949258,0.1,0.438985,50.0,16
+2004,14,2004-08-29,belgium,2004 Formula 1 Belgian Grand Prix,727,takuma-sato,Takuma Sato,bar,DNF,0,15,1,16,1033.334439,1016.058759,-17.27568,0.1,0.445514,50.0,16

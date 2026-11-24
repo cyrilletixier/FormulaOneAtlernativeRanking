@@ -1,23 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,michael-schumacher,Michael Schumacher,ferrari,1,55,1,0,1,1317.088326,1327.201184,10.112858,1.0,0.797743,50.0,22
-2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,rubens-barrichello,Rubens Barrichello,ferrari,2,55,2,0,2,1223.695209,1236.361957,12.666748,0.952381,0.699046,50.0,22
-2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,david-coulthard,David Coulthard,mclaren,3,55,8,0,3,1272.960312,1280.505641,7.545329,0.904762,0.753855,50.0,22
-2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,4,55,9,0,4,1094.822187,1111.020378,16.198191,0.857143,0.533179,50.0,22
-2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,ralf-schumacher,Ralf Schumacher,williams,5,55,3,0,5,1117.137224,1129.437651,12.300427,0.809524,0.563515,50.0,22
-2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,mika-hakkinen,Mika Häkkinen,mclaren,6,55,4,0,6,1290.667689,1290.159059,-0.50863,0.761905,0.772077,50.0,22
-2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,jos-verstappen,Jos Verstappen,arrows,7,55,18,0,7,989.473327,1005.727698,16.254371,0.714286,0.389198,50.0,22
-2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,jarno-trulli,Jarno Trulli,jordan,8,54,5,0,8,996.62715,1010.02221,13.39506,0.666667,0.398765,50.0,22
-2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,jean-alesi,Jean Alesi,prost,9,54,13,0,9,985.982871,997.707591,11.72472,0.619048,0.384553,50.0,22
-2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,luciano-burti,Luciano Burti,jaguar,10,54,15,0,10,1018.873342,1026.001853,7.128511,0.571429,0.428858,50.0,22
-2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,jenson-button,Jenson Button,benetton,11,53,17,0,11,1054.824279,1057.105579,2.2813,0.52381,0.478184,50.0,22
-2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,gaston-mazzacane,Gastón Mazzacane,prost,12,53,19,0,12,981.652431,986.521326,4.868895,0.47619,0.378813,50.0,22
-2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,fernando-alonso,Fernando Alonso,minardi,13,52,21,0,13,1003.62342,1004.643091,1.019671,0.428571,0.408178,50.0,22
-2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,tarso-marques,Tarso Marques,minardi,14,51,20,0,14,918.075444,922.215046,4.139602,0.380952,0.29816,50.0,22
-2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,31,16,1,15,1059.842532,1052.254297,-7.588235,0.333333,0.485098,50.0,22
-2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,eddie-irvine,Eddie Irvine,jaguar,DNF,3,12,1,16,1168.350738,1146.322063,-22.028675,0.190476,0.63105,50.0,22
-2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,enrique-bernoldi,Enrique Bernoldi,arrows,DNF,3,22,1,17,982.194849,972.742146,-9.452702,0.190476,0.37953,50.0,22
-2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,jacques-villeneuve,Jacques Villeneuve,bar,DNF,3,7,1,18,1114.598564,1096.118123,-18.480441,0.190476,0.560085,50.0,22
-2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,3,PL,1,19,996.480563,986.075931,-10.404631,0.190476,0.398569,50.0,22
-2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,nick-heidfeld,Nick Heidfeld,sauber,DNF,3,11,1,20,970.924516,962.213053,-8.711462,0.190476,0.364705,50.0,22
-2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,olivier-panis,Olivier Panis,bar,DNF,1,10,1,21,1048.368379,1027.284723,-21.083656,0.047619,0.469292,50.0,22
-2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,kimi-raikkonen,Kimi Räikkönen,sauber,DNF,0,14,1,22,1017.909134,996.531884,-21.37725,0.0,0.427545,50.0,22
+2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,michael-schumacher,Michael Schumacher,ferrari,1,55,1,0,1,1494.562853,1504.718371,10.155518,1.0,0.79689,50.0,18
+2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,rubens-barrichello,Rubens Barrichello,ferrari,2,55,2,0,2,1311.828014,1325.584454,13.756441,0.941176,0.666048,50.0,18
+2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,david-coulthard,David Coulthard,mclaren,3,55,8,0,3,1424.966507,1431.53059,6.564083,0.882353,0.751071,50.0,18
+2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,4,55,9,0,4,1277.365735,1286.648146,9.282411,0.823529,0.637881,50.0,18
+2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,ralf-schumacher,Ralf Schumacher,williams,5,55,3,0,5,1177.505304,1188.149573,10.644269,0.764706,0.551821,50.0,18
+2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,mika-hakkinen,Mika Häkkinen,mclaren,6,55,4,0,6,1522.202912,1516.816066,-5.386846,0.705882,0.813619,50.0,18
+2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,jos-verstappen,Jos Verstappen,arrows,7,55,18,0,7,966.320425,980.499964,14.179539,0.647059,0.363468,50.0,18
+2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,jarno-trulli,Jarno Trulli,jordan,8,54,5,0,8,970.41115,981.473078,11.061928,0.588235,0.366997,50.0,18
+2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,jean-alesi,Jean Alesi,prost,9,54,13,0,9,1076.411907,1079.830979,3.419071,0.529412,0.46103,50.0,18
+2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,luciano-burti,Luciano Burti,jaguar,10,54,15,0,10,1008.31874,1011.841354,3.522614,0.470588,0.400136,50.0,18
+2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,jenson-button,Jenson Button,benetton,11,53,17,0,11,1076.115836,1073.665897,-2.449939,0.411765,0.460763,50.0,18
+2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,gaston-mazzacane,Gastón Mazzacane,prost,12,53,19,0,12,935.887472,936.656367,0.768895,0.352941,0.337563,50.0,18
+2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,fernando-alonso,Fernando Alonso,minardi,13,52,21,0,13,996.788093,991.995031,-4.793061,0.294118,0.389979,50.0,18
+2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,tarso-marques,Tarso Marques,minardi,14,51,20,0,14,907.994755,904.037982,-3.956773,0.235294,0.31443,50.0,18
+2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,enrique-bernoldi,Enrique Bernoldi,arrows,DNF,3,22,1,15,981.163093,966.758913,-14.404179,0.088235,0.376319,50.0,18
+2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,jacques-villeneuve,Jacques Villeneuve,bar,DNF,3,7,1,16,1171.591344,1148.674661,-22.916683,0.088235,0.546569,50.0,18
+2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,3,PL,1,17,1000.0,984.771663,-15.228337,0.088235,0.392802,50.0,18
+2001,2,2001-03-18,malaysia,2001 Petronas Malaysian Grand Prix,665,nick-heidfeld,Nick Heidfeld,sauber,DNF,3,11,1,18,976.89954,962.68059,-14.21895,0.088235,0.372614,50.0,18

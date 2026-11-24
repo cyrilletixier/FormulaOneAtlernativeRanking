@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,lewis-hamilton,Lewis Hamilton,mercedes,1,44,3,0,1,1347.044034,1360.630916,13.586882,1.0,0.728262,50.0,20
-2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,oscar-piastri,Oscar Piastri,mclaren,2,44,5,0,2,1269.257239,1284.454985,15.197746,0.947368,0.643413,50.0,20
-2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,charles-leclerc,Charles Leclerc,ferrari,3,44,1,0,3,1307.891595,1318.28803,10.396435,0.894737,0.686808,50.0,20
-2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,max-verstappen,Max Verstappen,red-bull,4,44,11,0,4,1558.245987,1555.479521,-2.766466,0.842105,0.897435,50.0,20
-2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,lando-norris,Lando Norris,mclaren,5,44,4,0,5,1347.656007,1350.685289,3.029281,0.789474,0.728888,50.0,20
-2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,6,44,7,0,6,1322.134313,1323.866245,1.731932,0.736842,0.702203,50.0,20
-2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,sergio-perez,Sergio Pérez,red-bull,7,44,2,0,7,1281.636023,1282.9685,1.332477,0.684211,0.657561,50.0,20
-2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,fernando-alonso,Fernando Alonso,aston-martin,8,44,8,0,8,1190.923421,1195.014222,4.090801,0.631579,0.549763,50.0,20
-2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,esteban-ocon,Esteban Ocon,alpine,9,44,9,0,9,1056.169621,1065.961666,9.792045,0.578947,0.383106,50.0,20
-2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,daniel-ricciardo,Daniel Ricciardo,rb,10,44,13,0,10,1057.914844,1064.969748,7.054904,0.526316,0.385218,50.0,20
-2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,lance-stroll,Lance Stroll,aston-martin,11,44,15,0,11,1109.544518,1110.795182,1.250664,0.473684,0.448671,50.0,20
-2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,alexander-albon,Alexander Albon,williams,12,44,10,0,12,1020.425915,1024.449603,4.023688,0.421053,0.340579,50.0,20
-2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,pierre-gasly,Pierre Gasly,alpine,13,44,12,0,13,1052.332296,1051.829625,-0.502671,0.368421,0.378474,50.0,20
-2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,kevin-magnussen,Kevin Magnussen,haas,14,44,17,0,14,972.621916,974.089602,1.467685,0.315789,0.286436,50.0,20
-2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,valtteri-bottas,Valtteri Bottas,kick-sauber,15,44,14,0,15,961.429797,960.871936,-0.557861,0.263158,0.274315,50.0,20
-2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,yuki-tsunoda,Yuki Tsunoda,rb,16,44,20,0,16,1058.532028,1049.760094,-8.771934,0.210526,0.385965,50.0,20
-2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,logan-sargeant,Logan Sargeant,williams,17,44,18,0,17,896.21146,893.670433,-2.541027,0.157895,0.208715,50.0,20
-2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,nico-hulkenberg,Nico Hülkenberg,haas,18,44,16,0,18,1074.76572,1059.74203,-15.023691,0.105263,0.405737,50.0,20
-2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,guanyu-zhou,Guanyu Zhou,kick-sauber,DNF,5,19,1,19,949.983055,939.506453,-10.476602,0.052632,0.262164,50.0,20
-2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,george-russell,George Russell,mercedes,DSQ,44,6,2,20,1271.755309,1239.44102,-32.31429,0.0,0.646286,50.0,20
+2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,lewis-hamilton,Lewis Hamilton,mercedes,1,44,3,0,1,1561.853288,1574.689021,12.835732,1.0,0.743285,50.0,19
+2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,oscar-piastri,Oscar Piastri,mclaren,2,44,5,0,2,1313.925284,1333.459559,19.534275,0.944444,0.553759,50.0,19
+2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,charles-leclerc,Charles Leclerc,ferrari,3,44,1,0,3,1512.433868,1521.427299,8.99343,0.888889,0.70902,50.0,19
+2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,max-verstappen,Max Verstappen,red-bull,4,44,11,0,4,1845.309777,1842.25004,-3.059737,0.833333,0.894528,50.0,19
+2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,lando-norris,Lando Norris,mclaren,5,44,4,0,5,1471.678797,1476.606348,4.927551,0.777778,0.679227,50.0,19
+2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,6,44,7,0,6,1461.109543,1463.656091,2.546548,0.722222,0.671291,50.0,19
+2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,sergio-perez,Sergio Pérez,red-bull,7,44,2,0,7,1455.001327,1455.001258,-7e-05,0.666667,0.666668,50.0,19
+2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,fernando-alonso,Fernando Alonso,aston-martin,8,44,8,0,8,1306.523832,1309.699703,3.175871,0.611111,0.547594,50.0,19
+2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,esteban-ocon,Esteban Ocon,alpine,9,44,9,0,9,1132.329257,1140.041887,7.71263,0.555556,0.401303,50.0,19
+2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,daniel-ricciardo,Daniel Ricciardo,rb,10,44,13,0,10,1105.973451,1111.991404,6.017953,0.5,0.379641,50.0,19
+2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,lance-stroll,Lance Stroll,aston-martin,11,44,15,0,11,1151.243094,1152.614988,1.371894,0.444444,0.417007,50.0,19
+2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,alexander-albon,Alexander Albon,williams,12,44,10,0,12,1060.112485,1062.419976,2.307491,0.388889,0.342739,50.0,19
+2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,pierre-gasly,Pierre Gasly,alpine,13,44,12,0,13,1125.623472,1122.501887,-3.121585,0.333333,0.395765,50.0,19
+2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,kevin-magnussen,Kevin Magnussen,haas,14,44,17,0,14,929.897454,931.489381,1.591927,0.277778,0.245939,50.0,19
+2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,valtteri-bottas,Valtteri Bottas,kick-sauber,15,44,14,0,15,1033.633807,1028.644978,-4.988829,0.222222,0.321999,50.0,19
+2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,yuki-tsunoda,Yuki Tsunoda,rb,16,44,20,0,16,1043.204653,1035.06588,-8.138773,0.166667,0.329442,50.0,19
+2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,logan-sargeant,Logan Sargeant,williams,17,44,18,0,17,869.566072,864.807738,-4.758334,0.111111,0.206278,50.0,19
+2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,nico-hulkenberg,Nico Hülkenberg,haas,18,44,16,0,18,1074.345845,1059.420165,-14.92568,0.055556,0.354069,50.0,19
+2024,14,2024-07-28,belgium,Formula 1 Rolex Belgian Grand Prix 2024,1115,george-russell,George Russell,mercedes,DSQ,44,6,2,19,1420.976737,1388.954442,-32.022295,0.0,0.640446,50.0,19

@@ -1,23 +1,16 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,giancarlo-fisichella,Giancarlo Fisichella,renault,1,56,1,0,1,1150.49929,1172.240103,21.740813,1.0,0.565184,50.0,22
-2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,fernando-alonso,Fernando Alonso,renault,2,56,7,0,2,1332.38217,1340.798051,8.415882,0.952381,0.784063,50.0,22
-2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,jenson-button,Jenson Button,honda,3,56,2,0,3,1215.529269,1228.215865,12.686597,0.904762,0.65103,50.0,22
-2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,juan-pablo-montoya,Juan Pablo Montoya,mclaren,4,56,5,0,4,1170.363574,1183.620174,13.2566,0.857143,0.592011,50.0,22
-2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,felipe-massa,Felipe Massa,ferrari,5,56,21,0,5,1093.327591,1109.481695,16.154104,0.809524,0.486442,50.0,22
-2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,michael-schumacher,Michael Schumacher,ferrari,6,56,14,0,6,1257.677896,1260.63613,2.958234,0.761905,0.70274,50.0,22
-2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,jacques-villeneuve,Jacques Villeneuve,bmw-sauber,7,56,10,0,7,1038.436731,1053.597513,15.160782,0.714286,0.41107,50.0,22
-2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,ralf-schumacher,Ralf Schumacher,toyota,8,56,22,0,8,1189.981567,1192.413291,2.431724,0.666667,0.618032,50.0,22
-2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,jarno-trulli,Jarno Trulli,toyota,9,55,9,0,9,1110.198642,1115.661159,5.462516,0.619048,0.509797,50.0,22
-2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,rubens-barrichello,Rubens Barrichello,honda,10,55,20,0,10,1199.108981,1196.183074,-2.925907,0.571429,0.629947,50.0,22
-2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,vitantonio-liuzzi,Vitantonio Liuzzi,toro-rosso,11,54,13,0,11,1006.323032,1014.100639,7.777607,0.52381,0.368257,50.0,22
-2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,christijan-albers,Christijan Albers,midland,12,54,15,0,12,934.889028,944.72498,9.835951,0.47619,0.279471,50.0,22
-2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,tiago-monteiro,Tiago Monteiro,midland,13,54,16,0,13,998.318751,1001.856419,3.537669,0.428571,0.357818,50.0,22
-2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,takuma-sato,Takuma Sato,super-aguri,14,53,17,0,14,996.23907,997.530535,1.291465,0.380952,0.355123,50.0,22
-2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,nick-heidfeld,Nick Heidfeld,bmw-sauber,DNF,48,11,1,15,1056.687308,1051.557999,-5.129309,0.333333,0.43592,50.0,22
-2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,scott-speed,Scott Speed,toro-rosso,DNF,41,12,1,16,1003.454024,999.514557,-3.939467,0.285714,0.364504,50.0,22
-2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,yuji-ide,Yuji Ide,super-aguri,DNF,33,18,1,17,989.168309,983.772235,-5.396074,0.238095,0.346017,50.0,22
-2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,christian-klien,Christian Klien,red-bull,DNF,26,8,1,18,1061.797203,1049.174729,-12.622474,0.190476,0.442926,50.0,22
-2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,mark-webber,Mark Webber,williams,DNF,15,4,1,19,1094.59994,1077.33263,-17.267309,0.142857,0.488203,50.0,22
-2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,david-coulthard,David Coulthard,red-bull,DNF,10,19,1,20,1092.339142,1072.847382,-19.49176,0.095238,0.485073,50.0,22
-2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,nico-rosberg,Nico Rosberg,williams,DNF,6,3,1,21,1017.739738,1000.954731,-16.785007,0.047619,0.383319,50.0,22
-2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,0,6,1,22,1293.075743,1255.923107,-37.152636,0.0,0.743053,50.0,22
+2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,giancarlo-fisichella,Giancarlo Fisichella,renault,1,56,1,0,1,1223.281062,1247.344903,24.063841,1.0,0.518723,50.0,15
+2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,fernando-alonso,Fernando Alonso,renault,2,56,7,0,2,1451.030209,1461.648046,10.617836,0.928571,0.716215,50.0,15
+2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,jenson-button,Jenson Button,honda,3,56,2,0,3,1311.575952,1324.49608,12.920127,0.857143,0.59874,50.0,15
+2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,juan-pablo-montoya,Juan Pablo Montoya,mclaren,4,56,5,0,4,1334.29185,1342.636482,8.344632,0.785714,0.618822,50.0,15
+2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,felipe-massa,Felipe Massa,ferrari,5,56,21,0,5,1104.656507,1119.837945,15.181438,0.714286,0.410657,50.0,15
+2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,michael-schumacher,Michael Schumacher,ferrari,6,56,14,0,6,1462.927869,1458.797699,-4.13017,0.642857,0.725461,50.0,15
+2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,jacques-villeneuve,Jacques Villeneuve,bmw-sauber,7,56,10,0,7,1086.882318,1095.712113,8.829795,0.571429,0.394833,50.0,15
+2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,ralf-schumacher,Ralf Schumacher,toyota,8,56,22,0,8,1247.370948,1245.332805,-2.038143,0.5,0.540763,50.0,15
+2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,jarno-trulli,Jarno Trulli,toyota,9,55,9,0,9,1171.233487,1169.111748,-2.121739,0.428571,0.471006,50.0,15
+2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,rubens-barrichello,Rubens Barrichello,honda,10,55,20,0,10,1314.312152,1302.110606,-12.201546,0.357143,0.601174,50.0,15
+2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,vitantonio-liuzzi,Vitantonio Liuzzi,toro-rosso,11,54,13,0,11,994.961147,993.43793,-1.523217,0.285714,0.316179,50.0,15
+2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,christijan-albers,Christijan Albers,midland,12,54,15,0,12,926.420333,924.025824,-2.394509,0.214286,0.262176,50.0,15
+2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,tiago-monteiro,Tiago Monteiro,midland,13,54,16,0,13,944.358552,937.708442,-6.65011,0.142857,0.275859,50.0,15
+2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,takuma-sato,Takuma Sato,super-aguri,14,53,17,0,14,995.04623,982.805238,-12.240992,0.071429,0.316248,50.0,15
+2006,2,2006-03-19,malaysia,2006 Formula 1 Petronas Malaysian Grand Prix,752,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,0,6,1,15,1472.961269,1436.304024,-36.657245,0.0,0.733145,50.0,15

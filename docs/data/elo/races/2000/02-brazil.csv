@@ -1,23 +1,15 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,michael-schumacher,Michael Schumacher,ferrari,1,71,3,0,1,1298.86857,1310.176011,11.307441,1.0,0.773851,50.0,22
-2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,giancarlo-fisichella,Giancarlo Fisichella,benetton,2,71,5,0,2,1102.359088,1123.487683,21.128595,0.952381,0.529809,50.0,22
-2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,3,71,7,0,3,1218.661042,1229.719452,11.05841,0.904762,0.683594,50.0,22
-2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,jarno-trulli,Jarno Trulli,jordan,4,71,12,0,4,1009.755277,1032.541945,22.786668,0.857143,0.401409,50.0,22
-2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,ralf-schumacher,Ralf Schumacher,williams,5,70,11,0,5,1178.019066,1186.884426,8.865359,0.809524,0.632217,50.0,22
-2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,jenson-button,Jenson Button,williams,6,70,9,0,6,1009.088568,1027.158575,18.070007,0.761905,0.400505,50.0,22
-2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,jos-verstappen,Jos Verstappen,arrows,7,70,14,0,7,967.35937,985.81736,18.45799,0.714286,0.345126,50.0,22
-2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,pedro-de-la-rosa,Pedro de la Rosa,arrows,8,70,16,0,8,972.967624,988.680728,15.713104,0.666667,0.352405,50.0,22
-2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,ricardo-zonta,Ricardo Zonta,bar,9,69,8,0,9,996.763543,1008.522047,11.758505,0.619048,0.383878,50.0,22
-2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,gaston-mazzacane,Gastón Mazzacane,minardi,10,69,20,0,10,1004.326663,1013.195226,8.868563,0.571429,0.394057,50.0,22
-2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,johnny-herbert,Johnny Herbert,jaguar,DNF,51,17,1,11,1043.230173,1047.050261,3.820088,0.52381,0.447408,50.0,22
-2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,marc-gene,Marc Gené,minardi,DNF,31,18,1,12,1012.015261,1015.600749,3.585489,0.47619,0.404481,50.0,22
-2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,mika-hakkinen,Mika Häkkinen,mclaren,DNF,30,1,1,13,1240.82056,1226.742894,-14.077667,0.428571,0.710125,50.0,22
-2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,rubens-barrichello,Rubens Barrichello,ferrari,DNF,27,4,1,14,1123.383807,1114.487666,-8.896141,0.380952,0.558875,50.0,22
-2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,eddie-irvine,Eddie Irvine,jaguar,DNF,20,6,1,15,1274.608354,1253.860799,-20.747555,0.333333,0.748284,50.0,22
-2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,jacques-villeneuve,Jacques Villeneuve,bar,DNF,16,10,1,16,1068.692877,1058.835203,-9.857674,0.285714,0.482868,50.0,22
-2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,jean-alesi,Jean Alesi,prost,DNF,11,15,1,17,1075.617787,1062.895723,-12.722064,0.238095,0.492537,50.0,22
-2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,nick-heidfeld,Nick Heidfeld,prost,DNF,9,19,1,18,1011.46952,1000.806403,-10.663117,0.190476,0.403739,50.0,22
-2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,alexander-wurz,Alexander Wurz,benetton,DNF,6,13,1,19,1078.458077,1060.77582,-17.682256,0.142857,0.496502,50.0,22
-2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,david-coulthard,David Coulthard,mclaren,DSQ,71,2,2,20,1150.79884,1125.752267,-25.046573,0.095238,0.59617,50.0,22
-2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,mika-salo,Mika Salo,sauber,DNS,,,2,21,1031.85462,1011.461633,-20.392987,0.02381,0.431669,50.0,22
-2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,pedro-diniz,Pedro Diniz,sauber,DNS,,,2,22,955.943398,940.609212,-15.334186,0.02381,0.330493,50.0,22
+2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,michael-schumacher,Michael Schumacher,ferrari,1,71,3,0,1,1448.37425,1459.196774,10.822523,1.0,0.78355,50.0,14
+2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,giancarlo-fisichella,Giancarlo Fisichella,benetton,2,71,5,0,2,1096.366017,1118.062434,21.696417,0.923077,0.489149,50.0,14
+2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,3,71,7,0,3,1312.234296,1320.484119,8.249823,0.846154,0.681157,50.0,14
+2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,jarno-trulli,Jarno Trulli,jordan,4,71,12,0,4,1002.871939,1021.180163,18.308223,0.769231,0.403066,50.0,14
+2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,ralf-schumacher,Ralf Schumacher,williams,5,70,11,0,5,1198.157089,1203.643798,5.486709,0.692308,0.582574,50.0,14
+2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,jenson-button,Jenson Button,williams,6,70,9,0,6,1000.0,1010.746082,10.746082,0.615385,0.400463,50.0,14
+2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,jos-verstappen,Jos Verstappen,arrows,7,70,14,0,7,932.604319,942.492583,9.888264,0.538462,0.340696,50.0,14
+2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,pedro-de-la-rosa,Pedro de la Rosa,arrows,8,70,16,0,8,938.121258,943.924367,5.803109,0.461538,0.345476,50.0,14
+2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,ricardo-zonta,Ricardo Zonta,bar,9,69,8,0,9,967.576909,968.239594,0.662685,0.384615,0.371362,50.0,14
+2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,gaston-mazzacane,Gastón Mazzacane,minardi,10,69,20,0,10,1000.0,995.361467,-4.638533,0.307692,0.400463,50.0,14
+2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,eddie-irvine,Eddie Irvine,jaguar,DNF,20,6,1,11,1350.795006,1326.728787,-24.066219,0.230769,0.712094,50.0,14
+2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,david-coulthard,David Coulthard,mclaren,DSQ,71,2,2,12,1370.469093,1341.795468,-28.673626,0.153846,0.727319,50.0,14
+2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,mika-salo,Mika Salo,sauber,DNS,,,2,13,1043.756462,1023.65607,-20.100393,0.038462,0.440469,50.0,14
+2000,2,2000-03-26,brazil,Grande Prêmio Marlboro do Brasil 2000,648,pedro-diniz,Pedro Diniz,sauber,DNS,,,2,14,910.946286,896.76122,-14.185066,0.038462,0.322163,50.0,14

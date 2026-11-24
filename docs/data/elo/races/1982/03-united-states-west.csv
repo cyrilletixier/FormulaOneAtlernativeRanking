@@ -1,32 +1,28 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,niki-lauda,Niki Lauda,mclaren,1,75,2,0,1,1111.083819,1132.548899,21.46508,1.0,0.570698,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,keke-rosberg,Keke Rosberg,williams,2,75,8,0,2,988.359732,1016.594022,28.23429,0.966667,0.401981,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,riccardo-patrese,Riccardo Patrese,brabham,3,75,18,0,3,1077.905135,1098.319081,20.413946,0.933333,0.525054,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,michele-alboreto,Michele Alboreto,tyrrell,4,75,12,0,4,1067.407219,1086.881981,19.474762,0.9,0.510505,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,elio-de-angelis,Elio de Angelis,lotus,5,74,16,0,5,1167.926404,1178.950926,11.024522,0.866667,0.646176,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,john-watson,John Watson,mclaren,6,74,11,0,6,1241.883711,1246.788284,4.904573,0.833333,0.735242,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,nigel-mansell,Nigel Mansell,lotus,7,73,17,0,7,1049.708467,1065.410815,15.702348,0.8,0.485953,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,jochen-mass,Jochen Mass,march,8,73,21,0,8,1084.192852,1095.838541,11.64569,0.766667,0.533753,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,raul-boesel,Raul Boesel,march,9,70,23,0,9,995.93209,1011.990617,16.058527,0.733333,0.412163,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,slim-borgudd,Slim Borgudd,tyrrell,10,68,24,0,10,1014.029974,1027.192225,13.162251,0.7,0.436755,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,eddie-cheever,Eddie Cheever,ligier,DNF,59,13,1,11,1033.833904,1043.96815,10.134246,0.666667,0.463982,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,DNF,33,1,1,12,1028.407976,1037.249803,8.841827,0.633333,0.456497,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,brian-henton,Brian Henton,arrows,DNF,32,20,1,13,843.24357,861.837033,18.593464,0.6,0.228131,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,roberto-guerrero,Roberto Guerrero,ensign,DNF,27,19,1,14,981.814678,990.486019,8.671341,0.566667,0.39324,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,jacques-laffite,Jacques Laffite,ligier,DNF,26,15,1,15,1204.876498,1196.097983,-8.778516,0.516667,0.692237,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,jean-pierre-jarier,Jean-Pierre Jarier,osella,DNF,26,10,1,16,1120.505292,1117.163597,-3.341695,0.516667,0.583501,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,nelson-piquet,Nelson Piquet,brabham,DNF,25,6,1,17,1208.901982,1197.381513,-11.520469,0.466667,0.697076,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,derek-daly,Derek Daly,theodore,DNF,23,22,1,18,1001.845496,1002.504111,0.658615,0.433333,0.420161,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,mario-andretti,Mario Andretti,williams,DNF,19,14,1,19,1140.899025,1130.356053,-10.542972,0.4,0.610859,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,alain-prost,Alain Prost,renault,DNF,10,4,1,20,1186.964635,1171.78477,-15.179864,0.366667,0.670264,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,didier-pironi,Didier Pironi,ferrari,DNF,6,9,1,21,1154.035529,1139.293451,-14.742078,0.333333,0.628175,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,DNF,5,5,1,22,1113.171874,1098.661372,-14.510502,0.283333,0.573543,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,rene-arnoux,René Arnoux,renault,DNF,5,3,1,23,1138.878685,1122.636676,-16.242008,0.283333,0.608174,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,eliseo-salazar,Eliseo Salazar,ats-wheels,DNF,3,26,1,24,1015.138555,1004.891646,-10.24691,0.233333,0.438272,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,1,25,1,25,1021.006816,1008.691024,-12.315791,0.2,0.446316,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,derek-warwick,Derek Warwick,toleman,DNPQ,,,1,26,881.956728,876.807299,-5.149429,0.166667,0.269655,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,gilles-villeneuve,Gilles Villeneuve,ferrari,DSQ,75,7,2,27,1112.029364,1090.09667,-21.932694,0.133333,0.571987,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,chico-serra,Chico Serra,fittipaldi,DNQ,,,2,28,927.359542,913.697483,-13.662059,0.05,0.323241,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,mauro-baldi,Mauro Baldi,arrows,DNQ,,,2,29,997.539311,979.322673,-18.216638,0.05,0.414333,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,riccardo-paletti,Riccardo Paletti,osella,DNQ,,,2,30,972.539311,955.991494,-16.547817,0.05,0.380956,50.0,31
-1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,teo-fabi,Teo Fabi,toleman,DNQ,,,2,31,965.039311,948.983274,-16.056037,0.05,0.371121,50.0,31
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,niki-lauda,Niki Lauda,mclaren,1,75,2,0,1,1371.215878,1383.240323,12.024446,1.0,0.759511,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,keke-rosberg,Keke Rosberg,williams,2,75,8,0,2,956.003559,984.000694,27.997136,0.961538,0.401596,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,riccardo-patrese,Riccardo Patrese,brabham,3,75,18,0,3,1106.237428,1125.409966,19.172539,0.923077,0.539626,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,michele-alboreto,Michele Alboreto,tyrrell,4,75,12,0,4,1036.39431,1056.870408,20.476098,0.884615,0.475093,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,elio-de-angelis,Elio de Angelis,lotus,5,74,16,0,5,1166.360801,1178.958824,12.598023,0.846154,0.594193,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,john-watson,John Watson,mclaren,6,74,11,0,6,1302.911313,1307.844449,4.933136,0.807692,0.70903,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,nigel-mansell,Nigel Mansell,lotus,7,73,17,0,7,1074.673662,1087.609418,12.935756,0.769231,0.510516,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,jochen-mass,Jochen Mass,march,8,73,21,0,8,1063.574905,1075.101025,11.52612,0.730769,0.500247,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,raul-boesel,Raul Boesel,march,9,70,23,0,9,992.245301,1005.137676,12.892375,0.692308,0.43446,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,slim-borgudd,Slim Borgudd,tyrrell,10,68,24,0,10,979.956485,991.486188,11.529703,0.653846,0.423252,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,andrea-de-cesaris,Andrea de Cesaris,alfa-romeo,DNF,33,1,1,11,1003.298795,1011.83866,8.539865,0.615385,0.444587,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,brian-henton,Brian Henton,arrows,DNF,32,20,1,12,808.738202,823.702543,14.964342,0.576923,0.277636,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,roberto-guerrero,Roberto Guerrero,ensign,DNF,27,19,1,13,981.948943,987.618755,5.669812,0.538462,0.425065,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,jacques-laffite,Jacques Laffite,ligier,DNF,26,15,1,14,1389.895816,1376.277583,-13.618233,0.5,0.772365,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,nelson-piquet,Nelson Piquet,brabham,DNF,25,6,1,15,1242.032844,1232.118622,-9.914222,0.461538,0.659823,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,derek-daly,Derek Daly,theodore,DNF,23,22,1,16,942.350043,944.034598,1.684555,0.423077,0.389386,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,didier-pironi,Didier Pironi,ferrari,DNF,6,9,1,17,1220.839723,1207.976341,-12.863382,0.384615,0.641883,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,DNF,5,5,1,18,1089.906311,1080.023091,-9.88322,0.326923,0.524587,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,rene-arnoux,René Arnoux,renault,DNF,5,3,1,19,1156.104473,1143.200503,-12.903969,0.326923,0.585002,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,eliseo-salazar,Eliseo Salazar,ats-wheels,DNF,3,26,1,20,962.431804,955.524339,-6.907465,0.269231,0.40738,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,manfred-winkelhock,Manfred Winkelhock,ats-wheels,DNF,1,25,1,21,1013.729713,1002.559328,-11.170385,0.230769,0.454177,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,derek-warwick,Derek Warwick,toleman,DNPQ,,,1,22,853.891159,847.829006,-6.062153,0.192308,0.313551,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,gilles-villeneuve,Gilles Villeneuve,ferrari,DSQ,75,7,2,23,1238.153697,1213.017602,-25.136094,0.153846,0.656568,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,chico-serra,Chico Serra,fittipaldi,DNQ,,,2,24,886.051136,871.91716,-14.133976,0.057692,0.340372,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,mauro-baldi,Mauro Baldi,arrows,DNQ,,,2,25,992.005185,973.177768,-18.827417,0.057692,0.434241,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,riccardo-paletti,Riccardo Paletti,osella,DNQ,,,2,26,973.255185,955.281497,-17.973688,0.057692,0.417166,50.0,27
+1982,3,1982-04-04,united-states-west,1982 Toyota Grand Prix of Long Beach,360,teo-fabi,Teo Fabi,toleman,DNQ,,,2,27,963.880185,946.330485,-17.549701,0.057692,0.408686,50.0,27

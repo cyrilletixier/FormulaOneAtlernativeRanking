@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,charles-leclerc,Charles Leclerc,ferrari,1,58,1,0,1,1274.688026,1291.712463,17.024437,1.0,0.659511,50.0,20
-2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,sergio-perez,Sergio Pérez,red-bull,2,58,3,0,2,1215.684997,1233.67078,17.985783,0.947368,0.587653,50.0,20
-2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,george-russell,George Russell,mercedes,3,58,6,0,3,1020.895597,1048.597786,27.702189,0.894737,0.340693,50.0,20
-2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,lewis-hamilton,Lewis Hamilton,mercedes,4,58,5,0,4,1531.688875,1529.247074,-2.4418,0.842105,0.890941,50.0,20
-2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,lando-norris,Lando Norris,mclaren,5,58,4,0,5,1223.057963,1232.687937,9.629974,0.789474,0.596874,50.0,20
-2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,daniel-ricciardo,Daniel Ricciardo,mclaren,6,58,7,0,6,1170.566274,1180.897491,10.331217,0.736842,0.530218,50.0,20
-2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,esteban-ocon,Esteban Ocon,alpine,7,58,8,0,7,1163.140875,1171.318831,8.177956,0.684211,0.520651,50.0,20
-2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,valtteri-bottas,Valtteri Bottas,alfa-romeo,8,58,12,0,8,1279.262351,1277.597927,-1.664424,0.631579,0.664867,50.0,20
-2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,pierre-gasly,Pierre Gasly,alphatauri,9,58,11,0,9,1158.19319,1161.427196,3.234006,0.578947,0.514267,50.0,20
-2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,alexander-albon,Alexander Albon,williams,10,58,20,0,10,1184.254331,1183.180698,-1.073633,0.526316,0.547788,50.0,20
-2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,guanyu-zhou,Guanyu Zhou,alfa-romeo,11,58,14,0,11,1017.425655,1024.282215,6.85656,0.473684,0.336553,50.0,20
-2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,lance-stroll,Lance Stroll,aston-martin,12,58,19,0,12,1071.92937,1072.80732,0.87795,0.421053,0.403494,50.0,20
-2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,mick-schumacher,Mick Schumacher,haas,13,57,15,0,13,888.023493,896.495379,8.471885,0.368421,0.198983,50.0,20
-2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,kevin-magnussen,Kevin Magnussen,haas,14,57,16,0,14,974.786148,976.206985,1.420837,0.315789,0.287373,50.0,20
-2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,yuki-tsunoda,Yuki Tsunoda,alphatauri,15,57,13,0,15,1014.399393,1010.90939,-3.490004,0.263158,0.332958,50.0,20
-2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,nicholas-latifi,Nicholas Latifi,williams,16,57,18,0,16,915.221565,914.506432,-0.715132,0.210526,0.224829,50.0,20
-2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,fernando-alonso,Fernando Alonso,alpine,17,57,10,0,17,1120.390807,1105.01468,-15.376127,0.157895,0.465417,50.0,20
-2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,max-verstappen,Max Verstappen,red-bull,DNF,38,2,1,18,1376.323924,1343.140741,-33.183183,0.105263,0.768927,50.0,20
-2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,sebastian-vettel,Sebastian Vettel,aston-martin,DNF,22,17,1,19,1093.3468,1074.444526,-18.902273,0.052632,0.430677,50.0,20
-2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,DNF,1,9,1,20,1307.693675,1272.827456,-34.866219,0.0,0.697324,50.0,20
+2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,charles-leclerc,Charles Leclerc,ferrari,1,58,1,0,1,1371.270005,1389.227915,17.957909,1.0,0.640842,50.0,19
+2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,sergio-perez,Sergio Pérez,red-bull,2,58,3,0,2,1314.322544,1331.841907,17.519363,0.944444,0.594057,50.0,19
+2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,george-russell,George Russell,mercedes,3,58,6,0,3,975.322959,1004.340359,29.017401,0.888889,0.308541,50.0,19
+2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,lewis-hamilton,Lewis Hamilton,mercedes,4,58,5,0,4,1797.542134,1794.297722,-3.244412,0.833333,0.898222,50.0,19
+2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,lando-norris,Lando Norris,mclaren,5,58,4,0,5,1304.996539,1314.574066,9.577528,0.777778,0.586227,50.0,19
+2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,daniel-ricciardo,Daniel Ricciardo,mclaren,6,58,7,0,6,1324.627918,1330.606029,5.978111,0.722222,0.60266,50.0,19
+2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,esteban-ocon,Esteban Ocon,alpine,7,58,8,0,7,1236.986497,1243.912781,6.926284,0.666667,0.528141,50.0,19
+2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,valtteri-bottas,Valtteri Bottas,alfa-romeo,8,58,12,0,8,1555.454726,1547.280123,-8.174603,0.611111,0.774603,50.0,19
+2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,pierre-gasly,Pierre Gasly,alphatauri,9,58,11,0,9,1281.773009,1281.222532,-0.550476,0.555556,0.566565,50.0,19
+2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,alexander-albon,Alexander Albon,williams,10,58,20,0,10,1219.31812,1218.674927,-0.643194,0.5,0.512864,50.0,19
+2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,guanyu-zhou,Guanyu Zhou,alfa-romeo,11,58,14,0,11,1010.015617,1015.449806,5.434189,0.444444,0.335761,50.0,19
+2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,lance-stroll,Lance Stroll,aston-martin,12,58,19,0,12,1082.602511,1082.280391,-0.32212,0.388889,0.395331,50.0,19
+2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,mick-schumacher,Mick Schumacher,haas,13,57,15,0,13,846.06009,851.898139,5.838049,0.333333,0.216572,50.0,19
+2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,kevin-magnussen,Kevin Magnussen,haas,14,57,16,0,14,964.39612,963.276707,-1.119413,0.277778,0.300166,50.0,19
+2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,yuki-tsunoda,Yuki Tsunoda,alphatauri,15,57,13,0,15,1023.183523,1016.978403,-6.20512,0.222222,0.346325,50.0,19
+2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,nicholas-latifi,Nicholas Latifi,williams,16,57,18,0,16,858.035682,855.149425,-2.886257,0.166667,0.224392,50.0,19
+2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,fernando-alonso,Fernando Alonso,alpine,17,57,10,0,17,1203.320163,1183.925586,-19.394577,0.111111,0.499003,50.0,19
+2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,sebastian-vettel,Sebastian Vettel,aston-martin,DNF,22,17,1,18,1207.286706,1184.942437,-22.344269,0.055556,0.502441,50.0,19
+2022,3,2022-04-10,australia,Formula 1 Heineken Australian Grand Prix 2022,1060,carlos-sainz-jr,Carlos Sainz Jr.,ferrari,DNF,1,9,1,19,1404.668337,1371.303944,-33.364393,0.0,0.667288,50.0,19

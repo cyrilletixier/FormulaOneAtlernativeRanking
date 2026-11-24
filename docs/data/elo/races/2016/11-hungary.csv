@@ -1,23 +1,22 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,lewis-hamilton,Lewis Hamilton,mercedes,1,70,2,0,1,1465.321764,1472.578132,7.256368,1.0,0.854873,50.0,22
-2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,nico-rosberg,Nico Rosberg,mercedes,2,70,1,0,2,1414.472093,1421.350857,6.878764,0.952381,0.814806,50.0,22
-2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,daniel-ricciardo,Daniel Ricciardo,red-bull,3,70,3,0,3,1286.298744,1297.176526,10.877781,0.904762,0.687206,50.0,22
-2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,sebastian-vettel,Sebastian Vettel,ferrari,4,70,5,0,4,1329.083716,1335.248546,6.16483,0.857143,0.733846,50.0,22
-2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,max-verstappen,Max Verstappen,red-bull,5,70,4,0,5,1189.054574,1201.066441,12.011867,0.809524,0.569286,50.0,22
-2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,kimi-raikkonen,Kimi Räikkönen,ferrari,6,70,14,0,6,1272.33015,1276.865685,4.535535,0.761905,0.671194,50.0,22
-2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,fernando-alonso,Fernando Alonso,mclaren,7,69,7,0,7,1062.481782,1077.949389,15.467607,0.714286,0.404934,50.0,22
-2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,8,69,6,0,8,1097.58403,1108.398383,10.814354,0.666667,0.45038,50.0,22
-2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,valtteri-bottas,Valtteri Bottas,williams,9,69,10,0,9,1247.244153,1246.118169,-1.125984,0.619048,0.641567,50.0,22
-2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,nico-hulkenberg,Nico Hülkenberg,force-india,10,69,9,0,10,1109.796103,1115.051216,5.255112,0.571429,0.466326,50.0,22
-2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,sergio-perez,Sergio Pérez,force-india,11,69,13,0,11,1205.08493,1201.794697,-3.290233,0.52381,0.589614,50.0,22
-2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,jolyon-palmer,Jolyon Palmer,renault,12,69,17,0,12,969.141749,978.406353,9.264604,0.47619,0.290898,50.0,22
-2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,esteban-gutierrez,Esteban Gutiérrez,haas,13,69,15,0,13,990.303813,995.956153,5.65234,0.428571,0.315525,50.0,22
-2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,romain-grosjean,Romain Grosjean,haas,14,69,11,0,14,1087.162748,1084.369743,-2.793005,0.380952,0.436812,50.0,22
-2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,kevin-magnussen,Kevin Magnussen,renault,15,69,19,0,15,1067.70311,1063.787747,-3.915363,0.333333,0.411641,50.0,22
-2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,daniil-kvyat,Daniil Kvyat,toro-rosso,16,69,12,0,16,1092.861737,1084.936153,-7.925584,0.285714,0.444226,50.0,22
-2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,felipe-nasr,Felipe Nasr,sauber,17,69,16,0,17,1019.310329,1013.686177,-5.624152,0.238095,0.350578,50.0,22
-2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,felipe-massa,Felipe Massa,williams,18,68,18,0,18,1172.536221,1154.655548,-17.880673,0.190476,0.54809,50.0,22
-2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,pascal-wehrlein,Pascal Wehrlein,manor,19,68,20,0,19,974.724424,967.001774,-7.722651,0.142857,0.29731,50.0,22
-2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,marcus-ericsson,Marcus Ericsson,sauber,20,68,PL,0,20,984.907951,974.211652,-10.696299,0.095238,0.309164,50.0,22
-2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,rio-haryanto,Rio Haryanto,manor,21,68,21,0,21,945.227735,934.400065,-10.82767,0.047619,0.264172,50.0,22
-2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,jenson-button,Jenson Button,mclaren,DNF,60,8,1,22,1095.414163,1073.036616,-22.377548,0.0,0.447551,50.0,22
+2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,lewis-hamilton,Lewis Hamilton,mercedes,1,70,2,0,1,1689.43941,1696.831247,7.391837,1.0,0.852163,50.0,21
+2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,nico-rosberg,Nico Rosberg,mercedes,2,70,1,0,2,1610.050013,1617.042885,6.992872,0.95,0.810143,50.0,21
+2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,daniel-ricciardo,Daniel Ricciardo,red-bull,3,70,3,0,3,1369.885243,1382.609925,12.724681,0.9,0.645506,50.0,21
+2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,sebastian-vettel,Sebastian Vettel,ferrari,4,70,5,0,4,1577.243885,1580.198908,2.955024,0.85,0.7909,50.0,21
+2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,max-verstappen,Max Verstappen,red-bull,5,70,4,0,5,1200.708669,1215.473502,14.764834,0.8,0.504703,50.0,21
+2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,kimi-raikkonen,Kimi Räikkönen,ferrari,6,70,14,0,6,1409.919741,1413.595835,3.676093,0.75,0.676478,50.0,21
+2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,fernando-alonso,Fernando Alonso,mclaren,7,69,7,0,7,1258.870547,1266.151013,7.280466,0.7,0.554391,50.0,21
+2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,8,69,6,0,8,1125.161755,1135.675087,10.513333,0.65,0.439733,50.0,21
+2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,valtteri-bottas,Valtteri Bottas,williams,9,69,10,0,9,1318.186599,1317.992033,-0.194566,0.6,0.603891,50.0,21
+2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,nico-hulkenberg,Nico Hülkenberg,force-india,10,69,9,0,10,1155.526678,1159.73624,4.209562,0.55,0.465809,50.0,21
+2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,sergio-perez,Sergio Pérez,force-india,11,69,13,0,11,1235.180587,1233.46821,-1.712377,0.5,0.534248,50.0,21
+2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,jolyon-palmer,Jolyon Palmer,renault,12,69,17,0,12,963.092069,970.26828,7.176211,0.45,0.306476,50.0,21
+2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,esteban-gutierrez,Esteban Gutiérrez,haas,13,69,15,0,13,926.370142,932.434469,6.064326,0.4,0.278713,50.0,21
+2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,romain-grosjean,Romain Grosjean,haas,14,69,11,0,14,1142.743136,1137.502347,-5.240788,0.35,0.454816,50.0,21
+2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,kevin-magnussen,Kevin Magnussen,renault,15,69,19,0,15,1045.073109,1041.465212,-3.607897,0.3,0.372158,50.0,21
+2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,daniil-kvyat,Daniil Kvyat,toro-rosso,16,69,12,0,16,1150.566357,1139.989295,-10.577063,0.25,0.461541,50.0,21
+2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,felipe-nasr,Felipe Nasr,sauber,17,69,16,0,17,973.048242,967.338367,-5.709875,0.2,0.314197,50.0,21
+2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,felipe-massa,Felipe Massa,williams,18,68,18,0,18,1290.900452,1269.334682,-21.56577,0.15,0.581315,50.0,21
+2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,pascal-wehrlein,Pascal Wehrlein,manor,19,68,20,0,19,960.737751,950.504676,-10.233074,0.1,0.304661,50.0,21
+2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,marcus-ericsson,Marcus Ericsson,sauber,20,68,PL,0,20,926.424248,914.986573,-11.437675,0.05,0.278754,50.0,21
+2016,11,2016-07-24,hungary,Formula 1 Magyar Nagydíj 2016,946,rio-haryanto,Rio Haryanto,manor,21,68,21,0,21,913.684687,900.214532,-13.470155,0.0,0.269403,50.0,21

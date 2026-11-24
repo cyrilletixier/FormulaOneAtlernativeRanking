@@ -1,21 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,rubens-barrichello,Rubens Barrichello,ferrari,1,56,1,0,1,1317.157199,1328.139903,10.982704,1.0,0.780346,50.0,20
-2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,jenson-button,Jenson Button,bar,2,56,3,0,2,1210.841625,1224.978759,14.137134,0.947368,0.664626,50.0,20
-2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,kimi-raikkonen,Kimi Räikkönen,mclaren,3,56,2,0,3,1082.486688,1102.379217,19.892528,0.894737,0.496886,50.0,20
-2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,fernando-alonso,Fernando Alonso,renault,4,56,6,0,4,1129.119738,1143.225086,14.105349,0.842105,0.559998,50.0,20
-2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,juan-pablo-montoya,Juan Pablo Montoya,williams,5,56,10,0,5,1188.740777,1196.344007,7.60323,0.789474,0.637409,50.0,20
-2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,takuma-sato,Takuma Sato,bar,6,56,18,0,6,1058.862131,1072.47222,13.610088,0.736842,0.46464,50.0,20
-2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,giancarlo-fisichella,Giancarlo Fisichella,sauber,7,56,7,0,7,1101.34148,1109.424299,8.082819,0.684211,0.522554,50.0,20
-2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,felipe-massa,Felipe Massa,sauber,8,56,4,0,8,1044.563899,1053.884371,9.320473,0.631579,0.445169,50.0,20
-2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,david-coulthard,David Coulthard,mclaren,9,56,9,0,9,1163.991422,1162.643967,-1.347455,0.578947,0.605896,50.0,20
-2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,mark-webber,Mark Webber,jaguar,10,55,11,0,10,1040.976803,1045.277693,4.30089,0.526316,0.440298,50.0,20
-2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,jacques-villeneuve,Jacques Villeneuve,renault,11,55,12,0,11,1010.676848,1014.385715,3.708867,0.473684,0.399507,50.0,20
-2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,michael-schumacher,Michael Schumacher,ferrari,12,55,PL,0,12,1470.154055,1446.329733,-23.824322,0.421053,0.897539,50.0,20
-2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,nick-heidfeld,Nick Heidfeld,jordan,13,55,14,0,13,1007.481973,1006.140295,-1.341677,0.368421,0.395255,50.0,20
-2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,olivier-panis,Olivier Panis,toyota,14,55,8,0,14,983.426626,981.033996,-2.392631,0.315789,0.363642,50.0,20
-2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,timo-glock,Timo Glock,jordan,15,55,16,0,15,1015.3371,1008.20855,-7.12855,0.263158,0.405729,50.0,20
-2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,zsolt-baumgartner,Zsolt Baumgartner,minardi,16,53,19,0,16,933.175074,928.669188,-4.505886,0.210526,0.300644,50.0,20
-2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,gianmaria-bruni,Gianmaria Bruni,minardi,DNF,38,17,1,17,899.928192,894.728852,-5.19934,0.157895,0.261882,50.0,20
-2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,ralf-schumacher,Ralf Schumacher,williams,DNF,37,5,1,18,1114.447206,1092.695732,-21.751473,0.105263,0.540293,50.0,20
-2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,ricardo-zonta,Ricardo Zonta,toyota,DNF,35,13,1,19,1028.884948,1010.3199,-18.565048,0.052632,0.423933,50.0,20
-2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,christian-klien,Christian Klien,jaguar,DNF,11,15,1,20,1006.352466,986.664768,-19.687698,0.0,0.393754,50.0,20
+2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,rubens-barrichello,Rubens Barrichello,ferrari,1,56,1,0,1,1443.32647,1456.581424,13.254954,1.0,0.734901,50.0,17
+2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,jenson-button,Jenson Button,bar,2,56,3,0,2,1269.704444,1286.872162,17.167718,0.9375,0.594146,50.0,17
+2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,kimi-raikkonen,Kimi Räikkönen,mclaren,3,56,2,0,3,1303.723091,1316.291617,12.568526,0.875,0.623629,50.0,17
+2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,fernando-alonso,Fernando Alonso,renault,4,56,6,0,4,1204.98036,1218.784858,13.804497,0.8125,0.53641,50.0,17
+2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,juan-pablo-montoya,Juan Pablo Montoya,williams,5,56,10,0,5,1309.044601,1315.135947,6.091346,0.75,0.628173,50.0,17
+2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,takuma-sato,Takuma Sato,bar,6,56,18,0,6,1036.823494,1051.975355,15.151861,0.6875,0.384463,50.0,17
+2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,giancarlo-fisichella,Giancarlo Fisichella,sauber,7,56,7,0,7,1099.644697,1108.862738,9.218042,0.625,0.440639,50.0,17
+2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,felipe-massa,Felipe Massa,sauber,8,56,4,0,8,1027.365991,1036.682733,9.316743,0.5625,0.376165,50.0,17
+2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,david-coulthard,David Coulthard,mclaren,9,56,9,0,9,1307.475642,1301.133865,-6.341777,0.5,0.626836,50.0,17
+2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,mark-webber,Mark Webber,jaguar,10,55,11,0,10,1015.488612,1019.072613,3.584001,0.4375,0.36582,50.0,17
+2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,jacques-villeneuve,Jacques Villeneuve,renault,11,55,12,0,11,1130.326327,1125.650941,-4.675386,0.375,0.468508,50.0,17
+2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,michael-schumacher,Michael Schumacher,ferrari,12,55,PL,0,12,1661.966306,1634.211239,-27.755068,0.3125,0.867601,50.0,17
+2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,nick-heidfeld,Nick Heidfeld,jordan,13,55,14,0,13,989.844256,985.154074,-4.690182,0.25,0.343804,50.0,17
+2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,olivier-panis,Olivier Panis,toyota,14,55,8,0,14,980.841901,973.407464,-7.434437,0.1875,0.336189,50.0,17
+2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,timo-glock,Timo Glock,jordan,15,55,16,0,15,1010.554422,998.726989,-11.827433,0.125,0.361549,50.0,17
+2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,zsolt-baumgartner,Zsolt Baumgartner,minardi,16,53,19,0,16,893.508376,883.331988,-10.176388,0.0625,0.266028,50.0,17
+2004,16,2004-09-26,china,2004 Formula 1 Sinopec Chinese Grand Prix,729,ralf-schumacher,Ralf Schumacher,williams,DNF,37,5,1,17,1214.65276,1187.395743,-27.257017,0.0,0.54514,50.0,17

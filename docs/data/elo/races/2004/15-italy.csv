@@ -1,21 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,rubens-barrichello,Rubens Barrichello,ferrari,1,53,1,0,1,1305.770767,1317.157199,11.386432,1.0,0.772271,50.0,20
-2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,michael-schumacher,Michael Schumacher,ferrari,2,53,3,0,2,1467.68267,1470.154055,2.471385,0.947368,0.897941,50.0,20
-2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,jenson-button,Jenson Button,bar,3,53,6,0,3,1198.793238,1210.841625,12.048387,0.894737,0.653769,50.0,20
-2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,takuma-sato,Takuma Sato,bar,4,53,5,0,4,1038.880486,1058.862131,19.981645,0.842105,0.442472,50.0,20
-2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,juan-pablo-montoya,Juan Pablo Montoya,williams,5,53,2,0,5,1180.840943,1188.740777,7.899834,0.789474,0.631477,50.0,20
-2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,david-coulthard,David Coulthard,mclaren,6,53,PL,0,6,1157.21497,1163.991422,6.776452,0.736842,0.601313,50.0,20
-2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,antonio-pizzonia,Antônio Pizzonia,williams,7,53,8,0,7,1003.093295,1017.575493,14.482198,0.684211,0.394567,50.0,20
-2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,giancarlo-fisichella,Giancarlo Fisichella,sauber,8,53,15,0,8,1095.744394,1101.34148,5.597087,0.631579,0.519637,50.0,20
-2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,mark-webber,Mark Webber,jaguar,9,53,12,0,9,1033.810799,1040.976803,7.166003,0.578947,0.435627,50.0,20
-2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,jarno-trulli,Jarno Trulli,renault,10,53,9,0,10,1134.151792,1131.912087,-2.239705,0.526316,0.57111,50.0,20
-2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,ricardo-zonta,Ricardo Zonta,toyota,11,53,11,0,11,1026.489233,1028.884948,2.395715,0.473684,0.42577,50.0,20
-2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,felipe-massa,Felipe Massa,sauber,12,52,16,0,12,1046.125098,1044.563899,-1.5612,0.421053,0.452277,50.0,20
-2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,christian-klien,Christian Klien,jaguar,13,52,14,0,13,1007.983669,1006.352466,-1.631203,0.368421,0.401045,50.0,20
-2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,nick-heidfeld,Nick Heidfeld,jordan,14,52,PL,0,14,1012.012561,1007.481973,-4.530588,0.315789,0.406401,50.0,20
-2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,zsolt-baumgartner,Zsolt Baumgartner,minardi,15,50,19,0,15,935.441254,933.175074,-2.26618,0.263158,0.308481,50.0,20
-2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,fernando-alonso,Fernando Alonso,renault,DNF,40,4,1,16,1148.063871,1129.119738,-18.944134,0.210526,0.589409,50.0,20
-2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,giorgio-pantano,Giorgio Pantano,jordan,DNF,33,17,1,17,920.757053,914.106105,-6.650948,0.157895,0.290914,50.0,20
-2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,gianmaria-bruni,Gianmaria Bruni,minardi,DNF,29,18,1,18,908.495679,899.928192,-8.567488,0.105263,0.276613,50.0,20
-2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,13,7,1,19,1106.567688,1082.486688,-24.081,0.052632,0.534252,50.0,20
-2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,olivier-panis,Olivier Panis,toyota,DNF,0,13,1,20,1003.159319,983.426626,-19.732693,0.0,0.394654,50.0,20
+2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,rubens-barrichello,Rubens Barrichello,ferrari,1,53,1,0,1,1431.113673,1443.32647,12.212797,1.0,0.755744,50.0,18
+2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,michael-schumacher,Michael Schumacher,ferrari,2,53,3,0,2,1659.054063,1661.966306,2.912243,0.941176,0.882932,50.0,18
+2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,jenson-button,Jenson Button,bar,3,53,6,0,3,1256.670266,1269.704444,13.034179,0.882353,0.621669,50.0,18
+2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,takuma-sato,Takuma Sato,bar,4,53,5,0,4,1016.058759,1036.823494,20.764735,0.823529,0.408235,50.0,18
+2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,juan-pablo-montoya,Juan Pablo Montoya,williams,5,53,2,0,5,1303.840098,1309.044601,5.204503,0.764706,0.660616,50.0,18
+2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,david-coulthard,David Coulthard,mclaren,6,53,PL,0,6,1305.269966,1307.475642,2.205676,0.705882,0.661769,50.0,18
+2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,antonio-pizzonia,Antônio Pizzonia,williams,7,53,8,0,7,977.496013,991.130315,13.634302,0.647059,0.374373,50.0,18
+2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,giancarlo-fisichella,Giancarlo Fisichella,sauber,8,53,15,0,8,1094.147029,1099.644697,5.497667,0.588235,0.478282,50.0,18
+2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,mark-webber,Mark Webber,jaguar,9,53,12,0,9,1009.122701,1015.488612,6.365911,0.529412,0.402094,50.0,18
+2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,jarno-trulli,Jarno Trulli,renault,10,53,9,0,10,1229.199782,1222.816336,-6.383445,0.470588,0.598257,50.0,18
+2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,ricardo-zonta,Ricardo Zonta,toyota,11,53,11,0,11,972.285765,974.381158,2.095393,0.411765,0.369857,50.0,18
+2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,felipe-massa,Felipe Massa,sauber,12,52,16,0,12,1030.78563,1027.365991,-3.419639,0.352941,0.421334,50.0,18
+2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,christian-klien,Christian Klien,jaguar,13,52,14,0,13,963.135138,959.742769,-3.392368,0.294118,0.361965,50.0,18
+2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,nick-heidfeld,Nick Heidfeld,jordan,14,52,PL,0,14,997.679916,989.844256,-7.83566,0.235294,0.392007,50.0,18
+2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,zsolt-baumgartner,Zsolt Baumgartner,minardi,15,50,19,0,15,900.147654,893.508376,-6.639278,0.176471,0.309256,50.0,18
+2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,fernando-alonso,Fernando Alonso,renault,DNF,40,4,1,16,1229.002366,1204.98036,-24.022006,0.117647,0.598087,50.0,18
+2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,giorgio-pantano,Giorgio Pantano,jordan,DNF,33,17,1,17,899.801256,887.293676,-12.50758,0.058824,0.308975,50.0,18
+2004,15,2004-09-12,italy,Formula 1 Gran Premio Vodafone d'Italia 2004,728,olivier-panis,Olivier Panis,toyota,DNF,0,13,1,18,1000.56933,980.841901,-19.727429,0.0,0.394549,50.0,18

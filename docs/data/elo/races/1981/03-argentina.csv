@@ -1,30 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,nelson-piquet,Nelson Piquet,brabham,1,53,1,0,1,1207.626661,1223.438732,15.81207,1.0,0.683759,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,carlos-reutemann,Carlos Reutemann,williams,2,53,4,0,2,1289.364924,1298.872657,9.507733,0.964286,0.774131,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,alain-prost,Alain Prost,renault,3,53,2,0,3,1045.701316,1068.686048,22.984732,0.928571,0.468877,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,alan-jones,Alan Jones,williams,4,53,3,0,4,1320.725314,1325.161731,4.436416,0.892857,0.804129,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,rene-arnoux,René Arnoux,renault,5,53,5,0,5,1146.369237,1158.915446,12.546209,0.857143,0.606219,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,elio-de-angelis,Elio de Angelis,lotus,6,52,10,0,6,1100.303141,1114.165694,13.862553,0.821429,0.544178,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,riccardo-patrese,Riccardo Patrese,arrows,7,52,9,0,7,1107.777314,1119.343612,11.566298,0.785714,0.554388,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,mario-andretti,Mario Andretti,alfa-romeo,8,52,17,0,8,1094.105915,1104.821853,10.715938,0.75,0.535681,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,siegfried-stohr,Siegfried Stohr,arrows,9,52,19,0,9,985.036435,1001.431511,16.395076,0.714286,0.386384,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,10,51,22,0,10,1035.77495,1046.943779,11.168829,0.678571,0.455195,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,andrea-de-cesaris,Andrea de Cesaris,mclaren,11,51,18,0,11,972.758945,986.39266,13.633715,0.642857,0.370183,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,jan-lammers,Jan Lammers,ats-wheels,12,51,23,0,12,926.705578,941.474848,14.76927,0.607143,0.311757,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,ricardo-zunino,Ricardo Zunino,tyrrell,13,51,24,0,13,1018.32713,1025.33495,7.00782,0.571429,0.431272,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,gilles-villeneuve,Gilles Villeneuve,ferrari,DNF,40,7,1,14,1177.2562,1171.732356,-5.523844,0.535714,0.646191,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,john-watson,John Watson,mclaren,DNF,36,11,1,15,1130.404889,1125.262578,-5.142311,0.482143,0.584989,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,patrick-tambay,Patrick Tambay,theodore,DNF,36,14,1,16,1076.840995,1075.352879,-1.488116,0.482143,0.511905,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,hector-rebaque,Héctor Rebaque,brabham,DNF,32,6,1,17,1002.19572,1003.155811,0.960091,0.428571,0.40937,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,chico-serra,Chico Serra,fittipaldi,DNF,28,20,1,18,1010.837925,1009.427129,-1.410797,0.392857,0.421073,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,jacques-laffite,Jacques Laffite,ligier,DNF,19,21,1,19,1226.495859,1209.048466,-17.447393,0.357143,0.706091,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,marc-surer,Marc Surer,ensign,DNF,14,16,1,20,1062.412975,1053.885982,-8.526993,0.321429,0.491968,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,keke-rosberg,Keke Rosberg,fittipaldi,DNF,4,8,1,21,1056.226548,1046.341463,-9.885085,0.285714,0.483416,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,didier-pironi,Didier Pironi,ferrari,DNF,3,12,1,22,1169.351125,1149.15248,-20.198644,0.232143,0.636116,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,nigel-mansell,Nigel Mansell,lotus,DNF,3,15,1,23,991.128361,983.010388,-8.117973,0.232143,0.394502,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,eddie-cheever,Eddie Cheever,tyrrell,DNF,1,13,1,24,976.98721,967.128929,-9.858281,0.178571,0.375737,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,beppe-gabbiani,Beppe Gabbiani,osella,DNQ,,,2,25,954.978363,941.192326,-13.786037,0.071429,0.347149,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,derek-daly,Derek Daly,march,DNQ,,,2,26,1005.483439,988.364221,-17.119218,0.071429,0.413813,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,eliseo-salazar,Eliseo Salazar,march,DNQ,,,2,27,969.203102,954.497844,-14.705258,0.071429,0.365534,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,jean-pierre-jabouille,Jean-Pierre Jabouille,ligier,DNQ,,,2,28,1010.386152,992.934609,-17.451544,0.071429,0.420459,50.0,29
-1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,miguel-angel-guerra,Miguel Ángel Guerra,osella,DNQ,,,2,29,969.203102,954.497844,-14.705258,0.071429,0.365534,50.0,29
+1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,nelson-piquet,Nelson Piquet,brabham,1,53,1,0,1,1198.363076,1217.444888,19.081812,1.0,0.618364,50.0,18
+1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,carlos-reutemann,Carlos Reutemann,williams,2,53,4,0,2,1412.289081,1420.006012,7.716932,0.941176,0.786838,50.0,18
+1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,alain-prost,Alain Prost,renault,3,53,2,0,3,1021.792364,1043.195896,21.403532,0.882353,0.454282,50.0,18
+1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,alan-jones,Alan Jones,williams,4,53,3,0,4,1408.105391,1410.079899,1.974508,0.823529,0.784039,50.0,18
+1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,rene-arnoux,René Arnoux,renault,5,53,5,0,5,1143.767816,1153.563961,9.796145,0.764706,0.568783,50.0,18
+1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,elio-de-angelis,Elio de Angelis,lotus,6,52,10,0,6,1072.162601,1082.367625,10.205024,0.705882,0.501782,50.0,18
+1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,riccardo-patrese,Riccardo Patrese,arrows,7,52,9,0,7,1105.572474,1111.264444,5.69197,0.647059,0.533219,50.0,18
+1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,mario-andretti,Mario Andretti,alfa-romeo,8,52,17,0,8,1259.644005,1255.484604,-4.159401,0.588235,0.671423,50.0,18
+1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,siegfried-stohr,Siegfried Stohr,arrows,9,52,19,0,9,982.370609,987.969387,5.598778,0.529412,0.417436,50.0,18
+1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,10,51,22,0,10,1024.440608,1025.131373,0.690765,0.470588,0.456773,50.0,18
+1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,andrea-de-cesaris,Andrea de Cesaris,mclaren,11,51,18,0,11,979.900678,979.731598,-0.16908,0.411765,0.415146,50.0,18
+1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,jan-lammers,Jan Lammers,ats-wheels,12,51,23,0,12,855.101813,857.517361,2.415548,0.352941,0.30463,50.0,18
+1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,ricardo-zunino,Ricardo Zunino,tyrrell,13,51,24,0,13,1014.750726,1007.073254,-7.677471,0.294118,0.447667,50.0,18
+1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,beppe-gabbiani,Beppe Gabbiani,osella,DNQ,,,2,14,951.614506,938.04011,-13.574396,0.117647,0.389135,50.0,18
+1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,derek-daly,Derek Daly,march,DNQ,,,2,15,955.38929,941.642579,-13.746711,0.117647,0.392581,50.0,18
+1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,eliseo-salazar,Eliseo Salazar,march,DNQ,,,2,16,967.192038,952.903964,-14.288073,0.117647,0.403409,50.0,18
+1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,jean-pierre-jabouille,Jean-Pierre Jabouille,ligier,DNQ,,,2,17,1018.388598,1001.716789,-16.671809,0.117647,0.451083,50.0,18
+1981,3,1981-04-12,argentina,Gran Premio de Argentina 1981,345,miguel-angel-guerra,Miguel Ángel Guerra,osella,DNQ,,,2,18,967.192038,952.903964,-14.288073,0.117647,0.403409,50.0,18

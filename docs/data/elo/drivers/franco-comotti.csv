@@ -1,3 +1,2 @@
 date,year,round,grandPrixId,careerRaceNumber,constructorId,constructorName,positionRaw,laps,nParticipants,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed
-1950-09-03,1950,7,italy,7,maserati,Maserati,DNF,15,27,1000.0,988.930253,-11.069747,0.269231,0.490626,50.0
-1952-07-06,1952,4,france,19,ferrari,Ferrari,12,63,21,988.930253,985.028771,-3.901483,0.4,0.47803,50.0
+1952-07-06,1952,4,france,19,ferrari,Ferrari,12,63,13,1000.0,975.645421,-24.354579,0.0,0.487092,50.0

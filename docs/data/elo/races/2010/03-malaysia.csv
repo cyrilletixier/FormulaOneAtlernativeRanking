@@ -1,25 +1,21 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,sebastian-vettel,Sebastian Vettel,red-bull,1,56,3,0,1,1203.596629,1221.110802,17.514173,1.0,0.649717,50.0,24
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,mark-webber,Mark Webber,red-bull,2,56,1,0,2,1178.016005,1194.983833,16.967829,0.956522,0.617165,50.0,24
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,nico-rosberg,Nico Rosberg,mercedes,3,56,2,0,3,1169.813349,1185.139327,15.325978,0.913043,0.606524,50.0,24
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,robert-kubica,Robert Kubica,renault,4,56,6,0,4,1155.567711,1169.653792,14.086081,0.869565,0.587844,50.0,24
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,adrian-sutil,Adrian Sutil,force-india,5,56,4,0,5,906.058333,934.076281,28.017948,0.826087,0.265728,50.0,24
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,lewis-hamilton,Lewis Hamilton,mclaren,6,56,20,0,6,1210.895033,1217.085148,6.190116,0.782609,0.658806,50.0,24
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,felipe-massa,Felipe Massa,ferrari,7,56,21,0,7,1242.973528,1245.052135,2.078607,0.73913,0.697558,50.0,24
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,jenson-button,Jenson Button,mclaren,8,56,17,0,8,1239.277015,1239.399663,0.122648,0.695652,0.693199,50.0,24
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,jaime-alguersuari,Jaime Alguersuari,toro-rosso,9,56,14,0,9,954.815691,971.293734,16.478042,0.652174,0.322613,50.0,24
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,nico-hulkenberg,Nico Hülkenberg,williams,10,56,5,0,10,988.061445,1000.289205,12.22776,0.608696,0.36414,50.0,24
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,sebastien-buemi,Sébastien Buemi,toro-rosso,11,56,13,0,11,958.062819,969.994658,11.931838,0.565217,0.326581,50.0,24
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,rubens-barrichello,Rubens Barrichello,williams,12,55,7,0,12,1203.166138,1196.794221,-6.371917,0.521739,0.649177,50.0,24
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,fernando-alonso,Fernando Alonso,ferrari,13,54,19,0,13,1201.416398,1192.980284,-8.436114,0.478261,0.646983,50.0,24
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,lucas-di-grassi,Lucas di Grassi,virgin,14,53,24,0,14,982.800706,986.667677,3.866971,0.434783,0.357443,50.0,24
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,karun-chandhok,Karun Chandhok,hrt,15,53,22,0,15,985.112883,986.659033,1.54615,0.391304,0.360381,50.0,24
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,bruno-senna,Bruno Senna,hrt,16,52,23,0,16,982.243838,981.7983,-0.445538,0.347826,0.356737,50.0,24
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,jarno-trulli,Jarno Trulli,lotus-racing,17,51,18,0,17,1057.422822,1049.858328,-7.564494,0.304348,0.455638,50.0,24
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,heikki-kovalainen,Heikki Kovalainen,lotus-racing,NC,46,15,1,18,1111.103192,1097.729703,-13.373489,0.26087,0.528339,50.0,24
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,vitaly-petrov,Vitaly Petrov,renault,DNF,32,11,1,19,981.436064,974.519973,-6.916092,0.217391,0.355713,50.0,24
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,vitantonio-liuzzi,Vitantonio Liuzzi,force-india,DNF,12,10,1,20,1003.971318,993.434646,-10.536673,0.173913,0.384646,50.0,24
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,michael-schumacher,Michael Schumacher,mercedes,DNF,9,8,1,21,1319.236941,1286.740654,-32.496287,0.130435,0.780361,50.0,24
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,kamui-kobayashi,Kamui Kobayashi,sauber,DNF,8,9,1,22,995.692714,981.343992,-14.348722,0.086957,0.373931,50.0,24
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,timo-glock,Timo Glock,virgin,DNF,2,16,1,23,1101.924304,1078.30241,-23.621894,0.043478,0.515916,50.0,24
-2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,pedro-de-la-rosa,Pedro de la Rosa,sauber,DNS,,12,2,24,1049.419,1027.176077,-22.242923,0.0,0.444858,50.0,24
+2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,sebastian-vettel,Sebastian Vettel,red-bull,1,56,3,0,1,1290.601741,1308.515494,17.913752,1.0,0.641725,50.0,20
+2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,mark-webber,Mark Webber,red-bull,2,56,1,0,2,1249.401997,1266.495987,17.09399,0.947368,0.605489,50.0,20
+2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,nico-rosberg,Nico Rosberg,mercedes,3,56,2,0,3,1199.702879,1216.413814,16.710935,0.894737,0.560518,50.0,20
+2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,robert-kubica,Robert Kubica,renault,4,56,6,0,4,1229.336311,1242.068108,12.731797,0.842105,0.587469,50.0,20
+2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,adrian-sutil,Adrian Sutil,force-india,5,56,4,0,5,831.013625,858.393243,27.379618,0.789474,0.241881,50.0,20
+2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,lewis-hamilton,Lewis Hamilton,mclaren,6,56,20,0,6,1312.392816,1316.215251,3.822435,0.736842,0.660393,50.0,20
+2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,felipe-massa,Felipe Massa,ferrari,7,56,21,0,7,1387.343112,1385.486826,-1.856286,0.684211,0.721336,50.0,20
+2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,jenson-button,Jenson Button,mclaren,8,56,17,0,8,1295.236427,1294.529033,-0.707395,0.631579,0.645727,50.0,20
+2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,jaime-alguersuari,Jaime Alguersuari,toro-rosso,9,56,14,0,9,948.758274,961.011059,12.252785,0.578947,0.333892,50.0,20
+2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,nico-hulkenberg,Nico Hülkenberg,williams,10,56,5,0,10,981.549043,989.770981,8.221938,0.526316,0.361877,50.0,20
+2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,sebastien-buemi,Sébastien Buemi,toro-rosso,11,56,13,0,11,937.122872,944.598119,7.475248,0.473684,0.324179,50.0,20
+2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,rubens-barrichello,Rubens Barrichello,williams,12,55,7,0,12,1253.825772,1244.406825,-9.418947,0.421053,0.609432,50.0,20
+2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,fernando-alonso,Fernando Alonso,ferrari,13,54,19,0,13,1363.249837,1346.553472,-16.696364,0.368421,0.702348,50.0,20
+2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,lucas-di-grassi,Lucas di Grassi,virgin,14,53,24,0,14,1000.0,996.890269,-3.109731,0.315789,0.377984,50.0,20
+2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,karun-chandhok,Karun Chandhok,hrt,15,53,22,0,15,978.623702,973.814304,-4.809399,0.263158,0.359346,50.0,20
+2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,bruno-senna,Bruno Senna,hrt,16,52,23,0,16,1000.0,991.627111,-8.372889,0.210526,0.377984,50.0,20
+2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,jarno-trulli,Jarno Trulli,lotus-racing,17,51,18,0,17,1089.982611,1074.914916,-15.067696,0.157895,0.459249,50.0,20
+2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,heikki-kovalainen,Heikki Kovalainen,lotus-racing,NC,46,15,1,18,1150.840104,1130.327942,-20.512161,0.105263,0.515506,50.0,20
+2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,timo-glock,Timo Glock,virgin,DNF,2,16,1,19,1144.758393,1121.896058,-22.862335,0.052632,0.509878,50.0,20
+2010,3,2010-04-04,malaysia,2010 Formula 1 Petronas Malaysian Grand Prix,823,pedro-de-la-rosa,Pedro de la Rosa,sauber,DNS,,12,2,20,1029.043378,1008.854083,-20.189296,0.0,0.403786,50.0,20

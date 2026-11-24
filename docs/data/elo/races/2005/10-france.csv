@@ -1,21 +1,16 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,fernando-alonso,Fernando Alonso,renault,1,70,1,0,1,1225.700137,1242.469735,16.769598,1.0,0.664608,50.0,20
-2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,kimi-raikkonen,Kimi Räikkönen,mclaren,2,70,13,0,2,1180.942336,1198.011567,17.069231,0.947368,0.605984,50.0,20
-2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,michael-schumacher,Michael Schumacher,ferrari,3,70,3,0,3,1346.725923,1351.44635,4.720427,0.894737,0.800328,50.0,20
-2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,jenson-button,Jenson Button,bar,4,69,7,0,4,1106.441219,1123.405743,16.964523,0.842105,0.502815,50.0,20
-2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,jarno-trulli,Jarno Trulli,toyota,5,69,2,0,5,1159.915933,1170.521006,10.605072,0.789474,0.577372,50.0,20
-2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,giancarlo-fisichella,Giancarlo Fisichella,renault,6,69,6,0,6,1077.218396,1090.973454,13.755058,0.736842,0.461741,50.0,20
-2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,ralf-schumacher,Ralf Schumacher,toyota,7,69,11,0,7,1151.597944,1157.512882,5.914938,0.684211,0.565912,50.0,20
-2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,jacques-villeneuve,Jacques Villeneuve,sauber,8,69,10,0,8,1035.842979,1047.20593,11.362951,0.631579,0.40432,50.0,20
-2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,rubens-barrichello,Rubens Barrichello,ferrari,9,69,5,0,9,1274.239231,1267.009831,-7.2294,0.578947,0.723535,50.0,20
-2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,david-coulthard,David Coulthard,red-bull,10,69,15,0,10,1138.971202,1137.867361,-1.10384,0.526316,0.548393,50.0,20
-2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,takuma-sato,Takuma Sato,bar,11,69,4,0,11,1045.132804,1047.96296,2.830156,0.473684,0.417081,50.0,20
-2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,mark-webber,Mark Webber,williams,12,68,12,0,12,1073.911205,1072.108496,-1.802709,0.421053,0.457107,50.0,20
-2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,tiago-monteiro,Tiago Monteiro,jordan,13,67,19,0,13,1029.99183,1028.596188,-1.395642,0.368421,0.396334,50.0,20
-2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,nick-heidfeld,Nick Heidfeld,williams,14,66,14,0,14,1060.474528,1054.346939,-6.127589,0.315789,0.438341,50.0,20
-2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,narain-karthikeyan,Narain Karthikeyan,jordan,15,66,17,0,15,977.7124,974.504668,-3.207732,0.263158,0.327313,50.0,20
-2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,juan-pablo-montoya,Juan Pablo Montoya,mclaren,DNF,46,8,1,16,1185.999106,1165.886632,-20.112474,0.210526,0.612776,50.0,20
-2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,christijan-albers,Christijan Albers,minardi,DNF,37,20,1,17,991.164478,981.828683,-9.335795,0.157895,0.344611,50.0,20
-2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,patrick-friesacher,Patrick Friesacher,minardi,DNF,33,18,1,18,957.366724,947.536117,-9.830606,0.105263,0.301875,50.0,20
-2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,felipe-massa,Felipe Massa,sauber,DNF,30,9,1,19,1090.858506,1069.445293,-21.413213,0.052632,0.480896,50.0,20
-2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,christian-klien,Christian Klien,red-bull,DNF,1,16,1,20,1009.443721,991.010768,-18.432953,0.0,0.368659,50.0,20
+2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,fernando-alonso,Fernando Alonso,renault,1,70,1,0,1,1336.251652,1354.762637,18.510986,1.0,0.62978,50.0,15
+2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,kimi-raikkonen,Kimi Räikkönen,mclaren,2,70,13,0,2,1355.531595,1369.627852,14.096257,0.928571,0.646646,50.0,15
+2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,michael-schumacher,Michael Schumacher,ferrari,3,70,3,0,3,1584.045747,1586.002485,1.956738,0.857143,0.818008,50.0,15
+2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,jenson-button,Jenson Button,bar,4,69,7,0,4,1222.001254,1235.023671,13.022416,0.785714,0.525266,50.0,15
+2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,jarno-trulli,Jarno Trulli,toyota,5,69,2,0,5,1244.591363,1252.986964,8.395601,0.714286,0.546374,50.0,15
+2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,giancarlo-fisichella,Giancarlo Fisichella,renault,6,69,6,0,6,1122.964559,1133.489592,10.525033,0.642857,0.432356,50.0,15
+2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,ralf-schumacher,Ralf Schumacher,toyota,7,69,11,0,7,1217.214319,1219.746841,2.532523,0.571429,0.520778,50.0,15
+2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,jacques-villeneuve,Jacques Villeneuve,sauber,8,69,10,0,8,1087.297765,1092.326558,5.028793,0.5,0.399424,50.0,15
+2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,rubens-barrichello,Rubens Barrichello,ferrari,9,69,5,0,9,1424.658292,1410.864043,-13.794249,0.428571,0.704456,50.0,15
+2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,david-coulthard,David Coulthard,red-bull,10,69,15,0,10,1220.5005,1212.164671,-8.335829,0.357143,0.523859,50.0,15
+2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,takuma-sato,Takuma Sato,bar,11,69,4,0,11,1055.226601,1050.993966,-4.232635,0.285714,0.370367,50.0,15
+2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,mark-webber,Mark Webber,williams,12,68,12,0,12,1058.227183,1050.288539,-7.938645,0.214286,0.373059,50.0,15
+2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,tiago-monteiro,Tiago Monteiro,jordan,13,67,19,0,13,989.507455,980.992948,-8.514506,0.142857,0.313147,50.0,15
+2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,nick-heidfeld,Nick Heidfeld,williams,14,66,14,0,14,1062.371085,1047.103234,-15.26785,0.071429,0.376786,50.0,15
+2005,10,2005-07-03,france,Formula 1 Grand Prix de France 2005,741,narain-karthikeyan,Narain Karthikeyan,jordan,15,66,17,0,15,997.245075,981.260442,-15.984633,0.0,0.319693,50.0,15

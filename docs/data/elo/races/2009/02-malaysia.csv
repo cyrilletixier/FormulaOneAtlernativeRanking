@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,jenson-button,Jenson Button,brawn,1,31,1,0,1,1039.518167,1068.933249,29.415082,1.0,0.411698,50.0,20
-2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,nick-heidfeld,Nick Heidfeld,bmw-sauber,2,31,10,0,2,1238.715107,1252.271648,13.556541,0.947368,0.676238,50.0,20
-2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,timo-glock,Timo Glock,toyota,3,31,3,0,3,1108.991224,1128.437067,19.445844,0.894737,0.50582,50.0,20
-2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,jarno-trulli,Jarno Trulli,toyota,4,31,2,0,4,1127.083535,1142.665054,15.581519,0.842105,0.530475,50.0,20
-2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,rubens-barrichello,Rubens Barrichello,brawn,5,31,8,0,5,1027.994752,1047.647287,19.652536,0.789474,0.396423,50.0,20
-2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,mark-webber,Mark Webber,red-bull,6,31,5,0,6,1077.478029,1091.177417,13.699388,0.736842,0.462854,50.0,20
-2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,lewis-hamilton,Lewis Hamilton,mclaren,7,31,12,0,7,1260.608025,1259.693256,-0.914768,0.684211,0.702506,50.0,20
-2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,nico-rosberg,Nico Rosberg,williams,8,31,4,0,8,1094.701117,1101.964166,7.263049,0.631579,0.486318,50.0,20
-2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,felipe-massa,Felipe Massa,ferrari,9,31,16,0,9,1272.103717,1265.256746,-6.84697,0.578947,0.715887,50.0,20
-2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,sebastien-bourdais,Sébastien Bourdais,toro-rosso,10,31,15,0,10,1000.394369,1008.683695,8.289326,0.526316,0.360529,50.0,20
-2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,fernando-alonso,Fernando Alonso,renault,11,31,9,0,11,1308.624279,1294.491408,-14.132871,0.473684,0.756342,50.0,20
-2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,kazuki-nakajima,Kazuki Nakajima,williams,12,31,11,0,12,997.985591,1001.165707,3.180116,0.421053,0.35745,50.0,20
-2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,nelson-piquet-jr,Nelson Piquet Jr.,renault,13,31,17,0,13,1002.386182,1002.653121,0.266939,0.368421,0.363082,50.0,20
-2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,kimi-raikkonen,Kimi Räikkönen,ferrari,14,31,7,0,14,1243.074621,1224.786749,-18.287872,0.315789,0.681547,50.0,20
-2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,sebastian-vettel,Sebastian Vettel,red-bull,15,30,13,0,15,1086.28507,1075.700853,-10.584216,0.263158,0.474842,50.0,20
-2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,sebastien-buemi,Sébastien Buemi,toro-rosso,16,30,20,0,16,1016.046847,1007.535452,-8.511395,0.210526,0.380754,50.0,20
-2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,adrian-sutil,Adrian Sutil,force-india,17,30,19,0,17,861.83718,859.564469,-2.272711,0.157895,0.203349,50.0,20
-2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,giancarlo-fisichella,Giancarlo Fisichella,force-india,18,29,18,0,18,966.528146,955.882511,-10.645635,0.105263,0.318176,50.0,20
-2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,robert-kubica,Robert Kubica,bmw-sauber,DNF,1,6,1,19,1225.096411,1194.757213,-30.339198,0.052632,0.659416,50.0,20
-2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,heikki-kovalainen,Heikki Kovalainen,mclaren,DNF,0,14,1,20,1146.135266,1118.320562,-27.814704,0.0,0.556294,50.0,20
+2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,jenson-button,Jenson Button,brawn,1,31,1,0,1,1085.192674,1112.965293,27.772619,1.0,0.444548,50.0,19
+2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,nick-heidfeld,Nick Heidfeld,bmw-sauber,2,31,10,0,2,1306.887327,1321.883956,14.996629,0.944444,0.644512,50.0,19
+2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,timo-glock,Timo Glock,toyota,3,31,3,0,3,1118.144127,1138.850725,20.706598,0.888889,0.474757,50.0,19
+2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,jarno-trulli,Jarno Trulli,toyota,4,31,2,0,4,1185.314793,1200.1571,14.842307,0.833333,0.536487,50.0,19
+2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,rubens-barrichello,Rubens Barrichello,brawn,5,31,8,0,5,1072.999397,1090.216574,17.217176,0.777778,0.433434,50.0,19
+2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,mark-webber,Mark Webber,red-bull,6,31,5,0,6,1142.92089,1154.154221,11.233331,0.722222,0.497556,50.0,19
+2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,lewis-hamilton,Lewis Hamilton,mclaren,7,31,12,0,7,1336.143675,1336.023155,-0.12052,0.666667,0.669077,50.0,19
+2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,nico-rosberg,Nico Rosberg,williams,8,31,4,0,8,1101.325807,1108.915732,7.589926,0.611111,0.459313,50.0,19
+2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,felipe-massa,Felipe Massa,ferrari,9,31,16,0,9,1408.443317,1399.900227,-8.54309,0.555556,0.726417,50.0,19
+2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,sebastien-bourdais,Sébastien Bourdais,toro-rosso,10,31,15,0,10,979.013043,986.50802,7.494977,0.5,0.3501,50.0,19
+2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,fernando-alonso,Fernando Alonso,renault,11,31,9,0,11,1475.485147,1458.975254,-16.509894,0.444444,0.774642,50.0,19
+2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,kazuki-nakajima,Kazuki Nakajima,williams,12,31,11,0,12,976.658249,978.69846,2.040211,0.388889,0.348085,50.0,19
+2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,nelson-piquet-jr,Nelson Piquet Jr.,renault,13,31,17,0,13,1019.885329,1017.265957,-2.619372,0.333333,0.385721,50.0,19
+2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,kimi-raikkonen,Kimi Räikkönen,ferrari,14,31,7,0,14,1418.095948,1395.301349,-22.794599,0.277778,0.73367,50.0,19
+2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,sebastian-vettel,Sebastian Vettel,red-bull,15,30,13,0,15,1097.100522,1085.439634,-11.660888,0.222222,0.45544,50.0,19
+2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,sebastien-buemi,Sébastien Buemi,toro-rosso,16,30,20,0,16,1013.929798,1003.240045,-10.689753,0.166667,0.380462,50.0,19
+2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,adrian-sutil,Adrian Sutil,force-india,17,30,19,0,17,825.760554,819.820726,-5.939827,0.111111,0.229908,50.0,19
+2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,giancarlo-fisichella,Giancarlo Fisichella,force-india,18,29,18,0,18,1008.728666,992.712106,-16.016561,0.055556,0.375887,50.0,19
+2009,2,2009-04-05,malaysia,2009 Formula 1 Petronas Malaysian Grand Prix,805,heikki-kovalainen,Heikki Kovalainen,mclaren,DNF,0,14,1,19,1233.265893,1204.266622,-28.999271,0.0,0.579985,50.0,19

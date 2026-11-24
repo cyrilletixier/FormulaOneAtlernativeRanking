@@ -1,23 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,rubens-barrichello,Rubens Barrichello,ferrari,1,45,18,0,1,1201.672381,1218.549314,16.876934,1.0,0.662461,50.0,22
-2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,mika-hakkinen,Mika Häkkinen,mclaren,2,45,4,0,2,1303.391613,1312.094029,8.702416,0.952381,0.778333,50.0,22
-2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,david-coulthard,David Coulthard,mclaren,3,45,1,0,3,1241.825524,1251.503156,9.677631,0.904762,0.711209,50.0,22
-2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,jenson-button,Jenson Button,williams,4,45,16,0,4,1046.653756,1066.888552,20.234796,0.857143,0.452447,50.0,22
-2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,mika-salo,Mika Salo,sauber,5,45,15,0,5,1064.131213,1080.770513,16.6393,0.809524,0.476738,50.0,22
-2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,pedro-de-la-rosa,Pedro de la Rosa,arrows,6,45,5,0,6,944.274181,966.551542,22.277361,0.761905,0.316358,50.0,22
-2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,ralf-schumacher,Ralf Schumacher,williams,7,45,14,0,7,1145.333494,1151.605879,6.272385,0.714286,0.588838,50.0,22
-2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,jacques-villeneuve,Jacques Villeneuve,bar,8,45,9,0,8,1087.432847,1095.306199,7.873352,0.666667,0.5092,50.0,22
-2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,jarno-trulli,Jarno Trulli,jordan,9,45,6,0,9,1032.934208,1042.212347,9.27814,0.619048,0.433485,50.0,22
-2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,eddie-irvine,Eddie Irvine,jaguar,10,45,10,0,10,1191.472747,1187.567322,-3.905426,0.571429,0.649537,50.0,22
-2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,gaston-mazzacane,Gastón Mazzacane,minardi,11,45,21,0,11,1003.614668,1010.12996,6.515292,0.52381,0.393504,50.0,22
-2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,nick-heidfeld,Nick Heidfeld,prost,12,40,13,0,12,965.923278,972.544078,6.6208,0.47619,0.343774,50.0,22
-2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,DNF,39,17,1,13,1110.415978,1103.599272,-6.816706,0.404762,0.541096,50.0,22
-2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,jos-verstappen,Jos Verstappen,arrows,DNF,39,11,1,14,965.56273,968.63531,3.07258,0.404762,0.34331,50.0,22
-2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,ricardo-zonta,Ricardo Zonta,bar,DNF,37,12,1,15,1007.777555,1004.488053,-3.289502,0.333333,0.399123,50.0,22
-2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,marc-gene,Marc Gené,minardi,DNF,33,22,1,16,994.642954,989.855205,-4.787749,0.285714,0.381469,50.0,22
-2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,alexander-wurz,Alexander Wurz,benetton,DNF,31,7,1,17,1056.023785,1044.655729,-11.368055,0.238095,0.465456,50.0,22
-2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,jean-alesi,Jean Alesi,prost,DNF,29,20,1,18,1011.514221,999.638275,-11.875946,0.166667,0.404186,50.0,22
-2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,pedro-diniz,Pedro Diniz,sauber,DNF,29,19,1,19,998.274718,987.29167,-10.983049,0.166667,0.386328,50.0,22
-2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,johnny-herbert,Johnny Herbert,jaguar,DNF,12,8,1,20,1033.837949,1016.863355,-16.974594,0.095238,0.43473,50.0,22
-2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,0,3,1,21,1144.806717,1116.590837,-28.21588,0.02381,0.588127,50.0,22
-2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,michael-schumacher,Michael Schumacher,ferrari,DNF,0,2,1,22,1267.406736,1231.582656,-35.82408,0.02381,0.740291,50.0,22
+2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,rubens-barrichello,Rubens Barrichello,ferrari,1,45,18,0,1,1265.33659,1283.649244,18.312653,1.0,0.633747,50.0,19
+2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,mika-hakkinen,Mika Häkkinen,mclaren,2,45,4,0,2,1480.92452,1488.38291,7.45839,0.944444,0.795277,50.0,19
+2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,david-coulthard,David Coulthard,mclaren,3,45,1,0,3,1415.958248,1422.817132,6.858883,0.888889,0.751711,50.0,19
+2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,jenson-button,Jenson Button,williams,4,45,16,0,4,1043.166868,1063.115819,19.94895,0.833333,0.434354,50.0,19
+2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,mika-salo,Mika Salo,sauber,5,45,15,0,5,1085.053409,1100.316717,15.263308,0.777778,0.472512,50.0,19
+2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,pedro-de-la-rosa,Pedro de la Rosa,arrows,6,45,5,0,6,903.161695,923.648047,20.486352,0.722222,0.312495,50.0,19
+2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,ralf-schumacher,Ralf Schumacher,williams,7,45,14,0,7,1180.997831,1186.340326,5.342496,0.666667,0.559817,50.0,19
+2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,jacques-villeneuve,Jacques Villeneuve,bar,8,45,9,0,8,1171.314117,1174.314685,3.000568,0.611111,0.5511,50.0,19
+2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,jarno-trulli,Jarno Trulli,jordan,9,45,6,0,9,1015.969061,1023.255544,7.286482,0.555556,0.409826,50.0,19
+2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,eddie-irvine,Eddie Irvine,jaguar,10,45,10,0,10,1242.791383,1237.07124,-5.720143,0.5,0.614403,50.0,19
+2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,gaston-mazzacane,Gastón Mazzacane,minardi,11,45,21,0,11,951.666362,956.225713,4.559352,0.444444,0.353257,50.0,19
+2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,nick-heidfeld,Nick Heidfeld,prost,12,40,13,0,12,964.212105,965.451719,1.239614,0.388889,0.364097,50.0,19
+2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,jos-verstappen,Jos Verstappen,arrows,DNF,39,11,1,13,947.69554,946.869705,-0.825835,0.333333,0.34985,50.0,19
+2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,ricardo-zonta,Ricardo Zonta,bar,DNF,37,12,1,14,946.91262,943.34253,-3.57009,0.277778,0.34918,50.0,19
+2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,alexander-wurz,Alexander Wurz,benetton,DNF,31,7,1,15,1025.483729,1015.676034,-9.807694,0.222222,0.418376,50.0,19
+2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,jean-alesi,Jean Alesi,prost,DNF,29,20,1,16,1096.458014,1079.25548,-17.202534,0.138889,0.48294,50.0,19
+2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,pedro-diniz,Pedro Diniz,sauber,DNF,29,19,1,17,934.322485,924.343829,-9.978656,0.138889,0.338462,50.0,19
+2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,0,3,1,18,1145.77648,1120.767096,-25.009383,0.027778,0.527965,50.0,19
+2000,11,2000-07-30,germany,Grosser Mobil 1 Preis von Deutschland 2000,657,michael-schumacher,Michael Schumacher,ferrari,DNF,0,2,1,19,1458.271134,1420.628421,-37.642713,0.027778,0.780632,50.0,19

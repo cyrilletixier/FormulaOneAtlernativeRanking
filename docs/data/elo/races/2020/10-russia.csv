@@ -1,21 +1,21 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,valtteri-bottas,Valtteri Bottas,mercedes,1,53,3,0,1,1431.105695,1439.965704,8.860009,1.0,0.8228,50.0,20
-2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,max-verstappen,Max Verstappen,red-bull,2,53,2,0,2,1312.188395,1323.995033,11.806637,0.947368,0.711236,50.0,20
-2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,lewis-hamilton,Lewis Hamilton,mercedes,3,53,1,0,3,1576.898654,1575.823504,-1.07515,0.894737,0.91624,50.0,20
-2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,sergio-perez,Sergio Pérez,racing-point,4,53,4,0,4,1191.468191,1205.159846,13.691655,0.842105,0.568272,50.0,20
-2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,daniel-ricciardo,Daniel Ricciardo,renault,5,53,5,0,5,1165.231323,1177.974378,12.743055,0.789474,0.534613,50.0,20
-2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,charles-leclerc,Charles Leclerc,ferrari,6,53,10,0,6,1191.70942,1200.122581,8.41316,0.736842,0.568579,50.0,20
-2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,esteban-ocon,Esteban Ocon,renault,7,53,7,0,7,1106.217003,1117.538097,11.321094,0.684211,0.457789,50.0,20
-2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,daniil-kvyat,Daniil Kvyat,alphatauri,8,53,11,0,8,1091.882166,1101.503233,9.621067,0.631579,0.439158,50.0,20
-2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,pierre-gasly,Pierre Gasly,alphatauri,9,53,9,0,9,1126.600066,1131.328928,4.728862,0.578947,0.48437,50.0,20
-2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,alexander-albon,Alexander Albon,red-bull,10,53,15,0,10,1206.072289,1203.051429,-3.020861,0.526316,0.586733,50.0,20
-2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,11,52,17,0,11,964.398373,973.943919,9.545545,0.473684,0.282773,50.0,20
-2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,kevin-magnussen,Kevin Magnussen,haas,12,52,18,0,12,951.390732,959.025963,7.635232,0.421053,0.268348,50.0,20
-2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,sebastian-vettel,Sebastian Vettel,ferrari,13,52,14,0,13,1215.053463,1203.576271,-11.477192,0.368421,0.597965,50.0,20
-2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,14,52,19,0,14,1087.019239,1081.165792,-5.853448,0.315789,0.432858,50.0,20
-2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,lando-norris,Lando Norris,mclaren,15,52,8,0,15,1175.62388,1161.381291,-14.242589,0.263158,0.54801,50.0,20
-2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,nicholas-latifi,Nicholas Latifi,williams,16,52,20,0,16,965.38832,961.720345,-3.667975,0.210526,0.283886,50.0,20
-2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,romain-grosjean,Romain Grosjean,haas,17,52,16,0,17,963.843807,957.630996,-6.212811,0.157895,0.282151,50.0,20
-2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,george-russell,George Russell,williams,18,52,13,0,18,927.105572,920.247712,-6.85786,0.105263,0.24242,50.0,20
-2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,DNF,0,6,1,19,1141.642446,1117.758898,-23.883548,0.026316,0.503987,50.0,20
-2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,lance-stroll,Lance Stroll,racing-point,DNF,0,12,1,20,1113.909434,1091.834552,-22.074883,0.026316,0.467813,50.0,20
+2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,valtteri-bottas,Valtteri Bottas,mercedes,1,53,3,0,1,1650.368259,1659.273798,8.905539,1.0,0.821889,50.0,20
+2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,max-verstappen,Max Verstappen,red-bull,2,53,2,0,2,1537.450062,1547.022073,9.572011,0.947368,0.755928,50.0,20
+2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,lewis-hamilton,Lewis Hamilton,mercedes,3,53,1,0,3,1844.996842,1844.376836,-0.620006,0.894737,0.907137,50.0,20
+2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,sergio-perez,Sergio Pérez,racing-point,4,53,4,0,4,1249.354778,1264.568122,15.213344,0.842105,0.537838,50.0,20
+2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,daniel-ricciardo,Daniel Ricciardo,renault,5,53,5,0,5,1321.509686,1331.099764,9.590078,0.789474,0.597672,50.0,20
+2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,charles-leclerc,Charles Leclerc,ferrari,6,53,10,0,6,1287.336913,1295.698253,8.36134,0.736842,0.569615,50.0,20
+2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,esteban-ocon,Esteban Ocon,renault,7,53,7,0,7,1125.020611,1137.631156,12.610545,0.684211,0.432,50.0,20
+2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,daniil-kvyat,Daniil Kvyat,alphatauri,8,53,11,0,8,1108.637977,1119.310426,10.672449,0.631579,0.41813,50.0,20
+2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,pierre-gasly,Pierre Gasly,alphatauri,9,53,9,0,9,1157.427477,1163.395352,5.967875,0.578947,0.45959,50.0,20
+2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,alexander-albon,Alexander Albon,red-bull,10,53,15,0,10,1218.214222,1218.95717,0.742948,0.526316,0.511457,50.0,20
+2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,11,52,17,0,11,909.800694,920.437467,10.636773,0.473684,0.260949,50.0,20
+2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,kevin-magnussen,Kevin Magnussen,haas,12,52,18,0,12,964.646449,970.624738,5.978289,0.421053,0.301487,50.0,20
+2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,sebastian-vettel,Sebastian Vettel,ferrari,13,52,14,0,13,1469.78473,1452.6788,-17.10593,0.368421,0.71054,50.0,20
+2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,14,52,19,0,14,1194.709442,1185.927604,-8.781839,0.315789,0.491426,50.0,20
+2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,lando-norris,Lando Norris,mclaren,15,52,8,0,15,1211.278536,1199.158736,-12.1198,0.263158,0.505554,50.0,20
+2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,nicholas-latifi,Nicholas Latifi,williams,16,52,20,0,16,936.998736,933.489237,-3.509499,0.210526,0.280716,50.0,20
+2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,romain-grosjean,Romain Grosjean,haas,17,52,16,0,17,943.597747,937.211786,-6.385961,0.157895,0.285614,50.0,20
+2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,george-russell,George Russell,williams,18,52,13,0,18,871.44469,864.993582,-6.451108,0.105263,0.234285,50.0,20
+2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,DNF,0,6,1,19,1211.610859,1187.634804,-23.976055,0.026316,0.505837,50.0,20
+2020,10,2020-09-27,russia,Formula 1 VTB Russian Grand Prix 2020,1028,lance-stroll,Lance Stroll,racing-point,DNF,0,12,1,20,1101.768061,1082.467067,-19.300994,0.026316,0.412336,50.0,20

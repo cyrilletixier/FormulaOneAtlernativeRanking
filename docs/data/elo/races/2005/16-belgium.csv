@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,kimi-raikkonen,Kimi Räikkönen,mclaren,1,44,2,0,1,1227.757436,1244.689492,16.932056,1.0,0.661359,50.0,20
-2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,fernando-alonso,Fernando Alonso,renault,2,44,4,0,2,1282.806325,1293.810734,11.004409,0.947368,0.72728,50.0,20
-2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,jenson-button,Jenson Button,bar,3,44,8,0,3,1177.87748,1192.777123,14.899643,0.894737,0.596744,50.0,20
-2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,mark-webber,Mark Webber,williams,4,44,9,0,4,1039.087993,1060.805578,21.717585,0.842105,0.407754,50.0,20
-2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,rubens-barrichello,Rubens Barrichello,ferrari,5,44,12,0,5,1227.089575,1233.53722,6.447645,0.789474,0.660521,50.0,20
-2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,jacques-villeneuve,Jacques Villeneuve,sauber,6,44,14,0,6,1033.562834,1050.386413,16.823579,0.736842,0.400371,50.0,20
-2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,ralf-schumacher,Ralf Schumacher,toyota,7,44,5,0,7,1182.145278,1186.235149,4.089871,0.684211,0.602413,50.0,20
-2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,tiago-monteiro,Tiago Monteiro,jordan,8,43,19,0,8,991.370942,1005.682382,14.311439,0.631579,0.34535,50.0,20
-2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,christian-klien,Christian Klien,red-bull,9,43,16,0,9,998.560741,1009.781533,11.220792,0.578947,0.354532,50.0,20
-2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,felipe-massa,Felipe Massa,sauber,10,43,7,0,10,1062.21609,1066.582559,4.36647,0.526316,0.438986,50.0,20
-2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,narain-karthikeyan,Narain Karthikeyan,jordan,11,43,20,0,11,945.402786,954.636739,9.233953,0.473684,0.289005,50.0,20
-2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,christijan-albers,Christijan Albers,minardi,12,42,PL,0,12,952.080403,958.287354,6.206951,0.421053,0.296914,50.0,20
-2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,robert-doornbos,Robert Doornbos,minardi,13,41,PL,0,13,967.15503,969.81973,2.6647,0.368421,0.315127,50.0,20
-2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,juan-pablo-montoya,Juan Pablo Montoya,mclaren,14,40,1,0,14,1213.761946,1197.370021,-16.391925,0.315789,0.643628,50.0,20
-2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,antonio-pizzonia,Antônio Pizzonia,williams,15,39,15,0,15,1032.847469,1026.034506,-6.812964,0.263158,0.399417,50.0,20
-2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,jarno-trulli,Jarno Trulli,toyota,DNF,34,3,1,16,1187.316623,1167.380348,-19.936276,0.210526,0.609252,50.0,20
-2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,david-coulthard,David Coulthard,red-bull,DNF,18,11,1,17,1107.232933,1090.093615,-17.139317,0.157895,0.500681,50.0,20
-2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,michael-schumacher,Michael Schumacher,ferrari,DNF,13,6,1,18,1310.743565,1276.788615,-33.954949,0.078947,0.758046,50.0,20
-2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,takuma-sato,Takuma Sato,bar,DNF,13,10,1,19,1046.571238,1029.628343,-16.942895,0.078947,0.417805,50.0,20
-2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,giancarlo-fisichella,Giancarlo Fisichella,renault,DNF,10,13,1,20,1161.512268,1132.771502,-28.740766,0.0,0.574815,50.0,20
+2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,kimi-raikkonen,Kimi Räikkönen,mclaren,1,44,2,0,1,1418.377256,1432.325951,13.948695,1.0,0.721026,50.0,19
+2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,fernando-alonso,Fernando Alonso,renault,2,44,4,0,2,1393.21839,1405.350372,12.131982,0.944444,0.701805,50.0,19
+2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,jenson-button,Jenson Button,bar,3,44,8,0,3,1278.090357,1292.184901,14.094544,0.888889,0.606998,50.0,19
+2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,mark-webber,Mark Webber,williams,4,44,9,0,4,1039.388664,1061.331688,21.943024,0.833333,0.394473,50.0,19
+2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,rubens-barrichello,Rubens Barrichello,ferrari,5,44,12,0,5,1356.207282,1361.472931,5.265649,0.777778,0.672465,50.0,19
+2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,jacques-villeneuve,Jacques Villeneuve,sauber,6,44,14,0,6,1073.776468,1088.647866,14.871398,0.722222,0.424794,50.0,19
+2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,ralf-schumacher,Ralf Schumacher,toyota,7,44,5,0,7,1240.788564,1245.400914,4.61235,0.666667,0.57442,50.0,19
+2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,tiago-monteiro,Tiago Monteiro,jordan,8,43,19,0,8,934.213005,949.463813,15.250808,0.611111,0.306095,50.0,19
+2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,christian-klien,Christian Klien,red-bull,9,43,16,0,9,975.464202,986.252012,10.787811,0.555556,0.339799,50.0,19
+2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,felipe-massa,Felipe Massa,sauber,10,43,7,0,10,1077.435244,1081.032866,3.597622,0.5,0.428048,50.0,19
+2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,narain-karthikeyan,Narain Karthikeyan,jordan,11,43,20,0,11,944.60908,951.10862,6.49954,0.444444,0.314454,50.0,19
+2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,christijan-albers,Christijan Albers,minardi,12,42,PL,0,12,939.522122,943.448983,3.926862,0.388889,0.310352,50.0,19
+2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,robert-doornbos,Robert Doornbos,minardi,13,41,PL,0,13,967.249905,967.26773,0.017825,0.333333,0.332977,50.0,19
+2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,juan-pablo-montoya,Juan Pablo Montoya,mclaren,14,40,1,0,14,1360.932591,1341.007613,-19.924978,0.277778,0.676277,50.0,19
+2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,antonio-pizzonia,Antônio Pizzonia,williams,15,39,15,0,15,1007.816309,1000.570065,-7.246244,0.222222,0.367147,50.0,19
+2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,jarno-trulli,Jarno Trulli,toyota,DNF,34,3,1,16,1264.229086,1242.813797,-21.415289,0.166667,0.594972,50.0,19
+2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,michael-schumacher,Michael Schumacher,ferrari,DNF,13,6,1,17,1528.590515,1492.885604,-35.704911,0.083333,0.797432,50.0,19
+2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,takuma-sato,Takuma Sato,bar,DNF,13,10,1,18,1042.082608,1026.407809,-15.674799,0.083333,0.396829,50.0,19
+2005,16,2005-09-11,belgium,2005 Formula 1 Belgian Grand Prix,747,giancarlo-fisichella,Giancarlo Fisichella,renault,DNF,10,13,1,19,1201.663739,1174.681853,-26.981886,0.0,0.539638,50.0,19

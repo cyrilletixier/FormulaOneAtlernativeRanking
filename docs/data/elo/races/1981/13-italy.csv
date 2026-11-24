@@ -1,31 +1,23 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,alain-prost,Alain Prost,renault,1,52,3,0,1,1108.508624,1131.226342,22.717718,1.0,0.545646,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,alan-jones,Alan Jones,williams,2,52,5,0,2,1279.436757,1289.995362,10.558605,0.965517,0.754345,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,carlos-reutemann,Carlos Reutemann,williams,3,52,2,0,3,1281.565514,1290.289058,8.723544,0.931034,0.756564,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,elio-de-angelis,Elio de Angelis,lotus,4,52,11,0,4,1165.805253,1179.583447,13.778194,0.896552,0.620988,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,didier-pironi,Didier Pironi,ferrari,5,52,8,0,5,1145.517365,1158.885224,13.367859,0.862069,0.594712,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,nelson-piquet,Nelson Piquet,brabham,6,51,6,0,6,1245.727091,1251.220747,5.493656,0.827586,0.717713,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,andrea-de-cesaris,Andrea de Cesaris,mclaren,7,51,16,0,7,991.296941,1011.498524,20.201583,0.793103,0.389072,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,8,50,10,0,8,1067.065104,1080.505698,13.440595,0.758621,0.489809,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,jean-pierre-jarier,Jean-Pierre Jarier,osella,9,50,18,0,9,1156.373772,1162.138691,5.764919,0.724138,0.60884,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,brian-henton,Brian Henton,toleman,10,49,23,0,10,855.527292,878.475128,22.947836,0.689655,0.230698,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,mario-andretti,Mario Andretti,alfa-romeo,DNF,41,13,1,11,1131.967577,1135.881693,3.914116,0.655172,0.57689,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,derek-daly,Derek Daly,march,DNF,37,19,1,12,990.564376,1002.19265,11.628274,0.62069,0.388124,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,patrick-tambay,Patrick Tambay,ligier,DNF,22,15,1,13,1041.437755,1047.982897,6.545142,0.586207,0.455304,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,nigel-mansell,Nigel Mansell,lotus,DNF,21,12,1,14,1004.962448,1012.205013,7.242565,0.551724,0.406873,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,john-watson,John Watson,mclaren,DNF,19,7,1,15,1211.55006,1202.655948,-8.894112,0.5,0.677882,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,riccardo-patrese,Riccardo Patrese,arrows,DNF,19,20,1,16,1090.833313,1089.739112,-1.094201,0.5,0.521884,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,michele-alboreto,Michele Alboreto,tyrrell,DNF,16,22,1,17,1007.005717,1008.94184,1.936123,0.448276,0.409553,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,eliseo-salazar,Eliseo Salazar,ensign,DNF,13,24,1,18,978.10439,980.187991,2.083601,0.413793,0.372121,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,rene-arnoux,René Arnoux,renault,DNF,12,1,1,19,1172.921691,1160.383729,-12.537962,0.37931,0.63007,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,eddie-cheever,Eddie Cheever,tyrrell,DNF,11,17,1,20,1051.2098,1044.167395,-7.042406,0.327586,0.468434,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,jacques-laffite,Jacques Laffite,ligier,DNF,11,4,1,21,1238.016357,1218.948061,-19.068296,0.327586,0.708952,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,slim-borgudd,Slim Borgudd,ats-wheels,DNF,10,21,1,22,1008.950998,1002.138618,-6.812379,0.275862,0.41211,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,gilles-villeneuve,Gilles Villeneuve,ferrari,DNF,6,9,1,23,1148.856633,1130.971965,-17.884668,0.241379,0.599073,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,hector-rebaque,Héctor Rebaque,brabham,DNF,0,14,1,24,1084.074427,1068.780785,-15.293642,0.206897,0.512769,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,beppe-gabbiani,Beppe Gabbiani,osella,DNQ,,,2,25,878.466631,870.050291,-8.41634,0.086207,0.254534,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,chico-serra,Chico Serra,fittipaldi,DNQ,,,2,26,935.652136,923.986965,-11.665171,0.086207,0.31951,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,derek-warwick,Derek Warwick,toleman,DNQ,,,2,27,894.75857,885.455529,-9.303041,0.086207,0.272268,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,keke-rosberg,Keke Rosberg,fittipaldi,DNQ,,,2,28,989.693247,974.653678,-15.039569,0.086207,0.386998,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,marc-surer,Marc Surer,theodore,DNQ,,,2,29,1094.552272,1072.517918,-22.034355,0.086207,0.526894,50.0,30
-1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,siegfried-stohr,Siegfried Stohr,arrows,DNQ,,,2,30,993.071844,977.813657,-15.258187,0.086207,0.391371,50.0,30
+1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,alain-prost,Alain Prost,renault,1,52,3,0,1,1109.487606,1132.489194,23.001588,1.0,0.539968,50.0,22
+1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,alan-jones,Alan Jones,williams,2,52,5,0,2,1354.747155,1365.071496,10.324341,0.952381,0.745894,50.0,22
+1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,carlos-reutemann,Carlos Reutemann,williams,3,52,2,0,3,1421.685833,1427.33418,5.648346,0.904762,0.791795,50.0,22
+1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,elio-de-angelis,Elio de Angelis,lotus,4,52,11,0,4,1143.069283,1157.395905,14.326622,0.857143,0.57061,50.0,22
+1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,didier-pironi,Didier Pironi,ferrari,5,52,8,0,5,1221.913541,1230.37543,8.461889,0.809524,0.640286,50.0,22
+1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,nelson-piquet,Nelson Piquet,brabham,6,51,6,0,6,1270.846214,1274.881166,4.034952,0.761905,0.681206,50.0,22
+1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,andrea-de-cesaris,Andrea de Cesaris,mclaren,7,51,16,0,7,976.296856,991.144294,14.847438,0.714286,0.417337,50.0,22
+1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,8,50,10,0,8,1035.250954,1045.013484,9.76253,0.666667,0.471416,50.0,22
+1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,jean-pierre-jarier,Jean-Pierre Jarier,osella,9,50,18,0,9,1107.759217,1111.792542,4.033325,0.619048,0.538381,50.0,22
+1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,brian-henton,Brian Henton,toleman,10,49,23,0,10,835.958421,849.709406,13.750984,0.571429,0.296409,50.0,22
+1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,john-watson,John Watson,mclaren,DNF,19,7,1,11,1275.689196,1267.622796,-8.0664,0.52381,0.685138,50.0,22
+1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,michele-alboreto,Michele Alboreto,tyrrell,DNF,16,22,1,12,985.852701,988.360776,2.508076,0.47619,0.426029,50.0,22
+1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,eliseo-salazar,Eliseo Salazar,ensign,DNF,13,24,1,13,949.789148,951.545446,1.756298,0.428571,0.393445,50.0,22
+1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,rene-arnoux,René Arnoux,renault,DNF,12,1,1,14,1176.195956,1165.226079,-10.969876,0.380952,0.60035,50.0,22
+1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,eddie-cheever,Eddie Cheever,tyrrell,DNF,11,17,1,15,1008.33884,1002.674913,-5.663927,0.333333,0.446612,50.0,22
+1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,slim-borgudd,Slim Borgudd,ats-wheels,DNF,10,21,1,16,983.083726,976.194115,-6.889611,0.285714,0.423507,50.0,22
+1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,beppe-gabbiani,Beppe Gabbiani,osella,DNQ,,,2,17,860.76351,850.885768,-9.877742,0.119048,0.316602,50.0,22
+1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,chico-serra,Chico Serra,fittipaldi,DNQ,,,2,18,922.761111,910.238807,-12.522304,0.119048,0.369494,50.0,22
+1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,derek-warwick,Derek Warwick,toleman,DNQ,,,2,19,893.173985,881.93352,-11.240466,0.119048,0.343857,50.0,22
+1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,keke-rosberg,Keke Rosberg,fittipaldi,DNQ,,,2,20,962.906053,948.597236,-14.308817,0.119048,0.405224,50.0,22
+1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,marc-surer,Marc Surer,theodore,DNQ,,,2,21,1046.457258,1028.320833,-18.136425,0.119048,0.481776,50.0,22
+1981,13,1981-09-13,italy,Gran Premio d'Italia 1981,355,siegfried-stohr,Siegfried Stohr,arrows,DNQ,,,2,22,973.349747,958.568927,-14.780819,0.119048,0.414664,50.0,22

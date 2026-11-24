@@ -1,21 +1,16 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,michael-schumacher,Michael Schumacher,ferrari,1,70,1,0,1,1459.820784,1465.126679,5.305895,1.0,0.893882,50.0,20
-2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,rubens-barrichello,Rubens Barrichello,ferrari,2,70,2,0,2,1289.768022,1299.314324,9.546302,0.947368,0.756442,50.0,20
-2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,fernando-alonso,Fernando Alonso,renault,3,70,5,0,3,1153.382997,1168.31519,14.932193,0.894737,0.596093,50.0,20
-2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,juan-pablo-montoya,Juan Pablo Montoya,williams,4,70,7,0,4,1181.56139,1192.056584,10.495194,0.842105,0.632201,50.0,20
-2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,jenson-button,Jenson Button,bar,5,70,4,0,5,1210.701485,1216.769097,6.067611,0.789474,0.668121,50.0,20
-2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,takuma-sato,Takuma Sato,bar,6,69,3,0,6,1043.99949,1058.392303,14.392813,0.736842,0.448986,50.0,20
-2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,antonio-pizzonia,Antônio Pizzonia,williams,7,69,6,0,7,989.086499,1004.511404,15.424905,0.684211,0.375712,50.0,20
-2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,giancarlo-fisichella,Giancarlo Fisichella,sauber,8,69,8,0,8,1074.205378,1081.282642,7.077264,0.631579,0.490034,50.0,20
-2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,david-coulthard,David Coulthard,mclaren,9,69,12,0,9,1153.657957,1152.782778,-0.87518,0.578947,0.596451,50.0,20
-2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,mark-webber,Mark Webber,jaguar,10,69,11,0,10,1049.457513,1052.953941,3.496428,0.526316,0.456387,50.0,20
-2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,olivier-panis,Olivier Panis,toyota,11,69,13,0,11,985.356768,990.498324,5.141556,0.473684,0.370853,50.0,20
-2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,nick-heidfeld,Nick Heidfeld,jordan,12,68,16,0,12,1007.363289,1008.426894,1.063605,0.421053,0.399781,50.0,20
-2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,christian-klien,Christian Klien,jaguar,13,68,14,0,13,990.484764,990.028863,-0.4559,0.368421,0.377539,50.0,20
-2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,gianmaria-bruni,Gianmaria Bruni,minardi,14,66,19,0,14,917.550352,919.007241,1.456889,0.315789,0.286652,50.0,20
-2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,zsolt-baumgartner,Zsolt Baumgartner,minardi,15,65,18,0,15,940.417222,937.872193,-2.545029,0.263158,0.314058,50.0,20
-2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,giorgio-pantano,Giorgio Pantano,jordan,DNF,48,17,1,16,937.014678,932.045492,-4.969186,0.210526,0.30991,50.0,20
-2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,jarno-trulli,Jarno Trulli,renault,DNF,41,9,1,17,1155.802728,1133.735479,-22.067249,0.157895,0.59924,50.0,20
-2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,ricardo-zonta,Ricardo Zonta,toyota,DNF,31,15,1,18,1037.890474,1021.117767,-16.772708,0.105263,0.440717,50.0,20
-2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,felipe-massa,Felipe Massa,sauber,DNF,21,20,1,19,1045.135033,1025.240376,-19.894657,0.052632,0.450525,50.0,20
-2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,13,10,1,20,1108.421959,1081.601212,-26.820747,0.0,0.536415,50.0,20
+2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,michael-schumacher,Michael Schumacher,ferrari,1,70,1,0,1,1650.823337,1656.937995,6.114658,1.0,0.877707,50.0,15
+2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,rubens-barrichello,Rubens Barrichello,ferrari,2,70,2,0,2,1416.738349,1426.142394,9.404045,0.928571,0.740491,50.0,15
+2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,fernando-alonso,Fernando Alonso,renault,3,70,5,0,3,1215.090849,1229.002366,13.911517,0.857143,0.578913,50.0,15
+2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,juan-pablo-montoya,Juan Pablo Montoya,williams,4,70,7,0,4,1296.976215,1303.840098,6.863883,0.785714,0.648437,50.0,15
+2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,jenson-button,Jenson Button,bar,5,70,4,0,5,1251.472491,1256.670266,5.197774,0.714286,0.61033,50.0,15
+2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,takuma-sato,Takuma Sato,bar,6,69,3,0,6,1021.476771,1033.334439,11.857668,0.642857,0.405704,50.0,15
+2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,antonio-pizzonia,Antônio Pizzonia,williams,7,69,6,0,7,966.81997,977.496013,10.676043,0.571429,0.357908,50.0,15
+2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,giancarlo-fisichella,Giancarlo Fisichella,sauber,8,69,8,0,8,1079.845306,1081.946304,2.100998,0.5,0.45798,50.0,15
+2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,david-coulthard,David Coulthard,mclaren,9,69,12,0,9,1321.427431,1309.442499,-11.984931,0.428571,0.66827,50.0,15
+2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,mark-webber,Mark Webber,jaguar,10,69,11,0,10,1028.826536,1026.071959,-2.754577,0.357143,0.412234,50.0,15
+2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,olivier-panis,Olivier Panis,toyota,11,69,13,0,11,999.464996,994.436921,-5.028075,0.285714,0.386276,50.0,15
+2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,nick-heidfeld,Nick Heidfeld,jordan,12,68,16,0,12,1010.98577,1001.879149,-9.106622,0.214286,0.396418,50.0,15
+2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,christian-klien,Christian Klien,jaguar,13,68,14,0,13,958.710328,948.305263,-10.405065,0.142857,0.350958,50.0,15
+2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,gianmaria-bruni,Gianmaria Bruni,minardi,14,66,19,0,14,885.600015,874.644687,-10.955328,0.071429,0.290535,50.0,15
+2004,13,2004-08-15,hungary,Formula 1 Marlboro Magyar Nagydíj 2004,726,zsolt-baumgartner,Zsolt Baumgartner,minardi,15,65,18,0,15,919.290001,903.398013,-15.891988,0.0,0.31784,50.0,15

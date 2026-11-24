@@ -1,23 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,kimi-antonelli,Kimi Antonelli,mercedes,1,56,1,0,1,1175.534938,1198.15852,22.623582,1.0,0.547528,50.0,22
-2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,george-russell,George Russell,mercedes,2,56,2,0,2,1412.013609,1419.670138,7.656528,0.952381,0.79925,50.0,22
-2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,lewis-hamilton,Lewis Hamilton,ferrari,3,56,3,0,3,1257.071032,1270.071604,13.000572,0.904762,0.64475,50.0,22
-2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,charles-leclerc,Charles Leclerc,ferrari,4,56,4,0,4,1347.77513,1353.592164,5.817033,0.857143,0.740802,50.0,22
-2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,oliver-bearman,Oliver Bearman,haas,5,56,10,0,5,1105.59272,1123.089116,17.496396,0.809524,0.459596,50.0,22
-2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,pierre-gasly,Pierre Gasly,alpine,6,56,7,0,6,1001.340825,1022.912074,21.571249,0.761905,0.33048,50.0,22
-2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,liam-lawson,Liam Lawson,racing-bulls,7,56,14,0,7,1051.289811,1067.440709,16.150898,0.714286,0.391268,50.0,22
-2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,isack-hadjar,Isack Hadjar,red-bull,8,56,9,0,8,1052.288793,1065.996626,13.707833,0.666667,0.39251,50.0,22
-2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,carlos-sainz-jr,Carlos Sainz Jr.,williams,9,55,17,0,9,1139.229073,1145.074715,5.845642,0.619048,0.502135,50.0,22
-2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,franco-colapinto,Franco Colapinto,alpine,10,55,12,0,10,939.154349,954.720101,15.565752,0.571429,0.260114,50.0,22
-2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,nico-hulkenberg,Nico Hülkenberg,audi,11,55,11,0,11,1037.696937,1045.164845,7.467907,0.52381,0.374451,50.0,22
-2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,arvid-lindblad,Arvid Lindblad,racing-bulls,12,55,15,0,12,1016.842524,1023.200829,6.358304,0.47619,0.349024,50.0,22
-2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,valtteri-bottas,Valtteri Bottas,cadillac,13,55,19,0,13,936.787266,945.336609,8.549343,0.428571,0.257585,50.0,22
-2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,esteban-ocon,Esteban Ocon,haas,14,55,13,0,14,1067.776458,1066.230934,-1.545525,0.380952,0.411863,50.0,22
-2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,sergio-perez,Sergio Pérez,cadillac,15,55,21,0,15,1162.771592,1152.854875,-9.916718,0.333333,0.531668,50.0,22
-2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,max-verstappen,Max Verstappen,red-bull,DNF,45,8,1,16,1523.280079,1493.545596,-29.734483,0.285714,0.880404,50.0,22
-2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,fernando-alonso,Fernando Alonso,aston-martin,DNF,32,18,1,17,1111.056929,1099.63587,-11.421059,0.238095,0.466516,50.0,22
-2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,lance-stroll,Lance Stroll,aston-martin,DNF,9,20,1,18,1000.507073,993.556279,-6.950794,0.190476,0.329492,50.0,22
-2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,alexander-albon,Alexander Albon,williams,DNS,,PL,2,19,1075.762997,1058.239405,-17.523592,0.071429,0.4219,50.0,22
-2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,gabriel-bortoleto,Gabriel Bortoleto,audi,DNS,,16,2,20,1015.604645,1001.799499,-13.805147,0.071429,0.347532,50.0,22
-2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,lando-norris,Lando Norris,mclaren,DNS,,6,2,21,1423.597486,1386.724404,-36.873083,0.071429,0.80889,50.0,22
-2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,oscar-piastri,Oscar Piastri,mclaren,DNS,,5,2,22,1359.657057,1325.616415,-34.040642,0.071429,0.752241,50.0,22
+2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,kimi-antonelli,Kimi Antonelli,mercedes,1,56,1,0,1,1216.358305,1240.60521,24.246905,1.0,0.515062,50.0,19
+2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,george-russell,George Russell,mercedes,2,56,2,0,2,1575.602088,1583.264283,7.662195,0.944444,0.791201,50.0,19
+2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,lewis-hamilton,Lewis Hamilton,ferrari,3,56,3,0,3,1413.664376,1424.176287,10.511911,0.888889,0.678651,50.0,19
+2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,charles-leclerc,Charles Leclerc,ferrari,4,56,4,0,4,1530.298792,1533.853812,3.55502,0.833333,0.762233,50.0,19
+2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,oliver-bearman,Oliver Bearman,haas,5,56,10,0,5,1152.958583,1168.86252,15.903937,0.777778,0.459699,50.0,19
+2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,pierre-gasly,Pierre Gasly,alpine,6,56,7,0,6,1023.646597,1042.305921,18.659324,0.722222,0.349036,50.0,19
+2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,liam-lawson,Liam Lawson,racing-bulls,7,56,14,0,7,1053.293418,1067.937075,14.643657,0.666667,0.373794,50.0,19
+2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,isack-hadjar,Isack Hadjar,red-bull,8,56,9,0,8,1073.985974,1084.974115,10.98814,0.611111,0.391348,50.0,19
+2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,carlos-sainz-jr,Carlos Sainz Jr.,williams,9,55,17,0,9,1235.214377,1236.420385,1.206008,0.555556,0.531435,50.0,19
+2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,franco-colapinto,Franco Colapinto,alpine,10,55,12,0,10,916.698929,928.446489,11.747559,0.5,0.265049,50.0,19
+2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,nico-hulkenberg,Nico Hülkenberg,audi,11,55,11,0,11,1069.362742,1072.214519,2.851777,0.444444,0.387409,50.0,19
+2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,arvid-lindblad,Arvid Lindblad,racing-bulls,12,55,15,0,12,1015.16117,1017.50322,2.342051,0.388889,0.342048,50.0,19
+2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,valtteri-bottas,Valtteri Bottas,cadillac,13,55,19,0,13,971.232212,972.564265,1.332053,0.333333,0.306692,50.0,19
+2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,esteban-ocon,Esteban Ocon,haas,14,55,13,0,14,1098.645149,1091.908825,-6.736324,0.277778,0.412504,50.0,19
+2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,sergio-perez,Sergio Pérez,cadillac,15,55,21,0,15,1329.759424,1310.286946,-19.472478,0.222222,0.611672,50.0,19
+2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,alexander-albon,Alexander Albon,williams,DNS,,PL,2,16,1128.859882,1111.092227,-17.767655,0.083333,0.438686,50.0,19
+2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,gabriel-bortoleto,Gabriel Bortoleto,audi,DNS,,16,2,17,1003.778072,991.307251,-12.47082,0.083333,0.33275,50.0,19
+2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,lando-norris,Lando Norris,mclaren,DNS,,6,2,18,1598.945491,1562.846637,-36.098854,0.083333,0.80531,50.0,19
+2026,2,2026-03-15,china,Formula 1 Heineken Chinese Grand Prix 2026,1151,oscar-piastri,Oscar Piastri,mclaren,DNS,,5,2,19,1505.365888,1472.261481,-33.104407,0.083333,0.745421,50.0,19

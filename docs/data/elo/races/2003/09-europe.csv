@@ -1,21 +1,16 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,ralf-schumacher,Ralf Schumacher,williams,1,60,3,0,1,1231.011027,1246.131632,15.120605,1.0,0.697588,50.0,20
-2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,juan-pablo-montoya,Juan Pablo Montoya,williams,2,60,4,0,2,1181.805706,1197.280256,15.47455,0.947368,0.637877,50.0,20
-2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,rubens-barrichello,Rubens Barrichello,ferrari,3,60,5,0,3,1257.194407,1265.571547,8.37714,0.894737,0.727194,50.0,20
-2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,fernando-alonso,Fernando Alonso,renault,4,60,8,0,4,1082.175409,1099.009993,16.834584,0.842105,0.505414,50.0,20
-2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,michael-schumacher,Michael Schumacher,ferrari,5,60,2,0,5,1441.172201,1436.327782,-4.844419,0.789474,0.886362,50.0,20
-2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,mark-webber,Mark Webber,jaguar,6,59,11,0,6,989.902062,1007.753314,17.851252,0.736842,0.379817,50.0,20
-2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,jenson-button,Jenson Button,bar,7,59,12,0,7,1073.7399,1083.258965,9.519066,0.684211,0.493829,50.0,20
-2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,nick-heidfeld,Nick Heidfeld,sauber,8,59,PL,0,8,1059.031569,1066.930041,7.898471,0.631579,0.47361,50.0,20
-2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,9,59,15,0,9,973.602011,984.628944,11.026933,0.578947,0.358409,50.0,20
-2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,antonio-pizzonia,Antônio Pizzonia,jaguar,10,59,16,0,10,976.017641,984.255603,8.237963,0.526316,0.361557,50.0,20
-2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,ralph-firman,Ralph Firman,jordan,11,58,14,0,11,977.491587,983.001713,5.510126,0.473684,0.363482,50.0,20
-2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,giancarlo-fisichella,Giancarlo Fisichella,jordan,12,58,13,0,12,1026.959462,1026.528341,-0.43112,0.421053,0.429675,50.0,20
-2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,justin-wilson,Justin Wilson,minardi,13,58,19,0,13,962.837974,964.034177,1.196203,0.368421,0.344497,50.0,20
-2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,jos-verstappen,Jos Verstappen,minardi,14,57,18,0,14,985.502307,982.59173,-2.910577,0.315789,0.374001,50.0,20
-2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,david-coulthard,David Coulthard,mclaren,15,56,9,0,15,1189.906105,1170.66199,-19.244116,0.263158,0.64804,50.0,20
-2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,cristiano-da-matta,Cristiano da Matta,toyota,DNF,53,10,1,16,1032.327601,1021.004116,-11.323484,0.210526,0.436996,50.0,20
-2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,jacques-villeneuve,Jacques Villeneuve,bar,DNF,51,17,1,17,998.711237,987.029111,-11.682126,0.157895,0.391537,50.0,20
-2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,jarno-trulli,Jarno Trulli,renault,DNF,37,6,1,18,1074.335563,1053.550545,-20.785018,0.078947,0.494648,50.0,20
-2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,olivier-panis,Olivier Panis,toyota,DNF,37,7,1,19,992.874654,977.633968,-15.240686,0.078947,0.383761,50.0,20
-2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,25,1,1,20,1161.353561,1130.768215,-30.585346,0.0,0.611707,50.0,20
+2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,ralf-schumacher,Ralf Schumacher,williams,1,60,3,0,1,1305.158975,1322.681207,17.522232,1.0,0.649555,50.0,15
+2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,juan-pablo-montoya,Juan Pablo Montoya,williams,2,60,4,0,2,1261.102481,1276.904268,15.801787,0.928571,0.612536,50.0,15
+2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,rubens-barrichello,Rubens Barrichello,ferrari,3,60,5,0,3,1377.018598,1384.550331,7.531733,0.857143,0.706508,50.0,15
+2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,fernando-alonso,Fernando Alonso,renault,4,60,8,0,4,1076.190038,1093.120892,16.930853,0.785714,0.447097,50.0,15
+2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,michael-schumacher,Michael Schumacher,ferrari,5,60,2,0,5,1652.781582,1644.705422,-8.07616,0.714286,0.875809,50.0,15
+2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,mark-webber,Mark Webber,jaguar,6,59,11,0,6,995.199786,1008.617663,13.417877,0.642857,0.3745,50.0,15
+2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,jenson-button,Jenson Button,bar,7,59,12,0,7,1061.499811,1068.382362,6.882551,0.571429,0.433778,50.0,15
+2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,nick-heidfeld,Nick Heidfeld,sauber,8,59,PL,0,8,1048.642144,1052.534197,3.892053,0.5,0.422159,50.0,15
+2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,9,59,15,0,9,1063.182209,1062.84574,-0.336469,0.428571,0.435301,50.0,15
+2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,antonio-pizzonia,Antônio Pizzonia,jaguar,10,59,16,0,10,948.804209,949.942779,1.13857,0.357143,0.334371,50.0,15
+2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,ralph-firman,Ralph Firman,jordan,11,58,14,0,11,980.383404,976.592426,-3.790978,0.285714,0.361534,50.0,15
+2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,giancarlo-fisichella,Giancarlo Fisichella,jordan,12,58,13,0,12,1067.206066,1055.973026,-11.23304,0.214286,0.438947,50.0,15
+2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,justin-wilson,Justin Wilson,minardi,13,58,19,0,13,951.964422,942.254388,-9.710034,0.142857,0.337058,50.0,15
+2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,jos-verstappen,Jos Verstappen,minardi,14,57,18,0,14,954.071211,940.699996,-13.371215,0.071429,0.338853,50.0,15
+2003,9,2003-06-29,europe,2003 Allianz Grand Prix of Europe,706,david-coulthard,David Coulthard,mclaren,15,56,9,0,15,1411.339162,1374.7394,-36.599762,0.0,0.731995,50.0,15

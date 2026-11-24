@@ -1,27 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,ayrton-senna,Ayrton Senna,mclaren,1,78,3,0,1,1298.013445,1309.998025,11.984581,1.0,0.760308,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,damon-hill,Damon Hill,williams,2,78,4,0,2,991.480673,1021.497626,30.016953,0.96,0.359661,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,jean-alesi,Jean Alesi,ferrari,3,78,5,0,3,1115.396458,1134.888812,19.492354,0.92,0.530153,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,alain-prost,Alain Prost,williams,4,77,1,0,4,1299.17862,1305.101752,5.923132,0.88,0.761537,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,christian-fittipaldi,Christian Fittipaldi,minardi,5,76,17,0,5,1075.062398,1093.376072,18.313675,0.84,0.473727,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,martin-brundle,Martin Brundle,ligier,6,76,13,0,6,1173.310467,1182.835423,9.524956,0.8,0.609501,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,alex-zanardi,Alex Zanardi,lotus,7,76,20,0,7,1031.354014,1048.696961,17.342947,0.76,0.413141,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,michael-andretti,Michael Andretti,mclaren,8,76,9,0,8,991.751849,1009.751034,17.999185,0.72,0.360016,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,rubens-barrichello,Rubens Barrichello,jordan,9,76,16,0,9,1009.899592,1024.695712,14.79612,0.68,0.384078,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,andrea-de-cesaris,Andrea de Cesaris,tyrrell,10,76,19,0,10,1071.023202,1079.619176,8.595974,0.64,0.468081,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,fabrizio-barbazza,Fabrizio Barbazza,minardi,11,75,25,0,11,926.512043,942.566935,16.054892,0.6,0.278902,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,philippe-alliot,Philippe Alliot,larrousse,12,75,15,0,12,1080.039535,1084.005043,3.965508,0.56,0.48069,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,karl-wendlinger,Karl Wendlinger,sauber,13,74,8,0,13,1039.099423,1043.911054,4.811631,0.52,0.423767,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,gerhard-berger,Gerhard Berger,ferrari,14,70,7,0,14,1189.451392,1181.90831,-7.543082,0.48,0.630862,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,johnny-herbert,Johnny Herbert,lotus,DNF,61,14,1,15,1064.074713,1063.155589,-0.919124,0.44,0.458382,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,riccardo-patrese,Riccardo Patrese,benetton,DNF,53,6,1,16,1234.861688,1220.44413,-14.417559,0.4,0.688351,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,erik-comas,Érik Comas,larrousse,DNF,51,10,1,17,1094.234958,1087.206564,-7.028395,0.36,0.500568,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,aguri-suzuki,Aguri Suzuki,footwork,DNF,46,18,1,18,1054.669049,1048.404335,-6.264714,0.32,0.445294,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,derek-warwick,Derek Warwick,footwork,DNF,43,12,1,19,1149.60311,1134.731064,-14.872046,0.28,0.577441,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,michael-schumacher,Michael Schumacher,benetton,DNF,32,2,1,20,1224.655013,1202.864798,-21.790215,0.24,0.675804,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,ukyo-katayama,Ukyo Katayama,tyrrell,DNF,31,22,1,21,981.505516,974.171425,-7.334091,0.2,0.346682,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,michele-alboreto,Michele Alboreto,lola,DNF,28,24,1,22,1072.644318,1057.127024,-15.517294,0.16,0.470346,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,jj-lehto,JJ Lehto,sauber,DNF,23,11,1,23,1126.550502,1105.266963,-21.283539,0.12,0.545671,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,thierry-boutsen,Thierry Boutsen,jordan,DNF,12,23,1,24,1103.202136,1081.546156,-21.655979,0.08,0.51312,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,mark-blundell,Mark Blundell,ligier,DNF,3,21,1,25,1069.291678,1048.008582,-21.283096,0.04,0.465662,50.0,26
-1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,luca-badoer,Luca Badoer,lola,DNQ,,,2,26,1005.544552,986.631778,-18.912774,0.0,0.378255,50.0,26
+1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,ayrton-senna,Ayrton Senna,mclaren,1,78,3,0,1,1550.401112,1558.606324,8.205212,1.0,0.835896,50.0,18
+1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,damon-hill,Damon Hill,williams,2,78,4,0,2,966.86647,995.236359,28.369889,0.941176,0.373779,50.0,18
+1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,jean-alesi,Jean Alesi,ferrari,3,78,5,0,3,1225.891672,1239.705571,13.813899,0.882353,0.606075,50.0,18
+1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,alain-prost,Alain Prost,williams,4,77,1,0,4,1556.626464,1555.842061,-0.784403,0.823529,0.839217,50.0,18
+1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,christian-fittipaldi,Christian Fittipaldi,minardi,5,76,17,0,5,1028.133657,1044.941325,16.807668,0.764706,0.428553,50.0,18
+1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,martin-brundle,Martin Brundle,ligier,6,76,13,0,6,1201.131376,1207.194631,6.063255,0.705882,0.584617,50.0,18
+1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,alex-zanardi,Alex Zanardi,lotus,7,76,20,0,7,998.784239,1011.03137,12.24713,0.647059,0.402116,50.0,18
+1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,michael-andretti,Michael Andretti,mclaren,8,76,9,0,8,976.254247,986.56304,10.308793,0.588235,0.382059,50.0,18
+1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,rubens-barrichello,Rubens Barrichello,jordan,9,76,16,0,9,992.015204,998.682528,6.667324,0.529412,0.396065,50.0,18
+1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,andrea-de-cesaris,Andrea de Cesaris,tyrrell,10,76,19,0,10,1153.358421,1149.774688,-3.583733,0.470588,0.542263,50.0,18
+1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,fabrizio-barbazza,Fabrizio Barbazza,minardi,11,75,25,0,11,896.931435,901.821548,4.890113,0.411765,0.313962,50.0,18
+1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,philippe-alliot,Philippe Alliot,larrousse,12,75,15,0,12,1026.785441,1023.065892,-3.719548,0.352941,0.427332,50.0,18
+1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,karl-wendlinger,Karl Wendlinger,sauber,13,74,8,0,13,1009.502681,1003.62176,-5.880921,0.294118,0.411736,50.0,18
+1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,gerhard-berger,Gerhard Berger,ferrari,14,70,7,0,14,1409.63656,1383.926821,-25.709739,0.235294,0.749489,50.0,18
+1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,aguri-suzuki,Aguri Suzuki,footwork,DNF,46,18,1,15,1000.20225,988.856466,-11.345784,0.176471,0.403386,50.0,18
+1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,jj-lehto,JJ Lehto,sauber,DNF,23,11,1,16,1069.680233,1052.246042,-17.434192,0.117647,0.466331,50.0,18
+1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,mark-blundell,Mark Blundell,ligier,DNF,3,21,1,17,1041.569862,1022.474097,-19.095764,0.058824,0.440739,50.0,18
+1993,6,1993-05-23,monaco,Grand Prix de Monaco 1993,538,luca-badoer,Luca Badoer,lola,DNQ,,,2,18,992.372259,972.553061,-19.819198,0.0,0.396384,50.0,18

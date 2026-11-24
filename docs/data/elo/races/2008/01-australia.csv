@@ -1,23 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,lewis-hamilton,Lewis Hamilton,mclaren,1,58,1,0,1,1228.592032,1244.521215,15.929183,1.0,0.681416,50.0,22
-2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,nick-heidfeld,Nick Heidfeld,bmw-sauber,2,58,5,0,2,1213.472943,1227.924346,14.451403,0.952381,0.663353,50.0,22
-2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,nico-rosberg,Nico Rosberg,williams,3,58,7,0,3,1068.760195,1090.271438,21.511243,0.904762,0.474537,50.0,22
-2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,fernando-alonso,Fernando Alonso,renault,4,58,11,0,4,1383.376183,1384.428441,1.052258,0.857143,0.836098,50.0,22
-2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,heikki-kovalainen,Heikki Kovalainen,mclaren,5,58,3,0,5,1132.772113,1145.221488,12.449375,0.809524,0.560536,50.0,22
-2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,kazuki-nakajima,Kazuki Nakajima,williams,6,57,13,0,6,1009.189158,1027.540699,18.351541,0.761905,0.394874,50.0,22
-2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,sebastien-bourdais,Sébastien Bourdais,toro-rosso,7,55,17,0,7,1000.0,1016.571853,16.571853,0.714286,0.382849,50.0,22
-2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,kimi-raikkonen,Kimi Räikkönen,ferrari,8,53,15,0,8,1323.779028,1317.936416,-5.842613,0.666667,0.783519,50.0,22
-2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,robert-kubica,Robert Kubica,bmw-sauber,DNF,47,2,1,9,1139.739018,1142.204087,2.465069,0.619048,0.569746,50.0,22
-2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,timo-glock,Timo Glock,toyota,DNF,43,18,1,10,996.374608,1006.039401,9.664793,0.571429,0.378133,50.0,22
-2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,takuma-sato,Takuma Sato,super-aguri,DNF,32,19,1,11,970.114777,979.078745,8.963969,0.52381,0.34453,50.0,22
-2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,nelson-piquet-jr,Nelson Piquet Jr.,renault,DNF,30,20,1,12,1000.0,1004.667091,4.667091,0.47619,0.382849,50.0,22
-2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,felipe-massa,Felipe Massa,ferrari,DNF,29,4,1,13,1282.126209,1266.481625,-15.644584,0.428571,0.741463,50.0,22
-2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,david-coulthard,David Coulthard,red-bull,DNF,25,8,1,14,1055.31444,1051.542451,-3.771989,0.380952,0.456392,50.0,22
-2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,jarno-trulli,Jarno Trulli,toyota,DNF,19,6,1,15,1066.554585,1059.643352,-6.911233,0.333333,0.471558,50.0,22
-2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,adrian-sutil,Adrian Sutil,force-india,DNF,8,PL,1,16,921.215694,921.239895,0.024201,0.285714,0.28523,50.0,22
-2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,anthony-davidson,Anthony Davidson,super-aguri,DNF,0,21,1,17,935.82578,927.846751,-7.979029,0.142857,0.302438,50.0,22
-2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,giancarlo-fisichella,Giancarlo Fisichella,force-india,DNF,0,16,1,18,1145.430858,1123.711981,-21.718877,0.142857,0.577235,50.0,22
-2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,jenson-button,Jenson Button,honda,DNF,0,12,1,19,1077.300413,1060.13947,-17.160944,0.142857,0.486076,50.0,22
-2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,mark-webber,Mark Webber,red-bull,DNF,0,14,1,20,1004.878789,992.560604,-12.318185,0.142857,0.389221,50.0,22
-2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,sebastian-vettel,Sebastian Vettel,toro-rosso,DNF,0,9,1,21,977.07261,966.54893,-10.523679,0.142857,0.353331,50.0,22
-2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,rubens-barrichello,Rubens Barrichello,honda,DSQ,58,10,2,22,1076.220602,1051.989756,-24.230846,0.0,0.484617,50.0,22
+2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,lewis-hamilton,Lewis Hamilton,mclaren,1,58,1,0,1,1259.814566,1279.404448,19.589882,1.0,0.608202,50.0,18
+2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,nick-heidfeld,Nick Heidfeld,bmw-sauber,2,58,5,0,2,1259.456382,1276.120866,16.664484,0.941176,0.607887,50.0,18
+2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,nico-rosberg,Nico Rosberg,williams,3,58,7,0,3,1069.517622,1091.935835,22.418213,0.882353,0.433989,50.0,18
+2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,fernando-alonso,Fernando Alonso,renault,4,58,11,0,4,1564.761226,1564.326126,-0.4351,0.823529,0.832231,50.0,18
+2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,heikki-kovalainen,Heikki Kovalainen,mclaren,5,58,3,0,5,1125.362182,1139.316127,13.953945,0.764706,0.485627,50.0,18
+2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,kazuki-nakajima,Kazuki Nakajima,williams,6,57,13,0,6,1003.298699,1019.89032,16.59162,0.705882,0.37405,50.0,18
+2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,sebastien-bourdais,Sébastien Bourdais,toro-rosso,7,55,17,0,7,1000.0,1013.796653,13.796653,0.647059,0.371126,50.0,18
+2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,kimi-raikkonen,Kimi Räikkönen,ferrari,8,53,15,0,8,1517.020556,1506.231695,-10.788861,0.588235,0.804013,50.0,18
+2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,robert-kubica,Robert Kubica,bmw-sauber,DNF,47,2,1,9,1156.825905,1157.557432,0.731527,0.529412,0.514781,50.0,18
+2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,timo-glock,Timo Glock,toyota,DNF,43,18,1,10,982.099729,987.859791,5.760062,0.470588,0.355387,50.0,18
+2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,nelson-piquet-jr,Nelson Piquet Jr.,renault,DNF,30,20,1,11,1000.0,1002.031947,2.031947,0.411765,0.371126,50.0,18
+2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,david-coulthard,David Coulthard,red-bull,DNF,25,8,1,12,1125.286356,1118.655583,-6.630773,0.352941,0.485557,50.0,18
+2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,anthony-davidson,Anthony Davidson,super-aguri,DNF,0,21,1,13,903.903629,898.240462,-5.663168,0.176471,0.289734,50.0,18
+2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,giancarlo-fisichella,Giancarlo Fisichella,force-india,DNF,0,16,1,14,1238.817172,1218.162376,-20.654797,0.176471,0.589567,50.0,18
+2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,jenson-button,Jenson Button,honda,DNF,0,12,1,15,1220.704788,1200.863983,-19.840804,0.176471,0.573287,50.0,18
+2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,mark-webber,Mark Webber,red-bull,DNF,0,14,1,16,1079.594924,1066.255227,-13.339697,0.176471,0.443265,50.0,18
+2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,sebastian-vettel,Sebastian Vettel,toro-rosso,DNF,0,9,1,17,992.479745,983.078957,-9.400789,0.176471,0.364486,50.0,18
+2008,1,2008-03-16,australia,2008 Formula 1 ING Australian Grand Prix,786,rubens-barrichello,Rubens Barrichello,honda,DSQ,58,10,2,18,1136.209795,1111.425449,-24.784346,0.0,0.495687,50.0,18

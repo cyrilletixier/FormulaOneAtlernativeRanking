@@ -1,26 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,ronnie-peterson,Ronnie Peterson,lotus,1,54,5,0,1,1118.166229,1138.130041,19.963812,1.0,0.600724,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,francois-cevert,François Cevert,tyrrell,2,54,4,0,2,1173.243081,1187.509643,14.266562,0.958333,0.673002,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,carlos-reutemann,Carlos Reutemann,brabham,3,54,8,0,3,1011.354999,1034.653749,23.29875,0.916667,0.450692,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,jackie-stewart,Jackie Stewart,tyrrell,4,54,1,0,4,1249.44068,1255.112548,5.671869,0.875,0.761563,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,jacky-ickx,Jacky Ickx,ferrari,5,54,12,0,5,1087.332491,1101.091465,13.758974,0.833333,0.558154,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,james-hunt,James Hunt,march,6,54,14,0,6,1012.444831,1029.416639,16.971807,0.791667,0.452231,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,arturo-merzario,Arturo Merzario,ferrari,7,54,10,0,7,1064.201322,1075.420783,11.219461,0.75,0.525611,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,denny-hulme,Denny Hulme,mclaren,8,54,6,0,8,1229.70985,1228.121599,-1.588251,0.708333,0.740098,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,niki-lauda,Niki Lauda,brm,9,54,17,0,9,978.960127,992.024508,13.064381,0.666667,0.405379,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,graham-hill,Graham Hill,shadow,10,53,16,0,10,1054.086563,1059.772323,5.68576,0.625,0.511285,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,jean-pierre-beltoise,Jean-Pierre Beltoise,brm,11,53,15,0,11,1035.706711,1040.613718,4.907007,0.583333,0.485193,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,clay-regazzoni,Clay Regazzoni,brm,12,53,9,0,12,1063.579868,1064.426611,0.846743,0.541667,0.524732,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,carlos-pace,Carlos Pace,surtees,13,51,18,0,13,981.998304,986.519077,4.520773,0.5,0.409585,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,howden-ganley,Howden Ganley,iso-marlboro,14,51,24,0,14,1026.083868,1025.42369,-0.660178,0.458333,0.471537,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,rikky-von-opel,Rikky von Opel,ensign,15,51,25,0,15,1000.0,999.098113,-0.901887,0.416667,0.434704,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,wilson-fittipaldi,Wilson Fittipaldi,brabham,16,50,19,0,16,991.490662,989.101132,-2.38953,0.375,0.422791,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,jody-scheckter,Jody Scheckter,mclaren,DNF,43,2,1,17,1024.937859,1018.108929,-6.82893,0.333333,0.469912,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,emerson-fittipaldi,Emerson Fittipaldi,lotus,DNF,41,3,1,18,1231.062766,1208.565877,-22.496889,0.291667,0.741604,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,mike-hailwood,Mike Hailwood,surtees,DNF,29,11,1,19,967.849527,960.844563,-7.004964,0.25,0.390099,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,andrea-de-adamich,Andrea de Adamich,brabham,DNF,28,13,1,20,992.779384,981.966517,-10.812867,0.208333,0.424591,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,reine-wisell,Reine Wisell,march,DNF,20,22,1,21,986.099667,973.669069,-12.430597,0.166667,0.415279,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,george-follmer,George Follmer,shadow,DNF,16,20,1,22,999.359591,982.877645,-16.481946,0.104167,0.433806,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,henri-pescarolo,Henri Pescarolo,iso-marlboro,DNF,16,23,1,23,986.308775,970.738638,-15.570138,0.104167,0.415569,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,jean-pierre-jarier,Jean-Pierre Jarier,march,DNF,7,7,1,24,988.970381,970.089962,-18.880418,0.041667,0.419275,50.0,25
-1973,8,1973-07-01,france,Grand Prix de France 1973,228,jackie-oliver,Jackie Oliver,shadow,DNF,0,21,1,25,947.499518,929.370215,-18.129303,0.0,0.362586,50.0,25
+1973,8,1973-07-01,france,Grand Prix de France 1973,228,ronnie-peterson,Ronnie Peterson,lotus,1,54,5,0,1,1146.854862,1169.71649,22.861628,1.0,0.542767,50.0,18
+1973,8,1973-07-01,france,Grand Prix de France 1973,228,francois-cevert,François Cevert,tyrrell,2,54,4,0,2,1172.462953,1191.174994,18.71204,0.941176,0.566936,50.0,18
+1973,8,1973-07-01,france,Grand Prix de France 1973,228,carlos-reutemann,Carlos Reutemann,brabham,3,54,8,0,3,1043.536584,1065.445054,21.90847,0.882353,0.444184,50.0,18
+1973,8,1973-07-01,france,Grand Prix de France 1973,228,jackie-stewart,Jackie Stewart,tyrrell,4,54,1,0,4,1449.812236,1451.268346,1.45611,0.823529,0.794407,50.0,18
+1973,8,1973-07-01,france,Grand Prix de France 1973,228,jacky-ickx,Jacky Ickx,ferrari,5,54,12,0,5,1218.117464,1225.891454,7.773989,0.764706,0.609226,50.0,18
+1973,8,1973-07-01,france,Grand Prix de France 1973,228,james-hunt,James Hunt,march,6,54,14,0,6,996.650506,1011.939805,15.289299,0.705882,0.400096,50.0,18
+1973,8,1973-07-01,france,Grand Prix de France 1973,228,arturo-merzario,Arturo Merzario,ferrari,7,54,10,0,7,1036.008788,1046.509455,10.500667,0.647059,0.437045,50.0,18
+1973,8,1973-07-01,france,Grand Prix de France 1973,228,denny-hulme,Denny Hulme,mclaren,8,54,6,0,8,1323.241011,1317.628334,-5.612677,0.588235,0.700489,50.0,18
+1973,8,1973-07-01,france,Grand Prix de France 1973,228,niki-lauda,Niki Lauda,brm,9,54,17,0,9,970.317524,977.995992,7.678468,0.529412,0.375842,50.0,18
+1973,8,1973-07-01,france,Grand Prix de France 1973,228,graham-hill,Graham Hill,shadow,10,53,16,0,10,1121.34022,1118.945462,-2.394757,0.470588,0.518483,50.0,18
+1973,8,1973-07-01,france,Grand Prix de France 1973,228,jean-pierre-beltoise,Jean-Pierre Beltoise,brm,11,53,15,0,11,1101.002298,1096.638305,-4.363993,0.411765,0.499045,50.0,18
+1973,8,1973-07-01,france,Grand Prix de France 1973,228,clay-regazzoni,Clay Regazzoni,brm,12,53,9,0,12,1074.803859,1068.751724,-6.052135,0.352941,0.473984,50.0,18
+1973,8,1973-07-01,france,Grand Prix de France 1973,228,carlos-pace,Carlos Pace,surtees,13,51,18,0,13,975.644467,971.314728,-4.329739,0.294118,0.380712,50.0,18
+1973,8,1973-07-01,france,Grand Prix de France 1973,228,howden-ganley,Howden Ganley,iso-marlboro,14,51,24,0,14,961.962001,955.314497,-6.647504,0.235294,0.368244,50.0,18
+1973,8,1973-07-01,france,Grand Prix de France 1973,228,rikky-von-opel,Rikky von Opel,ensign,15,51,25,0,15,1000.0,988.662951,-11.337049,0.176471,0.403212,50.0,18
+1973,8,1973-07-01,france,Grand Prix de France 1973,228,wilson-fittipaldi,Wilson Fittipaldi,brabham,16,50,19,0,16,997.177318,983.030375,-14.146943,0.117647,0.400586,50.0,18
+1973,8,1973-07-01,france,Grand Prix de France 1973,228,jody-scheckter,Jody Scheckter,mclaren,DNF,43,2,1,17,1015.098846,997.173657,-17.925189,0.058824,0.417327,50.0,18
+1973,8,1973-07-01,france,Grand Prix de France 1973,228,emerson-fittipaldi,Emerson Fittipaldi,lotus,DNF,41,3,1,18,1283.756971,1250.386285,-33.370686,0.0,0.667414,50.0,18

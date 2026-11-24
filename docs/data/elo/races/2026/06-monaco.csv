@@ -1,23 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,kimi-antonelli,Kimi Antonelli,mercedes,1,78,1,0,1,1258.245487,1275.95323,17.707744,1.0,0.645845,50.0,22
-2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,lewis-hamilton,Lewis Hamilton,ferrari,2,78,3,0,2,1294.122783,1307.425238,13.302455,0.952381,0.686332,50.0,22
-2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,isack-hadjar,Isack Hadjar,red-bull,3,78,5,0,3,1071.151398,1095.747888,24.596491,0.904762,0.412832,50.0,22
-2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,oscar-piastri,Oscar Piastri,mclaren,4,78,7,0,4,1335.107233,1341.475077,6.367844,0.857143,0.729786,50.0,22
-2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,liam-lawson,Liam Lawson,racing-bulls,5,78,10,0,5,1077.199617,1096.65101,19.451393,0.809524,0.420496,50.0,22
-2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,arvid-lindblad,Arvid Lindblad,racing-bulls,6,78,15,0,6,1007.921233,1029.283979,21.362747,0.761905,0.33465,50.0,22
-2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,pierre-gasly,Pierre Gasly,alpine,7,78,9,0,7,1038.935446,1056.026388,17.090942,0.714286,0.372467,50.0,22
-2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,alexander-albon,Alexander Albon,williams,8,78,11,0,8,1035.599843,1050.516025,14.916182,0.666667,0.368343,50.0,22
-2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,esteban-ocon,Esteban Ocon,haas,9,78,17,0,9,1073.067035,1083.256558,10.189523,0.619048,0.415257,50.0,22
-2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,fernando-alonso,Fernando Alonso,aston-martin,10,78,21,0,10,1065.053561,1073.368578,8.315018,0.571429,0.405128,50.0,22
-2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,gabriel-bortoleto,Gabriel Bortoleto,audi,11,78,PL,0,11,1018.173082,1027.012979,8.839897,0.52381,0.347012,50.0,22
-2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,george-russell,George Russell,mercedes,12,78,6,0,12,1391.063062,1375.685781,-15.377281,0.47619,0.783736,50.0,22
-2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,nico-hulkenberg,Nico Hülkenberg,audi,13,78,13,0,13,1044.996807,1047.425839,2.429033,0.428571,0.379991,50.0,22
-2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,franco-colapinto,Franco Colapinto,alpine,14,78,14,0,14,1000.348945,1003.115642,2.766697,0.380952,0.325618,50.0,22
-2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,sergio-perez,Sergio Pérez,cadillac,15,78,18,0,15,1115.741009,1108.924824,-6.816186,0.333333,0.469657,50.0,22
-2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,carlos-sainz-jr,Carlos Sainz Jr.,williams,16,70,12,0,16,1148.186899,1136.919258,-11.267641,0.285714,0.511067,50.0,22
-2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,charles-leclerc,Charles Leclerc,ferrari,DNF,64,4,1,17,1362.319665,1336.38288,-25.936785,0.238095,0.756831,50.0,22
-2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,lance-stroll,Lance Stroll,aston-martin,DNF,56,22,1,18,978.460465,972.98229,-5.478174,0.190476,0.30004,50.0,22
-2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,lando-norris,Lando Norris,mclaren,DNF,43,8,1,19,1366.978707,1336.05608,-30.922628,0.142857,0.76131,50.0,22
-2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,oliver-bearman,Oliver Bearman,haas,DNF,27,19,1,20,1108.683779,1090.414039,-18.26974,0.095238,0.460633,50.0,22
-2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,valtteri-bottas,Valtteri Bottas,cadillac,DNF,15,20,1,21,937.491679,927.142234,-10.349445,0.047619,0.254608,50.0,22
-2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,max-verstappen,Max Verstappen,red-bull,DNF,0,2,1,22,1483.78359,1440.865507,-42.918084,0.0,0.858362,50.0,22
+2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,kimi-antonelli,Kimi Antonelli,mercedes,1,78,1,0,1,1308.454319,1328.209498,19.755179,1.0,0.604896,50.0,18
+2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,lewis-hamilton,Lewis Hamilton,ferrari,2,78,3,0,2,1443.775889,1455.141505,11.365616,0.941176,0.713864,50.0,18
+2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,isack-hadjar,Isack Hadjar,red-bull,3,78,5,0,3,1088.372642,1112.000166,23.627524,0.882353,0.409802,50.0,18
+2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,oscar-piastri,Oscar Piastri,mclaren,4,78,7,0,4,1477.295394,1481.553039,4.257645,0.823529,0.738377,50.0,18
+2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,liam-lawson,Liam Lawson,racing-bulls,5,78,10,0,5,1090.962612,1108.593434,17.630823,0.764706,0.412089,50.0,18
+2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,arvid-lindblad,Arvid Lindblad,racing-bulls,6,78,15,0,6,999.954284,1018.56011,18.605826,0.705882,0.333766,50.0,18
+2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,pierre-gasly,Pierre Gasly,alpine,7,78,9,0,7,1053.475019,1066.864635,13.389616,0.647059,0.379267,50.0,18
+2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,alexander-albon,Alexander Albon,williams,8,78,11,0,8,1081.589272,1090.809794,9.220522,0.588235,0.403825,50.0,18
+2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,esteban-ocon,Esteban Ocon,haas,9,78,17,0,9,1088.931879,1094.887664,5.955785,0.529412,0.410296,50.0,18
+2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,fernando-alonso,Fernando Alonso,aston-martin,10,78,21,0,10,1225.225814,1222.150252,-3.075562,0.470588,0.532099,50.0,18
+2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,gabriel-bortoleto,Gabriel Bortoleto,audi,11,78,PL,0,11,998.830781,1002.777423,3.946641,0.411765,0.332832,50.0,18
+2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,george-russell,George Russell,mercedes,12,78,6,0,12,1590.706563,1567.721894,-22.984669,0.352941,0.812635,50.0,18
+2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,nico-hulkenberg,Nico Hülkenberg,audi,13,78,13,0,13,1075.397566,1070.184198,-5.213367,0.294118,0.398385,50.0,18
+2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,franco-colapinto,Franco Colapinto,alpine,14,78,14,0,14,969.227762,965.563062,-3.6647,0.235294,0.308588,50.0,18
+2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,sergio-perez,Sergio Pérez,cadillac,15,78,18,0,15,1274.730742,1254.765927,-19.964814,0.176471,0.575767,50.0,18
+2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,carlos-sainz-jr,Carlos Sainz Jr.,williams,16,70,12,0,16,1228.982907,1208.093152,-20.889755,0.117647,0.535442,50.0,18
+2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,charles-leclerc,Charles Leclerc,ferrari,DNF,64,4,1,17,1538.374196,1502.310988,-36.063207,0.058824,0.780088,50.0,18
+2026,6,2026-06-07,monaco,Formula 1 Louis Vuitton Grand Prix de Monaco 2026,1155,lance-stroll,Lance Stroll,aston-martin,DNF,56,22,1,18,980.803542,964.904439,-15.899103,0.0,0.317982,50.0,18

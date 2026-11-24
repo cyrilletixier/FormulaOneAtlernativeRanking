@@ -1,21 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,jenson-button,Jenson Button,brawn,1,58,2,0,1,1163.990079,1185.016608,21.02653,1.0,0.579469,50.0,20
-2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,mark-webber,Mark Webber,red-bull,2,58,4,0,2,1144.597638,1164.323148,19.72551,0.947368,0.552858,50.0,20
-2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,sebastian-vettel,Sebastian Vettel,red-bull,3,58,1,0,3,1118.951617,1137.82156,18.869942,0.894737,0.517338,50.0,20
-2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,jarno-trulli,Jarno Trulli,toyota,4,58,5,0,4,1104.291929,1121.548621,17.256692,0.842105,0.496971,50.0,20
-2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,nico-rosberg,Nico Rosberg,williams,5,58,9,0,5,1114.804374,1128.699209,13.894834,0.789474,0.511577,50.0,20
-2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,felipe-massa,Felipe Massa,ferrari,6,58,7,0,6,1228.66674,1232.259277,3.592536,0.736842,0.664991,50.0,20
-2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,robert-kubica,Robert Kubica,bmw-sauber,7,58,10,0,7,1132.041156,1139.476766,7.43561,0.684211,0.535498,50.0,20
-2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,timo-glock,Timo Glock,toyota,8,58,13,0,8,1140.783355,1144.982638,4.199283,0.631579,0.547593,50.0,20
-2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,kimi-raikkonen,Kimi Räikkönen,ferrari,9,58,6,0,9,1215.83788,1212.357838,-3.480042,0.578947,0.648548,50.0,20
-2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,fernando-alonso,Fernando Alonso,renault,10,58,8,0,10,1281.815395,1271.65926,-10.156135,0.526316,0.729438,50.0,20
-2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,nick-heidfeld,Nick Heidfeld,bmw-sauber,11,58,11,0,11,1201.368488,1193.569885,-7.798603,0.473684,0.629656,50.0,20
-2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,kazuki-nakajima,Kazuki Nakajima,williams,12,58,12,0,12,970.754207,975.846276,5.092069,0.421053,0.319211,50.0,20
-2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,lewis-hamilton,Lewis Hamilton,mclaren,13,58,16,0,13,1247.282143,1231.289304,-15.992838,0.368421,0.688278,50.0,20
-2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,heikki-kovalainen,Heikki Kovalainen,mclaren,14,57,14,0,14,1095.546796,1087.094756,-8.452039,0.315789,0.48483,50.0,20
-2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,sebastien-buemi,Sébastien Buemi,toro-rosso,15,57,18,0,15,978.771089,975.47279,-3.298299,0.263158,0.329124,50.0,20
-2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,nelson-piquet-jr,Nelson Piquet Jr.,renault,16,57,17,0,16,989.93589,983.304919,-6.630971,0.210526,0.343146,50.0,20
-2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,adrian-sutil,Adrian Sutil,force-india,17,57,15,0,17,858.570239,856.628951,-1.941287,0.157895,0.19672,50.0,20
-2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,sebastien-bourdais,Sébastien Bourdais,toro-rosso,18,57,20,0,18,1012.668436,999.311007,-13.357429,0.105263,0.372412,50.0,20
-2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,rubens-barrichello,Rubens Barrichello,brawn,DNF,47,3,1,19,1131.672115,1107.554343,-24.117772,0.052632,0.534987,50.0,20
-2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,giancarlo-fisichella,Giancarlo Fisichella,force-india,DNF,4,19,1,20,969.238066,953.370477,-15.867589,0.0,0.317352,50.0,20
+2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,jenson-button,Jenson Button,brawn,1,58,2,0,1,1207.603155,1230.569728,22.966573,1.0,0.540669,50.0,18
+2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,mark-webber,Mark Webber,red-bull,2,58,4,0,2,1202.220586,1222.494953,20.274367,0.941176,0.535689,50.0,18
+2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,sebastian-vettel,Sebastian Vettel,red-bull,3,58,1,0,3,1134.558772,1155.030976,20.472204,0.882353,0.472909,50.0,18
+2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,jarno-trulli,Jarno Trulli,toyota,4,58,5,0,4,1159.562201,1175.933494,16.371293,0.823529,0.496104,50.0,18
+2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,nico-rosberg,Nico Rosberg,williams,5,58,9,0,5,1119.917375,1135.184112,15.266737,0.764706,0.459371,50.0,18
+2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,felipe-massa,Felipe Massa,ferrari,6,58,7,0,6,1384.642579,1385.11277,0.47019,0.705882,0.696479,50.0,18
+2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,robert-kubica,Robert Kubica,bmw-sauber,7,58,10,0,7,1225.646618,1230.13402,4.487402,0.647059,0.557311,50.0,18
+2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,timo-glock,Timo Glock,toyota,8,58,13,0,8,1153.399932,1158.292619,4.892687,0.588235,0.490382,50.0,18
+2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,kimi-raikkonen,Kimi Räikkönen,ferrari,9,58,6,0,9,1393.5119,1384.800223,-8.711677,0.529412,0.703645,50.0,18
+2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,fernando-alonso,Fernando Alonso,renault,10,58,8,0,10,1436.655724,1423.318659,-13.337065,0.470588,0.73733,50.0,18
+2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,nick-heidfeld,Nick Heidfeld,bmw-sauber,11,58,11,0,11,1267.743943,1258.547205,-9.196738,0.411765,0.595699,50.0,18
+2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,kazuki-nakajima,Kazuki Nakajima,williams,12,58,12,0,12,969.677562,971.013372,1.33581,0.352941,0.326225,50.0,18
+2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,lewis-hamilton,Lewis Hamilton,mclaren,13,58,16,0,13,1324.820064,1307.214777,-17.605288,0.294118,0.646223,50.0,18
+2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,heikki-kovalainen,Heikki Kovalainen,mclaren,14,57,14,0,14,1187.756532,1173.407027,-14.349506,0.235294,0.522284,50.0,18
+2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,sebastien-buemi,Sébastien Buemi,toro-rosso,15,57,18,0,15,971.155954,963.606625,-7.54933,0.176471,0.327457,50.0,18
+2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,nelson-piquet-jr,Nelson Piquet Jr.,renault,16,57,17,0,16,992.738234,981.337362,-11.400872,0.117647,0.345664,50.0,18
+2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,adrian-sutil,Adrian Sutil,force-india,17,57,15,0,17,806.384968,799.1118,-7.273168,0.058824,0.204287,50.0,18
+2009,7,2009-06-07,turkey,2009 Formula 1 ING Turkish Grand Prix,810,sebastien-bourdais,Sébastien Bourdais,toro-rosso,18,57,20,0,18,988.753046,971.639424,-17.113622,0.0,0.342272,50.0,18

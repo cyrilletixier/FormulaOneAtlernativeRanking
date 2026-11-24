@@ -1,23 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,michael-schumacher,Michael Schumacher,ferrari,1,69,1,0,1,1319.977973,1330.286155,10.308182,1.0,0.793836,50.0,22
-2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,rubens-barrichello,Rubens Barrichello,ferrari,2,69,3,0,2,1158.196406,1175.532717,17.33631,0.952381,0.605655,50.0,22
-2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,giancarlo-fisichella,Giancarlo Fisichella,benetton,3,69,10,0,3,1159.973947,1174.81137,14.837423,0.904762,0.608013,50.0,22
-2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,mika-hakkinen,Mika Häkkinen,mclaren,4,69,4,0,4,1276.959113,1282.319541,5.360428,0.857143,0.749934,50.0,22
-2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,jos-verstappen,Jos Verstappen,arrows,5,69,13,0,5,964.954323,988.291153,23.33683,0.809524,0.342787,50.0,22
-2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,jarno-trulli,Jarno Trulli,jordan,6,69,7,0,6,1021.090617,1038.31915,17.228533,0.761905,0.417334,50.0,22
-2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,david-coulthard,David Coulthard,mclaren,7,69,2,0,7,1211.36286,1213.38083,2.017969,0.714286,0.673926,50.0,22
-2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,ricardo-zonta,Ricardo Zonta,bar,8,69,8,0,8,1015.386191,1028.240993,12.854803,0.666667,0.409571,50.0,22
-2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,alexander-wurz,Alexander Wurz,benetton,9,69,14,0,9,1057.884471,1065.436009,7.551538,0.619048,0.468017,50.0,22
-2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,pedro-diniz,Pedro Diniz,sauber,10,69,19,0,10,966.989169,978.290439,11.30127,0.571429,0.345403,50.0,22
-2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,jenson-button,Jenson Button,williams,11,68,18,0,11,1009.181706,1015.313889,6.132183,0.52381,0.401166,50.0,22
-2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,gaston-mazzacane,Gastón Mazzacane,minardi,12,68,22,0,12,1009.296999,1013.040441,3.743442,0.47619,0.401322,50.0,22
-2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,eddie-irvine,Eddie Irvine,jaguar,13,66,16,0,13,1215.789919,1203.250059,-12.53986,0.428571,0.679369,50.0,22
-2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,ralf-schumacher,Ralf Schumacher,williams,14,64,12,0,14,1157.303181,1146.12741,-11.175771,0.380952,0.604468,50.0,22
-2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,jacques-villeneuve,Jacques Villeneuve,bar,15,64,6,0,15,1055.996702,1049.393424,-6.603278,0.333333,0.465399,50.0,22
-2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,marc-gene,Marc Gené,minardi,16,64,20,0,16,985.799179,981.588494,-4.210684,0.285714,0.369928,50.0,22
-2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,48,9,1,17,958.40457,953.588338,-4.816232,0.238095,0.33442,50.0,22
-2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,mika-salo,Mika Salo,sauber,DNF,42,15,1,18,1057.161136,1043.334265,-13.826871,0.190476,0.467014,50.0,22
-2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,jean-alesi,Jean Alesi,prost,DNF,38,17,1,19,1033.534675,1018.958829,-14.575846,0.142857,0.434374,50.0,22
-2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,nick-heidfeld,Nick Heidfeld,prost,DNF,34,21,1,20,974.508983,961.51412,-12.994863,0.095238,0.355135,50.0,22
-2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,DNF,32,5,1,21,1152.296134,1124.787395,-27.508739,0.047619,0.597794,50.0,22
-2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,johnny-herbert,Johnny Herbert,jaguar,DNF,14,11,1,22,1063.01383,1039.257062,-23.756768,0.0,0.475135,50.0,22
+2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,michael-schumacher,Michael Schumacher,ferrari,1,69,1,0,1,1485.290883,1495.430252,10.139368,1.0,0.797213,50.0,17
+2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,rubens-barrichello,Rubens Barrichello,ferrari,2,69,3,0,2,1222.286738,1239.349771,17.063033,0.9375,0.596239,50.0,17
+2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,giancarlo-fisichella,Giancarlo Fisichella,benetton,3,69,10,0,3,1154.352558,1171.303396,16.950839,0.875,0.535983,50.0,17
+2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,mika-hakkinen,Mika Häkkinen,mclaren,4,69,4,0,4,1461.299502,1462.837419,1.537917,0.8125,0.781742,50.0,17
+2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,jos-verstappen,Jos Verstappen,arrows,5,69,13,0,5,926.885066,947.69554,20.810474,0.75,0.333791,50.0,17
+2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,jarno-trulli,Jarno Trulli,jordan,6,69,7,0,6,1005.056621,1019.363137,14.306516,0.6875,0.40137,50.0,17
+2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,david-coulthard,David Coulthard,mclaren,7,69,2,0,7,1399.10665,1393.422104,-5.684545,0.625,0.738691,50.0,17
+2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,ricardo-zonta,Ricardo Zonta,bar,8,69,8,0,8,954.713867,964.968611,10.254744,0.5625,0.357405,50.0,17
+2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,alexander-wurz,Alexander Wurz,benetton,9,69,14,0,9,1036.523245,1040.050524,3.527278,0.5,0.429454,50.0,17
+2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,pedro-diniz,Pedro Diniz,sauber,10,69,19,0,10,915.781336,921.429738,5.648402,0.4375,0.324532,50.0,17
+2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,jenson-button,Jenson Button,williams,11,68,18,0,11,1019.613429,1017.647604,-1.965825,0.375,0.414316,50.0,17
+2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,gaston-mazzacane,Gastón Mazzacane,minardi,12,68,22,0,12,972.051013,969.056849,-2.994164,0.3125,0.372383,50.0,17
+2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,eddie-irvine,Eddie Irvine,jaguar,13,66,16,0,13,1279.403699,1259.653457,-19.750243,0.25,0.645005,50.0,17
+2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,ralf-schumacher,Ralf Schumacher,williams,14,64,12,0,14,1189.27328,1170.288552,-18.984728,0.1875,0.567195,50.0,17
+2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,jacques-villeneuve,Jacques Villeneuve,bar,15,64,6,0,15,1163.706671,1142.737518,-20.969153,0.125,0.544383,50.0,17
+2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,marc-gene,Marc Gené,minardi,16,64,20,0,16,925.51105,912.004075,-13.506975,0.0625,0.33264,50.0,17
+2000,8,2000-06-18,canada,Grand Prix Air Canada 2000,654,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,48,9,1,17,919.544634,903.161695,-16.382939,0.0,0.327659,50.0,17

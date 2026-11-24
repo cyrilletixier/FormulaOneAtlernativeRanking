@@ -1,21 +1,15 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,michael-schumacher,Michael Schumacher,ferrari,1,73,2,0,1,1437.162437,1443.174528,6.01209,1.0,0.879758,50.0,20
-2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,rubens-barrichello,Rubens Barrichello,ferrari,2,73,1,0,2,1284.874037,1294.796792,9.922755,0.947368,0.748913,50.0,20
-2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,takuma-sato,Takuma Sato,bar,3,73,3,0,3,1032.070858,1055.598888,23.528029,0.894737,0.424176,50.0,20
-2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,jarno-trulli,Jarno Trulli,renault,4,73,20,0,4,1167.395115,1179.070136,11.675021,0.842105,0.608605,50.0,20
-2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,olivier-panis,Olivier Panis,toyota,5,73,8,0,5,995.13008,1015.878577,20.748497,0.789474,0.374504,50.0,20
-2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,kimi-raikkonen,Kimi Räikkönen,mclaren,6,72,7,0,6,1099.212295,1110.223733,11.011438,0.736842,0.516613,50.0,20
-2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,david-coulthard,David Coulthard,mclaren,7,72,12,0,7,1119.392021,1126.388473,6.996452,0.684211,0.544281,50.0,20
-2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,zsolt-baumgartner,Zsolt Baumgartner,minardi,8,70,19,0,8,960.459407,975.556563,15.097156,0.631579,0.329636,50.0,20
-2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,giancarlo-fisichella,Giancarlo Fisichella,sauber,9,65,14,0,9,1052.060759,1058.429768,6.369009,0.578947,0.451567,50.0,20
-2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,mark-webber,Mark Webber,jaguar,DNF,60,10,1,10,1009.001328,1015.668517,6.667189,0.526316,0.392972,50.0,20
-2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,nick-heidfeld,Nick Heidfeld,jordan,DNF,43,16,1,11,1041.864571,1043.67054,1.805968,0.473684,0.437565,50.0,20
-2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,jenson-button,Jenson Button,bar,DNF,26,4,1,12,1188.598279,1177.850494,-10.747785,0.421053,0.636008,50.0,20
-2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,cristiano-da-matta,Cristiano da Matta,toyota,DNF,17,11,1,13,1013.771869,1012.223961,-1.547908,0.368421,0.399379,50.0,20
-2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,ralf-schumacher,Ralf Schumacher,williams,DNF,9,6,1,14,1126.345238,1114.447206,-11.898032,0.315789,0.55375,50.0,20
-2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,fernando-alonso,Fernando Alonso,renault,DNF,8,9,1,15,1135.760787,1120.593529,-15.167258,0.263158,0.566503,50.0,20
-2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,christian-klien,Christian Klien,jaguar,DNF,0,13,1,16,991.776195,979.851242,-11.924953,0.131579,0.370078,50.0,20
-2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,felipe-massa,Felipe Massa,sauber,DNF,0,15,1,17,1064.258519,1047.418622,-16.839898,0.131579,0.468377,50.0,20
-2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,gianmaria-bruni,Gianmaria Bruni,minardi,DNF,0,18,1,18,948.37718,939.230181,-9.146999,0.131579,0.314519,50.0,20
-2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,giorgio-pantano,Giorgio Pantano,jordan,DNF,0,17,1,19,966.906264,956.594232,-10.312032,0.131579,0.33782,50.0,20
-2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,juan-pablo-montoya,Juan Pablo Montoya,williams,DSQ,57,PL,2,20,1195.669578,1163.420838,-32.24874,0.0,0.644975,50.0,20
+2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,michael-schumacher,Michael Schumacher,ferrari,1,73,2,0,1,1624.918603,1631.885892,6.967289,1.0,0.860654,50.0,14
+2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,rubens-barrichello,Rubens Barrichello,ferrari,2,73,1,0,2,1416.709711,1426.315313,9.605602,0.923077,0.730965,50.0,14
+2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,takuma-sato,Takuma Sato,bar,3,73,3,0,3,990.983508,1014.998409,24.014901,0.846154,0.365856,50.0,14
+2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,jarno-trulli,Jarno Trulli,renault,4,73,20,0,4,1228.068383,1237.653352,9.584969,0.769231,0.577531,50.0,14
+2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,olivier-panis,Olivier Panis,toyota,5,73,8,0,5,1003.812774,1019.577272,15.764498,0.692308,0.377018,50.0,14
+2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,kimi-raikkonen,Kimi Räikkönen,mclaren,6,72,7,0,6,1269.902102,1269.982753,0.080651,0.615385,0.613772,50.0,14
+2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,david-coulthard,David Coulthard,mclaren,7,72,12,0,7,1319.45148,1313.610598,-5.840882,0.538462,0.655279,50.0,14
+2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,zsolt-baumgartner,Zsolt Baumgartner,minardi,8,70,19,0,8,943.618512,950.418353,6.799841,0.461538,0.325542,50.0,14
+2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,giancarlo-fisichella,Giancarlo Fisichella,sauber,9,65,14,0,9,1071.969975,1069.32407,-2.645906,0.384615,0.437533,50.0,14
+2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,christian-klien,Christian Klien,jaguar,DNF,0,13,1,10,966.259852,958.644126,-7.615726,0.192308,0.344622,50.0,14
+2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,felipe-massa,Felipe Massa,sauber,DNF,0,15,1,11,1029.499515,1019.134114,-10.365401,0.192308,0.399616,50.0,14
+2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,gianmaria-bruni,Gianmaria Bruni,minardi,DNF,0,18,1,12,933.741569,927.489978,-6.251591,0.192308,0.31734,50.0,14
+2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,giorgio-pantano,Giorgio Pantano,jordan,DNF,0,17,1,13,957.839538,950.580786,-7.258753,0.192308,0.337483,50.0,14
+2004,9,2004-06-20,united-states,2004 Formula 1 United States Grand Prix,722,juan-pablo-montoya,Juan Pablo Montoya,williams,DSQ,57,PL,2,14,1321.29588,1288.456388,-32.839492,0.0,0.65679,50.0,14

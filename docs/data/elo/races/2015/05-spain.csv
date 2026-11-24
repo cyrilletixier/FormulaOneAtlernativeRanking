@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,nico-rosberg,Nico Rosberg,mercedes,1,66,1,0,1,1378.770993,1389.968727,11.197734,1.0,0.776045,50.0,20
-2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,lewis-hamilton,Lewis Hamilton,mercedes,2,66,2,0,2,1431.40916,1437.617514,6.208354,0.947368,0.823201,50.0,20
-2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,sebastian-vettel,Sebastian Vettel,ferrari,3,66,3,0,3,1388.913478,1394.369167,5.455689,0.894737,0.785623,50.0,20
-2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,valtteri-bottas,Valtteri Bottas,williams,4,66,4,0,4,1235.709486,1246.856162,11.146676,0.842105,0.619172,50.0,20
-2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,kimi-raikkonen,Kimi Räikkönen,ferrari,5,66,7,0,5,1247.635068,1255.431105,7.796037,0.789474,0.633553,50.0,20
-2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,felipe-massa,Felipe Massa,williams,6,66,9,0,6,1256.260573,1260.910838,4.650265,0.736842,0.643837,50.0,20
-2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,daniel-ricciardo,Daniel Ricciardo,red-bull,7,65,10,0,7,1251.17817,1253.499213,2.321044,0.684211,0.63779,50.0,20
-2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,romain-grosjean,Romain Grosjean,lotus-f1,8,65,11,0,8,1062.663971,1074.208032,11.544061,0.631579,0.400698,50.0,20
-2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,9,65,5,0,9,1012.393682,1024.383163,11.989481,0.578947,0.339158,50.0,20
-2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,daniil-kvyat,Daniil Kvyat,red-bull,10,65,8,0,10,1008.570796,1018.156093,9.585297,0.526316,0.33461,50.0,20
-2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,max-verstappen,Max Verstappen,toro-rosso,11,65,6,0,11,998.710181,1006.245307,7.535126,0.473684,0.322982,50.0,20
-2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,felipe-nasr,Felipe Nasr,sauber,12,65,15,0,12,1042.612107,1044.874535,2.262428,0.421053,0.375804,50.0,20
-2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,sergio-perez,Sergio Pérez,force-india,13,65,18,0,13,1131.61999,1125.625716,-5.994274,0.368421,0.488307,50.0,20
-2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,marcus-ericsson,Marcus Ericsson,sauber,14,65,16,0,14,943.054916,945.816996,2.76208,0.315789,0.260548,50.0,20
-2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,nico-hulkenberg,Nico Hülkenberg,force-india,15,65,17,0,15,1139.62162,1127.852146,-11.769474,0.263158,0.498547,50.0,20
-2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,jenson-button,Jenson Button,mclaren,16,65,14,0,16,1176.045589,1159.323106,-16.722482,0.210526,0.544976,50.0,20
-2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,will-stevens,Will Stevens,marussia,17,63,19,0,17,964.769197,958.453484,-6.315713,0.157895,0.284209,50.0,20
-2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,roberto-merhi,Roberto Merhi,marussia,18,62,20,0,18,977.48552,967.823967,-9.661553,0.105263,0.298494,50.0,20
-2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,pastor-maldonado,Pastor Maldonado,lotus-f1,DNF,45,12,1,19,962.460589,951.00974,-11.450849,0.052632,0.281649,50.0,20
-2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,fernando-alonso,Fernando Alonso,mclaren,DNF,26,13,1,20,1262.150284,1229.610359,-32.539925,0.0,0.650798,50.0,20
+2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,nico-rosberg,Nico Rosberg,mercedes,1,66,1,0,1,1540.743246,1551.935993,11.192748,1.0,0.776145,50.0,19
+2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,lewis-hamilton,Lewis Hamilton,mercedes,2,66,2,0,2,1618.128357,1624.251311,6.122955,0.944444,0.821985,50.0,19
+2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,sebastian-vettel,Sebastian Vettel,ferrari,3,66,3,0,3,1654.152079,1656.533965,2.381887,0.888889,0.841251,50.0,19
+2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,valtteri-bottas,Valtteri Bottas,williams,4,66,4,0,4,1256.017449,1269.599991,13.582542,0.833333,0.561682,50.0,19
+2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,kimi-raikkonen,Kimi Räikkönen,ferrari,5,66,7,0,5,1355.283137,1362.008658,6.725521,0.777778,0.643267,50.0,19
+2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,felipe-massa,Felipe Massa,williams,6,66,9,0,6,1331.223495,1336.134149,4.910655,0.722222,0.624009,50.0,19
+2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,daniel-ricciardo,Daniel Ricciardo,red-bull,7,65,10,0,7,1304.065658,1307.306973,3.241315,0.666667,0.60184,50.0,19
+2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,romain-grosjean,Romain Grosjean,lotus-f1,8,65,11,0,8,1119.042563,1127.40695,8.364387,0.611111,0.443823,50.0,19
+2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,9,65,5,0,9,1014.957165,1024.947155,9.98999,0.555556,0.355756,50.0,19
+2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,daniil-kvyat,Daniil Kvyat,red-bull,10,65,8,0,10,1029.670055,1036.273997,6.603942,0.5,0.367921,50.0,19
+2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,max-verstappen,Max Verstappen,toro-rosso,11,65,6,0,11,998.108269,1003.23142,5.123151,0.444444,0.341981,50.0,19
+2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,felipe-nasr,Felipe Nasr,sauber,12,65,15,0,12,1030.872445,1031.870858,0.998413,0.388889,0.368921,50.0,19
+2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,sergio-perez,Sergio Pérez,force-india,13,65,18,0,13,1132.249987,1126.155512,-6.094475,0.333333,0.455223,50.0,19
+2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,marcus-ericsson,Marcus Ericsson,sauber,14,65,16,0,14,896.819479,897.525738,0.706259,0.277778,0.263653,50.0,19
+2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,nico-hulkenberg,Nico Hülkenberg,force-india,15,65,17,0,15,1196.508289,1182.080517,-14.427772,0.222222,0.510778,50.0,19
+2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,jenson-button,Jenson Button,mclaren,16,65,14,0,16,1297.426628,1275.942067,-21.484561,0.166667,0.596358,50.0,19
+2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,will-stevens,Will Stevens,marussia,17,63,19,0,17,947.661771,938.121596,-9.540175,0.111111,0.301915,50.0,19
+2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,roberto-merhi,Roberto Merhi,marussia,18,62,20,0,18,959.943368,947.146547,-12.796821,0.055556,0.311492,50.0,19
+2015,5,2015-05-10,spain,Formula 1 Gran Premio de España Pirelli 2015,921,pastor-maldonado,Pastor Maldonado,lotus-f1,DNF,45,12,1,19,960.589529,944.989569,-15.59996,0.0,0.311999,50.0,19

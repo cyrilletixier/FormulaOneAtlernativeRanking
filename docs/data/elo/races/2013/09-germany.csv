@@ -1,23 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,sebastian-vettel,Sebastian Vettel,red-bull,1,60,2,0,1,1397.294006,1406.780407,9.486401,1.0,0.810272,50.0,22
-2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,kimi-raikkonen,Kimi Räikkönen,lotus-f1,2,60,4,0,2,1344.66962,1354.214473,9.544853,0.952381,0.761484,50.0,22
-2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,romain-grosjean,Romain Grosjean,lotus-f1,3,60,5,0,3,1053.128948,1077.792733,24.663785,0.904762,0.411486,50.0,22
-2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,fernando-alonso,Fernando Alonso,ferrari,4,60,8,0,4,1374.748443,1378.098357,3.349914,0.857143,0.790145,50.0,22
-2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,lewis-hamilton,Lewis Hamilton,mercedes,5,60,1,0,5,1271.740331,1278.015063,6.274732,0.809524,0.684029,50.0,22
-2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,jenson-button,Jenson Button,mclaren,6,60,9,0,6,1243.963199,1249.462499,5.4993,0.761905,0.651919,50.0,22
-2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,mark-webber,Mark Webber,red-bull,7,60,3,0,7,1305.52625,1305.178733,-0.347518,0.714286,0.721236,50.0,22
-2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,sergio-perez,Sergio Pérez,mclaren,8,60,13,0,8,1067.010858,1078.886946,11.876089,0.666667,0.429145,50.0,22
-2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,nico-rosberg,Nico Rosberg,mercedes,9,60,11,0,9,1194.039174,1195.423283,1.384109,0.619048,0.591365,50.0,22
-2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,nico-hulkenberg,Nico Hülkenberg,sauber,10,60,10,0,10,1091.664383,1097.198074,5.533691,0.571429,0.460755,50.0,22
-2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,paul-di-resta,Paul di Resta,force-india,11,60,12,0,11,1160.940507,1159.645239,-1.295268,0.52381,0.549715,50.0,22
-2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,daniel-ricciardo,Daniel Ricciardo,toro-rosso,12,60,6,0,12,1054.09255,1057.266691,3.174141,0.47619,0.412708,50.0,22
-2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,adrian-sutil,Adrian Sutil,force-india,13,60,15,0,13,1123.066639,1119.435123,-3.631516,0.428571,0.501202,50.0,22
-2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,esteban-gutierrez,Esteban Gutiérrez,sauber,14,60,14,0,14,989.860233,992.238621,2.378388,0.380952,0.333385,50.0,22
-2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,pastor-maldonado,Pastor Maldonado,williams,15,60,18,0,15,1000.019324,999.406747,-0.612578,0.333333,0.345585,50.0,22
-2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,valtteri-bottas,Valtteri Bottas,williams,16,59,17,0,16,1023.405283,1018.98032,-4.424963,0.285714,0.374214,50.0,22
-2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,charles-pic,Charles Pic,caterham,17,59,22,0,17,919.324621,918.543158,-0.781463,0.238095,0.253725,50.0,22
-2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,giedo-van-der-garde,Giedo van der Garde,caterham,18,59,20,0,18,940.517416,936.209859,-4.307557,0.190476,0.276627,50.0,22
-2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,max-chilton,Max Chilton,marussia,19,59,21,0,19,959.278161,951.537154,-7.741007,0.142857,0.297677,50.0,22
-2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,DNF,22,16,1,20,1020.45178,1006.685692,-13.766088,0.095238,0.37056,50.0,22
-2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,jules-bianchi,Jules Bianchi,marussia,DNF,21,19,1,21,970.976378,957.800156,-13.176222,0.047619,0.311143,50.0,22
-2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,felipe-massa,Felipe Massa,ferrari,DNF,3,7,1,22,1252.244587,1219.163364,-33.081223,0.0,0.661624,50.0,22
+2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,sebastian-vettel,Sebastian Vettel,red-bull,1,60,2,0,1,1637.445041,1645.810896,8.365855,1.0,0.832683,50.0,19
+2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,kimi-raikkonen,Kimi Räikkönen,lotus-f1,2,60,4,0,2,1485.475297,1495.706108,10.230811,0.944444,0.739828,50.0,19
+2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,romain-grosjean,Romain Grosjean,lotus-f1,3,60,5,0,3,1066.344939,1090.64798,24.303041,0.888889,0.402828,50.0,19
+2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,fernando-alonso,Fernando Alonso,ferrari,4,60,8,0,4,1527.099611,1530.39323,3.293619,0.833333,0.767461,50.0,19
+2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,lewis-hamilton,Lewis Hamilton,mercedes,5,60,1,0,5,1453.123987,1456.148624,3.024637,0.777778,0.717285,50.0,19
+2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,jenson-button,Jenson Button,mclaren,6,60,9,0,6,1383.718886,1386.527798,2.808912,0.722222,0.666044,50.0,19
+2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,mark-webber,Mark Webber,red-bull,7,60,3,0,7,1479.592736,1476.136231,-3.456505,0.666667,0.735797,50.0,19
+2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,sergio-perez,Sergio Pérez,mclaren,8,60,13,0,8,1067.561194,1077.924324,10.363131,0.611111,0.403849,50.0,19
+2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,nico-rosberg,Nico Rosberg,mercedes,9,60,11,0,9,1293.429616,1291.484799,-1.944817,0.555556,0.594452,50.0,19
+2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,nico-hulkenberg,Nico Hülkenberg,sauber,10,60,10,0,10,1093.521659,1097.234969,3.71331,0.5,0.425734,50.0,19
+2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,paul-di-resta,Paul di Resta,force-india,11,60,12,0,11,1195.265974,1191.870852,-3.395122,0.444444,0.512347,50.0,19
+2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,daniel-ricciardo,Daniel Ricciardo,toro-rosso,12,60,6,0,12,1030.241936,1031.046714,0.804779,0.388889,0.372793,50.0,19
+2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,adrian-sutil,Adrian Sutil,force-india,13,60,15,0,13,1128.504407,1122.398341,-6.106066,0.333333,0.455455,50.0,19
+2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,esteban-gutierrez,Esteban Gutiérrez,sauber,14,60,14,0,14,972.84225,970.411979,-2.430272,0.277778,0.326383,50.0,19
+2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,pastor-maldonado,Pastor Maldonado,williams,15,60,18,0,15,996.923705,990.753881,-6.169823,0.222222,0.345619,50.0,19
+2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,valtteri-bottas,Valtteri Bottas,williams,16,59,17,0,16,1006.123646,996.803897,-9.319749,0.166667,0.353062,50.0,19
+2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,charles-pic,Charles Pic,caterham,17,59,22,0,17,888.910475,881.329315,-7.58116,0.111111,0.262734,50.0,19
+2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,giedo-van-der-garde,Giedo van der Garde,caterham,18,59,20,0,18,927.17462,915.400763,-11.773856,0.055556,0.291033,50.0,19
+2013,9,2013-07-07,germany,Formula 1 Grosser Preis Santander von Deutschland 2013,887,max-chilton,Max Chilton,marussia,19,59,21,0,19,931.899131,917.168409,-14.730723,0.0,0.294614,50.0,19

@@ -1,31 +1,29 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,jacques-laffite,Jacques Laffite,ligier,1,63,10,0,1,1218.948061,1234.653898,15.705837,1.0,0.685883,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,john-watson,John Watson,mclaren,2,63,9,0,2,1202.655948,1217.618233,14.962284,0.965517,0.666272,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,gilles-villeneuve,Gilles Villeneuve,ferrari,3,63,11,0,3,1130.971965,1148.788592,17.816627,0.931034,0.574702,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,4,62,15,0,4,1080.505698,1099.979176,19.473478,0.896552,0.507082,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,nelson-piquet,Nelson Piquet,brabham,5,62,1,0,5,1251.220747,1258.171113,6.950366,0.862069,0.723062,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,elio-de-angelis,Elio de Angelis,lotus,6,62,7,0,6,1179.583447,1189.080547,9.4971,0.827586,0.637644,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,mario-andretti,Mario Andretti,alfa-romeo,7,62,16,0,7,1135.881693,1146.477494,10.595801,0.793103,0.581187,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,derek-daly,Derek Daly,march,8,61,20,0,8,1002.19265,1020.003092,17.810442,0.758621,0.402412,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,marc-surer,Marc Surer,theodore,9,61,19,0,9,1072.517918,1083.909802,11.391884,0.724138,0.4963,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,carlos-reutemann,Carlos Reutemann,williams,10,60,2,0,10,1290.289058,1286.533762,-3.755295,0.689655,0.764761,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,michele-alboreto,Michele Alboreto,tyrrell,11,59,22,0,11,1008.94184,1021.137566,12.195726,0.655172,0.411258,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,eddie-cheever,Eddie Cheever,tyrrell,12,56,14,0,12,1044.167395,1052.296515,8.12912,0.62069,0.458107,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,andrea-de-cesaris,Andrea de Cesaris,mclaren,DNF,51,13,1,13,1011.498524,1020.077775,8.579252,0.586207,0.414622,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,alain-prost,Alain Prost,renault,DNF,48,4,1,14,1131.226342,1130.060622,-1.16572,0.551724,0.575039,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,nigel-mansell,Nigel Mansell,lotus,DNF,45,5,1,15,1012.205013,1017.28945,5.084438,0.517241,0.415553,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,slim-borgudd,Slim Borgudd,ats-wheels,DNF,39,21,1,16,1002.138618,1006.159487,4.020869,0.482759,0.402341,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,hector-rebaque,Héctor Rebaque,brabham,DNF,35,6,1,17,1068.780785,1066.631777,-2.149008,0.448276,0.491256,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,jean-pierre-jarier,Jean-Pierre Jarier,osella,DNF,26,23,1,18,1162.138691,1152.057515,-10.081176,0.413793,0.615417,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,alan-jones,Alan Jones,williams,DNF,24,3,1,19,1289.995362,1269.87571,-20.119652,0.362069,0.764462,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,didier-pironi,Didier Pironi,ferrari,DNF,24,12,1,20,1158.885224,1146.427567,-12.457657,0.362069,0.611222,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,eliseo-salazar,Eliseo Salazar,ensign,DNF,8,24,1,21,980.187991,977.006977,-3.181014,0.310345,0.373965,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,patrick-tambay,Patrick Tambay,ligier,DNF,6,17,1,22,1047.982897,1037.752326,-10.230571,0.258621,0.463232,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,riccardo-patrese,Riccardo Patrese,arrows,DNF,6,18,1,23,1089.739112,1076.693313,-13.045799,0.258621,0.519537,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,rene-arnoux,René Arnoux,renault,DNF,0,8,1,24,1160.383729,1140.070765,-20.312965,0.206897,0.613156,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,beppe-gabbiani,Beppe Gabbiani,osella,DNQ,,,2,25,870.050291,862.11309,-7.937201,0.086207,0.244951,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,brian-henton,Brian Henton,toleman,DNQ,,,2,26,878.475128,870.092994,-8.382134,0.086207,0.25385,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,chico-serra,Chico Serra,fittipaldi,DNQ,,,2,27,923.986965,913.052168,-10.934797,0.086207,0.304903,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,derek-warwick,Derek Warwick,toleman,DNQ,,,2,28,885.455529,876.697978,-8.757551,0.086207,0.261358,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,jacques-villeneuve-sr,"Jacques Villeneuve, Sr.",arrows,DNQ,,,2,29,1000.0,984.332882,-15.667118,0.086207,0.399549,50.0,30
-1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,keke-rosberg,Keke Rosberg,fittipaldi,DNQ,,,2,30,974.653678,960.618114,-14.035564,0.086207,0.366918,50.0,30
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,jacques-laffite,Jacques Laffite,ligier,1,63,10,0,1,1377.329763,1389.385443,12.055679,1.0,0.758886,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,john-watson,John Watson,mclaren,2,63,9,0,2,1267.622796,1281.991703,14.368906,0.962963,0.675585,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,gilles-villeneuve,Gilles Villeneuve,ferrari,3,63,11,0,3,1248.348389,1261.661264,13.312875,0.925926,0.659668,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,bruno-giacomelli,Bruno Giacomelli,alfa-romeo,4,62,15,0,4,1045.013484,1065.575371,20.561887,0.888889,0.477651,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,nelson-piquet,Nelson Piquet,brabham,5,62,1,0,5,1274.881166,1283.399338,8.518172,0.851852,0.681488,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,elio-de-angelis,Elio de Angelis,lotus,6,62,7,0,6,1157.395905,1169.107146,11.711241,0.814815,0.58059,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,mario-andretti,Mario Andretti,alfa-romeo,7,62,16,0,7,1243.686678,1249.787139,6.100461,0.777778,0.655769,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,derek-daly,Derek Daly,march,8,61,20,0,8,935.800501,953.90457,18.104069,0.740741,0.378659,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,marc-surer,Marc Surer,theodore,9,61,19,0,9,1028.320833,1040.392319,12.071486,0.703704,0.462274,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,carlos-reutemann,Carlos Reutemann,williams,10,60,2,0,10,1427.33418,1421.055118,-6.279062,0.666667,0.792248,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,michele-alboreto,Michele Alboreto,tyrrell,11,59,22,0,11,988.360776,998.556301,10.195524,0.62963,0.425719,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,eddie-cheever,Eddie Cheever,tyrrell,12,56,14,0,12,1002.674913,1010.366647,7.691734,0.592593,0.438758,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,andrea-de-cesaris,Andrea de Cesaris,mclaren,DNF,51,13,1,13,991.144294,997.509635,6.365341,0.555556,0.428249,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,alain-prost,Alain Prost,renault,DNF,48,4,1,14,1132.489194,1130.511749,-1.977445,0.518519,0.558067,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,nigel-mansell,Nigel Mansell,lotus,DNF,45,5,1,15,1031.243089,1032.069015,0.825926,0.481481,0.464963,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,slim-borgudd,Slim Borgudd,ats-wheels,DNF,39,21,1,16,976.194115,977.681324,1.48721,0.444444,0.4147,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,hector-rebaque,Héctor Rebaque,brabham,DNF,35,6,1,17,1032.576517,1029.637366,-2.939151,0.407407,0.46619,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,jean-pierre-jarier,Jean-Pierre Jarier,osella,DNF,26,23,1,18,1111.792542,1103.352535,-8.440008,0.37037,0.539171,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,eliseo-salazar,Eliseo Salazar,ensign,DNF,8,24,1,19,951.545446,948.582284,-2.963162,0.333333,0.392597,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,patrick-tambay,Patrick Tambay,ligier,DNF,6,17,1,20,1059.241525,1048.591449,-10.650076,0.277778,0.490779,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,riccardo-patrese,Riccardo Patrese,arrows,DNF,6,18,1,21,1115.7449,1102.494312,-13.250588,0.277778,0.54279,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,rene-arnoux,René Arnoux,renault,DNF,0,8,1,22,1165.226079,1146.956694,-18.269385,0.222222,0.58761,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,beppe-gabbiani,Beppe Gabbiani,osella,DNQ,,,2,23,850.885768,840.177199,-10.708569,0.092593,0.306764,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,brian-henton,Brian Henton,toleman,DNQ,,,2,24,849.709406,839.048344,-10.661062,0.092593,0.305814,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,chico-serra,Chico Serra,fittipaldi,DNQ,,,2,25,910.238807,897.048902,-13.189905,0.092593,0.356391,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,derek-warwick,Derek Warwick,toleman,DNQ,,,2,26,881.93352,869.946712,-11.986808,0.092593,0.332329,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,jacques-villeneuve-sr,"Jacques Villeneuve, Sr.",arrows,DNQ,,,2,27,1000.0,982.813839,-17.186161,0.092593,0.436316,50.0,28
+1981,14,1981-09-27,canada,Grand Prix Labatt du Canada 1981,356,keke-rosberg,Keke Rosberg,fittipaldi,DNQ,,,2,28,948.597236,933.728106,-14.86913,0.092593,0.389975,50.0,28

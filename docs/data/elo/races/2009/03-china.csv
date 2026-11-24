@@ -1,21 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,sebastian-vettel,Sebastian Vettel,red-bull,1,56,1,0,1,1075.700853,1102.725794,27.024941,1.0,0.459501,50.0,20
-2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,mark-webber,Mark Webber,red-bull,2,56,3,0,2,1091.177417,1114.510412,23.332995,0.947368,0.480709,50.0,20
-2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,jenson-button,Jenson Button,brawn,3,56,5,0,3,1068.933249,1091.15701,22.223761,0.894737,0.450262,50.0,20
-2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,rubens-barrichello,Rubens Barrichello,brawn,4,56,4,0,4,1047.647287,1068.682146,21.034859,0.842105,0.421408,50.0,20
-2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,heikki-kovalainen,Heikki Kovalainen,mclaren,5,56,12,0,5,1118.320562,1131.894172,13.57361,0.789474,0.518001,50.0,20
-2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,lewis-hamilton,Lewis Hamilton,mclaren,6,56,9,0,6,1259.693256,1261.41983,1.726573,0.736842,0.702311,50.0,20
-2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,timo-glock,Timo Glock,toyota,7,56,19,0,7,1128.437067,1136.053768,7.616701,0.684211,0.531877,50.0,20
-2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,sebastien-buemi,Sébastien Buemi,toro-rosso,8,56,10,0,8,1007.535452,1020.697385,13.161932,0.631579,0.36834,50.0,20
-2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,fernando-alonso,Fernando Alonso,renault,9,56,2,0,9,1294.491408,1286.328715,-8.162693,0.578947,0.742201,50.0,20
-2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,kimi-raikkonen,Kimi Räikkönen,ferrari,10,56,8,0,10,1224.786749,1218.122533,-6.664216,0.526316,0.6596,50.0,20
-2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,sebastien-bourdais,Sébastien Bourdais,toro-rosso,11,56,15,0,11,1008.683695,1013.876463,5.192769,0.473684,0.369829,50.0,20
-2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,nick-heidfeld,Nick Heidfeld,bmw-sauber,12,56,11,0,12,1252.271648,1238.652183,-13.619465,0.421053,0.693442,50.0,20
-2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,robert-kubica,Robert Kubica,bmw-sauber,13,56,17,0,13,1194.757213,1182.125969,-12.631244,0.368421,0.621046,50.0,20
-2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,giancarlo-fisichella,Giancarlo Fisichella,force-india,14,55,20,0,14,955.882511,956.481303,0.598792,0.315789,0.303814,50.0,20
-2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,nico-rosberg,Nico Rosberg,williams,15,55,7,0,15,1101.964166,1090.345713,-11.618452,0.263158,0.495527,50.0,20
-2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,nelson-piquet-jr,Nelson Piquet Jr.,renault,16,54,16,0,16,1002.653121,995.07772,-7.575401,0.210526,0.362034,50.0,20
-2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,adrian-sutil,Adrian Sutil,force-india,17,50,18,0,17,859.564469,857.470134,-2.094336,0.157895,0.199781,50.0,20
-2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,kazuki-nakajima,Kazuki Nakajima,williams,DNF,43,14,1,18,1001.165707,988.422821,-12.742886,0.105263,0.360121,50.0,20
-2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,felipe-massa,Felipe Massa,ferrari,DNF,20,13,1,19,1265.256746,1232.444385,-32.812361,0.052632,0.708879,50.0,20
-2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,jarno-trulli,Jarno Trulli,toyota,DNF,18,6,1,20,1142.665054,1115.099176,-27.565878,0.0,0.551318,50.0,20
+2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,sebastian-vettel,Sebastian Vettel,red-bull,1,56,1,0,1,1085.439634,1113.430137,27.990503,1.0,0.44019,50.0,18
+2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,mark-webber,Mark Webber,red-bull,2,56,3,0,2,1154.154221,1176.003537,21.849316,0.941176,0.50419,50.0,18
+2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,jenson-button,Jenson Button,brawn,3,56,5,0,3,1112.965293,1133.796168,20.830875,0.882353,0.465735,50.0,18
+2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,rubens-barrichello,Rubens Barrichello,brawn,4,56,4,0,4,1090.216574,1109.162632,18.946058,0.823529,0.444608,50.0,18
+2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,heikki-kovalainen,Heikki Kovalainen,mclaren,5,56,12,0,5,1204.266622,1214.959087,10.692465,0.764706,0.550857,50.0,18
+2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,lewis-hamilton,Lewis Hamilton,mclaren,6,56,9,0,6,1336.023155,1337.900481,1.877325,0.705882,0.668336,50.0,18
+2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,timo-glock,Timo Glock,toyota,7,56,19,0,7,1138.850725,1146.70919,7.858465,0.647059,0.48989,50.0,18
+2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,sebastien-buemi,Sébastien Buemi,toro-rosso,8,56,10,0,8,1003.240045,1014.360864,11.120819,0.588235,0.365819,50.0,18
+2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,fernando-alonso,Fernando Alonso,renault,9,56,2,0,9,1458.975254,1447.224371,-11.750882,0.529412,0.764429,50.0,18
+2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,kimi-raikkonen,Kimi Räikkönen,ferrari,10,56,8,0,10,1395.301349,1382.995927,-12.305422,0.470588,0.716697,50.0,18
+2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,sebastien-bourdais,Sébastien Bourdais,toro-rosso,11,56,15,0,11,986.50802,989.536137,3.028116,0.411765,0.351202,50.0,18
+2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,nick-heidfeld,Nick Heidfeld,bmw-sauber,12,56,11,0,12,1321.883956,1306.715545,-15.168411,0.352941,0.656309,50.0,18
+2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,robert-kubica,Robert Kubica,bmw-sauber,13,56,17,0,13,1277.409493,1261.243754,-16.165739,0.294118,0.617432,50.0,18
+2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,giancarlo-fisichella,Giancarlo Fisichella,force-india,14,55,20,0,14,992.712106,986.646968,-6.065138,0.235294,0.356597,50.0,18
+2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,nico-rosberg,Nico Rosberg,williams,15,55,7,0,15,1108.915732,1094.640979,-14.274754,0.176471,0.461966,50.0,18
+2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,nelson-piquet-jr,Nelson Piquet Jr.,renault,16,54,16,0,16,1017.265957,1004.236801,-13.029156,0.117647,0.37823,50.0,18
+2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,adrian-sutil,Adrian Sutil,force-india,17,50,18,0,17,819.820726,811.738752,-8.081974,0.058824,0.220463,50.0,18
+2009,3,2009-04-19,china,2009 Formula 1 Chinese Grand Prix,806,jarno-trulli,Jarno Trulli,toyota,DNF,18,6,1,18,1200.1571,1172.804633,-27.352467,0.0,0.547049,50.0,18

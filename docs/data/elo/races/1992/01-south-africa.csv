@@ -1,33 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,nigel-mansell,Nigel Mansell,williams,1,72,1,0,1,1252.637898,1265.629231,12.991333,1.0,0.740173,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,riccardo-patrese,Riccardo Patrese,williams,2,72,4,0,2,1293.626274,1302.939893,9.313619,0.967742,0.78147,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,ayrton-senna,Ayrton Senna,mclaren,3,72,2,0,3,1383.802058,1387.73369,3.931631,0.935484,0.856851,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,michael-schumacher,Michael Schumacher,benetton,4,72,6,0,4,1052.31682,1072.975964,20.659143,0.903226,0.490043,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,gerhard-berger,Gerhard Berger,mclaren,5,72,3,0,5,1237.546285,1244.899609,7.353324,0.870968,0.723901,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,johnny-herbert,Johnny Herbert,lotus,6,71,11,0,6,1066.695337,1083.156818,16.461481,0.83871,0.50948,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,erik-comas,Érik Comas,ligier,7,71,13,0,7,1060.391031,1075.665575,15.274544,0.806452,0.500961,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,aguri-suzuki,Aguri Suzuki,footwork,8,70,16,0,8,961.767215,981.986906,20.219691,0.774194,0.3698,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,mika-hakkinen,Mika Häkkinen,lotus,9,70,21,0,9,1051.188094,1063.85904,12.670946,0.741935,0.488517,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,michele-alboreto,Michele Alboreto,footwork,10,70,17,0,10,959.19972,976.357755,17.158034,0.709677,0.366517,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,mauricio-gugelmin,Maurício Gugelmin,jordan,11,70,23,0,11,1111.332087,1116.738834,5.406747,0.677419,0.569284,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,ukyo-katayama,Ukyo Katayama,venturi,12,68,18,0,12,1000.0,1011.271382,11.271382,0.645161,0.419734,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,eric-van-de-poele,Eric van de Poele,brabham,13,68,26,0,13,849.727564,868.43261,18.705047,0.612903,0.238802,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,olivier-grouillard,Olivier Grouillard,tyrrell,DNF,62,12,1,14,923.020983,935.980336,12.959353,0.580645,0.321458,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,thierry-boutsen,Thierry Boutsen,ligier,DNF,60,14,1,15,1155.877593,1151.945096,-3.932498,0.548387,0.627037,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,pierluigi-martini,Pierluigi Martini,dallara,DNF,56,25,1,16,1119.705704,1116.495679,-3.210026,0.516129,0.58033,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,gianni-morbidelli,Gianni Morbidelli,minardi,DNF,55,19,1,17,1090.11857,1087.261272,-2.857298,0.483871,0.541017,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,jj-lehto,JJ Lehto,dallara,DNF,46,24,1,18,1054.653982,1052.574452,-2.07953,0.451613,0.493204,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,christian-fittipaldi,Christian Fittipaldi,minardi,DNF,43,20,1,19,1000.0,999.981059,-0.018941,0.419355,0.419734,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,andrea-de-cesaris,Andrea de Cesaris,tyrrell,DNF,41,10,1,20,1123.580557,1113.664655,-9.915902,0.387097,0.585415,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,jean-alesi,Jean Alesi,ferrari,DNF,40,5,1,21,1149.976921,1136.741574,-13.235347,0.354839,0.619546,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,ivan-capelli,Ivan Capelli,ferrari,DNF,28,9,1,22,1064.794532,1055.577954,-9.216577,0.322581,0.506912,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,gabriele-tarquini,Gabriele Tarquini,fondmetal,DNF,23,15,1,23,863.76081,865.596524,1.835714,0.290323,0.253608,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,karl-wendlinger,Karl Wendlinger,march,DNF,13,7,1,24,994.171091,986.47375,-7.69734,0.258065,0.412011,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,bertrand-gachot,Bertrand Gachot,venturi,DNF,8,22,1,25,1000.664269,990.923804,-9.740465,0.225806,0.420616,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,martin-brundle,Martin Brundle,benetton,DNF,1,8,1,26,1107.307963,1088.787811,-18.520152,0.193548,0.563951,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,alex-caffi,Alex Caffi,andrea-moda,EX,,,1,27,974.730935,962.662787,-12.068149,0.145161,0.386524,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,enrico-bertaggia,Enrico Bertaggia,andrea-moda,EX,,,1,28,942.780879,932.750155,-10.030724,0.145161,0.345776,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,andrea-chiesa,Andrea Chiesa,fondmetal,DNQ,,,2,29,1000.0,981.432672,-18.567328,0.048387,0.419734,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,giovanna-amati,Giovanna Amati,brabham,DNQ,,,2,30,1000.0,981.432672,-18.567328,0.048387,0.419734,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,paul-belmondo,Paul Belmondo,march,DNQ,,,2,31,1000.0,981.432672,-18.567328,0.048387,0.419734,50.0,32
-1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,stefano-modena,Stefano Modena,jordan,DNQ,,,2,32,1141.063496,1113.07644,-27.987055,0.048387,0.608128,50.0,32
+1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,nigel-mansell,Nigel Mansell,williams,1,72,1,0,1,1386.260583,1398.774226,12.513643,1.0,0.749727,50.0,19
+1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,riccardo-patrese,Riccardo Patrese,williams,2,72,4,0,2,1398.222871,1407.547828,9.324957,0.944444,0.757945,50.0,19
+1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,ayrton-senna,Ayrton Senna,mclaren,3,72,2,0,3,1549.562909,1551.592523,2.029614,0.888889,0.848297,50.0,19
+1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,michael-schumacher,Michael Schumacher,benetton,4,72,6,0,4,1046.749836,1065.105497,18.35566,0.833333,0.46622,50.0,19
+1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,gerhard-berger,Gerhard Berger,mclaren,5,72,3,0,5,1401.332226,1402.21831,0.886084,0.777778,0.760056,50.0,19
+1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,johnny-herbert,Johnny Herbert,lotus,6,71,11,0,6,1031.771928,1045.2545,13.482573,0.722222,0.452571,50.0,19
+1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,erik-comas,Érik Comas,ligier,7,71,13,0,7,1013.231246,1024.778646,11.5474,0.666667,0.435719,50.0,19
+1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,aguri-suzuki,Aguri Suzuki,footwork,8,70,16,0,8,942.5713,954.50088,11.92958,0.611111,0.37252,50.0,19
+1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,mika-hakkinen,Mika Häkkinen,lotus,9,70,21,0,9,1024.942802,1030.402761,5.459959,0.555556,0.446356,50.0,19
+1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,michele-alboreto,Michele Alboreto,footwork,10,70,17,0,10,991.150818,995.362971,4.212153,0.5,0.415757,50.0,19
+1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,mauricio-gugelmin,Maurício Gugelmin,jordan,11,70,23,0,11,1105.963937,1102.179394,-3.784543,0.444444,0.520135,50.0,19
+1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,ukyo-katayama,Ukyo Katayama,venturi,12,68,18,0,12,1000.0,998.257462,-1.742538,0.388889,0.42374,50.0,19
+1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,eric-van-de-poele,Eric van de Poele,brabham,13,68,26,0,13,843.029522,845.251554,2.222032,0.333333,0.288893,50.0,19
+1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,alex-caffi,Alex Caffi,andrea-moda,EX,,,1,14,961.662648,954.693908,-6.96874,0.25,0.389375,50.0,19
+1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,enrico-bertaggia,Enrico Bertaggia,andrea-moda,EX,,,1,15,953.450701,946.845695,-6.605006,0.25,0.3821,50.0,19
+1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,andrea-chiesa,Andrea Chiesa,fondmetal,DNQ,,,2,16,1000.0,982.979684,-17.020316,0.083333,0.42374,50.0,19
+1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,giovanna-amati,Giovanna Amati,brabham,DNQ,,,2,17,1000.0,982.979684,-17.020316,0.083333,0.42374,50.0,19
+1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,paul-belmondo,Paul Belmondo,march,DNQ,,,2,18,1000.0,982.979684,-17.020316,0.083333,0.42374,50.0,19
+1992,1,1992-03-01,south-africa,Yellow Pages South African Grand Prix 1992,517,stefano-modena,Stefano Modena,jordan,DNQ,,,2,19,1105.12048,1083.318599,-21.801881,0.083333,0.519371,50.0,19

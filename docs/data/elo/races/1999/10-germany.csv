@@ -1,23 +1,15 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,eddie-irvine,Eddie Irvine,ferrari,1,45,5,0,1,1271.416095,1283.3797,11.963606,1.0,0.760728,50.0,22
-1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,mika-salo,Mika Salo,ferrari,2,45,4,0,2,994.338435,1022.188338,27.849903,0.952381,0.395383,50.0,22
-1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,3,45,2,0,3,1203.836303,1214.951308,11.115005,0.904762,0.682462,50.0,22
-1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,ralf-schumacher,Ralf Schumacher,williams,4,45,11,0,4,1118.075916,1132.484908,14.408992,0.857143,0.568963,50.0,22
-1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,david-coulthard,David Coulthard,mclaren,5,45,3,0,5,1193.642103,1200.633917,6.991814,0.809524,0.669688,50.0,22
-1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,olivier-panis,Olivier Panis,prost,6,45,7,0,6,1051.902768,1066.207866,14.305098,0.761905,0.475803,50.0,22
-1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,alexander-wurz,Alexander Wurz,benetton,7,45,13,0,7,1084.47177,1094.092173,9.620403,0.714286,0.521878,50.0,22
-1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,jean-alesi,Jean Alesi,sauber,8,45,21,0,8,1060.879462,1069.78748,8.908018,0.666667,0.488506,50.0,22
-1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,marc-gene,Marc Gené,minardi,9,45,15,0,9,1002.788228,1013.390728,10.602501,0.619048,0.406998,50.0,22
-1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,luca-badoer,Luca Badoer,minardi,10,44,19,0,10,987.732609,996.985635,9.253026,0.571429,0.386368,50.0,22
-1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,johnny-herbert,Johnny Herbert,stewart,11,40,17,0,11,1002.931775,1008.762468,5.830693,0.52381,0.407196,50.0,22
-1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,37,20,1,12,979.713527,984.74758,5.034053,0.47619,0.375509,50.0,22
-1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,mika-hakkinen,Mika Häkkinen,mclaren,DNF,25,1,1,13,1246.608633,1231.36865,-15.239983,0.428571,0.733371,50.0,22
-1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,alex-zanardi,Alex Zanardi,williams,DNF,21,14,1,14,990.914329,990.42682,-0.487509,0.380952,0.390703,50.0,22
-1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,ricardo-zonta,Ricardo Zonta,bar,DNF,20,18,1,15,983.538948,981.171749,-2.367199,0.333333,0.380677,50.0,22
-1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,toranosuke-takagi,Toranosuke Takagi,arrows,DNF,15,22,1,16,967.509526,963.836177,-3.673349,0.285714,0.359181,50.0,22
-1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,damon-hill,Damon Hill,jordan,DNF,13,8,1,17,1098.715641,1083.523752,-15.19189,0.238095,0.541933,50.0,22
-1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,jarno-trulli,Jarno Trulli,prost,DNF,10,9,1,18,1035.508003,1022.39884,-13.109163,0.190476,0.452659,50.0,22
-1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,giancarlo-fisichella,Giancarlo Fisichella,benetton,DNF,7,10,1,19,1177.349664,1152.05191,-25.297753,0.142857,0.648812,50.0,22
-1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,rubens-barrichello,Rubens Barrichello,stewart,DNF,6,6,1,20,1030.929854,1013.38078,-17.549073,0.095238,0.44622,50.0,22
-1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,jacques-villeneuve,Jacques Villeneuve,bar,DNF,0,12,1,21,1062.807711,1039.436379,-23.371332,0.02381,0.491236,50.0,22
-1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,pedro-diniz,Pedro Diniz,sauber,DNF,0,16,1,22,1009.098604,989.502747,-19.595857,0.02381,0.415727,50.0,22
+1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,eddie-irvine,Eddie Irvine,ferrari,1,45,5,0,1,1340.081464,1354.451448,14.369984,1.0,0.7126,50.0,14
+1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,mika-salo,Mika Salo,ferrari,2,45,4,0,2,1010.304413,1036.083227,25.778814,0.923077,0.407501,50.0,14
+1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,3,45,2,0,3,1256.010996,1266.30526,10.294263,0.846154,0.640269,50.0,14
+1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,ralf-schumacher,Ralf Schumacher,williams,4,45,11,0,4,1145.865076,1157.456736,11.591661,0.769231,0.537398,50.0,14
+1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,david-coulthard,David Coulthard,mclaren,5,45,3,0,5,1375.55078,1373.122014,-2.428767,0.692308,0.740883,50.0,14
+1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,olivier-panis,Olivier Panis,prost,6,45,7,0,6,1057.587369,1065.734563,8.147194,0.615385,0.452441,50.0,14
+1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,alexander-wurz,Alexander Wurz,benetton,7,45,13,0,7,1070.186411,1073.882664,3.696253,0.538462,0.464536,50.0,14
+1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,jean-alesi,Jean Alesi,sauber,8,45,21,0,8,1162.36863,1157.786516,-4.582115,0.461538,0.553181,50.0,14
+1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,marc-gene,Marc Gené,minardi,9,45,15,0,9,972.056455,972.688866,0.632411,0.384615,0.371967,50.0,14
+1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,luca-badoer,Luca Badoer,minardi,10,44,19,0,10,893.286019,893.55251,0.26649,0.307692,0.302363,50.0,14
+1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,johnny-herbert,Johnny Herbert,stewart,11,40,17,0,11,1040.888851,1030.603629,-10.285222,0.230769,0.436474,50.0,14
+1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,37,20,1,12,970.084605,959.268852,-10.815753,0.153846,0.370161,50.0,14
+1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,jacques-villeneuve,Jacques Villeneuve,bar,DNF,0,12,1,13,1228.49999,1199.660747,-28.839244,0.038462,0.615246,50.0,14
+1999,10,1999-08-01,germany,Grosser Mobil 1 Preis von Deutschland 1999,640,pedro-diniz,Pedro Diniz,sauber,DNF,0,16,1,14,996.937324,979.111354,-17.82597,0.038462,0.394981,50.0,14

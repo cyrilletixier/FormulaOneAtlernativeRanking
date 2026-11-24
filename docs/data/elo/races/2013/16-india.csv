@@ -1,23 +1,21 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,sebastian-vettel,Sebastian Vettel,red-bull,1,60,1,0,1,1452.860988,1460.332248,7.47126,1.0,0.850575,50.0,22
-2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,nico-rosberg,Nico Rosberg,mercedes,2,60,2,0,2,1217.390591,1234.07353,16.682939,0.952381,0.618722,50.0,22
-2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,romain-grosjean,Romain Grosjean,lotus-f1,3,60,17,0,3,1134.117855,1153.559902,19.442047,0.904762,0.515921,50.0,22
-2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,felipe-massa,Felipe Massa,ferrari,4,60,5,0,4,1237.868936,1248.580234,10.711298,0.857143,0.642917,50.0,22
-2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,sergio-perez,Sergio Pérez,mclaren,5,60,9,0,5,1099.369095,1116.246622,16.877527,0.809524,0.471973,50.0,22
-2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,lewis-hamilton,Lewis Hamilton,mercedes,6,60,3,0,6,1276.695598,1280.436228,3.74063,0.761905,0.687092,50.0,22
-2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,kimi-raikkonen,Kimi Räikkönen,lotus-f1,7,60,6,0,7,1338.358785,1336.485154,-1.873631,0.714286,0.751758,50.0,22
-2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,paul-di-resta,Paul di Resta,force-india,8,60,12,0,8,1060.000097,1072.21512,12.215022,0.666667,0.422366,50.0,22
-2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,adrian-sutil,Adrian Sutil,force-india,9,60,13,0,9,1076.144794,1084.965188,8.820395,0.619048,0.44264,50.0,22
-2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,daniel-ricciardo,Daniel Ricciardo,toro-rosso,10,60,11,0,10,1044.953726,1053.344481,8.390756,0.571429,0.403613,50.0,22
-2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,fernando-alonso,Fernando Alonso,ferrari,11,60,8,0,11,1401.959034,1387.637215,-14.321819,0.52381,0.810246,50.0,22
-2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,pastor-maldonado,Pastor Maldonado,williams,12,60,18,0,12,1013.369781,1018.934923,5.565141,0.47619,0.364888,50.0,22
-2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,13,59,14,0,13,1002.365908,1006.211784,3.845876,0.428571,0.351654,50.0,22
-2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,jenson-button,Jenson Button,mclaren,14,59,10,0,14,1253.188517,1239.204625,-13.983892,0.380952,0.66063,50.0,22
-2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,esteban-gutierrez,Esteban Gutiérrez,sauber,15,59,16,0,15,1020.545392,1018.532275,-2.013117,0.333333,0.373596,50.0,22
-2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,valtteri-bottas,Valtteri Bottas,williams,16,59,15,0,16,1006.786999,1003.225081,-3.561918,0.285714,0.356953,50.0,22
-2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,max-chilton,Max Chilton,marussia,17,58,22,0,17,923.014141,921.82852,-1.185621,0.238095,0.261808,50.0,22
-2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,jules-bianchi,Jules Bianchi,marussia,18,58,19,0,18,927.344513,923.547752,-3.796761,0.190476,0.266411,50.0,22
-2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,nico-hulkenberg,Nico Hülkenberg,sauber,19,54,7,0,19,1151.029182,1131.31211,-19.717072,0.142857,0.537199,50.0,22
-2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,mark-webber,Mark Webber,red-bull,DNF,39,4,1,20,1284.603587,1254.576292,-30.027294,0.095238,0.695784,50.0,22
-2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,charles-pic,Charles Pic,caterham,DNF,35,21,1,21,908.100915,898.169081,-9.931834,0.047619,0.246256,50.0,22
-2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,giedo-van-der-garde,Giedo van der Garde,caterham,DNF,1,20,1,22,927.894258,914.544327,-13.349931,0.0,0.266999,50.0,22
+2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,sebastian-vettel,Sebastian Vettel,red-bull,1,60,1,0,1,1686.87724,1693.861628,6.984389,1.0,0.860312,50.0,20
+2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,nico-rosberg,Nico Rosberg,mercedes,2,60,2,0,2,1305.378265,1322.17285,16.794585,0.947368,0.611477,50.0,20
+2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,romain-grosjean,Romain Grosjean,lotus-f1,3,60,17,0,3,1168.929549,1188.789835,19.860285,0.894737,0.497531,50.0,20
+2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,felipe-massa,Felipe Massa,ferrari,4,60,5,0,4,1360.400972,1369.760687,9.359715,0.842105,0.654911,50.0,20
+2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,sergio-perez,Sergio Pérez,mclaren,5,60,9,0,5,1101.110364,1118.603297,17.492933,0.789474,0.439615,50.0,20
+2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,lewis-hamilton,Lewis Hamilton,mercedes,6,60,3,0,6,1446.642485,1447.555114,0.912629,0.736842,0.71859,50.0,20
+2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,kimi-raikkonen,Kimi Räikkönen,lotus-f1,7,60,6,0,7,1513.591374,1509.61892,-3.972455,0.684211,0.76366,50.0,20
+2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,paul-di-resta,Paul di Resta,force-india,8,60,12,0,8,1083.825297,1094.157932,10.332635,0.631579,0.424926,50.0,20
+2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,adrian-sutil,Adrian Sutil,force-india,9,60,13,0,9,1101.316355,1108.274202,6.957848,0.578947,0.43979,50.0,20
+2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,daniel-ricciardo,Daniel Ricciardo,toro-rosso,10,60,11,0,10,1023.386055,1030.988879,7.602824,0.526316,0.374259,50.0,20
+2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,fernando-alonso,Fernando Alonso,ferrari,11,60,8,0,11,1559.05353,1543.144063,-15.909467,0.473684,0.791874,50.0,20
+2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,pastor-maldonado,Pastor Maldonado,williams,12,60,18,0,12,997.233909,1000.645148,3.411239,0.421053,0.352828,50.0,20
+2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,13,59,14,0,13,1049.067545,1047.707342,-1.360203,0.368421,0.395625,50.0,20
+2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,jenson-button,Jenson Button,mclaren,14,59,10,0,14,1382.453012,1364.655286,-17.797726,0.315789,0.671744,50.0,20
+2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,esteban-gutierrez,Esteban Gutiérrez,sauber,15,59,16,0,15,1006.317777,1001.464151,-4.853626,0.263158,0.36023,50.0,20
+2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,valtteri-bottas,Valtteri Bottas,williams,16,59,15,0,16,992.782282,985.847723,-6.934559,0.210526,0.349217,50.0,20
+2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,max-chilton,Max Chilton,marussia,17,58,22,0,17,875.02013,869.967379,-5.052751,0.157895,0.25895,50.0,20
+2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,jules-bianchi,Jules Bianchi,marussia,18,58,19,0,18,899.479043,890.904815,-8.574228,0.105263,0.276748,50.0,20
+2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,nico-hulkenberg,Nico Hülkenberg,sauber,19,54,7,0,19,1155.327282,1133.663153,-21.664129,0.052632,0.485914,50.0,20
+2013,16,2013-10-27,india,2013 Formula 1 Airtel Indian Grand Prix,894,giedo-van-der-garde,Giedo van der Garde,caterham,DNF,1,20,1,20,892.754124,879.164186,-13.589938,0.0,0.271799,50.0,20

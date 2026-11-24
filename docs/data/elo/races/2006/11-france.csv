@@ -1,23 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,michael-schumacher,Michael Schumacher,ferrari,1,70,1,0,1,1318.677062,1330.077217,11.400155,1.0,0.771997,50.0,22
-2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,fernando-alonso,Fernando Alonso,renault,2,70,3,0,2,1399.6278,1405.050787,5.422987,0.952381,0.843921,50.0,22
-2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,felipe-massa,Felipe Massa,ferrari,3,70,2,0,3,1187.829788,1201.94034,14.110552,0.904762,0.622551,50.0,22
-2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,ralf-schumacher,Ralf Schumacher,toyota,4,70,5,0,4,1128.779014,1144.370934,15.59192,0.857143,0.545304,50.0,22
-2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,kimi-raikkonen,Kimi Räikkönen,mclaren,5,70,6,0,5,1244.390372,1250.285069,5.894697,0.809524,0.69163,50.0,22
-2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,giancarlo-fisichella,Giancarlo Fisichella,renault,6,70,7,0,6,1245.905158,1249.33067,3.425512,0.761905,0.693395,50.0,22
-2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,pedro-de-la-rosa,Pedro de la Rosa,mclaren,7,70,8,0,7,973.181992,991.95433,18.772338,0.714286,0.338839,50.0,22
-2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,nick-heidfeld,Nick Heidfeld,bmw-sauber,8,69,11,0,8,1101.436887,1109.344031,7.907144,0.666667,0.508524,50.0,22
-2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,david-coulthard,David Coulthard,red-bull,9,69,9,0,9,1096.01505,1101.907633,5.892584,0.619048,0.501196,50.0,22
-2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,scott-speed,Scott Speed,toro-rosso,10,69,14,0,10,994.421287,1004.703212,10.281926,0.571429,0.36579,50.0,22
-2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,jacques-villeneuve,Jacques Villeneuve,bmw-sauber,11,69,16,0,11,1077.436862,1079.824208,2.387346,0.52381,0.476063,50.0,22
-2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,christian-klien,Christian Klien,red-bull,12,69,12,0,12,1000.803215,1005.911579,5.108364,0.47619,0.374023,50.0,22
-2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,vitantonio-liuzzi,Vitantonio Liuzzi,toro-rosso,13,69,22,0,13,1022.601021,1023.902616,1.301596,0.428571,0.40254,50.0,22
-2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,nico-rosberg,Nico Rosberg,williams,14,68,19,0,14,1015.679771,1015.056177,-0.623594,0.380952,0.393424,50.0,22
-2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,christijan-albers,Christijan Albers,midland,15,68,15,0,15,950.438635,951.562305,1.12367,0.333333,0.31086,50.0,22
-2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,franck-montagny,Franck Montagny,super-aguri,16,67,20,0,16,947.66213,946.572159,-1.08997,0.285714,0.307514,50.0,22
-2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,jenson-button,Jenson Button,honda,DNF,61,17,1,17,1165.236475,1147.467372,-17.769103,0.238095,0.593477,50.0,22
-2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,mark-webber,Mark Webber,williams,DNF,53,10,1,18,1019.988198,1009.557389,-10.430808,0.190476,0.399092,50.0,22
-2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,jarno-trulli,Jarno Trulli,toyota,DNF,39,4,1,19,1109.14126,1090.338,-18.80326,0.142857,0.518922,50.0,22
-2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,rubens-barrichello,Rubens Barrichello,honda,DNF,18,13,1,20,1198.898605,1171.834581,-27.064024,0.095238,0.636519,50.0,22
-2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,tiago-monteiro,Tiago Monteiro,midland,DNF,11,18,1,21,998.841836,982.64845,-16.193387,0.047619,0.371487,50.0,22
-2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,takuma-sato,Takuma Sato,super-aguri,DNF,0,21,1,22,968.446101,951.799456,-16.646645,0.0,0.332933,50.0,22
+2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,michael-schumacher,Michael Schumacher,ferrari,1,70,1,0,1,1498.481155,1508.813022,10.331867,1.0,0.793363,50.0,17
+2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,fernando-alonso,Fernando Alonso,renault,2,70,3,0,2,1533.447171,1539.589181,6.142009,0.9375,0.81466,50.0,17
+2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,felipe-massa,Felipe Massa,ferrari,3,70,2,0,3,1205.657879,1220.975748,15.317869,0.875,0.568643,50.0,17
+2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,ralf-schumacher,Ralf Schumacher,toyota,4,70,5,0,4,1228.388562,1239.593022,11.20446,0.8125,0.588411,50.0,17
+2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,kimi-raikkonen,Kimi Räikkönen,mclaren,5,70,6,0,5,1436.590448,1436.468492,-0.121956,0.75,0.752439,50.0,17
+2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,giancarlo-fisichella,Giancarlo Fisichella,renault,6,70,7,0,6,1315.47837,1316.78734,1.30897,0.6875,0.661321,50.0,17
+2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,pedro-de-la-rosa,Pedro de la Rosa,mclaren,7,70,8,0,7,931.040533,945.928461,14.887929,0.625,0.327241,50.0,17
+2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,nick-heidfeld,Nick Heidfeld,bmw-sauber,8,69,11,0,8,1099.779218,1104.18339,4.404172,0.5625,0.474417,50.0,17
+2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,david-coulthard,David Coulthard,red-bull,9,69,9,0,9,1180.889329,1178.546812,-2.342517,0.5,0.54685,50.0,17
+2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,scott-speed,Scott Speed,toro-rosso,10,69,14,0,10,976.024293,979.642299,3.618005,0.4375,0.36514,50.0,17
+2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,jacques-villeneuve,Jacques Villeneuve,bmw-sauber,11,69,16,0,11,1086.122011,1081.763344,-4.358667,0.375,0.462173,50.0,17
+2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,christian-klien,Christian Klien,red-bull,12,69,12,0,12,1014.494829,1010.193509,-4.30132,0.3125,0.398526,50.0,17
+2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,vitantonio-liuzzi,Vitantonio Liuzzi,toro-rosso,13,69,22,0,13,983.107199,977.045824,-6.061375,0.25,0.371228,50.0,17
+2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,nico-rosberg,Nico Rosberg,williams,14,68,19,0,14,1019.852385,1009.06578,-10.786605,0.1875,0.403232,50.0,17
+2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,christijan-albers,Christijan Albers,midland,15,68,15,0,15,896.788613,888.067323,-8.72129,0.125,0.299426,50.0,17
+2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,franck-montagny,Franck Montagny,super-aguri,16,67,20,0,16,966.901438,952.159262,-14.742176,0.0625,0.357344,50.0,17
+2006,11,2006-07-16,france,Formula 1 Grand Prix de France 2006,761,tiago-monteiro,Tiago Monteiro,midland,DNF,11,18,1,17,916.837641,901.058267,-15.779374,0.0,0.315587,50.0,17

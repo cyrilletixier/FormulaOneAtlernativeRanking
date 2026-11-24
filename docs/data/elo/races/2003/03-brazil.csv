@@ -1,21 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,giancarlo-fisichella,Giancarlo Fisichella,jordan,1,54,8,0,1,1032.7631,1060.923989,28.160889,1.0,0.436782,50.0,20
-2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,kimi-raikkonen,Kimi Räikkönen,mclaren,2,54,4,0,2,1103.2408,1123.89543,20.65463,0.947368,0.534276,50.0,20
-2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,fernando-alonso,Fernando Alonso,renault,3,54,10,0,3,993.681277,1019.236309,25.555033,0.894737,0.383636,50.0,20
-2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,david-coulthard,David Coulthard,mclaren,4,54,2,0,4,1212.874742,1221.107051,8.232309,0.842105,0.677459,50.0,20
-2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,5,54,PL,0,5,1021.600939,1040.001704,18.400765,0.789474,0.421458,50.0,20
-2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,jacques-villeneuve,Jacques Villeneuve,bar,6,54,13,0,6,1045.888637,1059.985788,14.097151,0.736842,0.454899,50.0,20
-2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,ralf-schumacher,Ralf Schumacher,williams,7,54,6,0,7,1187.834831,1189.719721,1.88489,0.684211,0.646513,50.0,20
-2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,jarno-trulli,Jarno Trulli,renault,8,54,5,0,8,1096.725626,1102.039259,5.313633,0.631579,0.525306,50.0,20
-2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,mark-webber,Mark Webber,jaguar,9,53,3,0,9,942.48945,955.576344,13.086895,0.578947,0.317209,50.0,20
-2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,cristiano-da-matta,Cristiano da Matta,toyota,10,53,18,0,10,990.60232,997.942039,7.339718,0.526316,0.379521,50.0,20
-2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,rubens-barrichello,Rubens Barrichello,ferrari,DNF,46,1,1,11,1243.091974,1231.127633,-11.96434,0.473684,0.712971,50.0,20
-2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,jenson-button,Jenson Button,bar,DNF,32,11,1,12,1085.862857,1081.400424,-4.462433,0.421053,0.510301,50.0,20
-2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,jos-verstappen,Jos Verstappen,minardi,DNF,30,PL,1,13,1014.98103,1012.781208,-2.199822,0.368421,0.412417,50.0,20
-2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,michael-schumacher,Michael Schumacher,ferrari,DNF,26,7,1,14,1444.992684,1416.267608,-28.725076,0.315789,0.890291,50.0,20
-2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,antonio-pizzonia,Antônio Pizzonia,jaguar,DNF,24,PL,1,15,994.987194,987.560037,-7.427157,0.236842,0.385385,50.0,20
-2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,24,9,1,16,1175.1602,1155.483427,-19.676774,0.236842,0.630378,50.0,20
-2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,olivier-panis,Olivier Panis,toyota,DNF,17,15,1,17,999.459097,986.468485,-12.990612,0.131579,0.391391,50.0,20
-2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,ralph-firman,Ralph Firman,jordan,DNF,17,PL,1,18,990.776549,978.3678,-12.408749,0.131579,0.379754,50.0,20
-2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,justin-wilson,Justin Wilson,minardi,DNF,15,20,1,19,984.989231,969.018117,-15.971114,0.052632,0.372054,50.0,20
-2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,nick-heidfeld,Nick Heidfeld,sauber,DNF,8,12,1,20,1105.949445,1079.049609,-26.899837,0.0,0.537997,50.0,20
+2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,giancarlo-fisichella,Giancarlo Fisichella,jordan,1,54,8,0,1,1064.015285,1091.552047,27.536763,1.0,0.449265,50.0,17
+2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,kimi-raikkonen,Kimi Räikkönen,mclaren,2,54,4,0,2,1179.892074,1198.948113,19.056038,0.9375,0.556379,50.0,17
+2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,fernando-alonso,Fernando Alonso,renault,3,54,10,0,3,977.996793,1003.206885,25.210091,0.875,0.370798,50.0,17
+2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,david-coulthard,David Coulthard,mclaren,4,54,2,0,4,1448.118842,1450.13892,2.020078,0.8125,0.772098,50.0,17
+2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,5,54,PL,0,5,1098.437819,1111.876461,13.438642,0.75,0.481227,50.0,17
+2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,jacques-villeneuve,Jacques Villeneuve,bar,6,54,13,0,6,1135.423848,1144.021751,8.597903,0.6875,0.515542,50.0,17
+2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,ralf-schumacher,Ralf Schumacher,williams,7,54,6,0,7,1268.118709,1267.648533,-0.470176,0.625,0.634404,50.0,17
+2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,jarno-trulli,Jarno Trulli,renault,8,54,5,0,8,1114.531426,1117.847541,3.316115,0.5625,0.496178,50.0,17
+2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,mark-webber,Mark Webber,jaguar,9,53,3,0,9,961.247822,968.449511,7.201689,0.5,0.355966,50.0,17
+2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,cristiano-da-matta,Cristiano da Matta,toyota,10,53,18,0,10,984.236175,987.292647,3.056472,0.4375,0.376371,50.0,17
+2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,jenson-button,Jenson Button,bar,DNF,32,11,1,11,1062.766172,1059.110799,-3.655372,0.375,0.448107,50.0,17
+2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,jos-verstappen,Jos Verstappen,minardi,DNF,30,PL,1,12,963.067118,960.813724,-2.253394,0.3125,0.357568,50.0,17
+2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,michael-schumacher,Michael Schumacher,ferrari,DNF,26,7,1,13,1658.071679,1626.231954,-31.839724,0.25,0.886794,50.0,17
+2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,antonio-pizzonia,Antônio Pizzonia,jaguar,DNF,24,PL,1,14,991.754156,980.410846,-11.34331,0.15625,0.383116,50.0,17
+2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,juan-pablo-montoya,Juan Pablo Montoya,williams,DNF,24,9,1,15,1237.962974,1215.359552,-22.603422,0.15625,0.608318,50.0,17
+2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,olivier-panis,Olivier Panis,toyota,DNF,17,15,1,16,1044.46538,1026.030866,-18.434514,0.0625,0.43119,50.0,17
+2003,3,2003-04-06,brazil,Grande Prêmio do Brasil 2003,700,justin-wilson,Justin Wilson,minardi,DNF,15,20,1,17,984.579147,965.745269,-18.833878,0.0,0.376678,50.0,17

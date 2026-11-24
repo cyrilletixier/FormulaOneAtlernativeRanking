@@ -1,21 +1,20 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,juan-pablo-montoya,Juan Pablo Montoya,mclaren,1,60,3,0,1,1165.886632,1186.638104,20.751472,1.0,0.584971,50.0,20
-2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,fernando-alonso,Fernando Alonso,renault,2,60,1,0,2,1242.469735,1255.609845,13.140111,0.947368,0.684566,50.0,20
-2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,kimi-raikkonen,Kimi Räikkönen,mclaren,3,60,12,0,3,1198.011567,1211.350317,13.338751,0.894737,0.627962,50.0,20
-2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,giancarlo-fisichella,Giancarlo Fisichella,renault,4,60,6,0,4,1090.973454,1109.025548,18.052094,0.842105,0.481063,50.0,20
-2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,jenson-button,Jenson Button,bar,5,60,2,0,5,1123.405743,1136.560392,13.15465,0.789474,0.526381,50.0,20
-2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,michael-schumacher,Michael Schumacher,ferrari,6,60,9,0,6,1351.44635,1348.107038,-3.339313,0.736842,0.803628,50.0,20
-2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,rubens-barrichello,Rubens Barrichello,ferrari,7,60,5,0,7,1267.009831,1265.5195,-1.490331,0.684211,0.714017,50.0,20
-2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,ralf-schumacher,Ralf Schumacher,toyota,8,60,8,0,8,1157.512882,1160.414509,2.901628,0.631579,0.573546,50.0,20
-2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,jarno-trulli,Jarno Trulli,toyota,9,60,4,0,9,1170.521006,1169.905436,-0.61557,0.578947,0.591259,50.0,20
-2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,felipe-massa,Felipe Massa,sauber,10,59,16,0,10,1069.445293,1073.208986,3.763693,0.526316,0.451042,50.0,20
-2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,mark-webber,Mark Webber,williams,11,59,11,0,11,1072.108496,1073.05544,0.946944,0.473684,0.454745,50.0,20
-2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,nick-heidfeld,Nick Heidfeld,williams,12,59,14,0,12,1054.346939,1053.892949,-0.453989,0.421053,0.430132,50.0,20
-2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,david-coulthard,David Coulthard,red-bull,13,59,13,0,13,1137.867361,1128.964384,-8.902978,0.368421,0.546481,50.0,20
-2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,jacques-villeneuve,Jacques Villeneuve,sauber,14,59,10,0,14,1047.20593,1041.98012,-5.22581,0.315789,0.420306,50.0,20
-2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,christian-klien,Christian Klien,red-bull,15,59,15,0,15,991.010768,986.909645,-4.101123,0.263158,0.34518,50.0,20
-2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,takuma-sato,Takuma Sato,bar,16,58,7,0,16,1047.96296,1037.422016,-10.540944,0.210526,0.421345,50.0,20
-2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,tiago-monteiro,Tiago Monteiro,jordan,17,58,20,0,17,1028.596188,1016.743745,-11.852443,0.157895,0.394944,50.0,20
-2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,christijan-albers,Christijan Albers,minardi,18,57,18,0,18,981.828683,970.422199,-11.406483,0.105263,0.333393,50.0,20
-2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,patrick-friesacher,Patrick Friesacher,minardi,19,56,19,0,19,947.536117,935.621269,-11.914849,0.052632,0.290929,50.0,20
-2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,narain-karthikeyan,Narain Karthikeyan,jordan,DNF,10,17,1,20,974.504668,958.299159,-16.205509,0.0,0.32411,50.0,20
+2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,juan-pablo-montoya,Juan Pablo Montoya,mclaren,1,60,3,0,1,1297.809813,1316.970194,19.160381,1.0,0.616792,50.0,19
+2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,fernando-alonso,Fernando Alonso,renault,2,60,1,0,2,1354.762637,1368.720758,13.95812,0.944444,0.665282,50.0,19
+2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,kimi-raikkonen,Kimi Räikkönen,mclaren,3,60,12,0,3,1369.627852,1380.197283,10.569431,0.888889,0.6775,50.0,19
+2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,giancarlo-fisichella,Giancarlo Fisichella,renault,4,60,6,0,4,1133.489592,1151.762864,18.273272,0.833333,0.467868,50.0,19
+2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,jenson-button,Jenson Button,bar,5,60,2,0,5,1235.023671,1245.867699,10.844029,0.777778,0.560897,50.0,19
+2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,michael-schumacher,Michael Schumacher,ferrari,6,60,9,0,6,1586.002485,1580.672087,-5.330398,0.722222,0.82883,50.0,19
+2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,rubens-barrichello,Rubens Barrichello,ferrari,7,60,5,0,7,1410.864043,1408.682095,-2.181947,0.666667,0.710306,50.0,19
+2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,ralf-schumacher,Ralf Schumacher,toyota,8,60,8,0,8,1219.746841,1222.951116,3.204274,0.611111,0.547026,50.0,19
+2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,jarno-trulli,Jarno Trulli,toyota,9,60,4,0,9,1252.986964,1251.910106,-1.076858,0.555556,0.577093,50.0,19
+2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,felipe-massa,Felipe Massa,sauber,10,59,16,0,10,1070.551347,1075.025011,4.473664,0.5,0.410527,50.0,19
+2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,mark-webber,Mark Webber,williams,11,59,11,0,11,1050.288539,1052.891607,2.603068,0.444444,0.392383,50.0,19
+2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,nick-heidfeld,Nick Heidfeld,williams,12,59,14,0,12,1047.103234,1047.070166,-0.033068,0.388889,0.38955,50.0,19
+2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,david-coulthard,David Coulthard,red-bull,13,59,13,0,13,1212.164671,1201.825685,-10.338986,0.333333,0.540113,50.0,19
+2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,jacques-villeneuve,Jacques Villeneuve,sauber,14,59,10,0,14,1092.326558,1084.704038,-7.62252,0.277778,0.430228,50.0,19
+2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,christian-klien,Christian Klien,red-bull,15,59,15,0,15,972.656992,967.504677,-5.152314,0.222222,0.325269,50.0,19
+2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,takuma-sato,Takuma Sato,bar,16,58,7,0,16,1050.993966,1039.67674,-11.317227,0.166667,0.393011,50.0,19
+2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,tiago-monteiro,Tiago Monteiro,jordan,17,58,20,0,17,980.992948,969.93574,-11.057208,0.111111,0.332255,50.0,19
+2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,christijan-albers,Christijan Albers,minardi,18,57,18,0,18,979.400466,965.632447,-13.768019,0.055556,0.330916,50.0,19
+2005,11,2005-07-10,great-britain,2005 Formula 1 Foster's British Grand Prix,742,patrick-friesacher,Patrick Friesacher,minardi,19,56,19,0,19,946.997977,931.790283,-15.207694,0.0,0.304154,50.0,19

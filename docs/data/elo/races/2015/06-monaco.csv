@@ -1,21 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,nico-rosberg,Nico Rosberg,mercedes,1,78,2,0,1,1389.968727,1400.657365,10.688638,1.0,0.786227,50.0,20
-2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,sebastian-vettel,Sebastian Vettel,ferrari,2,78,3,0,2,1394.369167,1402.223433,7.854266,0.947368,0.790283,50.0,20
-2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,lewis-hamilton,Lewis Hamilton,mercedes,3,78,1,0,3,1437.617514,1440.964332,3.346819,0.894737,0.8278,50.0,20
-2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,daniil-kvyat,Daniil Kvyat,red-bull,4,78,5,0,4,1018.156093,1042.929431,24.773339,0.842105,0.346638,50.0,20
-2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,daniel-ricciardo,Daniel Ricciardo,red-bull,5,78,4,0,5,1253.499213,1260.933273,7.43406,0.789474,0.640792,50.0,20
-2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,kimi-raikkonen,Kimi Räikkönen,ferrari,6,78,6,0,6,1255.431105,1260.119166,4.688061,0.736842,0.643081,50.0,20
-2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,sergio-perez,Sergio Pérez,force-india,7,78,7,0,7,1125.625716,1135.775272,10.149556,0.684211,0.481219,50.0,20
-2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,jenson-button,Jenson Button,mclaren,8,78,10,0,8,1159.323106,1164.689421,5.366315,0.631579,0.524253,50.0,20
-2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,felipe-nasr,Felipe Nasr,sauber,9,78,14,0,9,1044.874535,1054.862174,9.987639,0.578947,0.379195,50.0,20
-2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,10,78,PL,0,10,1024.383163,1032.991647,8.608484,0.526316,0.354146,50.0,20
-2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,nico-hulkenberg,Nico Hülkenberg,force-india,11,78,11,0,11,1127.852146,1127.333019,-0.519126,0.473684,0.484067,50.0,20
-2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,romain-grosjean,Romain Grosjean,lotus-f1,12,78,15,0,12,1074.208032,1074.470547,0.262515,0.421053,0.415802,50.0,20
-2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,marcus-ericsson,Marcus Ericsson,sauber,13,78,17,0,13,945.816996,951.037029,5.220033,0.368421,0.26402,50.0,20
-2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,valtteri-bottas,Valtteri Bottas,williams,14,78,16,0,14,1246.856162,1231.00145,-15.854712,0.315789,0.632884,50.0,20
-2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,felipe-massa,Felipe Massa,williams,15,77,12,0,15,1260.910838,1241.591603,-19.319235,0.263158,0.649543,50.0,20
-2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,roberto-merhi,Roberto Merhi,marussia,16,76,19,0,16,967.823967,963.942666,-3.881301,0.210526,0.288152,50.0,20
-2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,will-stevens,Will Stevens,marussia,17,76,18,0,17,958.453484,952.460273,-5.99321,0.157895,0.277759,50.0,20
-2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,max-verstappen,Max Verstappen,toro-rosso,DNF,62,9,1,18,1006.245307,994.886966,-11.358341,0.105263,0.33243,50.0,20
-2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,fernando-alonso,Fernando Alonso,mclaren,DNF,41,13,1,19,1229.610359,1201.637891,-27.972469,0.052632,0.612081,50.0,20
-2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,pastor-maldonado,Pastor Maldonado,lotus-f1,DNF,5,8,1,20,951.00974,937.528412,-13.481328,0.0,0.269627,50.0,20
+2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,nico-rosberg,Nico Rosberg,mercedes,1,78,2,0,1,1551.935993,1563.196152,11.260159,1.0,0.774797,50.0,18
+2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,sebastian-vettel,Sebastian Vettel,ferrari,2,78,3,0,2,1656.533965,1661.797303,5.263337,0.941176,0.83591,50.0,18
+2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,lewis-hamilton,Lewis Hamilton,mercedes,3,78,1,0,3,1624.251311,1627.457315,3.206004,0.882353,0.818233,50.0,18
+2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,daniil-kvyat,Daniil Kvyat,red-bull,4,78,5,0,4,1036.273997,1059.372963,23.098966,0.823529,0.36155,50.0,18
+2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,daniel-ricciardo,Daniel Ricciardo,red-bull,5,78,4,0,5,1307.306973,1315.902261,8.595288,0.764706,0.5928,50.0,18
+2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,kimi-raikkonen,Kimi Räikkönen,ferrari,6,78,6,0,6,1362.008658,1365.431037,3.422378,0.705882,0.637435,50.0,18
+2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,sergio-perez,Sergio Pérez,force-india,7,78,7,0,7,1126.155512,1136.62723,10.471718,0.647059,0.437624,50.0,18
+2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,jenson-button,Jenson Button,mclaren,8,78,10,0,8,1275.942067,1277.02867,1.086603,0.588235,0.566503,50.0,18
+2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,felipe-nasr,Felipe Nasr,sauber,9,78,14,0,9,1031.870858,1040.445617,8.574759,0.529412,0.357917,50.0,18
+2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,carlos-sainz-jr,Carlos Sainz Jr.,toro-rosso,10,78,PL,0,10,1024.947155,1030.865273,5.918118,0.470588,0.352226,50.0,18
+2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,nico-hulkenberg,Nico Hülkenberg,force-india,11,78,11,0,11,1182.080517,1178.370861,-3.709656,0.411765,0.485958,50.0,18
+2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,romain-grosjean,Romain Grosjean,lotus-f1,12,78,15,0,12,1127.40695,1123.118912,-4.288038,0.352941,0.438702,50.0,18
+2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,marcus-ericsson,Marcus Ericsson,sauber,13,78,17,0,13,897.525738,899.539363,2.013625,0.294118,0.253845,50.0,18
+2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,valtteri-bottas,Valtteri Bottas,williams,14,78,16,0,14,1269.599991,1253.307918,-16.292073,0.235294,0.561136,50.0,18
+2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,felipe-massa,Felipe Massa,williams,15,77,12,0,15,1336.134149,1314.130679,-22.00347,0.176471,0.61654,50.0,18
+2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,roberto-merhi,Roberto Merhi,marussia,16,76,19,0,16,947.146547,938.501453,-8.645094,0.117647,0.290549,50.0,18
+2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,will-stevens,Will Stevens,marussia,17,76,18,0,17,938.121596,926.877521,-11.244075,0.058824,0.283705,50.0,18
+2015,6,2015-05-24,monaco,Formula 1 Grand Prix de Monaco 2015,922,max-verstappen,Max Verstappen,toro-rosso,DNF,62,9,1,18,1003.23142,986.502871,-16.728549,0.0,0.334571,50.0,18

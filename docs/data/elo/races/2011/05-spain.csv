@@ -1,25 +1,23 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,sebastian-vettel,Sebastian Vettel,red-bull,1,66,2,0,1,1339.351154,1350.043516,10.692362,1.0,0.786153,50.0,24
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,lewis-hamilton,Lewis Hamilton,mclaren,2,66,3,0,2,1292.862395,1303.680585,10.81819,0.956522,0.740158,50.0,24
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,jenson-button,Jenson Button,mclaren,3,66,5,0,3,1299.669241,1307.96155,8.292309,0.913043,0.747197,50.0,24
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,mark-webber,Mark Webber,red-bull,4,66,1,0,4,1299.326579,1305.462572,6.135993,0.869565,0.746845,50.0,24
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,fernando-alonso,Fernando Alonso,ferrari,5,65,4,0,5,1307.420262,1310.970189,3.549928,0.826087,0.755088,50.0,24
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,michael-schumacher,Michael Schumacher,mercedes,6,65,10,0,6,1191.805168,1199.687863,7.882695,0.782609,0.624955,50.0,24
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,nico-rosberg,Nico Rosberg,mercedes,7,65,7,0,7,1191.980973,1197.67899,5.698017,0.73913,0.62517,50.0,24
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,nick-heidfeld,Nick Heidfeld,renault,8,65,24,0,8,1152.889271,1158.853336,5.964066,0.695652,0.576371,50.0,24
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,sergio-perez,Sergio Pérez,sauber,9,65,12,0,9,974.863001,990.058362,15.195361,0.652174,0.348267,50.0,24
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,kamui-kobayashi,Kamui Kobayashi,sauber,10,65,14,0,10,1061.650965,1069.16822,7.517255,0.608696,0.458351,50.0,24
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,vitaly-petrov,Vitaly Petrov,renault,11,65,6,0,11,1085.656169,1089.437559,3.78139,0.565217,0.48959,50.0,24
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,paul-di-resta,Paul di Resta,force-india,12,65,16,0,12,1011.003556,1017.428171,6.424615,0.521739,0.393247,50.0,24
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,adrian-sutil,Adrian Sutil,force-india,13,65,17,0,13,1057.402705,1058.67402,1.271315,0.478261,0.452835,50.0,24
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,sebastien-buemi,Sébastien Buemi,toro-rosso,14,65,11,0,14,1045.409855,1045.283902,-0.125952,0.434783,0.437302,50.0,24
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,pastor-maldonado,Pastor Maldonado,williams,15,65,9,0,15,963.501022,966.34137,2.840349,0.391304,0.334497,50.0,24
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,jaime-alguersuari,Jaime Alguersuari,toro-rosso,16,64,13,0,16,1019.761497,1016.934323,-2.827174,0.347826,0.40437,50.0,24
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,rubens-barrichello,Rubens Barrichello,williams,17,64,19,0,17,1110.127799,1099.274552,-10.853247,0.304348,0.521413,50.0,24
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,jarno-trulli,Jarno Trulli,lotus-racing,18,64,18,0,18,923.406931,922.065875,-1.341056,0.26087,0.287691,50.0,24
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,timo-glock,Timo Glock,virgin,19,63,20,0,19,931.702467,927.715714,-3.986753,0.217391,0.297126,50.0,24
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,jerome-dambrosio,Jérôme d'Ambrosio,virgin,20,62,23,0,20,974.240467,965.560763,-8.679704,0.173913,0.347507,50.0,24
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,narain-karthikeyan,Narain Karthikeyan,hrt,21,61,22,0,21,908.850043,901.797939,-7.052104,0.130435,0.271477,50.0,24
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,felipe-massa,Felipe Massa,ferrari,DNF,58,8,1,22,1235.677943,1206.164147,-29.513796,0.086957,0.677232,50.0,24
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,heikki-kovalainen,Heikki Kovalainen,lotus-racing,DNF,48,15,1,23,980.710286,965.112768,-15.597518,0.043478,0.355429,50.0,24
-2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,vitantonio-liuzzi,Vitantonio Liuzzi,hrt,DNF,28,21,1,24,952.809105,936.722566,-16.086539,0.0,0.321731,50.0,24
+2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,sebastian-vettel,Sebastian Vettel,red-bull,1,66,2,0,1,1461.328599,1472.995141,11.666542,1.0,0.766669,50.0,22
+2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,lewis-hamilton,Lewis Hamilton,mclaren,2,66,3,0,2,1411.287214,1422.321168,11.033953,0.952381,0.731702,50.0,22
+2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,jenson-button,Jenson Button,mclaren,3,66,5,0,3,1402.314241,1411.29442,8.98018,0.904762,0.725158,50.0,22
+2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,mark-webber,Mark Webber,red-bull,4,66,1,0,4,1393.588079,1400.509325,6.921246,0.857143,0.718718,50.0,22
+2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,fernando-alonso,Fernando Alonso,ferrari,5,65,4,0,5,1431.797027,1434.955662,3.158635,0.809524,0.746351,50.0,22
+2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,michael-schumacher,Michael Schumacher,mercedes,6,65,10,0,6,1329.146796,1333.794546,4.64775,0.761905,0.66895,50.0,22
+2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,nico-rosberg,Nico Rosberg,mercedes,7,65,7,0,7,1255.766021,1261.070922,5.304901,0.714286,0.608188,50.0,22
+2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,nick-heidfeld,Nick Heidfeld,renault,8,65,24,0,8,1213.344238,1218.100553,4.756315,0.666667,0.57154,50.0,22
+2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,sergio-perez,Sergio Pérez,sauber,9,65,12,0,9,981.652503,994.264355,12.611852,0.619048,0.366811,50.0,22
+2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,kamui-kobayashi,Kamui Kobayashi,sauber,10,65,14,0,10,1080.266229,1086.17917,5.912941,0.571429,0.45317,50.0,22
+2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,vitaly-petrov,Vitaly Petrov,renault,11,65,6,0,11,1066.598533,1070.739008,4.140475,0.52381,0.441,50.0,22
+2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,paul-di-resta,Paul di Resta,force-india,12,65,16,0,12,1020.226138,1024.030236,3.804098,0.47619,0.400109,50.0,22
+2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,adrian-sutil,Adrian Sutil,force-india,13,65,17,0,13,1003.430661,1005.583593,2.152932,0.428571,0.385513,50.0,22
+2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,sebastien-buemi,Sébastien Buemi,toro-rosso,14,65,11,0,14,1004.801646,1004.514319,-0.287328,0.380952,0.386699,50.0,22
+2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,pastor-maldonado,Pastor Maldonado,williams,15,65,9,0,15,987.525324,985.600649,-1.924674,0.333333,0.371827,50.0,22
+2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,jaime-alguersuari,Jaime Alguersuari,toro-rosso,16,64,13,0,16,1019.887529,1014.182597,-5.704932,0.285714,0.399813,50.0,22
+2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,rubens-barrichello,Rubens Barrichello,williams,17,64,19,0,17,1183.782109,1168.410095,-15.372014,0.238095,0.545536,50.0,22
+2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,jarno-trulli,Jarno Trulli,lotus-racing,18,64,18,0,18,971.764402,963.367541,-8.396862,0.190476,0.358413,50.0,22
+2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,timo-glock,Timo Glock,virgin,19,63,20,0,19,935.270504,926.012749,-9.257756,0.142857,0.328012,50.0,22
+2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,jerome-dambrosio,Jérôme d'Ambrosio,virgin,20,62,23,0,20,972.946574,959.737778,-13.208797,0.095238,0.359414,50.0,22
+2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,narain-karthikeyan,Narain Karthikeyan,hrt,21,61,22,0,21,903.295128,890.563604,-12.731524,0.047619,0.30225,50.0,22
+2011,5,2011-05-22,spain,Formula 1 Gran Premio de España Santander 2011,844,heikki-kovalainen,Heikki Kovalainen,lotus-racing,DNF,48,15,1,22,978.537675,960.329741,-18.207934,0.0,0.364159,50.0,22

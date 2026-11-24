@@ -1,23 +1,18 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,michael-schumacher,Michael Schumacher,ferrari,1,65,1,0,1,1391.250992,1397.975726,6.724734,1.0,0.865505,50.0,22
-2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,juan-pablo-montoya,Juan Pablo Montoya,williams,2,65,4,0,2,1131.311636,1149.43452,18.122883,0.952381,0.589923,50.0,22
-2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,david-coulthard,David Coulthard,mclaren,3,65,7,0,3,1235.620708,1244.815546,9.194837,0.904762,0.720865,50.0,22
-2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,nick-heidfeld,Nick Heidfeld,sauber,4,65,8,0,4,1044.719915,1064.088761,19.368847,0.857143,0.469766,50.0,22
-2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,felipe-massa,Felipe Massa,sauber,5,65,11,0,5,1016.880001,1035.81053,18.930528,0.809524,0.430913,50.0,22
-2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,heinz-harald-frentzen,Heinz-Harald Frentzen,arrows,6,65,10,0,6,1014.969047,1031.651101,16.682054,0.761905,0.428264,50.0,22
-2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,jacques-villeneuve,Jacques Villeneuve,bar,7,64,15,0,7,1131.54143,1137.744033,6.202603,0.714286,0.590234,50.0,22
-2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,allan-mcnish,Allan McNish,toyota,8,64,19,0,8,981.648575,995.849119,14.200544,0.666667,0.382656,50.0,22
-2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,mika-salo,Mika Salo,toyota,9,64,17,0,9,1092.926516,1097.017248,4.090731,0.619048,0.537233,50.0,22
-2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,jarno-trulli,Jarno Trulli,renault,10,63,9,0,10,1014.35991,1021.560353,7.200443,0.571429,0.42742,50.0,22
-2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,ralf-schumacher,Ralf Schumacher,williams,11,63,3,0,11,1193.085542,1185.765471,-7.320072,0.52381,0.670211,50.0,22
-2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,jenson-button,Jenson Button,renault,12,60,6,0,12,1079.523184,1077.405485,-2.117699,0.47619,0.518544,50.0,22
-2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,olivier-panis,Olivier Panis,bar,DNF,43,13,1,13,997.859307,999.053457,1.194149,0.428571,0.404688,50.0,22
-2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,eddie-irvine,Eddie Irvine,jaguar,DNF,41,20,1,14,1044.050019,1039.656278,-4.393741,0.380952,0.468827,50.0,22
-2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,enrique-bernoldi,Enrique Bernoldi,arrows,DNF,40,14,1,15,931.548244,932.353457,0.805213,0.333333,0.317229,50.0,22
-2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,takuma-sato,Takuma Sato,jordan,DNF,10,18,1,16,1008.185239,1001.52682,-6.65842,0.285714,0.418883,50.0,22
-2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,giancarlo-fisichella,Giancarlo Fisichella,jordan,DNF,5,12,1,17,1007.787222,998.775305,-9.011917,0.238095,0.418334,50.0,22
-2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,4,5,1,18,1027.814494,1015.032079,-12.782415,0.190476,0.446124,50.0,22
-2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,pedro-de-la-rosa,Pedro de la Rosa,jaguar,DNF,2,16,1,19,1006.987584,993.2689,-13.718684,0.142857,0.417231,50.0,22
-2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,alex-yoong,Alex Yoong,minardi,DNS,,,2,20,971.184149,955.133764,-16.050385,0.047619,0.368627,50.0,22
-2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,mark-webber,Mark Webber,minardi,DNS,,,2,21,1024.324702,1004.642594,-19.682108,0.047619,0.441261,50.0,22
-2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,rubens-barrichello,Rubens Barrichello,ferrari,DNS,,2,2,22,1190.712054,1159.729927,-30.982127,0.047619,0.667262,50.0,22
+2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,michael-schumacher,Michael Schumacher,ferrari,1,65,1,0,1,1608.083664,1614.977966,6.894302,1.0,0.862114,50.0,17
+2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,juan-pablo-montoya,Juan Pablo Montoya,williams,2,65,4,0,2,1154.162744,1174.47088,20.308137,0.9375,0.531337,50.0,17
+2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,david-coulthard,David Coulthard,mclaren,3,65,7,0,3,1481.221706,1485.425758,4.204052,0.875,0.790919,50.0,17
+2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,nick-heidfeld,Nick Heidfeld,sauber,4,65,8,0,4,1001.303223,1022.333196,21.029973,0.8125,0.391901,50.0,17
+2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,felipe-massa,Felipe Massa,sauber,5,65,11,0,5,988.433668,1006.912164,18.478496,0.75,0.38043,50.0,17
+2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,heinz-harald-frentzen,Heinz-Harald Frentzen,arrows,6,65,10,0,6,1140.978151,1149.386988,8.408837,0.6875,0.519323,50.0,17
+2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,jacques-villeneuve,Jacques Villeneuve,bar,7,64,15,0,7,1164.112573,1168.344066,4.231493,0.625,0.54037,50.0,17
+2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,allan-mcnish,Allan McNish,toyota,8,64,19,0,8,979.715986,989.205379,9.489394,0.5625,0.372712,50.0,17
+2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,mika-salo,Mika Salo,toyota,9,64,17,0,9,1091.261861,1092.57411,1.312249,0.5,0.473755,50.0,17
+2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,jarno-trulli,Jarno Trulli,renault,10,63,9,0,10,1023.227727,1024.521497,1.29377,0.4375,0.411625,50.0,17
+2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,ralf-schumacher,Ralf Schumacher,williams,11,63,3,0,11,1285.206649,1271.642647,-13.564002,0.375,0.64628,50.0,17
+2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,jenson-button,Jenson Button,renault,12,60,6,0,12,1058.958403,1052.376467,-6.581936,0.3125,0.444139,50.0,17
+2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,takuma-sato,Takuma Sato,jordan,DNF,10,18,1,13,998.392798,991.427851,-6.964948,0.25,0.389299,50.0,17
+2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,pedro-de-la-rosa,Pedro de la Rosa,jaguar,DNF,2,16,1,14,918.341687,911.724335,-6.617352,0.1875,0.319847,50.0,17
+2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,alex-yoong,Alex Yoong,minardi,DNS,,,2,15,958.615447,944.029097,-14.58635,0.0625,0.354227,50.0,17
+2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,mark-webber,Mark Webber,minardi,DNS,,,2,16,998.285175,981.950033,-16.335142,0.0625,0.389203,50.0,17
+2002,5,2002-04-28,spain,Gran Premio Marlboro de España 2002,685,rubens-barrichello,Rubens Barrichello,ferrari,DNS,,2,2,17,1329.727029,1298.726058,-31.000971,0.0625,0.682519,50.0,17

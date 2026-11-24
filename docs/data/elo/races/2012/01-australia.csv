@@ -1,25 +1,22 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,jenson-button,Jenson Button,mclaren,1,58,2,0,1,1350.431008,1361.207577,10.776569,1.0,0.784469,50.0,24
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,sebastian-vettel,Sebastian Vettel,red-bull,2,58,6,0,2,1399.435481,1405.965501,6.53002,0.956522,0.825921,50.0,24
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,lewis-hamilton,Lewis Hamilton,mclaren,3,58,1,0,3,1278.043815,1287.987452,9.943637,0.913043,0.714171,50.0,24
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,mark-webber,Mark Webber,red-bull,4,58,5,0,4,1358.107119,1362.020387,3.913268,0.869565,0.7913,50.0,24
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,fernando-alonso,Fernando Alonso,ferrari,5,58,12,0,5,1371.0294,1372.207832,1.178432,0.826087,0.802518,50.0,24
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,kamui-kobayashi,Kamui Kobayashi,sauber,6,58,13,0,6,1061.764438,1077.973389,16.208951,0.782609,0.45843,50.0,24
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,kimi-raikkonen,Kimi Räikkönen,lotus-f1,7,58,17,0,7,1227.846812,1231.816643,3.969831,0.73913,0.659734,50.0,24
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,sergio-perez,Sergio Pérez,sauber,8,58,22,0,8,1037.531618,1050.905895,13.374277,0.695652,0.428167,50.0,24
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,daniel-ricciardo,Daniel Ricciardo,toro-rosso,9,58,10,0,9,924.176446,942.126909,17.950463,0.652174,0.293165,50.0,24
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,paul-di-resta,Paul di Resta,force-india,10,58,15,0,10,1098.698643,1103.89968,5.201037,0.608696,0.504675,50.0,24
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,11,58,11,0,11,1000.0,1009.165705,9.165705,0.565217,0.381903,50.0,24
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,nico-rosberg,Nico Rosberg,mercedes,12,58,7,0,12,1213.897123,1207.789566,-6.107557,0.521739,0.64389,50.0,24
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,pastor-maldonado,Pastor Maldonado,williams,13,57,8,0,13,959.41688,966.660079,7.243199,0.478261,0.333397,50.0,24
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,timo-glock,Timo Glock,marussia,14,57,20,0,14,875.169144,884.856693,9.687549,0.434783,0.241032,50.0,24
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,charles-pic,Charles Pic,marussia,15,53,21,0,15,1000.0,1000.470053,0.470053,0.391304,0.381903,50.0,24
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,bruno-senna,Bruno Senna,williams,16,52,14,0,16,955.437386,956.390929,0.953543,0.347826,0.328755,50.0,24
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,felipe-massa,Felipe Massa,ferrari,DNF,46,16,1,17,1230.421677,1212.507745,-17.913932,0.304348,0.662626,50.0,24
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,heikki-kovalainen,Heikki Kovalainen,caterham,DNF,38,18,1,18,950.686838,947.568064,-3.118774,0.26087,0.323245,50.0,24
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,vitaly-petrov,Vitaly Petrov,caterham,DNF,34,19,1,19,1069.694438,1057.145903,-12.548535,0.217391,0.468362,50.0,24
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,michael-schumacher,Michael Schumacher,mercedes,DNF,10,4,1,20,1142.067427,1122.8417,-19.225726,0.173913,0.558428,50.0,24
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,romain-grosjean,Romain Grosjean,lotus-f1,DNF,1,3,1,21,946.003492,936.632893,-9.370598,0.130435,0.317847,50.0,24
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,nico-hulkenberg,Nico Hülkenberg,force-india,DNF,0,9,1,22,1042.67077,1025.290203,-17.380567,0.086957,0.434568,50.0,24
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,narain-karthikeyan,Narain Karthikeyan,hrt,DNQ,,,2,23,894.240559,882.290732,-11.949827,0.021739,0.260736,50.0,24
-2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,pedro-de-la-rosa,Pedro de la Rosa,hrt,DNQ,,,2,24,1015.397194,996.446176,-18.951018,0.021739,0.400759,50.0,24
+2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,jenson-button,Jenson Button,mclaren,1,58,2,0,1,1511.744977,1522.989257,11.244279,1.0,0.775114,50.0,21
+2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,sebastian-vettel,Sebastian Vettel,red-bull,2,58,6,0,2,1581.464028,1588.150526,6.686498,0.95,0.81627,50.0,21
+2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,lewis-hamilton,Lewis Hamilton,mclaren,3,58,1,0,3,1430.37068,1439.295536,8.924856,0.9,0.721503,50.0,21
+2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,mark-webber,Mark Webber,red-bull,4,58,5,0,4,1469.52644,1474.625693,5.099253,0.85,0.748015,50.0,21
+2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,fernando-alonso,Fernando Alonso,ferrari,5,58,12,0,5,1500.511582,1502.108603,1.597021,0.8,0.76806,50.0,21
+2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,kamui-kobayashi,Kamui Kobayashi,sauber,6,58,13,0,6,1091.282363,1106.105641,14.823278,0.75,0.453534,50.0,21
+2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,kimi-raikkonen,Kimi Räikkönen,lotus-f1,7,58,17,0,7,1388.628803,1389.034855,0.406052,0.7,0.691879,50.0,21
+2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,sergio-perez,Sergio Pérez,sauber,8,58,22,0,8,1031.084116,1043.412545,12.328429,0.65,0.403431,50.0,21
+2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,daniel-ricciardo,Daniel Ricciardo,toro-rosso,9,58,10,0,9,899.50985,914.566026,15.056176,0.6,0.298876,50.0,21
+2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,paul-di-resta,Paul di Resta,force-india,10,58,15,0,10,1088.202796,1093.154929,4.952133,0.55,0.450957,50.0,21
+2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,jean-eric-vergne,Jean-Éric Vergne,toro-rosso,11,58,11,0,11,1000.0,1006.102932,6.102932,0.5,0.377941,50.0,21
+2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,nico-rosberg,Nico Rosberg,mercedes,12,58,7,0,12,1276.375704,1268.562983,-7.812721,0.45,0.606254,50.0,21
+2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,pastor-maldonado,Pastor Maldonado,williams,13,57,8,0,13,962.729149,965.332922,2.603773,0.4,0.347925,50.0,21
+2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,timo-glock,Timo Glock,marussia,14,57,20,0,14,846.018572,850.531499,4.512927,0.35,0.259741,50.0,21
+2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,charles-pic,Charles Pic,marussia,15,53,21,0,15,1000.0,996.102932,-3.897068,0.3,0.377941,50.0,21
+2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,bruno-senna,Bruno Senna,williams,16,52,14,0,16,932.218136,928.522121,-3.696014,0.25,0.32392,50.0,21
+2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,felipe-massa,Felipe Massa,ferrari,DNF,46,16,1,17,1363.398772,1339.731641,-23.66713,0.2,0.673343,50.0,21
+2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,romain-grosjean,Romain Grosjean,lotus-f1,DNF,1,3,1,18,936.626564,927.758932,-8.867632,0.15,0.327353,50.0,21
+2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,nico-hulkenberg,Nico Hülkenberg,force-india,DNF,0,9,1,19,1025.97583,1011.01487,-14.96096,0.1,0.399219,50.0,21
+2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,narain-karthikeyan,Narain Karthikeyan,hrt,DNQ,,,2,20,868.115984,855.585365,-12.530619,0.025,0.275612,50.0,21
+2012,1,2012-03-18,australia,2012 Formula 1 Qantas Australian Grand Prix,859,pedro-de-la-rosa,Pedro de la Rosa,hrt,DNQ,,,2,21,1030.693755,1011.788293,-18.905462,0.025,0.403109,50.0,21

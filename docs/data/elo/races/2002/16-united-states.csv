@@ -1,21 +1,17 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,rubens-barrichello,Rubens Barrichello,ferrari,1,73,2,0,1,1242.367836,1256.628785,14.260949,1.0,0.714781,50.0,20
-2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,michael-schumacher,Michael Schumacher,ferrari,2,73,1,0,2,1447.365477,1450.12877,2.763293,0.947368,0.892103,50.0,20
-2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,david-coulthard,David Coulthard,mclaren,3,73,3,0,3,1250.743225,1259.274085,8.530859,0.894737,0.72412,50.0,20
-2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,juan-pablo-montoya,Juan Pablo Montoya,williams,4,73,4,0,4,1146.282445,1158.545422,12.262977,0.842105,0.596846,50.0,20
-2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,jarno-trulli,Jarno Trulli,renault,5,73,8,0,5,1061.141388,1076.543135,15.401747,0.789474,0.481439,50.0,20
-2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,jacques-villeneuve,Jacques Villeneuve,bar,6,73,7,0,6,1064.9194,1077.429523,12.510122,0.736842,0.48664,50.0,20
-2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,giancarlo-fisichella,Giancarlo Fisichella,jordan,7,72,9,0,7,1050.488915,1061.36056,10.871644,0.684211,0.466778,50.0,20
-2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,jenson-button,Jenson Button,renault,8,72,14,0,8,1054.194077,1062.17924,7.985163,0.631579,0.471876,50.0,20
-2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,nick-heidfeld,Nick Heidfeld,sauber,9,72,10,0,9,1106.518884,1108.28471,1.765827,0.578947,0.543631,50.0,20
-2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,eddie-irvine,Eddie Irvine,jaguar,10,72,13,0,10,1033.107236,1037.277373,4.170138,0.526316,0.442913,50.0,20
-2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,takuma-sato,Takuma Sato,jordan,11,72,15,0,11,1000.77691,1004.510628,3.733719,0.473684,0.39901,50.0,20
-2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,olivier-panis,Olivier Panis,bar,12,72,12,0,12,1032.01397,1030.995791,-1.018179,0.421053,0.441416,50.0,20
-2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,13,71,11,0,13,996.998952,995.722878,-1.276074,0.368421,0.393943,50.0,20
-2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,mika-salo,Mika Salo,toyota,14,71,19,0,14,1051.248014,1043.646392,-7.601622,0.315789,0.467822,50.0,20
-2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,allan-mcnish,Allan McNish,toyota,15,71,16,0,15,955.719188,951.884996,-3.834193,0.263158,0.339842,50.0,20
-2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,ralf-schumacher,Ralf Schumacher,williams,16,71,5,0,16,1209.319005,1186.028592,-23.290413,0.210526,0.676335,50.0,20
-2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,kimi-raikkonen,Kimi Räikkönen,mclaren,DNF,50,6,1,17,1049.829221,1034.430447,-15.398774,0.157895,0.46587,50.0,20
-2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,alex-yoong,Alex Yoong,minardi,DNF,46,20,1,18,923.175769,913.473681,-9.702088,0.105263,0.299305,50.0,20
-2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,mark-webber,Mark Webber,minardi,DNF,38,18,1,19,961.950088,947.189846,-14.760243,0.052632,0.347836,50.0,20
-2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,pedro-de-la-rosa,Pedro de la Rosa,jaguar,DNF,27,17,1,20,961.68664,944.311789,-17.374852,0.0,0.347497,50.0,20
+2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,rubens-barrichello,Rubens Barrichello,ferrari,1,73,2,0,1,1364.264339,1380.164011,15.899672,1.0,0.682007,50.0,16
+2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,michael-schumacher,Michael Schumacher,ferrari,2,73,1,0,2,1666.273221,1669.205361,2.932139,0.933333,0.874691,50.0,16
+2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,david-coulthard,David Coulthard,mclaren,3,73,3,0,3,1428.374655,1435.138316,6.763661,0.866667,0.731393,50.0,16
+2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,juan-pablo-montoya,Juan Pablo Montoya,williams,4,73,4,0,4,1220.415806,1232.503139,12.087333,0.8,0.558253,50.0,16
+2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,jarno-trulli,Jarno Trulli,renault,5,73,8,0,5,1072.551895,1088.100775,15.54888,0.733333,0.422356,50.0,16
+2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,jacques-villeneuve,Jacques Villeneuve,bar,6,73,7,0,6,1155.939145,1164.312996,8.37385,0.666667,0.49919,50.0,16
+2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,giancarlo-fisichella,Giancarlo Fisichella,jordan,7,72,9,0,7,1062.837831,1072.162944,9.325113,0.6,0.413498,50.0,16
+2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,jenson-button,Jenson Button,renault,8,72,14,0,8,1040.714342,1047.707632,6.99329,0.533333,0.393468,50.0,16
+2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,nick-heidfeld,Nick Heidfeld,sauber,9,72,10,0,9,1046.226257,1049.637731,3.411474,0.466667,0.398437,50.0,16
+2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,eddie-irvine,Eddie Irvine,jaguar,10,72,13,0,10,1151.848264,1147.07763,-4.770634,0.4,0.495413,50.0,16
+2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,takuma-sato,Takuma Sato,jordan,11,72,15,0,11,941.464989,942.763685,1.298696,0.333333,0.307359,50.0,16
+2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,olivier-panis,Olivier Panis,bar,12,72,12,0,12,1051.282477,1044.46538,-6.817097,0.266667,0.403009,50.0,16
+2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,heinz-harald-frentzen,Heinz-Harald Frentzen,sauber,13,71,11,0,13,1102.078897,1089.606162,-12.472735,0.2,0.449455,50.0,16
+2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,mika-salo,Mika Salo,toyota,14,71,19,0,14,1067.387767,1053.172311,-14.215456,0.133333,0.417642,50.0,16
+2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,allan-mcnish,Allan McNish,toyota,15,71,16,0,15,946.168132,933.938366,-12.229767,0.066667,0.311262,50.0,16
+2002,16,2002-09-29,united-states,2002 SAP United States Grand Prix,696,ralf-schumacher,Ralf Schumacher,williams,16,71,5,0,16,1316.413352,1284.284933,-32.128419,0.0,0.642568,50.0,16

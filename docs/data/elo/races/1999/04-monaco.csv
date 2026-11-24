@@ -1,23 +1,13 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,michael-schumacher,Michael Schumacher,ferrari,1,78,2,0,1,1311.126037,1321.769572,10.643535,1.0,0.787129,50.0,22
-1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,eddie-irvine,Eddie Irvine,ferrari,2,78,4,0,2,1212.50289,1226.319011,13.816121,0.952381,0.676059,50.0,22
-1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,mika-hakkinen,Mika Häkkinen,mclaren,3,78,1,0,3,1211.861494,1223.336682,11.475188,0.904762,0.675258,50.0,22
-1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,4,78,6,0,4,1178.298043,1189.544295,11.246252,0.857143,0.632218,50.0,22
-1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,giancarlo-fisichella,Giancarlo Fisichella,benetton,5,77,9,0,5,1165.990898,1175.670881,9.679982,0.809524,0.615924,50.0,22
-1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,alexander-wurz,Alexander Wurz,benetton,6,77,10,0,6,1082.502303,1095.55682,13.054517,0.761905,0.500814,50.0,22
-1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,jarno-trulli,Jarno Trulli,prost,7,77,7,0,7,974.115651,992.222369,18.106718,0.714286,0.352151,50.0,22
-1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,alex-zanardi,Alex Zanardi,williams,8,76,11,0,8,991.543448,1006.118823,14.575375,0.666667,0.375159,50.0,22
-1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,rubens-barrichello,Rubens Barrichello,stewart,9,71,5,0,9,1022.518972,1032.613331,10.094359,0.619048,0.41716,50.0,22
-1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,ralf-schumacher,Ralf Schumacher,williams,DNF,54,16,1,10,1080.93408,1084.574835,3.640756,0.571429,0.498613,50.0,22
-1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,jean-alesi,Jean Alesi,sauber,DNF,50,14,1,11,1144.981486,1141.792565,-3.188921,0.52381,0.587588,50.0,22
-1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,pedro-diniz,Pedro Diniz,sauber,DNF,49,15,1,12,954.695183,962.14634,7.451157,0.47619,0.327167,50.0,22
-1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,olivier-panis,Olivier Panis,prost,DNF,40,18,1,13,1043.942246,1043.029948,-0.912298,0.428571,0.446817,50.0,22
-1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,david-coulthard,David Coulthard,mclaren,DNF,36,3,1,14,1177.496871,1162.6053,-14.891571,0.333333,0.631165,50.0,22
-1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,mika-salo,Mika Salo,bar,DNF,36,12,1,15,966.548359,966.098588,-0.449771,0.333333,0.342329,50.0,22
-1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,toranosuke-takagi,Toranosuke Takagi,arrows,DNF,36,19,1,16,1005.505441,1002.475319,-3.030123,0.333333,0.393936,50.0,22
-1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,jacques-villeneuve,Jacques Villeneuve,bar,DNF,32,8,1,17,1157.383273,1137.878134,-19.505139,0.214286,0.604388,50.0,22
-1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,johnny-herbert,Johnny Herbert,stewart,DNF,32,13,1,18,1008.518529,999.331648,-9.186881,0.214286,0.398023,50.0,22
-1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,pedro-de-la-rosa,Pedro de la Rosa,arrows,DNF,30,21,1,19,1011.733349,998.756342,-12.977007,0.142857,0.402397,50.0,22
-1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,marc-gene,Marc Gené,minardi,DNF,24,22,1,20,1023.435732,1007.276581,-16.159151,0.095238,0.418421,50.0,22
-1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,luca-badoer,Luca Badoer,minardi,DNF,10,20,1,21,992.320826,975.891926,-16.4289,0.047619,0.376197,50.0,22
-1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,damon-hill,Damon Hill,jordan,DNF,3,17,1,22,1111.27328,1084.219081,-27.054198,0.0,0.541084,50.0,22
+1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,michael-schumacher,Michael Schumacher,ferrari,1,78,2,0,1,1470.45496,1481.581207,11.126247,1.0,0.777475,50.0,12
+1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,eddie-irvine,Eddie Irvine,ferrari,2,78,4,0,2,1278.192712,1292.770835,14.578123,0.909091,0.617528,50.0,12
+1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,mika-hakkinen,Mika Häkkinen,mclaren,3,78,1,0,3,1367.128956,1373.225523,6.096567,0.818182,0.69625,50.0,12
+1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,heinz-harald-frentzen,Heinz-Harald Frentzen,jordan,4,78,6,0,4,1215.902735,1224.315444,8.412709,0.727273,0.559019,50.0,12
+1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,giancarlo-fisichella,Giancarlo Fisichella,benetton,5,77,9,0,5,1158.707242,1165.325363,6.618121,0.636364,0.504001,50.0,12
+1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,alexander-wurz,Alexander Wurz,benetton,6,77,10,0,6,1069.251942,1075.625403,6.373461,0.545455,0.417985,50.0,12
+1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,jarno-trulli,Jarno Trulli,prost,7,77,7,0,7,951.565474,958.755547,7.190073,0.454545,0.310744,50.0,12
+1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,alex-zanardi,Alex Zanardi,williams,8,76,11,0,8,952.380195,954.989655,2.60946,0.363636,0.311447,50.0,12
+1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,rubens-barrichello,Rubens Barrichello,stewart,9,71,5,0,9,1100.487545,1091.73299,-8.754556,0.272727,0.447818,50.0,12
+1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,ralf-schumacher,Ralf Schumacher,williams,DNF,54,16,1,10,1129.802133,1115.089966,-14.712167,0.181818,0.476062,50.0,12
+1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,marc-gene,Marc Gené,minardi,DNF,24,22,1,11,995.598363,982.662074,-12.93629,0.090909,0.349635,50.0,12
+1999,4,1999-05-16,monaco,Grand Prix de Monaco 1999,634,damon-hill,Damon Hill,jordan,DNF,3,17,1,12,1187.758701,1161.156953,-26.601748,0.0,0.532035,50.0,12

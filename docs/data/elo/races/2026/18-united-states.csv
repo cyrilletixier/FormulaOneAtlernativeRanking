@@ -1,23 +1,21 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,kimi-antonelli,Kimi Antonelli,mercedes,1,56,1,0,1,1351.504312,1364.331024,12.826711,1.0,0.743466,50.0,22
-2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,charles-leclerc,Charles Leclerc,ferrari,2,56,4,0,2,1344.749032,1355.53812,10.789089,0.952381,0.736599,50.0,22
-2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,max-verstappen,Max Verstappen,red-bull,3,56,2,0,3,1425.245432,1429.871189,4.625757,0.904762,0.812247,50.0,22
-2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,lewis-hamilton,Lewis Hamilton,ferrari,4,56,5,0,4,1329.079756,1335.920301,6.840545,0.857143,0.720332,50.0,22
-2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,lando-norris,Lando Norris,mclaren,5,56,8,0,5,1352.231046,1355.497281,3.266235,0.809524,0.744199,50.0,22
-2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,isack-hadjar,Isack Hadjar,red-bull,6,56,3,0,6,1199.671072,1209.213859,9.542786,0.761905,0.571049,50.0,22
-2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,oscar-piastri,Oscar Piastri,mclaren,7,56,7,0,7,1311.256001,1311.906596,0.650596,0.714286,0.701274,50.0,22
-2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,george-russell,George Russell,mercedes,8,56,6,0,8,1350.067275,1346.299979,-3.767296,0.666667,0.742013,50.0,22
-2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,liam-lawson,Liam Lawson,racing-bulls,9,56,9,0,9,1173.183144,1177.225874,4.04273,0.619048,0.538193,50.0,22
-2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,pierre-gasly,Pierre Gasly,alpine,10,56,10,0,10,1091.75406,1098.530941,6.776881,0.571429,0.435891,50.0,22
-2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,nico-hulkenberg,Nico Hülkenberg,audi,11,56,11,0,11,1089.703425,1094.227563,4.524138,0.52381,0.433327,50.0,22
-2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,arvid-lindblad,Arvid Lindblad,racing-bulls,12,55,14,0,12,1119.153942,1119.448527,0.294585,0.47619,0.470299,50.0,22
-2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,gabriel-bortoleto,Gabriel Bortoleto,audi,13,55,21,0,13,1046.460075,1048.893463,2.433388,0.428571,0.379904,50.0,22
-2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,esteban-ocon,Esteban Ocon,haas,14,55,15,0,14,1063.261384,1062.284677,-0.976707,0.380952,0.400487,50.0,22
-2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,lance-stroll,Lance Stroll,aston-martin,15,55,PL,0,15,913.25975,918.366612,5.106862,0.333333,0.231196,50.0,22
-2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,fernando-alonso,Fernando Alonso,aston-martin,16,55,12,0,16,1018.702335,1015.660062,-3.042274,0.285714,0.34656,50.0,22
-2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,alexander-albon,Alexander Albon,williams,17,55,17,0,17,972.367588,969.605861,-2.761727,0.238095,0.29333,50.0,22
-2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,carlos-sainz-jr,Carlos Sainz Jr.,williams,18,55,16,0,18,1061.900243,1051.483572,-10.416671,0.190476,0.39881,50.0,22
-2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,sergio-perez,Sergio Pérez,cadillac,19,55,18,0,19,1006.709388,997.229206,-9.480182,0.142857,0.332461,50.0,22
-2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,valtteri-bottas,Valtteri Bottas,cadillac,DNF,48,19,1,20,881.114981,875.845625,-5.269356,0.095238,0.200625,50.0,22
-2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,franco-colapinto,Franco Colapinto,alpine,DNF,35,20,1,21,1042.762065,1026.372505,-16.38956,0.047619,0.37541,50.0,22
-2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,oliver-bearman,Oliver Bearman,haas,DNF,24,13,1,22,1056.62914,1037.01261,-19.61653,0.0,0.392331,50.0,22
+2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,kimi-antonelli,Kimi Antonelli,mercedes,1,56,1,0,1,1435.227859,1452.340078,17.112219,1.0,0.657756,50.0,20
+2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,charles-leclerc,Charles Leclerc,ferrari,2,56,4,0,2,1504.091727,1515.987006,11.895279,0.947368,0.709463,50.0,20
+2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,max-verstappen,Max Verstappen,red-bull,3,56,2,0,3,1724.385123,1726.827963,2.44284,0.894737,0.84588,50.0,20
+2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,lewis-hamilton,Lewis Hamilton,ferrari,4,56,5,0,4,1513.663423,1519.951439,6.288015,0.842105,0.716345,50.0,20
+2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,lando-norris,Lando Norris,mclaren,5,56,8,0,5,1567.110432,1568.920257,1.809825,0.789474,0.753277,50.0,20
+2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,isack-hadjar,Isack Hadjar,red-bull,6,56,3,0,6,1228.157477,1240.711249,12.553772,0.736842,0.485767,50.0,20
+2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,oscar-piastri,Oscar Piastri,mclaren,7,56,7,0,7,1476.2411,1476.001577,-0.239523,0.684211,0.689001,50.0,20
+2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,george-russell,George Russell,mercedes,8,56,6,0,8,1537.90291,1532.811097,-5.091814,0.631579,0.733415,50.0,20
+2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,liam-lawson,Liam Lawson,racing-bulls,9,56,9,0,9,1192.828096,1199.008556,6.18046,0.578947,0.455338,50.0,20
+2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,pierre-gasly,Pierre Gasly,alpine,10,56,10,0,10,1092.473699,1100.281654,7.807954,0.526316,0.370157,50.0,20
+2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,nico-hulkenberg,Nico Hülkenberg,audi,11,56,11,0,11,1119.804387,1123.837446,4.03306,0.473684,0.393023,50.0,20
+2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,arvid-lindblad,Arvid Lindblad,racing-bulls,12,55,14,0,12,1109.250815,1111.095761,1.844945,0.421053,0.384154,50.0,20
+2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,gabriel-bortoleto,Gabriel Bortoleto,audi,13,55,21,0,13,1038.848984,1040.946788,2.097804,0.368421,0.326465,50.0,20
+2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,esteban-ocon,Esteban Ocon,haas,14,55,15,0,14,1065.885577,1064.261353,-1.624224,0.315789,0.348274,50.0,20
+2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,lance-stroll,Lance Stroll,aston-martin,15,55,PL,0,15,966.743604,966.350337,-0.393266,0.263158,0.271023,50.0,20
+2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,fernando-alonso,Fernando Alonso,aston-martin,16,55,12,0,16,1140.220901,1130.232113,-9.988788,0.210526,0.410302,50.0,20
+2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,alexander-albon,Alexander Albon,williams,17,55,17,0,17,972.473445,966.604946,-5.868499,0.157895,0.275265,50.0,20
+2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,carlos-sainz-jr,Carlos Sainz Jr.,williams,18,55,16,0,18,1106.676132,1092.839431,-13.836701,0.105263,0.381997,50.0,20
+2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,sergio-perez,Sergio Pérez,cadillac,19,55,18,0,19,1156.748164,1138.160426,-18.587738,0.052632,0.424386,50.0,20
+2026,18,2026-10-25,united-states,Formula 1 MSC Cruises United States Grand Prix 2026,1167,oliver-bearman,Oliver Bearman,haas,DNF,24,13,1,20,1090.733172,1072.29755,-18.435622,0.0,0.368712,50.0,20

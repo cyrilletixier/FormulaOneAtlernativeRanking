@@ -1,32 +1,28 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,ayrton-senna,Ayrton Senna,mclaren,1,77,3,0,1,1287.526056,1299.458656,11.9326,1.0,0.761348,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,nigel-mansell,Nigel Mansell,williams,2,77,2,0,2,1326.164805,1334.561577,8.396772,0.966667,0.798731,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,gerhard-berger,Gerhard Berger,mclaren,3,77,5,0,3,1206.61403,1219.727149,13.11312,0.933333,0.671071,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,mika-hakkinen,Mika Häkkinen,lotus,4,77,16,0,4,1091.481085,1110.362315,18.88123,0.9,0.522375,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,martin-brundle,Martin Brundle,benetton,5,77,6,0,5,1156.427956,1169.345423,12.917467,0.866667,0.608317,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,ivan-capelli,Ivan Capelli,ferrari,6,76,10,0,6,1062.359594,1079.869922,17.510328,0.833333,0.483127,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,michele-alboreto,Michele Alboreto,footwork,7,75,7,0,7,1120.443622,1132.386743,11.943122,0.8,0.561138,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,andrea-de-cesaris,Andrea de Cesaris,tyrrell,8,75,19,0,8,1097.337004,1109.157943,11.820939,0.766667,0.530248,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,paul-belmondo,Paul Belmondo,march,9,74,17,0,9,954.393938,973.956018,19.56208,0.733333,0.342092,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,mauricio-gugelmin,Maurício Gugelmin,jordan,10,73,21,0,10,1061.035403,1071.968286,10.932883,0.7,0.481342,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,damon-hill,Damon Hill,brabham,11,73,25,0,11,918.342355,936.7327,18.390344,0.666667,0.29886,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,michael-schumacher,Michael Schumacher,benetton,DNF,63,4,1,12,1172.87369,1173.073423,0.199733,0.633333,0.629339,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,riccardo-patrese,Riccardo Patrese,williams,DNF,55,1,1,13,1314.870104,1305.459588,-9.410516,0.6,0.78821,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,pierluigi-martini,Pierluigi Martini,dallara,DNF,40,26,1,14,1130.445631,1130.059608,-0.386023,0.566667,0.574387,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,ukyo-katayama,Ukyo Katayama,venturi,DNF,35,20,1,15,1001.097799,1007.687735,6.589936,0.533333,0.401535,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,jean-alesi,Jean Alesi,ferrari,DNF,14,9,1,16,1165.612829,1159.607494,-6.005336,0.5,0.620107,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,aguri-suzuki,Aguri Suzuki,footwork,DNF,13,14,1,17,993.324059,993.752992,0.428932,0.4,0.391421,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,bertrand-gachot,Bertrand Gachot,venturi,DNF,13,15,1,18,1003.150871,1002.939982,-0.210889,0.4,0.404218,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,karl-wendlinger,Karl Wendlinger,march,DNF,13,23,1,19,1025.346441,1023.671136,-1.675305,0.4,0.433506,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,olivier-grouillard,Olivier Grouillard,tyrrell,DNF,13,22,1,20,1003.396868,1003.169888,-0.22698,0.4,0.40454,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,stefano-modena,Stefano Modena,jordan,DNF,13,24,1,21,1015.956052,1014.903207,-1.052845,0.4,0.421057,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,eric-van-de-poele,Eric van de Poele,fondmetal,DNF,2,18,1,22,794.900378,801.172402,6.272024,0.3,0.17456,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,erik-comas,Érik Comas,ligier,DNF,0,11,1,23,1155.991232,1136.436874,-19.554359,0.216667,0.607754,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,gabriele-tarquini,Gabriele Tarquini,fondmetal,DNF,0,12,1,24,936.017259,930.864428,-5.152831,0.216667,0.319723,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,johnny-herbert,Johnny Herbert,lotus,DNF,0,13,1,25,1057.120088,1044.150004,-12.970084,0.216667,0.476068,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,thierry-boutsen,Thierry Boutsen,ligier,DNF,0,8,1,26,1146.45564,1127.51955,-18.936089,0.216667,0.595388,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,perry-mccarthy,Perry McCarthy,andrea-moda,DNPQ,,,1,27,941.439497,931.793434,-9.646062,0.133333,0.326255,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,alex-zanardi,Alex Zanardi,minardi,DNQ,,,2,28,1001.543832,983.937976,-17.605856,0.05,0.402117,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,gianni-morbidelli,Gianni Morbidelli,minardi,DNQ,,,2,29,1090.872849,1067.294998,-23.577851,0.05,0.521557,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,jj-lehto,JJ Lehto,dallara,DNQ,,,2,30,1128.812305,1102.700823,-26.111482,0.05,0.57223,50.0,31
-1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,roberto-moreno,Roberto Moreno,andrea-moda,DNQ,,,2,31,982.42819,966.059188,-16.369002,0.05,0.37738,50.0,31
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,ayrton-senna,Ayrton Senna,mclaren,1,77,3,0,1,1530.459743,1538.089783,7.63004,1.0,0.847399,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,nigel-mansell,Nigel Mansell,williams,2,77,2,0,2,1455.361529,1463.125695,7.764166,0.961538,0.806255,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,gerhard-berger,Gerhard Berger,mclaren,3,77,5,0,3,1404.661673,1412.076965,7.415292,0.923077,0.774771,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,mika-hakkinen,Mika Häkkinen,lotus,4,77,16,0,4,1061.990418,1081.384558,19.39414,0.884615,0.496733,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,martin-brundle,Martin Brundle,benetton,5,77,6,0,5,1139.94631,1153.905986,13.959676,0.846154,0.56696,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,ivan-capelli,Ivan Capelli,ferrari,6,76,10,0,6,1079.690878,1094.435709,14.744831,0.807692,0.512796,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,michele-alboreto,Michele Alboreto,footwork,7,75,7,0,7,1100.571847,1112.449209,11.877362,0.769231,0.531684,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,andrea-de-cesaris,Andrea de Cesaris,tyrrell,8,75,19,0,8,1139.928975,1148.120191,8.191216,0.730769,0.566945,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,paul-belmondo,Paul Belmondo,march,9,74,17,0,9,922.576817,938.593327,16.01651,0.692308,0.371978,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,mauricio-gugelmin,Maurício Gugelmin,jordan,10,73,21,0,10,1085.949873,1092.718873,6.769,0.653846,0.518466,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,damon-hill,Damon Hill,brabham,11,73,25,0,11,900.306273,913.430894,13.124621,0.615385,0.352892,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,jean-alesi,Jean Alesi,ferrari,DNF,14,9,1,12,1233.048825,1229.538736,-3.51009,0.576923,0.647125,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,aguri-suzuki,Aguri Suzuki,footwork,DNF,13,14,1,13,957.900729,960.832616,2.931887,0.461538,0.402901,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,bertrand-gachot,Bertrand Gachot,venturi,DNF,13,15,1,14,940.876219,944.557781,3.681563,0.461538,0.387907,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,karl-wendlinger,Karl Wendlinger,march,DNF,13,23,1,15,1021.294654,1021.382293,0.087639,0.461538,0.459786,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,olivier-grouillard,Olivier Grouillard,tyrrell,DNF,13,22,1,16,917.393439,922.095144,4.701705,0.461538,0.367504,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,stefano-modena,Stefano Modena,jordan,DNF,13,24,1,17,1032.035846,1031.636474,-0.399371,0.461538,0.469526,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,eric-van-de-poele,Eric van de Poele,fondmetal,DNF,2,18,1,18,755.658475,760.971583,5.313108,0.346154,0.239892,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,erik-comas,Érik Comas,ligier,DNF,0,11,1,19,1100.236394,1086.167351,-14.069043,0.25,0.531381,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,gabriele-tarquini,Gabriele Tarquini,fondmetal,DNF,0,12,1,20,825.161181,823.084777,-2.076404,0.25,0.291528,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,johnny-herbert,Johnny Herbert,lotus,DNF,0,13,1,21,1051.810646,1039.9364,-11.874246,0.25,0.487485,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,thierry-boutsen,Thierry Boutsen,ligier,DNF,0,8,1,22,1216.423997,1197.261477,-19.16252,0.25,0.63325,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,perry-mccarthy,Perry McCarthy,andrea-moda,DNPQ,,,1,23,943.544071,931.72406,-11.820011,0.153846,0.390246,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,alex-zanardi,Alex Zanardi,minardi,DNQ,,,2,24,1009.256136,989.696165,-19.559972,0.057692,0.448892,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,gianni-morbidelli,Gianni Morbidelli,minardi,DNQ,,,2,25,1070.974982,1048.615098,-22.359885,0.057692,0.50489,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,jj-lehto,JJ Lehto,dallara,DNQ,,,2,26,1053.030277,1031.485244,-21.545034,0.057692,0.488593,50.0,27
+1992,11,1992-08-16,hungary,Marlboro Magyar Nagydíj 1992,527,roberto-moreno,Roberto Moreno,andrea-moda,DNQ,,,2,27,957.126916,939.900734,-17.226182,0.057692,0.402216,50.0,27

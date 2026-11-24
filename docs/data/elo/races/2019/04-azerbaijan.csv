@@ -1,21 +1,19 @@
 year,round,date,grandPrixId,officialName,careerRaceNumber,driverId,driverName,constructorId,positionRaw,laps,gridPosition,rankKeyTier,rankInRace,eloBefore,eloAfter,eloDelta,actualScore,expectedScore,kUsed,nParticipants
-2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,valtteri-bottas,Valtteri Bottas,mercedes,1,51,1,0,1,1406.462962,1416.446382,9.98342,1.0,0.800332,50.0,20
-2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,lewis-hamilton,Lewis Hamilton,mercedes,2,51,2,0,2,1553.378673,1555.695191,2.316518,0.947368,0.901038,50.0,20
-2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,sebastian-vettel,Sebastian Vettel,ferrari,3,51,3,0,3,1426.113497,1430.035312,3.921814,0.894737,0.816301,50.0,20
-2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,max-verstappen,Max Verstappen,red-bull,4,51,4,0,4,1340.075173,1345.154188,5.079015,0.842105,0.740525,50.0,20
-2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,charles-leclerc,Charles Leclerc,ferrari,5,51,8,0,5,1107.708921,1123.653715,15.944794,0.789474,0.470578,50.0,20
-2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,sergio-perez,Sergio Pérez,racing-point,6,51,5,0,6,1149.777664,1160.406169,10.628505,0.736842,0.524272,50.0,20
-2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,7,51,9,0,7,1054.82948,1068.899124,14.069643,0.684211,0.402818,50.0,20
-2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,lando-norris,Lando Norris,mclaren,8,51,7,0,8,1011.392948,1025.552152,14.159203,0.631579,0.348395,50.0,20
-2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,lance-stroll,Lance Stroll,racing-point,9,51,13,0,9,1000.265548,1012.473004,12.207456,0.578947,0.334798,50.0,20
-2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,10,50,PL,0,10,1300.392675,1291.681941,-8.710734,0.526316,0.70053,50.0,20
-2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,alexander-albon,Alexander Albon,toro-rosso,11,50,11,0,11,1020.402775,1026.110855,5.70808,0.473684,0.359523,50.0,20
-2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,12,50,17,0,12,991.802874,996.626644,4.82377,0.421053,0.324577,50.0,20
-2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,kevin-magnussen,Kevin Magnussen,haas,13,50,12,0,13,1066.926471,1064.435355,-2.491115,0.368421,0.418243,50.0,20
-2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,nico-hulkenberg,Nico Hülkenberg,renault,14,50,15,0,14,1030.479581,1027.665071,-2.81451,0.315789,0.37208,50.0,20
-2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,george-russell,George Russell,williams,15,49,16,0,15,985.139453,982.466944,-2.672508,0.263158,0.316608,50.0,20
-2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,robert-kubica,Robert Kubica,williams,16,49,PL,0,16,1139.740678,1124.689806,-15.050871,0.210526,0.511544,50.0,20
-2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,pierre-gasly,Pierre Gasly,red-bull,DNF,38,PL,1,17,1055.08984,1041.511349,-13.578491,0.131579,0.403149,50.0,20
-2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,romain-grosjean,Romain Grosjean,haas,DNF,38,14,1,18,1023.705249,1012.102913,-11.602335,0.131579,0.363626,50.0,20
-2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,daniil-kvyat,Daniil Kvyat,toro-rosso,DNF,33,6,1,19,1019.837179,1004.527699,-15.30948,0.052632,0.358821,50.0,20
-2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,daniel-ricciardo,Daniel Ricciardo,renault,DNF,31,10,1,20,1156.093207,1129.481032,-26.612174,0.0,0.532243,50.0,20
+2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,valtteri-bottas,Valtteri Bottas,mercedes,1,51,1,0,1,1580.568265,1592.396237,11.827972,1.0,0.763441,50.0,18
+2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,lewis-hamilton,Lewis Hamilton,mercedes,2,51,2,0,2,1826.522561,1829.140155,2.617594,0.941176,0.888825,50.0,18
+2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,sebastian-vettel,Sebastian Vettel,ferrari,3,51,3,0,3,1637.589975,1641.846156,4.256181,0.882353,0.797229,50.0,18
+2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,max-verstappen,Max Verstappen,red-bull,4,51,4,0,4,1496.33269,1502.079139,5.746449,0.823529,0.7086,50.0,18
+2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,charles-leclerc,Charles Leclerc,ferrari,5,51,8,0,5,1102.816241,1121.076894,18.260653,0.764706,0.399493,50.0,18
+2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,sergio-perez,Sergio Pérez,racing-point,6,51,5,0,6,1210.914901,1221.766336,10.851434,0.705882,0.488854,50.0,18
+2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,carlos-sainz-jr,Carlos Sainz Jr.,mclaren,7,51,9,0,7,1102.9715,1115.343436,12.371935,0.647059,0.39962,50.0,18
+2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,lando-norris,Lando Norris,mclaren,8,51,7,0,8,1006.878775,1020.160745,13.28197,0.588235,0.322596,50.0,18
+2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,lance-stroll,Lance Stroll,racing-point,9,51,13,0,9,935.83613,948.849349,13.01322,0.529412,0.269147,50.0,18
+2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,kimi-raikkonen,Kimi Räikkönen,alfa-romeo,10,50,PL,0,10,1492.786456,1481.007394,-11.779061,0.470588,0.706169,50.0,18
+2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,alexander-albon,Alexander Albon,toro-rosso,11,50,11,0,11,1016.093295,1020.192302,4.099007,0.411765,0.329785,50.0,18
+2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,antonio-giovinazzi,Antonio Giovinazzi,alfa-romeo,12,50,17,0,12,973.768044,976.55408,2.786036,0.352941,0.29722,50.0,18
+2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,kevin-magnussen,Kevin Magnussen,haas,13,50,12,0,13,1046.68959,1043.695608,-2.993982,0.294118,0.353997,50.0,18
+2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,nico-hulkenberg,Nico Hülkenberg,renault,14,50,15,0,14,1131.439085,1122.051131,-9.387954,0.235294,0.423053,50.0,18
+2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,george-russell,George Russell,williams,15,49,16,0,15,978.825986,972.597137,-6.22885,0.176471,0.301048,50.0,18
+2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,robert-kubica,Robert Kubica,williams,16,49,PL,0,16,1239.565274,1219.824699,-19.740575,0.117647,0.512459,50.0,18
+2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,daniil-kvyat,Daniil Kvyat,toro-rosso,DNF,33,6,1,17,1045.95408,1031.224777,-14.729302,0.058824,0.35341,50.0,18
+2019,4,2019-04-28,azerbaijan,Formula 1 SOCAR Azerbaijan Grand Prix 2019,1001,daniel-ricciardo,Daniel Ricciardo,renault,DNF,31,10,1,18,1462.537371,1428.284645,-34.252726,0.0,0.685055,50.0,18
