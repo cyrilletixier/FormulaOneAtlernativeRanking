@@ -19,6 +19,7 @@
             <nav class="tabs" role="tablist" aria-label="Classements">
                 <button class="tab-button active" role="tab" aria-selected="true" data-tab="historique">Classement Historique</button>
                 <button class="tab-button" role="tab" aria-selected="false" data-tab="qualifications">Qualifications</button>
+                <button class="tab-button" role="tab" aria-selected="false" data-tab="checkpoints">Moments de course</button>
                 <button class="tab-button" role="tab" aria-selected="false" data-tab="sprint">Sprint</button>
                 <button class="tab-button" role="tab" aria-selected="false" data-tab="deuxieme-pilote">2ème Pilote</button>
                 <button class="tab-button" role="tab" aria-selected="false" data-tab="elo">ELO Pilotes</button>
@@ -77,6 +78,45 @@
                     <tbody id="qualifications-body"></tbody>
                 </table>
             </div>
+        </section>
+
+        <section class="tab-content" id="checkpoints" role="tabpanel" hidden>
+            <div class="controls">
+                <div class="year-selector">
+                    <label for="checkpoints-year">Saison</label>
+                    <button id="checkpoints-prev" class="tab-button icon-btn" type="button" aria-label="Saison précédente">‹</button>
+                    <select id="checkpoints-year"></select>
+                    <button id="checkpoints-next" class="tab-button icon-btn" type="button" aria-label="Saison suivante">›</button>
+                </div>
+                <div class="search-box">
+                    <label for="checkpoints-search">Pilote</label>
+                    <input id="checkpoints-search" class="search-input" type="search" placeholder="Filtrer par nom…" autocomplete="off">
+                </div>
+            </div>
+            <div class="info-banner" id="checkpoints-info"></div>
+            <div class="table-container table-sticky-first">
+                <table id="checkpoints-table">
+                    <thead>
+                        <tr>
+                            <th>Pilote</th>
+                            <th>Rang</th>
+                            <th>Qualification</th>
+                            <th>Grille de départ</th>
+                            <th>Tour 1</th>
+                            <th>10%</th>
+                            <th>50%</th>
+                            <th>90%</th>
+                            <th>Fin</th>
+                        </tr>
+                    </thead>
+                    <tbody id="checkpoints-body"></tbody>
+                </table>
+            </div>
+            <p class="sprint-rules">
+                Points cumulés sur la saison (barème 25-18-15-12-10-8-6-4-2-1) selon le classement à chaque instant clé :
+                Qualification, Grille de départ (pénalités incluses), fin du Tour 1, 10%, 50%, 90% de la distance courue et Arrivée.
+                Les classements tour par tour sont disponibles à partir de 1996.
+            </p>
         </section>
 
         <section class="tab-content" id="sprint" role="tabpanel" hidden>
@@ -189,6 +229,7 @@
     <script src="js/tabs.js?v=20260420" defer></script>
     <script src="js/historique.js?v=20260420" defer></script>
     <script src="js/qualifications.js?v=20260420" defer></script>
+    <script src="js/checkpoints.js?v=20260420" defer></script>
     <script src="js/sprint.js?v=20260420" defer></script>
     <script src="js/deuxieme_pilote.js?v=20260420" defer></script>
     <script src="js/elo.js?v=20260420" defer></script>

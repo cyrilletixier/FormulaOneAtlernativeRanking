@@ -26,6 +26,7 @@ step "Génération Deuxième Pilote";            "$PYTHON" generate_deuxieme_pil
 step "Génération ELO des pilotes";            "$PYTHON" generate_elo_pilotes.py
 step "Génération ELO des constructeurs";      "$PYTHON" generate_elo_constructeurs.py
 step "Génération ELO par âge";                "$PYTHON" generate_elo_by_age.py
+step "Génération Points par moment de course"; "$PYTHON" generate_checkpoints.py
 
 # Le tableau des champions lit les CSV générés ci-dessus (donc en dernier)
 # et utilise des chemins relatifs à la racine du dépôt.
