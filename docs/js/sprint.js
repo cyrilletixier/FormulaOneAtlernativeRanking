@@ -1,41 +1,33 @@
 document.addEventListener('DOMContentLoaded', () => {
+    const {
+        getEloIndex,
+        fetchJsonCached,
+        fetchTextCached,
+        buildDriverNameToId,
+        parseCsv,
+        createDriverCell,
+        createRankCell,
+        renderStatusRow,
+    } = globalThis.F1Utils;
+
     const yearSelector = document.getElementById('sprint-year');
     const prevBtn = document.getElementById('sprint-prev');
     const nextBtn = document.getElementById('sprint-next');
     const info = document.getElementById('sprint-info');
     const tableHead = document.querySelector('#sprint-table thead tr');
     const tableBody = document.getElementById('sprint-body');
-    let driverNameToId = {};
+
+    let driverNameToId = new Map();
     let seasons = [];
+    let initialized = false;
+    let loadSeq = 0;
 
-    Promise.all([
-        fetch('data/elo/index.json', { cache: 'no-store' }).then(r => r.json()).catch(() => null),
-        fetch('data/sprint/index.json', { cache: 'no-store' }).then(r => r.json())
-    ])
-        .then(([eloIndex, sprintIndex]) => {
-            driverNameToId = buildDriverNameToId(eloIndex);
-            seasons = sprintIndex.years || [];
-            yearSelector.innerHTML = '';
-            // Années les plus récentes d'abord
-            seasons.slice().reverse().forEach(s => {
-                const option = document.createElement('option');
-                option.value = s.year;
-                option.textContent = s.year;
-                yearSelector.appendChild(option);
-            });
-            if (seasons.length) loadYear(yearSelector.value);
-            updateNavButtons();
-        })
-        .catch(error => console.error('Erreur lors du chargement des sprints:', error));
-
-    yearSelector.addEventListener('change', () => {
-        loadYear(yearSelector.value);
-        updateNavButtons();
-    });
-
-    // L'ordre du sélecteur est décroissant : « << » = année précédente (plus ancienne)
-    prevBtn.addEventListener('click', () => step(+1));
-    nextBtn.addEventListener('click', () => step(-1));
+    function updateNavButtons() {
+        const idx = yearSelector.selectedIndex;
+        const n = yearSelector.options.length;
+        prevBtn.disabled = idx < 0 || idx >= n - 1;
+        nextBtn.disabled = idx <= 0;
+    }
 
     function step(delta) {
         const idx = yearSelector.selectedIndex + delta;
@@ -45,52 +37,124 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    function updateNavButtons() {
-        const idx = yearSelector.selectedIndex;
-        const n = yearSelector.options.length;
-        prevBtn.disabled = idx < 0 || idx >= n - 1;
-        nextBtn.disabled = idx <= 0;
+    function renderSeasonBanner(season) {
+        info.replaceChildren();
+        if (!season) return;
+
+        const span = document.createElement('span');
+        span.append(`Champion du monde sprint ${season.year} : `);
+        const strong = document.createElement('strong');
+        strong.textContent = season.champion;
+        span.appendChild(strong);
+        span.append(` — ${season.points} pts en ${season.sprints} sprints`);
+        info.appendChild(span);
     }
 
     function loadYear(year) {
+        const seq = ++loadSeq;
         const season = seasons.find(s => String(s.year) === String(year));
-        info.textContent = season
-            ? `Champion du monde sprint ${season.year} : ${season.champion} (${season.points} pts en ${season.sprints} sprints)`
-            : '';
+        renderSeasonBanner(season);
+        renderStatusRow(tableBody, 3, `Chargement des sprints ${year}…`);
 
-        fetch(`data/${year}/sprint.csv`, { cache: 'no-store' })
-            .then(r => r.text())
+        fetchTextCached(`data/${year}/sprint.csv`)
             .then(text => {
-                const rows = text.split('\n').filter(l => l.trim() !== '').map(l => l.split(','));
-                if (!rows.length) return;
+                if (seq !== loadSeq) return;
+                const rows = parseCsv(text);
+                if (!rows.length) {
+                    renderStatusRow(tableBody, 3, 'Aucune donnée disponible.');
+                    return;
+                }
+
                 const header = rows[0];
-                tableHead.innerHTML = '';
+                const headFrag = document.createDocumentFragment();
                 header.forEach(col => {
                     const th = document.createElement('th');
                     th.textContent = col;
-                    tableHead.appendChild(th);
+                    headFrag.appendChild(th);
                 });
+                tableHead.replaceChildren(headFrag);
 
-                tableBody.innerHTML = '';
-                for (const row of rows.slice(1)) {
+                const bodyFrag = document.createDocumentFragment();
+                for (let i = 1; i < rows.length; i++) {
+                    const row = rows[i];
+                    if (row.length < 3) continue;
+
                     const tr = document.createElement('tr');
-                    row.forEach((cell, j) => {
-                        const td = document.createElement('td');
-                        const driverId = j === 0 ? driverNameToId[cell] : null;
-                        if (driverId) {
-                            const a = document.createElement('a');
-                            a.className = 'driver-link';
-                            a.href = `driver.html?id=${encodeURIComponent(driverId)}`;
-                            a.textContent = cell;
-                            td.appendChild(a);
+                    for (let j = 0; j < header.length; j++) {
+                        const cell = row[j] || '';
+                        if (j === 0) {
+                            tr.appendChild(createDriverCell(cell, driverNameToId));
+                        } else if (j === 1) {
+                            tr.appendChild(createRankCell(cell));
                         } else {
-                            td.textContent = cell || '';
+                            const td = document.createElement('td');
+                            if (j === 2) {
+                                td.className = 'points-cell';
+                                td.textContent = cell;
+                            } else if (cell === '' || cell === '0') {
+                                td.className = 'cell-empty';
+                                td.textContent = cell === '' ? '·' : '0';
+                            } else {
+                                td.textContent = cell;
+                            }
+                            tr.appendChild(td);
                         }
-                        tr.appendChild(td);
-                    });
-                    tableBody.appendChild(tr);
+                    }
+                    bodyFrag.appendChild(tr);
                 }
+                tableBody.replaceChildren(bodyFrag);
             })
-            .catch(error => console.error(`Erreur lors du chargement des sprints ${year}:`, error));
+            .catch(error => {
+                if (seq !== loadSeq) return;
+                console.error(`Erreur lors du chargement des sprints ${year}:`, error);
+                renderStatusRow(tableBody, 3, `Impossible de charger les sprints ${year}.`);
+            });
+    }
+
+    function init() {
+        if (initialized) return;
+        initialized = true;
+        renderStatusRow(tableBody, 3, 'Chargement…');
+
+        Promise.all([
+            getEloIndex(),
+            fetchJsonCached('data/sprint/index.json'),
+        ])
+            .then(([eloIndex, sprintIndex]) => {
+                driverNameToId = buildDriverNameToId(eloIndex);
+                seasons = sprintIndex.years || [];
+
+                const frag = document.createDocumentFragment();
+                seasons.slice().reverse().forEach(s => {
+                    const option = document.createElement('option');
+                    option.value = s.year;
+                    option.textContent = s.year;
+                    frag.appendChild(option);
+                });
+                yearSelector.replaceChildren(frag);
+
+                if (seasons.length) loadYear(yearSelector.value);
+                updateNavButtons();
+            })
+            .catch(error => {
+                console.error('Erreur lors du chargement des sprints:', error);
+                renderStatusRow(tableBody, 3, 'Erreur de chargement.');
+            });
+    }
+
+    yearSelector.addEventListener('change', () => {
+        loadYear(yearSelector.value);
+        updateNavButtons();
+    });
+
+    prevBtn.addEventListener('click', () => step(+1));
+    nextBtn.addEventListener('click', () => step(-1));
+
+    document.addEventListener('f1:tab-activated', (e) => {
+        if (e.detail?.tabId === 'sprint') init();
+    });
+
+    if (document.getElementById('sprint')?.classList.contains('active')) {
+        init();
     }
 });

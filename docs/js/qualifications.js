@@ -1,148 +1,159 @@
-function buildDriverNameToId(indexData) {
-    const map = {};
-    const drivers = indexData?.drivers || [];
-    for (const d of drivers) {
-        if (d?.name && d?.id) {
-            map[d.name] = d.id;
-        }
-    }
-    return map;
-}
-
 document.addEventListener('DOMContentLoaded', () => {
+    const {
+        getEloIndex,
+        getHistoriqueCsv,
+        fetchTextCached,
+        buildDriverNameToId,
+        parseCsv,
+        createDriverCell,
+        createRankCell,
+        renderStatusRow,
+    } = globalThis.F1Utils;
+
     const yearSelector = document.getElementById('qualif-year');
     const prevBtn = document.getElementById('qualif-prev');
     const nextBtn = document.getElementById('qualif-next');
-    let driverNameToId = {};
+    const tableBody = document.getElementById('qualifications-body');
+    const tableHead = document.querySelector('#qualifications-table thead tr');
+
+    let driverNameToId = new Map();
     let eloIndexData = null;
     let years = [];
-
-    // Charger le mapping pilotes (ELO) + les années disponibles dynamiquement
-    Promise.all([
-        fetch('data/elo/index.json', { cache: 'no-store' }).then(r => r.json()).catch(() => null),
-        fetch('data/historique.csv').then(response => response.text())
-    ])
-        .then(([indexData, data]) => {
-            eloIndexData = indexData;
-            driverNameToId = buildDriverNameToId(indexData);
-
-            const rows = data.split('\n');
-            if (rows.length > 0) {
-                const header = rows[0].split(',');
-                years = header.slice(3); // Les années commencent à partir de la 4ème colonne
-
-                // Mettre à jour le sélecteur d'année
-                yearSelector.innerHTML = '';
-                years.forEach(year => {
-                    const option = document.createElement('option');
-                    option.value = year;
-                    option.textContent = year;
-                    yearSelector.appendChild(option);
-                });
-
-                // Charger les données pour la première année
-                if (years.length > 0) {
-                    loadQualificationsData(years[0]);
-                }
-
-                updateNavButtons();
-            }
-        })
-        .catch(error => console.error('Erreur lors du chargement des années:', error));
-
-    yearSelector.addEventListener('change', () => {
-        const year = yearSelector.value;
-        loadQualificationsData(year);
-        updateNavButtons();
-    });
-
-    if (prevBtn) {
-        prevBtn.addEventListener('click', () => {
-            if (!years.length) return;
-            const idx = years.indexOf(yearSelector.value);
-            if (idx > 0) {
-                yearSelector.value = years[idx - 1];
-                yearSelector.dispatchEvent(new Event('change'));
-            }
-        });
-    }
-
-    if (nextBtn) {
-        nextBtn.addEventListener('click', () => {
-            if (!years.length) return;
-            const idx = years.indexOf(yearSelector.value);
-            if (idx >= 0 && idx < years.length - 1) {
-                yearSelector.value = years[idx + 1];
-                yearSelector.dispatchEvent(new Event('change'));
-            }
-        });
-    }
+    let initialized = false;
+    let loadSeq = 0;
 
     function updateNavButtons() {
         if (!prevBtn || !nextBtn) return;
-        if (!years.length) {
-            prevBtn.disabled = true;
-            nextBtn.disabled = true;
-            return;
+        const idx = yearSelector.selectedIndex;
+        const n = yearSelector.options.length;
+        // Années triées de la plus récente à la plus ancienne : « ‹ » = année précédente (plus ancienne)
+        prevBtn.disabled = idx < 0 || idx >= n - 1;
+        nextBtn.disabled = idx <= 0;
+    }
+
+    function step(delta) {
+        const idx = yearSelector.selectedIndex + delta;
+        if (idx >= 0 && idx < yearSelector.options.length) {
+            yearSelector.selectedIndex = idx;
+            yearSelector.dispatchEvent(new Event('change'));
         }
-        const idx = years.indexOf(yearSelector.value);
-        prevBtn.disabled = idx <= 0;
-        nextBtn.disabled = idx < 0 || idx >= years.length - 1;
     }
 
     function loadQualificationsData(year) {
-        fetch(`data/${year}/qualifications.csv`, { cache: 'no-store' })
-            .then(response => response.text())
-            .then(data => {
-                let rows = data.split('\n').map(row => row.split(','));
-                let header = rows[0];
+        const seq = ++loadSeq;
+        renderStatusRow(tableBody, 3, `Chargement des qualifications ${year}…`);
 
+        fetchTextCached(`data/${year}/qualifications.csv`)
+            .then(data => {
+                if (seq !== loadSeq) return;
+                let rows = parseCsv(data);
+                if (!rows.length) {
+                    renderStatusRow(tableBody, 3, 'Aucune donnée disponible.');
+                    return;
+                }
+
+                let header = rows[0];
                 const reordered = reorderQualificationColumns(header, rows, eloIndexData, year);
                 header = reordered.header;
                 rows = reordered.rows;
-                const tableBody = document.getElementById('qualifications-body');
-                const tableHead = document.querySelector('#qualifications-table thead tr');
 
                 const idxDriverName = header.indexOf('Pilote');
+                const idxRank = header.indexOf('Rang');
+                const idxPoints = header.indexOf('Points');
 
-                // Mettre à jour les en-têtes de colonne
-                tableHead.innerHTML = '';
+                const headFrag = document.createDocumentFragment();
                 header.forEach(column => {
                     const th = document.createElement('th');
                     th.textContent = column;
-                    tableHead.appendChild(th);
+                    headFrag.appendChild(th);
                 });
+                tableHead.replaceChildren(headFrag);
 
-                // Mettre à jour les lignes du tableau
-                tableBody.innerHTML = '';
+                const bodyFrag = document.createDocumentFragment();
                 for (let i = 1; i < rows.length; i++) {
                     const row = rows[i];
                     if (row.length < 3) continue;
 
                     const tr = document.createElement('tr');
-                    for (let j = 0; j < row.length; j++) {
-                        const cell = row[j];
-                        const td = document.createElement('td');
+                    for (let j = 0; j < header.length; j++) {
+                        const cell = row[j] || '';
                         if (j === idxDriverName) {
-                            const driverId = driverNameToId[cell];
-                            if (driverId) {
-                                const a = document.createElement('a');
-                                a.className = 'driver-link';
-                                a.href = `driver.html?id=${encodeURIComponent(driverId)}`;
-                                a.textContent = cell || '';
-                                td.appendChild(a);
-                            } else {
-                                td.textContent = cell || '';
-                            }
+                            tr.appendChild(createDriverCell(cell, driverNameToId));
+                        } else if (j === idxRank) {
+                            tr.appendChild(createRankCell(cell));
                         } else {
-                            td.textContent = cell || '';
+                            const td = document.createElement('td');
+                            if (j === idxPoints) {
+                                td.className = 'points-cell';
+                                td.textContent = cell;
+                            } else if (cell === '' || cell === '0') {
+                                td.className = 'cell-empty';
+                                td.textContent = cell === '' ? '·' : '0';
+                            } else {
+                                td.textContent = cell;
+                            }
+                            tr.appendChild(td);
                         }
-                        tr.appendChild(td);
                     }
-                    tableBody.appendChild(tr);
+                    bodyFrag.appendChild(tr);
                 }
+                tableBody.replaceChildren(bodyFrag);
             })
-            .catch(error => console.error(`Erreur lors du chargement des données pour ${year}:`, error));
+            .catch(error => {
+                if (seq !== loadSeq) return;
+                console.error(`Erreur lors du chargement des données pour ${year}:`, error);
+                renderStatusRow(tableBody, 3, `Impossible de charger les qualifications ${year}.`);
+            });
+    }
+
+    function init() {
+        if (initialized) return;
+        initialized = true;
+        renderStatusRow(tableBody, 3, 'Chargement…');
+
+        Promise.all([getEloIndex(), getHistoriqueCsv()])
+            .then(([indexData, data]) => {
+                eloIndexData = indexData;
+                driverNameToId = buildDriverNameToId(indexData);
+
+                const firstLine = data.split(/\r?\n/, 1)[0] || '';
+                if (!firstLine) return;
+
+                years = firstLine.split(',').slice(3).reverse(); // Plus récent en premier
+                const frag = document.createDocumentFragment();
+                for (const year of years) {
+                    const option = document.createElement('option');
+                    option.value = year;
+                    option.textContent = year;
+                    frag.appendChild(option);
+                }
+                yearSelector.replaceChildren(frag);
+
+                if (years.length > 0) {
+                    loadQualificationsData(years[0]);
+                }
+                updateNavButtons();
+            })
+            .catch(error => {
+                console.error('Erreur lors du chargement des années:', error);
+                renderStatusRow(tableBody, 3, 'Erreur de chargement.');
+            });
+    }
+
+    yearSelector.addEventListener('change', () => {
+        loadQualificationsData(yearSelector.value);
+        updateNavButtons();
+    });
+
+    if (prevBtn) prevBtn.addEventListener('click', () => step(+1));
+    if (nextBtn) nextBtn.addEventListener('click', () => step(-1));
+
+    document.addEventListener('f1:tab-activated', (e) => {
+        if (e.detail?.tabId === 'qualifications') init();
+    });
+
+    if (document.getElementById('qualifications')?.classList.contains('active')) {
+        init();
     }
 });
 
@@ -151,8 +162,6 @@ function normalizeKey(s) {
 }
 
 function guessGpColumnKey(grandPrixId) {
-    // Tentative: premières 3 lettres du grandPrixId (sans séparateurs) + 'R'
-    // ex: australia -> AUSR, great-britain -> GRER, united-states -> UNIR
     const norm = normalizeKey(grandPrixId);
     const prefix = norm.slice(0, 3).toUpperCase();
     return `${prefix}R`;
@@ -183,12 +192,9 @@ function reorderQualificationColumns(header, rows, indexData, year) {
         const guess = guessGpColumnKey(gpId);
         const guessNorm = normalizeKey(guess);
 
-        // 1) match exact (normalisé)
         let picked = eventNormToActual.get(guessNorm) || '';
-
-        // 2) fallback: colonne qui commence par le même préfixe et finit par R
         if (!picked) {
-            const prefix = normalizeKey(guess).slice(0, 3);
+            const prefix = guessNorm.slice(0, 3);
             for (const c of eventCols) {
                 const cn = normalizeKey(c);
                 if (cn.startsWith(prefix) && cn.endsWith('r')) {
