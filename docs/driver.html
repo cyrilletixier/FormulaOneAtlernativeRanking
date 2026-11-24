@@ -3,35 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pilote - ELO</title>
+    <title>Pilote — ELO F1</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css?v=20260420">
 </head>
 <body>
     <div class="container">
         <header>
-            <h1 id="driver-title">Pilote</h1>
+            <div class="header-top">
+                <h1 id="driver-title">Pilote</h1>
+                <span id="driver-subtitle" class="header-subtitle"></span>
+            </div>
             <nav class="tabs">
-                <a class="tab-button" href="index.html">← Retour</a>
+                <a class="tab-button" href="index.html">← Retour aux classements</a>
             </nav>
         </header>
 
-        <div class="tab-content active">
-            <div class="controls">
-                <div class="year-selector">
-                    <span id="driver-subtitle"></span>
-                </div>
-            </div>
+        <section class="tab-content active">
+            <div id="driver-kpis" class="kpi-grid"></div>
 
             <div class="chart-container">
+                <div id="driver-chart-tooltip" class="chart-tooltip" aria-live="polite"></div>
                 <div id="elo-chart" class="elo-chart" aria-label="Graphique évolution ELO"></div>
             </div>
 
             <div class="driver-results">
                 <div class="driver-results-actions">
-                    <button id="driver-results-toggle" class="tab-button" type="button">Charger les résultats</button>
+                    <button id="driver-results-toggle" class="tab-button" type="button">Afficher les résultats</button>
                     <span id="driver-results-status" class="driver-results-status" aria-live="polite"></span>
                 </div>
 
@@ -46,9 +46,10 @@
                     </table>
                 </div>
             </div>
-        </div>
+        </section>
     </div>
 
-    <script src="js/driver.js?v=20260317"></script>
+    <script src="js/utils.js?v=20260420" defer></script>
+    <script src="js/driver.js?v=20260420" defer></script>
 </body>
 </html>

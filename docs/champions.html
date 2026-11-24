@@ -3,23 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Champions - Classements F1</title>
+    <title>Champions — Classements F1</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css?v=20260420">
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>Champions</h1>
+            <div class="header-top">
+                <h1>Champions</h1>
+                <span class="header-subtitle">Palmarès comparé par saison</span>
+            </div>
             <nav class="tabs">
-                <a class="tab-button" href="index.html">← Retour</a>
+                <a class="tab-button" href="index.html">← Retour aux classements</a>
             </nav>
         </header>
 
-        <div class="tab-content active">
-            <div class="table-container">
+        <section class="tab-content active">
+            <div class="controls">
+                <div class="search-box">
+                    <label for="champions-search">Filtrer</label>
+                    <input id="champions-search" class="search-input" type="search" placeholder="Année, pilote, écurie…" autocomplete="off">
+                </div>
+                <span id="champions-count" class="table-meta"></span>
+            </div>
+            <div class="table-container table-sticky-first">
                 <table id="champions-table">
                     <thead>
                         <tr id="champions-head-row">
@@ -29,9 +39,10 @@
                     <tbody id="champions-body"></tbody>
                 </table>
             </div>
-        </div>
+        </section>
     </div>
 
-    <script src="js/champions.js?v=20260317"></script>
+    <script src="js/utils.js?v=20260420" defer></script>
+    <script src="js/champions.js?v=20260420" defer></script>
 </body>
 </html>

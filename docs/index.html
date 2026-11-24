@@ -7,100 +7,97 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css?v=20260420">
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>Classements F1</h1>
-            <nav class="tabs">
-                <button class="tab-button active" data-tab="historique">Classement Historique</button>
-                <button class="tab-button" data-tab="qualifications">Qualifications</button>
-                <button class="tab-button" data-tab="sprint">Sprint</button>
-                <button class="tab-button" data-tab="deuxieme-pilote">2ème Pilote</button>
-                <button class="tab-button" data-tab="elo">ELO</button>
-                <a class="tab-button" href="champions.html">Champions</a>
+            <div class="header-top">
+                <h1>Classements F1</h1>
+                <span class="header-subtitle">Classements alternatifs de Formule 1 (1950 – aujourd'hui)</span>
+            </div>
+            <nav class="tabs" role="tablist" aria-label="Classements">
+                <button class="tab-button active" role="tab" aria-selected="true" data-tab="historique">Classement Historique</button>
+                <button class="tab-button" role="tab" aria-selected="false" data-tab="qualifications">Qualifications</button>
+                <button class="tab-button" role="tab" aria-selected="false" data-tab="sprint">Sprint</button>
+                <button class="tab-button" role="tab" aria-selected="false" data-tab="deuxieme-pilote">2ème Pilote</button>
+                <button class="tab-button" role="tab" aria-selected="false" data-tab="elo">ELO</button>
+                <a class="tab-button" href="champions.html">Champions ↗</a>
             </nav>
         </header>
 
-        <div class="tab-content active" id="historique">
+        <section class="tab-content active" id="historique" role="tabpanel">
             <div class="controls">
                 <div class="navigation">
-                    <button id="historique-prev">← Précédent</button>
-                    <span id="historique-range">1950-1959</span>
-                    <button id="historique-next">Suivant →</button>
+                    <button id="historique-prev" type="button" aria-label="Décennie précédente">← Précédent</button>
+                    <span id="historique-range">…</span>
+                    <button id="historique-next" type="button" aria-label="Décennie suivante">Suivant →</button>
+                </div>
+                <div class="controls-group">
+                    <div class="search-box">
+                        <label for="historique-search">Pilote</label>
+                        <input id="historique-search" class="search-input" type="search" placeholder="Filtrer par nom…" autocomplete="off">
+                    </div>
+                    <span id="historique-count" class="table-meta"></span>
                 </div>
             </div>
-            <div class="table-container">
+            <div class="table-container table-sticky-first">
                 <table id="historique-table">
                     <thead>
                         <tr>
                             <th>Pilote</th>
                             <th>Rang</th>
                             <th>Points</th>
-                            <!-- Les années seront ajoutées dynamiquement -->
                         </tr>
                     </thead>
-                    <tbody id="historique-body">
-                        <!-- Les données seront ajoutées dynamiquement -->
-                    </tbody>
+                    <tbody id="historique-body"></tbody>
                 </table>
             </div>
-        </div>
+        </section>
 
-        <div class="tab-content" id="qualifications">
+        <section class="tab-content" id="qualifications" role="tabpanel" hidden>
             <div class="controls">
                 <div class="year-selector">
-                    <label for="qualif-year">Année :</label>
-                    <button id="qualif-prev" class="tab-button" type="button">&lt;&lt;</button>
-                    <select id="qualif-year">
-                        <!-- Les années seront ajoutées dynamiquement -->
-                    </select>
-                    <button id="qualif-next" class="tab-button" type="button">&gt;&gt;</button>
+                    <label for="qualif-year">Saison</label>
+                    <button id="qualif-prev" class="tab-button icon-btn" type="button" aria-label="Saison précédente">‹</button>
+                    <select id="qualif-year"></select>
+                    <button id="qualif-next" class="tab-button icon-btn" type="button" aria-label="Saison suivante">›</button>
                 </div>
             </div>
-            <div class="table-container">
+            <div class="table-container table-sticky-first">
                 <table id="qualifications-table">
                     <thead>
                         <tr>
                             <th>Pilote</th>
                             <th>Rang</th>
                             <th>Points</th>
-                            <!-- Les colonnes des événements seront ajoutées dynamiquement -->
                         </tr>
                     </thead>
-                    <tbody id="qualifications-body">
-                        <!-- Les données seront ajoutées dynamiquement -->
-                    </tbody>
+                    <tbody id="qualifications-body"></tbody>
                 </table>
             </div>
-        </div>
+        </section>
 
-        <div class="tab-content" id="sprint">
+        <section class="tab-content" id="sprint" role="tabpanel" hidden>
             <div class="controls">
                 <div class="year-selector">
-                    <label for="sprint-year">Année :</label>
-                    <button id="sprint-prev" class="tab-button" type="button">&lt;&lt;</button>
-                    <select id="sprint-year">
-                        <!-- Les années avec sprints seront ajoutées dynamiquement -->
-                    </select>
-                    <button id="sprint-next" class="tab-button" type="button">&gt;&gt;</button>
+                    <label for="sprint-year">Saison</label>
+                    <button id="sprint-prev" class="tab-button icon-btn" type="button" aria-label="Saison précédente">‹</button>
+                    <select id="sprint-year"></select>
+                    <button id="sprint-next" class="tab-button icon-btn" type="button" aria-label="Saison suivante">›</button>
                 </div>
             </div>
-            <p class="sprint-info" id="sprint-info"></p>
-            <div class="table-container">
+            <div class="info-banner" id="sprint-info"></div>
+            <div class="table-container table-sticky-first">
                 <table id="sprint-table">
                     <thead>
                         <tr>
                             <th>Pilote</th>
                             <th>Rang</th>
                             <th>Points</th>
-                            <!-- Les colonnes des sprints seront ajoutées dynamiquement -->
                         </tr>
                     </thead>
-                    <tbody id="sprint-body">
-                        <!-- Les données seront ajoutées dynamiquement -->
-                    </tbody>
+                    <tbody id="sprint-body"></tbody>
                 </table>
             </div>
             <p class="sprint-rules">
@@ -109,70 +106,68 @@
                 officiel : on compare le nombre de victoires en sprint, puis de 2es places,
                 de 3es places, etc.
             </p>
-        </div>
+        </section>
 
-        <div class="tab-content" id="deuxieme-pilote">
+        <section class="tab-content" id="deuxieme-pilote" role="tabpanel" hidden>
             <div class="controls">
                 <div class="year-selector">
-                    <label for="deuxieme-year">Année :</label>
-                    <button id="deuxieme-prev" class="tab-button" type="button">&lt;&lt;</button>
-                    <select id="deuxieme-year">
-                        <!-- Les années seront ajoutées dynamiquement -->
-                    </select>
-                    <button id="deuxieme-next" class="tab-button" type="button">&gt;&gt;</button>
+                    <label for="deuxieme-year">Saison</label>
+                    <button id="deuxieme-prev" class="tab-button icon-btn" type="button" aria-label="Saison précédente">‹</button>
+                    <select id="deuxieme-year"></select>
+                    <button id="deuxieme-next" class="tab-button icon-btn" type="button" aria-label="Saison suivante">›</button>
                 </div>
             </div>
-            <div class="table-container">
+            <div class="table-container table-sticky-first">
                 <table id="deuxieme-pilote-table">
                     <thead>
                         <tr>
                             <th>Équipe</th>
                             <th>Rang</th>
                             <th>Points</th>
-                            <!-- Les colonnes GP seront ajoutées dynamiquement -->
                         </tr>
                     </thead>
-                    <tbody id="deuxieme-pilote-body">
-                        <!-- Les données seront ajoutées dynamiquement -->
-                    </tbody>
+                    <tbody id="deuxieme-pilote-body"></tbody>
                 </table>
             </div>
-        </div>
+        </section>
 
-        <div class="tab-content" id="elo">
+        <section class="tab-content" id="elo" role="tabpanel" hidden>
             <div class="controls">
-                <div class="year-selector">
-                    <label for="elo-view">Vue :</label>
-                    <select id="elo-view">
-                        <option value="driver">Par pilote</option>
-                        <option value="race">Par course</option>
-                        <option value="age">ELO moyen / âge</option>
-                    </select>
-                </div>
+                <div class="controls-group">
+                    <div class="year-selector">
+                        <label for="elo-view">Vue</label>
+                        <select id="elo-view">
+                            <option value="driver">Par pilote</option>
+                            <option value="race">Par course</option>
+                            <option value="age">ELO moyen / âge</option>
+                        </select>
+                    </div>
 
-                <div class="year-selector" id="elo-age-shortcut">
-                    <button id="elo-age-button" class="tab-button" type="button">ELO par âge</button>
-                </div>
+                    <div class="year-selector" id="elo-age-shortcut">
+                        <button id="elo-age-button" class="tab-button" type="button">ELO par âge</button>
+                    </div>
 
-                <div class="year-selector" id="elo-driver-selector">
-                    <label for="elo-driver">Pilote :</label>
-                    <select id="elo-driver"></select>
-                </div>
+                    <div class="year-selector" id="elo-driver-selector">
+                        <label for="elo-driver">Pilote</label>
+                        <select id="elo-driver"></select>
+                    </div>
 
-                <div class="year-selector" id="elo-year-selector" style="display:none">
-                    <label for="elo-year">Année :</label>
-                    <button id="elo-year-prev" class="tab-button" type="button">&lt;&lt;</button>
-                    <select id="elo-year"></select>
-                    <button id="elo-year-next" class="tab-button" type="button">&gt;&gt;</button>
-                </div>
+                    <div class="year-selector" id="elo-year-selector" style="display:none">
+                        <label for="elo-year">Saison</label>
+                        <button id="elo-year-prev" class="tab-button icon-btn" type="button" aria-label="Saison précédente">‹</button>
+                        <select id="elo-year"></select>
+                        <button id="elo-year-next" class="tab-button icon-btn" type="button" aria-label="Saison suivante">›</button>
+                    </div>
 
-                <div class="year-selector" id="elo-race-selector" style="display:none">
-                    <label for="elo-race">Course :</label>
-                    <select id="elo-race"></select>
+                    <div class="year-selector" id="elo-race-selector" style="display:none">
+                        <label for="elo-race">Course</label>
+                        <select id="elo-race"></select>
+                    </div>
                 </div>
             </div>
 
             <div class="chart-container" id="elo-age-container" style="display:none">
+                <div id="elo-age-tooltip" class="chart-tooltip" aria-live="polite"></div>
                 <div id="elo-age-chart" class="elo-chart" aria-label="Graphique ELO moyen par âge"></div>
             </div>
 
@@ -186,15 +181,15 @@
                     <tbody id="elo-body"></tbody>
                 </table>
             </div>
-        </div>
+        </section>
     </div>
 
-    <script src="script.js"></script>
-    <script src="js/tabs.js"></script>
-    <script src="js/historique.js"></script>
-    <script src="js/qualifications.js"></script>
-    <script src="js/sprint.js"></script>
-    <script src="js/deuxieme_pilote.js"></script>
-    <script src="js/elo.js?v=20260317"></script>
+    <script src="js/utils.js?v=20260420" defer></script>
+    <script src="js/tabs.js?v=20260420" defer></script>
+    <script src="js/historique.js?v=20260420" defer></script>
+    <script src="js/qualifications.js?v=20260420" defer></script>
+    <script src="js/sprint.js?v=20260420" defer></script>
+    <script src="js/deuxieme_pilote.js?v=20260420" defer></script>
+    <script src="js/elo.js?v=20260420" defer></script>
 </body>
 </html>

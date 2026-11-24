@@ -1,15 +1,3 @@
-/* Colonnes verticales et étroites à partir de la 3ème colonne */
-#historique-table th:nth-child(n+4),
-#qualifications-table th:nth-child(n+4),
-#sprint-table th:nth-child(n+4),
-#deuxieme-pilote-table th:nth-child(n+4) {
-  writing-mode: vertical-lr;
-  text-orientation: mixed;
-  min-width: 24px;
-  max-width: 32px;
-  padding: 4px 2px;
-}
-
 /* ------------------------------------------------------------------
    Design system « Cyrille » — thème clair par défaut, sombre selon le
    réglage du système. Neutres chauds, une seule couleur d'accent
@@ -20,15 +8,25 @@
 
   --surface-100: #faf9f7;
   --surface-200: #f2f0ec;
+  --surface-300: #e9e6e0;
   --line: #e3dfd8;
+  --line-strong: #cfc9be;
   --ink: #1c1b19;
   --ink-muted: #5f5b55;
   --accent: #6e2233;
   --accent-hover: #561a28;
   --accent-soft: #f3e6e8;
 
+  /* Podium discret, calé sur la palette chaude */
+  --medal-gold-bg: #f6efe0;
+  --medal-gold-ink: #7a5812;
+  --medal-silver-bg: #ecebe8;
+  --medal-silver-ink: #4f4d49;
+  --medal-bronze-bg: #f3e8df;
+  --medal-bronze-ink: #784624;
+
   --font-serif: "Cormorant Garamond", Georgia, serif;
-  --font-sans: "Inter", system-ui, sans-serif;
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
 
   --space-1: 4px;
   --space-2: 8px;
@@ -36,6 +34,7 @@
   --space-4: 24px;
   --space-5: 40px;
 
+  --radius-sm: 6px;
   --radius-md: 8px;
   --radius-lg: 12px;
 
@@ -49,12 +48,21 @@
   :root {
     --surface-100: #121211;
     --surface-200: #1c1b1a;
+    --surface-300: #252422;
     --line: #2e2c29;
+    --line-strong: #423f3b;
     --ink: #f2efea;
     --ink-muted: #a8a39b;
     --accent: #d98a9a;
     --accent-hover: #e6a5b2;
     --accent-soft: #2e1a1e;
+
+    --medal-gold-bg: #2c2416;
+    --medal-gold-ink: #e2c278;
+    --medal-silver-bg: #252524;
+    --medal-silver-ink: #c6c4be;
+    --medal-bronze-bg: #2b2019;
+    --medal-bronze-ink: #d4a17e;
 
     --band-s: 22%;
     --band-l: 17%;
@@ -78,27 +86,47 @@ body {
 }
 
 .container {
-  max-width: 1200px;
+  max-width: 1280px;
   margin: 0 auto;
 }
 
 /* Anneau de focus : l'accent, toujours visible au clavier */
-:where(a, button, select):focus-visible {
+:where(a, button, select, input):focus-visible {
   outline: 2px solid var(--accent);
   outline-offset: 2px;
 }
 
+/* ------------------------------------------------------------------
+   En-tête & navigation par onglets
+   ------------------------------------------------------------------ */
 header {
-  margin-bottom: var(--space-5);
+  margin-bottom: var(--space-4);
+  padding-bottom: var(--space-3);
+  border-bottom: 1px solid var(--line);
+}
+
+.header-top {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  margin-bottom: var(--space-3);
 }
 
 header h1 {
   font-family: var(--font-serif);
-  font-weight: 500;
+  font-weight: 600;
   font-size: 40px;
-  line-height: 46px;
+  line-height: 44px;
+  letter-spacing: -0.01em;
   color: var(--ink);
-  margin-bottom: var(--space-4);
+}
+
+.header-subtitle {
+  font-size: 14px;
+  line-height: 20px;
+  color: var(--ink-muted);
 }
 
 .tabs {
@@ -113,15 +141,16 @@ header h1 {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-height: 40px;
-  padding: var(--space-2) var(--space-3);
+  gap: 6px;
+  min-height: 38px;
+  padding: 7px var(--space-3);
   border: 1px solid var(--line);
   background-color: transparent;
   color: var(--ink);
   font-family: var(--font-sans);
   font-size: 14px;
-  line-height: 22px;
-  font-weight: 600;
+  line-height: 20px;
+  font-weight: 500;
   border-radius: var(--radius-md);
   cursor: pointer;
   text-decoration: none;
@@ -129,15 +158,28 @@ header h1 {
   transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
 }
 
-.tab-button:hover,
-.navigation button:hover {
+.tab-button:hover:not(:disabled),
+.navigation button:hover:not(:disabled) {
   background-color: var(--surface-200);
+  border-color: var(--line-strong);
+}
+
+.tab-button:disabled,
+.navigation button:disabled {
+  opacity: 0.42;
+  cursor: not-allowed;
 }
 
 .tab-button.active {
   background-color: var(--accent-soft);
-  border-color: var(--accent-soft);
+  border-color: color-mix(in srgb, var(--accent) 30%, transparent);
   color: var(--accent);
+  font-weight: 600;
+}
+
+.icon-btn {
+  min-width: 38px;
+  padding: 7px 10px;
 }
 
 .tab-content {
@@ -148,13 +190,23 @@ header h1 {
   display: block;
 }
 
+/* ------------------------------------------------------------------
+   Barre de contrôles (filtres, recherche, navigation)
+   ------------------------------------------------------------------ */
 .controls {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: var(--space-4);
+  margin-bottom: var(--space-3);
   flex-wrap: wrap;
-  gap: var(--space-4);
+  gap: var(--space-3);
+}
+
+.controls-group {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--space-3);
 }
 
 .year-selector {
@@ -163,46 +215,153 @@ header h1 {
   gap: var(--space-2);
 }
 
-.year-selector label {
-  font-size: 14px;
-  line-height: 22px;
+.year-selector label,
+.search-box label {
+  font-size: 13px;
+  line-height: 20px;
   font-weight: 600;
   color: var(--ink-muted);
+  white-space: nowrap;
 }
 
-.year-selector select {
-  padding: var(--space-2) 12px;
+.year-selector select,
+.search-input {
+  min-height: 38px;
+  padding: 7px 12px;
   border-radius: var(--radius-md);
   border: 1px solid var(--line);
   background-color: var(--surface-100);
   color: var(--ink);
   font-family: var(--font-sans);
   font-size: 14px;
-  line-height: 22px;
-  min-width: 120px;
+  line-height: 20px;
+  transition: border-color 0.15s ease;
+}
+
+.year-selector select:hover,
+.search-input:hover {
+  border-color: var(--line-strong);
+}
+
+.year-selector select {
+  min-width: 112px;
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+.search-input {
+  width: 220px;
+  max-width: 100%;
+}
+
+.search-input::placeholder {
+  color: var(--ink-muted);
+  opacity: 0.75;
 }
 
 .navigation {
   display: flex;
   align-items: center;
-  gap: var(--space-3);
+  gap: var(--space-2);
 }
 
 #historique-range {
   font-weight: 600;
+  font-size: 14px;
   color: var(--ink);
   font-variant-numeric: tabular-nums;
   white-space: nowrap;
+  padding: 0 var(--space-2);
 }
 
-/* Tableau éditorial : filets fins, pas d'ombre, nombres alignés à droite */
+.table-meta {
+  font-size: 13px;
+  line-height: 20px;
+  color: var(--ink-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+/* Bandeau d'information (ex. champion sprint) */
+.info-banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  padding: 10px var(--space-3);
+  margin-bottom: var(--space-3);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--line);
+  background-color: var(--surface-200);
+  font-size: 14px;
+  line-height: 22px;
+  color: var(--ink);
+}
+
+.info-banner:empty {
+  display: none;
+}
+
+.info-banner strong {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+/* Cartes KPI (fiche pilote) */
+.kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: var(--space-2);
+  margin-bottom: var(--space-3);
+}
+
+.kpi-card {
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  background-color: var(--surface-200);
+  padding: 12px var(--space-3);
+}
+
+.kpi-label {
+  font-size: 11px;
+  line-height: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink-muted);
+  margin-bottom: 4px;
+}
+
+.kpi-value {
+  font-size: 20px;
+  line-height: 26px;
+  font-weight: 600;
+  color: var(--ink);
+  font-variant-numeric: tabular-nums;
+}
+
+.kpi-sub {
+  font-size: 12px;
+  line-height: 16px;
+  color: var(--ink-muted);
+  margin-top: 2px;
+}
+
+/* ------------------------------------------------------------------
+   Tableau éditorial : filets fins, 1ère colonne sticky, podium discret
+   ------------------------------------------------------------------ */
 .table-container {
-  max-height: 70vh;
+  max-height: 72vh;
   overflow: auto;
   border-radius: var(--radius-lg);
   border: 1px solid var(--line);
   background-color: var(--surface-100);
-  margin-bottom: var(--space-4);
+  margin-bottom: var(--space-3);
+  -webkit-overflow-scrolling: touch;
 }
 
 table {
@@ -216,7 +375,7 @@ table {
 thead {
   position: sticky;
   top: 0;
-  z-index: 10;
+  z-index: 20;
 }
 
 th {
@@ -224,7 +383,7 @@ th {
   color: var(--ink-muted);
   font-family: var(--font-sans);
   font-weight: 600;
-  padding: 12px var(--space-3);
+  padding: 10px 12px;
   text-align: left;
   white-space: nowrap;
   font-size: 12px;
@@ -235,23 +394,65 @@ th {
 }
 
 td {
-  padding: 10px var(--space-3);
+  padding: 9px 12px;
   text-align: left;
   white-space: nowrap;
   border-bottom: 1px solid var(--line);
+  background-color: var(--surface-100);
   font-size: 14px;
-  line-height: 22px;
+  line-height: 20px;
 }
 
-/* Classements numériques : nombres alignés à droite (le nom reste à gauche).
-   Les autres tableaux mêlent texte et chiffres et restent alignés à gauche. */
+/* 1ère colonne figée à gauche lors du défilement horizontal */
+.table-sticky-first th:first-child,
+.table-sticky-first td:first-child {
+  position: sticky;
+  left: 0;
+  z-index: 5;
+  border-right: 1px solid var(--line);
+}
+
+.table-sticky-first thead th:first-child {
+  z-index: 30;
+  background-color: var(--surface-200);
+}
+
+/* Colonnes verticales et étroites à partir de la 4ème colonne */
+#historique-table th:nth-child(n+4),
+#qualifications-table th:nth-child(n+4),
+#sprint-table th:nth-child(n+4),
+#deuxieme-pilote-table th:nth-child(n+4) {
+  writing-mode: vertical-lr;
+  text-orientation: mixed;
+  min-width: 28px;
+  max-width: 34px;
+  padding: 8px 4px;
+  vertical-align: bottom;
+}
+
+#historique-table td:nth-child(n+4),
+#qualifications-table td:nth-child(n+4),
+#sprint-table td:nth-child(n+4),
+#deuxieme-pilote-table td:nth-child(n+4) {
+  padding: 9px 6px;
+  min-width: 28px;
+}
+
+/* Classements numériques : nombres alignés à droite (le nom reste à gauche). */
 #historique-table th:not(:first-child),
 #historique-table td:not(:first-child),
 #qualifications-table th:not(:first-child),
 #qualifications-table td:not(:first-child),
+#sprint-table th:not(:first-child),
+#sprint-table td:not(:first-child),
 #deuxieme-pilote-table th:not(:first-child),
 #deuxieme-pilote-table td:not(:first-child) {
   text-align: right;
+}
+
+/* Zébrage très léger + survol net */
+tbody tr:nth-child(even) td {
+  background-color: color-mix(in srgb, var(--surface-200) 45%, var(--surface-100));
 }
 
 tbody tr:hover td {
@@ -260,6 +461,45 @@ tbody tr:hover td {
 
 tbody tr:last-child td {
   border-bottom: none;
+}
+
+/* Badges de rang (podium 1 / 2 / 3) */
+.rank-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 24px;
+  height: 22px;
+  padding: 0 6px;
+  border-radius: var(--radius-sm);
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1;
+}
+
+.rank-1 {
+  background-color: var(--medal-gold-bg);
+  color: var(--medal-gold-ink);
+}
+
+.rank-2 {
+  background-color: var(--medal-silver-bg);
+  color: var(--medal-silver-ink);
+}
+
+.rank-3 {
+  background-color: var(--medal-bronze-bg);
+  color: var(--medal-bronze-ink);
+}
+
+.points-cell {
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.cell-empty {
+  color: var(--ink-muted);
+  opacity: 0.35;
 }
 
 td a.driver-link {
@@ -276,8 +516,18 @@ td a.driver-link:hover {
   text-decoration-color: currentColor;
 }
 
-/* Graphiques */
+.table-state {
+  padding: var(--space-4) var(--space-3);
+  text-align: center !important;
+  color: var(--ink-muted);
+  font-size: 14px;
+}
+
+/* ------------------------------------------------------------------
+   Graphiques SVG + infobulle interactive
+   ------------------------------------------------------------------ */
 .chart-container {
+  position: relative;
   border-radius: var(--radius-lg);
   border: 1px solid var(--line);
   background-color: var(--surface-100);
@@ -291,8 +541,15 @@ td a.driver-link:hover {
 }
 
 .elo-svg {
+  display: block;
   width: 100%;
   height: auto;
+}
+
+.elo-grid-line {
+  stroke: var(--line);
+  stroke-width: 1;
+  stroke-dasharray: 3 3;
 }
 
 .elo-axis {
@@ -305,7 +562,9 @@ td a.driver-link:hover {
 .elo-line {
   fill: none;
   stroke: var(--accent);
-  stroke-width: 2;
+  stroke-width: 2.25;
+  stroke-linejoin: round;
+  stroke-linecap: round;
 }
 
 .elo-band {
@@ -314,35 +573,82 @@ td a.driver-link:hover {
 
 .elo-band-label {
   font-family: var(--font-sans);
-  font-size: 12px;
+  font-size: 11px;
+  font-weight: 500;
   fill: var(--ink-muted);
 }
 
 .elo-gap {
-  fill: color-mix(in srgb, var(--ink) 5%, transparent);
+  fill: color-mix(in srgb, var(--ink) 6%, transparent);
 }
 
 .elo-off-line {
   fill: none;
   stroke: var(--ink-muted);
-  stroke-opacity: 0.6;
-  stroke-width: 2;
+  stroke-opacity: 0.55;
+  stroke-width: 1.75;
   stroke-dasharray: 6 4;
 }
 
 .elo-label {
   font-family: var(--font-sans);
-  font-size: 12px;
+  font-size: 11px;
   fill: var(--ink-muted);
+  font-variant-numeric: tabular-nums;
 }
 
+.elo-hover-line {
+  stroke: var(--accent);
+  stroke-opacity: 0.4;
+  stroke-width: 1;
+  stroke-dasharray: 3 3;
+  pointer-events: none;
+}
+
+.elo-hover-dot {
+  fill: var(--accent);
+  stroke: var(--surface-100);
+  stroke-width: 2;
+  pointer-events: none;
+}
+
+.chart-tooltip {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  padding: 6px 10px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--line);
+  background-color: var(--surface-200);
+  color: var(--ink);
+  font-size: 12px;
+  line-height: 18px;
+  font-variant-numeric: tabular-nums;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.12s ease;
+}
+
+.chart-tooltip.visible {
+  opacity: 1;
+}
+
+.chart-tooltip strong {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+/* ------------------------------------------------------------------
+   Fiche pilote & notes
+   ------------------------------------------------------------------ */
 .driver-results {
-  margin-top: var(--space-4);
+  margin-top: var(--space-3);
 }
 
 .driver-results-actions {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
   gap: var(--space-3);
 }
 
@@ -356,60 +662,82 @@ td a.driver-link:hover {
   margin-top: var(--space-3);
 }
 
+.sprint-rules {
+  margin: var(--space-2) 0 var(--space-4);
+  font-size: 13px;
+  line-height: 20px;
+  color: var(--ink-muted);
+}
+
+/* ------------------------------------------------------------------
+   Préférences d'animation & responsive
+   ------------------------------------------------------------------ */
 @media (prefers-reduced-motion: reduce) {
   .tab-button,
-  .navigation button {
+  .navigation button,
+  .year-selector select,
+  .search-input,
+  .chart-tooltip {
     transition: none;
   }
 }
 
-/* Mobile */
 @media (max-width: 768px) {
   body {
     padding: var(--space-3);
   }
 
   header {
-    margin-bottom: var(--space-4);
-  }
-
-  header h1 {
-    font-size: 32px;
-    line-height: 38px;
     margin-bottom: var(--space-3);
   }
 
+  header h1 {
+    font-size: 30px;
+    line-height: 36px;
+  }
+
   .table-container {
-    max-height: 60vh;
+    max-height: 64vh;
   }
 
   th,
   td {
-    padding: var(--space-2) 10px;
+    padding: 8px 10px;
+    font-size: 13px;
   }
 
   .controls {
     flex-direction: column;
-    align-items: flex-start;
-    gap: var(--space-3);
+    align-items: stretch;
+    gap: var(--space-2);
+  }
+
+  .controls-group {
+    justify-content: space-between;
+  }
+
+  .search-box {
+    width: 100%;
+  }
+
+  .search-input {
+    flex: 1;
+    width: auto;
   }
 
   .navigation {
     width: 100%;
     justify-content: space-between;
-    gap: var(--space-2);
+  }
+
+  .chart-tooltip {
+    position: static;
+    margin-bottom: var(--space-2);
   }
 }
 
 @media (min-width: 769px) {
   body {
-    padding: var(--space-5);
+    padding: var(--space-4) var(--space-5);
   }
-}
-
-.sprint-info,
-.sprint-rules {
-  margin: 0.75rem 0;
-  font-size: 0.9rem;
-  opacity: 0.8;
 }
