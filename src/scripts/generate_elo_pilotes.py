@@ -1,20 +1,16 @@
 from __future__ import annotations
 
 import argparse
-import csv
-import glob
-import hashlib
 import json
 import os
 import sys
 from collections import defaultdict
-from dataclasses import dataclass
 from typing import Any
 
 import yaml
 
 from elo.csv_out import write_driver_csv, write_race_csv
-from elo.elo_math import compute_constructor_course_update, compute_course_update
+from elo.elo_math import compute_course_update
 from elo.f1db_io import (
     RaceMeta,
     compute_source_hash,
@@ -26,7 +22,6 @@ from elo.f1db_io import (
     load_race_data,
 )
 from elo.ranking import (
-    BOTTOM_TIER_STATUSES,
     classify_dnf,
     dedupe_best_by_driver,
     rank_entries,
