@@ -14,8 +14,9 @@ from typing import Any
 import yaml
 
 from elo.csv_out import write_driver_csv, write_race_csv
-from elo.elo_math import compute_course_update, compute_constructor_course_update
+from elo.elo_math import compute_constructor_course_update, compute_course_update
 from elo.f1db_io import (
+    RaceMeta,
     compute_source_hash,
     get_available_years,
     get_file_hash,
@@ -23,7 +24,6 @@ from elo.f1db_io import (
     load_constructor_names,
     load_driver_names,
     load_race_data,
-    type RaceMeta,
 )
 from elo.ranking import (
     BOTTOM_TIER_STATUSES,
