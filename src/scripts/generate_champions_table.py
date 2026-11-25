@@ -4,14 +4,14 @@ import argparse
 import csv
 import glob
 import os
-from dataclasses import dataclass
-from typing import Dict, Iterable, List, Optional, Tuple
+import sys
+from typing import Any
 
 import yaml
 
 
-def parse_year_dirs(docs_data_dir: str) -> List[int]:
-    years: List[int] = []
+def parse_year_dirs(docs_data_dir: str) -> list[int]:
+    years: list[int] = []
     for path in glob.glob(os.path.join(docs_data_dir, "[0-9][0-9][0-9][0-9]")):
         base = os.path.basename(path)
         try:
@@ -21,13 +21,13 @@ def parse_year_dirs(docs_data_dir: str) -> List[int]:
     return sorted(set(years))
 
 
-def load_yaml(path: str):
-    with open(path, "r", encoding="utf-8") as f:
+def load_yaml(path: str) -> Any:
+    with open(path, encoding="utf-8") as f:
         return yaml.safe_load(f)
 
 
-def load_id_name_map(dir_path: str) -> Dict[str, str]:
-    out: Dict[str, str] = {}
+def load_id_name_map(dir_path: str) -> dict[str, str]:
+    out: dict[str, str] = {}
     for path in glob.glob(os.path.join(dir_path, "*.yml")):
         try:
             data = load_yaml(path) or {}
@@ -40,7 +40,7 @@ def load_id_name_map(dir_path: str) -> Dict[str, str]:
     return out
 
 
-def find_position_one_id(rows, key: str) -> Optional[str]:
+def find_position_one_id(rows: Any, key: str) -> str | None:
     if not isinstance(rows, list):
         return None
     for r in rows:
@@ -50,7 +50,6 @@ def find_position_one_id(rows, key: str) -> Optional[str]:
             v = r.get(key)
             if isinstance(v, str) and v.strip():
                 return v.strip()
-    # fallback: some files might omit position typing or be sorted
     if rows and isinstance(rows[0], dict):
         v = rows[0].get(key)
         if isinstance(v, str) and v.strip():
@@ -60,7 +59,7 @@ def find_position_one_id(rows, key: str) -> Optional[str]:
 
 def read_first_value(csv_path: str, column_name: str) -> str:
     try:
-        with open(csv_path, "r", encoding="utf-8", newline="") as f:
+        with open(csv_path, encoding="utf-8", newline="") as f:
             reader = csv.DictReader(f)
             for row in reader:
                 v = (row.get(column_name) or "").strip()
@@ -69,9 +68,10 @@ def read_first_value(csv_path: str, column_name: str) -> str:
                 return ""
     except Exception:
         return ""
+    return ""
 
 
-def main(argv: List[str]) -> int:
+def main(argv: list[str]) -> int:
     parser = argparse.ArgumentParser(
         description=(
             "Génère un tableau des champions par année: "
@@ -115,12 +115,16 @@ def main(argv: List[str]) -> int:
     driver_names = load_id_name_map(os.path.join(yaml_dir, "drivers"))
     constructor_names = load_id_name_map(os.path.join(yaml_dir, "constructors"))
 
-    rows_out: List[List[str]] = []
+    rows_out: list[list[str]] = []
 
     for year in years:
         season_dir = os.path.join(yaml_dir, "seasons", str(year))
-        driver_standings_path = os.path.join(season_dir, "driver-standings.yml")
-        constructor_standings_path = os.path.join(season_dir, "constructor-standings.yml")
+        driver_standings_path = os.path.join(
+            season_dir, "driver-standings.yml"
+        )
+        constructor_standings_path = os.path.join(
+            season_dir, "constructor-standings.yml"
+        )
 
         champion_driver = ""
         if os.path.exists(driver_standings_path):
@@ -134,18 +138,34 @@ def main(argv: List[str]) -> int:
             data = load_yaml(constructor_standings_path)
             constructor_id = find_position_one_id(data, "constructorId")
             if constructor_id:
-                champion_constructor = constructor_names.get(constructor_id, constructor_id)
+                champion_constructor = constructor_names.get(
+                    constructor_id, constructor_id
+                )
 
-        qualif_path = os.path.join(docs_data_dir, str(year), "qualifications.csv")
-        champion_qualif = read_first_value(qualif_path, "Pilote") if os.path.exists(qualif_path) else ""
+        qualif_path = os.path.join(
+            docs_data_dir, str(year), "qualifications.csv"
+        )
+        champion_qualif = (
+            read_first_value(qualif_path, "Pilote")
+            if os.path.exists(qualif_path)
+            else ""
+        )
 
-        deuxieme_path = os.path.join(docs_data_dir, str(year), "deuxieme_pilote.csv")
+        deuxieme_path = os.path.join(
+            docs_data_dir, str(year), "deuxieme_pilote.csv"
+        )
         champion_deuxieme_constructor = (
-            read_first_value(deuxieme_path, "Équipe") if os.path.exists(deuxieme_path) else ""
+            read_first_value(deuxieme_path, "Équipe")
+            if os.path.exists(deuxieme_path)
+            else ""
         )
 
         sprint_path = os.path.join(docs_data_dir, str(year), "sprint.csv")
-        champion_sprint = read_first_value(sprint_path, "Pilote") if os.path.exists(sprint_path) else ""
+        champion_sprint = (
+            read_first_value(sprint_path, "Pilote")
+            if os.path.exists(sprint_path)
+            else ""
+        )
 
         rows_out.append(
             [
@@ -178,4 +198,4 @@ def main(argv: List[str]) -> int:
 
 
 if __name__ == "__main__":
-    raise SystemExit(main(os.sys.argv[1:]))
+    raise SystemExit(main(sys.argv[1:]))

@@ -3,7 +3,6 @@ from __future__ import annotations
 import math
 from collections import defaultdict
 from dataclasses import dataclass
-from typing import Dict, List, Tuple
 
 from .ranking import RankedEntry, outcome
 
@@ -37,29 +36,17 @@ def expected_score(ra: float, rb: float, scale: float = 400.0) -> float:
 
 
 def compute_course_update(
-    ranked_entries: List[RankedEntry],
-    ratings: Dict[str, float],
+    ranked_entries: list[RankedEntry],
+    ratings: dict[str, float],
     k: float,
     scale: float = 400.0,
     initial_elo: float = 1000.0,
-) -> Tuple[Dict[str, EloResultRow], Dict[str, float]]:
-    """Compute order-independent ELO update for a multi-participant race.
-
-    For each driver i:
-      S_i = avg_j outcome(i,j)
-      E_i = avg_j expected(ri,rj, scale)
-      r_i' = r_i + K*(S_i - E_i)
-
-    Returns:
-      - per-driver result rows
-      - updated ratings dict (same object as input mutated)
-    """
-
+) -> tuple[dict[str, EloResultRow], dict[str, float]]:
     n = len(ranked_entries)
     if n < 2:
         return {}, ratings
 
-    driver_ids = [re.entry.driver_id for re in ranked_entries]
+    driver_ids = [re_entry.entry.driver_id for re_entry in ranked_entries]
     before = {d: float(ratings.get(d, initial_elo)) for d in driver_ids}
 
     actual_sum = dict.fromkeys(driver_ids, 0.0)
@@ -85,7 +72,7 @@ def compute_course_update(
             actual_sum[dj] += out_j
 
     denom = float(n - 1)
-    results: Dict[str, EloResultRow] = {}
+    results: dict[str, EloResultRow] = {}
     for d in driver_ids:
         s = actual_sum[d] / denom
         e = expected_sum[d] / denom
@@ -105,28 +92,16 @@ def compute_course_update(
 
 
 def compute_constructor_course_update(
-    ranked_entries: List[RankedEntry],
-    ratings: Dict[str, float],
+    ranked_entries: list[RankedEntry],
+    ratings: dict[str, float],
     k: float,
     scale: float = 600.0,
     initial_elo: float = 1000.0,
-) -> Tuple[Dict[str, ConstructorEloResultRow], Dict[str, float]]:
-    """Compute order-independent ELO update for constructors in a race.
-
-    Each constructor's cars (typically 2 vehicles) are compared against all
-    vehicles from *other* constructors (n - m_c opponents, i.e. n - 2 for a
-    standard 2-car team). Cars of the same constructor are never compared
-    against each other.
-
-    For each constructor c with cars C_c and external opponents O_c:
-      S_c = avg_{(a in C_c, b in O_c)} outcome(a, b)
-      E_c = avg_{(a in C_c, b in O_c)} expected(r_c, r_{team(b)}, scale)
-      r_c' = r_c + K * (S_c - E_c)
-    """
-    valid_entries = [re for re in ranked_entries if re.entry.constructor_id]
-    by_constructor: Dict[str, List[RankedEntry]] = defaultdict(list)
-    for re in valid_entries:
-        by_constructor[re.entry.constructor_id].append(re)
+) -> tuple[dict[str, ConstructorEloResultRow], dict[str, float]]:
+    valid_entries = [re_entry for re_entry in ranked_entries if re_entry.entry.constructor_id]
+    by_constructor: dict[str, list[RankedEntry]] = defaultdict(list)
+    for re_entry in valid_entries:
+        by_constructor[re_entry.entry.constructor_id].append(re_entry)
 
     constructors = list(by_constructor.keys())
     if len(constructors) < 2:
@@ -162,7 +137,7 @@ def compute_constructor_course_update(
             expected_sum[cj] += exp_j
             pair_count[cj] += 1
 
-    results: Dict[str, ConstructorEloResultRow] = {}
+    results: dict[str, ConstructorEloResultRow] = {}
     for c in constructors:
         pairs = pair_count[c]
         if pairs <= 0:
@@ -174,7 +149,7 @@ def compute_constructor_course_update(
         after = before[c] + delta
         ratings[c] = after
 
-        pos_list = [re.entry.position_raw or "-" for re in cars]
+        pos_list = [re_entry.entry.position_raw or "-" for re_entry in cars]
         results[c] = ConstructorEloResultRow(
             constructor_id=c,
             elo_before=before[c],

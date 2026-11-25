@@ -5,13 +5,14 @@ import csv
 import json
 import os
 import sys
-import yaml
 from collections import defaultdict
-from typing import Dict, List, Optional
+from typing import Any
 
+import yaml
 from elo.csv_out import ensure_dir, write_driver_csv
 from elo.elo_math import compute_constructor_course_update
 from elo.f1db_io import (
+    RaceMeta,
     compute_source_hash,
     get_available_years,
     get_file_hash,
@@ -22,12 +23,12 @@ from elo.f1db_io import (
 from elo.ranking import classify_dnf, dedupe_best_by_driver, rank_entries
 
 
-def load_config(config_path: str) -> dict:
+def load_config(config_path: str) -> dict[str, Any]:
     with open(config_path, "r", encoding="utf-8") as f:
         return yaml.safe_load(f) or {}
 
 
-def parse_years_arg(years_arg: Optional[str], yaml_dir: str) -> List[int]:
+def parse_years_arg(years_arg: str | None, yaml_dir: str) -> list[int]:
     available = [int(y) for y in get_available_years(yaml_dir)]
     if not years_arg:
         return available
@@ -44,7 +45,7 @@ def parse_years_arg(years_arg: Optional[str], yaml_dir: str) -> List[int]:
     return [int(years_arg)]
 
 
-def should_use_cache(hash_file: str, expected: dict, output_root: str) -> bool:
+def should_use_cache(hash_file: str, expected: dict[str, Any], output_root: str) -> bool:
     if not os.path.exists(hash_file) or not os.path.exists(output_root):
         return False
     try:
@@ -55,7 +56,7 @@ def should_use_cache(hash_file: str, expected: dict, output_root: str) -> bool:
     return prev == expected
 
 
-def save_cache(hash_file: str, value: dict) -> None:
+def save_cache(hash_file: str, value: dict[str, Any]) -> None:
     os.makedirs(os.path.dirname(hash_file), exist_ok=True)
     with open(hash_file, "w", encoding="utf-8") as f:
         yaml.safe_dump(value, f)
@@ -71,9 +72,9 @@ def resolve_from_script_dir(path: str) -> str:
 def write_constructor_race_csv(
     output_file: str,
     *,
-    meta: Dict[str, object],
-    elo_rows: Dict[str, object],
-    constructor_id_to_name: Dict[str, str],
+    meta: dict[str, Any],
+    elo_rows: dict[str, Any],
+    constructor_id_to_name: dict[str, str],
 ) -> None:
     ensure_dir(os.path.dirname(output_file))
     fieldnames = [
@@ -118,19 +119,19 @@ def write_constructor_race_csv(
 def generate_all(
     *,
     yaml_dir: str,
-    races,
-    constructor_id_to_name: Dict[str, str],
+    races: list[RaceMeta],
+    constructor_id_to_name: dict[str, str],
     output_root: str,
     k: float,
     initial_elo: float,
     scale: float,
     exclude_driver_dnf: bool,
 ) -> None:
-    ratings: Dict[str, float] = {}
-    constructor_rows: Dict[str, List[dict]] = defaultdict(list)
-    races_by_year: Dict[int, List[dict]] = defaultdict(list)
-    peak_elo: Dict[str, float] = {}
-    peak_year: Dict[str, int] = {}
+    ratings: dict[str, float] = {}
+    constructor_rows: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    races_by_year: dict[int, list[dict[str, Any]]] = defaultdict(list)
+    peak_elo: dict[str, float] = {}
+    peak_year: dict[str, int] = {}
 
     career_race_number = 0
     for meta in races:
@@ -146,9 +147,9 @@ def generate_all(
             ]
 
         ranked = rank_entries(entries)
-        for re in ranked:
-            if re.entry.constructor_id:
-                ratings.setdefault(re.entry.constructor_id, initial_elo)
+        for re_entry in ranked:
+            if re_entry.entry.constructor_id:
+                ratings.setdefault(re_entry.entry.constructor_id, initial_elo)
 
         elo_rows, _ = compute_constructor_course_update(
             ranked,
@@ -233,8 +234,7 @@ def generate_all(
         "totalRaces": career_race_number,
         "constructors": constructors_meta,
         "racesByYear": {
-            str(year): races_by_year[year]
-            for year in sorted(races_by_year.keys())
+            str(year): races_by_year[year] for year in sorted(races_by_year.keys())
         },
     }
 
@@ -243,7 +243,7 @@ def generate_all(
         json.dump(index_payload, f, ensure_ascii=False, indent=2)
 
 
-def main(argv: List[str]) -> int:
+def main(argv: list[str]) -> int:
     parser = argparse.ArgumentParser(
         description="Calcule un ELO par constructeur (voitures comparées aux n-2 concurrents) à partir de f1db YAML."
     )

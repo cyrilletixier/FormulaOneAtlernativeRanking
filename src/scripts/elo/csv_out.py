@@ -2,8 +2,8 @@ from __future__ import annotations
 
 import csv
 import os
-from dataclasses import asdict
-from typing import Dict, Iterable, List, Optional
+from collections.abc import Iterable
+from typing import Any
 
 from .elo_math import EloResultRow
 from .ranking import RankedEntry
@@ -16,10 +16,10 @@ def ensure_dir(path: str) -> None:
 def write_race_csv(
     output_file: str,
     *,
-    meta: Dict[str, object],
-    ranked_entries: List[RankedEntry],
-    driver_id_to_name: Dict[str, str],
-    elo_rows: Dict[str, EloResultRow],
+    meta: dict[str, Any],
+    ranked_entries: list[RankedEntry],
+    driver_id_to_name: dict[str, str],
+    elo_rows: dict[str, EloResultRow],
     k_used: float,
 ) -> None:
     ensure_dir(os.path.dirname(output_file))
@@ -43,7 +43,7 @@ def write_race_csv(
         "eloAfter",
         "eloDelta",
         "actualScore",
-        "expectedScore",
+                "expectedScore",
         "kUsed",
         "nParticipants",
     ]
@@ -53,17 +53,17 @@ def write_race_csv(
     with open(output_file, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
-        for idx, re in enumerate(ranked_entries, start=1):
-            d = re.entry.driver_id
+        for idx, re_entry in enumerate(ranked_entries, start=1):
+            d = re_entry.entry.driver_id
             row = {
                 **meta,
                 "driverId": d,
                 "driverName": driver_id_to_name.get(d, d),
-                "constructorId": re.entry.constructor_id or "",
-                "positionRaw": re.entry.position_raw,
-                "laps": "" if re.entry.laps is None else re.entry.laps,
-                "gridPosition": re.entry.grid_position or "",
-                "rankKeyTier": re.tie_key[0],
+                "constructorId": re_entry.entry.constructor_id or "",
+                "positionRaw": re_entry.entry.position_raw,
+                "laps": "" if re_entry.entry.laps is None else re_entry.entry.laps,
+                "gridPosition": re_entry.entry.grid_position or "",
+                "rankKeyTier": re_entry.tie_key[0],
                 "rankInRace": idx,
                 "kUsed": k_used,
                 "nParticipants": n,
@@ -84,7 +84,7 @@ def write_race_csv(
 
 def write_driver_csv(
     output_file: str,
-    rows: Iterable[Dict[str, object]],
+    rows: Iterable[dict[str, Any]],
 ) -> None:
     ensure_dir(os.path.dirname(output_file))
     rows_list = list(rows)

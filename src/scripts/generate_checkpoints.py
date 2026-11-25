@@ -1,21 +1,5 @@
 from __future__ import annotations
 
-"""Génère, pour chaque saison, le tableau des points cumulés par pilote à
-différents moments clés de chaque Grand Prix :
-  - Qualification          (qualifying-results.yml de f1db)
-  - Grille de départ       (starting-grid-positions.yml de f1db, avec pénalités)
-  - Tour 1                 (classement à la fin du tour 1 via API Jolpica-F1, depuis 1996)
-  - 10%                    (classement au tour ~10% de la distance courue)
-  - 50%                    (classement à mi-course)
-  - 90%                    (classement à 90% de la distance courue)
-  - Fin                    (race-results.yml de f1db)
-
-Barème utilisé : 25-18-15-12-10-8-6-4-2-1 (src/scripts/config/qualifications_points.json).
-Les tours par tour (Lap 1, 10%, 50%, 90%) n'existent pas dans f1db et sont
-récupérés (avec cache JSON local) via l'API publique Jolpica-F1 (compatible Ergast)
-pour les saisons disponibles (>= 1996).
-"""
-
 import argparse
 import csv
 import glob
@@ -28,7 +12,7 @@ import unicodedata
 import urllib.error
 import urllib.request
 from collections import defaultdict
-from typing import Dict, List, Optional, Tuple
+from typing import Any
 
 import yaml
 
@@ -49,14 +33,14 @@ DEFAULT_POINTS = {
 }
 
 
-def load_yaml(file_path: str):
+def load_yaml(file_path: str) -> Any:
     if not os.path.exists(file_path):
         return None
     with open(file_path, "r", encoding="utf-8") as f:
         return yaml.safe_load(f)
 
 
-def get_file_hash(file_path: str) -> Optional[str]:
+def get_file_hash(file_path: str) -> str | None:
     if not os.path.exists(file_path):
         return None
     with open(file_path, "rb") as f:
@@ -69,7 +53,7 @@ def normalize_text(value: str) -> str:
     return "".join(ch for ch in text.lower() if ch.isalnum())
 
 
-def parse_pos(value) -> Optional[int]:
+def parse_pos(value: Any) -> int | None:
     if value is None:
         return None
     try:
@@ -79,7 +63,7 @@ def parse_pos(value) -> Optional[int]:
         return None
 
 
-def get_available_years(yaml_dir: str) -> List[int]:
+def get_available_years(yaml_dir: str) -> list[int]:
     seasons_dir = f"{yaml_dir}/seasons"
     if not os.path.exists(seasons_dir):
         return []
@@ -90,15 +74,12 @@ def get_available_years(yaml_dir: str) -> List[int]:
     )
 
 
-def load_driver_catalog(yaml_dir: str) -> Tuple[Dict[str, str], Dict[str, str], Dict[str, str]]:
-    """Retourne :
-    - id_to_name: driverId f1db -> Nom complet
-    - code_to_id: code 3 lettres (ex. VER) -> driverId (fallback)
-    - norm_name_to_id: nom normalisé (prénom+nom, nom, id) -> driverId
-    """
-    id_to_name: Dict[str, str] = {}
-    code_to_id: Dict[str, str] = {}
-    norm_name_to_id: Dict[str, str] = {}
+def load_driver_catalog(
+    yaml_dir: str,
+) -> tuple[dict[str, str], dict[str, str], dict[str, str]]:
+    id_to_name: dict[str, str] = {}
+    code_to_id: dict[str, str] = {}
+    norm_name_to_id: dict[str, str] = {}
 
     drivers_dir = f"{yaml_dir}/drivers"
     for driver_file in glob.glob(f"{drivers_dir}/*.yml"):
@@ -119,13 +100,13 @@ def load_driver_catalog(yaml_dir: str) -> Tuple[Dict[str, str], Dict[str, str], 
     return id_to_name, code_to_id, norm_name_to_id
 
 
-def load_points_scale(config_path: str) -> Dict[int, int]:
+def load_points_scale(config_path: str) -> dict[int, int]:
     if not os.path.exists(config_path):
         return dict(DEFAULT_POINTS)
     with open(config_path, "r", encoding="utf-8") as f:
         cfg = yaml.safe_load(f) or {}
     raw = cfg.get("points_per_position") or {}
-    out: Dict[int, int] = {}
+    out: dict[int, int] = {}
     for k, v in raw.items():
         try:
             out[int(k)] = int(v)
@@ -134,7 +115,7 @@ def load_points_scale(config_path: str) -> Dict[int, int]:
     return out or dict(DEFAULT_POINTS)
 
 
-def fetch_json_url(url: str, retries: int = 3) -> Optional[dict]:
+def fetch_json_url(url: str, retries: int = 3) -> dict[str, Any] | None:
     for attempt in range(retries):
         req = urllib.request.Request(
             url,
@@ -167,11 +148,10 @@ def fetch_lap_standings_cached(
     lap_number: int,
     cache_dir: str,
     offline: bool = False,
-) -> Optional[List[Tuple[int, str]]]:
-    """Retourne la liste triée [(position, ergast_driver_id), ...] pour un tour donné.
-    Met en cache sur disque pour éviter de re-requêter l'API pour les courses passées.
-    """
-    cache_file = os.path.join(cache_dir, str(year), f"r{round_num:02d}_l{lap_number:03d}.json")
+) -> list[tuple[int, str]] | None:
+    cache_file = os.path.join(
+        cache_dir, str(year), f"r{round_num:02d}_l{lap_number:03d}.json"
+    )
     if os.path.exists(cache_file):
         try:
             with open(cache_file, "r", encoding="utf-8") as f:
@@ -187,10 +167,13 @@ def fetch_lap_standings_cached(
 
     url = f"{JOLPICA_BASE_URL}/{year}/{round_num}/laps/{lap_number}.json?limit=100"
     payload = fetch_json_url(url)
-    # Petite pause pour respecter le rate-limit de Jolpica-F1
     time.sleep(0.25)
 
-    races = payload.get("MRData", {}).get("RaceTable", {}).get("Races", []) if payload else []
+    races = (
+        payload.get("MRData", {}).get("RaceTable", {}).get("Races", [])
+        if payload
+        else []
+    )
     if not races or not races[0].get("Laps"):
         if year < time.gmtime().tm_year:
             os.makedirs(os.path.dirname(cache_file), exist_ok=True)
@@ -199,7 +182,7 @@ def fetch_lap_standings_cached(
         return None
 
     timings = races[0]["Laps"][0].get("Timings", [])
-    standings: List[Tuple[int, str]] = []
+    standings: list[tuple[int, str]] = []
     for t in timings:
         pos = parse_pos(t.get("position"))
         did = str(t.get("driverId") or "").strip()
@@ -215,13 +198,11 @@ def fetch_lap_standings_cached(
 
 
 def build_race_driver_resolver(
-    race_entries: list,
-    id_to_name: Dict[str, str],
-    norm_name_to_id: Dict[str, str],
-) -> Dict[str, str]:
-    """Construit un mapping local rapide ergast_driver_id -> f1db driver_id
-    pour les pilotes engagés sur ce Grand Prix."""
-    mapping: Dict[str, str] = {}
+    race_entries: list[Any],
+    id_to_name: dict[str, str],
+    norm_name_to_id: dict[str, str],
+) -> dict[str, str]:
+    mapping: dict[str, str] = {}
     race_ids = set()
     for row in race_entries or []:
         if isinstance(row, dict) and row.get("driverId"):
@@ -242,14 +223,22 @@ def build_race_driver_resolver(
             name_parts = full_name.split()
             if name_parts:
                 last_norm = normalize_text(name_parts[-1])
-                if sum(1 for other in race_ids if normalize_text(id_to_name.get(other, "").split()[-1]) == last_norm) == 1:
+                if (
+                    sum(
+                        1
+                        for other in race_ids
+                        if normalize_text(id_to_name.get(other, "").split()[-1])
+                        == last_norm
+                    )
+                    == 1
+                ):
                     mapping[last_norm] = did
 
     mapping.update({k: v for k, v in norm_name_to_id.items() if k not in mapping})
     return mapping
 
 
-def resolve_ergast_driver_id(ergast_id: str, resolver: Dict[str, str]) -> Optional[str]:
+def resolve_ergast_driver_id(ergast_id: str, resolver: dict[str, str]) -> str | None:
     if not ergast_id:
         return None
     if ergast_id in resolver:
@@ -267,8 +256,7 @@ def resolve_ergast_driver_id(ergast_id: str, resolver: Dict[str, str]) -> Option
     return None
 
 
-def compute_checkpoint_laps(total_laps: int) -> Dict[str, int]:
-    """Calcule les numéros de tours correspondant à Tour 1, 10%, 50%, 90%."""
+def compute_checkpoint_laps(total_laps: int) -> dict[str, int]:
     if total_laps <= 0:
         return {}
     return {
@@ -280,10 +268,10 @@ def compute_checkpoint_laps(total_laps: int) -> Dict[str, int]:
 
 
 def add_points_from_yaml(
-    rows: Optional[list],
-    points_scale: Dict[int, int],
-    target: Dict[str, int],
-    seen_drivers: set,
+    rows: list[Any] | None,
+    points_scale: dict[int, int],
+    target: dict[str, int],
+    seen_drivers: set[str],
 ) -> None:
     if not rows:
         return
@@ -300,7 +288,7 @@ def add_points_from_yaml(
             target[did] += points_scale.get(pos, 0)
 
 
-def compute_season_source_hash(yaml_dir: str, year: int) -> Optional[str]:
+def compute_season_source_hash(yaml_dir: str, year: int) -> str | None:
     races_dir = f"{yaml_dir}/seasons/{year}/races"
     if not os.path.exists(races_dir):
         return None
@@ -308,7 +296,12 @@ def compute_season_source_hash(yaml_dir: str, year: int) -> Optional[str]:
     found = False
     for race_dir in sorted(os.listdir(races_dir)):
         rdir = os.path.join(races_dir, race_dir)
-        for fname in ("race.yml", "qualifying-results.yml", "starting-grid-positions.yml", "race-results.yml"):
+        for fname in (
+            "race.yml",
+            "qualifying-results.yml",
+            "starting-grid-positions.yml",
+            "race-results.yml",
+        ):
             fh = get_file_hash(os.path.join(rdir, fname))
             if fh:
                 found = True
@@ -320,16 +313,15 @@ def generate_season(
     *,
     yaml_dir: str,
     year: int,
-    points_scale: Dict[int, int],
-    id_to_name: Dict[str, str],
-    norm_name_to_id: Dict[str, str],
+    points_scale: dict[int, int],
+    id_to_name: dict[str, str],
+    norm_name_to_id: dict[str, str],
     output_path: str,
     cache_dir: str,
     script_hash: str,
     force: bool = False,
     offline: bool = False,
-) -> Tuple[str, dict]:
-    """Génère docs/data/<year>/checkpoints.csv. Retourne (status, summary_meta)."""
+) -> tuple[str, dict[str, Any]]:
     hash_file = f"{output_path}.hash"
     source_hash = compute_season_source_hash(yaml_dir, year)
     if source_hash is None:
@@ -346,7 +338,9 @@ def generate_season(
         try:
             with open(hash_file, "r", encoding="utf-8") as f:
                 prev = yaml.safe_load(f) or {}
-            if prev.get("cache_key") == expected_cache and isinstance(prev.get("meta"), dict):
+            if prev.get("cache_key") == expected_cache and isinstance(
+                prev.get("meta"), dict
+            ):
                 return "cache", prev["meta"]
         except Exception:
             pass
@@ -354,14 +348,14 @@ def generate_season(
     races_dir = f"{yaml_dir}/seasons/{year}/races"
     race_dirs = sorted(os.listdir(races_dir))
 
-    seen_drivers: set = set()
-    pts_qualif: Dict[str, int] = defaultdict(int)
-    pts_grid: Dict[str, int] = defaultdict(int)
-    pts_lap1: Dict[str, int] = defaultdict(int)
-    pts_p10: Dict[str, int] = defaultdict(int)
-    pts_p50: Dict[str, int] = defaultdict(int)
-    pts_p90: Dict[str, int] = defaultdict(int)
-    pts_finish: Dict[str, int] = defaultdict(int)
+    seen_drivers: set[str] = set()
+    pts_qualif: dict[str, int] = defaultdict(int)
+    pts_grid: dict[str, int] = defaultdict(int)
+    pts_lap1: dict[str, int] = defaultdict(int)
+    pts_p10: dict[str, int] = defaultdict(int)
+    pts_p50: dict[str, int] = defaultdict(int)
+    pts_p90: dict[str, int] = defaultdict(int)
+    pts_finish: dict[str, int] = defaultdict(int)
 
     races_total = 0
     races_with_laps = 0
@@ -385,7 +379,13 @@ def generate_season(
             continue
 
         completed_laps = max(
-            (int(r["laps"]) for r in race_results if isinstance(r, dict) and r.get("laps") is not None and str(r["laps"]).isdigit()),
+            (
+                int(r["laps"])
+                for r in race_results
+                if isinstance(r, dict)
+                and r.get("laps") is not None
+                and str(r["laps"]).isdigit()
+            ),
             default=0,
         )
         if completed_laps <= 0:
@@ -404,7 +404,7 @@ def generate_season(
         checkpoints = compute_checkpoint_laps(completed_laps)
         resolver = build_race_driver_resolver(race_results, id_to_name, norm_name_to_id)
 
-        lap_results_by_num: Dict[int, Optional[List[Tuple[int, str]]]] = {}
+        lap_results_by_num: dict[int, list[tuple[int, str]] | None] = {}
         for lap_num in sorted(set(checkpoints.values())):
             lap_results_by_num[lap_num] = fetch_lap_standings_cached(
                 year=year,
@@ -452,29 +452,33 @@ def generate_season(
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     with open(output_path, "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
-        writer.writerow([
-            "Pilote",
-            "Rang",
-            "Qualification",
-            "Grille de départ",
-            "Tour 1",
-            "10%",
-            "50%",
-            "90%",
-            "Fin",
-        ])
+        writer.writerow(
+            [
+                "Pilote",
+                "Rang",
+                "Qualification",
+                "Grille de départ",
+                "Tour 1",
+                "10%",
+                "50%",
+                "90%",
+                "Fin",
+            ]
+        )
         for rank, did in enumerate(sorted_drivers, start=1):
-            writer.writerow([
-                id_to_name.get(did, did),
-                rank,
-                pts_qualif[did],
-                pts_grid[did],
-                pts_lap1[did] if has_laps else "",
-                pts_p10[did] if has_laps else "",
-                pts_p50[did] if has_laps else "",
-                pts_p90[did] if has_laps else "",
-                pts_finish[did],
-            ])
+            writer.writerow(
+                [
+                    id_to_name.get(did, did),
+                    rank,
+                    pts_qualif[did],
+                    pts_grid[did],
+                    pts_lap1[did] if has_laps else "",
+                    pts_p10[did] if has_laps else "",
+                    pts_p50[did] if has_laps else "",
+                    pts_p90[did] if has_laps else "",
+                    pts_finish[did],
+                ]
+            )
 
     meta = {
         "year": year,
@@ -488,13 +492,21 @@ def generate_season(
     return "generated", meta
 
 
-def main(argv: List[str]) -> int:
+def main(argv: list[str]) -> int:
     parser = argparse.ArgumentParser(
         description="Génère le classement par points aux moments clés de course (Qualif, Grille, Tour 1, 10%, 50%, 90%, Fin)."
     )
-    parser.add_argument("--years", default=None, help="Ex: '2024' ou '2020-2026'. Par défaut: toutes.")
+    parser.add_argument(
+        "--years",
+        default=None,
+        help="Ex: '2024' ou '2020-2026'. Par défaut: toutes.",
+    )
     parser.add_argument("--force", action="store_true", help="Ignore le cache CSV.")
-    parser.add_argument("--offline", action="store_true", help="N'appelle pas l'API Jolpica-F1 (utilise uniquement le cache local).")
+    parser.add_argument(
+        "--offline",
+        action="store_true",
+        help="N'appelle pas l'API Jolpica-F1 (utilise uniquement le cache local).",
+    )
     parser.add_argument("--yaml-dir", default="../../data/f1db/src/data")
     parser.add_argument("--config", default="./config/qualifications_points.json")
     parser.add_argument("--output-root", default="../../docs/data")
@@ -502,7 +514,9 @@ def main(argv: List[str]) -> int:
     args = parser.parse_args(argv)
 
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    resolve = lambda p: p if os.path.isabs(p) else os.path.normpath(os.path.join(script_dir, p))
+
+    def resolve(p: str) -> str:
+        return p if os.path.isabs(p) else os.path.normpath(os.path.join(script_dir, p))
 
     yaml_dir = resolve(args.yaml_dir)
     config_path = resolve(args.config)
@@ -529,7 +543,7 @@ def main(argv: List[str]) -> int:
 
     cache_count = 0
     gen_count = 0
-    index_years: List[dict] = []
+    index_years: list[dict[str, Any]] = []
 
     for year in years:
         out_csv = os.path.join(output_root, str(year), "checkpoints.csv")
@@ -549,7 +563,9 @@ def main(argv: List[str]) -> int:
             cache_count += 1
         elif status == "generated":
             gen_count += 1
-            print(f"Checkpoints générés pour {year} ({meta.get('racesWithLaps', 0)}/{meta.get('races', 0)} courses avec tours)")
+            print(
+                f"Checkpoints générés pour {year} ({meta.get('racesWithLaps', 0)}/{meta.get('races', 0)} courses avec tours)"
+            )
         if meta:
             index_years.append(meta)
 

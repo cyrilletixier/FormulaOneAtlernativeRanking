@@ -7,7 +7,6 @@ import os
 import sys
 from collections import defaultdict
 from dataclasses import dataclass
-from typing import Dict, Iterable, List, Tuple
 
 
 @dataclass(frozen=True)
@@ -16,23 +15,22 @@ class RaceCountAgg:
     count: int
 
 
-def iter_driver_csv_files(drivers_csv_dir: str) -> Iterable[Tuple[str, str]]:
+def iter_driver_csv_files(drivers_csv_dir: str) -> list[tuple[str, str]]:
     pattern = os.path.join(drivers_csv_dir, "*.csv")
+    out = []
     for path in glob.glob(pattern):
         driver_id = os.path.splitext(os.path.basename(path))[0]
-        yield driver_id, path
+        out.append((driver_id, path))
+    return out
 
 
 def aggregate_elo_by_race_count(
     *,
     drivers_csv_dir: str,
     min_entries: int = 1,
-) -> Dict[int, RaceCountAgg]:
-    """Calcule l'ELO moyen en fonction du nombre de courses disputées par le pilote
-    (1ère course, 2ème course, ..., Nème course de sa carrière).
-    """
-    totals: Dict[int, float] = defaultdict(float)
-    counts: Dict[int, int] = defaultdict(int)
+) -> dict[int, RaceCountAgg]:
+    totals: dict[int, float] = defaultdict(float)
+    counts: dict[int, int] = defaultdict(int)
 
     for _, path in iter_driver_csv_files(drivers_csv_dir):
         try:
@@ -57,7 +55,7 @@ def aggregate_elo_by_race_count(
         except Exception:
             continue
 
-    out: Dict[int, RaceCountAgg] = {}
+    out: dict[int, RaceCountAgg] = {}
     for race_index, total in totals.items():
         c = counts.get(race_index, 0)
         if c >= min_entries:
@@ -66,7 +64,7 @@ def aggregate_elo_by_race_count(
     return out
 
 
-def write_csv(out_file: str, agg: Dict[int, RaceCountAgg]) -> None:
+def write_csv(out_file: str, agg: dict[int, RaceCountAgg]) -> None:
     os.makedirs(os.path.dirname(out_file), exist_ok=True)
     with open(out_file, "w", encoding="utf-8", newline="") as f:
         w = csv.writer(f)
@@ -77,7 +75,7 @@ def write_csv(out_file: str, agg: Dict[int, RaceCountAgg]) -> None:
             w.writerow([race_count, f"{mean:.6f}", a.count])
 
 
-def main(argv: List[str]) -> int:
+def main(argv: list[str]) -> int:
     parser = argparse.ArgumentParser(
         description="Calcule l'ELO moyen par nombre de courses disputées à partir des CSV pilotes (docs/data/elo/drivers)."
     )

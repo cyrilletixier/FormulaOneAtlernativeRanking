@@ -1,0 +1,11 @@
+# ─── Configuration Ruff ───
+line-length = 100
+target-version = "py312"
+
+[lint]
+select = ["E", "F", "I", "UP", "B"]
+ignore = ["E501", "UP015"]
+
+[lint.per-file-ignores]
+"src/scripts/generate_*.py" = ["E402"]
+"tests/*.py" = ["INP001"]
