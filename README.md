@@ -1,40 +1,49 @@
-# FormulaOneAtlernativeRanking
-Alternative ranking with formula one results
+# FormulaOneAtlernativeRanking 🏎️
 
-## Mise à jour des données
+Classements alternatifs de Formule 1 (1950 – aujourd'hui) calculés à partir des données ouvertes de [f1db](https://github.com/f1db/f1db).
 
-Les classements sont calculés par les scripts de `src/scripts/` à partir des
-données du sous-module `data/f1db` (https://github.com/f1db/f1db).
+Le site est publié automatiquement sur **GitHub Pages** : <https://cyrilletixier.github.io/FormulaOneAtlernativeRanking/>
 
-- **Automatique** : le workflow « Mise à jour des données »
-  (`.github/workflows/update-data.yml`) tourne chaque lundi soir, régénère les
-  classements et ouvre une pull request `auto/data-update` s'il y a du nouveau.
-  Il peut aussi être lancé à la main depuis l'onglet Actions.
-  Réglage requis (une fois) : Settings → Actions → General →
-  « Allow GitHub Actions to create and approve pull requests ».
-- **À la main** : `pip install -r requirements.txt` puis
-  `bash src/scripts/updatedata.sh`.
+## 📊 Classements disponibles
 
-Chaque générateur compare l'empreinte (`.hash`) de ses sources et ne recalcule
-que ce qui a changé.
+| Onglet / Page | Description | Méthode de calcul |
+|---|---|---|
+| **Classement Historique** | Points cumulés de tous les championnats du monde (barème 25-18-15…-1) | `src/scripts/generate_historique.py` |
+| **Qualifications** | Championnat du monde des qualifications (Q3 puis Q2/Q1 avant 2006) | `src/scripts/generate_qualifications.py` |
+| **Moments de course** | Points cumulés à chaque instant clé : Qualif → Grille → Tour 1 → 10% → 50% → 90% → Arrivée | `src/scripts/generate_checkpoints.py` (données tour par tour depuis 1996 via Jolpica-F1) |
+| **Sprint** | Championnat du monde Sprint (2021 – aujourd'hui) avec décompte des positions | `src/scripts/generate_sprint.py` |
+| **2ème Pilote** | Championnat des écuries classées à la position de leur 2e pilote | `src/scripts/generate_deuxieme_pilote.py` |
+| **ELO Pilotes** | Force ELO de chaque pilote (tous-vs-tous, échelle 600, hors DNF mécaniques) + courbes par âge et par nombre de courses | `src/scripts/generate_elo_pilotes.py`, `generate_elo_by_age.py`, `generate_elo_by_races.py` |
+| **ELO Constructeurs** | Force ELO des écuries comparées aux n−2 concurrents extérieurs (hors DNF pilote) | `src/scripts/generate_elo_constructeurs.py` |
+| **Champions** | Tableau récapitulatif de tous les champions par année | `src/scripts/generate_champions_table.py` |
 
-## Classement Sprint
+## 🚀 Installation & Mise à jour des données
 
-Onglet « Sprint » : championnat du monde calculé uniquement sur les courses
-sprint (`sprint-race-results.yml` de f1db, 2021 → aujourd'hui).
+### Prérequis
+- Python ≥ 3.10
+- Git
 
-**Méthode de calcul** (`src/scripts/generate_sprint.py`) :
+### Installation
+```bash
+git clone --recurse-submodules https://github.com/cyrilletixier/FormulaOneAtlernativeRanking.git
+cd FormulaOneAtlernativeRanking
+pip install -r requirements.txt
+```
 
-1. On ne garde que les courses sprint de la saison (pas les qualifications sprint).
-2. Chaque pilote cumule les points réellement distribués en sprint
-   (3-2-1 en 2021, 8-7-6-5-4-3-2-1 depuis 2022).
-3. Départage des égalités comme au classement officiel : le plus grand nombre de
-   victoires en sprint, puis de 2es places, de 3es places, etc.
-4. Si l'égalité subsiste après tout le décompte (cas tranché par la FIA, ce que
-   les données ne permettent pas de reproduire), on retient le pilote qui a
-   obtenu en premier son meilleur résultat, puis l'ordre alphabétique.
+### Régénérer l'ensemble des classements
+```bash
+bash src/scripts/updatedata.sh
+```
 
-Sorties : `docs/data/<année>/sprint.csv` (une ligne par pilote, une colonne par
-sprint), `docs/data/sprint/index.json` (champion par année) et la colonne
-« champion sprint » de `docs/data/champions.csv`. Le script est lancé par
-`updatedata.sh`, donc par le workflow GitHub Actions hebdomadaire.
+### Qualité du code & Tests
+```bash
+# Lint
+ruff check src/scripts
+
+# Tests unitaires
+pytest tests/
+```
+
+## Mise à jour automatique
+
+Le workflow `.github/workflows/update-data.yml` tourne chaque lundi soir, met à jour le sous-module `f1db`, régénère les CSV qui ont changé (via empreintes SHA-256 `.hash`) et ouvre automatiquement une Pull Request.

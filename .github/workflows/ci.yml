@@ -1,0 +1,35 @@
+name: Lint & Tests Python
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  python-quality:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer les dépendances
+        run: |
+          pip install -r requirements.txt
+          pip install ruff pytest
+
+      - name: Lint (ruff check)
+        run: ruff check src/scripts
+
+      - name: Tests unitaires (pytest)
+        run: pytest tests/
