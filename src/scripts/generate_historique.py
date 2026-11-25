@@ -1,10 +1,8 @@
 from __future__ import annotations
 
-import argparse
 import csv
 import glob
 import hashlib
-import json
 import os
 import sys
 from collections import defaultdict
@@ -34,7 +32,8 @@ def get_available_years(yaml_dir: str) -> list[str]:
         return []
 
     return sorted(
-        d for d in os.listdir(seasons_dir)
+        d
+        for d in os.listdir(seasons_dir)
         if os.path.isdir(os.path.join(seasons_dir, d)) and d.isdigit()
     )
 
