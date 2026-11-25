@@ -9,7 +9,6 @@ from collections import defaultdict
 from typing import Any
 
 import yaml
-
 from elo.csv_out import ensure_dir, write_driver_csv
 from elo.elo_math import compute_constructor_course_update
 from elo.f1db_io import (
