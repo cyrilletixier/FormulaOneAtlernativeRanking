@@ -8,7 +8,7 @@ import sys
 from collections import defaultdict
 from dataclasses import dataclass
 from datetime import date
-from typing import Dict, Iterable, List, Optional, Tuple
+from typing import Any
 
 import yaml
 
@@ -19,7 +19,7 @@ class AgeAgg:
     count: int
 
 
-def parse_iso_date(value) -> Optional[date]:
+def parse_iso_date(value: Any) -> date | None:
     if isinstance(value, date):
         return value
 
@@ -40,9 +40,9 @@ def compute_age_years(dob: date, on: date) -> int:
     return years
 
 
-def load_driver_birth_dates(yaml_dir: str) -> Dict[str, date]:
+def load_driver_birth_dates(yaml_dir: str) -> dict[str, date]:
     drivers_dir = os.path.join(yaml_dir, "drivers")
-    out: Dict[str, date] = {}
+    out: dict[str, date] = {}
     for path in glob.glob(os.path.join(drivers_dir, "*.yml")):
         try:
             with open(path, "r", encoding="utf-8") as f:
@@ -58,22 +58,24 @@ def load_driver_birth_dates(yaml_dir: str) -> Dict[str, date]:
     return out
 
 
-def iter_driver_csv_files(drivers_csv_dir: str) -> Iterable[Tuple[str, str]]:
+def iter_driver_csv_files(drivers_csv_dir: str) -> list[tuple[str, str]]:
     pattern = os.path.join(drivers_csv_dir, "*.csv")
+    out = []
     for path in glob.glob(pattern):
         driver_id = os.path.splitext(os.path.basename(path))[0]
-        yield driver_id, path
+        out.append((driver_id, path))
+    return out
 
 
 def aggregate_elo_by_age(
     *,
     drivers_csv_dir: str,
-    driver_id_to_dob: Dict[str, date],
+    driver_id_to_dob: dict[str, date],
     min_age: int,
     max_age: int,
-) -> Dict[int, AgeAgg]:
-    totals: Dict[int, float] = defaultdict(float)
-    counts: Dict[int, int] = defaultdict(int)
+) -> dict[int, AgeAgg]:
+    totals: dict[int, float] = defaultdict(float)
+    counts: dict[int, int] = defaultdict(int)
 
     for driver_id, path in iter_driver_csv_files(drivers_csv_dir):
         dob = driver_id_to_dob.get(driver_id)
@@ -102,7 +104,7 @@ def aggregate_elo_by_age(
         except Exception:
             continue
 
-    out: Dict[int, AgeAgg] = {}
+    out: dict[int, AgeAgg] = {}
     for age, total in totals.items():
         c = counts.get(age, 0)
         if c:
@@ -111,7 +113,7 @@ def aggregate_elo_by_age(
     return out
 
 
-def write_csv(out_file: str, agg: Dict[int, AgeAgg]) -> None:
+def write_csv(out_file: str, agg: dict[int, AgeAgg]) -> None:
     os.makedirs(os.path.dirname(out_file), exist_ok=True)
     with open(out_file, "w", encoding="utf-8", newline="") as f:
         w = csv.writer(f)
@@ -122,7 +124,7 @@ def write_csv(out_file: str, agg: Dict[int, AgeAgg]) -> None:
             w.writerow([age, f"{mean:.6f}", a.count])
 
 
-def main(argv: List[str]) -> int:
+def main(argv: list[str]) -> int:
     parser = argparse.ArgumentParser(
         description="Calcule l'ELO moyen par âge à partir des CSV pilotes (docs/data/elo/drivers) et des dates de naissance f1db (drivers/*.yml)."
     )

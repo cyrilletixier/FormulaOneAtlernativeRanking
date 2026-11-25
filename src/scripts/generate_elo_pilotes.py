@@ -1,15 +1,20 @@
 from __future__ import annotations
 
 import argparse
+import csv
+import glob
+import hashlib
 import json
 import os
 import sys
-import yaml
 from collections import defaultdict
-from typing import Dict, List, Optional
+from dataclasses import dataclass
+from typing import Any
+
+import yaml
 
 from elo.csv_out import write_driver_csv, write_race_csv
-from elo.elo_math import compute_course_update
+from elo.elo_math import compute_course_update, compute_constructor_course_update
 from elo.f1db_io import (
     compute_source_hash,
     get_available_years,
@@ -18,16 +23,22 @@ from elo.f1db_io import (
     load_constructor_names,
     load_driver_names,
     load_race_data,
+    type RaceMeta,
 )
-from elo.ranking import classify_dnf, dedupe_best_by_driver, rank_entries
+from elo.ranking import (
+    BOTTOM_TIER_STATUSES,
+    classify_dnf,
+    dedupe_best_by_driver,
+    rank_entries,
+)
 
 
-def load_config(config_path: str) -> dict:
+def load_config(config_path: str) -> dict[str, Any]:
     with open(config_path, "r", encoding="utf-8") as f:
         return yaml.safe_load(f) or {}
 
 
-def parse_years_arg(years_arg: Optional[str], yaml_dir: str) -> List[int]:
+def parse_years_arg(years_arg: str | None, yaml_dir: str) -> list[int]:
     available = [int(y) for y in get_available_years(yaml_dir)]
     if not years_arg:
         return available
@@ -51,7 +62,7 @@ def parse_years_arg(years_arg: Optional[str], yaml_dir: str) -> List[int]:
     return [int(years_arg)]
 
 
-def should_use_cache(hash_file: str, expected: dict, output_root: str) -> bool:
+def should_use_cache(hash_file: str, expected: dict[str, Any], output_root: str) -> bool:
     if not os.path.exists(hash_file):
         return False
     if not os.path.exists(output_root):
@@ -66,7 +77,7 @@ def should_use_cache(hash_file: str, expected: dict, output_root: str) -> bool:
     return prev == expected
 
 
-def save_cache(hash_file: str, value: dict) -> None:
+def save_cache(hash_file: str, value: dict[str, Any]) -> None:
     os.makedirs(os.path.dirname(hash_file), exist_ok=True)
     with open(hash_file, "w", encoding="utf-8") as f:
         yaml.safe_dump(value, f)
@@ -87,8 +98,8 @@ def build_cache_value(
     initial_elo: float,
     scale: float,
     exclude_mechanical_dnf: bool,
-    years: List[int],
-) -> dict:
+    years: list[int],
+) -> dict[str, Any]:
     return {
         "source_hash": source_hash,
         "script_hash": script_hash,
@@ -103,13 +114,13 @@ def build_cache_value(
 def process_one_race(
     *,
     yaml_dir: str,
-    meta,
+    meta: RaceMeta,
     career_race_number: int,
-    ratings: Dict[str, float],
-    driver_rows: Dict[str, List[dict]],
-    races_by_year: Dict[int, List[dict]],
-    driver_id_to_name: Dict[str, str],
-    constructor_id_to_name: Dict[str, str],
+    ratings: dict[str, float],
+    driver_rows: dict[str, list[dict[str, Any]]],
+    races_by_year: dict[int, list[dict[str, Any]]],
+    driver_id_to_name: dict[str, str],
+    constructor_id_to_name: dict[str, str],
     output_root: str,
     k: float,
     initial_elo: float,
@@ -128,8 +139,8 @@ def process_one_race(
 
     ranked = rank_entries(entries)
 
-    for re in ranked:
-        ratings.setdefault(re.entry.driver_id, initial_elo)
+    for re_entry in ranked:
+        ratings.setdefault(re_entry.entry.driver_id, initial_elo)
 
     elo_rows, _ = compute_course_update(
         ranked,
@@ -173,12 +184,12 @@ def process_one_race(
     )
 
     n = len(ranked)
-    for re in ranked:
-        d = re.entry.driver_id
+    for re_entry in ranked:
+        d = re_entry.entry.driver_id
         er = elo_rows.get(d)
         if er is None:
             continue
-        constructor_id = re.entry.constructor_id or ""
+        constructor_id = re_entry.entry.constructor_id or ""
         driver_rows[d].append(
             {
                 "date": meta.date,
@@ -187,9 +198,13 @@ def process_one_race(
                 "grandPrixId": meta.grand_prix_id,
                 "careerRaceNumber": career_race_number,
                 "constructorId": constructor_id,
-                "constructorName": constructor_id_to_name.get(constructor_id, constructor_id) if constructor_id else "",
-                "positionRaw": re.entry.position_raw,
-                "laps": "" if re.entry.laps is None else re.entry.laps,
+                "constructorName": constructor_id_to_name.get(
+                    constructor_id, constructor_id
+                )
+                if constructor_id
+                else "",
+                "positionRaw": re_entry.entry.position_raw,
+                "laps": "" if re_entry.entry.laps is None else re_entry.entry.laps,
                 "nParticipants": n,
                 "eloBefore": round(er.elo_before, 6),
                 "eloAfter": round(er.elo_after, 6),
@@ -204,18 +219,18 @@ def process_one_race(
 def generate_all(
     *,
     yaml_dir: str,
-    races,
-    driver_id_to_name: Dict[str, str],
-    constructor_id_to_name: Dict[str, str],
+    races: list[RaceMeta],
+    driver_id_to_name: dict[str, str],
+    constructor_id_to_name: dict[str, str],
     output_root: str,
     k: float,
     initial_elo: float,
     scale: float,
     exclude_mechanical_dnf: bool,
 ) -> None:
-    ratings: Dict[str, float] = {}
-    driver_rows: Dict[str, List[dict]] = defaultdict(list)
-    races_by_year: Dict[int, List[dict]] = defaultdict(list)
+    ratings: dict[str, float] = {}
+    driver_rows: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    races_by_year: dict[int, list[dict[str, Any]]] = defaultdict(list)
 
     career_race_number = 0
     for meta in races:
@@ -256,8 +271,7 @@ def generate_all(
             for driver_id in sorted(driver_rows.keys())
         ],
         "racesByYear": {
-            str(year): races_by_year[year]
-            for year in sorted(races_by_year.keys())
+            str(year): races_by_year[year] for year in sorted(races_by_year.keys())
         },
     }
 
@@ -266,7 +280,7 @@ def generate_all(
         json.dump(index_payload, f, ensure_ascii=False, indent=2)
 
 
-def main(argv: List[str]) -> int:
+def main(argv: list[str]) -> int:
     parser = argparse.ArgumentParser(
         description="Calcule un ELO par pilote (tous-vs-tous par course) à partir de f1db YAML."
     )
@@ -311,7 +325,9 @@ def main(argv: List[str]) -> int:
         years = parse_years_arg(args.years, yaml_dir)
         races = iter_races(yaml_dir, years)
         if not races:
-            print("Aucune course trouvée (vérifie --yaml-dir/--years).", file=sys.stderr)
+            print(
+                "Aucune course trouvée (vérifie --yaml-dir/--years).", file=sys.stderr
+            )
             return 2
 
         script_hash = get_file_hash(__file__) or ""
