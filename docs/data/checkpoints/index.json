@@ -1,0 +1,479 @@
+{
+  "lapDataMinYear": 1996,
+  "pointsScale": {
+    "1": 25,
+    "2": 18,
+    "3": 15,
+    "4": 12,
+    "5": 10,
+    "6": 8,
+    "7": 6,
+    "8": 4,
+    "9": 2,
+    "10": 1
+  },
+  "years": [
+    {
+      "year": 1950,
+      "races": 7,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1951,
+      "races": 8,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1952,
+      "races": 8,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1953,
+      "races": 9,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1954,
+      "races": 9,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1955,
+      "races": 7,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1956,
+      "races": 8,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1957,
+      "races": 8,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1958,
+      "races": 11,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1959,
+      "races": 9,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1960,
+      "races": 10,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1961,
+      "races": 8,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1962,
+      "races": 9,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1963,
+      "races": 10,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1964,
+      "races": 10,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1965,
+      "races": 10,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1966,
+      "races": 9,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1967,
+      "races": 11,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1968,
+      "races": 12,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1969,
+      "races": 11,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1970,
+      "races": 13,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1971,
+      "races": 11,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1972,
+      "races": 12,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1973,
+      "races": 15,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1974,
+      "races": 15,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1975,
+      "races": 14,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1976,
+      "races": 16,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1977,
+      "races": 17,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1978,
+      "races": 16,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1979,
+      "races": 15,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1980,
+      "races": 14,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1981,
+      "races": 15,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1982,
+      "races": 16,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1983,
+      "races": 15,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1984,
+      "races": 16,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1985,
+      "races": 16,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1986,
+      "races": 16,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1987,
+      "races": 16,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1988,
+      "races": 16,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1989,
+      "races": 16,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1990,
+      "races": 16,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1991,
+      "races": 16,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1992,
+      "races": 16,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1993,
+      "races": 16,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1994,
+      "races": 16,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1995,
+      "races": 17,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 1996,
+      "races": 16,
+      "racesWithLaps": 16,
+      "hasLapData": true
+    },
+    {
+      "year": 1997,
+      "races": 17,
+      "racesWithLaps": 17,
+      "hasLapData": true
+    },
+    {
+      "year": 1998,
+      "races": 16,
+      "racesWithLaps": 16,
+      "hasLapData": true
+    },
+    {
+      "year": 1999,
+      "races": 16,
+      "racesWithLaps": 16,
+      "hasLapData": true
+    },
+    {
+      "year": 2000,
+      "races": 17,
+      "racesWithLaps": 17,
+      "hasLapData": true
+    },
+    {
+      "year": 2001,
+      "races": 17,
+      "racesWithLaps": 17,
+      "hasLapData": true
+    },
+    {
+      "year": 2002,
+      "races": 17,
+      "racesWithLaps": 17,
+      "hasLapData": true
+    },
+    {
+      "year": 2003,
+      "races": 16,
+      "racesWithLaps": 9,
+      "hasLapData": true
+    },
+    {
+      "year": 2004,
+      "races": 18,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 2005,
+      "races": 19,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 2006,
+      "races": 18,
+      "racesWithLaps": 4,
+      "hasLapData": true
+    },
+    {
+      "year": 2007,
+      "races": 17,
+      "racesWithLaps": 17,
+      "hasLapData": true
+    },
+    {
+      "year": 2008,
+      "races": 18,
+      "racesWithLaps": 18,
+      "hasLapData": true
+    },
+    {
+      "year": 2009,
+      "races": 17,
+      "racesWithLaps": 17,
+      "hasLapData": true
+    },
+    {
+      "year": 2010,
+      "races": 19,
+      "racesWithLaps": 19,
+      "hasLapData": true
+    },
+    {
+      "year": 2011,
+      "races": 19,
+      "racesWithLaps": 19,
+      "hasLapData": true
+    },
+    {
+      "year": 2012,
+      "races": 20,
+      "racesWithLaps": 20,
+      "hasLapData": true
+    },
+    {
+      "year": 2013,
+      "races": 19,
+      "racesWithLaps": 12,
+      "hasLapData": true
+    },
+    {
+      "year": 2014,
+      "races": 19,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 2015,
+      "races": 19,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 2016,
+      "races": 21,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 2017,
+      "races": 20,
+      "racesWithLaps": 14,
+      "hasLapData": true
+    },
+    {
+      "year": 2018,
+      "races": 21,
+      "racesWithLaps": 21,
+      "hasLapData": true
+    },
+    {
+      "year": 2019,
+      "races": 21,
+      "racesWithLaps": 21,
+      "hasLapData": true
+    },
+    {
+      "year": 2020,
+      "races": 17,
+      "racesWithLaps": 17,
+      "hasLapData": true
+    },
+    {
+      "year": 2021,
+      "races": 22,
+      "racesWithLaps": 22,
+      "hasLapData": true
+    },
+    {
+      "year": 2022,
+      "races": 22,
+      "racesWithLaps": 22,
+      "hasLapData": true
+    },
+    {
+      "year": 2023,
+      "races": 22,
+      "racesWithLaps": 9,
+      "hasLapData": true
+    },
+    {
+      "year": 2024,
+      "races": 24,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 2025,
+      "races": 24,
+      "racesWithLaps": 0,
+      "hasLapData": false
+    },
+    {
+      "year": 2026,
+      "races": 21,
+      "racesWithLaps": 20,
+      "hasLapData": true
+    }
+  ]
+}
