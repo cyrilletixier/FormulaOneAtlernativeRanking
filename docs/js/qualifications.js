@@ -8,17 +8,23 @@ document.addEventListener('DOMContentLoaded', () => {
         createDriverCell,
         createRankCell,
         renderStatusRow,
+        normalizeSearch,
+        debounce,
     } = globalThis.F1Utils;
 
     const yearSelector = document.getElementById('qualif-year');
     const prevBtn = document.getElementById('qualif-prev');
     const nextBtn = document.getElementById('qualif-next');
+    const searchInput = document.getElementById('qualif-search');
     const tableBody = document.getElementById('qualifications-body');
     const tableHead = document.querySelector('#qualifications-table thead tr');
 
     let driverNameToId = new Map();
     let eloIndexData = null;
     let years = [];
+    let currentHeader = [];
+    let currentRows = [];
+    let searchTerm = '';
     let initialized = false;
     let loadSeq = 0;
 
@@ -26,7 +32,6 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!prevBtn || !nextBtn) return;
         const idx = yearSelector.selectedIndex;
         const n = yearSelector.options.length;
-        // Années triées de la plus récente à la plus ancienne : « ‹ » = année précédente (plus ancienne)
         prevBtn.disabled = idx < 0 || idx >= n - 1;
         nextBtn.disabled = idx <= 0;
     }
@@ -36,6 +41,60 @@ document.addEventListener('DOMContentLoaded', () => {
         if (idx >= 0 && idx < yearSelector.options.length) {
             yearSelector.selectedIndex = idx;
             yearSelector.dispatchEvent(new Event('change'));
+        }
+    }
+
+    function renderTable() {
+        if (!currentHeader.length) return;
+
+        const headFrag = document.createDocumentFragment();
+        currentHeader.forEach(column => {
+            const th = document.createElement('th');
+            th.textContent = column;
+            headFrag.appendChild(th);
+        });
+        tableHead.replaceChildren(headFrag);
+
+        const needle = normalizeSearch(searchTerm);
+        const idxDriverName = currentHeader.indexOf('Pilote');
+        const idxRank = currentHeader.indexOf('Rang');
+        const idxPoints = currentHeader.indexOf('Points');
+
+        const bodyFrag = document.createDocumentFragment();
+        let displayed = 0;
+
+        for (const entry of currentRows) {
+            if (needle && !entry.searchKey.includes(needle)) continue;
+            const row = entry.cells;
+            const tr = document.createElement('tr');
+            for (let j = 0; j < currentHeader.length; j++) {
+                const cell = row[j] || '';
+                if (j === idxDriverName) {
+                    tr.appendChild(createDriverCell(cell, driverNameToId));
+                } else if (j === idxRank) {
+                    tr.appendChild(createRankCell(cell));
+                } else {
+                    const td = document.createElement('td');
+                    if (j === idxPoints) {
+                        td.className = 'points-cell';
+                        td.textContent = cell;
+                    } else if (cell === '' || cell === '0') {
+                        td.className = 'cell-empty';
+                        td.textContent = cell === '' ? '·' : '0';
+                    } else {
+                        td.textContent = cell;
+                    }
+                    tr.appendChild(td);
+                }
+            }
+            bodyFrag.appendChild(tr);
+            displayed++;
+        }
+
+        if (displayed === 0) {
+            renderStatusRow(tableBody, currentHeader.length, 'Aucun pilote trouvé.');
+        } else {
+            tableBody.replaceChildren(bodyFrag);
         }
     }
 
@@ -57,47 +116,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 header = reordered.header;
                 rows = reordered.rows;
 
-                const idxDriverName = header.indexOf('Pilote');
-                const idxRank = header.indexOf('Rang');
-                const idxPoints = header.indexOf('Points');
+                currentHeader = header;
+                currentRows = rows.slice(1).map(cells => ({
+                    cells,
+                    searchKey: normalizeSearch(cells[0] || '')
+                }));
 
-                const headFrag = document.createDocumentFragment();
-                header.forEach(column => {
-                    const th = document.createElement('th');
-                    th.textContent = column;
-                    headFrag.appendChild(th);
-                });
-                tableHead.replaceChildren(headFrag);
-
-                const bodyFrag = document.createDocumentFragment();
-                for (let i = 1; i < rows.length; i++) {
-                    const row = rows[i];
-                    if (row.length < 3) continue;
-
-                    const tr = document.createElement('tr');
-                    for (let j = 0; j < header.length; j++) {
-                        const cell = row[j] || '';
-                        if (j === idxDriverName) {
-                            tr.appendChild(createDriverCell(cell, driverNameToId));
-                        } else if (j === idxRank) {
-                            tr.appendChild(createRankCell(cell));
-                        } else {
-                            const td = document.createElement('td');
-                            if (j === idxPoints) {
-                                td.className = 'points-cell';
-                                td.textContent = cell;
-                            } else if (cell === '' || cell === '0') {
-                                td.className = 'cell-empty';
-                                td.textContent = cell === '' ? '·' : '0';
-                            } else {
-                                td.textContent = cell;
-                            }
-                            tr.appendChild(td);
-                        }
-                    }
-                    bodyFrag.appendChild(tr);
-                }
-                tableBody.replaceChildren(bodyFrag);
+                renderTable();
             })
             .catch(error => {
                 if (seq !== loadSeq) return;
@@ -119,7 +144,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const firstLine = data.split(/\r?\n/, 1)[0] || '';
                 if (!firstLine) return;
 
-                years = firstLine.split(',').slice(3).reverse(); // Plus récent en premier
+                years = firstLine.split(',').slice(3).reverse();
                 const frag = document.createDocumentFragment();
                 for (const year of years) {
                     const option = document.createElement('option');
@@ -144,6 +169,13 @@ document.addEventListener('DOMContentLoaded', () => {
         loadQualificationsData(yearSelector.value);
         updateNavButtons();
     });
+
+    if (searchInput) {
+        searchInput.addEventListener('input', debounce(() => {
+            searchTerm = searchInput.value;
+            renderTable();
+        }, 120));
+    }
 
     if (prevBtn) prevBtn.addEventListener('click', () => step(+1));
     if (nextBtn) nextBtn.addEventListener('click', () => step(-1));
