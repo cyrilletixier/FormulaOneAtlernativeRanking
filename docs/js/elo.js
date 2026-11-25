@@ -33,29 +33,31 @@ function addGridAndAxes(svg, pad, width, height, minY, maxY, yScale) {
     svg.appendChild(axis);
 }
 
-function parseAgeCurve(csvText) {
+function parseMeanEloCurve(csvText, xColumnName) {
     const rows = globalThis.F1Utils.parseCsv(csvText);
     if (!rows.length) return [];
 
     const header = rows[0];
-    const idxAge = header.indexOf('age');
+    const idxX = header.indexOf(xColumnName);
     const idxMean = header.indexOf('meanElo');
-    if (idxAge < 0 || idxMean < 0) return [];
+    const idxEntries = header.indexOf('nEntries');
+    if (idxX < 0 || idxMean < 0) return [];
 
     const points = [];
     for (let i = 1; i < rows.length; i++) {
         const r = rows[i];
-        const age = Number.parseInt(r[idxAge] || '', 10);
+        const x = Number.parseInt(r[idxX] || '', 10);
         const mean = Number.parseFloat(r[idxMean] || '');
-        if (!Number.isFinite(age) || !Number.isFinite(mean)) continue;
-        points.push({ age, mean });
+        const nEntries = idxEntries >= 0 ? Number.parseInt(r[idxEntries] || '', 10) : Number.NaN;
+        if (!Number.isFinite(x) || !Number.isFinite(mean)) continue;
+        points.push({ x, mean, nEntries: Number.isFinite(nEntries) ? nEntries : null });
     }
 
-    points.sort((a, b) => a.age - b.age);
+    points.sort((a, b) => a.x - b.x);
     return points;
 }
 
-function renderAgeChart(container, tooltip, points) {
+function renderMeanEloChart(container, tooltip, points, { formatAxisX, formatTooltipX }) {
     container.replaceChildren();
     if (tooltip) {
         tooltip.classList.remove('visible');
@@ -71,7 +73,7 @@ function renderAgeChart(container, tooltip, points) {
     const height = 340;
     const pad = 48;
 
-    const xs = points.map(p => p.age);
+    const xs = points.map(p => p.x);
     const ys = points.map(p => p.mean);
     const minX = Math.min(...xs);
     const maxX = Math.max(...xs);
@@ -96,10 +98,10 @@ function renderAgeChart(container, tooltip, points) {
     let d = '';
     for (let i = 0; i < points.length; i++) {
         const p = points[i];
-        const x = xScale(p.age);
+        const x = xScale(p.x);
         const y = yScale(p.mean);
         const first = i === 0;
-        const gap = first ? 1 : (p.age - points[i - 1].age);
+        const gap = first ? 1 : (p.x - points[i - 1].x);
         d += `${(first || gap > 1) ? 'M' : 'L'} ${x} ${y} `;
     }
 
@@ -112,7 +114,7 @@ function renderAgeChart(container, tooltip, points) {
     labelMinX.setAttribute('x', pad);
     labelMinX.setAttribute('y', height - 14);
     labelMinX.setAttribute('class', 'elo-label');
-    labelMinX.textContent = `${minX} ans`;
+    labelMinX.textContent = formatAxisX(minX);
     svg.appendChild(labelMinX);
 
     const labelMaxX = createSvgEl('text');
@@ -120,7 +122,7 @@ function renderAgeChart(container, tooltip, points) {
     labelMaxX.setAttribute('y', height - 14);
     labelMaxX.setAttribute('text-anchor', 'end');
     labelMaxX.setAttribute('class', 'elo-label');
-    labelMaxX.textContent = `${maxX} ans`;
+    labelMaxX.textContent = formatAxisX(maxX);
     svg.appendChild(labelMaxX);
 
     // Curseur interactif au survol
@@ -141,19 +143,22 @@ function renderAgeChart(container, tooltip, points) {
         const rect = svg.getBoundingClientRect();
         if (!rect.width) return;
         const svgX = ((evt.clientX - rect.left) / rect.width) * width;
-        const targetAge = minX + ((svgX - pad) / (width - 2 * pad)) * spanX;
+        const targetX = minX + ((svgX - pad) / (width - 2 * pad)) * spanX;
 
-        let closest = points[0];
-        let bestDist = Math.abs(points[0].age - targetAge);
-        for (let i = 1; i < points.length; i++) {
-            const dist = Math.abs(points[i].age - targetAge);
-            if (dist < bestDist) {
-                bestDist = dist;
-                closest = points[i];
-            }
+        // Recherche binaire du point le plus proche
+        let lo = 0;
+        let hi = points.length - 1;
+        while (lo < hi) {
+            const mid = (lo + hi) >> 1;
+            if (points[mid].x < targetX) lo = mid + 1;
+            else hi = mid;
+        }
+        let closest = points[lo];
+        if (lo > 0 && Math.abs(points[lo - 1].x - targetX) < Math.abs(closest.x - targetX)) {
+            closest = points[lo - 1];
         }
 
-        const cx = xScale(closest.age);
+        const cx = xScale(closest.x);
         const cy = yScale(closest.mean);
         hoverLine.setAttribute('x1', cx);
         hoverLine.setAttribute('x2', cx);
@@ -163,7 +168,10 @@ function renderAgeChart(container, tooltip, points) {
         hoverDot.style.display = '';
 
         if (tooltip) {
-            tooltip.innerHTML = `${closest.age} ans · ELO moyen <strong>${closest.mean.toFixed(2)}</strong>`;
+            const entriesPart = closest.nEntries !== null
+                ? ` (${closest.nEntries} pilote${closest.nEntries > 1 ? 's' : ''})`
+                : '';
+            tooltip.innerHTML = `${formatTooltipX(closest.x)}${entriesPart} · ELO moyen <strong>${closest.mean.toFixed(2)}</strong>`;
             tooltip.classList.add('visible');
         }
     });
@@ -189,6 +197,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const viewSelector = document.getElementById('elo-view');
     const ageButton = document.getElementById('elo-age-button');
+    const racesButton = document.getElementById('elo-races-button');
     const driverSelectorWrap = document.getElementById('elo-driver-selector');
     const driverSelector = document.getElementById('elo-driver');
     const yearSelectorWrap = document.getElementById('elo-year-selector');
@@ -198,9 +207,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const raceSelectorWrap = document.getElementById('elo-race-selector');
     const raceSelector = document.getElementById('elo-race');
 
-    const ageContainer = document.getElementById('elo-age-container');
-    const ageChart = document.getElementById('elo-age-chart');
-    const ageTooltip = document.getElementById('elo-age-tooltip');
+    const chartContainer = document.getElementById('elo-age-container');
+    const chartEl = document.getElementById('elo-age-chart');
+    const chartTooltip = document.getElementById('elo-age-tooltip');
     const tableContainer = document.getElementById('elo-table-container');
 
     const headRow = document.getElementById('elo-head-row');
@@ -215,13 +224,16 @@ document.addEventListener('DOMContentLoaded', () => {
         const isDriver = view === 'driver';
         const isRace = view === 'race';
         const isAge = view === 'age';
+        const isRaces = view === 'races';
+        const isChart = isAge || isRaces;
 
         driverSelectorWrap.style.display = isDriver ? '' : 'none';
         yearSelectorWrap.style.display = isRace ? '' : 'none';
         raceSelectorWrap.style.display = isRace ? '' : 'none';
-        if (ageContainer) ageContainer.style.display = isAge ? '' : 'none';
-        if (tableContainer) tableContainer.style.display = isAge ? 'none' : '';
+        if (chartContainer) chartContainer.style.display = isChart ? '' : 'none';
+        if (tableContainer) tableContainer.style.display = isChart ? 'none' : '';
         if (ageButton) ageButton.classList.toggle('active', isAge);
+        if (racesButton) racesButton.classList.toggle('active', isRaces);
     }
 
     function renderTable(csvText, { hideDriverDetails = false } = {}) {
@@ -308,18 +320,43 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function loadAgeCurve() {
         const seq = ++loadSeq;
-        if (!ageChart) return;
-        ageChart.textContent = 'Chargement du graphique…';
+        if (!chartEl) return;
+        chartEl.setAttribute('aria-label', 'Graphique ELO moyen par âge');
+        chartEl.textContent = 'Chargement du graphique…';
         fetchTextCached('data/elo/elo_by_age.csv')
             .then((t) => {
                 if (seq !== loadSeq) return;
-                const points = parseAgeCurve(t);
-                renderAgeChart(ageChart, ageTooltip, points);
+                const points = parseMeanEloCurve(t, 'age');
+                renderMeanEloChart(chartEl, chartTooltip, points, {
+                    formatAxisX: (v) => `${v} ans`,
+                    formatTooltipX: (v) => `${v} ans`,
+                });
             })
             .catch(err => {
                 if (seq !== loadSeq) return;
                 console.error('Erreur chargement ELO par âge:', err);
-                ageChart.textContent = 'Erreur de chargement.';
+                chartEl.textContent = 'Erreur de chargement.';
+            });
+    }
+
+    function loadRacesCurve() {
+        const seq = ++loadSeq;
+        if (!chartEl) return;
+        chartEl.setAttribute('aria-label', 'Graphique ELO moyen par nombre de courses');
+        chartEl.textContent = 'Chargement du graphique…';
+        fetchTextCached('data/elo/elo_by_races.csv')
+            .then((t) => {
+                if (seq !== loadSeq) return;
+                const points = parseMeanEloCurve(t, 'raceCount');
+                renderMeanEloChart(chartEl, chartTooltip, points, {
+                    formatAxisX: (v) => `${v} GP`,
+                    formatTooltipX: (v) => `${v}${v === 1 ? 'ère' : 'e'} course`,
+                });
+            })
+            .catch(err => {
+                if (seq !== loadSeq) return;
+                console.error('Erreur chargement ELO par nombre de courses:', err);
+                chartEl.textContent = 'Données non générées. Lancez « python3 src/scripts/generate_elo_by_races.py » (ou updatedata.sh).';
             });
     }
 
@@ -411,6 +448,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 populateYearsAndRaces();
                 if (viewSelector.value === 'age') {
                     loadAgeCurve();
+                } else if (viewSelector.value === 'races') {
+                    loadRacesCurve();
                 }
             })
             .catch(err => {
@@ -425,6 +464,8 @@ document.addEventListener('DOMContentLoaded', () => {
             if (driverSelector.value) loadDriver(driverSelector.value);
         } else if (viewSelector.value === 'age') {
             loadAgeCurve();
+        } else if (viewSelector.value === 'races') {
+            loadRacesCurve();
         } else if (yearSelector.value && raceSelector.value) {
             loadRace(yearSelector.value, raceSelector.value);
         }
@@ -433,6 +474,13 @@ document.addEventListener('DOMContentLoaded', () => {
     if (ageButton) {
         ageButton.addEventListener('click', () => {
             viewSelector.value = 'age';
+            viewSelector.dispatchEvent(new Event('change'));
+        });
+    }
+
+    if (racesButton) {
+        racesButton.addEventListener('click', () => {
+            viewSelector.value = 'races';
             viewSelector.dispatchEvent(new Event('change'));
         });
     }
